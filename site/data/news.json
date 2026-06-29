@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-29T10:30:03.690Z",
-  "previousGeneratedAt": "2026-06-29T10:16:09.188Z",
+  "generatedAt": "2026-06-29T16:11:39.280Z",
+  "previousGeneratedAt": "2026-06-29T10:30:03.690Z",
   "sourceWindowDays": 7,
   "sourceCount": 111,
-  "itemCount": 36,
+  "itemCount": 39,
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com"
@@ -270,6 +270,48 @@
         "prompt",
         "自动化",
         "agent"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmqzbkvm2008ysltjog7ffi8l",
+      "title": "Herdr：驻留在终端中的AI智能体多路复用器",
+      "title_en": "Herdr：驻留在终端中的代理多路复用器",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "permalink": "https://aihot.virxact.com/items/cmqzbkvm2008ysltjog7ffi8l",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-29T14:03:06.351Z",
+      "summary": "Herdr是一个驻留在终端中的AI智能体多路复用器，允许用户在单一终端界面内管理和切换多个AI智能体会话。",
+      "category": "ai-products",
+      "score": 71,
+      "selected": true,
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "界面",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmqz31dsn003usldyi61f0cgf",
+      "title": "OpenAI 报告：绘制欧洲 AI 劳动力机遇版图",
+      "title_en": "Mapping Europe's AI Workforce Opportunity",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "permalink": "https://aihot.virxact.com/items/cmqz31dsn003usldyi61f0cgf",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-06-29T07:00:00.000Z",
+      "summary": "OpenAI 发布新报告，分析 AI 对欧盟就业的影响，划定哪些职业面临自动化、增长或工作流程变化。",
+      "category": "paper",
+      "score": 62,
+      "selected": true,
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 9,
+      "editorialScore": 10,
+      "tags": [
+        "工作流",
+        "自动化"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -637,6 +679,27 @@
         "codex",
         "claude code",
         "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmqzdby9m00o8sltjugcnx002",
+      "title": "Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式",
+      "title_en": "Margot Van Laar是Anthropic应用AI团队的工程师。 她在Code with Claude大会上做了一场关于提示词工程实战的分享。 核心观点只有一个：我们很少从零写提示词，大部…",
+      "url": "https://x.com/berryxia/status/2071610700213191075",
+      "permalink": "https://aihot.virxact.com/items/cmqzdby9m00o8sltjugcnx002",
+      "source": "X：Berry Xia (@berryxia)",
+      "publishedAt": "2026-06-29T15:04:14.000Z",
+      "summary": "An anthropic应用AI工程师Margot Van Laar在Code with Claude分享提示词工程实战，核心观点：大部分时间在调试和维护已有生产提示词而非从零编写。两个场景：客服机器人维护中，用XML标签结构化清理，移除旧模型遗留的\"禁止列表\"指令（新模型会过度拟合），精确计算应调用工具，转人工决策需明确代价与收益；零售排班Agent从零构建时，拆成生成-评估-修复三个简单提示词更稳定，选用更强推理模型（Opus）。她反复强调：评估（Eval）是唯一严谨方式，没有评估就是碰运气。",
+      "category": "tip",
+      "score": 77,
+      "selected": true,
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "提示词",
+        "agent"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
