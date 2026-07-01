@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-30T14:43:32.871Z",
-  "previousGeneratedAt": "2026-06-30T10:01:38.602Z",
+  "generatedAt": "2026-07-01T04:54:18.003Z",
+  "previousGeneratedAt": "2026-06-30T14:43:32.871Z",
   "sourceWindowDays": 7,
-  "sourceCount": 108,
-  "itemCount": 36,
+  "sourceCount": 114,
+  "itemCount": 38,
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com"
@@ -29,6 +29,28 @@
         "配图",
         "图像",
         "3d"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmr0ucc880030slatw1gfkq2h",
+      "title": "Google DeepMind 发布 Nano Banana 2 Lite 和 Gemini Omni Flash",
+      "title_en": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash",
+      "permalink": "https://aihot.virxact.com/items/cmr0ucc880030slatw1gfkq2h",
+      "source": "Google DeepMind：Blog（RSS）",
+      "publishedAt": "2026-06-30T16:02:40.000Z",
+      "summary": "Google DeepMind 推出 Nano Banana 2 Lite（gemini-3.1-flash-lite-image），为 Nano Banana 系列速度最快、成本最低的图像模型，文本到图像输出仅需 4 秒，每 1K 分辨率图像成本 $0.034，已上线 Google AI Studio、Gemini API 及消费者产品（AI Mode in Search、Gemini app 等）。同时推出 Gemini Omni Flash（gemini-omni-flash-preview），支持高画质视频生成与对话式编辑，视频输出定价 $0.10/秒，面向开发者开放 API。",
+      "category": "ai-models",
+      "score": 70,
+      "selected": true,
+      "designCategory": "图像与视频",
+      "relevanceScore": 15,
+      "editorialScore": 18,
+      "tags": [
+        "视频生成",
+        "视频",
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -79,47 +101,27 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cmqsxg0qe0764slfui5djtfyx",
-      "title": "Causal-rCM：自回归视频扩散蒸馏的统一教师强制与自强制开源方案",
-      "title_en": "Causal-rCM： A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models",
-      "url": "https://arxiv.org/abs/2606.25473",
-      "permalink": "https://aihot.virxact.com/items/cmqsxg0qe0764slfui5djtfyx",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-06-24T00:00:00.000Z",
-      "summary": "Causal-rCM将扩散蒸馏框架rCM扩展至自回归视频扩散，提出教师强制（TF）与自强制（SF）互补训练范式，并发布统一开源算法与基础设施。通过自定义掩码FlashAttention-2 JVP内核，首次实现基于教师强制的连续时间一致性模型（sCM/MeanFlow）用于自回归视频扩散，收敛速度比离散时间版本快10倍。蒸馏后的2步因果Wan2.1-1.3B模型在仅1或2步采样下取得VBench-T2V分数84.63，仅使用合成数据即达到帧级和块级流式视频生成SOTA。该方法还应用于Cosmos 3全模态世界基础模型，实现动作条件生成的交互式世界模型。",
-      "category": "paper",
-      "score": 70,
+      "id": "cmr0wupt4007gsl403t7s6dbn",
+      "title": "ADK Go 2.0 发布：构建可靠的多智能体应用，新增基于图的工作流引擎、人工参与循环与动态编排",
+      "title_en": "Build reliable multi-agent applications with ADK Go 2.0. Discover our new graph-based workflow engine， built-in human-in-the-loop， and dynamic orchestration",
+      "url": "https://developers.googleblog.com/announcing-adk-go-20",
+      "permalink": "https://aihot.virxact.com/items/cmr0wupt4007gsl403t7s6dbn",
+      "source": "Google Developers Blog（RSS）",
+      "publishedAt": "2026-06-30T17:17:40.302Z",
+      "summary": "Agent Development Kit （ADK） for Go 2.0 发布，引入了一类基于图的工作流引擎，用于组合复杂多智能体应用。新版本内置人工参与循环（HITL）编排、使用纯 Go 代码的动态执行、以及指数退避重试等自动弹性特性。统一执行模型后，单智能体应用与复杂图均运行在同一运行时上，简化了遥测与状态持久化。",
+      "category": "ai-products",
+      "score": 67,
       "selected": true,
-      "designCategory": "图像与视频",
+      "designCategory": "工作流与 Agent",
       "relevanceScore": 12,
-      "editorialScore": 15,
+      "editorialScore": 13,
       "tags": [
-        "视频生成",
-        "交互",
-        "视频"
+        "工作流",
+        "workflow",
+        "agent",
+        "智能体"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmqr15pz20fjzslp5eps5gotw",
-      "title": "FastWan-QAD：单卡5090上1.8秒生成5秒视频",
-      "title_en": "（1/5） 5 seconds of video. 1.8s seconds of generation. One NVIDIA GeForce RTX 5090 on FastVideo. 🤯🚀…",
-      "url": "https://x.com/haoailab/status/2069493820732170695",
-      "permalink": "https://aihot.virxact.com/items/cmqr15pz20fjzslp5eps5gotw",
-      "source": "X：Sky Computing Lab (@haoailab)",
-      "publishedAt": "2026-06-23T18:52:30.000Z",
-      "summary": "Sky Computing Lab 发布 FastWan-QAD 视频生成模型系列，基于 FastVideo 的量化感知蒸馏（QAD）方案训练。在单张 NVIDIA GeForce RTX 5090 上，端到端生成一段 5 秒 480P 视频仅需 1.8 秒。模型、代码及博客已开源。",
-      "category": "ai-models",
-      "score": 73,
-      "selected": true,
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "视频生成",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmqtvqfrt07aksl0et0cawoue",
@@ -253,23 +255,25 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmr08dev204qjslkit52gdrur",
-      "title": "美团 LongCat 发布旗舰模型 LongCat-2.0",
-      "title_en": "The full model behind \"Owl Alpha\" on @OpenRouter is here🦉 Let's meet @Meituan_LongCat 's latest fla…",
-      "url": "https://x.com/SiliconFlowAI/status/2071831773076746715",
-      "permalink": "https://aihot.virxact.com/items/cmr08dev204qjslkit52gdrur",
-      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-      "publishedAt": "2026-06-30T05:42:42.000Z",
-      "summary": "美团 LongCat 推出旗舰模型 LongCat-2.0，采用 1.6T 参数 MoE 架构（约 48B 活跃参数），原生支持 1M 上下文窗口。定价为 Input Cache $0.015/1M tokens、Input $0.75/1M tokens、Output $2.95/1M tokens。模型专为 Agentic Coding 设计，包含三大技术：LSA 稀疏注意力实现高效 1M 扩展；Zero-Compute Experts 动态激活 33B-56B 参数/token，无算力浪费；MOPD 将专家分为 Agent / Reasoning / Interaction 三组，按任务门控路由。在 SWE-bench Pro 上取得 59.5 分，性能接近主流闭源模型。现已上线 SiliconFlow Day 0 服务。",
-      "category": "ai-models",
-      "score": 67,
+      "id": "cmr0wwa6g0085sl40xkkzeruy",
+      "title": "用 shot-scraper video 让 AI 智能体录制工作演示视频",
+      "title_en": "Have your agent record video demos of its work with shot-scraper video",
+      "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video",
+      "permalink": "https://aihot.virxact.com/items/cmr0wwa6g0085sl40xkkzeruy",
+      "source": "Simon Willison 博客",
+      "publishedAt": "2026-06-30T16:54:26.000Z",
+      "summary": "shot-scraper 1.10 新增 shot-scraper video 命令，支持通过 storyboard.yml 文件定义操作步骤，并利用 Playwright 录制浏览器视频。演示视频展示了 Datasette 中从粘贴的 CSV/TSV/JSON 数据创建新表的功能。该功能依赖 Playwright 1.61.0 新增的 screencast 机制，解决了此前视频开头白帧、宽度固定 800px 等问题。开发者 Simon Willison 强调，将 --help 输出设计得足够详细，可使编码 Agent 直接利用该命令生成演示视频。",
+      "category": "ai-products",
+      "score": 73,
       "selected": true,
       "designCategory": "产品与体验",
       "relevanceScore": 6,
       "editorialScore": 10,
       "tags": [
         "设计",
-        "agent"
+        "视频",
+        "agent",
+        "智能体"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
@@ -506,26 +510,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmqr6bnad0gw8slp5xmrffynm",
-      "title": "Runway推出Seedance 4K等三款新模型",
-      "title_en": "Seedance 4K. Seedance Mini. Kling 3.0 Turbo. Available now. The world's best models， in one place. …",
-      "url": "https://x.com/runwayml/status/2069535148450705517",
-      "permalink": "https://aihot.virxact.com/items/cmqr6bnad0gw8slp5xmrffynm",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-06-23T21:36:44.000Z",
-      "summary": "Seedance 4K。Seedance Mini。Kling 3.0 Turbo。现已推出。\n全球最佳模型，汇聚一处。\n\n使用优惠码 30RUNWAY，前三个月可享七折优惠。\n\n通过下方链接开始使用。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true,
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "runway"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmqykzeht02shslivflwhgdbx",
       "title": "分享两个Vibe Coding必备的实用Prompt：第一性原理与对抗式审查",
       "title_en": "分享2个Vibe Coding必备的超实用Prompt。",
@@ -588,6 +572,50 @@
         "codex",
         "claude code",
         "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmr1bxokg01eoslnlem278yfq",
+      "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
+      "title_en": "Anthropic偷偷在Claude Code中植入了隐形代码，只为识别中国用户。",
+      "url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
+      "permalink": "https://aihot.virxact.com/items/cmr1bxokg01eoslnlem278yfq",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-07-01T00:11:00.000Z",
+      "summary": "Anthropic在Claude Code中植入隐写术：读取本地时区（Asia/Shanghai或Asia/Urumqi）和ANTHROPIC_BASE_URL环境变量，与一份经base64+XOR（密钥91）加密的147个域名列表（含美团、字节跳动、月之暗面等）比对，识别中国用户。识别后，在请求发送前将系统提示词中日期字符串的单引号（U+0027）替换为其他Unicode字符，连字符改为斜杠，作为2-3比特分类标记传回服务器。该隐蔽行为被社区逆向发现后引发争议，被认为破坏用户信任。",
+      "category": "industry",
+      "score": 84,
+      "selected": true,
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "提示词",
+        "claude code"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmr0x7y97001yslb3tyb8w4ce",
+      "title": "Claude Code 入门：智能体循环",
+      "title_en": "Getting started with loops",
+      "url": "https://claude.com/blog/getting-started-with-loops",
+      "permalink": "https://aihot.virxact.com/items/cmr0x7y97001yslb3tyb8w4ce",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-06-30T17:28:28.530Z",
+      "summary": "Claude Code 团队将智能体循环定义为 agent 重复工作直到满足停止条件的过程，并划分出四种主要类型：turn-based 循环（用户提示触发，Claude 自行判断完成或需更多上下文）、goal-based 循环（通过 `/goal` 命令设定可验证完成标准与最大轮次）、time-based 循环（通过 `/loop` 按时间间隔重复执行，可用 `/schedule` 移至云端）、以及 proactive 循环（基于事件或计划自动运行，无人实时参与）。文章还介绍了如何编写 SKILL.md 文件将人工验证步骤编码，让 Claude 进行端到端自检，减少 turn-based 循环中的手动操作。",
+      "category": "tip",
+      "score": 72,
+      "selected": true,
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "claude code",
+        "agent",
+        "智能体",
+        "skill"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -742,6 +770,26 @@
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmr0x8nxp002gslb33ixw5j4z",
+      "title": "Apple Creator Studio 更新：更智能、更快速、更互联",
+      "title_en": "Apple Creator Studio gets smarter， faster， and more connected",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected",
+      "permalink": "https://aihot.virxact.com/items/cmr0x8nxp002gslb33ixw5j4z",
+      "source": "Apple：Newsroom（RSS）",
+      "publishedAt": "2026-06-30T16:59:24.233Z",
+      "summary": "Apple Creator Studio 推出多项 AI 增强更新。Final Cut Pro 新增 on-device AI 驱动的 Generate Captions（自动转录音频生成字幕）和 Edit Detection（自动检测剪辑点）。Mac 版加入 Auto Mask（自动识别皮肤、天空等主体）、增强的 Match Color 和 Advanced Trimming。支持将帧发送至 Pixelmator Pro 编辑，并在 Keynote、Pages、Numbers 中直接调用 Pixelmator Pro 修改图片。Logic Pro 新增 Grammy 制作人制作的 Producer Project 及 Chord ID 改进。订阅价 $12.99/月或 $129/年，新用户免费试用一个月，教育用户 $2.99/月。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true,
+      "designCategory": "行业观察",
+      "relevanceScore": 6,
+      "editorialScore": 6,
+      "tags": [
+        "creator"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "cmqzk693n002zslksfkrr5w2w",
