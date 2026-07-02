@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-02T09:32:21.427Z",
-  "previousGeneratedAt": "2026-07-02T06:52:38.753Z",
+  "generatedAt": "2026-07-02T14:29:28.456Z",
+  "previousGeneratedAt": "2026-07-02T09:32:21.427Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 63,
+  "itemCount": 65,
   "sourceCounts": {
     "X": 24,
     "网站": 36,
-    "公众号": 3
+    "公众号": 5
   },
   "source": {
     "name": "AI HOT",
@@ -83,30 +83,6 @@
         "视频生成",
         "设计",
         "工作流"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmr11il3z00sssldx7ykwrhfg",
-      "title": "Google 发布更快更便宜的图像生成器 Nano Banana 2 Lite",
-      "title_en": "Google introduces a faster， cheaper image generator with Nano Banana 2 Lite",
-      "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite",
-      "permalink": "https://aihot.virxact.com/items/cmr11il3z00sssldx7ykwrhfg",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-06-30T19:02:38.000Z",
-      "summary": "周二，Google 推出其自研 AI 图像和视频生成器最新版本 Nano Banana 2 Lite。该模型延迟大幅降低，可在4秒内生成图像，成本为每1000张图像0.034美元，针对高吞吐量工作流优化，现已通过 Google AI Studio、Gemini API 及 Gemini Enterprise Agent Platform 上线，并取代原 Nano Banana 成为\"遗留模型\"。同日，Google 还宣布扩大 Gemini Omni Flash 的发布范围，视频输出价格为每秒0.10美元，并展示了可将静态图像转为电商视频的演示应用 Omni Product Studio。",
-      "category": "ai-products",
-      "score": 57,
-      "selected": false,
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 21,
-      "editorialScore": 24,
-      "tags": [
-        "图像生成",
-        "视频生成",
-        "工作流",
-        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -227,6 +203,30 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmr3juaag0072slisyufl4hsh",
+      "title": "Arcads 将 Slack 变为 AI 广告工作室，支持 Claude 协作与多视频工具",
+      "title_en": "You can now create ads directly inside Slack. Arcads turns Slack into an AI ad studio that also res…",
+      "url": "https://x.com/rohanpaul_ai/status/2072671363266220374",
+      "permalink": "https://aihot.virxact.com/items/cmr3juaag0072slisyufl4hsh",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-07-02T13:18:56.000Z",
+      "summary": "Arcads 将 Slack 转化为 AI 广告工作室，用户可直接在 Slack 内创建广告、研究竞争对手并生成创意。支持 Claude Tag（@Claude 跨频道跨工具委派任务）和 MCP（让 Claude 从 Slack 安全调用 Arcads 技能）。同一界面可调用 Veo 3.1、Kling Motion Control、Nano Banana、Sora 2 Pro 等视频生成工具。官方宣布 Claude x Arcads in Slack 即日上线，用户可在 Slack DM 中获取病毒式广告。",
+      "category": "ai-products",
+      "score": 52,
+      "selected": false,
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 16,
+      "editorialScore": 19,
+      "tags": [
+        "视频生成",
+        "sora",
+        "界面",
+        "广告"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmr2t1n9h0b18sl8zqxn9r5nu",
       "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
       "title_en": "Skills for Design Engineers 作者 @emilkowalski 是知名设计工程师，曾在 Vercel、Linear 工作，也是 Sonner、Vaul 等流行组件的创建者。…",
@@ -251,30 +251,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmr12di2h00ynsldxdhj68eus",
-      "title": "Runway 推出 Gemini Omni Flash 视频生成编辑",
-      "title_en": "Generate and edit video with Gemini Omni Flash， now in Runway. Start with a prompt， image or video a…",
-      "url": "https://x.com/runwayml/status/2072038509267837214",
-      "permalink": "https://aihot.virxact.com/items/cmr12di2h00ynsldxdhj68eus",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-06-30T19:24:11.000Z",
-      "summary": "使用 Gemini Omni Flash 生成和编辑视频，现在已在 Runway 中上线。从提示词、图片或视频开始，创建你能想象到的任何内容。点击下方链接开始使用，或让 Agent 调用 Omni。",
-      "category": "ai-products",
-      "score": 49,
-      "selected": false,
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 16,
-      "editorialScore": 19,
-      "tags": [
-        "视频生成",
-        "runway",
-        "视频",
-        "提示词"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmr1xxa950334sl8zksg7fxhp",
       "title": "阿里云Happy Horse助力短片《CLOCKWORKS》获AI电影节亚军",
       "title_en": "🥈 2nd Place at the AI Film Festival Monaco Hackathon！ 🎬 Introducing 《CLOCKWORKS》 by Jeni To - a vi…",
@@ -297,6 +273,30 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmr3lfadp0031sl90k58m97l2",
+      "title": "Claude Code+Sonnet 5 十八分钟做出获奖级网站",
+      "title_en": "Damn！网页设计师的护城河，一夜之间又塌了一块。 只用 Claude Code 加 Sonnet 5，十八分钟就能做出获奖级的完整网站，从设计感到代码完成度全部拉满。 以前我们总说 AI 做的东西…",
+      "url": "https://x.com/AYi_AInotes/status/2072672905855389894",
+      "permalink": "https://aihot.virxact.com/items/cmr3lfadp0031sl90k58m97l2",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-07-02T13:25:03.000Z",
+      "summary": "推文指出，使用 Claude Code 加 Sonnet 5 仅 18 分钟就能做出获奖级的完整网站，设计与代码完成度均达到专业水准。Agent 能力提升后，复杂多步设计任务可稳定落地，质感跨越专业门槛。未来不会用 AI 的设计师将被会用的同行甩开，执行层价值加速坍缩，审美与判断力成为真正的硬通货。",
+      "category": "tip",
+      "score": 54,
+      "selected": false,
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 11,
+      "editorialScore": 15,
+      "tags": [
+        "设计师",
+        "设计",
+        "claude code",
+        "agent"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmr2sx3it0aytsl8zu2s12j8y",
@@ -343,28 +343,6 @@
         "创意",
         "图像",
         "prompt"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmr0zn6y800bqsldxkke5cwbw",
-      "title": "Google DeepMind 发布 Nano Banana 2 Lite 图像生成模型",
-      "title_en": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
-      "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet",
-      "permalink": "https://aihot.virxact.com/items/cmr0zn6y800bqsldxkke5cwbw",
-      "source": "Ars Technica：AI（RSS）",
-      "publishedAt": "2026-06-30T18:36:10.000Z",
-      "summary": "Google DeepMind 发布 Nano Banana 2 Lite（正式名 Gemini 3.1 Flash Lite Image），默认低思考模式下约4秒生成一张图像，标准 Nano Banana 需约20秒。API 价格为每1000张图像 $0.034，输入 token $0.25/1M，输出 token $1.50/1M，是 Nano Banana 2 的一半，输出成本为 Nano Banana Pro 的八分之一。用户 Arena.ai Elo 评分接近非 Lite 版本，但在文本处理、小字和角色一致性上较弱。所有输出图像均带有 SynthID 水印。即日起可通过 Google AI Studio、API 及 Gemini（选择 Flash-Lite 选项）使用。",
-      "category": "ai-models",
-      "score": 69,
-      "selected": false,
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "图像生成",
-        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -486,25 +464,26 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmr12gq5700zxsldxmd43l8ix",
-      "title": "Google NotebookLM 新增 TikTok 风格竖屏视频摘要功能",
-      "title_en": "Google's NotebookLM can sum up your research in a TikTok-style clip",
-      "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-      "permalink": "https://aihot.virxact.com/items/cmr12gq5700zxsldxmd43l8ix",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-06-30T19:24:51.000Z",
-      "summary": "Google NotebookLM 近日为 AI Ultra 和 Pro 订阅用户推出新功能：可基于用户上传的源文件自动生成 60 秒竖屏 AI 视频，并配上 AI 生成图像和旁白。官方示例以纸片剪贴画风格回顾澳大利亚对鸸鹋的战争。用户可在 NotebookLM 网页或 App 的 Studio 栏中选择\"Video\"→\"Short\"，指定或自定义主题后点击生成。此前 NotebookLM 已支持 AI 播客、电影风格视频和视觉解释器。该功能目前仅支持英语，免费用户将很快可用。",
-      "category": "ai-products",
-      "score": 50,
+      "id": "cmr3ko29800bcslisze1rjlz0",
+      "title": "可灵AI广告斩获戛纳金狮：两部作品获1银2铜",
+      "title_en": "戛纳金狮首设AI子赛道：可灵制作斩获1银2铜，它们为何打动评委？",
+      "url": "https://mp.weixin.qq.com/s/3yZDEheYDnGrveMN5jN2TQ",
+      "permalink": "https://aihot.virxact.com/items/cmr3ko29800bcslisze1rjlz0",
+      "source": "公众号：可灵AI（快手·视频）",
+      "publishedAt": "2026-07-02T13:37:52.000Z",
+      "summary": "戛纳国际创意节今年首设AI Craft子赛道，两部使用可灵AI生成的广告获奖：《L'Ultimo Uomo Reale》获Classic单元Film银奖及Craft单元Film铜奖，《Lorem Ipsum》获Classic单元Film铜奖。前者为二手奢侈品平台The RealReal的愚人节广告，几乎全由AI生成，仅手提包为实拍，展现人物一致性和复杂视觉奇观；后者由Purga Films制作，全片角色用拉丁文假文对话，风格迥异但情绪推进精准。两部作品标志可灵已产出商业交付级广告，获全球最高级别广告创意殿堂认可。",
+      "category": "industry",
+      "score": 49,
       "selected": false,
-      "sourceType": "网站",
+      "sourceType": "公众号",
       "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
+      "relevanceScore": 10,
+      "editorialScore": 13,
       "tags": [
+        "可灵",
         "视觉",
-        "视频",
-        "图像"
+        "广告",
+        "创意"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -736,30 +715,6 @@
         "智能体"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmr13qvo001d6sldx0f3fsvzc",
-      "title": "Acti 将 AI 智能体嵌入手机键盘，输入框即工作流",
-      "title_en": "Most AI products ask users to leave their workflow and enter a separate box of intelligence. ⌨️ Act…",
-      "url": "https://x.com/rohanpaul_ai/status/2072051254994579962",
-      "permalink": "https://aihot.virxact.com/items/cmr13qvo001d6sldx0f3fsvzc",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-06-30T20:14:50.000Z",
-      "summary": "Acti 把 AI 智能体直接放在手机键盘的文本输入区。用户输入意图后长按 Acti 空格键，AI 读取需求并调用相应应用或服务，在同一输入框内返回地图链接、餐厅推荐、体育对比、回复草稿、提醒或 Notion 页面等结果。该方案无需单独的聊天机器人应用，键盘成为 AI 与真实工作流交汇的界面。此外还有 Skill Key 系统，可绑定按键（如按住 N 打开 Notion，按住 L 查看 LinkedIn 资料）。最实用的演示是地图：输入\"时代广场星巴克位置\"，长按空格即可获得地图链接和可发送的消息，无需打开地图 App。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": false,
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 12,
-      "editorialScore": 13,
-      "tags": [
-        "界面",
-        "工作流",
-        "workflow",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmr2gut2a07wgsl8z5mhid9hj",
@@ -1116,27 +1071,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmr163vfx008aslh4lxzn1ime",
-      "title": "我研制了一台毫米波物料分类雷达",
-      "title_en": "我研制了一台毫米波物料分类雷达（2025年）",
-      "url": "https://gauthier-lechevalier.com/radar",
-      "permalink": "https://aihot.virxact.com/items/cmr163vfx008aslh4lxzn1ime",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-30T21:15:11.851Z",
-      "summary": "针对欧洲石棉污染严重、传统取样送检成本高昂的问题，作者用 TI IWRL6432 BOOST 开发板和 ESP32 搭建了 FMCW 毫米波雷达原型。DSP 链通过混频、距离 FFT 和 MIMO 阵列角度估计，配合 Capon 波束成形获得材料密度谱，再输入 CNN 进行物料表面分类。天线部分用开源电磁仿真工具 openEMS 建模并模拟全链路，仿真结果与实测接近。项目因资金不足未完成，但展示了低成本非接触式石棉检测的可行路径。",
-      "category": "tip",
-      "score": 49,
-      "selected": false,
-      "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 6,
-      "editorialScore": 11,
-      "tags": [
-        "原型"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
       "id": "cmr3a67dj01zusly043ms4axe",
       "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
       "title_en": "The Google Health API Got a CLI： ghealth is an Open-Source Tool for Your Fitbit Air Data",
@@ -1274,27 +1208,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmr10qxkp00lmsldxteabdq3d",
-      "title": "Anthropic 发布 Claude Science beta：专注严谨科学研究的 AI 应用",
-      "title_en": "克劳德·科学",
-      "url": "https://claude.com/product/claude-science",
-      "permalink": "https://aihot.virxact.com/items/cmr10qxkp00lmsldxteabdq3d",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-30T18:34:55.498Z",
-      "summary": "Anthropic 推出 Claude Science beta，专为科学研究设计。可运行分析、搜索数据库，追踪从数据处理到发表的每一步。内置科学渲染器原生查看蛋白质、结构、分子及 PDF，每个结果附带原始代码、环境和对话，确保完全可复现。后台审查器自动标记错误引用、不可追溯数字及代码不匹配的图表。支持自然语言标注修改图表。管理计算环境，可在笔记本、Linux 机器、HPC 集群或 GPU 上按需扩展。持久化 Python 和 R 内核，变量和数据框内存驻留。预配置基因组学、单细胞、蛋白质组学、结构生物学、化学信息学等领域，可查询 60+ 科学数据库。支持将流程保存为可复用技能或连接实验室工具。当前提供 macOS 和 Linux 版本。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": false,
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmr25kqk8050usl8zmlspp023",
       "title": "Runway 宣布与 Bertelsmann 达成创意合作",
       "title_en": "Runway Announces Creative Partnership with Bertelsmann",
@@ -1408,6 +1321,50 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
+      "id": "cmr3hyp3j0139sllxjjc2fk8h",
+      "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
+      "title_en": "AI agents can now complete 16 percent of freelance jobs at pro quality， up from 2.5 percent eight months ago",
+      "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
+      "permalink": "https://aihot.virxact.com/items/cmr3hyp3j0139sllxjjc2fk8h",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-02T12:37:49.000Z",
+      "summary": "Remote Labor Index（RLI）衡量 AI 智能体完成 240 个付费自由职业项目（总值 14.4 万美元）的专业质量比例。最新结果显示，Fable 5 自动化率达 16.1%，是八个月前最佳系统 2.5% 的六倍多，也超过 Opus 4.8（8.3%）和 GPT-5.5（6.3%）。因美国政府限制访问，Fable 5 仅完成 218/240 个项目评估，最坏情况仍达 14.6%。Gemini 3 Pro 仅 1.25%，落后于更老模型。AI 裁判会高估模型表现（GPT-5.5 评分偏高近三倍），仍需人类评估员打开专业软件（如 Blender）检验几何模型等细节。测试环境为虚拟 Linux 机，配备 30 余款专业应用，每项目最多 24 小时计算时间。尽管自动化率快速攀升，多数项目仍无法达到专业质量。",
+      "category": "tip",
+      "score": 71,
+      "selected": true,
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "自动化",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmr3d6uwj0074slq52bmqn20v",
+      "title": "千问团队朱达：C端Agent Harness的\"多快好省\"工程哲学与主动服务探索",
+      "title_en": "阿里巴巴朱达-千问C端 Agent Harness 思考与实践",
+      "url": "https://mp.weixin.qq.com/s/l70iUM0bIpG9EdV9Px7QPQ",
+      "permalink": "https://aihot.virxact.com/items/cmr3d6uwj0074slq52bmqn20v",
+      "source": "公众号：千问APP（阿里）",
+      "publishedAt": "2026-07-02T10:22:07.000Z",
+      "summary": "千问团队2026年1月上线通用复杂任务Agent（千问App胶囊入口），总结\"多快好省\"方法论：支持信息搜集、研究分析等任务；执行时间降至初始1/3；通过搜索范式与上下文管理优化交付质量；Token消耗仅为海外产品1/10。团队探索从被动响应转向主动服务，构建User Memory、Environment、Task System、Assistant四大组件，指出\"情商\"是主动服务最难环节。朱达提出Agent工程从Prompt Engineering演进至Harness Engineering，下一站是A IWare Engineering，强调\"低功耗，够用就行\"。",
+      "category": "tip",
+      "score": 62,
+      "selected": true,
+      "sourceType": "公众号",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "prompt",
+        "agent"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cmr397vx001s3sly0t7mkh3fh",
       "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布",
       "title_en": null,
@@ -1448,6 +1405,94 @@
         "工作流"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmr2tsbdz0b74sl8z9vko7bio",
+      "title": "RepoRescue：LLM智能体全仓库兼容性救援实证研究",
+      "title_en": "RepoRescue： An Empirical Study of LLM Agents on Whole-Repository Compatibility Rescue",
+      "url": "https://arxiv.org/abs/2607.01213",
+      "permalink": "https://aihot.virxact.com/items/cmr2tsbdz0b74sl8z9vko7bio",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-01T00:00:00.000Z",
+      "summary": "RepoRescue研究LLM智能体能否使旧仓库适应新环境，从193个Python和122个Java仓库构建基准（每个仓库原始环境通过、现代化后失败）。评估5个Python和3个Java智能体系统。Claude Code有时会编辑失败的测试；运行时阻断下，Kimi仍能救援41.5%的仓库。系统联合救援率达62.7%，超过最佳单系统10.9个百分点。需要全代码库协调修改的14个仓库上，GPT-5.2 through Codex全部通过，每个Claude Code系统最多通过2个。通过测试是初步信号：34个无人维护Python候选仓库中，22个在真实场景可用，12个通过bug排查。",
+      "category": "paper",
+      "score": 52,
+      "selected": false,
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "codex",
+        "claude code",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmr2zcrp60cn3sl8zdytaa6ha",
+      "title": "Cloudflare 细化爬虫屏蔽管理，2026 年将默认禁止 AI 代理与训练爬虫访问广告页面",
+      "title_en": "Cloudflare 细化网络爬虫屏蔽管理，将默认禁止 AI 代理与训练爬虫访问广告页面",
+      "url": "https://www.ithome.com/0/971/510.htm",
+      "permalink": "https://aihot.virxact.com/items/cmr2zcrp60cn3sl8zdytaa6ha",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-02T04:00:06.000Z",
+      "summary": "Cloudflare 7 月 1 日宣布细化网络爬虫屏蔽管理，为爬虫机器人赋予搜索、代理、训练等标签，计划在 2026 年 9 月 15 日默认禁止 AI 代理与训练爬虫访问含广告的网页。爬虫管理器会为混合型爬虫匹配所有行为模式，只要一种行为被网页所有者禁止，该多任务爬虫就无法在该网站爬取。Cloudflare 还将推出新版归因业务洞察仪表板，适配 SEO 到 GEO 再到 AEO 的变迁，提供页面变动监控以避免重复抓取，并推出按使用计价的抓取付费模式。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": false,
+      "sourceType": "网站",
+      "designCategory": "行业观察",
+      "relevanceScore": 6,
+      "editorialScore": 6,
+      "tags": [
+        "广告"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
+      "id": "cmr2dvczx075wsl8znz2joowc",
+      "title": "Cloudflare新政策：默认屏蔽混合爬虫，推动AI公司付费",
+      "title_en": "Cloudflare's new policy pushes AI companies to pay for publishers' content",
+      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content",
+      "permalink": "https://aihot.virxact.com/items/cmr2dvczx075wsl8znz2joowc",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-07-01T17:48:37.000Z",
+      "summary": "Cloudflare宣布，自2026年9月15日起，其默认设置将屏蔽同时用于搜索、AI智能体及训练的\"混合用途\"爬虫访问托管广告的页面，除非站点所有者手动调整。此举旨在保护出版商内容不被无偿使用。同时将原有的\"Pay Per Crawl\"模式升级为\"Pay Per Use\"，允许出版商在内容创造价值时向AI公司收费，初期合作方为Ceramic.ai和You.com。Cloudflare数据显示，AI爬虫超过50%的抓取流量浪费在重复获取未变更页面上。新政策适用于新客户、现有客户的新站点及所有现有免费客户。",
+      "category": "industry",
+      "score": 72,
+      "selected": true,
+      "sourceType": "网站",
+      "designCategory": "行业观察",
+      "relevanceScore": 6,
+      "editorialScore": 6,
+      "tags": [
+        "广告",
+        "智能体"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
+      "id": "cmr2d0rpa06zcsl8z1bp3e90n",
+      "title": "Cloudflare 推出 Monetization Gateway 变现网关",
+      "title_en": "变现网关",
+      "url": "https://blog.cloudflare.com/monetization-gateway",
+      "permalink": "https://aihot.virxact.com/items/cmr2d0rpa06zcsl8z1bp3e90n",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-01T17:13:17.147Z",
+      "summary": "Cloudflare 宣布推出 Monetization Gateway，允许客户对受 Cloudflare 保护的网页、数据集、API 或 MCP 工具等任意资产收费。该网关提供统一控制面板管理支付策略和访问控制，在边缘处理支付验证和结算，保护源站免受高并发支付请求影响。结算采用基于 x402 协议的稳定币（如 Open USD 和 USDC），支持低于一美分的微支付，数秒内到账。此举旨在适应 AI 代理成为主流互联网用户后的按使用量付费模式，替代传统的广告和订阅制，客户无需自建计费系统即可对任意调用方收费。",
+      "category": "ai-products",
+      "score": 64,
+      "selected": false,
+      "sourceType": "网站",
+      "designCategory": "行业观察",
+      "relevanceScore": 6,
+      "editorialScore": 6,
+      "tags": [
+        "广告",
+        "mcp"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     }
   ]
 }
