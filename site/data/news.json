@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-02T06:52:38.753Z",
-  "previousGeneratedAt": "2026-07-02T06:47:54.594Z",
+  "generatedAt": "2026-07-02T09:32:21.427Z",
+  "previousGeneratedAt": "2026-07-02T06:52:38.753Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
   "itemCount": 63,
@@ -275,29 +275,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmr0zoc8500c5sldxsazc14mu",
-      "title": "Nano Banana 2 Lite",
-      "title_en": null,
-      "url": "https://deepmind.google/models/gemini-image/flash-lite",
-      "permalink": "https://aihot.virxact.com/items/cmr0zoc8500c5sldxsazc14mu",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-30T18:19:05.313Z",
-      "summary": "Google 推出 Nano Banana 2 Lite，号称最快、最高效的 Gemini 图像模型，以最低成本实现高速生成和编辑。模型延迟显著降低，适合大规模图像生成，同时不牺牲质量，支持角色一致性、精确视觉编辑和真实世界知识。目前可通过 Google AI Studio 试用，并在 Space Lift、Gridscape、Peek-A-Word 和 Anywhere 等应用中展示了能力。",
-      "category": "ai-models",
-      "score": 64,
-      "selected": false,
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 16,
-      "editorialScore": 19,
-      "tags": [
-        "图像生成",
-        "视觉",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmr1xxa950334sl8zksg7fxhp",
       "title": "阿里云Happy Horse助力短片《CLOCKWORKS》获AI电影节亚军",
       "title_en": "🥈 2nd Place at the AI Film Festival Monaco Hackathon！ 🎬 Introducing 《CLOCKWORKS》 by Jeni To - a vi…",
@@ -318,29 +295,6 @@
         "视觉",
         "创意",
         "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmr0zcvat008dsldxkh1ssncd",
-      "title": "阿里巴巴 HappyHorse 1.1 登顶 Artificial Analysis 视频排行榜第二",
-      "title_en": "Alibaba's HappyHorse 1.1 lands at #2 on the Artificial Analysis Text to Video and Image to Video lea…",
-      "url": "https://x.com/ArtificialAnlys/status/2072022131056267534",
-      "permalink": "https://aihot.virxact.com/items/cmr0zcvat008dsldxkh1ssncd",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "publishedAt": "2026-06-30T18:19:07.000Z",
-      "summary": "阿里巴巴 HappyHorse 1.1 在 Artificial Analysis 文生视频和图生视频排行榜位列第二，仅次于字节跳动 Seedance 2.0。该模型基于统一 Transformer 架构，是 1.0 的改进版，重点提升音画同步，支持七种语言的原生音频与唇形同步对话，并在运动、角色和场景一致性上增强。支持最多 9 张参考图像，生成 720p 和 1080p。图生视频带音频模态从第 5 名升至第 2 名。定价 $9.90/分钟（1080p），已在阿里云 Model Studio、Qwen Cloud 和 fal 上线。",
-      "category": "ai-models",
-      "score": 68,
-      "selected": false,
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 15,
-      "editorialScore": 18,
-      "tags": [
-        "文生视频",
-        "视频",
-        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -760,6 +714,30 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmr38srx801mxsly0m85k240o",
+      "title": "逆向规划实现个性化：通过结构去噪学习潜在设计意图的智能体幻灯片生成",
+      "title_en": "Personalization as Inverse Planning： Learning Latent Design Intents for Agentic Slide Generation via Structural Denoising",
+      "url": "https://arxiv.org/abs/2607.00407",
+      "permalink": "https://aihot.virxact.com/items/cmr38srx801mxsly0m85k240o",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-01T00:00:00.000Z",
+      "summary": "幻灯片个性化需要同时定制主题与布局，现有AI智能体方法依赖预设模板或用户详细指令，难以捕捉细粒度潜在设计意图。SPIRE将页面级幻灯片个性化（PSP）重新定义为逆向规划问题，在不假设具体执行工具（如PowerPoint、Beamer）的前提下学习设计意图。通过故意破坏干净幻灯片的视觉结构，SPIRE创建可验证的去噪任务，两个智能体通过强化学习协作优化可执行设计。理论证明结构去噪是PSP的一致代理，且多智能体公式严格降低策略梯度方差。实验表明SPIRE在幻灯片个性化生成上表现优越。",
+      "category": "paper",
+      "score": 51,
+      "selected": false,
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "视觉",
+        "design",
+        "设计",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "cmr13qvo001d6sldx0f3fsvzc",
       "title": "Acti 将 AI 智能体嵌入手机键盘，输入框即工作流",
       "title_en": "Most AI products ask users to leave their workflow and enter a separate box of intelligence. ⌨️ Act…",
@@ -779,30 +757,6 @@
         "界面",
         "工作流",
         "workflow",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmr0wupt4007gsl403t7s6dbn",
-      "title": "ADK Go 2.0 发布：构建可靠的多智能体应用，新增基于图的工作流引擎、人工参与循环与动态编排",
-      "title_en": "Build reliable multi-agent applications with ADK Go 2.0. Discover our new graph-based workflow engine， built-in human-in-the-loop， and dynamic orchestration",
-      "url": "https://developers.googleblog.com/announcing-adk-go-20",
-      "permalink": "https://aihot.virxact.com/items/cmr0wupt4007gsl403t7s6dbn",
-      "source": "Google Developers Blog（RSS）",
-      "publishedAt": "2026-06-30T17:17:40.302Z",
-      "summary": "Agent Development Kit （ADK） for Go 2.0 发布，引入了一类基于图的工作流引擎，用于组合复杂多智能体应用。新版本内置人工参与循环（HITL）编排、使用纯 Go 代码的动态执行、以及指数退避重试等自动弹性特性。统一执行模型后，单智能体应用与复杂图均运行在同一运行时上，简化了遥测与状态持久化。",
-      "category": "ai-products",
-      "score": 67,
-      "selected": true,
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 12,
-      "editorialScore": 13,
-      "tags": [
-        "工作流",
-        "workflow",
-        "agent",
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
@@ -920,30 +874,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmr0xb9k6003aslb3bafdbcls",
-      "title": "Claude Code被指暗中检测中国路由，通过隐藏标记嵌入提示词",
-      "title_en": "wow 👀 Claude Code allegedly fingerprints China-linked custom routes through tiny prompt formattin…",
-      "url": "https://x.com/rohanpaul_ai/status/2072009571569467658",
-      "permalink": "https://aihot.virxact.com/items/cmr0xb9k6003aslb3bafdbcls",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-06-30T17:29:12.000Z",
-      "summary": "X用户Rohan Paul爆料，Anthropic的编程AI智能体Claude Code在用户更改非默认`ANTHROPIC_BASE_URL`（使用代理/网关）时，会检测自定义主机名是否关联中国域名，若匹配则通过不可见标点符号和日期格式向提示词嵌入隐藏标记。引用@IntCyberDigest指出，Claude Code还会在系统提示内注入时区、代理及可能的AI实验室连接信息，用户无法察觉。作为可读取仓库、编辑代码和执行命令的智能体，这种隐蔽行为严重破坏用户信任，并可能为AI智能体难以审计开先例。",
-      "category": "industry",
-      "score": 69,
-      "selected": false,
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 11,
-      "editorialScore": 12,
-      "tags": [
-        "提示词",
-        "prompt",
-        "claude code",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
       "id": "cmr2zcrp70cndsl8zk1l193h2",
       "title": "知名GPU架构师Raja Koduri创立的OXMIQ Labs完成3500万美元A轮融资",
       "title_en": "知名 GPU 架构师 Raja Koduri 所创 OXMIQ Labs 完成 3500 万美元 A 轮融资",
@@ -1054,6 +984,28 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
+      "id": "cmr2h8pl10826sl8zbvlkp6jx",
+      "title": "Notion新增HTML块，AI交互式内容一键嵌入",
+      "title_en": "I am surprised it took them this long. Interactive HTML is how I do most of my work with agents. It …",
+      "url": "https://x.com/omarsar0/status/2072403282530619552",
+      "permalink": "https://aihot.virxact.com/items/cmr2h8pl10826sl8zbvlkp6jx",
+      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+      "publishedAt": "2026-07-01T19:33:40.000Z",
+      "summary": "Notion上线HTML块，用户可在页面内直接构建交互式HTML，并利用AI将内容转为交互式解释器、原型或图表，支持团队共享和协作。AI专家Elvis Saravia（DAIR.AI）评价称，他超过80%的AI输出依赖交互式HTML，这一方式易于识别低质量内容（slop）并支持快速决策，对Notion终于跟进这一自去年起推广的做法表示欢迎。",
+      "category": "ai-products",
+      "score": 59,
+      "selected": false,
+      "sourceType": "X",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
+      "tags": [
+        "原型",
+        "交互"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
       "id": "cmr2g1fui07pcsl8zt9yb67gi",
       "title": "SpaceX 展示 AI 设备原型，比 iPhone 更轻薄",
       "title_en": "SpaceX has an AI device prototype， and it sure sounds phone-ish",
@@ -1074,6 +1026,28 @@
         "设计"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmr26bpa10573sl8z74m80hvu",
+      "title": "Boogu-Image-0.1-Edit-Turbo 开源：4步蒸馏图像编辑模型",
+      "title_en": "😄 等等我~~ ModelScope上开源了一个叫Boogu-Image-0.1-Edit-Turbo的模型。 它是一个4步蒸馏的image-to-image编辑模型，主打快速视觉编辑。 支持…",
+      "url": "https://x.com/berryxia/status/2072326538926969225",
+      "permalink": "https://aihot.virxact.com/items/cmr26bpa10573sl8z74m80hvu",
+      "source": "X：Berry Xia (@berryxia)",
+      "publishedAt": "2026-07-01T14:28:43.000Z",
+      "summary": "ModelScope 上开源了 Boogu-Image-0.1-Edit-Turbo，一个 4 步蒸馏的 image-to-image 编辑模型，主打快速视觉编辑。支持物体替换、风格迁移、场景/背景修改，以及带文字感知的图像变换。",
+      "category": "ai-models",
+      "score": 57,
+      "selected": false,
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmr1zi1q703f7sl8za1zreki7",
@@ -1163,25 +1137,28 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cmr0z1g4e002usldx0n7cu6at",
-      "title": "AI指南针",
-      "title_en": "The AI Compass",
-      "url": "https://simonwillison.net/2026/Jun/30/the-ai-compass",
-      "permalink": "https://aihot.virxact.com/items/cmr0z1g4e002usldx0n7cu6at",
-      "source": "Simon Willison 博客",
-      "publishedAt": "2026-06-30T17:39:23.000Z",
-      "summary": "一个名为\"AI指南针\"的政治指南针风格测验通过29道关于AI和AI伦理的是非题，将参与者匹配到30种原型之一。作者本人在首次回答后被归类为\"The Garage Tinkerer\"。该测验以单页React应用实现，利用`<script type=\"text/babel\">`脚本标签绕过构建步骤。",
-      "category": "tip",
-      "score": 50,
-      "selected": false,
+      "id": "cmr3a67dj01zusly043ms4axe",
+      "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
+      "title_en": "The Google Health API Got a CLI： ghealth is an Open-Source Tool for Your Fitbit Air Data",
+      "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
+      "permalink": "https://aihot.virxact.com/items/cmr3a67dj01zusly043ms4axe",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-07-02T08:46:56.000Z",
+      "summary": "ghealth 是一款封装 Google Health API v4 的开源命令行工具，以单个 Go 二进制文件发布（Apache 2.0 协议）。它提供 40 种已验证的数据类型（包括步数、心率、睡眠、体重、血氧饱和度、心率变异性等）的结构化 JSON 输出。工具采用 Agent 优先设计，具备确定性退出码、--dry-run 和 --raw 标志，并附带两个 SKILL.md 文件供 AI 智能体使用。用户需自行创建 OAuth 凭据，通过 PKCE S256 认证。数据来源覆盖 Fitbit、Pixel Watch 及连接的第三方设备。",
+      "category": "ai-products",
+      "score": 72,
+      "selected": true,
       "sourceType": "网站",
-      "designCategory": "设计工具",
+      "designCategory": "产品与体验",
       "relevanceScore": 6,
-      "editorialScore": 11,
+      "editorialScore": 10,
       "tags": [
-        "原型"
+        "设计",
+        "agent",
+        "智能体",
+        "skill"
       ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmr2x7ii20c2rsl8z26iqwpkt",
@@ -1318,29 +1295,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmr0xkomf006islb3wgn1razb",
-      "title": "Google 发布 Nano Banana 2 Lite 图像模型与 Gemini Omni Flash 视频模型",
-      "title_en": "Google launches Nano Banana 2 Lite for fast AI images and Gemini Omni Flash for video via API",
-      "url": "https://the-decoder.com/google-launches-nano-banana-2-lite-for-fast-ai-images-and-gemini-omni-flash-for-video-via-api",
-      "permalink": "https://aihot.virxact.com/items/cmr0xkomf006islb3wgn1razb",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-06-30T17:17:33.000Z",
-      "summary": "Google 推出两款新生成式 AI 模型。Nano Banana 2 Lite 可在 4 秒内生成图像，每张成本 0.034 美元（1K 分辨率），API 名称为 `gemini-3.1-flash-lite-image`。Gemini Omni Flash 允许开发者通过文本提示在 API 中生成和编辑最长 10 秒的视频，每秒输出价格 0.10 美元。Google 推荐将两个模型链式使用：先用 Nano Banana 2 Lite 生成图像，再传递给 Gemini Omni Flash 转化为视频。两者均使用 SynthID 水印，已通过 Google AI Studio、Gemini API 和 Gemini Enterprise Agent Platform 提供。",
-      "category": "ai-models",
-      "score": 59,
-      "selected": false,
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "视频",
-        "图像",
-        "agent"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmr25kqk8050usl8zmlspp023",
       "title": "Runway 宣布与 Bertelsmann 达成创意合作",
       "title_en": "Runway Announces Creative Partnership with Bertelsmann",
@@ -1450,6 +1404,48 @@
       "tags": [
         "提示词",
         "claude code"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmr397vx001s3sly0t7mkh3fh",
+      "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布",
+      "title_en": null,
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
+      "permalink": "https://aihot.virxact.com/items/cmr397vx001s3sly0t7mkh3fh",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-02T08:24:53.347Z",
+      "summary": "Kimi K2.7 Code 开源权重模型已在 GitHub Copilot 中正式可用，成为 Copilot 模型选择器首个可选的开源权重模型，为编程工作流提供更低成本选择。该模型由 GitHub 托管于 Microsoft Azure，按供应商列表价格以用量计费。逐步向 Copilot Pro、Pro+ 和 Max 计划用户推送，用户可在 Visual Studio Code 1.127.0 或更新版本、Visual Studio 17.14.6 或更新版本、JetBrains 1.9.1-251 或更新版本、Xcode、Eclipse 等 IDE 及 Copilot CLI、GitHub.com、GitHub Mobile 等平台中选用。后续几周将扩展至 Copilot Business 和 Enterprise，当前默认关闭，需管理员在 Copilot 设置中启用策略。",
+      "category": "ai-products",
+      "score": 71,
+      "selected": true,
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "工作流"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmr2lfa940946sl8z23md0cnx",
+      "title": "使用 Lift 将研究 PDF 转换为结构化 JSON：受控的、模式引导的字段级评估",
+      "title_en": "Using Lift to Turn Research PDFs into Structured JSON with Controlled， Schema-Guided Field-Level Evaluation",
+      "url": "https://www.marktechpost.com/2026/07/01/using-lift-to-turn-research-pdfs-into-structured-json-with-controlled-schema-guided-field-level-evaluation",
+      "permalink": "https://aihot.virxact.com/items/cmr2lfa940946sl8z23md0cnx",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-07-01T21:09:53.000Z",
+      "summary": "Lift 是一个 PDF 到结构化数据的提取工具，本教程构建了完整的受控评估工作流。通过 4-bit NF4 量化，约 10B 参数模型可在 16 GB GPU（如 T4/L4）上运行。教程生成含干扰项的合成多页研究论文，测试模型在真实文档布局中恢复标题、作者、数据集、指标、超参数、局限性和仓库链接的能力，并输出结构化 JSON，实现模式引导的字段级评估。",
+      "category": "tip",
+      "score": 69,
+      "selected": false,
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "工作流"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     }
