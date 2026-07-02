@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-01T15:12:22.906Z",
-  "previousGeneratedAt": "2026-07-01T10:14:20.434Z",
+  "generatedAt": "2026-07-02T04:31:21.534Z",
+  "previousGeneratedAt": "2026-07-01T15:12:22.906Z",
   "sourceWindowDays": 7,
-  "sourceCount": 113,
-  "itemCount": 35,
+  "sourceCount": 108,
+  "itemCount": 31,
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com"
@@ -33,6 +33,29 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmr2t1n9h0b18sl8zqxn9r5nu",
+      "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
+      "title_en": "Skills for Design Engineers 作者 @emilkowalski 是知名设计工程师，曾在 Vercel、Linear 工作，也是 Sonner、Vaul 等流行组件的创建者。…",
+      "url": "https://x.com/shao__meng/status/2072484635955900792",
+      "permalink": "https://aihot.virxact.com/items/cmr2t1n9h0b18sl8zqxn9r5nu",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-07-02T00:56:56.000Z",
+      "summary": "Emil Kowalski 将多年 UI/动画原则沉淀为三个 Skill，使 Codex、Claude Code、Cursor 等 Coding Agents 具备资深设计工程师的审美判断。核心规则：动画必须有理由；每天 100+ 次的高频操作禁用动画；UI 动画控制在 300ms 内；只动画 transform 和 opacity；入口从 scale（0.95）+opacity：0 开始；尊重 prefers-reduced-motion（仅移除位移动画）。review-animations 以严格标准审查动画代码，输出 Before/After/Why 表格。animation-vocabulary 将模糊描述（如\"弹一下的效果\"）转为专业动效术语。",
+      "category": "tip",
+      "score": 77,
+      "selected": true,
+      "designCategory": "产品与体验",
+      "relevanceScore": 15,
+      "editorialScore": 19,
+      "tags": [
+        "ui",
+        "design",
+        "设计",
+        "codex"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "cmr0ucc880030slatw1gfkq2h",
       "title": "Google DeepMind 发布 Nano Banana 2 Lite 和 Gemini Omni Flash",
       "title_en": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
@@ -53,52 +76,6 @@
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmqtun7jv06zvsl0ejc2rnrpp",
-      "title": "Runway发布Agent 2.0",
-      "title_en": "Introducing Agent 2.0",
-      "url": "https://runwayml.com/news/introducing-agent-2",
-      "permalink": "https://aihot.virxact.com/items/cmqtun7jv06zvsl0ejc2rnrpp",
-      "source": "Runway：News（网页）",
-      "publishedAt": "2026-06-24T16:00:00.000Z",
-      "summary": "Runway发布Agent 2.0，帮助营销人员创建、测试和优化广告、视频及营销活动。品牌营销人员可在对话中开发活动概念、生成变体并自动本地化；绩效营销人员可上传创意并导入Meta、YouTube、TikTok或Google广告数据，由Agent分析后生成下一轮待测广告。社交媒体营销人员可一次性生成一周内容，自动裁切为9：16、16：9、1：1等格式；产品营销人员可借助Agent确定定位角度并构建活动资产。Agent 2.0面向所有用户开放。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "designCategory": "行业观察",
-      "relevanceScore": 16,
-      "editorialScore": 16,
-      "tags": [
-        "runway",
-        "广告",
-        "创意",
-        "视频"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmqsbrhhm01o1slfu2kei9qhy",
-      "title": "Figma在Config 2026押注人类判断，画布AI能力却来自第三方",
-      "title_en": "Figma bets on human judgment at Config 2026 while the AI powering its canvas belongs to someone else",
-      "url": "https://the-decoder.com/figma-bets-on-human-judgment-at-config-2026-while-the-ai-powering-its-canvas-belongs-to-someone-else",
-      "permalink": "https://aihot.virxact.com/items/cmqsbrhhm01o1slfu2kei9qhy",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-06-24T16:49:01.000Z",
-      "summary": "Figma在Config 2026将设计画布扩展至代码、动画、3D深度和着色器效果，并集成去年收购的Weave工作流系统。新功能包括Code Layers（代码与设计并存）、Motion动画、深度层、Shader及Generative Plugins。协作方面，团队可搜索复用AI提示词、保存工作流为技能、共享插件。Figma的AI功能依赖Anthropic、OpenAI和Google等外部模型，推理成本挤压利润率。同时，Anthropic等公司的竞争产品可直接生成界面，构成威胁。",
-      "category": "ai-products",
-      "score": 74,
-      "selected": true,
-      "designCategory": "设计工具",
-      "relevanceScore": 10,
-      "editorialScore": 15,
-      "tags": [
-        "figma",
-        "设计",
-        "界面",
-        "工作流"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "cmr0wupt4007gsl403t7s6dbn",
@@ -212,27 +189,48 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmqsbthp601p3slfuajayc4gr",
-      "title": "Gemini 3.5 Flash 引入 computer use 功能",
-      "title_en": "Introducing computer use in Gemini 3.5 Flash",
-      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash",
-      "permalink": "https://aihot.virxact.com/items/cmqsbthp601p3slfuajayc4gr",
-      "source": "Google DeepMind：Blog（RSS）",
-      "publishedAt": "2026-06-24T16:30:01.000Z",
-      "summary": "Google DeepMind 宣布，computer use 现作为内置工具集成于 Gemini 3.5 Flash，开发者可构建跨浏览器、移动端和桌面的智能体，实现视觉感知、推理与操作。此前该功能仅以独立模型形式存在于 Gemini 2.5。3.5 Flash 已支持函数调用及 Search、Maps 等内置工具，新增的 computer use 可提升持续软件测试和跨专业应用知识工作等长周期企业自动化任务的性能。安全方面采用针对性对抗训练，并可选配两项企业防护系统：要求用户确认敏感操作，以及在检测到间接 prompt 注入时自动停止任务。可通过 Gemini API 和 Gemini Enterprise Agent Platform 使用。",
+      "id": "cmr2jtg2z08nvsl8zt9pagjoe",
+      "title": "Claude Code v2.1.198 发布",
+      "title_en": "v2.1.198",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
+      "permalink": "https://aihot.virxact.com/items/cmr2jtg2z08nvsl8zt9pagjoe",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "publishedAt": "2026-07-01T20:45:36.000Z",
+      "summary": "Claude Code v2.1.198 更新。Claude in Chrome 现已全面可用。为 claude agents 新增后台智能体通知（agent_needs_input / agent_completed）。新增 /dataviz 技能，提供图表与仪表盘设计指导及配色验证器。Gateway 增加 AWS 上的 Claude Platform 作为上游提供商。后台智能体在 worktree 中完成代码后自动提交、推送并创建草稿 PR。内置 Explore 智能体现继承主会话模型（上限 opus）。修复网络短暂断开导致响应中断、后台任务卡在\"Running\"状态、智能体团队队友因 API 错误失败等问题。",
       "category": "ai-products",
-      "score": 70,
+      "score": 64,
       "selected": true,
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 10,
-      "editorialScore": 11,
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
       "tags": [
-        "视觉",
-        "prompt",
-        "自动化",
-        "agent"
+        "设计",
+        "claude code",
+        "agent",
+        "智能体"
       ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmr2jc03c08kssl8zf2bmdjlj",
+      "title": "构建AI智能体应优先设计路由",
+      "title_en": "Most AI Work Can Wait",
+      "url": "https://www.tomtunguz.com/ai-execution-routing",
+      "permalink": "https://aihot.virxact.com/items/cmr2jc03c08kssl8zf2bmdjlj",
+      "source": "Tomer Tunguz 博客（VC 分析）",
+      "publishedAt": "2026-07-01T00:00:00.000Z",
+      "summary": "构建AI智能体时，应优先设计路由（router）而非选择模型。路由决定每个请求由哪层模型处理。正确路由可使70-80%流量运行在免费本地模型或异步推理上，将AI开销降低90%+。Brian Armstrong指出Coinbase通过更好的默认设置、路由和缓存，在token使用量增长的同时将AI支出减半。路由分三层：技能分类器、路由器、模型选择器。本地计算近乎零成本，异步批量推理比实时推理便宜两个数量级。大多数工作无需秒级返回。同步预测器标记复杂任务，夜间批量评估器更新路由权重。技能蒸馏后，非编码类任务中70-80%智能体流量可由本地模型处理。",
+      "category": "tip",
+      "score": 60,
+      "selected": true,
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmr0wwa6g0085sl40xkkzeruy",
@@ -426,49 +424,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmqsi8c9303azslfuexk0h241",
-      "title": "OpenRouter 零数据留存（ZDR）实践：97 款新模型，流量占比近半",
-      "title_en": "When Zero Means Zero",
-      "url": "https://openrouter.ai/blog/insights/when-zero-means-zero",
-      "permalink": "https://aihot.virxact.com/items/cmqsi8c9303azslfuexk0h241",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-06-24T16:00:00.000Z",
-      "summary": "OpenRouter 的零数据留存（ZDR）保证用户提示词和模型响应不被存储，元数据一般安全。自 1 月以来新增 97 款支持 ZDR 的模型，月度 token 量增长 4.3 倍，约占全部路由流量一半。ZDR 在三个层面执行：账户级（整个供应商开启）、护栏级（按 API Key 或组织成员限定）、单次请求级（传参数仅路由至 ZDR 端点）。企业用户可灵活选择控制粒度，避免锁定单一供应商。",
-      "category": "tip",
-      "score": 68,
-      "selected": true,
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "可灵",
-        "提示词"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmqs9eic7012cslfuu3w4io4c",
-      "title": "Mistral AI 为 Connectors 推出多项安全与可控新能力",
-      "title_en": "Bringing more control over your connectors June 24， 2026 Mistral AI",
-      "url": "https://mistral.ai/news/more-control-over-connectors",
-      "permalink": "https://aihot.virxact.com/items/cmqs9eic7012cslfuu3w4io4c",
-      "source": "Mistral AI：News（网页）",
-      "publishedAt": "2026-06-24T15:59:47.708Z",
-      "summary": "2026年6月24日，Mistral AI 发布 Connectors 多项新能力：Enriched admin controls（GA）支持按工作空间设置连接器访问权限并单独开关工具；API keys with connector scopes（GA）防止自动化 AI 工作负载中身份冒充；Multi-account connectors（GA）允许单个连接器绑定多个账户；Connectors Debugger（公开预览）对 MCP 连接器进行端到端根因分析；Connectors in Vibe Code（GA）和 Connectors in Workflows（公开预览）分别允许在开发者界面复用连接器及支持长时间运行任务不中断。",
-      "category": "ai-products",
-      "score": 62,
-      "selected": true,
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "界面",
-        "自动化",
-        "mcp"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmqykzeht02shslivflwhgdbx",
       "title": "分享两个Vibe Coding必备的实用Prompt：第一性原理与对抗式审查",
       "title_en": "分享2个Vibe Coding必备的超实用Prompt。",
@@ -512,29 +467,6 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmqtkuscr04g8sl0eoqzwkdm7",
-      "title": "OpenRouter MCP 服务器发布",
-      "title_en": "The OpenRouter MCP Server",
-      "url": "https://openrouter.ai/blog/announcements/openrouter-mcp-server",
-      "permalink": "https://aihot.virxact.com/items/cmqtkuscr04g8sl0eoqzwkdm7",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-06-25T00:00:00.000Z",
-      "summary": "OpenRouter 推出 MCP 服务器，为编程智能体提供实时模型数据、基准排名、定价和文档查询。开发者通过一键安装（支持 Claude Code、Codex CLI、Cursor 等客户端），即可在编辑器内完成模型筛选、价格对比和测试推理，无需切换标签页。服务器整合 Artificial Analysis、Design Arena 及 OpenRouter 自身排名数据，例如推荐 GLM-5.2 作为性价比最佳的编码模型。工具集包括 models-list、model-get、model-endpoints、benchmarks 等，支持通过 chat-send 发送测试提示，比较不同模型（如 Claude Opus 4.8、GPT-5.5、DeepSeek V4 Pro）的响应、成本和延迟。API 密钥附带 7 天有效期和 10 美元消费上限，可随时撤销。",
-      "category": "ai-products",
-      "score": 71,
-      "selected": true,
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "design",
-        "codex",
-        "claude code",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
       "id": "cmr1bxokg01eoslnlem278yfq",
       "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
       "title_en": "Anthropic偷偷在Claude Code中植入了隐形代码，只为识别中国用户。",
@@ -562,7 +494,7 @@
       "url": "https://claude.com/blog/getting-started-with-loops",
       "permalink": "https://aihot.virxact.com/items/cmr0x7y97001yslb3tyb8w4ce",
       "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-06-30T17:28:28.530Z",
+      "publishedAt": "2026-06-29T16:00:00.000Z",
       "summary": "Claude Code 团队将智能体循环定义为 agent 重复工作直到满足停止条件的过程，并划分出四种主要类型：turn-based 循环（用户提示触发，Claude 自行判断完成或需更多上下文）、goal-based 循环（通过 `/goal` 命令设定可验证完成标准与最大轮次）、time-based 循环（通过 `/loop` 按时间间隔重复执行，可用 `/schedule` 移至云端）、以及 proactive 循环（基于事件或计划自动运行，无人实时参与）。文章还介绍了如何编写 SKILL.md 文件将人工验证步骤编码，让 Claude 进行端到端自检，减少 turn-based 循环中的手动操作。",
       "category": "tip",
       "score": 72,
@@ -684,28 +616,6 @@
       "tags": [
         "codex",
         "claude code"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmqta6kw701sasl0es975w0zc",
-      "title": "OpenAI内部报告：智能体Codex如何改变工作",
-      "title_en": "How agents are transforming work",
-      "url": "https://openai.com/index/how-agents-are-transforming-work",
-      "permalink": "https://aihot.virxact.com/items/cmqta6kw701sasl0es975w0zc",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-06-25T02:00:00.000Z",
-      "summary": "OpenAI 在2025年8月至2026年6月间观察到，智能体产品 Codex 取代 ChatGPT 成为主要工作工具，各部门输出 token 中 Codex 占比从不足10%升至99.8%。80.6%个体用户曾发起预计等效人类工作时间超30分钟的请求，70.2%超1小时，25.6%超8小时；99百分位用户每日生成超60小时 agent turns。非开发者用户增长迅猛：个体用户增长137倍，组织用户增长189倍。Legal、Finance、Recruiting 部门在2026年4月前后跨过 Codex 使用过半拐点，平均每位律师或招聘人员超85%输出 token 来自 Codex。",
-      "category": "paper",
-      "score": 65,
-      "selected": true,
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "codex",
-        "agent",
-        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
