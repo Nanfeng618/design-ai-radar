@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-03T04:09:02.174Z",
-  "previousGeneratedAt": "2026-07-02T14:29:28.456Z",
+  "generatedAt": "2026-07-03T09:35:04.011Z",
+  "previousGeneratedAt": "2026-07-03T04:09:02.174Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
   "itemCount": 64,
@@ -133,29 +133,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmr268kzi055xsl8zktycxm8d",
-      "title": "AI产品设计原则：帮助用户恰当依赖AI",
-      "title_en": "最近读到一篇关于 AI 产品设计原则的文章，内容很系统，也很适合帮助我们理解：当 AI 开始进入越来越多产品之后，设计面对的问题，已经和传统软件很不一样。 传统软件通常基于确定规则运行。点击一个按钮…",
-      "url": "https://x.com/hongming731/status/2072320472159789456",
-      "permalink": "https://aihot.virxact.com/items/cmr268kzi055xsl8zktycxm8d",
-      "source": "X：洪明 (@hongming731)",
-      "publishedAt": "2026-07-01T14:04:37.000Z",
-      "summary": "文章总结9组39条AI设计原则，核心是让用户信任程度匹配AI真实可靠性。关键点：AI应发挥模糊意图、内容生成等优势，而非替代传统界面；接受输出多样性，提供多版本和局部修改；输出附证据便于一键验证；用户保留编辑、拒绝、撤销等控制权；AI诚实说明角色和限制；重视失败路径，支持撤销、日志、转人工。",
-      "category": "tip",
-      "score": 48,
-      "selected": false,
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 17,
-      "editorialScore": 21,
-      "tags": [
-        "产品设计",
-        "设计",
-        "界面"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmr2v28xu0bi6sl8ze9j1ovlv",
       "title": "消息称快手可灵 AI 将完成 30 亿美元融资：投后估值 180 亿美元，腾讯参投",
       "title_en": null,
@@ -227,30 +204,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmr1xxa950334sl8zksg7fxhp",
-      "title": "阿里云Happy Horse助力短片《CLOCKWORKS》获AI电影节亚军",
-      "title_en": "🥈 2nd Place at the AI Film Festival Monaco Hackathon！ 🎬 Introducing 《CLOCKWORKS》 by Jeni To - a vi…",
-      "url": "https://x.com/alibaba_cloud/status/2072265540618342813",
-      "permalink": "https://aihot.virxact.com/items/cmr1xxa950334sl8zksg7fxhp",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "publishedAt": "2026-07-01T10:26:20.000Z",
-      "summary": "阿里云AI视频生成工具Happy Horse支撑短片《CLOCKWORKS》在AI电影节摩纳哥黑客马拉松中夺得第二名。影片由Jeni To创作，讲述一个女孩在冰冷齿轮世界中面对压抑的另一个自我，领悟到完美只能复制而无法创造，真正的创造力源自伤痕、焦虑与泪水。该片使用festival-grade AI工具将原始情感转化为视觉艺术，阿里云Happy Horse是背后的创意引擎。",
-      "category": "industry",
-      "score": 25,
-      "selected": false,
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 15,
-      "editorialScore": 18,
-      "tags": [
-        "视频生成",
-        "视觉",
-        "创意",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmr3rd0l901busl7l11krygj3",
       "title": "VideoFlexTok：可变长度粗到细视频分词",
       "title_en": "VideoFlexTok： Flexible-Length Coarse-to-Fine Video Tokenization",
@@ -272,6 +225,30 @@
         "3d"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmr4ja0ba02bhsll5bwkiq7t7",
+      "title": "Meet WebBrain：开源本地优先的AI浏览器智能体",
+      "title_en": "Meet WebBrain： An Open-Source， Local-First AI Browser Agent That Reads Pages and Automates Tasks in Chrome and Firefox",
+      "url": "https://www.marktechpost.com/2026/07/02/meet-webbrain-an-open-source-local-first-ai-browser-agent-that-reads-pages-and-automates-tasks-in-chrome-and-firefox",
+      "permalink": "https://aihot.virxact.com/items/cmr4ja0ba02bhsll5bwkiq7t7",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-07-03T05:55:47.000Z",
+      "summary": "WebBrain是一个免费、开源的浏览器智能体，基于MIT协议，支持Chrome和Firefox。它提供Ask（只读）和Act（通过Chrome DevTools Protocol执行点击、输入等操作）两种模式。本地模型下数据不出设备，也可通过API接入OpenAI、Anthropic Claude、Gemini、DeepSeek、Grok等云端模型。内置WebBrain Cloud服务每月5美元。安全设计包括权限提示和UI优先的修改规则，并支持llama.cpp、Ollama等本地部署方案。",
+      "category": "ai-products",
+      "score": 63,
+      "selected": false,
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 11,
+      "editorialScore": 15,
+      "tags": [
+        "ui",
+        "设计",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmr4dr1dx00uysll5sqdz9qlo",
@@ -390,26 +367,48 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmr1zl42r03fvsl8zmiky8f7w",
-      "title": "Nano Banana 2 Lite：任意替换动物头部为物体，无缝融合",
-      "title_en": "You can replace the animal and the object with anything in the quoted prompt， and NB2L let's you cyc…",
-      "url": "https://x.com/fofrAI/status/2072272472049586461",
-      "permalink": "https://aihot.virxact.com/items/cmr1zl42r03fvsl8zmiky8f7w",
-      "source": "X：fofr (@fofrAI)",
-      "publishedAt": "2026-07-01T10:53:52.000Z",
-      "summary": "Nano Banana 2 Lite 是一款图像生成工具，支持将动物头部替换为任意物体，并自动匹配颜色与纹理，实现无缝、自然的融合（如阿拉伯眼镜蛇头部替换为订书机，物体特征巧妙构成面部，原始动物面部完全不可见）。用户可快速迭代不同动物与物体组合，快速探索创意。",
+      "id": "cmr4pxm98040ssll55dcwzp6v",
+      "title": "Karminski 设计首个大模型复杂工程能力测试：Kimi-K2.7-Code 完成度 93%",
+      "title_en": "http://x.com/i/article/2072963694775132160",
+      "url": "https://x.com/karminski3/status/2072965071597408693",
+      "permalink": "https://aihot.virxact.com/items/cmr4pxm98040ssll55dcwzp6v",
+      "source": "X：karminski (@karminski3)",
+      "publishedAt": "2026-07-03T08:46:01.000Z",
+      "summary": "Karminski 设计了首个大模型复杂工程能力测试：给模型 21000 token 需求文档，要求通过 Coding Agent 修改 SillyTavern（酒馆）项目，增加动态数值系统。结果 Kimi-K2.7-Code 需求完成度 93%，接近人肉 vibe coding 的 97.7%；Kimi-K2.6 仅 74.4%；DeepSeek-V4-Pro 只有 68.6%。K2.7 漏需求少得益于全局注意力更强、Agent 能力更完善；K2.6 因 Plan 偏离、DeepSeek 因未使用 Plan Agent 导致遗漏。测试揭示了模型\"注意力管状视野\"问题--只关注易验证任务，忽略需推理的 web 界面、提示词注入等。Kimi-K2.7-Code 的 20 分提升被认为是国产代码模型的生产力拐点。",
       "category": "tip",
-      "score": 69,
+      "score": 67,
       "selected": false,
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
+      "designCategory": "产品与体验",
+      "relevanceScore": 10,
+      "editorialScore": 14,
       "tags": [
-        "图像生成",
-        "创意",
-        "图像",
-        "prompt"
+        "设计",
+        "界面",
+        "vibe coding",
+        "提示词"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmr4lchgq02t1sll50o1e3a20",
+      "title": "谷歌 Gemini Omni Flash 登顶 Video Arena 盲测榜，领先字节 Seedance 2.0 Mini 模型 101 Elo",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/972/253.htm",
+      "permalink": "https://aihot.virxact.com/items/cmr4lchgq02t1sll50o1e3a20",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-03T06:41:56.000Z",
+      "summary": "谷歌 DeepMind 推出的文生视频模型 Gemini Omni Flash 以 1404 Elo 的成绩登顶 Video Arena 盲测排行榜，领先字节跳动 Seedance 2.0 Mini 模型 101 Elo。谷歌旗下视频模型的排名较 Veo 时期提升了 7 位。Video Arena 根据用户盲测投票生成排名，此前字节 Seedance 系列模型长期占据榜前。",
+      "category": "tip",
+      "score": 42,
+      "selected": false,
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "文生视频",
+        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -484,6 +483,28 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmr4pyden041csll56iauih1m",
+      "title": "快手旗下AI视频部门Kling融资20亿美元，准备赴港IPO",
+      "title_en": "Chinese AI video maker Kling raises $2 billion as it gears up for Hong Kong IPO",
+      "url": "https://the-decoder.com/chinese-ai-video-maker-kling-raises-2-billion-as-it-gears-up-for-hong-kong-ipo",
+      "permalink": "https://aihot.virxact.com/items/cmr4pyden041csll56iauih1m",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-03T08:53:16.000Z",
+      "summary": "快手旗下AI视频部门Kling完成约20亿美元（138.2亿元人民币）融资，估值达180亿美元。本轮由CPE、国方投资、BlueFive、腾讯和中信证券领投，后续可能追加至30亿美元，届时快手持股将降至68.33%。快手计划将Kling分拆并在港交所上市。Kling与Google Veo 3.1、Runway Gen-4.5、字节跳动Seedance等竞争，近期发布了Kling 3.0视频模型。",
+      "category": "industry",
+      "score": 63,
+      "selected": false,
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 10,
+      "editorialScore": 13,
+      "tags": [
+        "runway",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmr3r8lqc0194sl7ld6c51dg1",
       "title": "Claude Code的Fable功能强大但不适合长自主任务",
       "title_en": "Fable in Claude Code is capable of really amazing things， including for non-coders， but the interfac…",
@@ -553,6 +574,29 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmr4fw5jk01ersll5thh6umqp",
+      "title": "从 SRA 到 Self-Flow：数据增强还是自监督？",
+      "title_en": "From SRA to Self-Flow： Data Augmentation or Self-Supervision？",
+      "url": "https://arxiv.org/abs/2607.02508",
+      "permalink": "https://aihot.virxact.com/items/cmr4fw5jk01ersll5thh6umqp",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "summary": "本研究重新审视扩散 Transformer 中自表示对齐方法从 SRA 到 Self-Flow 的改进机制。Self-Flow 采用双时间步调度，声称增益来自不同噪声层级 token 的交互。作者引入 Attention Separation，在保留双时间步输入的同时阻断跨噪声层注意力，发现去除交互不仅不会降低性能甚至有所提升，表明改进主要源于沿噪声维度的数据增强。Attention Separation 本身通过将单张图像拆分为多个有效训练部分来扩大数据。结合自表示对齐、双时间步与注意力分离增强的设计在 ImageNet 上验证了有效性。",
+      "category": "paper",
+      "score": 51,
+      "selected": false,
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "设计",
+        "交互",
+        "图像"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "cmr2mlotn09eysl8zw5rwxha3",
       "title": "GPT-5.5设计品味不足，期待GPT-5.6",
       "title_en": "I really wish GPT-5.5 had a bit more \"taste\" in design and planning. For everything else related to…",
@@ -597,120 +641,6 @@
         "skill"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmr27gufx05i3sl8zuuctq09q",
-      "title": "OpenAI 推出 GeneBench-Pro 基准测试，评估 AI 模型生物学计算能力",
-      "title_en": "OpenAI 推出 GeneBench-Pro 基准测试，用于评估 AI 模型生物学计算能力",
-      "url": "https://www.ithome.com/0/971/383.htm",
-      "permalink": "https://aihot.virxact.com/items/cmr27gufx05i3sl8zuuctq09q",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-01T14:53:23.000Z",
-      "summary": "OpenAI 发布 GeneBench-Pro 基准测试，评估 AI 模型在生物学计算中的真实研究能力。测试让模型面对模糊、不完整甚至带干扰的数据环境，自主完成数据探索、方法选择和策略修正。GeneBench-Pro 覆盖基因组学、定量生物学和转化医学等方向，共 129 道题，分布于 10 个大领域和 21 个子领域。为避免长流程评分偏差，OpenAI 采用合成数据构建题目。目前已在 Hugging Face 开源 10 道示例题并提供交互界面，后续将开放 50 道题给 Artificial Analysis 进行第三方独立评测。",
-      "category": "paper",
-      "score": 57,
-      "selected": false,
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "界面",
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmr27gufx05i4sl8z7mutekgw",
-      "title": "谷歌 AI 智能体 Gemini Spark 登陆苹果 Mac，可实时追踪资讯动态",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/971/382.htm",
-      "permalink": "https://aihot.virxact.com/items/cmr27gufx05i4sl8z7mutekgw",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-01T14:42:03.000Z",
-      "summary": "谷歌 AI 智能体 Gemini Spark 已登陆 macOS，整合进现有 Gemini 桌面客户端。Mac 版支持实时追踪赛事比分、股价、突发新闻等资讯，并可对接 Google Tasks、Google Keep、Canva、Dropbox、Instacart、OpenTable、Zillow 等应用，执行餐厅订位、生鲜采购、设计海报、预约看房等任务，还能读取本地文件分类整理或生成谷歌办公套件文档。macOS 测试版目前仅面向美国地区谷歌 AI Ultra 订阅会员开放，初期不支持跨设备联动，后续将支持手机端下达复合指令调用桌面端。谷歌同期推出对自定义 MCP 协议的支持。",
-      "category": "ai-products",
-      "score": 50,
-      "selected": false,
-      "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 8,
-      "editorialScore": 13,
-      "tags": [
-        "canva",
-        "海报",
-        "设计",
-        "智能体"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "cmr26cjzy057ysl8zizs6nbq7",
-      "title": "Gemini Spark，Google 智能体助手，现已登陆 Mac",
-      "title_en": "Gemini Spark， Google's agentic assistant， is now available on Mac",
-      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac",
-      "permalink": "https://aihot.virxact.com/items/cmr26cjzy057ysl8zizs6nbq7",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-01T14:20:19.000Z",
-      "summary": "Google 的 AI 智能体助手 Gemini Spark 本周三正式登陆 Mac 版 Gemini 桌面应用。新增实时追踪话题功能，可追踪体育比分、股票、突发新闻等动态。已集成 Google Tasks、Google Keep 以及 Canva、Dropbox、Instacart、OpenTable、Zillow Rentals 等第三方应用。用户可用 Spark 整理文件，将电脑文件作为 Google Workspace 文档的数据源。未来将在手机上支持指派多步骤任务。目前 Mac 版 Spark（beta）仅限美国地区 Google AI Ultra 订阅者使用，同时支持自定义 Model Context Protocol（MCP）连接更多应用。",
-      "category": "ai-products",
-      "score": 57,
-      "selected": false,
-      "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 8,
-      "editorialScore": 13,
-      "tags": [
-        "canva",
-        "智能体",
-        "mcp"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "cmr22vecn049rsl8zhdpctpe8",
-      "title": "可灵 Kling AI 在 2026 戛纳狮子奖斩获银狮铜狮",
-      "title_en": "Powered by Kling， Awarded at Cannes Lions 🏆 L'Ultimo Uomo Reale （The Last Real Man） won a Silver L…",
-      "url": "https://x.com/Kling_ai/status/2072296943666016418",
-      "permalink": "https://aihot.virxact.com/items/cmr22vecn049rsl8zhdpctpe8",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "publishedAt": "2026-07-01T12:31:07.000Z",
-      "summary": "可灵 Kling AI 宣布，由 Lipstick 制作、Sebastian Strasser 执导的短片《L'Ultimo Uomo Reale》（最后的真人）在 2026 年戛纳狮子奖上获奖：电影 - 消费品类银狮奖和新增的电影工艺 - AI 工艺类铜狮奖。片中大部分镜头由可灵 Kling AI 生成，展示出行业领先的角色一致性、电影级视觉效果和动作质量，成为导演创意的完美伙伴。",
-      "category": "industry",
-      "score": 53,
-      "selected": false,
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
-      "tags": [
-        "可灵",
-        "视觉",
-        "创意"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmr1yw4fs03b0sl8zon4zt5ay",
-      "title": "Rokid AR 眼镜官宣搭载恒玄 BES2810 芯片：6nm 工艺，支持全新语音交互",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/971/309.htm",
-      "permalink": "https://aihot.virxact.com/items/cmr1yw4fs03b0sl8zon4zt5ay",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-01T10:41:22.000Z",
-      "summary": "Rokid AR 眼镜搭载恒玄 BES2810 芯片（6nm 工艺，超低功耗），集成 NPU 和 HiFi 5s，算力与效率大幅提升，支持全新语音交互及灵活 EQ 调音。该眼镜在 Rokid Open Day 2026 亮相，采用空间 + AI 双摄设计，支持电致变色、6DoF 自由度、58° FoV 视野。此外，它首次搭载高通骁龙至尊空间计算协处理器（3nm 制程），算力远超 Rokid AR Studio、Meta Quest Pro、Pico4 等产品。",
-      "category": "ai-products",
-      "score": 26,
-      "selected": false,
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "设计",
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmr423l5s000oslh59mw6rqhr",
@@ -1044,26 +974,94 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cmr1zi1q703f7sl8za1zreki7",
-      "title": "日本应对劳动力短缺：为1000万台机器人开发的AI模型",
-      "title_en": "Japan's answer to its worker shortage： An AI model for 10 million robots",
-      "url": "https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model",
-      "permalink": "https://aihot.virxact.com/items/cmr1zi1q703f7sl8za1zreki7",
-      "source": "Artificial Intelligence News（RSS）",
-      "publishedAt": "2026-07-01T11:00:00.000Z",
-      "summary": "日本经济产业省与NEDO正式委托Noetra和AIST开发\"物理AI\"多模态基础模型，可同时理解语言、图像、视频和传感器数据，使机器人自主解读环境并行动。初始版本计划本财年发布，随后每年升级。政府目标到2040年在18个行业部署1000万台AI机器人，资金上限1万亿日元（约61亿美元），但仅前两年锁定，之后每年通过阶段门审查决定续投。Noetra由软银、NEC、索尼和本田控股，富士通和乐天正考虑加入。该计划直接回应日本老龄化与劳动力短缺，韩国近日也宣布了类似机器人战略。",
-      "category": "industry",
-      "score": 68,
+      "id": "cmr4mjbat035ssll56red6vbt",
+      "title": "阿图因 AI 发现 curl 漏洞，但作者称无法简单比较与 Mythos 强弱",
+      "title_en": "《阿图因 AI 在 CyberGym 测试中超过了 Mythos，不过这只是拼图的一部分》 https://mp.weixin.qq.com/s/BzU7g-2iG7d6h4ViwMhxyg 部分内…",
+      "url": "https://x.com/dotey/status/2072941568625906125",
+      "permalink": "https://aihot.virxact.com/items/cmr4mjbat035ssll56red6vbt",
+      "source": "X：宝玉 (@dotey)",
+      "publishedAt": "2026-07-03T07:12:38.000Z",
+      "summary": "阿图因 AI 对 curl 项目分析发现新漏洞 CVE-2026-9079，被官方定级为中危，于 curl 8.21.0 版本中修复。该漏洞未被 Mythos 发现。但作者认为不能简单说阿图因 AI 比 Mythos 更强，因为阿图因 AI 是 Agent，专为漏洞挖掘设计，而 Mythos 是模型，在数据恢复、恶意软件分析等安全任务上可能更强，且作者无法访问 Mythos 进行直接对比。",
+      "category": "tip",
+      "score": 60,
+      "selected": false,
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计",
+        "agent"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmr4j7a3z029jsll5kelwp3g5",
+      "title": "Claude Fable 5 在 RLI 基准测试中达成 16.1% 自动化率，刷新纪录",
+      "title_en": "威胁平面设计等远程工作者：AI 自动化 16.1% 项目已被攻克",
+      "url": "https://www.ithome.com/0/972/242.htm",
+      "permalink": "https://aihot.virxact.com/items/cmr4j7a3z029jsll5kelwp3g5",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-03T06:06:28.000Z",
+      "summary": "AI 安全中心（CAIS）于 7 月 1 日更新远程劳动指数（RLI），Claude Fable 5 模型自动化率达 16.1%，创下新高。此前最高为 Opus 4.6（基于 Claude Cowork 框架）的 4.17%。RLI 自 2025 年 10 月底上线时的 2.5% 起步，8 个月内跃升至 16.1%。测试涵盖 3D/CAD、平面设计、视频动画、音频制作等真实远程自由职业项目，由人工评审员对照人类专业标准评判。Fable 5 在珠宝设计、2D 动画广告、建筑平面图等项目上有所改善，但与人工产品仍有差距。",
+      "category": "tip",
+      "score": 54,
       "selected": false,
       "sourceType": "网站",
       "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "relevanceScore": 7,
+      "editorialScore": 10,
       "tags": [
+        "设计",
+        "广告",
         "视频",
-        "图像"
+        "3d"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmr4guo3q01mmsll5p5o8uyog",
+      "title": "卡兹克用Claude Fable 5优化AIHOT网站，被其自主能力震撼",
+      "title_en": "http://x.com/i/article/2072906137754906624",
+      "url": "https://x.com/Khazix0918/status/2072907396721398150",
+      "permalink": "https://aihot.virxact.com/items/cmr4guo3q01mmsll5p5o8uyog",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "publishedAt": "2026-07-03T04:56:50.000Z",
+      "summary": "卡兹克分享使用Claude Fable 5的震撼经历。他仅告知目标\"提升AIHOT网站的SEO和GEO质量\"，模型便自动开启22个Agent、耗时40分钟调研，发现豆包App每日6000+真人访问未被统计、海外网站每秒0.6次轮询等异常。随后它推翻此前Claude Opus 4.8设计的Cloudflare方案，改用火山引擎CDN，并自行找到隐藏的工单入口、撰写专业工单提交。22：19提交，22：22受理，22：44开通。工程师漏答回源IP网段问题，Fable 5礼貌追问并补充备选方案。官方方案存在安全漏洞，它额外设计暗号验证。23：30切换域名解析，10分钟后616个海外请求走新线路。最后生成运维文档，提醒边缘证书10月2日到期并附续期步骤。",
+      "category": "tip",
+      "score": 63,
+      "selected": false,
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计",
+        "agent"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmr4e0s7w0108sll54d12tesm",
+      "title": "Claude Code 推出 Artifacts 功能",
+      "title_en": "Claude Code 新功能：Artifacts 今天向左右Pro和Max用户开放… 它可以将你和Claude CXode 的会话变成一个能打开的实时可视化网页 这个页面任何人都能打开，…",
+      "url": "https://x.com/xiaohu/status/2072882871535304974",
+      "permalink": "https://aihot.virxact.com/items/cmr4e0s7w0108sll54d12tesm",
+      "source": "X：小互 (@xiaohu)",
+      "publishedAt": "2026-07-03T03:19:23.000Z",
+      "summary": "Claude Code 向 Pro 和 Max 用户开放新功能 Artifacts，可将整个会话（代码库、连接工具、对话内容）自动生成一个实时更新的可视化网页。页面可交互，能筛选排序仪表盘、自动打勾发布清单等。页面原地刷新，每次发布在同一链接下形成新版本，支持版本历史回退和 gallery 管理所有页面。",
+      "category": "ai-products",
+      "score": 69,
+      "selected": false,
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互",
+        "claude code"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmr46rbvk012esl3ggltylooc",
@@ -1376,27 +1374,26 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmr25kqk8050usl8zmlspp023",
-      "title": "Runway 宣布与 Bertelsmann 达成创意合作",
-      "title_en": "Runway Announces Creative Partnership with Bertelsmann",
-      "url": "https://runwayml.com/news/runway-announces-creative-partnership-with-bertelsmann",
-      "permalink": "https://aihot.virxact.com/items/cmr25kqk8050usl8zmlspp023",
-      "source": "Runway：News（网页）",
-      "publishedAt": "2026-07-01T14:10:15.339Z",
-      "summary": "Runway 宣布与 Bertelsmann 建立创意合作伙伴关系。双方将在创意内容领域展开合作，具体合作细节尚未披露。",
+      "id": "cmr4j7a3z029lsll52qun910f",
+      "title": "消息称阿里巴巴全面禁用 Anthropic 旗下 Claude 产品：7 月 10 日生效，全员卸载",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/972/210.htm",
+      "permalink": "https://aihot.virxact.com/items/cmr4j7a3z029lsll52qun910f",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-03T05:56:20.000Z",
+      "summary": "阿里巴巴内部宣布全面禁用 Claude，要求员工在 7 月 10 日前卸载 Anthropic 旗下 Sonnet、Opus、Fable 及 Claude Code 等产品。此前阿里鼓励员工使用外部模型并报销大额费用。此外，Reddit 网友发现 Claude Code 自今年 4 月 2 日发布的 2.1.91 版本起内置隐蔽检测机制，会检查系统时区是否为中国时区及 URL 是否匹配 147 个中国科技企业域名，并将结果编码在系统提示词中。Anthropic 团队成员回应称该机制是 3 月上线的实验性措施，用于防止账户转售和模型蒸馏攻击，已于 7 月 2 日新版本中完全回滚并删除相关代码。",
       "category": "industry",
-      "score": 48,
+      "score": 69,
       "selected": false,
       "sourceType": "网站",
-      "designCategory": "行业观察",
-      "relevanceScore": 9,
-      "editorialScore": 9,
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
       "tags": [
-        "runway",
-        "创意",
-        "creative"
+        "提示词",
+        "claude code"
       ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmr4aquhw004wsll50vc4zfqa",
