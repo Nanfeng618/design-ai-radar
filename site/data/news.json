@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-03T09:35:04.011Z",
-  "previousGeneratedAt": "2026-07-03T04:09:02.174Z",
+  "generatedAt": "2026-07-03T14:32:14.622Z",
+  "previousGeneratedAt": "2026-07-03T09:35:04.011Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 64,
+  "itemCount": 65,
   "sourceCounts": {
     "网站": 36,
     "X": 24,
-    "公众号": 4
+    "公众号": 5
   },
   "source": {
     "name": "AI HOT",
@@ -110,29 +110,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmr2am37z06bssl8z3jq0t2z9",
-      "title": "Osaurus：Mac本地AI工作台，自动切换模型原生图像生成",
-      "title_en": "Wow ，这个项目还是有点东西啊！ 真正不离开你电脑的AI 工作台 ，真的可以试试~ 目前6k GitHub Stars，15.5万次下载，MIT开源！ 来自Osaurus @OsaurusAI A…",
-      "url": "https://x.com/berryxia/status/2072348913559015852",
-      "permalink": "https://aihot.virxact.com/items/cmr2am37z06bssl8z3jq0t2z9",
-      "source": "X：Berry Xia (@berryxia)",
-      "publishedAt": "2026-07-01T15:57:38.000Z",
-      "summary": "Osaurus AI App 推出 Mac 原生 AI 工作台，不是浏览器套壳，而是用 Swift 在本地运行图像生成。用户生成图片时自动卸载当前聊天模型，加载本地图像模型（支持任意 MLX 模型），在 GPU 上生成并保存真实文件后再切回聊天模型，全程无需联网。目前 6k GitHub Stars、15.5 万次下载，MIT 开源，适合在 Mac 上本地跑多模型切换。",
-      "category": "ai-products",
-      "score": 63,
-      "selected": false,
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 18,
-      "editorialScore": 21,
-      "tags": [
-        "图像生成",
-        "生图",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmr2v28xu0bi6sl8ze9j1ovlv",
       "title": "消息称快手可灵 AI 将完成 30 亿美元融资：投后估值 180 亿美元，腾讯参投",
       "title_en": null,
@@ -223,6 +200,28 @@
         "视频生成",
         "视频",
         "3d"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmr4vy6w105icsll5ihv5nxfc",
+      "title": "Midjourney 发布医疗扫描仪幕后视频，但未解答关键问题",
+      "title_en": "A behind-the-scenes look at Midjourney's medical scanner leaves many questions unanswered",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+      "permalink": "https://aihot.virxact.com/items/cmr4vy6w105icsll5ihv5nxfc",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-07-03T11:49:10.000Z",
+      "summary": "Midjourney 发布了一款浴缸形超声扫描仪的幕后视频。该扫描仪由大量超声探头拆解拼装在带电梯的热水浴缸上，连接普通电脑和树莓派。视频近20分钟，由公司工程师兼YouTuber Marcin Plaza拍摄，展示了硬件和团队，但回避了此前专家提出的超声物理极限和成像质量问题。公司计划先在spa作为身体成分健康产品推出，而非诊断设备。医疗负责人Tom Calloway称将专注身体成分以\"速通\"上市，CEO David Holz表示没有投资者压力。",
+      "category": "industry",
+      "score": 47,
+      "selected": false,
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "midjourney",
+        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -413,6 +412,28 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmr4riftj04d6sll5txm862cu",
+      "title": "昆仑万维WAIC发布四大AI模型：世界模型、视频、音乐、机器人",
+      "title_en": "WAIC7月19日重磅来袭：黄晓明王珞丹助阵昆仑万维论坛，四大AI模型首发，重塑全球AGI内容生态",
+      "url": "https://mp.weixin.qq.com/s/1k2iJmwRiBJ4MMr-vi0xYA",
+      "permalink": "https://aihot.virxact.com/items/cmr4riftj04d6sll5txm862cu",
+      "source": "公众号：昆仑万维（天工）",
+      "publishedAt": "2026-07-03T04:05:31.000Z",
+      "summary": "7月19日，昆仑万维在WAIC举办\"世界模型与多模态范式革命\"论坛，全球首发Matrix-3.5世界模型、SkyReels v4.5视频大模型、Mureka v9.5音乐大模型、Riemann-1.0机器人模型。周志华院士、黄晓明、王珞丹等嘉宾出席。四大模型覆盖世界模型、视频生成、音乐创作、具身智能，落地游戏工业化、短剧量产、平民化音乐创作等场景。",
+      "category": "ai-models",
+      "score": 27,
+      "selected": false,
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmr33is69009asly08t0wfeso",
       "title": "天工AI业务ARR突破8亿美元，向10亿美元ARR目标迈进",
       "title_en": "天工AI业务ARR突破8亿美元，向中国首个非BAT10亿美元ARR的AI公司迈进",
@@ -459,28 +480,26 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmr2a89ni0678sl8zx3uaxywo",
-      "title": "部署零售AI以扩展个性化和客户洞察",
-      "title_en": "Deploying retail AI to scale personalisation and customer insight",
-      "url": "https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight",
-      "permalink": "https://aihot.virxact.com/items/cmr2a89ni0678sl8zx3uaxywo",
-      "source": "Artificial Intelligence News（RSS）",
-      "publishedAt": "2026-07-01T15:58:43.000Z",
-      "summary": "零售AI通过生成式UI实时定制页面布局、文案和交互组件，将购买频率提升35%、平均订单价值提高21%。多模态社交倾听系统处理视频、音频和未标记图像，覆盖82%的互联网流量，全球市场本财年达28.3亿美元，76%的分析师报告可见投资回报。基于大语言模型的合成用户模拟可在沙箱环境中执行数千次自动化访谈和内容测试。边缘计算硬件支持无收银台结账、实时货架跟踪等物理自动化，该市场预计2040年超3700亿美元。Model Context Protocol（MCP）作为开放通信标准，标准化模型与零售数据库、产品目录及CRM的集成。",
-      "category": "tip",
-      "score": 45,
+      "id": "cmr4rk28j04djsll52izuz3bk",
+      "title": "阿里百度腾讯参投可灵20亿融资",
+      "title_en": "Alibaba has joined a $2B funding round for Kuaishou's AI video unit Kling， valuing it at about $15B …",
+      "url": "https://x.com/thexpin/status/2072979634682228747",
+      "permalink": "https://aihot.virxact.com/items/cmr4rk28j04djsll52izuz3bk",
+      "source": "X：X.PIN (@thexpin)",
+      "publishedAt": "2026-07-03T09:43:53.000Z",
+      "summary": "阿里巴巴已加入快手旗下AI视频部门可灵（Kling）的20亿美元融资轮，投前估值约150亿美元。该轮融资还包括百度与腾讯，并可能扩大至30亿美元。可灵正崛起为中国最强的生成视频挑战者之一，与字节跳动旗下Seedance及生数科技等初创公司竞争。其ARR据称从1月的3亿美元增至3月的5亿美元，受益于可灵3.0。",
+      "category": "industry",
+      "score": 65,
       "selected": false,
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
+      "sourceType": "X",
+      "designCategory": "图像与视频",
       "relevanceScore": 10,
-      "editorialScore": 14,
+      "editorialScore": 13,
       "tags": [
-        "ui",
-        "交互",
-        "视频",
-        "图像"
+        "可灵",
+        "视频"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmr4pyden041csll56iauih1m",
@@ -619,28 +638,26 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmr28gvyo05r2sl8zbf2jtp3i",
-      "title": "6个PPT Skill处理GEO入门文档对比测试",
-      "title_en": "赖叔的这个视频做的不错😄 据说GEO很赚钱啊，我不知道我能不能忽悠到我们老板。",
-      "url": "https://x.com/berryxia/status/2072342230384463983",
-      "permalink": "https://aihot.virxact.com/items/cmr28gvyo05r2sl8zbf2jtp3i",
-      "source": "X：Berry Xia (@berryxia)",
-      "publishedAt": "2026-07-01T15:31:04.000Z",
-      "summary": "用户用Codex将GEO入门文档整理后，分别交给6个顶流PPT Skill生成演示内容。部分Skill输出HTML，宝玉走生图路线，PPT Master可直接生成PPT和PDF便于编辑。归藏版本留白较多，适合演讲类内容，而非知识点密集的培训课件。测试仅反映默认表现，不代表各Skill能力上限。用户根据本次交付暂时更倾向PPT Master。",
+      "id": "cmr4yj3qy068esll5slrz6ih8",
+      "title": "社区开发者基于 MiniCPM5-1B 构建 EdgeHome Harness：全栈 Rust 框架实现智能家居边缘控制器",
+      "title_en": "Big things come in small packages - and MiniCPM5-1B proves it once again. 🥳 A developer in our comm…",
+      "url": "https://x.com/OpenBMB/status/2073029309867151802",
+      "permalink": "https://aihot.virxact.com/items/cmr4yj3qy068esll5slrz6ih8",
+      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "publishedAt": "2026-07-03T13:01:17.000Z",
+      "summary": "社区开发者 @OrlandoLiuqn 基于面壁智能 MiniCPM5-1B 构建了 EdgeHome Harness--一个全栈 Rust 框架，将轻量 1B 模型转化为可靠的智能家居/垂直场景确定性控制器。整个堆栈仅需 2GB RAM（模型 688MB，运行时约 1GB；Rust Harness 25MB-64MB）。工作流程：用户命令 → MiniCPM5 生成候选 JSON → Rust 验证、规划、执行并追踪，模型从不直接接触设备。框架通过设备注册表与策略门（自动执行/确认/回退）强制安全边界，并内置 Trace/Replay/Eval 实现可观测与可重现。该工程原型证明小模型在合适框架下可可靠运行于边缘。",
       "category": "tip",
-      "score": 58,
+      "score": 63,
       "selected": false,
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
+      "designCategory": "设计工具",
+      "relevanceScore": 7,
+      "editorialScore": 12,
       "tags": [
-        "生图",
-        "视频",
-        "codex",
-        "skill"
+        "原型",
+        "工作流"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "cmr423l5s000oslh59mw6rqhr",
@@ -704,50 +721,6 @@
       "editorialScore": 12,
       "tags": [
         "midjourney"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmr2cvo6g06xrsl8z8tdlxqew",
-      "title": "Notion 新增 HTML 块 支持交互构建",
-      "title_en": "HTML mentioned",
-      "url": "https://x.com/trq212/status/2072366310416425053",
-      "permalink": "https://aihot.virxact.com/items/cmr2cvo6g06xrsl8z8tdlxqew",
-      "source": "X：Thariq (@trq212)",
-      "publishedAt": "2026-07-01T17:06:45.000Z",
-      "summary": "Notion 推出了全新的 HTML 块。现在你可以直接在 Notion 页面中构建交互式 HTML，让 AI 将你的内容转化为交互式讲解、原型或图表，并与团队成员一同使用和修改。Thariq 对此进行了提及。",
-      "category": "ai-products",
-      "score": 60,
-      "selected": false,
-      "sourceType": "X",
-      "designCategory": "设计工具",
-      "relevanceScore": 7,
-      "editorialScore": 12,
-      "tags": [
-        "原型",
-        "交互"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "cmr2ae7p4068tsl8z7b16p4ih",
-      "title": "可灵推出互动故事系列《Choose Your Journey》",
-      "title_en": "End of video. Start of game. Welcome to Choose Your Journey， our new interactive story series. Find…",
-      "url": "https://x.com/Kling_ai/status/2072350860005523456",
-      "permalink": "https://aihot.virxact.com/items/cmr2ae7p4068tsl8z7b16p4ih",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "publishedAt": "2026-07-01T16:05:22.000Z",
-      "summary": "视频结束，游戏开始。\n欢迎来到《Choose Your Journey》，我们全新的互动故事系列。\n找到你的出路。\n三扇门，一个选择。\n明智抉择。",
-      "category": "ai-products",
-      "score": 26,
-      "selected": false,
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
-      "tags": [
-        "可灵",
-        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -817,6 +790,28 @@
         "设计"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmr4sr6t804pmsll5s7o6a2d6",
+      "title": "AGVBench：面向可靠性的静脉识别数据增强基准",
+      "title_en": "AGVBench： A Reliability-Oriented Benchmark of Data Augmentation for Vein Recognition",
+      "url": "https://arxiv.org/abs/2607.02271",
+      "permalink": "https://aihot.virxact.com/items/cmr4sr6t804pmsll5s7o6a2d6",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "summary": "AGVBench 在五个掌静脉与指静脉公开数据集上，以七种骨干网络（经典 CNN、视觉 Transformer、静脉专用模型）评估了 30 种代表性数据增强策略。结果表明，多图像混合方法（如 MixUp、PuzzleMix、StarMixup）识别性能最优，但校准性差且易受对抗扰动攻击，干净准确率与对抗安全性不一致。剧烈几何变换常因特征错位或空间裁剪导致识别下降，且增强效果在掌静脉与指静脉数据集上差异显著。这说明仅以准确率评估生物特征增强存在不足。AGVBench 提供标准化协议以支持可重复研究，代码已开源。",
+      "category": "paper",
+      "score": 43,
+      "selected": false,
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmr4blm3e00alsll5ubkj729q",
@@ -974,6 +969,28 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
+      "id": "cmr50w5zm06scsll5nxdvck3h",
+      "title": "Claude Fable 5 回归上线，ZenMux 限时免费使用",
+      "title_en": "AI可能已经觉醒了，只是我们还不知道",
+      "url": "https://x.com/AYi_AInotes/status/2073039616844726480",
+      "permalink": "https://aihot.virxact.com/items/cmr50w5zm06scsll5nxdvck3h",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-07-03T13:42:14.000Z",
+      "summary": "Claude Fable 5 回归上线，通过 ZenMux 的 claude-fable-5-free 端点可免费使用，无需官方高价额度，无 RPM 限制。Fable 5 能系统性避免塑料皮肤、娃娃脸、畸形手等 AI 生图常见问题，配合三步提示词方法（拆解塑料感根源→构建 8 维框架→出示例+自我修正）可输出高质量商业人像。ZenMux 支持同屏对比 Fable 5、GPT-5.5、Opus 4.8 等 200+ 模型，自动充值每笔返 20% 余额（最多 3 次共 300 刀赠金），并提供 gpt-image-2 模型。",
+      "category": "tip",
+      "score": 55,
+      "selected": false,
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "生图",
+        "提示词"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmr4mjbat035ssll56red6vbt",
       "title": "阿图因 AI 发现 curl 漏洞，但作者称无法简单比较与 Mythos 强弱",
       "title_en": "《阿图因 AI 在 CyberGym 测试中超过了 Mythos，不过这只是拼图的一部分》 https://mp.weixin.qq.com/s/BzU7g-2iG7d6h4ViwMhxyg 部分内…",
@@ -1060,6 +1077,28 @@
       "tags": [
         "交互",
         "claude code"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmr47jts001b6sl3g08xlxrx9",
+      "title": "Every 团队使用 Codex 的深度实践",
+      "title_en": "Every 团队使用 Codex 的深度实践 https://every.to/context-window/codex-in-practice?utm_source=X # 背景不同的五人、五种不…",
+      "url": "https://x.com/shao__meng/status/2072842101067481210",
+      "permalink": "https://aihot.virxact.com/items/cmr47jts001b6sl3g08xlxrx9",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-07-03T00:37:23.000Z",
+      "summary": "Five team members with different backgrounds （Natalia， Dan， Katie， Austin， Kieran） used Codex in distinct workflows. Common patterns emerged： context matters more than prompts； let Codex design its own system； delegate repetitive tasks to background threads； and build audit/feedback loops. Their setups range from outcome-first （Austin） to long-running router threads （Dan） to portable context folders （Kieran）. The article recommends picking one style that fits your work rather than overthinking.",
+      "category": "tip",
+      "score": 64,
+      "selected": false,
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "design",
+        "codex"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
@@ -1286,29 +1325,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmr2a5ylh066ksl8zdcmac2cd",
-      "title": "用 Genkit 构建智能体全栈应用",
-      "title_en": "Build agentic full-stack apps with Genkit",
-      "url": "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit",
-      "permalink": "https://aihot.virxact.com/items/cmr2a5ylh066ksl8zdcmac2cd",
-      "source": "Google Developers Blog（RSS）",
-      "publishedAt": "2026-07-01T16:17:55.480Z",
-      "summary": "开源框架 Genkit 推出 Agents API，将消息历史、工具循环和流式传输封装为单一接口，简化对话 AI 开发。该 API 支持服务器或客户端管理的状态持久化，可实现历史分支、长时间运行的分离任务及多智能体协调等高级工作流，并通过统一线协议连接前后端。目前以 TypeScript 和 Go 预览版发布，集成 Genkit Developer UI，开发者无需编写客户端代码即可测试、调试和检查智能体快照。",
-      "category": "ai-products",
-      "score": 52,
-      "selected": false,
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "ui",
-        "工作流",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmr41g5dr001ssln2uyz531b9",
       "title": "借用夜晚：将闲置推理GPU回收用于研究",
       "title_en": "Borrowing the Night： Reclaiming Idle Inference GPUs for Research",
@@ -1374,6 +1390,29 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmr4s179804l5sll5u47j7031",
+      "title": "面向 Web 开发者的 Safari MCP 服务器",
+      "title_en": null,
+      "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
+      "permalink": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-03T09:59:42.679Z",
+      "summary": "Safari Technology Preview 247 推出 Safari MCP 服务器，基于 Model Context Protocol，允许任何 MCP 兼容客户端连接 Safari 浏览器窗口。智能体可获取 DOM、网络请求、截图、控制台输出等信息，自主完成调试、性能分析、可访问性检查等任务。内置 `browser_console_messages`、`screenshot`、`evaluate_javascript`、`list_network_requests` 等工具。开发者安装后启用\"远程自动化与外部智能体\"选项，即可通过命令接入，减少窗口切换。",
+      "category": "ai-products",
+      "score": 72,
+      "selected": true,
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "自动化",
+        "智能体",
+        "mcp"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cmr4j7a3z029lsll52qun910f",
       "title": "消息称阿里巴巴全面禁用 Anthropic 旗下 Claude 产品：7 月 10 日生效，全员卸载",
       "title_en": null,
@@ -1415,30 +1454,6 @@
         "codex",
         "claude code",
         "skill"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmr3mohtn001ksl7lb7x45k7m",
-      "title": "Anthropic 推出 Claude Science 公开测试版，集成 NVIDIA BioNeMo 加速科学研究",
-      "title_en": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
-      "url": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science",
-      "permalink": "https://aihot.virxact.com/items/cmr3mohtn001ksl7lb7x45k7m",
-      "source": "Artificial Intelligence News（RSS）",
-      "publishedAt": "2026-07-02T14:38:01.000Z",
-      "summary": "Anthropic 推出面向科学研究的 AI 工作台 Claude Science 公开测试版，科学家可通过自然语言与数字智能体交互执行端到端研究流程。该平台原生集成 NVIDIA BioNeMo Agent Toolkit，将 GPU 加速计算资源封装为可调用的技能模块。全球前 20 大制药公司中已有 18 家生产部署 BioNeMo。基因组分析工具 Parabricks 将处理时间从数小时压缩至数分钟；RAPIDS-singlecell 将 130 万细胞预处理和聚类工作流从 52 分钟缩短至 25 秒；nvMolKit 加速分子相似性搜索和构象生成最高达 3，000 倍。系统还提供 Evo 2、Boltz-2、OpenFold3 等加速开放模型。",
-      "category": "industry",
-      "score": 48,
-      "selected": false,
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "交互",
-        "工作流",
-        "agent",
-        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
