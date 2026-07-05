@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-04T13:58:13.466Z",
-  "previousGeneratedAt": "2026-07-03T14:32:14.622Z",
+  "generatedAt": "2026-07-05T04:20:30.842Z",
+  "previousGeneratedAt": "2026-07-04T13:58:13.466Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 65,
+  "itemCount": 64,
   "sourceCounts": {
     "X": 24,
-    "公众号": 9,
-    "网站": 32
+    "网站": 33,
+    "公众号": 7
   },
   "source": {
     "name": "AI HOT",
@@ -35,6 +35,30 @@
         "ux",
         "design",
         "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmr6j5vxj03gpslf01w16yyx7",
+      "title": "Anthropic 借助 Claude 推进自有药物研发",
+      "title_en": "Anthropic wants to make its own drugs with help from Claude. Claude Science is meant to do for lab …",
+      "url": "https://x.com/rohanpaul_ai/status/2073430526476894292",
+      "permalink": "https://aihot.virxact.com/items/cmr6j5vxj03gpslf01w16yyx7",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-07-04T15:35:34.000Z",
+      "summary": "Anthropic 宣布推出 Claude Science，旨在像 Claude Code 改变编程那样革新实验室研究。药物发现过程充满不确定性，分子常因生物学、化学、安全性或剂量问题失败。Anthropic 让自家研究人员直接体验这种失败并反馈到产品设计中。首批项目聚焦被忽视疾病，包括罕见遗传病和部分热带病。罕见病通常由单个基因突变引发，为 AI 提供更清晰的靶点，而常见病则涉及多基因、组织与环境的复杂交互。Anthropic 选择这类领域以避开与大型制药客户的竞争。公司已收购 Coefficient Bio，并聘请原 AlphaFold 研究员 John Jumper，表明生物学并非副业。",
+      "category": "industry",
+      "score": 67,
+      "selected": false,
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 18,
+      "editorialScore": 22,
+      "tags": [
+        "产品设计",
+        "设计",
+        "交互",
+        "claude code"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
@@ -111,6 +135,30 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmr6ogx3g0046slj6nkhfred0",
+      "title": "Midjourney 要求好莱坞制片厂披露自身 AI 使用细节",
+      "title_en": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage",
+      "permalink": "https://aihot.virxact.com/items/cmr6ogx3g0046slj6nkhfred0",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-07-04T18:00:05.000Z",
+      "summary": "Midjourney 在与迪士尼、环球和华纳兄弟的版权诉讼中，要求对方披露自身使用生成式 AI 的具体情况。Midjourney 认为，若制片厂也在内部未经授权使用受版权保护的内容训练 AI，则证明其行为属行业惯例。此前法官裁定制片厂仅需提供涉及面向消费者的视频和图像的相关文档。Midjourney 最新动议试图推翻该限制，并主张制片厂应公开所有在 Midjourney 上使用的提示词及对应输出结果。片方律师称此举为\"钓鱼执法\"。",
+      "category": "industry",
+      "score": 66,
+      "selected": false,
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 16,
+      "editorialScore": 19,
+      "tags": [
+        "midjourney",
+        "视频",
+        "图像",
+        "提示词"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmr65w1mt004islf0cvef7q78",
       "title": "西方尚无文生视频模型能比肩 Seedance 2.0，Seedance 2.5 已就绪",
       "title_en": "Still， no Western text-to-video model comes close to Seedance 2.0， and Seedance 2.5 is already ready…",
@@ -131,30 +179,6 @@
         "sora",
         "创意",
         "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmr3juaag0072slisyufl4hsh",
-      "title": "Arcads 将 Slack 变为 AI 广告工作室，支持 Claude 协作与多视频工具",
-      "title_en": "You can now create ads directly inside Slack. Arcads turns Slack into an AI ad studio that also res…",
-      "url": "https://x.com/rohanpaul_ai/status/2072671363266220374",
-      "permalink": "https://aihot.virxact.com/items/cmr3juaag0072slisyufl4hsh",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-07-02T13:18:56.000Z",
-      "summary": "Arcads 将 Slack 转化为 AI 广告工作室，用户可直接在 Slack 内创建广告、研究竞争对手并生成创意。支持 Claude Tag（@Claude 跨频道跨工具委派任务）和 MCP（让 Claude 从 Slack 安全调用 Arcads 技能）。同一界面可调用 Veo 3.1、Kling Motion Control、Nano Banana、Sora 2 Pro 等视频生成工具。官方宣布 Claude x Arcads in Slack 即日上线，用户可在 Slack DM 中获取病毒式广告。",
-      "category": "ai-products",
-      "score": 52,
-      "selected": false,
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 16,
-      "editorialScore": 19,
-      "tags": [
-        "视频生成",
-        "sora",
-        "界面",
-        "广告"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -183,6 +207,54 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmr6lzw57000gsl7xtnq7gt0p",
+      "title": "分享文章转字形图标矩阵的生图提示词",
+      "title_en": "一整篇文章丢过去，让Codex或ChatGPT生图解读。 提示词如下： 【文章内容】 --- 围绕内容主题，生成一组 10个汉字以内字形图标，矩阵排列，16：9横版构图，留白克制。 一个大号黑体汉…",
+      "url": "https://x.com/vista8/status/2073450347167944992",
+      "permalink": "https://aihot.virxact.com/items/cmr6lzw57000gsl7xtnq7gt0p",
+      "source": "X：Vista (@vista8)",
+      "publishedAt": "2026-07-04T16:54:20.000Z",
+      "summary": "一条分享给 Codex 或 ChatGPT 的提示词模板，用于将整篇文章生成一组字形图标矩阵。要求：10 字以内汉字图标，16：9 横版构图；一个大号黑体汉字，主题相关形体替代或嵌入笔画，下方配灰色索引文字；风格为高对比剪影、实心块面、硬边无装饰；配色限深色底、高明度主字、单一强调色，边界锐利、背景纯净。整体效果类似主题字库标本卡，非插画或海报。",
+      "category": "tip",
+      "score": 65,
+      "selected": false,
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 14,
+      "editorialScore": 17,
+      "tags": [
+        "生图",
+        "海报",
+        "提示词",
+        "codex"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmr71abva0268slfeh1qr5pha",
+      "title": "Midjourney 反击好莱坞：要求迪士尼等制片厂披露自身 AI 使用情况",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/972/681.htm",
+      "permalink": "https://aihot.virxact.com/items/cmr71abva0268slfeh1qr5pha",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-04T23:09:24.000Z",
+      "summary": "Midjourney 在与迪士尼、环球影业、华纳兄弟的版权诉讼中，申请强制三家影业披露自身 AI 使用情况。Midjourney 辩称其模型使用受版权保护的角色图像训练属于合理使用，并指出影业内部可能也存在类似未经授权下载素材训练 AI 的行为。此前法官裁定影业仅需提供面向消费者的 AI 生成内容，Midjourney 请求撤销该限制，要求影业交出所有在 Midjourney 平台使用过的提示词及对应生成图像。制片厂律师称该请求属于大范围证据搜寻。",
+      "category": "industry",
+      "score": 61,
+      "selected": false,
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 13,
+      "editorialScore": 16,
+      "tags": [
+        "midjourney",
+        "图像",
+        "提示词",
+        "版权"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmr53w0kz07ldsll5cdzfbewt",
       "title": "C罗参演、可灵助阵：葡萄牙国家队世界杯出征视频的幕后故事",
       "title_en": null,
@@ -202,6 +274,30 @@
         "可灵",
         "视觉",
         "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmr6ms5de000usl2n6vq3huim",
+      "title": "对比测试 seedance 2.0 与 Grok 视频生成能力，小红书 Red Skill 分发效率超越 GitHub",
+      "title_en": "对比测试seedance 2.0和Grok的语言能力，同一套提示词，大家可以猜猜哪个是Grok的，哪个是seedance 2.0，也可以自己测试， 为了保证效果记得放参考图喔，我用的是Super Gr…",
+      "url": "https://x.com/AYi_AInotes/status/2073445302871478571",
+      "permalink": "https://aihot.virxact.com/items/cmr6ms5de000usl2n6vq3huim",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-07-04T16:34:17.000Z",
+      "summary": "用户用同一套提示词（含百叶窗光影、说唱动作等日系风格）对比 seedance 2.0 与 Grok 的视频生成能力，邀请网友盲猜结果。引用分析称，小红书 Red Skill 已成 AI Skill 分发中心：7月3日格式全放开（支持 py/js/html 等文件），vibecoding 内嵌交互小工具即将上线。数据显示排行榜第一的\"菜菜的人生系统\"获 32.6 万曝光、4 万多人次使用，分发效率远超 GitHub。建议创作者将 Skill 打包成教程笔记、聚焦垂直场景、趁早入场积累数据。",
+      "category": "tip",
+      "score": 64,
+      "selected": false,
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "视频生成",
+        "交互",
+        "视频",
+        "提示词"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -391,28 +487,27 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmr3lfadp0031sl90k58m97l2",
-      "title": "Claude Code+Sonnet 5 十八分钟做出获奖级网站",
-      "title_en": "Damn！网页设计师的护城河，一夜之间又塌了一块。 只用 Claude Code 加 Sonnet 5，十八分钟就能做出获奖级的完整网站，从设计感到代码完成度全部拉满。 以前我们总说 AI 做的东西…",
-      "url": "https://x.com/AYi_AInotes/status/2072672905855389894",
-      "permalink": "https://aihot.virxact.com/items/cmr3lfadp0031sl90k58m97l2",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-07-02T13:25:03.000Z",
-      "summary": "推文指出，使用 Claude Code 加 Sonnet 5 仅 18 分钟就能做出获奖级的完整网站，设计与代码完成度均达到专业水准。Agent 能力提升后，复杂多步设计任务可稳定落地，质感跨越专业门槛。未来不会用 AI 的设计师将被会用的同行甩开，执行层价值加速坍缩，审美与判断力成为真正的硬通货。",
+      "id": "cmr6tqv9w00bislfe2ac85oro",
+      "title": "给Codex发截图使用图像生成",
+      "title_en": "easiest way to this is to send codex a screenshot and tel lit to use image gen",
+      "url": "https://x.com/jxnlco/status/2073503741505061233",
+      "permalink": "https://aihot.virxact.com/items/cmr6tqv9w00bislfe2ac85oro",
+      "source": "X：Jason Liu (@jxnlco)",
+      "publishedAt": "2026-07-04T20:26:30.000Z",
+      "summary": "最简单的方法是给Codex发送截图，然后告诉它使用图像生成。",
       "category": "tip",
-      "score": 54,
+      "score": 46,
       "selected": false,
       "sourceType": "X",
-      "designCategory": "产品与体验",
+      "designCategory": "图像与视频",
       "relevanceScore": 11,
-      "editorialScore": 15,
+      "editorialScore": 14,
       "tags": [
-        "设计师",
-        "设计",
-        "claude code",
-        "agent"
+        "图像生成",
+        "图像",
+        "codex"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmr5xjt5r06gxslc75d9pjt70",
@@ -552,6 +647,30 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmr6g0s2f02p0slf0qhndx9ym",
+      "title": "Elvis Saravia：多模态提示是智能体交互的未来",
+      "title_en": "http://x.com/i/article/2073402070753738752",
+      "url": "https://x.com/omarsar0/status/2073404610501329247",
+      "permalink": "https://aihot.virxact.com/items/cmr6g0s2f02p0slf0qhndx9ym",
+      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+      "publishedAt": "2026-07-04T13:52:35.000Z",
+      "summary": "Elvis Saravia（DAIR.AI）分享多模态提示实验经验。他通过录制语音、屏幕标注、鼠标点击等动作构建多模态\"任务\"，预处理后传给智能体，使任务完成更高效。该方法节省数小时工作，减少交互挫折感。他将录制任务打包为可复用的技能/工作流，应用于网页开发、设计、原型、研究、模拟等场景。他认为未来原生多模态模型将直接消费这类丰富输入。",
+      "category": "tip",
+      "score": 55,
+      "selected": false,
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "原型",
+        "设计",
+        "交互",
+        "工作流"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "cmr5kxm0y03baslc7hh3p30oq",
       "title": "Elvis Saravia：多模态提示是未来方向",
       "title_en": "Multimodal prompting is clearly the future. I love experimenting with new ways to interact with ag…",
@@ -688,30 +807,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmr3ko29800bcslisze1rjlz0",
-      "title": "可灵AI广告斩获戛纳金狮：两部作品获1银2铜",
-      "title_en": "戛纳金狮首设AI子赛道：可灵制作斩获1银2铜，它们为何打动评委？",
-      "url": "https://mp.weixin.qq.com/s/3yZDEheYDnGrveMN5jN2TQ",
-      "permalink": "https://aihot.virxact.com/items/cmr3ko29800bcslisze1rjlz0",
-      "source": "公众号：可灵AI（快手·视频）",
-      "publishedAt": "2026-07-02T13:37:52.000Z",
-      "summary": "戛纳国际创意节今年首设AI Craft子赛道，两部使用可灵AI生成的广告获奖：《L'Ultimo Uomo Reale》获Classic单元Film银奖及Craft单元Film铜奖，《Lorem Ipsum》获Classic单元Film铜奖。前者为二手奢侈品平台The RealReal的愚人节广告，几乎全由AI生成，仅手提包为实拍，展现人物一致性和复杂视觉奇观；后者由Purga Films制作，全片角色用拉丁文假文对话，风格迥异但情绪推进精准。两部作品标志可灵已产出商业交付级广告，获全球最高级别广告创意殿堂认可。",
-      "category": "industry",
-      "score": 49,
-      "selected": false,
-      "sourceType": "公众号",
-      "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
-      "tags": [
-        "可灵",
-        "视觉",
-        "广告",
-        "创意"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmr6c2ban01pjslf0qokwumjl",
       "title": "pxpipe：利用OCR将Fable 5长文本输入成本降低70%",
       "title_en": "damn，真的离谱，Fable 5的成本居然能靠OCR直接砍掉70%？！🤔 原理特别简单，把Claude Code里的长上下文转成图片，扔给Fable 5做OCR识别就行。 本质就是吃了文本和图…",
@@ -757,73 +852,6 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cmr5wmvco06adslc7impjdzzr",
-      "title": "pxpipe：图像转代码降Fable 5长上下文成本60%",
-      "title_en": "Developers found a cheaper way to feed Fable 5 large context by showing it pictures of text. Normal…",
-      "url": "https://x.com/rohanpaul_ai/status/2073270737226674513",
-      "permalink": "https://aihot.virxact.com/items/cmr5wmvco06adslc7impjdzzr",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-07-04T05:00:37.000Z",
-      "summary": "开发者用pxpipe将代码/日志等文本渲染为1928×1928 PNG图像，作为视觉token（约4，761个）发送给Fable 5，而非按文本token计费。每张图像可容纳约92K字符，密集文本成本大幅降低。但此压缩通过视觉OCR实现，非无损存储：模型可能误读精确ID、哈希或字符串，适合批量背景上下文，不适用于字节级精确场景。据引用，可透明地将代码转为图像让模型OCR，削减约60%成本。",
-      "category": "tip",
-      "score": 72,
-      "selected": false,
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
-      "tags": [
-        "视觉",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmr5oaony046qslc7yacix2sa",
-      "title": "Claude Fable 5 实战指南--发现你的未知",
-      "title_en": "Claude Fable 5 实战指南--发现你的未知 Claude Code 核心开发者 @trq212 借用「地图不是疆域」这一经典认识论隐喻，提出与 Claude Fable 5 协作时的关键…",
-      "url": "https://x.com/shao__meng/status/2073208470447497386",
-      "permalink": "https://aihot.virxact.com/items/cmr5oaony046qslc7yacix2sa",
-      "source": "X：邵猛 (@shao__meng)",
-      "publishedAt": "2026-07-04T00:53:12.000Z",
-      "summary": "Claude Code 核心开发者 @trq212 提出与 Claude Fable 5 协作时，模型能力已非瓶颈，用户澄清\"未知\"的能力才是关键。他将未知分为四类：Known Knowns、Known Unknowns、Unknown Knowns（如审美）、Unknown Unknowns。指令需平衡具体与模糊，过具体束缚模型，过模糊则按行业最佳实践假设致偏离。实操分三阶段：实现前用盲点扫描、原型、访谈、参考挖出未知；实现中用临时 implementation-notes.md 记录偏离；实现后通过 Pitch 制品与测验自检。案例验证该流程让 Claude Code 独立剪辑发布视频。",
-      "category": "tip",
-      "score": 72,
-      "selected": false,
-      "sourceType": "X",
-      "designCategory": "设计工具",
-      "relevanceScore": 7,
-      "editorialScore": 12,
-      "tags": [
-        "原型",
-        "视频",
-        "claude code"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "cmr4yj3qy068esll5slrz6ih8",
-      "title": "社区开发者基于 MiniCPM5-1B 构建 EdgeHome Harness：全栈 Rust 框架实现智能家居边缘控制器",
-      "title_en": "Big things come in small packages - and MiniCPM5-1B proves it once again. 🥳 A developer in our comm…",
-      "url": "https://x.com/OpenBMB/status/2073029309867151802",
-      "permalink": "https://aihot.virxact.com/items/cmr4yj3qy068esll5slrz6ih8",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "publishedAt": "2026-07-03T13:01:17.000Z",
-      "summary": "社区开发者 @OrlandoLiuqn 基于面壁智能 MiniCPM5-1B 构建了 EdgeHome Harness--一个全栈 Rust 框架，将轻量 1B 模型转化为可靠的智能家居/垂直场景确定性控制器。整个堆栈仅需 2GB RAM（模型 688MB，运行时约 1GB；Rust Harness 25MB-64MB）。工作流程：用户命令 → MiniCPM5 生成候选 JSON → Rust 验证、规划、执行并追踪，模型从不直接接触设备。框架通过设备注册表与策略门（自动执行/确认/回退）强制安全边界，并内置 Trace/Replay/Eval 实现可观测与可重现。该工程原型证明小模型在合适框架下可可靠运行于边缘。",
-      "category": "tip",
-      "score": 63,
-      "selected": false,
-      "sourceType": "X",
-      "designCategory": "设计工具",
-      "relevanceScore": 7,
-      "editorialScore": 12,
-      "tags": [
-        "原型",
-        "工作流"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
       "id": "cmr423l5s000oslh59mw6rqhr",
       "title": "RAG-Anything 教程：在 Colab 中构建文本、表格、公式和图像的多模态检索管道",
       "title_en": "RAG-Anything Tutorial： Build a Multimodal Retrieval Pipeline for Text， Tables， Equations， and Images in Colab",
@@ -847,25 +875,26 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmr3n0nvi006usl7l9bxrmouw",
-      "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
-      "title_en": "企业 AI 成本失控，消息称花旗、Adobe 等纷纷限制员工使用大模型",
-      "url": "https://www.ithome.com/0/971/937.htm",
-      "permalink": "https://aihot.virxact.com/items/cmr3n0nvi006usl7l9bxrmouw",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-02T14:22:49.000Z",
-      "summary": "据404 Media获取的内部资料，Atlassian、Adobe、亚马逊等六家企业正限制员工使用AI工具，要求改用能力较低的大模型避免成本失控。至少一家企业月度AI开销增至三倍，超1500万美元。花旗银行因GitHub改为按量计费，于6月24日禁用Claude Opus 4.6、4.7及GPT-5.5等旗舰模型。Adobe于6月30日终止Claude无限制使用协议。Atlassian数据显示其AI月支出从500万美元飙升至1500万美元，本财年预计超1.2亿美元。GitHub计划改用开源模型并测试单人按量计费模式。",
-      "category": "industry",
-      "score": 74,
-      "selected": true,
+      "id": "cmr7618qc044eslfeox4a3d8q",
+      "title": "《Fable》开创了全新的4D飞溅效果格式",
+      "title_en": null,
+      "url": "https://adamraudonis.github.io/splats4D",
+      "permalink": "https://aihot.virxact.com/items/cmr7618qc044eslfeox4a3d8q",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-05T00:39:30.057Z",
+      "summary": "splat4d 是一种动态3D高斯飞溅时间序列格式，将每帧.splat文件编码为单个可流式文件。它包含静态部分（基础场景）和按秒分组的GOP块（关键帧+增量帧），采用误差有界量化（位置±2mm、颜色±4/255、旋转精确、缩放±2%），确保逐点确定性误差。设计针对HTTP Range请求，可从S3/GCS/R2等对象存储流式传输，无需服务器逻辑或清单文件。Seek时通过块前缀快速获取关键帧，约100-150ms可见。默认误差下，无损基线zstd-19仅达2.5倍压缩比。提供Python编码工具（pip install splats4d）和WebGPU渲染器，支持60fps播放。",
+      "category": "ai-products",
+      "score": 68,
+      "selected": false,
       "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 7,
-      "editorialScore": 12,
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
       "tags": [
-        "adobe"
+        "设计",
+        "3d"
       ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmr6bfk8201ibslf0eghx26h0",
@@ -1089,30 +1118,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmr3a67dj01zusly043ms4axe",
-      "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
-      "title_en": "The Google Health API Got a CLI： ghealth is an Open-Source Tool for Your Fitbit Air Data",
-      "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
-      "permalink": "https://aihot.virxact.com/items/cmr3a67dj01zusly043ms4axe",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-07-02T08:46:56.000Z",
-      "summary": "ghealth 是一款封装 Google Health API v4 的开源命令行工具，以单个 Go 二进制文件发布（Apache 2.0 协议）。它提供 40 种已验证的数据类型（包括步数、心率、睡眠、体重、血氧饱和度、心率变异性等）的结构化 JSON 输出。工具采用 Agent 优先设计，具备确定性退出码、--dry-run 和 --raw 标志，并附带两个 SKILL.md 文件供 AI 智能体使用。用户需自行创建 OAuth 凭据，通过 PKCE S256 认证。数据来源覆盖 Fitbit、Pixel Watch 及连接的第三方设备。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true,
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计",
-        "agent",
-        "智能体",
-        "skill"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmr67nl1j00mnslf0wyxqtn1i",
       "title": "OpenAI联合创始人展望\"几乎无界面\"未来：用户无需再学软件",
       "title_en": "OpenAI cofounder envisions \"almost no interface\" future where nobody learns software anymore",
@@ -1201,6 +1206,30 @@
         "提示词",
         "claude code",
         "agent"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmr6k7s8a03pvslf0385o2kr6",
+      "title": "NVIDIA HORIZON：免人工干预的硬件设计 AI 智能体框架，Git 工作流驱动，RTL 基准100%通过",
+      "title_en": "NVIDIA HORIZON： A Hands-Free Agent that Evolves Git Worktrees and Hits 100% RTL Benchmark Completion",
+      "url": "https://www.marktechpost.com/2026/07/04/nvidia-horizon-a-hands-free-agent-that-evolves-git-worktrees-and-hits-100-rtl-benchmark-completion",
+      "permalink": "https://aihot.virxact.com/items/cmr6k7s8a03pvslf0385o2kr6",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-07-04T16:04:29.000Z",
+      "summary": "NVIDIA Research 推出 HORIZON，一个针对硬件设计的免人工干预 AI 智能体框架。它将硬件设计视为仓库级代码演化，仅需结构化 Markdown 说明（含目标、领域知识、评估器和验收条件）作为输入。自洽智能体循环在隔离的 git worktree 上迭代编辑、调用工具并运行评估器，仅当可执行验收门通过时才提交版本。HORIZON 使用 GPT-5.3 作为固定骨干，保持持久会话以复用提示缓存。在 ChipBench、RTLLM-2.0、Verilog-Eval 及 CVDP（含783个人工编写问题，13个类别）评估中，所有基准套件达到 100% 通过率；首次迭代总体通过率为 47.8%，不同类别收敛速度差异显著（如代码补全需82轮，RTLLM-2.0仅需两轮）。研究团队同时指出，智能体硬件设计问题尚未被彻底解决。",
+      "category": "paper",
+      "score": 46,
+      "selected": false,
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "设计",
+        "工作流",
+        "agent",
+        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -1319,6 +1348,28 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
+      "id": "cmr6zmpl801t7slfectg7ykne",
+      "title": "新版 Claude 模型导致 Pi 工具调用异常",
+      "title_en": "Better Models： Worse Tools",
+      "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools",
+      "permalink": "https://aihot.virxact.com/items/cmr6zmpl801t7slfectg7ykne",
+      "source": "Simon Willison 博客",
+      "publishedAt": "2026-07-04T22:53:52.000Z",
+      "summary": "Armin 在开发编码工具 Pi 时发现，新版 Claude 模型（Opus 4.8 和 Sonnet 5）调用 Pi 的 edit 工具时，会在嵌套的 `edits【】` 数组中凭空增加不存在的键，导致工具调用因 schema 不匹配被 Pi 拒绝。旧模型（包括 Haiku）均无此问题。Armin 推测 Anthropic 通过强化学习让新模型更善于使用 Claude Code 内置的编辑工具，却导致第三方工具 Pi 的自定义编辑工具更易被误用。OpenAI 的 Codex 采用 `apply_patch` 机制，也面临类似问题。这引发思考：第三方编码工具是否应为不同底层模型分别实现多个编辑工具以保障兼容性。",
+      "category": "tip",
+      "score": 60,
+      "selected": false,
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "codex",
+        "claude code"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cmr5chfvu0187slc7jsxx672d",
       "title": "微软八月将发布改版Copilot，合并消费者与企业应用并推出AutoPilot智能体",
       "title_en": "Microsoft follows Anthropic and OpenAI into the AI super app race with overhauled Copilot and AutoPilot agents",
@@ -1427,71 +1478,6 @@
         "claude code",
         "agent",
         "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmr3hyp3j0139sllxjjc2fk8h",
-      "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
-      "title_en": "AI agents can now complete 16 percent of freelance jobs at pro quality， up from 2.5 percent eight months ago",
-      "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
-      "permalink": "https://aihot.virxact.com/items/cmr3hyp3j0139sllxjjc2fk8h",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-02T12:37:49.000Z",
-      "summary": "Remote Labor Index（RLI）衡量 AI 智能体完成 240 个付费自由职业项目（总值 14.4 万美元）的专业质量比例。最新结果显示，Fable 5 自动化率达 16.1%，是八个月前最佳系统 2.5% 的六倍多，也超过 Opus 4.8（8.3%）和 GPT-5.5（6.3%）。因美国政府限制访问，Fable 5 仅完成 218/240 个项目评估，最坏情况仍达 14.6%。Gemini 3 Pro 仅 1.25%，落后于更老模型。AI 裁判会高估模型表现（GPT-5.5 评分偏高近三倍），仍需人类评估员打开专业软件（如 Blender）检验几何模型等细节。测试环境为虚拟 Linux 机，配备 30 余款专业应用，每项目最多 24 小时计算时间。尽管自动化率快速攀升，多数项目仍无法达到专业质量。",
-      "category": "tip",
-      "score": 71,
-      "selected": true,
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "自动化",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmr3d6uwj0074slq52bmqn20v",
-      "title": "千问团队朱达：C端Agent Harness的\"多快好省\"工程哲学与主动服务探索",
-      "title_en": "阿里巴巴朱达-千问C端 Agent Harness 思考与实践",
-      "url": "https://mp.weixin.qq.com/s/l70iUM0bIpG9EdV9Px7QPQ",
-      "permalink": "https://aihot.virxact.com/items/cmr3d6uwj0074slq52bmqn20v",
-      "source": "公众号：千问APP（阿里）",
-      "publishedAt": "2026-07-02T10:22:07.000Z",
-      "summary": "千问团队2026年1月上线通用复杂任务Agent（千问App胶囊入口），总结\"多快好省\"方法论：支持信息搜集、研究分析等任务；执行时间降至初始1/3；通过搜索范式与上下文管理优化交付质量；Token消耗仅为海外产品1/10。团队探索从被动响应转向主动服务，构建User Memory、Environment、Task System、Assistant四大组件，指出\"情商\"是主动服务最难环节。朱达提出Agent工程从Prompt Engineering演进至Harness Engineering，下一站是A IWare Engineering，强调\"低功耗，够用就行\"。",
-      "category": "tip",
-      "score": 62,
-      "selected": true,
-      "sourceType": "公众号",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "prompt",
-        "agent"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmr397vx001s3sly0t7mkh3fh",
-      "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布",
-      "title_en": null,
-      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
-      "permalink": "https://aihot.virxact.com/items/cmr397vx001s3sly0t7mkh3fh",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-02T08:24:53.347Z",
-      "summary": "Kimi K2.7 Code 开源权重模型已在 GitHub Copilot 中正式可用，成为 Copilot 模型选择器首个可选的开源权重模型，为编程工作流提供更低成本选择。该模型由 GitHub 托管于 Microsoft Azure，按供应商列表价格以用量计费。逐步向 Copilot Pro、Pro+ 和 Max 计划用户推送，用户可在 Visual Studio Code 1.127.0 或更新版本、Visual Studio 17.14.6 或更新版本、JetBrains 1.9.1-251 或更新版本、Xcode、Eclipse 等 IDE 及 Copilot CLI、GitHub.com、GitHub Mobile 等平台中选用。后续几周将扩展至 Copilot Business 和 Enterprise，当前默认关闭，需管理员在 Copilot 设置中启用策略。",
-      "category": "ai-products",
-      "score": 71,
-      "selected": true,
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "工作流"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     }
