@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-05T04:20:30.842Z",
-  "previousGeneratedAt": "2026-07-04T13:58:13.466Z",
+  "generatedAt": "2026-07-05T09:22:48.458Z",
+  "previousGeneratedAt": "2026-07-05T04:20:30.842Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 64,
+  "itemCount": 62,
   "sourceCounts": {
     "X": 24,
-    "网站": 33,
+    "网站": 31,
     "公众号": 7
   },
   "source": {
@@ -465,28 +465,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmr3p0x8d00nnsl7lh451ty56",
-      "title": "Midjourney硬件工程师Marcin制作视频",
-      "title_en": "Marcin is a hardware engineer at Midjourney （and a YouTube star）. So we asked him to make a video！",
-      "url": "https://x.com/midjourney/status/2072705638468292629",
-      "permalink": "https://aihot.virxact.com/items/cmr3p0x8d00nnsl7lh451ty56",
-      "source": "X：Midjourney (@midjourney)",
-      "publishedAt": "2026-07-02T15:35:07.000Z",
-      "summary": "Marcin是Midjourney的硬件工程师（也是YouTube明星）。所以我们请他制作一个视频！",
-      "category": "ai-products",
-      "score": 35,
-      "selected": false,
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "midjourney",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmr6tqv9w00bislfe2ac85oro",
       "title": "给Codex发截图使用图像生成",
       "title_en": "easiest way to this is to send codex a screenshot and tel lit to use image gen",
@@ -852,6 +830,28 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
+      "id": "cmr5wmvco06adslc7impjdzzr",
+      "title": "pxpipe：图像转代码降Fable 5长上下文成本60%",
+      "title_en": "Developers found a cheaper way to feed Fable 5 large context by showing it pictures of text. Normal…",
+      "url": "https://x.com/rohanpaul_ai/status/2073270737226674513",
+      "permalink": "https://aihot.virxact.com/items/cmr5wmvco06adslc7impjdzzr",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-07-04T05:00:37.000Z",
+      "summary": "开发者用pxpipe将代码/日志等文本渲染为1928×1928 PNG图像，作为视觉token（约4，761个）发送给Fable 5，而非按文本token计费。每张图像可容纳约92K字符，密集文本成本大幅降低。但此压缩通过视觉OCR实现，非无损存储：模型可能误读精确ID、哈希或字符串，适合批量背景上下文，不适用于字节级精确场景。据引用，可透明地将代码转为图像让模型OCR，削减约60%成本。",
+      "category": "tip",
+      "score": 72,
+      "selected": false,
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 9,
+      "editorialScore": 12,
+      "tags": [
+        "视觉",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmr423l5s000oslh59mw6rqhr",
       "title": "RAG-Anything 教程：在 Colab 中构建文本、表格、公式和图像的多模态检索管道",
       "title_en": "RAG-Anything Tutorial： Build a Multimodal Retrieval Pipeline for Text， Tables， Equations， and Images in Colab",
@@ -1097,27 +1097,6 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmr3p5u0c00qwsl7lyxbee0nd",
-      "title": "快手可灵AI获初始投资者20.28亿美元注资，投后估值180亿美元",
-      "title_en": "快手：初始投资者同意向北京可灵注资 20.28 亿美元",
-      "url": "https://www.ithome.com/0/971/954.htm",
-      "permalink": "https://aihot.virxact.com/items/cmr3p5u0c00qwsl7lyxbee0nd",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-02T15:36:38.000Z",
-      "summary": "快手在港交所公告，21名初始投资者同意以138.24亿元人民币（20.28亿美元）现金注资北京可灵，后者将持有可灵AI相关资产。同日15名额外投资者追加出资52.235亿元人民币（7.6639亿美元），认购总上限为204.471亿元（30亿美元），对应北京可灵扩大后注册资本的16.67%。投后估值180亿美元。快手预计未来12个月内启动可灵AI赴港上市，募资用于扩充算力、建设数据中心及人才引进。",
-      "category": "industry",
-      "score": 71,
-      "selected": true,
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "可灵"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmr67nl1j00mnslf0wyxqtn1i",
       "title": "OpenAI联合创始人展望\"几乎无界面\"未来：用户无需再学软件",
       "title_en": "OpenAI cofounder envisions \"almost no interface\" future where nobody learns software anymore",
@@ -1320,30 +1299,6 @@
         "codex",
         "claude code",
         "skill"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmr3mohtn001ksl7lb7x45k7m",
-      "title": "Anthropic 推出 Claude Science 公开测试版，集成 NVIDIA BioNeMo 加速科学研究",
-      "title_en": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
-      "url": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science",
-      "permalink": "https://aihot.virxact.com/items/cmr3mohtn001ksl7lb7x45k7m",
-      "source": "Artificial Intelligence News（RSS）",
-      "publishedAt": "2026-07-02T14:38:01.000Z",
-      "summary": "Anthropic 推出面向科学研究的 AI 工作台 Claude Science 公开测试版，科学家可通过自然语言与数字智能体交互执行端到端研究流程。该平台原生集成 NVIDIA BioNeMo Agent Toolkit，将 GPU 加速计算资源封装为可调用的技能模块。全球前 20 大制药公司中已有 18 家生产部署 BioNeMo。基因组分析工具 Parabricks 将处理时间从数小时压缩至数分钟；RAPIDS-singlecell 将 130 万细胞预处理和聚类工作流从 52 分钟缩短至 25 秒；nvMolKit 加速分子相似性搜索和构象生成最高达 3，000 倍。系统还提供 Evo 2、Boltz-2、OpenFold3 等加速开放模型。",
-      "category": "industry",
-      "score": 48,
-      "selected": false,
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "交互",
-        "工作流",
-        "agent",
-        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
