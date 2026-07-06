@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-05T14:09:27.902Z",
-  "previousGeneratedAt": "2026-07-05T09:22:48.458Z",
+  "generatedAt": "2026-07-06T11:03:51.178Z",
+  "previousGeneratedAt": "2026-07-05T14:09:27.902Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 61,
+  "itemCount": 56,
   "sourceCounts": {
     "X": 24,
-    "网站": 30,
-    "公众号": 7
+    "网站": 26,
+    "公众号": 6
   },
   "source": {
     "name": "AI HOT",
@@ -99,34 +99,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmr488d3901dosl3glgpj4c9c",
-      "title": "AI Agent 网页分栏布局的交互设计规范参考",
-      "title_en": "现在很多网页布局：右侧是AI Agent，中间是内容，左侧是菜单。 如何设计分栏，支持拖拽、隐藏，合理利用空间？ 用简单语言描述很难做好。 发现其实有些交互规范和标准，可以给AI学习参考。 资…",
-      "url": "https://x.com/vista8/status/2072847386674884906",
-      "permalink": "https://aihot.virxact.com/items/cmr488d3901dosl3glgpj4c9c",
-      "source": "X：Vista (@vista8)",
-      "publishedAt": "2026-07-03T00:58:23.000Z",
-      "summary": "当前网页布局常见右侧 AI Agent、中间内容、左侧菜单的三栏结构。如何设计支持拖拽和隐藏的分栏以合理利用空间，用语言描述难以说清。推主发现现有的交互规范和标准可为 AI 学习参考，相关资料与效果图见评论与后两图。",
-      "category": "tip",
-      "score": 39,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr488d3901dosl3glgpj4c9c"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 17,
-      "editorialScore": 21,
-      "tags": [
-        "交互设计",
-        "设计",
-        "交互",
-        "agent"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmr5ytayl06u5slc7yuqirf8l",
       "title": "baoyu-design Skill 更新：支持 PPT 动画",
       "title_en": "baoyu-design skill 更新： 支持 PPT 动画了 现在有很多朋友用这个 Skill 做 PPT 了，我自己也用，真的挺好用的。有朋友问能不能支持 PPT 动画，但当前这个skill…",
@@ -211,6 +183,62 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmr8i2262029xsl0dhghvvq92",
+      "title": "Agentic Coding Harness 本质是上下文编排工具",
+      "title_en": "所谓「Agentic Coding Harness」，本质上是「上下文编排工具」，而非智能本身 -- 来自 @SemiAnalysis_ 关键认知：LLM 是无状态的 这是理解所有 harness…",
+      "url": "https://x.com/shao__meng/status/2073929746459824544",
+      "permalink": "https://aihot.virxact.com/items/cmr8i2262029xsl0dhghvvq92",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-07-06T00:39:17.000Z",
+      "summary": "SemiAnalysis 指出，Agentic Coding Harness（如 Claude Code、Codex）的本质是\"上下文编排工具\"而非智能本身。LLM 无状态，每轮需组装 system prompt、tool definitions 和 messages，并通过 HTTP POST 交互；工具在用户本机执行，模型只返回 JSON 意图。不同 harness 的差异仅在于上下文管理策略和 TUI/UX 设计，智能上限由模型决定。\"Everything else is just REST all the way down\"--剥离神秘感，本质就是循环 + REST + JSON Schema。",
+      "category": "tip",
+      "score": 52,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmr8i2262029xsl0dhghvvq92"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 14,
+      "editorialScore": 18,
+      "tags": [
+        "ux",
+        "设计",
+        "交互",
+        "prompt"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmr7z00up0065sl0472bil7hs",
+      "title": "Anthropic Claude Design 反向工程提示词开源更新",
+      "title_en": "Claude 设计系统提示词",
+      "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+      "permalink": "https://aihot.virxact.com/items/cmr7z00up0065sl0472bil7hs",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-05T15:35:42.919Z",
+      "summary": "Anthropic 旗下 Claude Design 的反向工程系统提示词在 GitHub 以 MIT 许可证开源，包含 20 章提示词和 14 项技能，覆盖内容纪律、美学、无障碍（WCAG、语义 HTML、键盘导航）、交互状态、系统思维等。近日针对 Fable 5/Opus 4.7+ 系列校准，新增自主决策条款：小决定直接执行记录而不询问。项目支持 Claude Code/Claude.ai 及 Codex 两种变体。",
+      "category": "tip",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmr7z00up0065sl0472bil7hs"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 14,
+      "editorialScore": 18,
+      "tags": [
+        "设计系统",
+        "design",
+        "设计",
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "cmr69x56d016bslf0ofodpnj0",
       "title": "Fable 5 总结\"焚决心法\"七要素及性感美女跳舞 Prompt 技巧",
       "title_en": "Fable 5总结的性感美女短视频焚决心法无保留分享给大家：锚 · 场 · 色 · 机 · 轨 · 声 · 魂 以及性感老钱风美女跳舞Prompt兄弟们收好！ 这两天用Fable 5给我的提示词做的视…",
@@ -239,6 +267,34 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmr8wtma701btsllseuvwp0bb",
+      "title": "基于 Claude Code 的求职申请自动化工作流（GitHub 5.7K+ 星）",
+      "title_en": "Somebody built a Claude Code workflow that connects your profile， job posts， and application drafts….",
+      "url": "https://x.com/rohanpaul_ai/status/2074029896050110526",
+      "permalink": "https://aihot.virxact.com/items/cmr8wtma701btsllseuvwp0bb",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-07-06T07:17:15.000Z",
+      "summary": "有用户构建了一个基于 Claude Code 的求职申请自动化工作流，已在 GitHub 获 5.7K+ 星。该工作流包含 `/setup`、`/scrape`、`/apply <url>` 三个命令：`/setup` 通过简历、文档或面试回答构建详细个人档案；`/scrape` 搜索求职板、去重并按匹配度排名；`/apply <url>` 读取职位描述，与真实经历对比后生成定制简历和求职信。申请草稿生成后，Claude 智能体循环审查：一个撰写，另一个审阅，再由第一个修改。最终将简历和求职信编译为 PDF，并检查修复排版问题直到输出整洁。",
+      "category": "tip",
+      "score": 65,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmr8wtma701btsllseuvwp0bb"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 16,
+      "editorialScore": 17,
+      "tags": [
+        "工作流",
+        "workflow",
+        "自动化",
+        "claude code"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cmr6lzw57000gsl7xtnq7gt0p",
       "title": "分享文章转字形图标矩阵的生图提示词",
       "title_en": "一整篇文章丢过去，让Codex或ChatGPT生图解读。 提示词如下： 【文章内容】 --- 围绕内容主题，生成一组 10个汉字以内字形图标，矩阵排列，16：9横版构图，留白克制。 一个大号黑体汉…",
@@ -263,6 +319,33 @@
         "海报",
         "提示词",
         "codex"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmr8nm4fp03posl0dx9818x05",
+      "title": "可灵AI NEXTGEN颁奖典礼7月7日首尔举行",
+      "title_en": "Kling AI NEXTGEN Awards Ceremony | Full Agenda On July 7， creators from across Asia and beyond wil…",
+      "url": "https://x.com/Kling_ai/status/2073965813770358825",
+      "permalink": "https://aihot.virxact.com/items/cmr8nm4fp03posl0dx9818x05",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-07-06T03:02:37.000Z",
+      "summary": "可灵AI（Kling AI）宣布将于2026年7月7日14：00-18：00在首尔电影中心举办\"Kling AI NEXTGEN Awards Ceremony\"。典礼将颁发三项大奖，表彰新一代视觉创作者，展映获奖AI视频作品，并邀请跨国导演、学者及媒体专业人士担任评审与演讲嘉宾。活动旨在汇聚亚洲及全球创作者，展示AI驱动的新叙事与视觉表达。",
+      "category": "industry",
+      "score": 22,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmr8nm4fp03posl0dx9818x05"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 13,
+      "editorialScore": 16,
+      "tags": [
+        "可灵",
+        "视觉",
+        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -320,6 +403,33 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmr8nfa5003mksl0dc92i1tvo",
+      "title": "为什么95%的Claude Fable 5做的网站看起来\"垃圾\"？七级进阶系统解析",
+      "title_en": "为什么 95% 的 Claude Fable 5 做的网站看起来\"垃圾\"？ Every Level of Claude Fable 5 Websites Explained https://www....",
+      "url": "https://x.com/shao__meng/status/2073963132532502643",
+      "permalink": "https://aihot.virxact.com/items/cmr8nfa5003mksl0dc92i1tvo",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-07-06T02:51:57.000Z",
+      "summary": "21分钟视频详解使用Claude Fable 5构建高质量网站的七级系统：Level 1聊天式建站仅3/100，AI感重；Level 2截图参考提至10/100；Level 3注入GitHub近10万星的设计Skills（如UIUX Pro Max、Shading UI），跨越可交付门槛；Level 4用OpenArt生成图片与循环视频；Level 5从21st.dev、CodePen等库复制组件实现UI Snapping；Level 6用Firecrawl竞品数据驱动设计；Level 7提取优秀网站设计DNA让Fable 5一键重建，实现从AI草稿到专业级网站的质变。",
+      "category": "tip",
+      "score": 70,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmr8nfa5003mksl0dc92i1tvo"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 11,
+      "editorialScore": 15,
+      "tags": [
+        "ui",
+        "设计",
+        "视频"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmr6ms5de000usl2n6vq3huim",
@@ -459,86 +569,60 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmr4ja0ba02bhsll5bwkiq7t7",
-      "title": "Meet WebBrain：开源本地优先的AI浏览器智能体",
-      "title_en": "Meet WebBrain： An Open-Source， Local-First AI Browser Agent That Reads Pages and Automates Tasks in Chrome and Firefox",
-      "url": "https://www.marktechpost.com/2026/07/02/meet-webbrain-an-open-source-local-first-ai-browser-agent-that-reads-pages-and-automates-tasks-in-chrome-and-firefox",
-      "permalink": "https://aihot.virxact.com/items/cmr4ja0ba02bhsll5bwkiq7t7",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-07-03T05:55:47.000Z",
-      "summary": "WebBrain是一个免费、开源的浏览器智能体，基于MIT协议，支持Chrome和Firefox。它提供Ask（只读）和Act（通过Chrome DevTools Protocol执行点击、输入等操作）两种模式。本地模型下数据不出设备，也可通过API接入OpenAI、Anthropic Claude、Gemini、DeepSeek、Grok等云端模型。内置WebBrain Cloud服务每月5美元。安全设计包括权限提示和UI优先的修改规则，并支持llama.cpp、Ollama等本地部署方案。",
-      "category": "ai-products",
-      "score": 63,
+      "id": "cmr9358ao00yxslmpuzz3tej7",
+      "title": "乔帮主（qiaomu-design）开源 AI 设计 Skill",
+      "title_en": "开源了，开源了！ 是不是很讨厌AI味重的网页设计，也讨厌千篇一律的排版？ 乔帮主测试对比了8个主流设计Skill，吸收各家所长，开源自用设计SKill：qiaomu-design 特色功能： …",
+      "url": "https://x.com/vista8/status/2074078579445661750",
+      "permalink": "https://aihot.virxact.com/items/cmr9358ao00yxslmpuzz3tej7",
+      "source": "X：Vista (@vista8)",
+      "publishedAt": "2026-07-06T10:30:42.000Z",
+      "summary": "乔帮主（qiaomu-design）开源自用 AI 设计 Skill，整合 8 个主流设计 Skill 优点。特色：风格试衣间（一句话生成四个 Demo）；专攻中文排版，消除紫蓝渐变等廉价风格；自进化记录审美偏好；内置 58 套网站文档。建议用 GLM 5.2 或 Claude。安装：`npx skills add joeseesun/qiaomu-design`。可调整视觉冒险度、动效、信息密度。",
+      "category": "tip",
+      "score": 73,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr4ja0ba02bhsll5bwkiq7t7"
+        "canonical": "https://aihot.virxact.com/items/cmr9358ao00yxslmpuzz3tej7"
       },
-      "sourceType": "网站",
+      "sourceType": "X",
       "designCategory": "产品与体验",
-      "relevanceScore": 11,
-      "editorialScore": 15,
+      "relevanceScore": 10,
+      "editorialScore": 14,
       "tags": [
-        "ui",
+        "视觉",
+        "design",
         "设计",
-        "agent",
-        "智能体"
+        "skill"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmr4dr1dx00uysll5sqdz9qlo",
-      "title": "Orca论文：用\"预测下一个状态\"替代预测token/帧/动作",
-      "title_en": "所有人都在预测下一个Token，可能大家都错了！ GPT预测下一个词，Sora预测下一帧，机器人模型预测下一个动作。 整个AI行业都在做\"预测下一个\"的游戏。 但Orca这篇论文说：你们都搞错了方…",
-      "url": "https://x.com/berryxia/status/2072875308345360825",
-      "permalink": "https://aihot.virxact.com/items/cmr4dr1dx00uysll5sqdz9qlo",
-      "source": "X：Berry Xia (@berryxia)",
-      "publishedAt": "2026-07-03T02:49:20.000Z",
-      "summary": "Orca论文提出\"预测下一个状态\"新范式，取代GPT式\"预测下一个token\"、视频\"预测下一帧\"和机器人\"预测下一个动作\"。它从125K小时视频和1.6亿事件标注中学习统一世界潜在表示，通过无意识学习（连续视频物理状态）和有意识学习（事件描述/VQA）捕获状态转换。冻结主干后，该潜在表示可同时读出文本、图像和机器人动作，且预训练无需动作标签即可生成机器人行动，表明理解物理世界隐含行动能力。",
+      "id": "cmr922nh300q1slmp7cz2lv8e",
+      "title": "元子在《未来硅世界》直播演示两款工具",
+      "title_en": "我们的金牌主持人元子在直播时演示了一个工具，很多人感兴趣。 一个是她vibe coding的提示词管理工具，一个是叫cohun的agent工具。",
+      "url": "https://x.com/vista8/status/2074067851363955178",
+      "permalink": "https://aihot.virxact.com/items/cmr922nh300q1slmp7cz2lv8e",
+      "source": "X：Vista (@vista8)",
+      "publishedAt": "2026-07-06T09:48:04.000Z",
+      "summary": "主持人元子在直播中演示了vibe coding提示词管理工具与Cohub智能体平台，并补充了Cohub（已公测）和Gemini prompt侧边栏小工具链接，后者适用于会议整理等，欢迎试用反馈。",
       "category": "tip",
-      "score": 58,
+      "score": 60,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr4dr1dx00uysll5sqdz9qlo"
+        "canonical": "https://aihot.virxact.com/items/cmr922nh300q1slmp7cz2lv8e"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 13,
+      "editorialScore": 14,
       "tags": [
-        "sora",
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmr47bczj0166sl3gk7sykyox",
-      "title": "HeyGen 开源关键帧系统 HyperFrames Keyframes",
-      "title_en": "HeyGen把专业视频编辑里的关键帧系统开源了，叫HyperFrames Keyframes。 他们把After Effects级别的时间轴和关键帧控制做成了可代码化的东西，既适合新手，又给专业用户…",
-      "url": "https://x.com/berryxia/status/2072827059915964695",
-      "permalink": "https://aihot.virxact.com/items/cmr47bczj0166sl3gk7sykyox",
-      "source": "X：Berry Xia (@berryxia)",
-      "publishedAt": "2026-07-02T23:37:37.000Z",
-      "summary": "HeyGen 将专业视频编辑中的关键帧系统开源为 HyperFrames Keyframes。该系统将 After Effects 级别的时间轴与关键帧控制代码化，新手易用，专业人士可深度控制。Agent 能\"看到\"自身生成的运动，通过一条命令自行修复问题。命令为 `npx hyperframes keyframes`，用户还可在 HeyGen Studio 中可视化编辑 GSAP 关键帧。此举将 AI 视频生成从\"一次生成靠运气\"推向\"生成 + 可控编辑 + Agent 自纠\"的闭环，开源了传统专业工具的底层逻辑。",
-      "category": "ai-products",
-      "score": 70,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr47bczj0166sl3gk7sykyox"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "视频生成",
-        "视频",
+        "vibe coding",
+        "提示词",
+        "prompt",
         "agent"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmr6tqv9w00bislfe2ac85oro",
@@ -649,84 +733,85 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmr4pxm98040ssll55dcwzp6v",
-      "title": "Karminski 设计首个大模型复杂工程能力测试：Kimi-K2.7-Code 完成度 93%",
-      "title_en": "http://x.com/i/article/2072963694775132160",
-      "url": "https://x.com/karminski3/status/2072965071597408693",
-      "permalink": "https://aihot.virxact.com/items/cmr4pxm98040ssll55dcwzp6v",
-      "source": "X：karminski (@karminski3)",
-      "publishedAt": "2026-07-03T08:46:01.000Z",
-      "summary": "Karminski 设计了首个大模型复杂工程能力测试：给模型 21000 token 需求文档，要求通过 Coding Agent 修改 SillyTavern（酒馆）项目，增加动态数值系统。结果 Kimi-K2.7-Code 需求完成度 93%，接近人肉 vibe coding 的 97.7%；Kimi-K2.6 仅 74.4%；DeepSeek-V4-Pro 只有 68.6%。K2.7 漏需求少得益于全局注意力更强、Agent 能力更完善；K2.6 因 Plan 偏离、DeepSeek 因未使用 Plan Agent 导致遗漏。测试揭示了模型\"注意力管状视野\"问题--只关注易验证任务，忽略需推理的 web 界面、提示词注入等。Kimi-K2.7-Code 的 20 分提升被认为是国产代码模型的生产力拐点。",
+      "id": "cmr8r8v1z01gyslvbryjho57c",
+      "title": "谷歌AI高管用Claude Fable 5将《命令与征服》移植到iOS",
+      "title_en": "谷歌大佬盛赞 Fable 5 模型：23 年前 PC 游戏神作，只用 40 分钟塞进 iPhone 和 iPad",
+      "url": "https://www.ithome.com/0/973/029.htm",
+      "permalink": "https://aihot.virxact.com/items/cmr8r8v1z01gyslvbryjho57c",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-06T04:49:22.000Z",
+      "summary": "谷歌DeepMind AI Studio产品与设计负责人Ammaar Reshi（非程序员）使用Anthropic的Claude Fable 5，将2003年PC游戏《命令与征服：将军零点时刻》原生编译到iOS。160万行C++代码经五层图形API翻译链，40分钟首次构建，战役、遭遇战、将军挑战赛均流畅运行。AI还重构触控交互。但因翻译层开销，iPad长时间运行内存飙至3GB以上，iOS可能杀进程；无联机功能，需侧载。Reshi两天烧光一整个Max订阅配额。",
       "category": "tip",
-      "score": 67,
+      "score": 49,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr4pxm98040ssll55dcwzp6v"
+        "canonical": "https://aihot.virxact.com/items/cmr8r8v1z01gyslvbryjho57c"
       },
-      "sourceType": "X",
+      "sourceType": "网站",
       "designCategory": "产品与体验",
-      "relevanceScore": 10,
-      "editorialScore": 14,
+      "relevanceScore": 9,
+      "editorialScore": 13,
       "tags": [
         "设计",
-        "界面",
-        "vibe coding",
-        "提示词"
+        "交互"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmr4lchgq02t1sll50o1e3a20",
-      "title": "谷歌 Gemini Omni Flash 登顶 Video Arena 盲测榜，领先字节 Seedance 2.0 Mini 模型 101 Elo",
+      "id": "cmr8j9weh02kxsl0dy08683oe",
+      "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
       "title_en": null,
-      "url": "https://www.ithome.com/0/972/253.htm",
-      "permalink": "https://aihot.virxact.com/items/cmr4lchgq02t1sll50o1e3a20",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-03T06:41:56.000Z",
-      "summary": "谷歌 DeepMind 推出的文生视频模型 Gemini Omni Flash 以 1404 Elo 的成绩登顶 Video Arena 盲测排行榜，领先字节跳动 Seedance 2.0 Mini 模型 101 Elo。谷歌旗下视频模型的排名较 Veo 时期提升了 7 位。Video Arena 根据用户盲测投票生成排名，此前字节 Seedance 系列模型长期占据榜前。",
+      "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
+      "permalink": "https://aihot.virxact.com/items/cmr8j9weh02kxsl0dy08683oe",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-07-06T01:19:09.000Z",
+      "summary": "Claude Fable 5即将下线，作者整理了8个经实战验证的提示词：/goal提示语让模型自主跑25次实验（花费165美元，构建速度提高50%、token开销降60%）；工作模式提示语将用户习惯转化为可复用Skills；行动规范提示语约束subagent行为；subagent分配提示语智能分配任务；25个定时循环工作流（含Shadow prompt loop做A/B测试）；自治运行+自动暂停提示语；记忆系统提示语保留错题本；反向面试提示语确保95%把握再执行。这些提示词可迁移至API计费后继续使用，核心是让模型研究用户而非限制能力。",
       "category": "tip",
-      "score": 42,
-      "selected": false,
+      "score": 73,
+      "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr4lchgq02t1sll50o1e3a20"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "文生视频",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmr4riftj04d6sll5txm862cu",
-      "title": "昆仑万维WAIC发布四大AI模型：世界模型、视频、音乐、机器人",
-      "title_en": "WAIC7月19日重磅来袭：黄晓明王珞丹助阵昆仑万维论坛，四大AI模型首发，重塑全球AGI内容生态",
-      "url": "https://mp.weixin.qq.com/s/1k2iJmwRiBJ4MMr-vi0xYA",
-      "permalink": "https://aihot.virxact.com/items/cmr4riftj04d6sll5txm862cu",
-      "source": "公众号：昆仑万维（天工）",
-      "publishedAt": "2026-07-03T04:05:31.000Z",
-      "summary": "7月19日，昆仑万维在WAIC举办\"世界模型与多模态范式革命\"论坛，全球首发Matrix-3.5世界模型、SkyReels v4.5视频大模型、Mureka v9.5音乐大模型、Riemann-1.0机器人模型。周志华院士、黄晓明、王珞丹等嘉宾出席。四大模型覆盖世界模型、视频生成、音乐创作、具身智能，落地游戏工业化、短剧量产、平民化音乐创作等场景。",
-      "category": "ai-models",
-      "score": 27,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr4riftj04d6sll5txm862cu"
+        "canonical": "https://aihot.virxact.com/items/cmr8j9weh02kxsl0dy08683oe"
       },
       "sourceType": "公众号",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 12,
+      "editorialScore": 13,
       "tags": [
-        "视频生成",
-        "视频"
+        "工作流",
+        "提示词",
+        "prompt"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmr8h2tnz0203sl0d8om7gs19",
+      "title": "BestBlogs 07-06 早报精选",
+      "title_en": "BestBlogs 早报 · 07-06 # MCP apps / 智能体持续学习 / Noi / Claude Fable / sqlite-utils 4.0 【1】 ★ 精讲|MCP app…",
+      "url": "https://x.com/hongming731/status/2073911739310395678",
+      "permalink": "https://aihot.virxact.com/items/cmr8h2tnz0203sl0d8om7gs19",
+      "source": "X：洪明 (@hongming731)",
+      "publishedAt": "2026-07-05T23:27:44.000Z",
+      "summary": "MCP apps 将 JSON 后端升级为 AI 客户端内的 iframe 交互界面；智能体持续学习需从生产日志推断模拟环境，并区分模型层、harness 层与记忆层的更新代价；Noi 集成插件调试揭示责任链断裂的方法论；sqlite-utils 4.0rc2 由 Claude Fable 及 GPT-5.5 编写，AI 成本约 $149.25；北大/中科院团队研发出全球首款可控存内计算神经动力学芯片，0.43 秒完成皮层 3D 重建，比 GPU 快近 500 倍；LeCun 团队提出 AdaJEPA 框架让世界模型通过测试时自适应实现持续学习；Anthropic 工程负责人分享将 Claude 从聊天窗口变为工作伙伴的方法；Logto 开源身份平台对标 Okta。",
+      "category": "industry",
+      "score": 39,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmr8h2tnz0203sl0d8om7gs19"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "界面",
+        "交互",
+        "3d",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmr7siods002zslzm5nv12tf2",
@@ -866,104 +951,52 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmr4rk28j04djsll52izuz3bk",
-      "title": "阿里百度腾讯参投可灵20亿融资",
-      "title_en": "Alibaba has joined a $2B funding round for Kuaishou's AI video unit Kling， valuing it at about $15B …",
-      "url": "https://x.com/thexpin/status/2072979634682228747",
-      "permalink": "https://aihot.virxact.com/items/cmr4rk28j04djsll52izuz3bk",
-      "source": "X：X.PIN (@thexpin)",
-      "publishedAt": "2026-07-03T09:43:53.000Z",
-      "summary": "阿里巴巴已加入快手旗下AI视频部门可灵（Kling）的20亿美元融资轮，投前估值约150亿美元。该轮融资还包括百度与腾讯，并可能扩大至30亿美元。可灵正崛起为中国最强的生成视频挑战者之一，与字节跳动旗下Seedance及生数科技等初创公司竞争。其ARR据称从1月的3亿美元增至3月的5亿美元，受益于可灵3.0。",
-      "category": "industry",
-      "score": 65,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr4rk28j04djsll52izuz3bk"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
-      "tags": [
-        "可灵",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmr4pyden041csll56iauih1m",
-      "title": "快手旗下AI视频部门Kling融资20亿美元，准备赴港IPO",
-      "title_en": "Chinese AI video maker Kling raises $2 billion as it gears up for Hong Kong IPO",
-      "url": "https://the-decoder.com/chinese-ai-video-maker-kling-raises-2-billion-as-it-gears-up-for-hong-kong-ipo",
-      "permalink": "https://aihot.virxact.com/items/cmr4pyden041csll56iauih1m",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-03T08:53:16.000Z",
-      "summary": "快手旗下AI视频部门Kling完成约20亿美元（138.2亿元人民币）融资，估值达180亿美元。本轮由CPE、国方投资、BlueFive、腾讯和中信证券领投，后续可能追加至30亿美元，届时快手持股将降至68.33%。快手计划将Kling分拆并在港交所上市。Kling与Google Veo 3.1、Runway Gen-4.5、字节跳动Seedance等竞争，近期发布了Kling 3.0视频模型。",
-      "category": "industry",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr4pyden041csll56iauih1m"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
-      "tags": [
-        "runway",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmr6c2ban01pjslf0qokwumjl",
-      "title": "pxpipe：利用OCR将Fable 5长文本输入成本降低70%",
-      "title_en": "damn，真的离谱，Fable 5的成本居然能靠OCR直接砍掉70%？！🤔 原理特别简单，把Claude Code里的长上下文转成图片，扔给Fable 5做OCR识别就行。 本质就是吃了文本和图…",
-      "url": "https://x.com/AYi_AInotes/status/2073375385736118744",
-      "permalink": "https://aihot.virxact.com/items/cmr6c2ban01pjslf0qokwumjl",
+      "id": "cmr8la2j2032gsl0d016blt9x",
+      "title": "YC掌门人Garry Tan：四十岁创始人凭判断力成AI时代独角兽模板",
+      "title_en": "以前都说创业是年轻人的天下，现在40岁+的创始人，反而拿到了最强的AI杠杆，创业拼年轻拼体力的时代，彻底结束了！ YC掌门人Garry Tan直接把话挑明，四十岁有品味有判断力的创始人，才是新一代的…",
+      "url": "https://x.com/AYi_AInotes/status/2073947309130367090",
+      "permalink": "https://aihot.virxact.com/items/cmr8la2j2032gsl0d016blt9x",
       "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-07-04T11:56:28.000Z",
-      "summary": "本地代理工具pxpipe将系统提示、工具文档、历史对话、代码文件等高密度文本打包成图片，发送给Fable 5进行OCR识别。由于图像按像素固定计费、与文本密度无关，一张1928×1928图片可容纳9.2万字符，仅消耗约4700个视觉token，成本约为纯文本的四折，总体降低60%-70%。该思路源自DeepSeek研究。编码任务准确率损失极小，但ID、哈希值、密钥等精确字符串易出现识别误差。目前对Fable 5适配最佳，其他模型效果有差异。",
+      "publishedAt": "2026-07-06T01:49:05.000Z",
+      "summary": "YC掌门人Garry Tan指出，四十岁有品味和判断力的创始人正成为新一代独角兽模板，借助AI智能体可获得100倍到1000倍的执行杠杆。前Webflow CTO回归YC做AI产品，上线数月已有13%的同期创始人使用。AI将编码、设计、运营商品化，抹平了年轻创始人靠手速和通宵的传统优势，稀缺性上移至判断力--即踩过一千个小坑积累的行业直觉。高增长创始人平均年龄45岁，AI让有存量积累者优势指数级放大，无判断力的新手只会产出廉价同质化内容。",
       "category": "tip",
-      "score": 69,
+      "score": 44,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr6c2ban01pjslf0qokwumjl"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
-      "tags": [
-        "视觉",
-        "图像",
-        "claude code"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmr63hmts00tmsldirn5zk1vk",
-      "title": "Anthropic 内部 Fable 5 最佳实践：驾驭强模型的元认知能力",
-      "title_en": "说个颠覆认知的，Fable 5越强，你用它写代码反而越容易翻车，这是来自Anthropic内部的使用Fable 5的最佳实践和方法论，真正拉开人与人差距的关键是，有没有驾驭强模型的元认知能力。 先说…",
-      "url": "https://x.com/AYi_AInotes/status/2073307494462406940",
-      "permalink": "https://aihot.virxact.com/items/cmr63hmts00tmsldirn5zk1vk",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-07-04T07:26:41.000Z",
-      "summary": "Anthropic 方法论指出，模型越强（如 Fable 5），写代码瓶颈已从模型能力转移到用户能否开工前挖出未知。未知分四类：已知已知、已知未知、隐性认知（设计品味）、盲区（历史坑、架构约束）。解法覆盖全流程：盲点扫描、多版原型、核心问题逐个提问、实现中记录偏差日志、边缘场景留痕不擅自做主、最后用变更出测验满分才能合并。有人将此做成开源技能，任务达标率从 65% 提至 100%。协作从\"指挥工具\"变成\"探索未知\"，核心是元认知能力。",
-      "category": "tip",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr63hmts00tmsldirn5zk1vk"
+        "canonical": "https://aihot.virxact.com/items/cmr8la2j2032gsl0d016blt9x"
       },
       "sourceType": "X",
       "designCategory": "设计工具",
       "relevanceScore": 7,
       "editorialScore": 12,
+      "tags": [
+        "webflow",
+        "设计",
+        "智能体"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmr91yrn100nlslmpujy3dlhy",
+      "title": "TAI完成40nm边缘物理AI芯片原型Sting Ray验证，Manta Ray量产时间表公布",
+      "title_en": "日企 TAI 完成 40nm 边缘物理 AI 芯片原型评估，目标 2027 年量产",
+      "url": "https://www.ithome.com/0/973/227.htm",
+      "permalink": "https://aihot.virxact.com/items/cmr91yrn100nlslmpujy3dlhy",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-06T09:56:20.000Z",
+      "summary": "7月6日，日本芯片设计初创企业TokyoArtisan Intelligence（TAI）宣布，其基于FPGA的40nm边缘物理AI芯片原型「Sting Ray」已完成验证，即将量产。该芯片采用低功耗快响应设计，可同时优化适配多种模型，面向基础设施、工业、机器人领域AI转型需求。下一代量产芯片「Manta Ray」同样采用联电40nm工艺，目标2027Q1完成α版设计软件，Q2制造工程样品（ES）芯片，Q3推出ES评估板，Q4完成量产（MP）芯片制造，2028Q1推出MP评估板。",
+      "category": "ai-products",
+      "score": 28,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmr91yrn100nlslmpujy3dlhy"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
       "tags": [
         "原型",
         "设计"
@@ -971,57 +1004,132 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cmr5wmvco06adslc7impjdzzr",
-      "title": "pxpipe：图像转代码降Fable 5长上下文成本60%",
-      "title_en": "Developers found a cheaper way to feed Fable 5 large context by showing it pictures of text. Normal…",
-      "url": "https://x.com/rohanpaul_ai/status/2073270737226674513",
-      "permalink": "https://aihot.virxact.com/items/cmr5wmvco06adslc7impjdzzr",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-07-04T05:00:37.000Z",
-      "summary": "开发者用pxpipe将代码/日志等文本渲染为1928×1928 PNG图像，作为视觉token（约4，761个）发送给Fable 5，而非按文本token计费。每张图像可容纳约92K字符，密集文本成本大幅降低。但此压缩通过视觉OCR实现，非无损存储：模型可能误读精确ID、哈希或字符串，适合批量背景上下文，不适用于字节级精确场景。据引用，可透明地将代码转为图像让模型OCR，削减约60%成本。",
-      "category": "tip",
-      "score": 72,
-      "selected": false,
+      "id": "cmr8yq2xv01phsllsc7sv9v5u",
+      "title": "Runway 宣布设立巴黎办公室",
+      "title_en": "Announcing our Paris Office",
+      "url": "https://runwayml.com/news/announcing-our-paris-office",
+      "permalink": "https://aihot.virxact.com/items/cmr8yq2xv01phsllsc7sv9v5u",
+      "source": "Runway：News（网页）",
+      "publishedAt": "2026-07-06T08:33:02.716Z",
+      "summary": "原文正文仅包含网站 Cookie 设置说明，未提供关于巴黎办公室的部门、规模、职能或开业时间等具体信息。",
+      "category": "industry",
+      "score": 65,
+      "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr5wmvco06adslc7impjdzzr"
+        "canonical": "https://aihot.virxact.com/items/cmr8yq2xv01phsllsc7sv9v5u"
       },
-      "sourceType": "X",
+      "sourceType": "网站",
       "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
+      "relevanceScore": 7,
+      "editorialScore": 10,
       "tags": [
-        "视觉",
-        "图像"
+        "runway"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmr423l5s000oslh59mw6rqhr",
-      "title": "RAG-Anything 教程：在 Colab 中构建文本、表格、公式和图像的多模态检索管道",
-      "title_en": "RAG-Anything Tutorial： Build a Multimodal Retrieval Pipeline for Text， Tables， Equations， and Images in Colab",
-      "url": "https://www.marktechpost.com/2026/07/02/rag-anything-tutorial-build-a-multimodal-retrieval-pipeline-for-text-tables-equations-and-images-in-colab",
-      "permalink": "https://aihot.virxact.com/items/cmr423l5s000oslh59mw6rqhr",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-07-02T21:38:34.000Z",
-      "summary": "本教程使用 RAG-Anything 搭建多模态检索工作流，可检索文本、表格、公式和图像。首先在 Colab 中安装依赖并修复 Pillow 版本，通过 OpenAI API key 配置对话、视觉和嵌入函数。接着生成包含图表和 PDF 的合成多模态报告，将其转为 content_list 格式并插入检索系统。最后配置并测试 naive、local、global 和 hybrid 四种检索模式。环境变量包括 CHUNK_SIZE=900、CHUNK_OVERLAP_SIZE=120，便于在笔记本中复现。",
-      "category": "tip",
-      "score": 63,
+      "id": "cmr8xoe5n01fgslls5c01cwki",
+      "title": "荣耀MagicOS七月版本升级预告：YOYO新增支持一语微信，远程协助应用上线",
+      "title_en": "荣耀MagicOS 七月版本升级预告：YOYO 新增支持一语微信，远程协助应用上线",
+      "url": "https://www.ithome.com/0/973/101.htm",
+      "permalink": "https://aihot.virxact.com/items/cmr8xoe5n01fgslls5c01cwki",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-06T07:20:23.000Z",
+      "summary": "荣耀MagicOS七月版本升级，YOYO新增一语微信功能（YOYO≥90.10.30.063，微信≥8.0.72），支持语音发消息或音视频通话。新增漫画故事玩法（照片转漫画加对话框）和Live盲盒玩法。远程协助应用上线，可一键连接亲友设备。其他更新：丝滑动效优化、灵动胶囊滑动交互与多胶囊自定义堆叠、锁屏3D照片及小组件（蓝牙耳机电量、YOYO帮记等）、无线投屏单应用投屏、屏幕共享120Fps高刷、跨设备文件自动回传、荣耀分享免开关互传、一碰传新增哔哩哔哩/快手/小红书/淘宝应用、游戏分身、游戏管家智慧更新、相机动态照片水印、平行空间水印开关。",
+      "category": "ai-products",
+      "score": 30,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr423l5s000oslh59mw6rqhr"
+        "canonical": "https://aihot.virxact.com/items/cmr8xoe5n01fgslls5c01cwki"
       },
       "sourceType": "网站",
       "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
+      "relevanceScore": 7,
+      "editorialScore": 10,
       "tags": [
-        "视觉",
-        "工作流",
-        "图像"
+        "交互",
+        "视频",
+        "3d"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmr8niepp03nzsl0d3gbfb208",
+      "title": "美团开源万亿参数大模型 LongCat-2.0，同步开放国产卡推理代码",
+      "title_en": "美团万亿参数大模型 LongCat-2.0 开源，同步开放国产卡推理代码",
+      "url": "https://www.ithome.com/0/972/918.htm",
+      "permalink": "https://aihot.virxact.com/items/cmr8niepp03nzsl0d3gbfb208",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-06T02:30:03.000Z",
+      "summary": "7月6日，美团正式开源万亿参数大模型 LongCat-2.0。该模型总参数1.6T，平均激活约48B，专为 Agentic Coding 任务设计，引入 LongCat 稀疏注意力和 N-gram Embedding。作为业界首个在五万卡国产算力集群上完成推理的万亿参数模型，LongCat-2.0 同步开源针对国产算力芯片深度协同优化的多精度版本（BF16、FP8、INT8），覆盖不同算力平台部署需求。",
+      "category": "ai-models",
+      "score": 69,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmr8niepp03nzsl0d3gbfb208"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmr8bv56j00szsl0dlz1igwi6",
+      "title": "美团发布 LongCat-2.0：1.6T 参数开源 MoE 模型，原生支持 1M 上下文",
+      "title_en": "Meituan Releases LongCat-2.0： A 1.6T-Parameter Open MoE Model with Native 1M Context and LongCat Sparse Attention",
+      "url": "https://www.marktechpost.com/2026/07/05/meituan-releases-longcat-2-0-a-1-6t-parameter-open-moe-model-with-native-1m-context-and-longcat-sparse-attention",
+      "permalink": "https://aihot.virxact.com/items/cmr8bv56j00szsl0dlz1igwi6",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-07-05T21:25:10.000Z",
+      "summary": "美团发布 LongCat-2.0，1.6 万亿总参数、每 token 约激活 48B 的混合专家（MoE）模型，专为智能体编程设计。原生支持 1M token 上下文窗口，训练与推理全程运行于国产 AI ASIC 超算集群。架构含零计算专家、LongCat Sparse Attention、135B 参数 N-gram 嵌入及 MOPD 后训练。基准测试：SWE-bench Pro 59.5（GPT-5.5 58.6），Terminal-Bench 2.1 70.8，SWE-bench Multilingual 77.3。对比前代 LongCat-Flash（560B/128K 上下文），参数与上下文大幅提升，硬件从 H800 转向国产 ASIC。以 MIT 许可证开源，权重即将开放。",
+      "category": "ai-models",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmr8bv56j00szsl0dlz1igwi6"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmr83ashr0189sl04hhietwtx",
+      "title": "三周前，我不小心创办了一家小公司",
+      "title_en": null,
+      "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
+      "permalink": "https://aihot.virxact.com/items/cmr83ashr0189sl04hhietwtx",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-05T17:43:57.442Z",
+      "summary": "一位父亲为患有自闭症的非语言儿子开发了一款沟通应用，在言语治疗室的等候区展示时，所有非语言儿童的母亲看到后都忍不住流泪，言语治疗师也啜泣了五分钟。他意外发现产品市场匹配，决定腾出时间让更多孩子能用上，即使这意味着几周睡眠不足。应用本身是专为理解语言困难的儿童设计的，与传统的AAC设备不同--后者主要面向身体障碍但语言理解正常的成人。",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmr83ashr0189sl04hhietwtx"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmr7618qc044eslfeox4a3d8q",
@@ -1180,85 +1288,6 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmr4j7a3z029jsll5kelwp3g5",
-      "title": "Claude Fable 5 在 RLI 基准测试中达成 16.1% 自动化率，刷新纪录",
-      "title_en": "威胁平面设计等远程工作者：AI 自动化 16.1% 项目已被攻克",
-      "url": "https://www.ithome.com/0/972/242.htm",
-      "permalink": "https://aihot.virxact.com/items/cmr4j7a3z029jsll5kelwp3g5",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-03T06:06:28.000Z",
-      "summary": "AI 安全中心（CAIS）于 7 月 1 日更新远程劳动指数（RLI），Claude Fable 5 模型自动化率达 16.1%，创下新高。此前最高为 Opus 4.6（基于 Claude Cowork 框架）的 4.17%。RLI 自 2025 年 10 月底上线时的 2.5% 起步，8 个月内跃升至 16.1%。测试涵盖 3D/CAD、平面设计、视频动画、音频制作等真实远程自由职业项目，由人工评审员对照人类专业标准评判。Fable 5 在珠宝设计、2D 动画广告、建筑平面图等项目上有所改善，但与人工产品仍有差距。",
-      "category": "tip",
-      "score": 54,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr4j7a3z029jsll5kelwp3g5"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "设计",
-        "广告",
-        "视频",
-        "3d"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmr3wzycy008tslnxrw3opnfn",
-      "title": "Microsoft 成立\"Frontier Company\"，斥资 25 亿美元派驻 6000 名 AI 工程师到企业客户现场",
-      "title_en": "Microsoft launches $2.5 billion \"Frontier Company\" to embed 6，000 AI engineers inside enterprise clients",
-      "url": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients",
-      "permalink": "https://aihot.virxact.com/items/cmr3wzycy008tslnxrw3opnfn",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-02T19:18:29.000Z",
-      "summary": "Microsoft 新设业务部门\"Frontier Company\"，拨款 25 亿美元，将 6000 名行业与工程专家派驻企业客户现场，\"共同设计、共同创新、部署并持续改进 AI 系统\"。该部门由 Rodrigo Kede Lima 领导，旨在超越\"前部署工程\"模式，成为\"最大、以结果为导向的工程组织\"。Microsoft 将自己定位为 OpenAI 和 Anthropic 的\"平台中立\"替代方案，后两者也已设立专门部署公司。Microsoft 将借助埃森哲、凯捷、安永等系统集成商扩大覆盖范围。",
-      "category": "industry",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr3wzycy008tslnxrw3opnfn"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmr3vkq2m0048slmjk5rqhg8f",
-      "title": "Meta悄然推出vibe-coded游戏应用Pocket",
-      "title_en": "Meta quietly launches vibe-coded gaming app Pocket",
-      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket",
-      "permalink": "https://aihot.virxact.com/items/cmr3vkq2m0048slmjk5rqhg8f",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-02T18:44:02.000Z",
-      "summary": "Meta推出新应用Pocket，用户可通过AI提示词生成小型互动游戏和应用。该应用源自Meta今年早些时候收购的vibe-coding游戏平台Gizmo团队，界面与Gizmo原有应用高度相似，并提供可浏览他人作品的发现信息流。Pocket于6月29日上线App Store和Google Play，目前处于初期实验阶段，Meta尚未正式宣布。其前身Gizmo在iOS和Google Play累计安装63.5万次，正面评价占比98%。",
-      "category": "ai-products",
-      "score": 61,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr3vkq2m0048slmjk5rqhg8f"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "界面",
-        "提示词"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmr67nl1j00mnslf0wyxqtn1i",
       "title": "OpenAI联合创始人展望\"几乎无界面\"未来：用户无需再学软件",
       "title_en": "OpenAI cofounder envisions \"almost no interface\" future where nobody learns software anymore",
@@ -1340,33 +1369,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmr3w53e2000osl4noy0h5lp7",
-      "title": "使用 DSPy 评估和优化 Datasette Agent 的 SQL 系统提示词",
-      "title_en": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
-      "url": "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts",
-      "permalink": "https://aihot.virxact.com/items/cmr3w53e2000osl4noy0h5lp7",
-      "source": "Simon Willison 博客",
-      "publishedAt": "2026-07-02T18:25:00.000Z",
-      "summary": "Simon Willison 通过 Claude Code 中的异步研究任务（基于 Claude Fable 5）尝试用 DSPy 对 Datasette Agent 执行只读 SQL 查询时的系统提示词做评估与优化。Fable 选择测试 GPT 4.1 mini 和 nano，发现改进方向：模式列表仅给出表名，而\"如果已有信息不要调用 describe_table\"的建议导致列名猜测和错误重试循环。建议在提示词的模式列表中包含列名或软化该建议。",
-      "category": "tip",
-      "score": 65,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr3w53e2000osl4noy0h5lp7"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "提示词",
-        "claude code",
-        "agent"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
       "id": "cmr6k7s8a03pvslf0385o2kr6",
       "title": "NVIDIA HORIZON：免人工干预的硬件设计 AI 智能体框架，Git 工作流驱动，RTL 基准100%通过",
       "title_en": "NVIDIA HORIZON： A Hands-Free Agent that Evolves Git Worktrees and Hits 100% RTL Benchmark Completion",
@@ -1421,82 +1423,29 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmr4s179804l5sll5u47j7031",
-      "title": "面向 Web 开发者的 Safari MCP 服务器",
-      "title_en": null,
-      "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
-      "permalink": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-03T09:59:42.679Z",
-      "summary": "Safari Technology Preview 247 推出 Safari MCP 服务器，基于 Model Context Protocol，允许任何 MCP 兼容客户端连接 Safari 浏览器窗口。智能体可获取 DOM、网络请求、截图、控制台输出等信息，自主完成调试、性能分析、可访问性检查等任务。内置 `browser_console_messages`、`screenshot`、`evaluate_javascript`、`list_network_requests` 等工具。开发者安装后启用\"远程自动化与外部智能体\"选项，即可通过命令接入，减少窗口切换。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "自动化",
-        "智能体",
-        "mcp"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmr4j7a3z029lsll52qun910f",
-      "title": "消息称阿里巴巴全面禁用 Anthropic 旗下 Claude 产品：7 月 10 日生效，全员卸载",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/972/210.htm",
-      "permalink": "https://aihot.virxact.com/items/cmr4j7a3z029lsll52qun910f",
+      "id": "cmr8te26k00bksllssm0wk4qn",
+      "title": "美团LongCat-2.0开源，摩尔线程基于MTT S5000完成适配",
+      "title_en": "Day-0 支持：摩尔线程完成美团 LongCat-2.0 极速适配",
+      "url": "https://www.ithome.com/0/973/037.htm",
+      "permalink": "https://aihot.virxact.com/items/cmr8te26k00bksllssm0wk4qn",
       "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-03T05:56:20.000Z",
-      "summary": "阿里巴巴内部宣布全面禁用 Claude，要求员工在 7 月 10 日前卸载 Anthropic 旗下 Sonnet、Opus、Fable 及 Claude Code 等产品。此前阿里鼓励员工使用外部模型并报销大额费用。此外，Reddit 网友发现 Claude Code 自今年 4 月 2 日发布的 2.1.91 版本起内置隐蔽检测机制，会检查系统时区是否为中国时区及 URL 是否匹配 147 个中国科技企业域名，并将结果编码在系统提示词中。Anthropic 团队成员回应称该机制是 3 月上线的实验性措施，用于防止账户转售和模型蒸馏攻击，已于 7 月 2 日新版本中完全回滚并删除相关代码。",
+      "publishedAt": "2026-07-06T05:27:19.000Z",
+      "summary": "7月6日，美团开源万亿参数MoE大模型LongCat-2.0，总参数1.6T（平均激活约48B，动态范围33B~56B），专为Agentic Coding设计，原生支持1M超长上下文。摩尔线程基于MTT S5000 GPU及MUSA软件栈完成全链路适配，涵盖模型加载、推理引擎、算子优化与精度校验。硬件原生FP8加速结合SGLang-MUSA推理引擎，提升长上下文推理性能。标准化工程路径降低了国产算力平台部署门槛，已在AI Coding、Agent工作流、企业知识库问答等场景完成验证。",
       "category": "industry",
-      "score": 69,
+      "score": 37,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr4j7a3z029lsll52qun910f"
+        "canonical": "https://aihot.virxact.com/items/cmr8te26k00bksllssm0wk4qn"
       },
       "sourceType": "网站",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
+      "relevanceScore": 6,
+      "editorialScore": 7,
       "tags": [
-        "提示词",
-        "claude code"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmr4aquhw004wsll50vc4zfqa",
-      "title": "Anthropic 封号加码，Sonnet5 发布，开源「搭子」Skill 降本",
-      "title_en": "封号/Fable5/Sonnet5… 开源「搭子」Skill重拳Anthropic",
-      "url": "https://mp.weixin.qq.com/s/nmwdMbEyodEv4Hpdy_ANbw",
-      "permalink": "https://aihot.virxact.com/items/cmr4aquhw004wsll50vc4zfqa",
-      "source": "公众号：卡尔的AI沃茨",
-      "publishedAt": "2026-07-03T01:56:00.000Z",
-      "summary": "Anthropic 加大中国用户封号，Claude Code 通过时区和 `ANTHROPIC_BASE_URL` 检测，7 月 2 日新版本删除该代码但部署更强措施。Sonnet5 模型和新 Tokenizer 使英文 token 数增至 1.4 倍，API 降价但实际更贵。Fable5 窗口期至 7 月 7 日，周额度 50% 可用。开源「搭子」Skill 让 Claude Code 与 Codex 分工，成本降至纯 Claude 的 30%，避免反复冷启动。",
-      "category": "tip",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr4aquhw004wsll50vc4zfqa"
-      },
-      "sourceType": "公众号",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "codex",
-        "claude code",
-        "skill"
+        "设计",
+        "工作流",
+        "agent"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -1575,86 +1524,6 @@
       "tags": [
         "工作流",
         "agent"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmr4j7a3z029msll5qhwj03uv",
-      "title": "AI 交互革命：Claude Code 系统提示词精简 80%，示例约束反而遏制表现",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/972/176.htm",
-      "permalink": "https://aihot.virxact.com/items/cmr4j7a3z029msll5qhwj03uv",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-03T05:43:53.000Z",
-      "summary": "Anthropic 为 Claude Code 精简系统提示词，降幅达 80%，以适应新模型 Claude Fable 5。技术人员 Tariq Shihipar 指出，更多提示词和示例反而限制新模型表现，因 Fable 5 掌握的示例比用户更具想象力。Anthropic 转而用上下文引导取代硬性规则。AI 提示词正经历\"短-长-短\"演变。",
-      "category": "ai-products",
-      "score": 47,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr4j7a3z029msll5qhwj03uv"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "交互",
-        "提示词",
-        "claude code"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmr3zye9z00qfslw2sg1izmks",
-      "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
-      "title_en": "Meet Alibaba's Page Agent： A JavaScript In-Page GUI Agent That Controls Web Interfaces With Natural Language Through the DOM",
-      "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
-      "permalink": "https://aihot.virxact.com/items/cmr3zye9z00qfslw2sg1izmks",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-07-02T20:51:39.000Z",
-      "summary": "阿里巴巴发布 Page Agent，一个开源的 JavaScript 客户端库，嵌入网页后可通过自然语言指令直接操作 DOM 元素。与 Playwright、Puppeteer 等外部浏览器自动化工具不同，Page Agent 不依赖截图或多模态模型，而是将实时 DOM 脱水压缩为 FlatDomTree 文本映射，让纯文本模型精准执行点击、表单填写等操作。它继承用户 cookies 和会话，无需独立后端，并支持任意 OpenAI 兼容端点的模型（示例使用 `qwen3.5-plus`）。项目采用 MIT 许可证，适合在自有应用内构建 AI 副驾、智能表单填充或无障碍控制等场景，但限于单页面范围，风险操作仍需服务端验证。",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr3zye9z00qfslw2sg1izmks"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "自动化",
-        "agent"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmr42knff001kslsyw5pe0mwm",
-      "title": "llm-coding-agent 0.1a0",
-      "title_en": null,
-      "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent",
-      "permalink": "https://aihot.virxact.com/items/cmr42knff001kslsyw5pe0mwm",
-      "source": "Simon Willison 博客",
-      "publishedAt": "2026-07-02T19:33:12.000Z",
-      "summary": "Simon Willison 发布实验性库 llm-coding-agent 0.1a0，基于其 LLM 库演化为智能体框架，实现类似 Claude Code 的编码智能体。可通过 `uvx --prerelease=allow --with llm-coding-agent llm code` 运行，并提供基于 `CodingAgent` 类的 Python API。内置六种工具：`edit_file`（精确替换字符串并返回 diff）、`execute_command`（执行命令，超时 600 秒）、`list_files`（按 glob 列出文件，排除隐藏目录和 .gitignore 覆盖项）、`read_file`（分页读取，offset/limit 控制）、`search_files`（正则搜索，最多 100 条结果）、`write_file`（创建或覆盖文件，自动创建父目录）。已作为 slop-alpha 发布到 PyPI，支持 `--yolo` 等 recipe 参数。",
-      "category": "ai-products",
-      "score": 66,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr42knff001kslsyw5pe0mwm"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "claude code",
-        "agent",
-        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     }
