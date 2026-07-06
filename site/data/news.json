@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-06T11:03:51.178Z",
-  "previousGeneratedAt": "2026-07-05T14:09:27.902Z",
+  "generatedAt": "2026-07-06T15:55:00.839Z",
+  "previousGeneratedAt": "2026-07-06T11:03:51.178Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
   "itemCount": 56,
   "sourceCounts": {
     "X": 24,
-    "网站": 26,
-    "公众号": 6
+    "网站": 28,
+    "公众号": 4
   },
   "source": {
     "name": "AI HOT",
@@ -378,33 +378,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmr53w0kz07ldsll5cdzfbewt",
-      "title": "C罗参演、可灵助阵：葡萄牙国家队世界杯出征视频的幕后故事",
-      "title_en": null,
-      "url": "https://mp.weixin.qq.com/s/RjgGlGJk7Sb76U1c_erJNw",
-      "permalink": "https://aihot.virxact.com/items/cmr53w0kz07ldsll5cdzfbewt",
-      "source": "公众号：可灵AI（快手·视频）",
-      "publishedAt": "2026-07-03T11:12:22.000Z",
-      "summary": "葡萄牙国家队2026世界杯出征视频采用\"实拍+AI\"混合制作，C罗实拍参演，可灵AI（可灵3.0）用于生成海上风浪、船舱内、从葡萄牙驶向纽约的跨洋场景等关键画面。视频海外播放量超7000万，AI导演João Seiça表示可灵AI质感自然，让影片在预算可控下实现宏大视觉隐喻，且实拍与AI生成画面融合统一。他强调技术服务于故事，人是内容的灵魂。",
-      "category": "industry",
-      "score": 47,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr53w0kz07ldsll5cdzfbewt"
-      },
-      "sourceType": "公众号",
-      "designCategory": "图像与视频",
-      "relevanceScore": 13,
-      "editorialScore": 16,
-      "tags": [
-        "可灵",
-        "视觉",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmr8nfa5003mksl0dc92i1tvo",
       "title": "为什么95%的Claude Fable 5做的网站看起来\"垃圾\"？七级进阶系统解析",
       "title_en": "为什么 95% 的 Claude Fable 5 做的网站看起来\"垃圾\"？ Every Level of Claude Fable 5 Websites Explained https://www....",
@@ -488,82 +461,27 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmr55ntcm00cqsld8gh4w77jp",
-      "title": "Berry Xia：corner-smoothing-skill 解决 Claude Code UI 圆角不可控问题",
-      "title_en": "强迫症患处女座的人大喜！！ 终于可以拯救Codex Claude 在做UI 卡片设计的时候的不可控问题了。 这个Skills 看着不错可以试试，我也安装了完了我试试效果如何。 安装地址：npx s…",
-      "url": "https://x.com/berryxia/status/2073070556044550311",
-      "permalink": "https://aihot.virxact.com/items/cmr55ntcm00cqsld8gh4w77jp",
-      "source": "X：Berry Xia (@berryxia)",
-      "publishedAt": "2026-07-03T15:45:11.000Z",
-      "summary": "Claude Code 做 UI 卡片设计时圆角参数常不可控，即使描述 60% Apple 风格圆角平滑也常出错。开发者 @gabriell_lab 制作了 corner-smoothing-skill，通过命令 `npx skills add gabrielobholz/corner-smoothing-skill` 安装。安装后只需说 \"Create a rectangle with radius： 32 and smoothing： 60\" 即可生成正确形状，解决了 AI agent 对圆角平滑理解偏差的痛点。",
+      "id": "cmr964k1100kjslsmwji08fg9",
+      "title": "AHA-WAM：异步快慢系统架构让世界模型\"慢思考、快执行\"",
+      "title_en": "对话穆尧：让世界模型\"慢思考、快执行\"，AHA-WAM 如何走向机器人现场",
+      "url": "https://mp.weixin.qq.com/s/CCQ75IgWdtWofTTQ_oZCAw",
+      "permalink": "https://aihot.virxact.com/items/cmr964k1100kjslsmwji08fg9",
+      "source": "公众号：百度智能云（文心）",
+      "publishedAt": "2026-07-06T11:53:07.000Z",
+      "summary": "上海交通大学穆尧团队与百度智能云合作推出AHA-WAM，采用异步快慢系统架构，将视频生成（慢系统）与动作生成（快系统）解耦。通过OVCR机制用实时观测修正旧视频推演的KV Cache，使机器人闭环推理频率达到56Hz，控制频率提升近10倍。模型基座约5B参数，Flash版本将去噪步数从10步压缩至2步。百度百舸团队将单步推理延迟从415ms压缩到41ms。方案不依赖端侧硬件加速，通过端云协同解决大模型推理慢与机器人高频控制之间的矛盾。",
       "category": "tip",
-      "score": 65,
+      "score": 54,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr55ntcm00cqsld8gh4w77jp"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 11,
-      "editorialScore": 15,
-      "tags": [
-        "ui",
-        "设计",
-        "codex",
-        "claude code"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmr4vy6w105icsll5ihv5nxfc",
-      "title": "Midjourney 发布医疗扫描仪幕后视频，但未解答关键问题",
-      "title_en": "A behind-the-scenes look at Midjourney's medical scanner leaves many questions unanswered",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
-      "permalink": "https://aihot.virxact.com/items/cmr4vy6w105icsll5ihv5nxfc",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-07-03T11:49:10.000Z",
-      "summary": "Midjourney 发布了一款浴缸形超声扫描仪的幕后视频。该扫描仪由大量超声探头拆解拼装在带电梯的热水浴缸上，连接普通电脑和树莓派。视频近20分钟，由公司工程师兼YouTuber Marcin Plaza拍摄，展示了硬件和团队，但回避了此前专家提出的超声物理极限和成像质量问题。公司计划先在spa作为身体成分健康产品推出，而非诊断设备。医疗负责人Tom Calloway称将专注身体成分以\"速通\"上市，CEO David Holz表示没有投资者压力。",
-      "category": "industry",
-      "score": 47,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr4vy6w105icsll5ihv5nxfc"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "midjourney",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmr53vzsc07l3sll5x8mfscz3",
-      "title": "生数科技发布 Vidu S1，推动视频生成迈向\"实时交互\"新时代",
-      "title_en": null,
-      "url": "https://mp.weixin.qq.com/s/RuukpnoOA2tI0ERCNrLgtQ",
-      "permalink": "https://aihot.virxact.com/items/cmr53vzsc07l3sll5x8mfscz3",
-      "source": "公众号：生数科技（Vidu·视频）",
-      "publishedAt": "2026-07-03T11:17:47.000Z",
-      "summary": "7月3日，生数科技在2026全球数字经济大会上发布Vidu S1实时交互模型，支持实时视频通话和语音控制视频走向，实现无限时长连续互动。模型采用自回归扩散路线，基于已生成画面和语音指令持续预测后续内容；无需传统建模，一张图片即可创建角色并自定义音色。Vidu S1在540P分辨率下实现25FPS（最高42FPS）实时生成，通过TurboDiffusion等技术降低计算成本，已开启内测。",
-      "category": "ai-models",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr53vzsc07l3sll5x8mfscz3"
+        "canonical": "https://aihot.virxact.com/items/cmr964k1100kjslsmwji08fg9"
       },
       "sourceType": "公众号",
       "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
+      "relevanceScore": 11,
+      "editorialScore": 14,
       "tags": [
         "视频生成",
-        "交互",
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
@@ -703,32 +621,6 @@
         "视频生成",
         "视频",
         "提示词"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmr54n42p0049sld8coddimh1",
-      "title": "字节豆包视频生成模型 Seedance 2.5 预计 7 月 6 日上线体验中心，一周后开放 API",
-      "title_en": "消息称字节豆包视频生成模型 Seedance 2.5 预计 7 月 6 日上线体验中心，一周后开放 API",
-      "url": "https://www.ithome.com/0/972/458.htm",
-      "permalink": "https://aihot.virxact.com/items/cmr54n42p0049sld8coddimh1",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-03T15:27:55.000Z",
-      "summary": "字节豆包视频生成模型 Seedance 2.5 预计 7 月 6 日上线体验中心，一周后开放 API。该模型 6 月 23 日发布，目前处于全球企业内测阶段。其在三个维度实现突破：支持 30 秒单段原生直出与高质量视频延长；支持 50 个全模态素材联合输入；支持灵活的二次编辑，保持画面一致性的同时完成局部调整。",
-      "category": "ai-products",
-      "score": 39,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr54n42p0049sld8coddimh1"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视频生成",
-        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -978,6 +870,33 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
+      "id": "cmr6c2ban01pjslf0qokwumjl",
+      "title": "pxpipe：利用OCR将Fable 5长文本输入成本降低70%",
+      "title_en": "damn，真的离谱，Fable 5的成本居然能靠OCR直接砍掉70%？！🤔 原理特别简单，把Claude Code里的长上下文转成图片，扔给Fable 5做OCR识别就行。 本质就是吃了文本和图…",
+      "url": "https://x.com/AYi_AInotes/status/2073375385736118744",
+      "permalink": "https://aihot.virxact.com/items/cmr6c2ban01pjslf0qokwumjl",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-07-04T11:56:28.000Z",
+      "summary": "本地代理工具pxpipe将系统提示、工具文档、历史对话、代码文件等高密度文本打包成图片，发送给Fable 5进行OCR识别。由于图像按像素固定计费、与文本密度无关，一张1928×1928图片可容纳9.2万字符，仅消耗约4700个视觉token，成本约为纯文本的四折，总体降低60%-70%。该思路源自DeepSeek研究。编码任务准确率损失极小，但ID、哈希值、密钥等精确字符串易出现识别误差。目前对Fable 5适配最佳，其他模型效果有差异。",
+      "category": "tip",
+      "score": 69,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmr6c2ban01pjslf0qokwumjl"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 9,
+      "editorialScore": 12,
+      "tags": [
+        "视觉",
+        "图像",
+        "claude code"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmr91yrn100nlslmpujy3dlhy",
       "title": "TAI完成40nm边缘物理AI芯片原型Sting Ray验证，Manta Ray量产时间表公布",
       "title_en": "日企 TAI 完成 40nm 边缘物理 AI 芯片原型评估，目标 2027 年量产",
@@ -1002,6 +921,57 @@
         "设计"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmr99iprq027sslsm4enosg93",
+      "title": "Nvidia Kyber NVL144 推迟至2028年，亚洲供应商股价下跌",
+      "title_en": "Nvidia's Kyber NVL144 reportedly pushed back more than a year， Asian suppliers drop",
+      "url": "https://the-decoder.com/nvidias-kyber-nvl144-reportedly-pushed-back-more-than-a-year-asian-suppliers-drop",
+      "permalink": "https://aihot.virxact.com/items/cmr99iprq027sslsm4enosg93",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-06T12:30:11.000Z",
+      "summary": "分析师机构 SemiAnalysis 报告称，Nvidia 下一代 AI 服务器系统 Kyber NVL144 因 PCB 中板制造缺陷，已推迟超过十二个月至 2028 年。备选设计 NVL72x2 机架被取消；更强版本的 Rubin Ultra 芯片（四计算 die 版本）也被取消，仅保留双 die 版本，实际计算性能约减半。关键互联技术 CPO-NVSwitch 要等到下下一代\"Feynman\"架构才问世。延迟给 AMD MI500X 和 Google TPUv8i Broadfly 等竞争对手创造了机会。分析师认为亚洲供应商股价下跌主要由获利回吐驱动，并非整体 AI 支出放缓的信号。",
+      "category": "industry",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmr99iprq027sslsm4enosg93"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmr948idq005vslsmtkc4q00v",
+      "title": "中国AI伴侣规则：北京真正针对的是什么",
+      "title_en": "China's AI companion rules： what Beijing is really going after",
+      "url": "https://www.artificialintelligence-news.com/news/china-ai-companion-rules",
+      "permalink": "https://aihot.virxact.com/items/cmr948idq005vslsmtkc4q00v",
+      "source": "Artificial Intelligence News（RSS）",
+      "publishedAt": "2026-07-06T11:00:00.000Z",
+      "summary": "中国《人工智能拟人交互服务管理暂行办法》将于7月15日生效，由网信办等五部门联合发布。办法禁止向未成年人提供虚拟伴侣服务，要求构建防沉迷系统、实时检测不健康依赖、干预自残行为，并禁止诱导情感依赖。服务达百万注册或10万月活须完成安全评估并报备。规则排除客服、知识问答等非情感交互类服务。字节跳动豆包和阿里巴巴通义千问已提前关闭拟人化智能体功能，豆包提供只读模式至10月15日，通义千问则永久删除数据。",
+      "category": "industry",
+      "score": 64,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmr948idq005vslsmtkc4q00v"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmr8yq2xv01phsllsc7sv9v5u",
@@ -1288,6 +1258,33 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
+      "id": "cmr9bt4ug02syslsmupfn2tq8",
+      "title": "Anthropic 如何通过几个简单步骤失去商誉",
+      "title_en": null,
+      "url": "https://raheeljunaid.com/blog/anthropics-method-to-losing-goodwill-in-a-few-easy-steps",
+      "permalink": "https://aihot.virxact.com/items/cmr9bt4ug02syslsmupfn2tq8",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-06T14:31:53.531Z",
+      "summary": "Anthropic 因 API 不稳定、厂商锁定及价格调整引发用户不满。其 Claude Code CLI 约有 9100 个未解决 GitHub issue，订阅用户无法在 OpenCode 等第三方工具使用 Claude 订阅。自 6 月 15 日起，Anthropic 将订阅计费分为第一方与第三方两个独立池，新增\"Agent SDK credit\"（Pro 20 美元，Max 5x 100 美元，Max 20x 200 美元），超出后按标准 API 费率计费。此前订阅用户使用代理工具可获约 15-30 倍补贴，新政策使第三方及自动化调用成本大幅上升。",
+      "category": "tip",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmr9bt4ug02syslsmupfn2tq8"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "自动化",
+        "claude code",
+        "agent"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cmr67nl1j00mnslf0wyxqtn1i",
       "title": "OpenAI联合创始人展望\"几乎无界面\"未来：用户无需再学软件",
       "title_en": "OpenAI cofounder envisions \"almost no interface\" future where nobody learns software anymore",
@@ -1367,6 +1364,32 @@
         "可灵"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmr9694it00muslsmnn83avmw",
+      "title": "谷歌升级 Google Cloud 机密计算产品，新增英伟达 RTX PRO 6000 Blackwell 虚拟机",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/973/255.htm",
+      "permalink": "https://aihot.virxact.com/items/cmr9694it00muslsmnn83avmw",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-06T11:38:59.000Z",
+      "summary": "7月6日，谷歌宣布升级 Google Cloud 机密计算产品，推出基于英伟达 Blackwell GPU 的机密虚拟机 Confidential G4 VMs（预览版），采用 RTX PRO 6000 Blackwell Server Edition GPU 及第五代 AMD EPYC Turin 处理器，通过 AMD SEV 技术实现硬件级数据隔离。同步开源 Prompt Encryption SDK，对 AI 提示词和模型生成内容进行端到端加密。Confidential Space 平台升级，集成 Intel Trust Authority 认证，并新增对英伟达 Hopper 架构 GPU 支持，用于跨机构联合训练。",
+      "category": "ai-products",
+      "score": 58,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmr9694it00muslsmnn83avmw"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "提示词",
+        "prompt"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmr6k7s8a03pvslf0385o2kr6",
@@ -1498,32 +1521,6 @@
       "tags": [
         "工作流",
         "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmr53w01z07l6sll51tnss970",
-      "title": "百度智能云在郑州举办AI+短剧漫剧专场，探讨效率之后的内容生态建设",
-      "title_en": "AI短漫剧卷完效率卷什么？百度智能云携手高新区在郑州聊透\"好故事\"这门生意",
-      "url": "https://mp.weixin.qq.com/s/ge95M-oG-WPrnbiD1_BcOQ",
-      "permalink": "https://aihot.virxact.com/items/cmr53w01z07l6sll51tnss970",
-      "source": "公众号：百度智能云（文心）",
-      "publishedAt": "2026-07-03T12:36:56.000Z",
-      "summary": "7月2日，百度智能云在郑州举办AI+短剧漫剧专场。副总裁张玮提出，AIGC下半场比拼模型、创作、工作流、安全与商业生态的组合能力。现场展示全流程能力：百度百舸支撑训练推理，千帆汇聚超150个模型并集成Agent Tools，Hogee负责内容流水线，\"百度一镜\"打造数字人平台，百度搭子串联全链路。行业共识认为AI可提高效率，但好故事仍需人的审美与创造力。百度智能云将与郑州高新区合作，推动AI原生内容规模化增长。",
-      "category": "industry",
-      "score": 32,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr53w01z07l6sll51tnss970"
-      },
-      "sourceType": "公众号",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "工作流",
-        "agent"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     }
