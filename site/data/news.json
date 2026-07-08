@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-08T03:44:26.268Z",
-  "previousGeneratedAt": "2026-07-06T15:55:00.839Z",
+  "generatedAt": "2026-07-08T08:44:12.502Z",
+  "previousGeneratedAt": "2026-07-08T03:44:26.268Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 64,
+  "itemCount": 63,
   "sourceCounts": {
     "网站": 36,
     "X": 24,
-    "公众号": 4
+    "公众号": 3
   },
   "source": {
     "name": "AI HOT",
@@ -127,6 +127,34 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmrbt44r2070uihl1caswp0lo",
+      "title": "Image2Sim：通过生成式神经模拟器扩展具身导航",
+      "title_en": "Image2Sim： Scaling Embodied Navigation via Generative Neural Simulator",
+      "url": "https://arxiv.org/abs/2607.05765",
+      "permalink": "https://aihot.virxact.com/items/cmrbt44r2070uihl1caswp0lo",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-07T00:00:00.000Z",
+      "summary": "Image2Sim 是一个实时神经模拟框架，从带位姿的 RGB-D 图像序列构建高质量交互环境。其核心是将 3D 空间锚定与逼真观测合成解耦：场景构建使用前馈特征高斯模型，单次前向将 RGB-D 观测提升为 3D 特征高斯表征；渲染采用几何感知一步像素流模型，将稀疏高斯投影转化为高质量全景 RGB-D 观测。Image2Sim 还作为全自动具身数据引擎，从视频和图像生成了近 20K 交互场景，并合成超 1000 万导航训练样本。在该神经环境中训练的导航模型在主要基准上取得显著提升，并可零样本迁移至真实世界。",
+      "category": "paper",
+      "score": 42,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrbt44r2070uihl1caswp0lo"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 17,
+      "editorialScore": 20,
+      "tags": [
+        "图像生成",
+        "交互",
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmrb4htsc00m8ihl1hdd1p7p2",
       "title": "Meta发布Muse Image模型，可引用其他Instagram用户生成AI图片",
       "title_en": "Meta's new Muse Image model can pull other Instagram users into AI photos",
@@ -207,6 +235,34 @@
         "视觉",
         "图像",
         "智能体"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmrbsxind06ylihl1fwz1ymw2",
+      "title": "开源一个非常漂亮的文章配图 Skill",
+      "title_en": "开源一个非常漂亮的文章配图 Skill。 昨天给 Claude 用我的社交媒体卡片生成的时候，Codex 生成了一个配图，我觉得很漂亮、挺有意思。 发出来后大家也都很喜欢，所以顺便就把它做成了…",
+      "url": "https://x.com/op7418/status/2074758348264833131",
+      "permalink": "https://aihot.virxact.com/items/cmrbsxind06ylihl1fwz1ymw2",
+      "source": "X：歸藏 (@op7418)",
+      "publishedAt": "2026-07-08T07:31:52.000Z",
+      "summary": "歸藏 （@op7418） 开源了一款文章配图 Skill，目前仅适配 GPT-Image-2.0 模型。该 Skill 可将用户输入的文档或文案，自动生成干净漂亮、带标签的 3D 材质配图。其灵感来源于作者昨天为 Claude 社交媒体卡片生成配图时意外获得的视觉效果，因反响热烈而被整理成独立 Skill 并开源。",
+      "category": "tip",
+      "score": 71,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrbsxind06ylihl1fwz1ymw2"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 15,
+      "editorialScore": 18,
+      "tags": [
+        "配图",
+        "视觉",
+        "3d",
+        "codex"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -488,6 +544,33 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
+      "id": "cmrbon63e05u9ihl18zk8r1yo",
+      "title": "歸藏开源 guizang-material-illustration Skill：基于 GPT-Image 2.0 的 3D 材质解释图生成工具",
+      "title_en": "http://x.com/i/article/2074726140930039808",
+      "url": "https://x.com/op7418/status/2074728162018152817",
+      "permalink": "https://aihot.virxact.com/items/cmrbon63e05u9ihl18zk8r1yo",
+      "source": "X：歸藏 (@op7418)",
+      "publishedAt": "2026-07-08T05:31:55.000Z",
+      "summary": "歸藏 （@op7418） 开源了 guizang-material-illustration Skill，基于 GPT-Image 2.0 生成带中文标签的 3D 材质风格解释图。支持工作汇报、数据图表（柱状图、甘特图、桑基图、热力图等）、教育图解、人文配图等场景，统一白底工作室光线+IKB 蓝点缀色，标签限制 2-5 汉字并内嵌图中。冷门概念自动检索参考，图表从数据语义重画而非截图换皮。安装命令：`npx skills add https://github.com/op7418/guizang-material-illustration --skill guizang-material-illustration`，仅适用于 GPT-Image 2.0，可配合 PPT Skill 和社交媒体图片 Skill 使用。",
+      "category": "tip",
+      "score": 72,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrbon63e05u9ihl18zk8r1yo"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "配图",
+        "3d",
+        "skill"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmrbi9w1c045mihl1gvs8njyf",
       "title": "OpenAI前研究员田永龙加入腾讯，将负责混元多模态模型方向",
       "title_en": "姚顺雨 OpenAI 前同事田永龙被曝加入腾讯，混元多模态有望迎来新负责人",
@@ -591,32 +674,6 @@
         "交互",
         "视频",
         "agent"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmr964k1100kjslsmwji08fg9",
-      "title": "AHA-WAM：异步快慢系统架构让世界模型\"慢思考、快执行\"",
-      "title_en": "对话穆尧：让世界模型\"慢思考、快执行\"，AHA-WAM 如何走向机器人现场",
-      "url": "https://mp.weixin.qq.com/s/CCQ75IgWdtWofTTQ_oZCAw",
-      "permalink": "https://aihot.virxact.com/items/cmr964k1100kjslsmwji08fg9",
-      "source": "公众号：百度智能云（文心）",
-      "publishedAt": "2026-07-06T11:53:07.000Z",
-      "summary": "上海交通大学穆尧团队与百度智能云合作推出AHA-WAM，采用异步快慢系统架构，将视频生成（慢系统）与动作生成（快系统）解耦。通过OVCR机制用实时观测修正旧视频推演的KV Cache，使机器人闭环推理频率达到56Hz，控制频率提升近10倍。模型基座约5B参数，Flash版本将去噪步数从10步压缩至2步。百度百舸团队将单步推理延迟从415ms压缩到41ms。方案不依赖端侧硬件加速，通过端云协同解决大模型推理慢与机器人高频控制之间的矛盾。",
-      "category": "tip",
-      "score": 54,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr964k1100kjslsmwji08fg9"
-      },
-      "sourceType": "公众号",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视频生成",
-        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -783,30 +840,31 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmr9ik84e001xihe8vdrj7grg",
-      "title": "OpenClaw iOS版升级设计支持Liquid Glass",
-      "title_en": "OpenClaw for iOS got an upgraded design with a better Liquid Glass support and more. Community upd…",
-      "url": "https://x.com/testingcatalog/status/2074182571068407853",
-      "permalink": "https://aihot.virxact.com/items/cmr9ik84e001xihe8vdrj7grg",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-07-06T17:23:56.000Z",
-      "summary": "OpenClaw for iOS 获得了升级设计，支持更好的 Liquid Glass 等。\n\n社区更新 🦞",
-      "category": "ai-products",
-      "score": 54,
+      "id": "cmrbmlx0t05bnihl1ozlfe6ja",
+      "title": "基于《人生设计课》的Claude提示词：四阶段人生设计对话",
+      "title_en": "http://x.com/i/article/2074718733285941249",
+      "url": "https://x.com/Khazix0918/status/2074721296701849703",
+      "permalink": "https://aihot.virxact.com/items/cmrbmlx0t05bnihl1ozlfe6ja",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "publishedAt": "2026-07-08T05:04:38.000Z",
+      "summary": "作者将斯坦福《人生设计课》理论制作成Claude提示词，用Opus 4.6模型进行四阶段对话：看清现状（健康/工作/娱乐/爱打分）、找到指南针（工作观与人生观）、寻路（心流时刻与能量地图）、锚问题与奥德赛计划（设计三种五年人生版本）。AI根据对话生成包含现状梳理、指南针、能量地图、奥德赛计划、反愿景和原型行动清单的人生设计蓝图。提示词经多轮迭代，要求用户真诚回答，AI会针对性追问，效果超出预期。",
+      "category": "tip",
+      "score": 72,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr9ik84e001xihe8vdrj7grg"
+        "canonical": "https://aihot.virxact.com/items/cmrbmlx0t05bnihl1ozlfe6ja"
       },
       "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
+      "designCategory": "设计工具",
+      "relevanceScore": 7,
+      "editorialScore": 12,
       "tags": [
-        "design",
-        "设计"
+        "原型",
+        "设计",
+        "提示词"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "cmragm0cg00edihuadeodc45r",
@@ -886,6 +944,32 @@
         "智能体"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmrbkihn104rlihl1r2ont4y3",
+      "title": "SenseNova-Vision：将计算机视觉表述为统一多模态生成",
+      "title_en": "Vision as Unified Multimodal Generation",
+      "url": "https://arxiv.org/abs/2607.06560",
+      "permalink": "https://aihot.virxact.com/items/cmrbkihn104rlihl1r2ont4y3",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-07T00:00:00.000Z",
+      "summary": "SenseNova-Vision 将计算机视觉表述为统一多模态生成，无需任务特定架构，直接用自然语言指令和可选视觉提示指定检测、分割、深度估计等任务，输出文本、图像或混合结果。配套的 SenseNova-Vision Corpus 涵盖文本、图像与混合目标的指令-响应对，用于训练预训练统一多模态模型。实验表明单个模型在结构化理解、密集几何预测、分割及多视图几何上可匹配领先的任务专用系统。模型与语料库均已公开。",
+      "category": "ai-models",
+      "score": 66,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrbkihn104rlihl1r2ont4y3"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 9,
+      "editorialScore": 12,
+      "tags": [
+        "视觉",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmrauzt0c01b2ihogk1sosfm5",
@@ -1046,62 +1130,6 @@
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrasqq2m00oqihogal5wkgou",
-      "title": "PixVerse Live 倒计时48小时活动预告",
-      "title_en": "PixVerse Live is in 48 hours. Live walkthrough of how creators， marketers &amp； e-commerce brands ar…",
-      "url": "https://x.com/PixVerse_/status/2074508803756986749",
-      "permalink": "https://aihot.virxact.com/items/cmrasqq2m00oqihogal5wkgou",
-      "source": "X：PixVerse (@PixVerse_)",
-      "publishedAt": "2026-07-07T15:00:15.000Z",
-      "summary": "PixVerse Live 将于48小时后举行。\n现场演示创作者、营销人员和电商品牌如何快速将创意转化为成品视频。\n\n面向美国用户，免费参加。无需经验。\n🎁 5，000 积分抽奖\n📅 7月9日，太平洋夏令时上午10-11点",
-      "category": "ai-products",
-      "score": 22,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrasqq2m00oqihogal5wkgou"
-      },
-      "sourceType": "X",
-      "designCategory": "行业观察",
-      "relevanceScore": 11,
-      "editorialScore": 11,
-      "tags": [
-        "创意",
-        "视频",
-        "品牌",
-        "营销"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmrakoma001fyihuayv458erd",
-      "title": "Claude Fable 5 实战指南：8 个提示模式与系统提示删 80%",
-      "title_en": "Claude Fable 5 实战指南：8 个「找未知」提示模式，从盲点扫描到读后小测验 Claude Code 团队成员@trq212 在 AI Engineer World's Fair 大会上…",
-      "url": "https://x.com/xiaohu/status/2074455924169994433",
-      "permalink": "https://aihot.virxact.com/items/cmrakoma001fyihuayv458erd",
-      "source": "X：小互 (@xiaohu)",
-      "publishedAt": "2026-07-07T11:30:08.000Z",
-      "summary": "Claude Code 团队成员 @trq212 在 AI Engineer World's Fair 演讲中分享了 8 个「找未知」提示模式，涵盖动手前、中、后三个阶段（如盲点扫描、读后小测验），每个模式均配有中英文示例 prompt。反直觉披露：Claude Code 的系统提示词最近被删掉 80%，因为新模型下示例反而会束缚表现，设计方向从「给约束」转向「给上下文」。",
-      "category": "tip",
-      "score": 76,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrakoma001fyihuayv458erd"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 10,
-      "editorialScore": 11,
-      "tags": [
-        "设计",
-        "提示词",
-        "prompt",
-        "claude code"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmrasd6r300hyihogr1b4cd10",
@@ -1510,29 +1538,29 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmr99iprq027sslsm4enosg93",
-      "title": "Nvidia Kyber NVL144 推迟至2028年，亚洲供应商股价下跌",
-      "title_en": "Nvidia's Kyber NVL144 reportedly pushed back more than a year， Asian suppliers drop",
-      "url": "https://the-decoder.com/nvidias-kyber-nvl144-reportedly-pushed-back-more-than-a-year-asian-suppliers-drop",
-      "permalink": "https://aihot.virxact.com/items/cmr99iprq027sslsm4enosg93",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-06T12:30:11.000Z",
-      "summary": "分析师机构 SemiAnalysis 报告称，Nvidia 下一代 AI 服务器系统 Kyber NVL144 因 PCB 中板制造缺陷，已推迟超过十二个月至 2028 年。备选设计 NVL72x2 机架被取消；更强版本的 Rubin Ultra 芯片（四计算 die 版本）也被取消，仅保留双 die 版本，实际计算性能约减半。关键互联技术 CPO-NVSwitch 要等到下下一代\"Feynman\"架构才问世。延迟给 AMD MI500X 和 Google TPUv8i Broadfly 等竞争对手创造了机会。分析师认为亚洲供应商股价下跌主要由获利回吐驱动，并非整体 AI 支出放缓的信号。",
-      "category": "industry",
-      "score": 60,
+      "id": "cmrbr5n3u06kjihl1fjzo6b5h",
+      "title": "NVIDIA Cosmos-Framework 教程：在 Colab 上构建紧凑版 Omnimodal Mixture-of-Transformers 世界模型",
+      "title_en": "NVIDIA's Cosmos-Framework Tutorial： Designing a Colab-Friendly Miniature of Cosmos 3 World Models with Omnimodal Mixture-of-Transformers",
+      "url": "https://www.marktechpost.com/2026/07/08/nvidias-cosmos-framework-tutorial-designing-a-colab-friendly-miniature-of-cosmos-3-world-models-with-omnimodal-mixture-of-transformers",
+      "permalink": "https://aihot.virxact.com/items/cmrbr5n3u06kjihl1fjzo6b5h",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-07-08T07:15:35.000Z",
+      "summary": "本教程利用 NVIDIA cosmos-framework 的 CLI、输入模式和模型结构，在 Google Colab 上构建并训练了一个紧凑的 Omnimodal Mixture-of-Transformers 世界模型。标准 Colab 硬件（T4 GPU，显存不足 80 GiB、硬盘空闲低于 150 GiB）无法运行真实 Cosmos 3 检查点（如 Nano-16B 需单卡 H100 及以上），因此教程转向模拟实现：通过共享跨模态注意力与文本、视觉、动作流的模态特定专家路由，使用合成物理世界数据训练小型模型，并跟踪训练损失与自回归展开，演示模型学习跨模态关系及预测未来潜在状态的过程。",
+      "category": "tip",
+      "score": 62,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr99iprq027sslsm4enosg93"
+        "canonical": "https://aihot.virxact.com/items/cmrbr5n3u06kjihl1fjzo6b5h"
       },
       "sourceType": "网站",
-      "designCategory": "产品与体验",
+      "designCategory": "图像与视频",
       "relevanceScore": 6,
-      "editorialScore": 10,
+      "editorialScore": 9,
       "tags": [
-        "设计"
+        "视觉"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmrbikwbz04b5ihl16qfp5ntw",
@@ -1664,61 +1692,6 @@
         "视觉"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmr9u2kma003gihdb8r5drdfd",
-      "title": "OfficeCLI：为AI智能体设计的开源Office套件",
-      "title_en": "OfficeCLI：供人工智能代理读取和编辑 Microsoft Office 文件的办公套件",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "permalink": "https://aihot.virxact.com/items/cmr9u2kma003gihdb8r5drdfd",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-06T23:03:34.910Z",
-      "summary": "OfficeCLI是全球首个专为AI智能体设计的开源Office套件，以单二进制文件运行，无需安装Office或任何依赖。它内置HTML渲染引擎，可将.docx/.xlsx/.pptx转换为HTML或PNG，形成\"渲染→查看→修复\"的视觉闭环，使AI代理能自主创建、读取和修改Word、Excel、PowerPoint文档。支持公式、图表、条件格式、RTL布局、修订追踪、表格、数据透视表等复杂功能。提供CLI命令和基于自然语言的桌面应用AionUi，并可一键安装到Claude Code、Cursor、Windsurf、GitHub Copilot等AI编码工具中。",
-      "category": "ai-products",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr9u2kma003gihdb8r5drdfd"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "视觉",
-        "设计",
-        "claude code",
-        "智能体"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmr9bt4ug02syslsmupfn2tq8",
-      "title": "Anthropic 如何通过几个简单步骤失去商誉",
-      "title_en": null,
-      "url": "https://raheeljunaid.com/blog/anthropics-method-to-losing-goodwill-in-a-few-easy-steps",
-      "permalink": "https://aihot.virxact.com/items/cmr9bt4ug02syslsmupfn2tq8",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-06T14:31:53.531Z",
-      "summary": "Anthropic 因 API 不稳定、厂商锁定及价格调整引发用户不满。其 Claude Code CLI 约有 9100 个未解决 GitHub issue，订阅用户无法在 OpenCode 等第三方工具使用 Claude 订阅。自 6 月 15 日起，Anthropic 将订阅计费分为第一方与第三方两个独立池，新增\"Agent SDK credit\"（Pro 20 美元，Max 5x 100 美元，Max 20x 200 美元），超出后按标准 API 费率计费。此前订阅用户使用代理工具可获约 15-30 倍补贴，新政策使第三方及自动化调用成本大幅上升。",
-      "category": "tip",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr9bt4ug02syslsmupfn2tq8"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "自动化",
-        "claude code",
-        "agent"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     }
   ]
 }
