@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-09T04:13:53.733Z",
-  "previousGeneratedAt": "2026-07-08T14:41:03.512Z",
+  "generatedAt": "2026-07-09T10:02:33.965Z",
+  "previousGeneratedAt": "2026-07-09T04:13:53.733Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 56,
+  "itemCount": 54,
   "sourceCounts": {
     "X": 24,
-    "网站": 30,
-    "公众号": 2
+    "网站": 27,
+    "公众号": 3
   },
   "source": {
     "name": "AI HOT",
@@ -65,90 +65,6 @@
       "tags": [
         "图像生成",
         "视频生成",
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrb7tt8n01j4ihl1wcjhhos1",
-      "title": "Meta 推出 AI 图像生成器 Muse Image",
-      "title_en": "Meta rolls out Muse， a new AI image generator",
-      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator",
-      "permalink": "https://aihot.virxact.com/items/cmrb7tt8n01j4ihl1wcjhhos1",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-07T22:18:10.000Z",
-      "summary": "Meta 发布由 Meta Superintelligence Labs 开发的新 AI 图像生成器 Muse Image（代号 Mango），免费向 Meta AI App、Instagram Stories 和 WhatsApp 用户开放。Muse 支持通过预设提示词生成滑稽卡通图像，可定制 Facebook Marketplace 广告或模拟旧沙发摆放效果，具备基于提示词的图像编辑功能（擦除背景干扰物、生成 QR 码）。Meta 同步推出 Muse 支持的 Instagram Stories AI 滤镜。免费额度有限，超出需订阅，视频生成工具 Muse Video 已在开发中。",
-      "category": "ai-products",
-      "score": 59,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrb7tt8n01j4ihl1wcjhhos1"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 21,
-      "editorialScore": 24,
-      "tags": [
-        "图像生成",
-        "视频生成",
-        "广告",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrb1gpyb0300ihogm7fwewoo",
-      "title": "Meta发布AI重组后首个图像生成模型Muse Image",
-      "title_en": "Meta just launched its 1st image model after Mark Zuckerberg's AI shake-up. Muse Image is Meta Supe…",
-      "url": "https://x.com/rohanpaul_ai/status/2074573810809098660",
-      "permalink": "https://aihot.virxact.com/items/cmrb1gpyb0300ihogm7fwewoo",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-07-07T19:18:34.000Z",
-      "summary": "Meta Superintelligence Labs推出Muse Image，这是继Muse Spark后的首个图像生成模型。它将驱动Instagram照片编辑新功能并集成到广告营销工具。此前Meta内部依赖Midjourney和Black Forest Labs，自研Muse Image以控制质量、成本和产品节奏。消费者可通过Meta AI、WhatsApp和Instagram Stories免费使用，超出限额需订阅Meta One等计划。用户可基于提示词、添加照片、注释编辑或涂鸦修改，支持消除路人、生成二维码、保持文字可读。广告商可通过Advantage+创意获取变体、风格替换和品牌适配版本。内部测试中，Muse Image编辑能力落后GPT Image 2但优于Nano Banana 2。这是Meta将AI基础设施投入转化为营收的尝试。",
-      "category": "ai-products",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrb1gpyb0300ihogm7fwewoo"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 20,
-      "editorialScore": 23,
-      "tags": [
-        "midjourney",
-        "图像生成",
-        "广告",
-        "创意"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrb5upth011cihl1jegtp17p",
-      "title": "Meta超级智能实验室推出首个媒体生成模型组Muse Image和Muse Video",
-      "title_en": "Alongside the release of Muse Image， we're sharing an early preview of Muse Video. It offers competi…",
-      "url": "https://x.com/AIatMeta/status/2074600027733860758",
-      "permalink": "https://aihot.virxact.com/items/cmrb5upth011cihl1jegtp17p",
-      "source": "X：AI at Meta (@AIatMeta)",
-      "publishedAt": "2026-07-07T21:02:45.000Z",
-      "summary": "Meta超级智能实验室发布首个媒体生成模型组Muse Image和Muse Video。Muse Image是当前最先进的图像生成模型，支持指令跟随、精确编辑、多参考构图，利用Instagram社交上下文，具备智能体工具使用能力并集成Muse Spark，已在Meta AI应用、网页、Instagram Stories和WhatsApp有限国家上线。Muse Video基于相同预训练基础，提供有竞争力的提示遵从、视觉保真度和时间一致性，原生支持音频。团队正重点解决音视频同步及物理精确快速运动等性能差距。",
-      "category": "ai-models",
-      "score": 68,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrb5upth011cihl1jegtp17p"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 19,
-      "editorialScore": 22,
-      "tags": [
-        "图像生成",
-        "视觉",
         "视频",
         "图像"
       ],
@@ -238,90 +154,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmrb4htsc00m8ihl1hdd1p7p2",
-      "title": "Meta发布Muse Image模型，可引用其他Instagram用户生成AI图片",
-      "title_en": "Meta's new Muse Image model can pull other Instagram users into AI photos",
-      "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
-      "permalink": "https://aihot.virxact.com/items/cmrb4htsc00m8ihl1hdd1p7p2",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-07-07T20:31:58.000Z",
-      "summary": "Meta发布首个由Superintelligence Labs开发的AI图像生成模型Muse Image，已集成至Meta AI、Instagram和WhatsApp，即将登陆Facebook和Messenger。该模型与Muse Spark大语言模型配合，具备智能体能力，可推理提示词、搜索网页并规划后生成。用户可在提示中用@提及其他Instagram账户，将他们的公共照片融入生成图像。模型还支持基于建议提示转换图片、创作邀请函等设计、根据Facebook Marketplace图片重新设计房间，以及直接在图片上绘画修改。Meta计划推出Muse Video模型，并称其在提示遵循、视觉保真度和时间一致性上具有竞争力；Muse Image将为Instagram Story带来30种新AI效果，先在美国上线。",
-      "category": "ai-models",
-      "score": 71,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrb4htsc00m8ihl1hdd1p7p2"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 16,
-      "editorialScore": 19,
-      "tags": [
-        "图像生成",
-        "视觉",
-        "设计",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrb3pjmg00h8ihl1k6ad7lgx",
-      "title": "Meta发布Muse Image和Muse Video，首批媒体生成模型",
-      "title_en": "Muse Image works as an agent rather than a direct prompt-to-image model： it invokes tools， self-refi…",
-      "url": "https://x.com/AIatMeta/status/2074587864923250873",
-      "permalink": "https://aihot.virxact.com/items/cmrb3pjmg00h8ihl1k6ad7lgx",
-      "source": "X：AI at Meta (@AIatMeta)",
-      "publishedAt": "2026-07-07T20:14:25.000Z",
-      "summary": "Meta超智能实验室今日发布Muse Image和Muse Video，为首批媒体生成模型。Muse Image是Meta目前最先进的图像生成模型，能精确遵循指令、精准编辑、从多参考图像合成，并利用Instagram社交上下文。其最大特点是Agent式工作：调用工具、自我优化，通过缩放测试时计算改进，并与Muse Spark协作生成媒体。Muse Video基于相同预训练基础，具备原生音频支持，提供卓越视觉保真度。Muse Image已在Meta AI应用、网页、Instagram Stories和WhatsApp中有限国家开放试用。",
-      "category": "ai-models",
-      "score": 74,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrb3pjmg00h8ihl1k6ad7lgx"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 16,
-      "editorialScore": 19,
-      "tags": [
-        "图像生成",
-        "视觉",
-        "图像",
-        "prompt"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrb2mxmc0072ihl1mx0aw1bz",
-      "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
-      "title_en": "Introducing Muse Image and Muse Video， the first media generation models developed by Meta Superinte…",
-      "url": "https://x.com/AIatMeta/status/2074577662840832382",
-      "permalink": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
-      "source": "X：AI at Meta (@AIatMeta)",
-      "publishedAt": "2026-07-07T19:33:53.000Z",
-      "summary": "Meta Superintelligence Labs 发布首个媒体生成模型 Muse Image 和 Muse Video。Muse Image 是目前最先进的图像生成模型，能精确遵循指令、精准编辑、多参考构图，并利用 Instagram 社交上下文。它还具备智能体工具使用能力并集成 Muse Spark。用户可通过 Meta AI 应用、网页、Instagram Stories 和 WhatsApp 试用，初始限于部分国家。Muse Video 基于相同预训练基础，实现高视觉保真度并原生支持音频。",
-      "category": "ai-models",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 16,
-      "editorialScore": 19,
-      "tags": [
-        "图像生成",
-        "视觉",
-        "图像",
-        "智能体"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmrct7rdt043qihx5ee589jwk",
       "title": "Vercel Labs 开源原生桌面 SDK，无浏览器/WebView 的自研引擎方案",
       "title_en": "Vercel Labs 开源发布了原生桌面应用开发工具包「Native SDK」 https://github.com/vercel-labs/native 保留 Web 那套声明式 UI 的作者体…",
@@ -406,33 +238,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmrb3jar600fnihl1d258ko45",
-      "title": "微软加入 AI 降本趋势，更多依赖自家模型",
-      "title_en": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-      "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models",
-      "permalink": "https://aihot.virxact.com/items/cmrb3jar600fnihl1d258ko45",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-07T19:58:20.000Z",
-      "summary": "彭博社报道，微软已在 Excel 和 Word 中开始使用自研 MAI 模型响应一定比例的用户提示，减少对 OpenAI 和 Anthropic 软件的依赖。上月在 Build 大会上微软宣布推出七个新 MAI 模型，包括一个智能体编码器和一个文生图模型。微软表示没有更多信息分享。此举是行业降本浪潮的一部分，亚马逊、Uber、Meta、埃森哲等公司也采取了类似控制支出的措施。",
-      "category": "industry",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrb3jar600fnihl1d258ko45"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 15,
-      "editorialScore": 18,
-      "tags": [
-        "文生图",
-        "生图",
-        "智能体"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmrck4u0401s9ihx5c69n1ebc",
       "title": "Grok将能调用Imagine工具生成图像/视频，Grok 4.5在Cursor中体验获好评",
       "title_en": "Grok will be able to call Imagine as a tool in agentic mode for image/video generation. As Imagine k…",
@@ -513,6 +318,32 @@
         "配图",
         "视频",
         "3d"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmrd6bmv200xrih4b7i1ivun0",
+      "title": "蚂蚁灵波开源全球首个面向具身智能的MoE视频基模LingBot-Video",
+      "title_en": "全球首个面向具身智能的视频基模，蚂蚁灵波 LingBot-Video 开源",
+      "url": "https://www.ithome.com/0/974/517.htm",
+      "permalink": "https://aihot.virxact.com/items/cmrd6bmv200xrih4b7i1ivun0",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-09T07:06:00.000Z",
+      "summary": "蚂蚁灵波科技正式开源LingBot-Video，这是全球首个基于MoE架构、面向具身智能的视频生成基础模型。总参数30B，推理时仅激活约3B，效率较同规模Dense架构提升约3倍。模型引入7万小时VLA、VLN、Ego等机器人数据，并通过多维强化学习奖励系统对齐物理合理性与任务完成度。在RBench上总分0.620，超越Wan2.6等模型；在Physics-IQ Verified评测中排名第一。可用于机器人动作预测、仿真数据生成等方向。",
+      "category": "ai-models",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrd6bmv200xrih4b7i1ivun0"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "视频生成",
+        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -706,31 +537,32 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmrb1brhi02xfihogfb010bdn",
-      "title": "Meta AI 推出 Muse Image：MSL 首个图像生成模型",
-      "title_en": "META 🔥： Muse Image， the first image-gen model from MSL， is now available on Meta AI. > It uses ad…",
-      "url": "https://x.com/testingcatalog/status/2074571946642059555",
-      "permalink": "https://aihot.virxact.com/items/cmrb1brhi02xfihogfb010bdn",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-07-07T19:11:10.000Z",
-      "summary": "Meta 在 Meta AI 应用中推出 Muse Image，这是 MSL 首个图像生成模型。该模型同时登陆 WhatsApp 和 Instagram，后续将扩展至 Messenger 和 Facebook。Muse Image 利用高级推理理解复杂提示，能将多张照片无缝融合生成高质量图像，支持预设、在提示中引用图片以及直接编辑。结合引用推文，Muse Image 具备智能体特性：与 Muse Spark 配对，先推理用户提示、搜索网络并规划，再生成图像，旨在首次尝试即得到用户期望结果。",
-      "category": "ai-models",
-      "score": 78,
+      "id": "cmrd7uahp01dnih4bqj3u8h1e",
+      "title": "Toyo发布：驻留在iMessage/Telegram的AI智能体",
+      "title_en": "AI agents should feel less like software and more like a colleague in your messages. Toyo （@usetoyo…",
+      "url": "https://x.com/rohanpaul_ai/status/2075121850666057959",
+      "permalink": "https://aihot.virxact.com/items/cmrd7uahp01dnih4bqj3u8h1e",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-07-09T07:36:17.000Z",
+      "summary": "近日，Toyo（@usetoyo）正式发布，它是一款驻留在iMessage或Telegram中的AI智能体，用户像跟同事发消息一样交互，后台自动处理工具调用、上下文管理和工作流。Toyo可连接邮箱、日历、Slack、CRM、文档、笔记和项目管理工具，完成日程检查、草稿、提醒和审批等日常琐事。其核心设计是权限委托，还能拨打电话，了解用户和工作，帮助减轻每周数小时的低效忙碌。",
+      "category": "ai-products",
+      "score": 63,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrb1brhi02xfihogfb010bdn"
+        "canonical": "https://aihot.virxact.com/items/cmrd7uahp01dnih4bqj3u8h1e"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
+      "designCategory": "产品与体验",
+      "relevanceScore": 10,
+      "editorialScore": 14,
       "tags": [
-        "图像生成",
-        "图像",
+        "设计",
+        "交互",
+        "工作流",
         "智能体"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmrcuu87p04jiihx5dn6h7dya",
@@ -944,6 +776,32 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmrbevze203afihl13y2o697g",
+      "title": "SDXL模型发现概念流形，低计算量操控生成结果",
+      "title_en": "Today， researchers made an important breakthrough in interpretability. They found \"manifolds\" in th…",
+      "url": "https://x.com/deedydas/status/2074668258519892232",
+      "permalink": "https://aihot.virxact.com/items/cmrbevze203afihl13y2o697g",
+      "source": "X：Deedy Das (@deedydas)",
+      "publishedAt": "2026-07-08T01:33:52.000Z",
+      "summary": "研究人员在图像生成模型SDXL中发现神经网络权重中存在\"流形\"（manifolds），例如椒盐卷饼流形，可直接从权重中操控生成不同种类的椒盐卷饼。这是可解释性领域的重要突破，提供了一种低计算量的\"音量旋钮\"来编辑生成结果。该研究基于GoodfireAI提出的Block-Sparse Featurizers （BSFs）方法，即用多维\"块\"而非单一方向来寻找模型激活中的概念。",
+      "category": "paper",
+      "score": 57,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrbevze203afihl13y2o697g"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "图像生成",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmrcvtewk04sqihx5jcwoi6fo",
       "title": "LingBot-World 2.0 （LingBot-World-Infinity）：无限世界与多样交互",
       "title_en": "Infinite Worlds with Versatile Interactions",
@@ -970,6 +828,86 @@
         "agent"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmrcn8mlw02k5ihx5risshcr3",
+      "title": "Seedream 5.0 Pro 登陆 Runway，支持14种语言",
+      "title_en": "Seedream 5.0 Pro is now in Runway. Generate highly detailed images from a prompt or reference， with …",
+      "url": "https://x.com/runwayml/status/2074982268175630814",
+      "permalink": "https://aihot.virxact.com/items/cmrcn8mlw02k5ihx5risshcr3",
+      "source": "X：Runway (@runwayml)",
+      "publishedAt": "2026-07-08T22:21:38.000Z",
+      "summary": "Seedream 5.0 Pro 现已登陆 Runway。可通过提示词或参考图生成高细节图像，图像内文字清晰可读，支持多达14种语言。立即点击下方链接尝试。",
+      "category": "ai-products",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrcn8mlw02k5ihx5risshcr3"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 10,
+      "editorialScore": 13,
+      "tags": [
+        "runway",
+        "图像",
+        "提示词",
+        "prompt"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmrcma0ol02bzihx54y0gvqxt",
+      "title": "Grok 4.5速度有望翻倍，未用GB300定制推理软件",
+      "title_en": "Grok 4.5 is not yet using our internally developed C/C++ inference software that exact maps to the G…",
+      "url": "https://x.com/elonmusk/status/2074969374843154500",
+      "permalink": "https://aihot.virxact.com/items/cmrcma0ol02bzihx54y0gvqxt",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "publishedAt": "2026-07-08T21:30:24.000Z",
+      "summary": "Elon Musk透露，Grok 4.5尚未使用针对GB300硬件内部开发的C/C++推理软件，当前速度可能再翻倍或更多。引用用户体验描述：大模型迭代中等待时间长、成本高，破坏创作心流；而Grok 4.5以极快速度+足够能力（类比Fable 5性能配Gemini 3.5 Flash速度）解决了这一痛点，让用户保持持续投入。快速+能力足够的组合被视作AI实用性的关键解锁。",
+      "category": "ai-models",
+      "score": 43,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrcma0ol02bzihx54y0gvqxt"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "用户体验"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmrbiitpt04a1ihl1cshv7fkw",
+      "title": "可灵AI NEXTGEN Awards获奖名单揭晓",
+      "title_en": "🏆 Kling AI NEXTGEN Awards Ceremony | Winners Unveiled From campus creativity to cinematic 4K produ…",
+      "url": "https://x.com/Kling_ai/status/2074689941083185274",
+      "permalink": "https://aihot.virxact.com/items/cmrbiitpt04a1ihl1cshv7fkw",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-07-08T03:00:02.000Z",
+      "summary": "可灵AI（Kling AI）公布NEXTGEN Awards颁奖结果。获奖作品涵盖从校园创意到4K电影级制作，展现AI电影制作的广度。创作者利用AI工具探索现实议题、个人情感及视觉叙事新可能。完整获奖名单通过滑动图片展示。",
+      "category": "industry",
+      "score": 32,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrbiitpt04a1ihl1cshv7fkw"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 10,
+      "editorialScore": 13,
+      "tags": [
+        "可灵",
+        "视觉",
+        "创意"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmrcsrok60407ihx5jvrp15a1",
@@ -1052,6 +990,33 @@
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
+      "id": "cmrd7s1nb01crih4b4zbsnt3u",
+      "title": "Datalab Lift：9B 参数 Schema 优先文档提取模型",
+      "title_en": "Datalab Lift vs the Field： How a 9B Schema-First Extractor Compares with NuExtract3， LlamaExtract， Marker， and Docling",
+      "url": "https://www.marktechpost.com/2026/07/09/datalab-lift-vs-the-field-how-a-9b-schema-first-extractor-compares-with-nuextract3-llamaextract-marker-and-docling",
+      "permalink": "https://aihot.virxact.com/items/cmrd7s1nb01crih4b4zbsnt3u",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-07-09T07:50:47.000Z",
+      "summary": "Datalab 的 Lift 是一个 9B 参数视觉模型，专为从 PDF 和图像中直接输出符合用户 JSON Schema 的结构化 JSON 而设计，跳过先转 Markdown 再提取的流程。与 NuExtract3（4B 模型，Apache-2.0 许可）相比，Lift 字段准确率 90.2% 对 81.5%。在 Datalab 的基准中，Gemini Flash 3.5 准确率略高，但 Lift 延迟更低（中位数 9.5 秒 vs 28.1 秒）。与 Azure Content Understanding 相比，Lift 准确率更高、延迟更低，但后者自带引用功能。Lift 定位为纯 schema 优先提取器，适合对延迟、自托管和大批量成本控制有要求的场景。",
+      "category": "tip",
+      "score": 52,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrd7s1nb01crih4b4zbsnt3u"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "设计",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmrc1af8r00rqihyfg9rw0vab",
       "title": "Meta 测试配备\"Super Sensing\"功能的全天候 AI 眼镜原型",
       "title_en": "Meta tests always-on AI glasses that capture your entire day",
@@ -1075,6 +1040,32 @@
         "原型"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmrd6bmv300xxih4byg33dbws",
+      "title": "蚂蚁灵波开源实时交互世界模型 LingBot-World 2.0",
+      "title_en": "无限世界、实时交互，蚂蚁灵波开源 LingBot-World 2.0 世界模型",
+      "url": "https://www.ithome.com/0/974/508.htm",
+      "permalink": "https://aihot.virxact.com/items/cmrd6bmv300xxih4byg33dbws",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-09T06:53:40.000Z",
+      "summary": "蚂蚁灵波开源新一代实时交互世界模型 LingBot-World 2.0（14B 参数），支持施法、攻击、跳跃等丰富角色动作及文本驱动事件（如切换场景、召唤风暴），内置 Pilot Agent 与 Director Agent 实现世界持续演化，并支持多人同时交互。模型采用因果预训练范式和混合双向自回归注意力掩码（MoBA），可稳定输出 720p/60fps 实时画面，长达一小时测试画质不衰减。通过一致性蒸馏与 DMD 降低采样成本，结合注意力 kernel 优化、混合并行推理、动态 KV 缓存调度和异步流媒体传输实现低延迟交互。模型权重及推理代码以非商用协议开源，SGLang 已适配，并提供 Reactor PC 端和灵光 APP 在线体验。",
+      "category": "ai-models",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrd6bmv300xxih4byg33dbws"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互",
+        "agent"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmrc7pzod00aeihqcjr93l2qo",
@@ -1155,54 +1146,32 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmrb3ege300caihl1yrkgjs8x",
-      "title": "sqlite-utils 4.0 发布，新增数据库模式迁移等三大功能",
-      "title_en": "sqlite-utils 4.0， now with database schema migrations",
-      "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-4",
-      "permalink": "https://aihot.virxact.com/items/cmrb3ege300caihl1yrkgjs8x",
-      "source": "Simon Willison 博客",
-      "publishedAt": "2026-07-07T19:32:57.000Z",
-      "summary": "sqlite-utils 4.0 今早发布，是自 3.0 以来首个大版本。新增三大功能：数据库模式迁移（通过 Python 文件定义，利用 `table.transform（）` 实现 SQLite 原生不支持的增强改表）、嵌套事务（`db.atomic（）` 方法）以及复合外键。迁移记录保存在 `_sqlite_migrations` 表，可通过命令行 `uvx sqlite-utils migrate` 或 Python 代码执行。该设计源自此前独立的 sqlite-migrate 包，现已集成。",
+      "id": "cmrd01fdy05vkihx56fno8vkz",
+      "title": "Tutti：统一管理多Agent的开源项目，无需额外订阅",
+      "title_en": "可算找到一个能统一管理所有Agent还不用额外订阅的开源项目了！",
+      "url": "https://mp.weixin.qq.com/s/j0H4o9EFbpqILPFBuZqMdA",
+      "permalink": "https://aihot.virxact.com/items/cmrd01fdy05vkihx56fno8vkz",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-07-09T04:01:45.000Z",
+      "summary": "开源项目Tutti定位为Agent OS，为Codex、Claude Code等已有Agent提供实时共享工作空间，统一管理上下文、文件、应用和任务。其BYO Subscriptions机制自动扫描本机CLI，复用已有订阅，无需额外付费。支持用@调用指定Agent（如`【@claude-code】`、`【@Codex】`），可调用AI Canvas等可视化Skill生成图片、PPT等。Goal to Tasks自动将目标拆解为子任务并分配Agent，Control Center总控台集中管理所有对话、任务和审批。项目本地运行，后续计划推出跨设备协作的Tutti VM版。",
       "category": "ai-products",
-      "score": 63,
+      "score": 68,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrb3ege300caihl1yrkgjs8x"
+        "canonical": "https://aihot.virxact.com/items/cmrd01fdy05vkihx56fno8vkz"
       },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
+      "sourceType": "公众号",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
       "tags": [
-        "设计"
+        "codex",
+        "claude code",
+        "agent",
+        "skill"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmrayozsc0274ihogg45ewgke",
-      "title": "Cohere Transcribe Arabic：专为阿拉伯语最棘手转录问题打造的开源模型",
-      "title_en": "Cohere Transcribe Arabic is an open-source model built for Arabic's toughest transcription problems",
-      "url": "https://the-decoder.com/cohere-transcribe-arabic-is-an-open-source-model-built-for-arabics-toughest-transcription-problems",
-      "permalink": "https://aihot.virxact.com/items/cmrayozsc0274ihogg45ewgke",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-07T17:54:08.000Z",
-      "summary": "Cohere 发布开源语音识别模型 Cohere Transcribe Arabic，参数量为 20 亿，专为解决阿拉伯语方言多样性、双语对话、代码切换和术语识别等难题设计。该模型在基准测试中超越 Whisper Large V3、标准 Cohere Transcribe 模型及其他系统，据称是目前最准确的阿拉伯语开源语音转文本系统。模型采用 Apache 2.0 许可，已在 Hugging Face 和 Cohere API 上提供。",
-      "category": "ai-models",
-      "score": 61,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrayozsc0274ihogg45ewgke"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmrcrhs3a03npihx5t2qs4zvz",
@@ -1321,7 +1290,7 @@
       "summary": "Runway 官网以 Cookie 设置页面代替了产品介绍，未提供 Runway Dev 的功能、参数、可用性等任何具体信息。",
       "category": "ai-products",
       "score": 58,
-      "selected": true,
+      "selected": false,
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrc8ppgh00l4ihqcft9anype"
@@ -1409,34 +1378,6 @@
       "tags": [
         "工作流",
         "自动化"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmrb58ru600tpihl166b491rz",
-      "title": "Claude Code v2.1.203 发布",
-      "title_en": "v2.1.203",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.203",
-      "permalink": "https://aihot.virxact.com/items/cmrb58ru600tpihl166b491rz",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "publishedAt": "2026-07-07T21:06:12.000Z",
-      "summary": "本次更新新增登录过期警告和手动权限模式标记，并将附加工作目录加入 MCP roots/list。修复了 macOS 下因内存检测误报导致后台会话卡顿 15-20 秒（回归自 2.1.196）、后台会话因 token 过期永久不可用（现自动恢复）、交互式会话中上下文指示器每轮重分析整个对话导致 CPU 和内存回归等问题。同时改进了长响应流时的实时预览性能，并降低了子代理重新委托任务的倾向。二进制体积减少约 7 MB，启动内存减少约 7 MB。左侧箭头不再关闭后台任务/差异/工作流详情视图，改为 Esc。",
-      "category": "ai-products",
-      "score": 45,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrb58ru600tpihl166b491rz"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "交互",
-        "工作流",
-        "claude code",
-        "mcp"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
