@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-09T15:34:04.691Z",
-  "previousGeneratedAt": "2026-07-09T10:02:33.965Z",
+  "generatedAt": "2026-07-10T04:14:52.618Z",
+  "previousGeneratedAt": "2026-07-09T15:34:04.691Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 51,
+  "itemCount": 60,
   "sourceCounts": {
     "X": 24,
-    "网站": 24,
-    "公众号": 3
+    "网站": 31,
+    "公众号": 5
   },
   "source": {
     "name": "AI HOT",
@@ -15,86 +15,57 @@
   },
   "items": [
     {
-      "id": "cmrc8ab5o00h6ihqcnle1whlx",
-      "title": "字节跳动Seedream 5.0 Pro图像生成模型通过BytePlus API开放测试",
-      "title_en": "A new seedream-5-0-pro image generation model from ByteDance is now available on BytePlus APIs for t…",
-      "url": "https://x.com/testingcatalog/status/2074871631407628360",
-      "permalink": "https://aihot.virxact.com/items/cmrc8ab5o00h6ihqcnle1whlx",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-07-08T15:02:00.000Z",
-      "summary": "字节跳动Seedream 5.0 Pro多模态图像生成模型现已通过BytePlus API开放测试。该模型支持文本到图像、单图像到图像及多参考图像到图像三种生成模式。相比前代，在图像-文本对齐、结构连贯性、文本渲染和视觉美学等基础能力上全面提升，具备高级推理、高效内容创作和专业生产能力。新增功能包括：复杂信息可视化、交互式精确编辑、逼真图像与肖像纹理、原生多语言输入和生成。",
-      "category": "ai-models",
-      "score": 57,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrc8ab5o00h6ihqcnle1whlx"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 22,
-      "editorialScore": 25,
-      "tags": [
-        "图像生成",
-        "image generation",
-        "视觉",
-        "交互"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrcr95fh03l5ihx5ql7uixjy",
-      "title": "GPT-Live、Grok 4.5、本地模型实验等7月9日早报要点",
-      "title_en": "BestBlogs 早报 · 07-09 # GPT-Live / Grok 4.5 / 本地模型编程 / Agentic Coding / AI Harness 【1】 ★ 精讲|OpenAI …",
-      "url": "https://x.com/hongming731/status/2075005152340443340",
-      "permalink": "https://aihot.virxact.com/items/cmrcr95fh03l5ihx5ql7uixjy",
-      "source": "X：洪明 (@hongming731)",
-      "publishedAt": "2026-07-08T23:52:34.000Z",
-      "summary": "OpenAI发布全双工语音模型GPT-Live，支持边听边说及打断；Cursor发布Grok 4.5，训练目标从软件工程扩展至数据科学、金融等；本地模型编程实验表明小模型在明确简单任务上可用但远不及大模型；Claude Cowork上线网页和移动端，支持跨设备任务延续；Meta推出智能体图像生成模型Muse Image和视频生成模型Muse Video；Google Cloud C4N虚拟机提供400 Gbps网络和25 GiB/s存储；Hugging Face Storage与SkyPilot集成实现零出口费；多篇观点强调Agent Harness（工具、安全、推理循环）比模型选择更关键，以及构建促人独立核验的AI系统。",
+      "id": "cmrea5g7k01hcihyy867ykucn",
+      "title": "Carbon 设计系统：组件使用指南提升 AI 交互设计能力",
+      "title_en": "偶然发现一个资料， Carbon 设计系统，相当有价值。 每个组件都要回答：\"什么时候用、什么时候不用\"。 也有考虑内容与展现形式、响应式和无障碍、渐进式披露等。 交给 AI 吸收变成 Skil…",
+      "url": "https://x.com/vista8/status/2075393364699099453",
+      "permalink": "https://aihot.virxact.com/items/cmrea5g7k01hcihyy867ykucn",
+      "source": "X：Vista (@vista8)",
+      "publishedAt": "2026-07-10T01:35:11.000Z",
+      "summary": "推文推荐了 Carbon 设计系统，其核心价值在于每个组件都明确回答了\"什么时候用、什么时候不用\"。该系统还考虑了内容与展现形式、响应式和无障碍设计、渐进式披露等关键设计原则。作者认为，将这些设计规范交给 AI 智能体吸收并转化为技能（Skill），能够在一定程度上改善 AI 的交互设计能力。资源地址见评论区。",
       "category": "tip",
-      "score": 31,
+      "score": 36,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrcr95fh03l5ihx5ql7uixjy"
+        "canonical": "https://aihot.virxact.com/items/cmrea5g7k01hcihyy867ykucn"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 21,
-      "editorialScore": 24,
-      "tags": [
-        "图像生成",
-        "视频生成",
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrcerzzv00foihx5f83xk06r",
-      "title": "Google Nano Banana 2 Lite 发布：文生图排名第5、速度最快、价格减半",
-      "title_en": "Google's Nano Banana 2 Lite debuts at #5 on the Artificial Analysis Text to Image Leaderboard， sligh…",
-      "url": "https://x.com/ArtificialAnlys/status/2074917317591564619",
-      "permalink": "https://aihot.virxact.com/items/cmrcerzzv00foihx5f83xk06r",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "publishedAt": "2026-07-08T18:03:33.000Z",
-      "summary": "Google 推出最小型号 Nano Banana 2 Lite（Gemini 3.1 Flash Lite Image），支持文生图与图像编辑。在 Artificial Analysis 文生图排行榜位列第5，超越基础版 Nano Banana 2（第7）；但图像编辑榜仅排第18，远低于 Nano Banana 2（第3）和 Pro（第5）。速度方面，生成1K图像平均3.4秒（端到端），为Top 10质量模型中最快；Nano Banana 2约20秒，GPT Image 2需数分钟。定价每1K图像$33.60（Batch API半价$16.80），仅为 Nano Banana 2（$67）一半、Pro（$134）四分之一。已在 Gemini API、AI Studio、Enterprise Agent 平台及 Gemini 应用、搜索 AI Mode、NotebookLM、Google Photos 上线。",
-      "category": "ai-models",
-      "score": 62,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrcerzzv00foihx5f83xk06r"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 18,
+      "designCategory": "产品与体验",
+      "relevanceScore": 17,
       "editorialScore": 21,
       "tags": [
-        "文生图",
-        "生图",
-        "图像",
-        "agent"
+        "交互设计",
+        "设计系统",
+        "设计",
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmre0lmwm004hihwktznhsncy",
+      "title": "OpenAI 宣布关闭 ChatGPT Atlas 浏览器，8月9日停止服务",
+      "title_en": "The ChatGPT browser is already dead",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+      "permalink": "https://aihot.virxact.com/items/cmre0lmwm004hihwktznhsncy",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-07-09T20:34:05.000Z",
+      "summary": "OpenAI 正在关闭去年10月发布的 ChatGPT Atlas 浏览器，该浏览器可代表用户执行任务。公司确认将\"日落\"Atlas，目标停止支持日期为8月9日。近期 OpenAI 还关闭了视频生成应用 Sora，并暂停了 ChatGPT\"成人模式\"计划，以削减\"支线任务\"、在生产力功能上追赶 Anthropic。",
+      "category": "industry",
+      "score": 65,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmre0lmwm004hihwktznhsncy"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 17,
+      "editorialScore": 20,
+      "tags": [
+        "视频生成",
+        "sora",
+        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -153,32 +124,32 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmrc644sq001rih767r2j6xn7",
-      "title": "字节跳动发布 Seedream 5.0 Pro 多模态图像生成模型",
-      "title_en": "BYTEDANCE 🔥： Seedream 5.0 Pro has been officially announced！ > Seedream 5.0 Pro is a multimodal i…",
-      "url": "https://x.com/testingcatalog/status/2074854838320378327",
-      "permalink": "https://aihot.virxact.com/items/cmrc644sq001rih767r2j6xn7",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-07-08T13:55:17.000Z",
-      "summary": "Seedream 5.0 Pro 是字节跳动正式发布的多模态图像生成模型，具备高级推理、高效内容创作和专业制作能力。相比前代在图文对齐、结构连贯性、文本渲染和视觉美学上全面提升。支持复杂信息可视化、交互式精确编辑、逼真图像与肖像纹理、原生多语言输入生成。该模型被业界视为首个对标 GPT-Image 2 的竞品。",
+      "id": "cmrdu31g6076lih4bjtjz941w",
+      "title": "BytePlus 推出 Seedream 5.0 Pro 图像模型，专注可编辑设计",
+      "title_en": "Forget one-shot AI images： Seedream 5.0 Pro on BytePlus Lumina is aiming directly at editable design…",
+      "url": "https://x.com/kimmonismus/status/2075281603396583592",
+      "permalink": "https://aihot.virxact.com/items/cmrdu31g6076lih4bjtjz941w",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-07-09T18:11:05.000Z",
+      "summary": "BytePlus 发布 Seedream 5.0 Pro 图像模型，定位\"超越生成，理解设计\"。该模型专攻可编辑设计工作，支持高密度信息图、空间注释、基于草图的编辑、图层分离、逼真肖像纹理，以及 10+ 种语言原生生成（含中文、英文、法文、德文、俄文、日文、韩文、西班牙文、阿拉伯文等，并支持从右至左文本和重音符号）。示例涵盖 16 格电影故事板、复杂 RPG 角色 UI、多语言公共安全通知、宠物电商主页及可分拆为 10+ 独立图层的海报。企业和开发者可通过 BytePlus 官方 API 或 BytePlus Lumina 平台使用该模型。",
       "category": "ai-models",
-      "score": 71,
+      "score": 44,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrc644sq001rih767r2j6xn7"
+        "canonical": "https://aihot.virxact.com/items/cmrdu31g6076lih4bjtjz941w"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 16,
-      "editorialScore": 19,
+      "designCategory": "产品与体验",
+      "relevanceScore": 14,
+      "editorialScore": 18,
       "tags": [
-        "图像生成",
-        "视觉",
-        "交互",
-        "内容创作"
+        "海报",
+        "ui",
+        "design",
+        "设计"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmrct7rdt043qihx5ee589jwk",
@@ -209,114 +180,111 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmrbsxind06ylihl1fwz1ymw2",
-      "title": "开源一个非常漂亮的文章配图 Skill",
-      "title_en": "开源一个非常漂亮的文章配图 Skill。 昨天给 Claude 用我的社交媒体卡片生成的时候，Codex 生成了一个配图，我觉得很漂亮、挺有意思。 发出来后大家也都很喜欢，所以顺便就把它做成了…",
-      "url": "https://x.com/op7418/status/2074758348264833131",
-      "permalink": "https://aihot.virxact.com/items/cmrbsxind06ylihl1fwz1ymw2",
-      "source": "X：歸藏 (@op7418)",
-      "publishedAt": "2026-07-08T07:31:52.000Z",
-      "summary": "歸藏 （@op7418） 开源了一款文章配图 Skill，目前仅适配 GPT-Image-2.0 模型。该 Skill 可将用户输入的文档或文案，自动生成干净漂亮、带标签的 3D 材质配图。其灵感来源于作者昨天为 Claude 社交媒体卡片生成配图时意外获得的视觉效果，因反响热烈而被整理成独立 Skill 并开源。",
-      "category": "tip",
-      "score": 71,
+      "id": "cmrebdvjb01uqihyy2pgtkd4k",
+      "title": "OpenCoF：通过视频生成学习推理",
+      "title_en": "OpenCoF： Learning to Reason Through Video Generation",
+      "url": "https://arxiv.org/abs/2607.08763",
+      "permalink": "https://aihot.virxact.com/items/cmrebdvjb01uqihyy2pgtkd4k",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-09T00:00:00.000Z",
+      "summary": "视频生成模型提供了一种不同于链式思维（CoT）的推理路径--链式帧（CoF）推理，即通过时间上连续的帧展开推理过程。然而现有视频生成器缺乏针对CoF推理的多样化监督与专用设计。为此，OpenCoF框架被提出，包含覆盖11个任务族的推理视频数据集OpenCoF-17K，以及基于Wan2.2-I2V-A14B微调的视频模型Wan-CoF。在四个视频推理基准上，Wan-CoF相比基线取得显著提升。进一步，研究为模型配备视觉与文本推理token，分别捕捉低层视觉线索与高层语义先验以支持空间和时间推理。实验表明，更强的视频推理需要广泛的时间监督和显式的中间推理状态组织机制。数据集、模型与代码已开源。",
+      "category": "paper",
+      "score": 53,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrbsxind06ylihl1fwz1ymw2"
+        "canonical": "https://aihot.virxact.com/items/cmrebdvjb01uqihyy2pgtkd4k"
       },
-      "sourceType": "X",
+      "sourceType": "网站",
       "designCategory": "图像与视频",
       "relevanceScore": 15,
       "editorialScore": 18,
       "tags": [
-        "配图",
-        "视觉",
-        "3d",
-        "codex"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrck4u0401s9ihx5c69n1ebc",
-      "title": "Grok将能调用Imagine工具生成图像/视频，Grok 4.5在Cursor中体验获好评",
-      "title_en": "Grok will be able to call Imagine as a tool in agentic mode for image/video generation. As Imagine k…",
-      "url": "https://x.com/elonmusk/status/2074956673630793891",
-      "permalink": "https://aihot.virxact.com/items/cmrck4u0401s9ihx5c69n1ebc",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "publishedAt": "2026-07-08T20:39:56.000Z",
-      "summary": "Elon Musk宣布Grok将在智能体模式下调用Imagine工具进行图像/视频生成，利好游戏开发者。有用户提前在Cursor中体验了Grok 4.5，称其感觉像Opus 4.8但速度快2倍且价格远低于其他前沿模型。在游戏开发任务中，Grok 4.5的规划模式比Composer 2.5更稳健，能更好覆盖边缘情况和确认需求；头脑风暴能力接近Opus 4.8；动画编码能力（如粒子效果）显著提升；运行速度在所有前沿模型中最快。因其价格更低，用户无需在规划到执行阶段切换其他低成本模型。",
-      "category": "ai-products",
-      "score": 36,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrck4u0401s9ihx5c69n1ebc"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 14,
-      "editorialScore": 17,
-      "tags": [
         "视频生成",
-        "视频",
-        "图像",
-        "智能体"
+        "视觉",
+        "设计",
+        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmrc5usfl01xhihyf99n5yx9v",
-      "title": "字节发布多模态图像创作模型 Seedream 5.0 Pro：复杂信息可视化、交互式精准编辑",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/974/249.htm",
-      "permalink": "https://aihot.virxact.com/items/cmrc5usfl01xhihyf99n5yx9v",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-08T13:33:51.000Z",
-      "summary": "字节跳动今日发布多模态图像创作模型 Seedream 5.0 Pro，在图文匹配、结构合理性、文字渲染与画面美感上全面提升。新增四大能力：复杂信息可视化（将数据、概念与密集文字转化为专业排版）、交互式精准编辑（点选、圈选、草图渲染、色彩与材质替换、图层分离、多图融合等）、真实影像与人像质感（兼顾CG与摄影质感）、原生多语种输入与生成（支持十余种语言）。目前该模型已上线火山方舟体验中心，并将在豆包、即梦陆续上线。",
+      "id": "cmre2mjao00mxihwk00nh4shk",
+      "title": "Meta 发布 Muse Spark 1.1 多模态推理模型",
+      "title_en": "Muse Spark 1.1",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api",
+      "permalink": "https://aihot.virxact.com/items/cmre2mjao00mxihwk00nh4shk",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-09T21:46:26.100Z",
+      "summary": "Meta Superintelligence Labs 今日推出 Muse Spark 1.1，专为智能体任务设计，在工具使用、计算机使用、编程和多模态理解方面显著提升。模型支持 100 万 token 上下文窗口，提供\"Thinking\"模式，并通过 Meta Model API 公开预览。在智能体任务中可零样本泛化至新工具、MCP 服务器与自定义技能；计算机使用可自动编写脚本或生成批量操作；编程性能在 Meta Internal Coding Bench 上优于前代。多模态能力涵盖视觉到代码生成、图像视频描述。安全性评估显示模型在化学生物、网络安全、失控等风险类别中处于安全边际内。",
       "category": "ai-models",
-      "score": 70,
+      "score": 78,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrc5usfl01xhihyf99n5yx9v"
+        "canonical": "https://aihot.virxact.com/items/cmre2mjao00mxihwk00nh4shk"
       },
       "sourceType": "网站",
       "designCategory": "图像与视频",
-      "relevanceScore": 13,
-      "editorialScore": 16,
+      "relevanceScore": 12,
+      "editorialScore": 15,
       "tags": [
-        "即梦",
-        "交互",
-        "图像",
-        "摄影"
+        "视觉",
+        "设计",
+        "视频",
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmrbzd2nt00aaihyfgw6y4fex",
-      "title": "Codex连接Figma MCP自动生成录视频板书",
-      "title_en": "今天录视频的板书很有意思。以前都是我自己在 Figma Jam 里面去搭大纲，然后去讲。 今天这个是让 Codex 连接了 Figma MCP 以后，基于我的宣传文章自动给我生成的录视频用板书。 …",
-      "url": "https://x.com/op7418/status/2074800241178808456",
-      "permalink": "https://aihot.virxact.com/items/cmrbzd2nt00aaihyfgw6y4fex",
-      "source": "X：歸藏 (@op7418)",
-      "publishedAt": "2026-07-08T10:18:20.000Z",
-      "summary": "用户 @op7418 透露，过去录视频需要自己在 Figma Jam 中手动搭建大纲，现在借助 Codex 连接 Figma MCP，系统基于其宣传文章自动生成板书，自动精简内容并嵌入案例图片，稍作调整即可用于录制。此外，他还开源了一个文章配图 Skill，目前适配 GPT-Image-2.0 模型，支持将文档或文案生成带标签的 3D 材质配图。",
-      "category": "tip",
-      "score": 54,
+      "id": "cmrdyozot00ipihsanqgzp29h",
+      "title": "LingBot-Video：首个开源具身场景视频生成模型，采用MoE设计",
+      "title_en": "A first-of-its-kind open-source video generation model for embodied scenarios， using a Mixture-of-Ex…",
+      "url": "https://x.com/rohanpaul_ai/status/2075313714157559846",
+      "permalink": "https://aihot.virxact.com/items/cmrdyozot00ipihsanqgzp29h",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-07-09T20:18:41.000Z",
+      "summary": "LingBot-Video是专为具身AI设计的Diffusion Transformer视频基础模型，采用MoE架构，为首个开源具身视频生成模型。旗舰30B参数每次仅激活3B，支持1M token序列，同参数量下推理效率约为Dense架构的3.18倍。模型通过因果关系、物体恒存、非穿透及材质真实等物理合理性评分来优化物理真实性，而非仅审美奖励。预训练数据包含70，000+小时具身视频（机器人操作、导航、第一人称动作）。在RBench上平均得分0.620，领先所有列出的开源和闭源模型，但部分指标仍不及Wan 2.6。",
+      "category": "ai-models",
+      "score": 68,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrbzd2nt00aaihyfgw6y4fex"
+        "canonical": "https://aihot.virxact.com/items/cmrdyozot00ipihsanqgzp29h"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 13,
-      "editorialScore": 16,
+      "relevanceScore": 12,
+      "editorialScore": 15,
       "tags": [
-        "figma",
-        "配图",
-        "视频",
-        "3d"
+        "视频生成",
+        "设计",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmrdta9zo070dih4b2gez08lq",
+      "title": "如何阻止Meta的AI图像生成器使用你的Instagram照片",
+      "title_en": "How to stop Meta's AI image generator from using your Instagram photos",
+      "url": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos",
+      "permalink": "https://aihot.virxact.com/items/cmrdta9zo070dih4b2gez08lq",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-07-09T17:56:47.000Z",
+      "summary": "Meta推出AI图像生成功能Muse Image，允许用户利用公开Instagram账户的照片生成AI图像，只有私密账户和18岁以下用户自动排除。用户可在个人资料中选择\"分享和复用\"，关闭\"允许他人使用和复用你的内容\"以退出。该功能引发隐私担忧，此前Meta因剑桥分析事件被FTC罚款50亿美元，涉及8700万用户数据泄露。Pew调查显示35%受访者对AI增长担忧多于兴奋。",
+      "category": "tip",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrdta9zo070dih4b2gez08lq"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "图像生成",
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -400,84 +368,115 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmrcohlkx02wqihx5kj1h7n5k",
-      "title": "Lovable 据悉正洽谈以 132 亿美元估值融资，估值翻倍",
-      "title_en": "Lovable reportedly in talks to double its valuation to $13.2B",
-      "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b",
-      "permalink": "https://aihot.virxact.com/items/cmrcohlkx02wqihx5kj1h7n5k",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-08T22:41:33.000Z",
-      "summary": "瑞典 vibe-coding 初创公司 Lovable 正洽谈以 132 亿美元估值融资 3 亿美元，估值恰为其去年 12 月 66 亿美元的两倍。上月宣布最新 30 亿美元基金的 Menlo Ventures 预计领投。这家成立不到三年的公司今年 6 月年化收入已达 5 亿美元。Lovable 的用户包括创始人、设计师和销售人员，用于构建网站和电商店铺，企业客户涵盖 Workday、Asana 和 Nvidia。同类初创公司 Replit（3 月估值 90 亿美元）、Factory（4 月以 15 亿美元估值融资 1.5 亿美元）及被 SpaceX 以 600 亿美元收购的 Cursor 均属此赛道。",
-      "category": "industry",
-      "score": 53,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrcohlkx02wqihx5kj1h7n5k"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 11,
-      "editorialScore": 15,
-      "tags": [
-        "设计师",
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmrc7xryg00ccihqcy5lqye3b",
-      "title": "Seedream 5.0 图像模型上线实测",
-      "title_en": "Seedream 5.0 的图像模型上线了。 大概跑了几张图试了一下，整体看起来不错，比之前的图像模型进步很大。 1. 一句话让它生成《黑神话：水浒传》的一个游戏截图 2. 让他生成一张茶叶制作和…",
-      "url": "https://x.com/op7418/status/2074862226905948549",
-      "permalink": "https://aihot.virxact.com/items/cmrc7xryg00ccihqcy5lqye3b",
+      "id": "cmreazuuw01q0ihyyf66yxbb9",
+      "title": "OpenAI 发布 GPT 5.6，全新 ChatGPT 应用模仿 Claude 拆分 Tab 交互混乱",
+      "title_en": "新的这个客户端这套交互真是稀烂。 Claude 分三个 Tab 是因为他没有时间去改那个原来的客户端。 OpenAI 分三个 Tab 是因为他妈的 Claude 分三个 Tab。",
+      "url": "https://x.com/op7418/status/2075389540387455355",
+      "permalink": "https://aihot.virxact.com/items/cmreazuuw01q0ihyyf66yxbb9",
       "source": "X：歸藏 (@op7418)",
-      "publishedAt": "2026-07-08T14:24:38.000Z",
-      "summary": "归藏测试了刚上线的 Seedream 5.0 图像模型，生成效果相比之前版本进步明显。成功生成《黑神话：水浒传》游戏截图、茶叶科普图、基于参考图的 Web UI 设计稿以及《凡人修仙传：人界篇》剧情介绍图。文字细节方面，文字较多时仍偏糊，与 GPT-4o 问题类似。测试采用 2K 分辨率，分辨率表现略优于 GPT-4o，但文字细节水平相当。",
+      "publishedAt": "2026-07-10T01:19:59.000Z",
+      "summary": "OpenAI 发布 GPT 5.6，并将 Codex 应用更名为全新 ChatGPT 应用，全面模仿 Anthropic 产品命名与形态。新应用硬拆分为 Work 和 Code 两个 Tab，切换时仅左上角标志变化，聊天被缩至右下角小弹窗，用户困惑且找不到旧聊天记录。此外，Codex 的 Site 插件上线，可生成多套网页并连接业务数据、部署到 OpenAI 网站；移动端 ChatGPT 可调用原 Codex 插件；\"浏览器使用\"和\"计算机使用\"功能升级，更快更准；GPT 5.6 前端能力提升，不再生成千篇一律的界面。",
       "category": "ai-models",
-      "score": 65,
+      "score": 79,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrc7xryg00ccihqcy5lqye3b"
+        "canonical": "https://aihot.virxact.com/items/cmreazuuw01q0ihyyf66yxbb9"
       },
       "sourceType": "X",
       "designCategory": "产品与体验",
-      "relevanceScore": 11,
-      "editorialScore": 15,
+      "relevanceScore": 10,
+      "editorialScore": 14,
       "tags": [
-        "ui",
-        "设计",
-        "图像"
+        "界面",
+        "交互",
+        "codex"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmrc07u8300j8ihyf08u1g07m",
-      "title": "Meta Muse Image 上线：AI 智能体式图像生成，但 Instagram 照片功能引隐私争议",
-      "title_en": "Muse Image is technically impressive， but Meta's use of Instagram photos raises questions",
-      "url": "https://the-decoder.com/muse-image-is-technically-impressive-but-metas-use-of-instagram-photos-raises-questions",
-      "permalink": "https://aihot.virxact.com/items/cmrc07u8300j8ihyf08u1g07m",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-08T11:16:37.000Z",
-      "summary": "Meta 旗下 Superintelligence Labs 发布首个图像模型 Muse Image，以 AI 智能体方式运作，通过调用代码生成、网页搜索等外部工具自动修正输出，并在强化学习中出现自我优化行为。在 Image Arena 上，Muse Image 文本到图像及编辑评分位列第二，仅次于 OpenAI 的 GPT Image 2；同期预览的 Muse Video 排名第三。该模型已在 Meta AI 应用、meta.ai、Instagram Stories 和 WhatsApp 上线。其中一项功能允许用户通过 @ 提及公开 Instagram 账号，利用其公开照片生成他人图像，默认开启且仅提供主动退出选项。该功能已招致批评，预计将面临欧洲 GDPR 及 EU AI Act 的严格审查。",
-      "category": "ai-models",
-      "score": 76,
+      "id": "cmre6uoyq00loihyyf0ba1mat",
+      "title": "早报：GPT-5.6 转向长程 Agent 效率，Seedream 进入可控设计，Modal 重写智能体云基础设施",
+      "title_en": "http://x.com/i/article/2075359598832443392",
+      "url": "https://x.com/hongming731/status/2075360340238541243",
+      "permalink": "https://aihot.virxact.com/items/cmre6uoyq00loihyyf0ba1mat",
+      "source": "X：洪明 (@hongming731)",
+      "publishedAt": "2026-07-09T23:23:58.000Z",
+      "summary": "本期早报聚焦 AI 从模型能力向可执行工作流的演进。GPT-5.6 推出 Sol、Terra、Luna 三层能力调度，Agents Last Exam 得分 53.6，较 Claude Fable 5 高 13.1 分，medium reasoning 成本约四分之一，强调多智能体与程序化工具调用。Seedream 5.0 Pro 将图像生成推进至可控设计，支持复杂信息图、交互式编辑、图层分离与多语种生成。Modal CTO 指出，智能体时代云平台需提供大量短命、隔离、可观察的执行环境，其 355M 美元 C 轮与 17 家云供应商容量池支撑 RL rollout 所需的 10 万个 sandbox。",
+      "category": "tip",
+      "score": 54,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrc07u8300j8ihyf08u1g07m"
+        "canonical": "https://aihot.virxact.com/items/cmre6uoyq00loihyyf0ba1mat"
       },
-      "sourceType": "网站",
+      "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
+      "relevanceScore": 11,
+      "editorialScore": 14,
       "tags": [
         "图像生成",
-        "图像",
-        "智能体"
+        "设计",
+        "交互",
+        "工作流"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmre55zmw008kihyyumspk796",
+      "title": "GPT-5.6 Sol 发布：针对智能体工作流优化，成本与性能对比 Claude",
+      "title_en": "GPT-5.6 Sol is strongest for agentic workflow： long professional tasks that need planning， tool use，…",
+      "url": "https://x.com/rohanpaul_ai/status/2075356294761128408",
+      "permalink": "https://aihot.virxact.com/items/cmre55zmw008kihyyumspk796",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-07-09T23:07:53.000Z",
+      "summary": "OpenAI 发布 GPT-5.6 Sol，专为智能体工作流（长任务规划、工具使用、检查与重试）优化，可避免成本失控。在约 $500-$1，000 成本下达到 53% 分数，而 Claude Opus 4.8 需 $1，400-$4，000 且分数更低；Claude Fable 5 成本约 $2，400 仅得约 40%。同时，ChatGPT Work 已向 Pro/Enterprise/Edu 用户开放网页与移动端，Plus/Business 用户数日内可用；桌面端 Chat/Work/Codex 对所有计划（含免费版）开放，Codex 应用将更新为新版 ChatGPT 桌面应用。",
+      "category": "ai-models",
+      "score": 63,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmre55zmw008kihyyumspk796"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 13,
+      "editorialScore": 14,
+      "tags": [
+        "工作流",
+        "workflow",
+        "codex",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmrds5b6w06p8ih4b9p10m412",
+      "title": "Grok 4.5 在 AA-Briefcase 上成为非 Anthropic 模型第一名，兼具前沿智能体知识工作能力与成本时间效率",
+      "title_en": "Grok 4.5 is the top non-Anthropic model on AA-Briefcase， combining frontier agentic knowledge work c…",
+      "url": "https://x.com/ArtificialAnlys/status/2075264155527901522",
+      "permalink": "https://aihot.virxact.com/items/cmrds5b6w06p8ih4b9p10m412",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "publishedAt": "2026-07-09T17:01:45.000Z",
+      "summary": "昨日 xAI 发布 Grok 4.5，在全新基准 AA-Briefcase（测试智能体知识工作，涉及电子表格、演示文稿、UI 原型等真实任务）上取得 1328 Elo，较 Grok 4.3 提升 578 分，为非 Anthropic 模型最高分，仅次于 Claude Fable 5（1390）、Claude Sonnet 5 max（1390）和 Claude Opus 4.8 max（1354）。同时成本效率领先：每任务平均 $1.12，比 Opus 4.8 max 低 86%；耗时 12.4 分钟，约为其一半，主要得益于仅 23 次交互轮次（仅 Sonnet 5 max 的 13%）。",
+      "category": "tip",
+      "score": 59,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrds5b6w06p8ih4b9p10m412"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 10,
+      "editorialScore": 14,
+      "tags": [
+        "原型",
+        "ui",
+        "交互",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmrdnev0f05euih4b99njdade",
@@ -506,6 +505,34 @@
         "creative"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmrees13p006xihgvylm130em",
+      "title": "美团 AI 顶会论文 32 篇精讲直播回放上线，含 ACL 2026 杰出论文",
+      "title_en": "直播回放·含 ACL'26 杰出论文 | 美团 AI 顶会论文 32 篇精讲",
+      "url": "https://mp.weixin.qq.com/s/cl6RA755nWKtmGtRv983kA",
+      "permalink": "https://aihot.virxact.com/items/cmrees13p006xihgvylm130em",
+      "source": "公众号：龙猫LongCat（美团）",
+      "publishedAt": "2026-07-09T11:58:00.000Z",
+      "summary": "美团技术团队近日精选 32 篇被 ACL、SIGIR、ICML、KDD 等顶会收录的论文，举办 5 大专场直播，回放已上线。其中，美团履约技术团队的《GeoRA： Geometry-Aware Low-Rank Adaptation for RLVR》获 ACL 2026 杰出论文奖（全球仅 18 篇）。直播内容涵盖大模型推理、智能体记忆与自进化、代码智能、多模态交互、超高清视频生成、本地生活搜索等方向。",
+      "category": "tip",
+      "score": 43,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrees13p006xihgvylm130em"
+      },
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "交互",
+        "视频",
+        "智能体"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmrd7uahp01dnih4bqj3u8h1e",
@@ -588,190 +615,56 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmrck70nm01ttihx5dhhsf6rh",
-      "title": "Google 深度伪造检测系统 SynthID 用于揭穿 McConnell 恶搞图片",
-      "title_en": "Google's deepfake detector system used to debunk McConnell hoax pic",
-      "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic",
-      "permalink": "https://aihot.virxact.com/items/cmrck70nm01ttihx5dhhsf6rh",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-08T20:37:03.000Z",
-      "summary": "Google 的 SynthID 系统成功揭穿一张高曝光度的 AI 生成恶搞图片。该图显示肯塔基州参议员 Mitch McConnell 在医院病床上插满管子，在 Reddit 和 X 广泛流传。事实核查网站 Snopes 检测到图中嵌入的 SynthID 水印，确认其为伪造。SynthID 于 2025 年 Google I/O 发布，是一种不可见水印，跨平台截屏也能保留。其局限性在于仅参与计划的图像生成工具才能添加水印：Gemini 模型自 2025 年起包含，OpenAI 于 2026 年 5 月加入，Anthropic 未参与。用户可询问 Gemini 或上传图片至 OpenAI 公共验证工具检查。",
-      "category": "industry",
-      "score": 57,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrck70nm01ttihx5dhhsf6rh"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "图像生成",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrccgss501j2ihqc59j83gbf",
-      "title": "NVIDIA 发布 Nemotron 开放数据集与配套工具，支持 AI 智能体开发",
-      "title_en": "Data for Agents",
-      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-      "permalink": "https://aihot.virxact.com/items/cmrccgss501j2ihqc59j83gbf",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-07-08T17:16:05.000Z",
-      "summary": "NVIDIA Nemotron 开放数据集包含超过 10 万亿预训练 tokens 和数百万后训练样本，覆盖多领域与工具使用场景，支持 AI 智能体开发。同步推出 Nemotron Post-Training v3 Prompt Atlas，交互式可视化后训练数据分布；Nemotron-Personas 基于 NeMo Data Designer 生成合成人物画像，覆盖 24 亿人口，反映区域人口统计特征。合成数据保护组织专有数据的同时，使智能体行为可检查、可解释，推动开放生态下的可复现研究。",
+      "id": "cmre9o4rx01erihyyiwdraa6d",
+      "title": "ChatGPT 与 Codex 合并为 ChatGPT Work，用量成疑",
+      "title_en": "似乎没说用量的问题啊 ChatGPT 和 Codex 合并后，统称为： ChatGPT Work ChatGPT Codex 可以自由切换，普通的Chat聊天，反而弱化为一个浮窗展示 但是他们…",
+      "url": "https://x.com/xiaohu/status/2075392455936192788",
+      "permalink": "https://aihot.virxact.com/items/cmre9o4rx01erihyyiwdraa6d",
+      "source": "X：小互 (@xiaohu)",
+      "publishedAt": "2026-07-10T01:31:35.000Z",
+      "summary": "OpenAI 将 ChatGPT 与 Codex 合并，统称为 ChatGPT Work，用户可在普通聊天与 Codex 工作模式间自由切换，普通聊天弱化为浮窗展示。但官方未说明合并后的用量计算方式。若普通用户将 ChatGPT Work 当作普通 Chat 使用，Plus 会员额度可能迅速耗尽，用户体验或受冲击，可能被质疑为引导用户购买 Pro 会员的割韭菜行为。",
       "category": "tip",
-      "score": 48,
+      "score": 53,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrccgss501j2ihqc59j83gbf"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 10,
-      "editorialScore": 14,
-      "tags": [
-        "designer",
-        "交互",
-        "prompt",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmrca3u4800xcihqct9aoiw28",
-      "title": "Seedream 5.0 Pro 登陆字节云，图像编辑功能升级",
-      "title_en": "Seedream 5.0 Pro 现已登陆字节云平台。 AI图像生成已超越单图创作的范畴，开启全新可能。 精准编辑，可视化呈现复杂信息，渲染逼真图像与肖像，支持多语言创作。 这个版本更像是香蕉当…",
-      "url": "https://x.com/berryxia/status/2074878971473469835",
-      "permalink": "https://aihot.virxact.com/items/cmrca3u4800xcihqct9aoiw28",
-      "source": "X：Berry Xia (@berryxia)",
-      "publishedAt": "2026-07-08T15:31:10.000Z",
-      "summary": "Seedream 5.0 Pro 现已通过字节云平台上线，主打 AI 图像生成新能力：精准编辑、可视化复杂信息、逼真图像与肖像渲染、多语言创作。该版本融合了\"香蕉\"式的替换主体与编辑主题功能，以及类似 Image-GPT-2 的分层编辑能力，将二者结合为统一的图像编辑体验。",
-      "category": "ai-products",
-      "score": 56,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrca3u4800xcihqct9aoiw28"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "图像生成",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrc0r3m800neihyf8hjca4bk",
-      "title": "ClickUp Brain AI 将支持视频生成",
-      "title_en": "ClickUp is working on video gen for Brain AI！ > Given project context， Brain will be able to genera…",
-      "url": "https://x.com/testingcatalog/status/2074821741029847238",
-      "permalink": "https://aihot.virxact.com/items/cmrc0r3m800neihyf8hjca4bk",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-07-08T11:43:46.000Z",
-      "summary": "ClickUp 正在为 Brain AI 开发视频生成功能！\n\n> 基于项目上下文，Brain 将能够生成视频。\n> 视频反映真实的工作空间数据，包括实际项目、任务和指标的名称。\n> 输出为可播放文件，带有下载选项。\n借助视频生成，Brain 可以将 Q3 发布计划或 Sprint 更新转变为短视频概览！\n\n工作空间到视频 👀",
-      "category": "ai-products",
-      "score": 34,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrc0r3m800neihyf8hjca4bk"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视频生成",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrbon63e05u9ihl18zk8r1yo",
-      "title": "歸藏开源 guizang-material-illustration Skill：基于 GPT-Image 2.0 的 3D 材质解释图生成工具",
-      "title_en": "http://x.com/i/article/2074726140930039808",
-      "url": "https://x.com/op7418/status/2074728162018152817",
-      "permalink": "https://aihot.virxact.com/items/cmrbon63e05u9ihl18zk8r1yo",
-      "source": "X：歸藏 (@op7418)",
-      "publishedAt": "2026-07-08T05:31:55.000Z",
-      "summary": "歸藏 （@op7418） 开源了 guizang-material-illustration Skill，基于 GPT-Image 2.0 生成带中文标签的 3D 材质风格解释图。支持工作汇报、数据图表（柱状图、甘特图、桑基图、热力图等）、教育图解、人文配图等场景，统一白底工作室光线+IKB 蓝点缀色，标签限制 2-5 汉字并内嵌图中。冷门概念自动检索参考，图表从数据语义重画而非截图换皮。安装命令：`npx skills add https://github.com/op7418/guizang-material-illustration --skill guizang-material-illustration`，仅适用于 GPT-Image 2.0，可配合 PPT Skill 和社交媒体图片 Skill 使用。",
-      "category": "tip",
-      "score": 72,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrbon63e05u9ihl18zk8r1yo"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "配图",
-        "3d",
-        "skill"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrcn8mlw02k5ihx5risshcr3",
-      "title": "Seedream 5.0 Pro 登陆 Runway，支持14种语言",
-      "title_en": "Seedream 5.0 Pro is now in Runway. Generate highly detailed images from a prompt or reference， with …",
-      "url": "https://x.com/runwayml/status/2074982268175630814",
-      "permalink": "https://aihot.virxact.com/items/cmrcn8mlw02k5ihx5risshcr3",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-07-08T22:21:38.000Z",
-      "summary": "Seedream 5.0 Pro 现已登陆 Runway。可通过提示词或参考图生成高细节图像，图像内文字清晰可读，支持多达14种语言。立即点击下方链接尝试。",
-      "category": "ai-products",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrcn8mlw02k5ihx5risshcr3"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
-      "tags": [
-        "runway",
-        "图像",
-        "提示词",
-        "prompt"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrcma0ol02bzihx54y0gvqxt",
-      "title": "Grok 4.5速度有望翻倍，未用GB300定制推理软件",
-      "title_en": "Grok 4.5 is not yet using our internally developed C/C++ inference software that exact maps to the G…",
-      "url": "https://x.com/elonmusk/status/2074969374843154500",
-      "permalink": "https://aihot.virxact.com/items/cmrcma0ol02bzihx54y0gvqxt",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "publishedAt": "2026-07-08T21:30:24.000Z",
-      "summary": "Elon Musk透露，Grok 4.5尚未使用针对GB300硬件内部开发的C/C++推理软件，当前速度可能再翻倍或更多。引用用户体验描述：大模型迭代中等待时间长、成本高，破坏创作心流；而Grok 4.5以极快速度+足够能力（类比Fable 5性能配Gemini 3.5 Flash速度）解决了这一痛点，让用户保持持续投入。快速+能力足够的组合被视作AI实用性的关键解锁。",
-      "category": "ai-models",
-      "score": 43,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrcma0ol02bzihx54y0gvqxt"
+        "canonical": "https://aihot.virxact.com/items/cmre9o4rx01erihyyiwdraa6d"
       },
       "sourceType": "X",
       "designCategory": "产品与体验",
       "relevanceScore": 9,
       "editorialScore": 13,
       "tags": [
-        "用户体验"
+        "用户体验",
+        "codex"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmrdtoky20731ih4bdwu76mgl",
+      "title": "Vera Rubin NVL72猛兽架构与FASPT临近",
+      "title_en": "Vera Rubin NVL72 is a beast， thanks to its extreme co-designed system architecture， and First At-Sca…",
+      "url": "https://x.com/SemiAnalysis_/status/2075277408047903190",
+      "permalink": "https://aihot.virxact.com/items/cmrdtoky20731ih4bdwu76mgl",
+      "source": "X：SemiAnalysis (@SemiAnalysis_)",
+      "publishedAt": "2026-07-09T17:54:25.000Z",
+      "summary": "Vera Rubin NVL72 是一头猛兽，得益于其极致的协同设计系统架构，以及首次大规模生产 Token（FASPT）即将到来。下面，我们将分解该架构和一些最新的制造创新。👇️ 1/7🧵",
+      "category": "tip",
+      "score": 43,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrdtoky20731ih4bdwu76mgl"
+      },
+      "sourceType": "X",
+      "designCategory": "设计工具",
+      "relevanceScore": 8,
+      "editorialScore": 13,
+      "tags": [
+        "设计系统",
+        "设计"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "cmrdjhdtw04dvih4bpjlmd8xt",
@@ -854,58 +747,88 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmrcco4m601obihqc28e1xr3y",
-      "title": "Meta AI眼镜更新：摄像头在LED被篡改时禁用，但隐私担忧仍在",
-      "title_en": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
-      "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise",
-      "permalink": "https://aihot.virxact.com/items/cmrcco4m601obihqc28e1xr3y",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-08T17:11:18.000Z",
-      "summary": "Meta本周为AI眼镜推出安全更新：若LED指示灯被篡改，摄像头自动禁用。然而同日，Meta AI新增功能，可利用用户公开的Instagram照片生成图像（除非选择退出），并访问相机胶卷中从未分享的图片。公司还测试可连续收集音频并每隔数秒拍照的原型机。Meta面临多起隐私诉讼和调查，包括因外包员工审查不当内容而取消合同。消费者仍质疑Meta通过AI收集个人数据的方式。",
-      "category": "tip",
-      "score": 66,
+      "id": "cmre2wdwl0005ihrajvhz8w90",
+      "title": "Meta 发布 Muse Spark 1.1：面向智能体任务的多模态推理模型",
+      "title_en": "Meta Superintelligence Labs Releases Muse Spark 1.1： A Multimodal Reasoning Model for Agentic Tasks on Meta Model API",
+      "url": "https://www.marktechpost.com/2026/07/09/meta-superintelligence-labs-releases-muse-spark-1-1",
+      "permalink": "https://aihot.virxact.com/items/cmre2wdwl0005ihrajvhz8w90",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-07-09T22:26:16.000Z",
+      "summary": "Muse Spark 1.1 是 Meta 推出的闭源多模态推理模型，专为智能体任务设计，上下文窗口达 100 万 token。通过 Meta Model API 提供，输入每百万 token 1.25 美元，输出 4.25 美元，新用户获 20 美元免费额度，目前仅在美国公开预览。模型在工具使用和工具增强推理基准上领先，编码与多模态任务位列第三。支持文本、图像、视频、文档输入，输出文本，可调节推理力度，兼容 OpenAI 和 Anthropic SDK。闭源，不可本地部署或微调。",
+      "category": "ai-models",
+      "score": 68,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrcco4m601obihqc28e1xr3y"
+        "canonical": "https://aihot.virxact.com/items/cmre2wdwl0005ihrajvhz8w90"
       },
       "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 7,
-      "editorialScore": 12,
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
       "tags": [
-        "原型",
-        "图像"
+        "设计",
+        "视频",
+        "图像",
+        "智能体"
       ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmrc5an9x01t9ihyflqgcubco",
-      "title": "Seedream 5.0 Pro API上线，让图像创作开启\"专业表达\"阶段",
-      "title_en": null,
-      "url": "https://mp.weixin.qq.com/s/s3vYTUZHZYNpVGSK-W9neA",
-      "permalink": "https://aihot.virxact.com/items/cmrc5an9x01t9ihyflqgcubco",
-      "source": "公众号：火山引擎",
-      "publishedAt": "2026-07-08T13:30:43.000Z",
-      "summary": "火山引擎上线豆包图像创作模型 Seedream 5.0 Pro 的 API 服务。该模型在交互式精准编辑、复杂信息可视化、影像与人像质感真实、原生多语种输入与生成等方面实现能力突破：支持点选、圈选、草图渲染、色值编辑、图层分离等像素级编辑；可稳定输出高密度信息图；强化光影、材质和皮肤肌理还原；原生支持中、英、西、葡、阿、法、德、俄、日、韩、泰等十余种语言。广泛适配电商营销、广告创意、深度教育、影视视觉开发、全球化出海物料等企业场景。",
-      "category": "ai-products",
-      "score": 57,
+      "id": "cmrdtn7x3072rih4bfncvkxw8",
+      "title": "OpenAI 发布 GPT-5.6 公开版及 ChatGPT Work 智能体",
+      "title_en": "OpenAI pairs its GPT-5.6 public rollout with ChatGPT Work， a new agent that handles entire workflows",
+      "url": "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows",
+      "permalink": "https://aihot.virxact.com/items/cmrdtn7x3072rih4bfncvkxw8",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-09T17:59:22.000Z",
+      "summary": "OpenAI 正式推出 GPT-5.6 公开版本，并发布基于 GPT-5.6 和 Codex 技术的 ChatGPT Work 智能体。该智能体可自主处理数小时的复杂工作流，例如从客户研究到生成营销素材并适配多市场。它集成了 Unified Plugins Directory，支持 Google Drive、Slack、Salesforce 等第三方插件，并配备 Auto-Review 功能以防止数据泄露。桌面端所有用户即刻可用；Web 和移动端优先开放给 Pro、Enterprise、Edu 用户，Plus 和 Business 稍后跟进。ChatGPT Work 与 Codex 共享 agent 消费池，按任务复杂度和所选模型计费。",
+      "category": "ai-models",
+      "score": 72,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrc5an9x01t9ihyflqgcubco"
+        "canonical": "https://aihot.virxact.com/items/cmrdtn7x3072rih4bfncvkxw8"
       },
-      "sourceType": "公众号",
-      "designCategory": "行业观察",
-      "relevanceScore": 12,
-      "editorialScore": 12,
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 10,
+      "editorialScore": 11,
       "tags": [
-        "视觉",
-        "交互",
-        "广告",
-        "创意"
+        "工作流",
+        "营销",
+        "codex",
+        "agent"
       ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmrdk11mj04j1ih4b5rkjwfpb",
+      "title": "ChatCut Codex 插件开源：Agent 操控多轨时间线",
+      "title_en": "【开源分享】 ChatCut Codex 官方插件 把 Codex 接到 ChatCut MCP，让 Agent 在真实、可编辑的多轨时间线上完成导入、剪辑、生成、字幕、导出。 仓库本身几乎没有剪…",
+      "url": "https://x.com/shao__meng/status/2075210258214265055",
+      "permalink": "https://aihot.virxact.com/items/cmrdk11mj04j1ih4b5rkjwfpb",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-07-09T13:27:35.000Z",
+      "summary": "【开源分享】 ChatCut Codex 官方插件\n\n把 Codex 接到 ChatCut MCP，让 Agent 在真实、可编辑的多轨时间线上完成导入、剪辑、生成、字幕、导出。\n\n仓库本身几乎没有剪辑内核，核心是 插件元数据 + MCP 连接配置 + 15 个工作流技能 + 遥测 Hooks。\n\nhttps://github.com/ChatCut-Inc/agent-plugin\n\n复制这句话安装 Codex 插件： Follow https://chatcut.io/agent-plugin to install ChatCut plugin",
+      "category": "ai-products",
+      "score": 69,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrdk11mj04j1ih4b5rkjwfpb"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 10,
+      "editorialScore": 11,
+      "tags": [
+        "工作流",
+        "codex",
+        "agent",
+        "mcp"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmrdjzw8304inih4bz9hvq7uo",
@@ -963,29 +886,210 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmrc1af8r00rqihyfg9rw0vab",
-      "title": "Meta 测试配备\"Super Sensing\"功能的全天候 AI 眼镜原型",
-      "title_en": "Meta tests always-on AI glasses that capture your entire day",
-      "url": "https://the-decoder.com/meta-tests-always-on-ai-glasses-that-capture-your-entire-day",
-      "permalink": "https://aihot.virxact.com/items/cmrc1af8r00rqihyfg9rw0vab",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-08T11:48:30.000Z",
-      "summary": "Meta 正在原型开发一款配备\"Super Sensing\"功能的 AI 眼镜，利用摄像头和麦克风持续录制佩戴者周围环境，每隔几秒拍摄照片并采集音频。用户可让 AI 回忆看过或听过的内容。与当前 Ray-Ban 智能眼镜不同，Super Sensing 模式下不会激活 LED 指示灯，旁人无法得知是否被拍摄。Meta 还考虑用收集的数据训练 AI 模型。相关功能\"Live AI\"曾在 Connect 2025 大会上预览。Meta 拒绝对内部原型置评，但强调了其隐私保护技术。",
-      "category": "ai-products",
-      "score": 54,
+      "id": "cmrd4cx3m00foih4b45fv4vdh",
+      "title": "在Claude Code挂载Codex订阅：Fable 5管决策、GPT 5.5干代码，token省60%",
+      "title_en": "牛逼，Fable 5 token消耗直接省60%！ Claude Code里挂载Codex订阅，双模型分工协同跑开发，贵的模型管决策，便宜的模型干体力活。 核心逻辑一句话，Fable 5只做高价值工…",
+      "url": "https://x.com/AYi_AInotes/status/2075093661763686543",
+      "permalink": "https://aihot.virxact.com/items/cmrd4cx3m00foih4b45fv4vdh",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-07-09T05:44:16.000Z",
+      "summary": "在Claude Code中挂载Codex订阅，实现双模型分工：Fable 5负责规划、架构决策、审查等高价值工作，GPT 5.5（Codex模型）负责代码实现、调试、重构等重复劳动，token消耗节省60%。设置方法：安装openai/codex-plugin-cc插件，运行/codex：setup并认证，固化工作流后使用/codex：rescue委派任务。进阶技巧包括将流程保存为自定义技能、利用Codex 20x Pro子代理并发（5-7个）、上下文衰减后使用/handoff承接上下文。",
+      "category": "tip",
+      "score": 74,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrc1af8r00rqihyfg9rw0vab"
+        "canonical": "https://aihot.virxact.com/items/cmrd4cx3m00foih4b45fv4vdh"
       },
-      "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 6,
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 10,
       "editorialScore": 11,
       "tags": [
-        "原型"
+        "工作流",
+        "codex",
+        "claude code"
       ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmrctf8rp045wihx5ye38nypq",
+      "title": "公众号文章批量下载 Skills 开源",
+      "title_en": "这个很实用啊，尤其是热门推文批文搞起来~",
+      "url": "https://x.com/berryxia/status/2075016963840201192",
+      "permalink": "https://aihot.virxact.com/items/cmrctf8rp045wihx5ye38nypq",
+      "source": "X：Berry Xia (@berryxia)",
+      "publishedAt": "2026-07-09T00:39:30.000Z",
+      "summary": "群友刚开源的公众号文章批量下载工具，对 AI 说\"帮我下载某公众号最近 50 篇文章\"，自动按公众号名称整理文件夹，转 Markdown、下载配图、生成 index.csv。基于纯 Python 标准库，内置限速和随机间隔，macOS Keychain 保存登录凭证，一次约 4 天有效。适合知识库、公众号研究及竞品分析。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrctf8rp045wihx5ye38nypq"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "配图"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmre98p5x01a5ihyyauhwwl6p",
+      "title": "OPSD-V：少步自回归视频扩散模型的后训练在线策略自蒸馏范式",
+      "title_en": "OPSD-V： On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators",
+      "url": "https://arxiv.org/abs/2607.08766",
+      "permalink": "https://aihot.virxact.com/items/cmre98p5x01a5ihyyauhwwl6p",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-09T00:00:00.000Z",
+      "summary": "研究者提出 OPSD-V，一种用于少步自回归（AR）视频扩散模型后训练的在线策略自蒸馏范式。该方法引入真实长视频数据作为时间上下文，提供密集轨迹级监督：学生模型遵循推理时展开路径，基于自身生成的 KV 缓存逐块生成；教师模型在同一去噪状态下评估，但使用更干净的 AR 一致时间缓存。应用于 Self-Forcing 和 LongLive 等模型后，视觉质量、运动动态和 VBenchLong 分数均获提升。用户研究中，OPSD-V 在总体偏好判断中以 66.0% 的胜率优于基线（排除平局后为 82.5%）。",
+      "category": "paper",
+      "score": 46,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmre98p5x01a5ihyyauhwwl6p"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmreekb5c0023ihgvrnzdn45w",
+      "title": "GPT-5.6 上线，ChatGPT 与 Codex 合并",
+      "title_en": "http://x.com/i/article/2075421584391557120",
+      "url": "https://x.com/Khazix0918/status/2075423893524000963",
+      "permalink": "https://aihot.virxact.com/items/cmreekb5c0023ihgvrnzdn45w",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "publishedAt": "2026-07-10T03:36:30.000Z",
+      "summary": "OpenAI 发布 GPT-5.6，包含旗舰模型 Sol、均衡模型 Terra 及低成本模型 Luna。ChatGPT 与 Codex 应用正式合并，原 Codex 界面成为新版 ChatGPT 主体，仅保留聊天 Tab。GPT-5.6 Sol 在 Agents' Last Exam 中以 53.6 分刷新纪录，比 Claude Fable 5 高 13.1 分；中等推理模式下以约四分之一成本领先 11.4 分。在 Artificial Analysis 编程智能体指数中，Sol 以 80 分创下标杆，输出 token 减少一半以上，耗时缩短一半以上，成本降低约三分之一。ExploitBench 上得分为 73.5%，网络安全效果接近 Fable 5 但成本极低。Sol 包含在订阅计划中，用户可直接使用。",
+      "category": "ai-models",
+      "score": 75,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmreekb5c0023ihgvrnzdn45w"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "界面",
+        "codex",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmre2mjao00ngihwkrwrpp6ka",
+      "title": "DocuBrowse v0.9.1 发布",
+      "title_en": "将一堆文档转化为可搜索、可用的知识库",
+      "url": "https://github.com/linuxrebel/DocuBrowser",
+      "permalink": "https://aihot.virxact.com/items/cmre2mjao00ngihwkrwrpp6ka",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-09T21:46:21.159Z",
+      "summary": "DocuBrowse v0.9.1 已打包为 Linux（RPM、DEB、tarball）、Windows（zip）和 macOS（dmg）。该工具将 PDF、EPUB、Word 等文档转化为可搜索的知识库，支持 SQLite FTS5 关键词搜索和 Ollama（nomic-embed-text）语义搜索，默认混合模式（70% 语义 + 30% 关键词）。点击文档标题可调用 dolphin3 模型生成 AI 摘要并缓存。内置 PII 扫描可检测并移除身份证号、信用卡等敏感信息。完全离线运行，无需网络、账户或 API 密钥。界面含暗/亮主题、分页结果、标签云筛选和 0-100% 相关性评分。支持多种文档和源代码格式。",
+      "category": "ai-products",
+      "score": 68,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmre2mjao00ngihwkrwrpp6ka"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "界面"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmre0j0vj002sihwk71qvktk7",
+      "title": "Google 推出 LiteRT.js：高性能 Web AI 推理运行时",
+      "title_en": "LiteRT.js， Google's high performance Web AI Inference",
+      "url": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference",
+      "permalink": "https://aihot.virxact.com/items/cmre0j0vj002sihwk71qvktk7",
+      "source": "Google Developers Blog（RSS）",
+      "publishedAt": "2026-07-09T21:21:08.292Z",
+      "summary": "Google 发布 LiteRT.js，这是 LiteRT 跨平台边缘 AI 运行时的最新成员，专为 JavaScript 开发者设计，可直接在浏览器中运行机器学习模型。LiteRT.js 基于 WebGPU 和即将推出的 WebNN 实现 SOTA 推理性能，同时支持回退到 WebAssembly CPU 方案。",
+      "category": "ai-products",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmre0j0vj002sihwk71qvktk7"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmrds7oqg06qdih4b7v5h9o08",
+      "title": "Meta新款AI芯片将于9月启动生产",
+      "title_en": "Meta's new AI chips will begin production in September",
+      "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september",
+      "permalink": "https://aihot.virxact.com/items/cmrds7oqg06qdih4b7v5h9o08",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-07-09T17:17:37.000Z",
+      "summary": "Meta的MTIA系列新款AI芯片将于9月启动生产，至少一款已通过测试。芯片由Meta与博通合作设计、台积电制造，并采购三星RAM、Sandisk存储等。该系列于今年3月披露，采用模块化Chiplet设计，用于训练排名与推荐算法、通用AI负载及应用推理。Meta今年资本支出预计1250-1450亿美元，大量投向AI，计划今年部署7GW算力，明年翻倍。",
+      "category": "industry",
+      "score": 67,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrds7oqg06qdih4b7v5h9o08"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmrdri1al06geih4b83xsfnty",
+      "title": "Meta 发布 Muse Spark 1.1，API 定价低于 Grok 4.5，挤压 OpenAI 和 Anthropic",
+      "title_en": "Meta's Muse Spark 1.1 API pricing squeezes OpenAI and Anthropic as the AI price war heats up",
+      "url": "https://the-decoder.com/metas-muse-spark-1-1-api-pricing-squeezes-openai-and-anthropic-as-the-ai-price-war-heats-up",
+      "permalink": "https://aihot.virxact.com/items/cmrdri1al06geih4b83xsfnty",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-09T16:58:44.000Z",
+      "summary": "Meta 推出多模态推理模型 Muse Spark 1.1，专为智能体任务、编程和计算机使用设计，支持多智能体编排与百万 token 上下文窗口。其 API 定价为输入 1.25 美元、输出 4.25 美元、缓存 0.15 美元（每百万 token），低于昨日发布的 xAI Grok 4.5，且远低于 OpenAI 和 Anthropic 竞品。该模型在 VALS-AI 榜单排名第四，Vibe Code Bench 编程评测较前代跃升 36 位。Muse Spark 1.1 为闭源模型，首次通过 Meta Model API 公开预览，但 Muse Image 尚未开放。Meta 以低价策略对依赖高利润率的 AI 实验室形成压力，同时面临中国开源模型的低价竞争。",
+      "category": "ai-models",
+      "score": 73,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrdri1al06geih4b83xsfnty"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmrdljtnv04wtih4bjkc81ef6",
@@ -1014,6 +1118,31 @@
         "智能体"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmrees13p006wihgvrokrpgpy",
+      "title": "美团 LongCat-2.0 正式开源，同步开放国产卡推理代码",
+      "title_en": "正式开源！美团 LongCat-2.0 同步开放国产卡推理代码",
+      "url": "https://mp.weixin.qq.com/s/iCq4jVlTdKOt74zAMYIIdw",
+      "permalink": "https://aihot.virxact.com/items/cmrees13p006wihgvrokrpgpy",
+      "source": "公众号：龙猫LongCat（美团）",
+      "publishedAt": "2026-07-09T11:58:00.000Z",
+      "summary": "美团万亿参数大模型 LongCat-2.0 正式开源，总参数 1.6T，平均激活约 48B，专为真实 Agentic Coding 任务设计。模型引入 LongCat 稀疏注意力机制与 N-gram Embedding，提升长上下文处理效率与 Token 级表示能力。LongCat-2.0 是业界首个在五万卡国产算力集群上完成推理的万亿参数模型，从模型架构、芯片适配到部署策略进行深度协同优化，支持百万上下文高效推理。开源同步提供 BF16、FP8、INT8 等多精度版本及针对国产算力极致优化的推理代码。",
+      "category": "ai-models",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrees13p006wihgvrokrpgpy"
+      },
+      "sourceType": "公众号",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmrdh1km003qeih4bt6z5mhz4",
@@ -1067,31 +1196,111 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmrc7pzod00aeihqcjr93l2qo",
-      "title": "Google Deepmind 为 Gemini API 托管智能体增加后台执行与 MCP 支持",
-      "title_en": "Google Deepmind adds background execution and MCP support to Gemini API managed agents",
-      "url": "https://the-decoder.com/google-deepmind-adds-background-execution-and-mcp-support-to-gemini-api-managed-agents",
-      "permalink": "https://aihot.virxact.com/items/cmrc7pzod00aeihqcjr93l2qo",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-08T14:45:35.000Z",
-      "summary": "Google Deepmind 为 Gemini API 中的 Managed Agents 新增四项功能：Background Execution 支持异步后台运行，无需保持 HTTP 连接；可连接远程 MCP 服务器到内部数据库或 API；允许在内置沙箱工具旁使用自定义函数；交互间可刷新令牌等凭据而不丢失沙箱状态。所有功能通过 Gemini Interactions API 提供，文档包含 JavaScript、Python 和 cURL 代码示例。",
+      "id": "cmreeeqog000bihgvurbs0hr8",
+      "title": "OpenAI 发布 GPT 5.6 全家桶，Codex 改名 ChatGPT，新增 Work 与站点功能",
+      "title_en": "实测GPT5.6，分享三个超实用Prompt，跟Fable5分工合作",
+      "url": "https://mp.weixin.qq.com/s/AabBvPiRxmfhHBX3oztZ_w",
+      "permalink": "https://aihot.virxact.com/items/cmreeeqog000bihgvurbs0hr8",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-07-10T03:47:00.000Z",
+      "summary": "OpenAI 发布 GPT 5.6 全家桶，将 Codex 更名为 ChatGPT，原 ChatGPT 改为 ChatGPT Classic，新增 ChatGPT Work 和站点功能。模型分三级：Sol（超大杯，上下文 372k）、Terra（大杯，性能接近 GPT-5.5，价格减半）、Luna（中杯轻量）。Sol 新增 max 与 ultra 推理档位，ultra 可调用多个子 Agent 并行处理。在 Cerebras 芯片加速下，Sol 推理速度达 750 tokens/s。OpenAI 计划跳过 5.x 直接发布 GPT-6，基于全新更大预训练底座。GPT-5.4 将于 7 月 23 日下线，Atla 浏览器改为插件形式。",
+      "category": "tip",
+      "score": 80,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmreeeqog000bihgvurbs0hr8"
+      },
+      "sourceType": "公众号",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "prompt",
+        "codex",
+        "agent"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmrecamtt021vihyyto7cj30q",
+      "title": "AI 改变了软件重写的经济模式",
+      "title_en": "人工智能改变了软件重写的经济模式",
+      "url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself",
+      "permalink": "https://aihot.virxact.com/items/cmrecamtt021vihyyto7cj30q",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-10T02:47:04.229Z",
+      "summary": "AI 模型在代码生成上的表现不仅取决于提示词，更取决于训练数据中的已有知识和提供的上下文（代码库）。流行技术栈因模型见过数百万公开示例而具备 AI 优势；专有语言、私有框架和不一致的代码模式则需在有限的上下文窗口中额外教导。两种工作流对比显示：代码库模式清晰一致时，模型能直接生成实现；反之则需先推断模式，消耗更多 token、提示词和成本，且输出质量更低。因此，软件重写不仅是技术栈现代化，更是围绕清晰一致的模式重建代码库以发挥 AI 优势的机会--否则花在让 AI 学习语言上的时间将成为竞争对手的优势。",
+      "category": "tip",
+      "score": 50,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrecamtt021vihyyto7cj30q"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "工作流",
+        "提示词"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmre2mjao00nmihwkz4nz0e46",
+      "title": "微软发布Flint：面向AI智能体的可视化语言",
+      "title_en": "Show HN： 微软发布了Flint，一种用于人工智能代理的可视化语言",
+      "url": "https://microsoft.github.io/flint-chart",
+      "permalink": "https://aihot.virxact.com/items/cmre2mjao00nmihwkz4nz0e46",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-09T21:46:19.253Z",
+      "summary": "微软研究院推出Flint，一种可视化中间语言，让AI智能体通过简洁的人类可编辑spec自动生成美观图表。用户只需提供数据、语义类型和图表类型，Flint编译器即可推导坐标轴、配色、布局等底层参数。支持46种图表类型，可渲染到Vega-Lite、ECharts和Chart.js三个后端。项目通过npm安装（TypeScript/JavaScript），并提供MCP服务器用于智能体工作流集成。采用弹性布局模型自动优化图表尺寸与间距，已开源。",
+      "category": "ai-products",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmre2mjao00nmihwkz4nz0e46"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "工作流",
+        "智能体",
+        "mcp"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmre1nda900d6ihwktjjt1v3r",
+      "title": "OpenAI 重新品牌 Codex，推出可运行数小时的自主工作流",
+      "title_en": "OpenAI wants its new tool to do your work for you and with you",
+      "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you",
+      "permalink": "https://aihot.virxact.com/items/cmre1nda900d6ihwktjjt1v3r",
+      "source": "Ars Technica：AI（RSS）",
+      "publishedAt": "2026-07-09T21:25:55.000Z",
+      "summary": "OpenAI 将原有 Codex 工具重新品牌，新版本承诺提供独立工作流，可根据需要持续运行数小时。这一更新旨在让 AI 代劳并协同完成复杂任务，无需用户持续介入。",
       "category": "ai-products",
       "score": 65,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrc7pzod00aeihqcjr93l2qo"
+        "canonical": "https://aihot.virxact.com/items/cmre1nda900d6ihwktjjt1v3r"
       },
       "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
       "tags": [
-        "交互",
-        "智能体",
-        "mcp"
+        "工作流",
+        "品牌",
+        "codex"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmrdnhbax05ftih4brp3v38gb",
@@ -1201,186 +1410,217 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmrcg0b3e00rcihx5dd99aogl",
-      "title": "Anthropic 市场运营团队用 Claude Cowork 自动化报告与活动构建",
-      "title_en": "How Anthropic's marketing operations team uses Claude Cowork to automate reporting and campaign builds",
-      "url": "https://claude.com/blog/how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds",
-      "permalink": "https://aihot.virxact.com/items/cmrcg0b3e00rcihx5dd99aogl",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-07-08T19:00:06.953Z",
-      "summary": "Anthropic 市场运营团队的 Ian Chan 和 Annabel Custer 利用 Claude Cowork 将手动工作从多天压缩至数小时。Ian 此前每周花 1-2 天整合营销指标报告，现在通过 Claude Cowork 的定时任务（每周日自动读取上周报告、会议记录、Slack 和数据仓库）生成初始报告，经他审核后由 Claude 扩展细节并产出领导层幻灯片，流程缩至最多 2 小时。Annabel 曾手动在 Salesforce、HubSpot、Swoogo 等平台逐一搭建活动，现由 Claude Cowork 的派遣技能每小时读取请求频道，分发给五个专业技能自动处理最复杂的事件构建。人类验证已成为工作流核心环节。",
-      "category": "tip",
-      "score": 54,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrcg0b3e00rcihx5dd99aogl"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "工作流",
-        "自动化",
-        "营销"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmrcf8vix00jqihx5elnccllx",
-      "title": "OpenAI 推出 GPT-Live：全双工语音模型，可同时听与说",
-      "title_en": "ChatGPT can now listen and talk at the same time， making AI conversations seem more human",
-      "url": "https://the-decoder.com/chatgpt-can-now-listen-and-talk-at-the-same-time-making-ai-conversations-seem-more-human",
-      "permalink": "https://aihot.virxact.com/items/cmrcf8vix00jqihx5elnccllx",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-08T18:18:55.000Z",
-      "summary": "OpenAI 发布 GPT-Live 语音模型，采用全双工架构，支持同时听和说、用户打断以及\"mhmm\"等填充词，对话更自然。两个版本：GPT-Live-1 面向 Go、Plus、Pro 付费用户，GPT-Live-1 mini 面向免费用户，覆盖 iOS、Android 和网页。复杂任务（网页搜索、推理）委托给后台 GPT-5.5，用户可选 Instant、Medium、High 三个推理级别。用户偏好度测试中，GPT-Live-1 达 75.7%，GPT-Live-1 mini 达 69.2%。在 GPQA 科学推理测试中，高推理级别达 84.2%（Advanced Voice Mode 为 45.3%）；在 BrowseComp 智能体搜索基准上得 75.2%（Advanced Voice Mode 为 0.7%）。新增视觉卡片与九种语音，内置危机热线、年龄适配及家长控制等安全措施。",
-      "category": "ai-models",
-      "score": 83,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrcf8vix00jqihx5elnccllx"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "视觉",
-        "智能体"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrcdqpww006bihx5g0zbct81",
-      "title": "OpenAI发布全双工语音模型GPT-Live-1系列，对话更自然",
-      "title_en": "OpenAI releases new voice models for more natural live conversations",
-      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations",
-      "permalink": "https://aihot.virxact.com/items/cmrcdqpww006bihx5g0zbct81",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-08T17:00:00.000Z",
-      "summary": "OpenAI今日推出全双工语音模型GPT-Live-1及GPT-Live-1 mini，能同时听与说，支持自然打断和实时翻译。ChatGPT原有Advanced Voice Mode默认替换为GPT-Live-1 mini，付费用户可用更大模型。新模型解决了此前打断用户说话和智能不足的问题，并可调用GPT-5.5等文本模型完成搜索、推理或智能体任务。模型能长时间静默吸收对话上下文，必要时呈现视觉信息。OpenAI表示该语音模式可支持30-40分钟对话，但不作为AI伴侣，已内置针对青少年的年龄适宜回复和自伤话题资源。演示中印地语实时翻译带有浓重美式口音，语调书卷气较重。",
-      "category": "ai-models",
-      "score": 77,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrcdqpww006bihx5g0zbct81"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "视觉",
-        "智能体"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrc8ppgh00l4ihqcft9anype",
-      "title": "Runway Dev 发布",
-      "title_en": "Introducing Runway Dev",
-      "url": "https://runwayml.com/news/introducing-runway-dev",
-      "permalink": "https://aihot.virxact.com/items/cmrc8ppgh00l4ihqcft9anype",
-      "source": "Runway：News（网页）",
-      "publishedAt": "2026-07-08T15:35:51.878Z",
-      "summary": "Runway 官网以 Cookie 设置页面代替了产品介绍，未提供 Runway Dev 的功能、参数、可用性等任何具体信息。",
+      "id": "cmre804ck00wtihyyd1x8f3qj",
+      "title": "Pi coding agent 推出 LazyPi 一键配置方案",
+      "title_en": "风格鲜明且简便的 Pi.dev 配置",
+      "url": "https://lazypi.org/",
+      "permalink": "https://aihot.virxact.com/items/cmre804ck00wtihyyd1x8f3qj",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-10T00:23:41.507Z",
+      "summary": "Pi coding agent 的创作者 Mario Zechner 推出 LazyPi 配置方案，一条命令即可完成全部设置。LazyPi 集成了 60 多项社区技能、67 个主题、MCP 服务器集成、子智能体支持、Claude Code CLI 提供者支持、持久化记忆、成本/使用追踪、待办追踪、自动研究、规划模式及官方 Compound Engineering 支持。所有软件包均经人工精选，可一键安装或通过交互式选择器按需安装。LazyPi 在 Pi 原生的极简主义基础上，补充了社区广泛认可的技能与工具，省去研究和配置成本。",
       "category": "ai-products",
-      "score": 58,
+      "score": 65,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrc8ppgh00l4ihqcft9anype"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "runway"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrbr5n3u06kjihl1fjzo6b5h",
-      "title": "NVIDIA Cosmos-Framework 教程：在 Colab 上构建紧凑版 Omnimodal Mixture-of-Transformers 世界模型",
-      "title_en": "NVIDIA's Cosmos-Framework Tutorial： Designing a Colab-Friendly Miniature of Cosmos 3 World Models with Omnimodal Mixture-of-Transformers",
-      "url": "https://www.marktechpost.com/2026/07/08/nvidias-cosmos-framework-tutorial-designing-a-colab-friendly-miniature-of-cosmos-3-world-models-with-omnimodal-mixture-of-transformers",
-      "permalink": "https://aihot.virxact.com/items/cmrbr5n3u06kjihl1fjzo6b5h",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-07-08T07:15:35.000Z",
-      "summary": "本教程利用 NVIDIA cosmos-framework 的 CLI、输入模式和模型结构，在 Google Colab 上构建并训练了一个紧凑的 Omnimodal Mixture-of-Transformers 世界模型。标准 Colab 硬件（T4 GPU，显存不足 80 GiB、硬盘空闲低于 150 GiB）无法运行真实 Cosmos 3 检查点（如 Nano-16B 需单卡 H100 及以上），因此教程转向模拟实现：通过共享跨模态注意力与文本、视觉、动作流的模态特定专家路由，使用合成物理世界数据训练小型模型，并跟踪训练损失与自回归展开，演示模型学习跨模态关系及预测未来潜在状态的过程。",
-      "category": "tip",
-      "score": 62,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrbr5n3u06kjihl1fjzo6b5h"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "视觉"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrccspca01ozihqc7sm3at6t",
-      "title": "Thomson Reuters携手Claude推进高风险专业AI：智能体架构将法律研究从数十小时缩至数分钟",
-      "title_en": "Working at the frontier： How Thomson Reuters builds AI for high-stakes professional work",
-      "url": "https://claude.com/blog/working-at-the-frontier-how-thomson-reuters-builds-ai-for-high--stakes-professional-work",
-      "permalink": "https://aihot.virxact.com/items/cmrccspca01ozihqc7sm3at6t",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-07-08T17:30:04.910Z",
-      "summary": "Thomson Reuters CTO Joel Hron称Claude Fable 5为专业AI的关键进化。该公司为法律、税务等领域构建Fiduciary-Grade AITM，整合2700+领域专家、权威内容及工作流。其法律AI平台CoCounsel Legal基于Claude Agent SDK重建，智能体能同时访问数百个工具并自主规划、校验引用。模型需通过四项考验：自检引用、长链工具调用、保持连贯、引入人类审核。客户反馈深度研究从数十小时缩短至数分钟。",
-      "category": "industry",
-      "score": 47,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrccspca01ozihqc7sm3at6t"
+        "canonical": "https://aihot.virxact.com/items/cmre804ck00wtihyyd1x8f3qj"
       },
       "sourceType": "网站",
       "designCategory": "工作流与 Agent",
       "relevanceScore": 7,
       "editorialScore": 8,
       "tags": [
-        "工作流",
+        "交互",
+        "claude code",
         "agent",
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmrcigf5k01bqihx54i8oph9u",
-      "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷",
-      "title_en": "Separating signal from noise in coding evaluations",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "permalink": "https://aihot.virxact.com/items/cmrcigf5k01bqihx54i8oph9u",
+      "id": "cmrdxkzi1007pihsav6f9uc26",
+      "title": "Meta 发布 Muse Spark 1.1，加入 AI 编码模型竞争",
+      "title_en": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+      "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1",
+      "permalink": "https://aihot.virxact.com/items/cmrdxkzi1007pihsav6f9uc26",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-07-09T19:40:45.000Z",
+      "summary": "Meta 周四推出新一代多模态 AI 模型 Muse Spark 1.1，专为智能体编码设计，支持多步推理、复杂流程管理和数字工作流。定价为每百万输入 token 1.25 美元、输出 token 4.25 美元，与 Anthropic Claude Haiku 4.5 和 OpenAI GPT-5.6 Luna 竞争。该模型擅长处理大规模智能体工作负载、修复 bug 及大型代码迁移。CEO 扎克伯格称其为\"强大且低价的智能体和编码模型\"，并表示更多模型即将推出。",
+      "category": "ai-models",
+      "score": 63,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrdxkzi1007pihsav6f9uc26"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "设计",
+        "工作流",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmrdrlair06hoih4b5vgl9oc2",
+      "title": "GPT-5.6 系列模型发布：Sol、Terra、Luna",
+      "title_en": "GPT-5.6： Frontier intelligence that scales with your ambition",
+      "url": "https://openai.com/index/gpt-5-6",
+      "permalink": "https://aihot.virxact.com/items/cmrdrlair06hoih4b5vgl9oc2",
       "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-07-08T13:00:00.000Z",
-      "summary": "OpenAI 对编码评测基准 SWE-Bench Pro 进行详细审计，发现约 30% 的任务存在缺陷。在 731 个任务的公开子集中，前沿模型通过率在八个月内从 23.3% 提升至 80.3%，但数据质量检查显示大量任务存在测试过于严格、提示词描述不足、测试覆盖不全或误导性提示等问题。OpenAI 建议模型开发者仔细审视评测结果，并指出 AI 智能体在规模化数据质量检查中日益增长的实用性。",
-      "category": "paper",
-      "score": 70,
+      "publishedAt": "2026-07-09T10:00:00.000Z",
+      "summary": "OpenAI 推出 GPT-5.6 系列，包括旗舰 Sol、平衡型 Terra 和成本最优 Luna。在 Agents' Last Exam 上，Sol 以 53.6 分超越 Claude Fable 5（自适应推理）13.1 分；中等推理时以约四分之一成本领先 11.4 分。Terra 和 Luna 以约十六分之一成本超越 Fable 5。在 Artificial Analysis Coding Agent Index 上，Sol 以 80 分创 SOTA，高于 Fable 5 的 2.8 分，使用不到一半输出 token、一半时间，成本低约三分之一。引入 Programmatic Tool Calling 减少中间数据往返，ultra 模式协调多个智能体加速复杂任务。模型配备迄今最强安全防护，经人类红队和自动化测试验证。",
+      "category": "ai-models",
+      "score": 85,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrdrlair06hoih4b5vgl9oc2"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "自动化",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmreax6su01ozihyy4xtirms5",
+      "title": "Claude Code v2.1.206 发布",
+      "title_en": "v2.1.206",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.206",
+      "permalink": "https://aihot.virxact.com/items/cmreax6su01ozihyy4xtirms5",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "publishedAt": "2026-07-10T01:45:26.000Z",
+      "summary": "Claude Code v2.1.206 发布，主要更新包括：为 `/cd` 命令添加目录路径建议；新增 `/doctor` 检查以建议修剪 CLAUDE.md 文件中模型可从代码库推导的内容；`/commit-push-pr` 现在自动允许 git push 到仓库配置的推送远程仓库；`/login` 支持 Anthropic 运营的公共网关端点；后台智能体在更新后自动升级。修复了过期登录导致所有模型报错、`claude --resume` 和 `--continue` 在启动时无键盘响应、MCP 服务器忽略 `request_timeout_ms` 配置、OAuth MCP 服务器需手动重新认证、`/model` 选择器价格显示错误、桌面会话卡在\"运行中\"状态、Windows 上键盘输入被忽略等多项问题。",
+      "category": "ai-products",
+      "score": 62,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrcigf5k01bqihx54i8oph9u"
+        "canonical": "https://aihot.virxact.com/items/cmreax6su01ozihyy4xtirms5"
       },
       "sourceType": "网站",
       "designCategory": "工作流与 Agent",
       "relevanceScore": 6,
       "editorialScore": 7,
       "tags": [
-        "提示词",
+        "claude code",
+        "智能体",
+        "mcp"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmre2mjao00ndihwk3z3c6uhg",
+      "title": "在 Databricks 的数百万行代码库上对编码代理进行基准测试",
+      "title_en": null,
+      "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
+      "permalink": "https://aihot.virxact.com/items/cmre2mjao00ndihwk3z3c6uhg",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-09T21:46:21.211Z",
+      "summary": "Databricks 基于内部数百万行代码库（Python、Go、TypeScript、Scala 等）构建编码代理基准，评估真实编码任务的性能与成本。结果显示，性能前沿包含 OpenAI、Anthropic 及开源模型；GLM 5.2 进入最高能力层，质量与 Opus 4.8 持平，但每任务成本仅 $1.28（Opus 4.8 为 $1.94）。Sonnet 5 每 token 更便宜，但消耗更多 token 导致总成本更高。不同 harness（如 Claude Code/Codex 与 Pi）可带来超 2 倍成本差异。模型 token 价格并非实际任务成本的良好指标。",
+      "category": "tip",
+      "score": 67,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmre2mjao00ndihwk3z3c6uhg"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "codex",
+        "claude code"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmrduq67z07e9ih4blcrmztra",
+      "title": "GPT-5.6 Sol 以三分之一成本接近 Fable 5 基准成绩",
+      "title_en": "GPT-5.6 Sol nearly matches Fable 5 on aggregated benchmarks at one-third the cost",
+      "url": "https://the-decoder.com/gpt-5-6-sol-nearly-matches-fable-5-on-aggregated-benchmarks-at-one-third-the-cost",
+      "permalink": "https://aihot.virxact.com/items/cmrduq67z07e9ih4blcrmztra",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-09T18:37:51.000Z",
+      "summary": "OpenAI 新旗舰 GPT-5.6 Sol 在 Artificial Analysis 的 Intelligence Index 上获 59 分，仅比 Claude Fable 5 低 1 分；在 Coding Agent Index（Codex 环境）中以 80 分位居第一，AA-Briefcase 的 Presentation Elo 得分最高，但整体排名仍落后于 Fable 5。Sol 每次任务成本 1.04 美元，约为 Fable 5 的三分之一。小变体 Terra 和 Luna 成本分别再低 50% 和 80%。GPT-5.6 首次引入缓存写入费，输入/输出 token 每百万 $5/$30（Sol）、$2.50/$15（Terra）、$1/$6（Luna），缓存读取享 90% 折扣。Sol 在智能体编码任务中比同类模型少耗用最多 54% 的输出 token。",
+      "category": "ai-models",
+      "score": 72,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrduq67z07e9ih4blcrmztra"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "codex",
+        "agent",
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmredj37l001iihi5r5dvduxm",
+      "title": "CausalDS：面向数据科学智能体的因果推理基准",
+      "title_en": "CausalDS： Benchmarking Causal Reasoning in Data-Science Agents",
+      "url": "https://arxiv.org/abs/2607.08093",
+      "permalink": "https://aihot.virxact.com/items/cmredj37l001iihi5r5dvduxm",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-09T00:00:00.000Z",
+      "summary": "大语言模型（LLM）正越来越多地充当集成式数据科学智能体，但现有基准测试要么缺乏真实数据分析的符号因果推理，要么缺少基于因果的数据生成结构。CausalDS 是一个评估智能体数据科学工作流中因果推理能力的基准。每个实例包含一个采样的结构因果模型（SCM）、生成的观测数据及合成自然语言故事。任务覆盖 Pearl 三阶梯，多数包含数据科学编码组件，模型需使用多种工具处理不完美观测。基准将\"无法回答时主动弃权\"作为一等评分项，联合评估符号因果推理、数据科学、不确定性量化、弃权及工具使用/编码能力。",
+      "category": "paper",
+      "score": 43,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmredj37l001iihi5r5dvduxm"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "工作流",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmrdvfiw707kxih4baqocyhy5",
+      "title": "Google 将在广告中标注 AI 生成内容",
+      "title_en": "Google will now disclose which ads are made with AI",
+      "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai",
+      "permalink": "https://aihot.virxact.com/items/cmrdvfiw707kxih4baqocyhy5",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-07-09T18:40:51.000Z",
+      "summary": "Google 在\"我的广告中心\"（My Ad Center）面板中新增\"广告制作方式\"选项，向用户披露广告是否由 AI 创建或编辑。使用 Google 自有生成式 AI 广告工具制作的广告将自动标注；其他广告需广告主自行声明是否使用 AI，Google 不进行主动核查。此前仅选举广告有此披露要求。该功能覆盖 Google 搜索、YouTube 和 Google Discover 上的广告。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrdvfiw707kxih4baqocyhy5"
+      },
+      "sourceType": "网站",
+      "designCategory": "行业观察",
+      "relevanceScore": 6,
+      "editorialScore": 6,
+      "tags": [
+        "广告"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     }
   ]
 }
