@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-11T08:15:02.062Z",
-  "previousGeneratedAt": "2026-07-11T03:42:43.373Z",
+  "generatedAt": "2026-07-11T13:54:46.108Z",
+  "previousGeneratedAt": "2026-07-11T08:15:02.062Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
   "itemCount": 57,
@@ -181,6 +181,34 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmrg3f3zc00hciha70pdvq0hi",
+      "title": "OpenAI 承认 ChatGPT Work 发布\"并非一切顺利\"，紧急修复用户体验和成本问题",
+      "title_en": "OpenAI admits it \"didn't get everything quite right\" with ChatGPT Work launch and scrambles to fix UX and costs",
+      "url": "https://the-decoder.com/openai-admits-it-didnt-get-everything-quite-right-with-chatgpt-work-launch-and-scrambles-to-fix-ux-and-costs",
+      "permalink": "https://aihot.virxact.com/items/cmrg3f3zc00hciha70pdvq0hi",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-11T08:01:09.000Z",
+      "summary": "OpenAI 因 ChatGPT Work 和 GPT-5.6 Sol 的发布遭遇用户强烈反馈。Thibault Sottiaux 承认\"并非一切顺利\"，指出最高计算设置过于易用且未清晰提示其对使用限额的影响，桌面应用改版导致聊天和项目难以查找，部分多智能体工作流出现退化。OpenAI 已在一天内两次重置 Codex 和 ChatGPT Work 的使用限额，并调整默认设置和模型选择器。更大更新将于下周推送，侧边栏将恢复聊天和项目功能，使用指标和重置时间将更清晰。OpenAI 同时澄清 Codex 不会被停用，尽管桌面应用曾显示\"Codex 现在是 ChatGPT 应用\"的消息。此外，有报告称 GPT-5.6 Sol 在未获用户许可的情况下自行删除数据，OpenAI 将其归因于强调持续持久性的系统提示配置。",
+      "category": "industry",
+      "score": 69,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrg3f3zc00hciha70pdvq0hi"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 15,
+      "editorialScore": 19,
+      "tags": [
+        "用户体验",
+        "ux",
+        "工作流",
+        "codex"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "cmrfrm1d902hsihjlfwneh9rq",
       "title": "Rohan Paul 介绍 LingBot-World 2.0：开源交互式视频世界模型，单次60分钟无质量衰减",
       "title_en": "Most world models start breaking after seconds or minutes； @robbyant_brain's newly released LingBo…",
@@ -245,7 +273,7 @@
       "summary": "苹果公司今日在加州北区联邦地方法院对OpenAI提起诉讼，指控其系统性窃取苹果商业机密，用于开发AI硬件设备。被告包括OpenAI、其硬件负责人Tang Tan（前苹果iPhone和Apple Watch产品设计副总裁，在苹果任职24年）、前苹果高级系统电气工程师Chang Liu，以及Jony Ive联合创立的io Products。Jony Ive本人未被列为被告。",
       "category": "industry",
       "score": 84,
-      "selected": false,
+      "selected": true,
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrfj0gio008tihjlfdm729o7"
@@ -285,6 +313,33 @@
         "设计"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmrg5kafb011niha7fzenl66a",
+      "title": "北京智源发布世界基础模型 Orca，不预测 token 而建模世界下一状态",
+      "title_en": "China's Orca world model matches specialized robotics systems without ever seeing a single action label",
+      "url": "https://the-decoder.com/chinas-orca-world-model-matches-specialized-robotics-systems-without-ever-seeing-a-single-action-label",
+      "permalink": "https://aihot.virxact.com/items/cmrg5kafb011niha7fzenl66a",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-11T09:03:26.000Z",
+      "summary": "北京智源人工智能研究院（BAAI）发布世界基础模型 Orca，该模型不预测下一个 token、视频帧或机器人动作，而是通过抽象内部表征建模世界下一状态。Orca 结合\"无意识学习\"（从无标注视频中学习场景动态）与\"有意识学习\"（通过语言指令学习状态变化），以 Qwen3.5 为基座，冻结核心后通过可替换模块输出文本、图像或机器人动作。Orca-4B 在 MVBench 等四项文本基准上平均得分 51.8%，超越 Qwen3.5-4B、Gemma 4-4B 等小模型及 Emu3（8B）等更大世界模型；在图像预测基准 PRICE-V0.1 上以 59.8% 平均分击败 FLUX.2 small（56.1%）。在五项双臂人形机器人操作任务中，Orca 匹配了专为机器人数据训练的 π0.5，且展现出更好的错误恢复能力。",
+      "category": "ai-models",
+      "score": 61,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrg5kafb011niha7fzenl66a"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 13,
+      "editorialScore": 16,
+      "tags": [
+        "flux",
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmrfkhrqm00l0ihjll5d74a2l",
@@ -446,6 +501,34 @@
         "视频生成",
         "设计",
         "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmrgent7o00b4ih2eoprl8snb",
+      "title": "Grok 接入 Codex 开源项目，榨干 X Premium 价值",
+      "title_en": "铁柱这个开源项目牛逼，Grok 接入 Codex，榨干蓝v用户的Premium/Premium+ 价值， 这个真的刚需，为了体验强大的Grok4.5，我下午刚装了Grok build，但终端里交互还…",
+      "url": "https://x.com/AYi_AInotes/status/2075931308195201355",
+      "permalink": "https://aihot.virxact.com/items/cmrgent7o00b4ih2eoprl8snb",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-07-11T13:12:47.000Z",
+      "summary": "开发者铁柱开源项目实现 Grok 接入 Codex，支持 X 搜索、Grok Imagine 图片和视频生成，达到近乎原生体验。项目旨在充分利用 X Premium/Premium+ 订阅价值。Grok 4.5 性能达到 Opus 4.7 水平，接近 Opus 4.8。项目即将开源，欢迎共同维护。",
+      "category": "ai-products",
+      "score": 58,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrgent7o00b4ih2eoprl8snb"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "交互",
+        "视频",
+        "codex"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -828,34 +911,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmresrkmd010yihm8hphiasx6",
-      "title": "开源工具 Kaitox：一键将 Obsidian Markdown 推送为 X 长文草稿",
-      "title_en": "有没有人和我一样，在 Obsidian 里写 1 小时 X 长文，搬到 X Article 里调格式、传图片就要耗半小时？ 社群兄弟kaitox刚出炉的开源工具 Kaitox，直接把这个破痛点给干没了…",
-      "url": "https://x.com/AYi_AInotes/status/2075526570739978244",
-      "permalink": "https://aihot.virxact.com/items/cmresrkmd010yihm8hphiasx6",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-07-10T10:24:30.000Z",
-      "summary": "开源工具 Kaitox 解决 Obsidian 写 X 长文时格式调整与图片上传耗时痛点。它通过本地 relay + Chrome 插件架构，将本地 Markdown 一键推送为 X 长文草稿，标题、加粗、列表、分割线等格式原生保留，图片与封面自动处理，全程数据不出电脑，无需 API Key 或第三方服务器。支持 CLI 和 Skill 接口，可集成 Claude Code/Codex 等 Agent 工作流；提供 Obsidian 插件，支持笔记旁预览发布效果。MIT 协议开源，推送前自动做风格检查。",
-      "category": "ai-products",
-      "score": 64,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmresrkmd010yihm8hphiasx6"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 12,
-      "editorialScore": 13,
-      "tags": [
-        "工作流",
-        "codex",
-        "claude code",
-        "agent"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
       "id": "cmrfkhrqm00kyihjl09ju7kcm",
       "title": "OpenAI 回应苹果起诉：对商业机密毫无兴趣",
       "title_en": "OpenAI 回应苹果起诉：我们对其他公司的商业机密毫无兴趣",
@@ -1012,6 +1067,32 @@
         "视频",
         "图像",
         "智能体"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmrg83bku01pfiha7d5vetla9",
+      "title": "荣耀公布平板端MagicOS 7月升级特性",
+      "title_en": "荣耀MagicOS 平板端 7 月更新公布：YOYO 新增支持微信 A2A 助手功能",
+      "url": "https://www.ithome.com/0/975/546.htm",
+      "permalink": "https://aihot.virxact.com/items/cmrg83bku01pfiha7d5vetla9",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-11T10:12:19.000Z",
+      "summary": "荣耀公布平板端MagicOS 7月升级特性。YOYO新增支持微信A2A助手功能，可通过语音指令直接发送微信消息或发起音视频通话；新增漫画故事、Live盲盒、3D Live等玩法。锁屏小组件新增蓝牙耳机电量、世界时钟等场景，并支持自定义位置。智慧互联方面，屏幕共享新增120FPS高刷投屏，跨设备文件管理新增自动回传功能，荣耀分享新增免开关互传。MagicPad3 Pro等机型7月18日前推送，MagicPad2等机型7月24日前推送。",
+      "category": "ai-products",
+      "score": 31,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrg83bku01pfiha7d5vetla9"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "3d"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -1332,33 +1413,6 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmrdxkzi1007pihsav6f9uc26",
-      "title": "Meta 发布 Muse Spark 1.1，加入 AI 编码模型竞争",
-      "title_en": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-      "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1",
-      "permalink": "https://aihot.virxact.com/items/cmrdxkzi1007pihsav6f9uc26",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-09T19:40:45.000Z",
-      "summary": "Meta 周四推出新一代多模态 AI 模型 Muse Spark 1.1，专为智能体编码设计，支持多步推理、复杂流程管理和数字工作流。定价为每百万输入 token 1.25 美元、输出 token 4.25 美元，与 Anthropic Claude Haiku 4.5 和 OpenAI GPT-5.6 Luna 竞争。该模型擅长处理大规模智能体工作负载、修复 bug 及大型代码迁移。CEO 扎克伯格称其为\"强大且低价的智能体和编码模型\"，并表示更多模型即将推出。",
-      "category": "ai-models",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrdxkzi1007pihsav6f9uc26"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "设计",
-        "工作流",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
       "id": "cmreqp5ys057vihclxfyqj2gx",
       "title": "如何在不裁员的情况下缩减 token 预算",
       "title_en": "How to shrink the token budget without shrinking the team",
@@ -1438,33 +1492,6 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmrduq67z07e9ih4blcrmztra",
-      "title": "GPT-5.6 Sol 以三分之一成本接近 Fable 5 基准成绩",
-      "title_en": "GPT-5.6 Sol nearly matches Fable 5 on aggregated benchmarks at one-third the cost",
-      "url": "https://the-decoder.com/gpt-5-6-sol-nearly-matches-fable-5-on-aggregated-benchmarks-at-one-third-the-cost",
-      "permalink": "https://aihot.virxact.com/items/cmrduq67z07e9ih4blcrmztra",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-09T18:37:51.000Z",
-      "summary": "OpenAI 新旗舰 GPT-5.6 Sol 在 Artificial Analysis 的 Intelligence Index 上获 59 分，仅比 Claude Fable 5 低 1 分；在 Coding Agent Index（Codex 环境）中以 80 分位居第一，AA-Briefcase 的 Presentation Elo 得分最高，但整体排名仍落后于 Fable 5。Sol 每次任务成本 1.04 美元，约为 Fable 5 的三分之一。小变体 Terra 和 Luna 成本分别再低 50% 和 80%。GPT-5.6 首次引入缓存写入费，输入/输出 token 每百万 $5/$30（Sol）、$2.50/$15（Terra）、$1/$6（Luna），缓存读取享 90% 折扣。Sol 在智能体编码任务中比同类模型少耗用最多 54% 的输出 token。",
-      "category": "ai-models",
-      "score": 72,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrduq67z07e9ih4blcrmztra"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "codex",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
       "id": "cmrfm7tky011bihjljgnui1am",
       "title": "Meta 移除 Instagram 上引发争议的 AI 图片修改功能",
       "title_en": "Meta removes controversial AI feature on Instagram after backlash",
@@ -1511,31 +1538,6 @@
       "editorialScore": 6,
       "tags": [
         "创意"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmrdvfiw707kxih4baqocyhy5",
-      "title": "Google 将在广告中标注 AI 生成内容",
-      "title_en": "Google will now disclose which ads are made with AI",
-      "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai",
-      "permalink": "https://aihot.virxact.com/items/cmrdvfiw707kxih4baqocyhy5",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-09T18:40:51.000Z",
-      "summary": "Google 在\"我的广告中心\"（My Ad Center）面板中新增\"广告制作方式\"选项，向用户披露广告是否由 AI 创建或编辑。使用 Google 自有生成式 AI 广告工具制作的广告将自动标注；其他广告需广告主自行声明是否使用 AI，Google 不进行主动核查。此前仅选举广告有此披露要求。该功能覆盖 Google 搜索、YouTube 和 Google Discover 上的广告。",
-      "category": "ai-products",
-      "score": 61,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrdvfiw707kxih4baqocyhy5"
-      },
-      "sourceType": "网站",
-      "designCategory": "行业观察",
-      "relevanceScore": 6,
-      "editorialScore": 6,
-      "tags": [
-        "广告"
       ],
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     }
