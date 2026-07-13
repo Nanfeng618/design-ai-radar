@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-12T13:56:08.732Z",
-  "previousGeneratedAt": "2026-07-12T08:31:25.073Z",
+  "generatedAt": "2026-07-13T03:59:59.638Z",
+  "previousGeneratedAt": "2026-07-12T13:56:08.732Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 53,
+  "itemCount": 52,
   "sourceCounts": {
     "X": 24,
-    "网站": 26,
+    "网站": 25,
     "公众号": 3
   },
   "source": {
@@ -14,34 +14,6 @@
     "url": "https://aihot.virxact.com"
   },
   "items": [
-    {
-      "id": "cmrema2b4022bihcleaow4j8v",
-      "title": "Elon Musk 转发用户称赞 Grok Build 的反馈",
-      "title_en": "Grok Build gets better every day and we love hearing user feedback for improvements",
-      "url": "https://x.com/elonmusk/status/2075478792273842370",
-      "permalink": "https://aihot.virxact.com/items/cmrema2b4022bihcleaow4j8v",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "publishedAt": "2026-07-10T07:14:39.000Z",
-      "summary": "Elon Musk 转发用户 @0x0funky 对 Grok Build 的称赞。该用户称 Grok Build 是目前唯一集大成的 coding agentic workflow，内建图像生成和图片生视频功能，生图速度快且品质不输 Codex。Agent 可直接完成图像与视频生成，无需额外串接 MCP 或外部服务。用户结合 Agent Sprite Forge 工具，利用 Grok Build 的视频生成能力，先产出 6 秒角色动作视频再反编译为 game sprite，大幅减少对齐问题，制作 2D 横版游戏耗时不到 30 分钟，而此前用 Codex 需 1-2 小时且品质更优。",
-      "category": "tip",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrema2b4022bihcleaow4j8v"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 28,
-      "editorialScore": 31,
-      "tags": [
-        "图像生成",
-        "视频生成",
-        "生图",
-        "workflow"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
     {
       "id": "cmrgiy78p01faih2epg676fdt",
       "title": "Ousia：为命令行AI工具Pi打造的极简macOS GUI客户端",
@@ -67,6 +39,34 @@
         "ui",
         "ux",
         "界面"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmriiv1w0009wbi0jh93om5tn",
+      "title": "Emil Kowalski 推出 /improve-animations 技能，用昂贵模型审计动效、廉价模型执行",
+      "title_en": "Skills For Design Engineers +1 这个交互设计和动画设计宝藏 Skills 库又添新成员： /improve-animations https://github.com...",
+      "url": "https://x.com/shao__meng/status/2076466672911970772",
+      "permalink": "https://aihot.virxact.com/items/cmriiv1w0009wbi0jh93om5tn",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-07-13T00:40:08.000Z",
+      "summary": "Emil Kowalski 为设计工程师推出新 Skills 库技能 `/improve-animations`。核心思路是用昂贵模型审计代码库动效并制定计划，再由廉价模型执行。技能包含五条硬规则（只读源码、计划自包含、防 prompt injection）和四阶段工作流（侦察、并行审计、复核排序、写计划）。审计覆盖八大类别，包括目的与频率、缓动与时长、物理感、可中断性、性能、无障碍、一致性与 token、错失的机会。计划模板为\"最弱执行者\"设计，要求精确到数值的终态代码。Fable 可用至 7 月 12 日。",
+      "category": "tip",
+      "score": 41,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmriiv1w0009wbi0jh93om5tn"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 21,
+      "editorialScore": 25,
+      "tags": [
+        "交互设计",
+        "design",
+        "设计",
+        "交互"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
@@ -450,32 +450,85 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmrelbpnl01eeihclzj34lwx3",
-      "title": "Arcads 让 Claude 变身广告间谍智能体",
-      "title_en": "Another serious example of AI replacing slow marketing workflow. Arcads is turning Claude into an A…",
-      "url": "https://x.com/rohanpaul_ai/status/2075470717622362571",
-      "permalink": "https://aihot.virxact.com/items/cmrelbpnl01eeihclzj34lwx3",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-07-10T06:42:34.000Z",
-      "summary": "Arcads 为 Claude 新增\"clone hook\"技能，使其成为 AdSpy 智能体。该智能体能扫描社交媒体频道，自动识别用户所在品类中已获成功的病毒式广告格式，在品牌盲目投放预算前发现有效创意。Claude 可调用 Arcads 技能，读取广告模式并转化为可用的创意方向，通过 Arcads MCP 实现广告克隆，替代缓慢的营销工作流。",
+      "id": "cmriflh6v00cgbinveg050l35",
+      "title": "HyperFrames /motion-graphics 动效自动生成",
+      "title_en": "这你受得了么？HyperFrames 特么天天更新一下😂 你只要说清楚想让观众感受到什么，动效就自己生产出来了。 HyperFrames的/motion-graphics不需要你指定任何转场、缓…",
+      "url": "https://x.com/berryxia/status/2076447188599910516",
+      "permalink": "https://aihot.virxact.com/items/cmriflh6v00cgbinveg050l35",
+      "source": "X：Berry Xia (@berryxia)",
+      "publishedAt": "2026-07-12T23:22:42.000Z",
+      "summary": "HyperFrames 的 /motion-graphics 功能实现动效自动生成。用户只需描述想让观众感受到什么，无需指定转场、缓动或效果。系统自动判断数据来源：真实数字从 npm 或 GitHub 拉取，品牌文件直接拆解 Figma 图层。支持趋势图随下载量动态生长、Logo sting 遵循品牌手册、事实卡依次落地、系列开场数字滑入滑出等场景。以前需用 After Effects 学曲线，现在一句提示即可完成。",
       "category": "tip",
-      "score": 54,
+      "score": 51,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrelbpnl01eeihclzj34lwx3"
+        "canonical": "https://aihot.virxact.com/items/cmriflh6v00cgbinveg050l35"
       },
       "sourceType": "X",
-      "designCategory": "行业观察",
-      "relevanceScore": 15,
-      "editorialScore": 15,
+      "designCategory": "设计工具",
+      "relevanceScore": 9,
+      "editorialScore": 14,
       "tags": [
-        "工作流",
-        "workflow",
-        "广告",
-        "创意"
+        "figma",
+        "品牌"
       ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmri8rhg7003ubimcrwiss447",
+      "title": "我喜欢大型语言模型，讨厌炒作",
+      "title_en": null,
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "permalink": "https://aihot.virxact.com/items/cmri8rhg7003ubimcrwiss447",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-12T20:14:25.500Z",
+      "summary": "作者自2007年起从事黑客工作，此后职业生涯一直投入AI，对LLM、自动驾驶、视频生成模型和编码智能体感到兴奋。上周在本地GLM-5.2上配置opencode，成功让Linux桌面实现\"安装tmux并加载geohot配置\"。作者反感两类炒作：一是渲染\"窗口关闭\"或\"落后\"的负面情绪，旨在让人自我怀疑并迁往旧金山；二是将AI从\"高级自动补全、智能编译器\"直接跳跃到\"统治一切\"的末日叙事。作者认为AI进步主要源于摩尔定律和计算发展，而非前沿实验室的独家创造，开源反对论的核心是对商品化的恐惧。编程正在改变，模型带来效率提升，但需警惕认知疲劳，vibe coded产物仍是\"slop\"。AI是计算机革命的延续。",
+      "category": "tip",
+      "score": 56,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmri8rhg7003ubimcrwiss447"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频",
+        "智能体"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmrhvwe6k00y7biidjabepmem",
+      "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+      "title_en": "Show HN： Mindwalk--在代码库的 3D 地图上重放编码代理会话",
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "permalink": "https://aihot.virxact.com/items/cmrhvwe6k00y7biidjabepmem",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-12T13:51:05.035Z",
+      "summary": "Mindwalk 是一款可视化工具，可将 Claude Code 和 Codex 的会话日志在代码库的 3D 地图上回放。它将仓库绘制成夜间地图，代理搜索、读取和编辑过的文件会发光，未触及区域保持黑暗，让用户一眼看清代理对任务的理解范围。单个 Go 二进制文件即可运行，所有会话数据完全本地处理，不会离开机器。支持树状图/地形图两种视图，文件触达状态分为未访问、已查看、已读取、已编辑四种颜色标记。播放界面包含错误率、文件修改量等摩擦信号面板，以及上下文压缩、子代理启动、用户交互等时间轴标记。支持键盘快捷键控制播放速度、跳转编辑点或错误点。",
+      "category": "ai-products",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrhvwe6k00y7biidjabepmem"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 10,
+      "editorialScore": 14,
+      "tags": [
+        "界面",
+        "交互",
+        "3d",
+        "codex"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmrghksjg012sih2e4lc1suwy",
@@ -638,85 +691,140 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmresvwns018kihm82bh1xby8",
-      "title": "商汤科技CEO徐立：AI正打破专业壁垒，赋能全层级用户",
-      "title_en": "The world belongs to all of us-and AI should too. Speaking at …",
-      "url": "https://x.com/SenseTime_AI/status/2075524431888384396",
-      "permalink": "https://aihot.virxact.com/items/cmresvwns018kihm82bh1xby8",
-      "source": "X：商汤 SenseTime (@SenseTime_AI)",
-      "publishedAt": "2026-07-10T10:16:00.000Z",
-      "summary": "商汤科技CEO徐立在LEAP East演讲中表示，AI正将专家级工具转变为赋能各层级用户的AI智能体，并延伸至物理世界，使机器人能理解、预测并在真实环境中行动。商汤的多模态智能体可将提示词转化为信息图，视频生成智能体将脚本转化为多集作品，世界模型驱动下一代物理AI。在沙特，商汤连接3万辆校车保障120万学生安全，为超3万名学生和2000名教师提供AI课程；AI访客洞察平台优化体育大道等目的地运营；AI方案已服务超7000万利雅得季游客，智能停车与人群管理平台预计未来一年再服务1000万游客。",
-      "category": "industry",
-      "score": 28,
+      "id": "cmrim18g700hybilkndod4rn7",
+      "title": "努比亚 AI 宠物机器人 iMoochi 定档 7 月 17 日上线",
+      "title_en": "努比亚 AI 宠物机器人 iMoochi 定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+      "url": "https://www.ithome.com/0/975/885.htm",
+      "permalink": "https://aihot.virxact.com/items/cmrim18g700hybilkndod4rn7",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-13T02:32:13.000Z",
+      "summary": "努比亚手机官微宣布，AI 陪伴宠物机器人 iMoochi 将于 7 月 17 日 10 点在中兴商城及各大电商平台上线。该产品是中兴通讯在 MWC26 上推出的情感陪伴 AI 宠物机器人，以萌系设计和拟生命体交互为核心，瞄准都市独居人群。iMoochi 支持触感反馈、个性养成（如打哈欠、感知饥饿冷暖）及专属\"iMoochi 语言\"，搭载紫光展锐 T8300 芯片，配备 5 处触摸感应与重力传感，支持声纹认主和记忆成长。配套 App 可管理设备、查看陪伴日记及情绪状态。产品提供 Hopami、Mimiu、Cynomi 等五款性格成员。",
+      "category": "ai-products",
+      "score": 44,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmresvwns018kihm82bh1xby8"
+        "canonical": "https://aihot.virxact.com/items/cmrim18g700hybilkndod4rn7"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "设计",
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmrihnv3v006hbi0w3vs4298i",
+      "title": "GPT-5.6 Sol 在 Design Arena 前端设计评测中登顶，Elo 达 1353",
+      "title_en": "GPT-5.6 Sol just took first place on Design Arena， reaching 1353 Elo in frontend design and above Cl…",
+      "url": "https://x.com/rohanpaul_ai/status/2076459760040448160",
+      "permalink": "https://aihot.virxact.com/items/cmrihnv3v006hbi0w3vs4298i",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-07-13T00:12:40.000Z",
+      "summary": "OpenAI 的 GPT-5.6 Sol 在 Design Arena 前端设计评测中取得 1353 Elo，排名第一，超越 Anthropic 的 Claude Fable 5，并与智谱 GLM 5.2 处于同一性能区间。相比 GPT-5.5，Elo 提升 60 分，排名跃升 18 位。Design Arena 要求模型根据提示词生成网页，无需智能体工具循环，由人类投票比较匿名输出并通过统计建模计算 Elo 分数。GPT-5.6 Sol 在检查渲染页面方面的能力提升是其设计质量改进的关键，同时速度优势显著，在同等性能水平下比竞品更快，建立了偏好与速度的新帕累托前沿。",
+      "category": "tip",
+      "score": 40,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrihnv3v006hbi0w3vs4298i"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
       "tags": [
-        "视频生成",
-        "视频",
+        "design",
+        "设计",
         "提示词",
         "智能体"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmreqpqtw05a5ihcljap5eksb",
-      "title": "PixVerse 与《足球小将》达成授权合作，首次将IP引入AI视频生成",
-      "title_en": "http://x.com/i/article/2075509861438095360",
-      "url": "https://x.com/PixVerse_/status/2075510541406044365",
-      "permalink": "https://aihot.virxact.com/items/cmreqpqtw05a5ihcljap5eksb",
-      "source": "X：PixVerse (@PixVerse_)",
-      "publishedAt": "2026-07-10T09:20:48.000Z",
-      "summary": "AI视频生成平台PixVerse宣布与经典足球漫画《足球小将》达成授权合作，首次将该IP引入AI视频生成。即日起至7月26日，用户可通过PixVerse的专属模板上传照片，生成包含大空翼、日向小次郎等角色的原创视频，重现虎射等经典场景。合作通过KAGAMI Gate授权基础设施实现，确保IP使用合规。PixVerse同步发起\"My Dream Goal\"创作挑战（6月18日-7月10日），提供现金及平台积分奖励。",
+      "id": "cmrihdw8100c3bijp6hkz0sf2",
+      "title": "GPT-5.6 Sol 登顶 Design Arena，Elo 1353 超越 Claude Fable 5",
+      "title_en": "big milestone！",
+      "url": "https://x.com/gdb/status/2076456801047024089",
+      "permalink": "https://aihot.virxact.com/items/cmrihdw8100c3bijp6hkz0sf2",
+      "source": "X：Greg Brockman (@gdb)",
+      "publishedAt": "2026-07-13T00:00:54.000Z",
+      "summary": "OpenAI 发布 GPT-5.6 Sol，在 Design Arena 前端设计评测中以 Elo 1353 分排名第一，超越 Anthropic 的 Claude Fable 5，并与智谱 GLM 5.2 处于同一性能区间。相比 GPT-5.5，该模型实现了 18 个名次和 60 分 Elo 的提升。GPT-5.6 Sol 还建立了偏好与速度的新帕累托前沿，在同性能模型中推理速度最快。",
       "category": "industry",
-      "score": 51,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmreqpqtw05a5ihcljap5eksb"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视频生成",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmregvvf5013sihgvlbswoby1",
-      "title": "蚂蚁集团 Robbyant 发布 LingBot-World-Infinity：开源因果世界模型",
-      "title_en": "Meet LingBot-World-Infinity： An Open Causal World Model With An Agentic Harness",
-      "url": "https://www.marktechpost.com/2026/07/09/meet-lingbot-world-infinity-an-open-causal-world-model-with-an-agentic-harness",
-      "permalink": "https://aihot.virxact.com/items/cmregvvf5013sihgvlbswoby1",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-07-10T04:38:20.000Z",
-      "summary": "蚂蚁集团具身智能团队 Robbyant 发布 LingBot-World-Infinity（LingBot-World 2.0），一个因果视频生成模型，可作为交互式世界模拟器运行。该模型通过 MoBA 注意力机制和 DMD 自 rollout 训练，解决长程漂移和交互延迟问题。模型采用因果分解架构，每帧仅依赖过去帧和当前动作输入。团队同时发布 14B 参数开源 checkpoint，采用 CC BY-NC-SA 4.0 许可。公开推理脚本在 8 张 GPU 上运行 480×832 分辨率；部署版流式输出可达 60 fps，经 TensorRT 引擎编译。",
-      "category": "ai-models",
       "score": 58,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmregvvf5013sihgvlbswoby1"
+        "canonical": "https://aihot.virxact.com/items/cmrihdw8100c3bijp6hkz0sf2"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "design",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmrihq4cv008abi0waj1nvjqb",
+      "title": "组织级Agent基础设施、模型评测IRT方法、AI辅助设计实践",
+      "title_en": "http://x.com/i/article/2076451125000286208",
+      "url": "https://x.com/hongming731/status/2076452304195395843",
+      "permalink": "https://aihot.virxact.com/items/cmrihq4cv008abi0waj1nvjqb",
+      "source": "X：洪明 (@hongming731)",
+      "publishedAt": "2026-07-12T23:43:02.000Z",
+      "summary": "本文围绕AI Agent的组织级应用、模型评测方法革新与AI辅助设计展开。Claude Platform探讨了构建组织级Agent基础设施的关键：Agent应拥有记忆、预算和身份边界，通过API或MCP server相互调用；结果定义需具体（包括预算、工具调用、人工交接点）。AI Engineer分享指出，传统基准测试压缩为单一准确率有误导性，应保留响应矩阵，运用项目反应理论（IRT）评估题目难度、区分度与模型能力theta。Y Combinator设计复盘展示了用Conductor、paper.design等工具协作，强调先写详细brief、提供截图与情绪板，再让编码Agent生成可调原型。",
+      "category": "tip",
+      "score": 38,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrihq4cv008abi0waj1nvjqb"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "原型",
+        "design",
+        "设计",
+        "agent"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmri8xpvj0080bimcnnkrro77",
+      "title": "循环工程指南：autoresearch 与 Bilevel Autoresearch 让 AI 智能体自主执行 ML 研究循环",
+      "title_en": "Guide to Loop Engineering： How 'autoresearch' and 'Bilevel Autoresearch' Turn AI Agents Into Autonomous Machine Learning ML Research Loops",
+      "url": "https://www.marktechpost.com/2026/07/12/guide-to-loop-engineering",
+      "permalink": "https://aihot.virxact.com/items/cmri8xpvj0080bimcnnkrro77",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-07-12T20:07:02.000Z",
+      "summary": "循环工程（Loop Engineering）是一种替代传统手动交互的 AI 使用模式，通过循环机制让 AI 智能体自主完成机器学习研究。该指南基于 Andrej Karpathy 的 autoresearch 代码库和 Bilevel Autoresearch 论文两个已验证成果，框架参考了 @0xCodila 的撰文。autoresearch 实现研究任务的自动迭代，Bilevel Autoresearch 则引入双层优化结构，使智能体能在更高层次上自主设计并执行研究循环，从而减少人工干预，提升 ML 研究的自动化程度。",
+      "category": "tip",
+      "score": 45,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmri8xpvj0080bimcnnkrro77"
       },
       "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
       "tags": [
-        "视频生成",
+        "设计",
         "交互",
-        "视频"
+        "自动化",
+        "智能体"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmrhpu8fg02i7bimnwblp6ida",
@@ -802,58 +910,31 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmreux2h500w0ih8ehq1x4c5m",
-      "title": "1X 发布 NEO 机器人手部：通往物理世界的 API",
-      "title_en": "An API to the Physical World 真的有点屌炸的，我给大家拆一下硬件，感受下多硬核： 22 个手部自由度加 3 个腕部自由度，总共 25 DoF，人的手大概是 27，基本追…",
-      "url": "https://x.com/AYi_AInotes/status/2075531623341212132",
-      "permalink": "https://aihot.virxact.com/items/cmreux2h500w0ih8ehq1x4c5m",
+      "id": "cmri0lo1e00irbixecx7cj2f5",
+      "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+      "title_en": "这个我看第一眼直接卧槽，效果有点炸裂， 腾讯这几个月到底发生了什么，前面组织架构调整，老登高管退位，年轻一代掌权的结果吗？ 兄弟们看这个，腾讯Hy3 把你摄像头直接调起来了， 手往镜头前一伸，整只手的…",
+      "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
+      "permalink": "https://aihot.virxact.com/items/cmri0lo1e00irbixecx7cj2f5",
       "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-07-10T10:44:35.000Z",
-      "summary": "1X 发布 NEO 机器人手部，拥有 22 个手部自由度加 3 个腕部自由度（共 25 DoF）。采用肌腱驱动加准直驱设计（齿比 5：1 到 15：1），外部冲击时可顺势卸力，适合家庭场景。感知层面配备全身关节本体感觉和高分辨率触觉皮肤，能测法向力、接触位置、剪切力并实时检测物体滑脱。设计哲学上，1X 将其定位为\"通往物理世界的 API\"--一个读写双向接口，每次抓取、按压、滑动都生成带标签的物理实验数据，为具身智能提供真实世界交互数据。",
-      "category": "tip",
-      "score": 53,
-      "selected": false,
+      "publishedAt": "2026-07-12T16:24:32.000Z",
+      "summary": "腾讯混元团队发布Hy3模型，采用295B总参数、21B激活参数的MoE架构，推理效率可打平参数规模2-5倍的旗舰模型。Hy3定位为Agent向LLM，从preview到正式版基于50多个真实业务反馈迭代，内部WorkBuddy任务成功率从72%提升至90%，耗时降低34%，幻觉和常识错误持续下降。实测显示其在coding、办公、复杂任务规划方面表现突出，纯视觉能力为短板。Hy3已集成至微信服务10亿+用户，视频演示包括生成HTML网页、Agent网页和10页PPT，模型具备自检和主动说明不足的能力。",
+      "category": "ai-models",
+      "score": 75,
+      "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmreux2h500w0ih8ehq1x4c5m"
+        "canonical": "https://aihot.virxact.com/items/cmri0lo1e00irbixecx7cj2f5"
       },
       "sourceType": "X",
-      "designCategory": "产品与体验",
+      "designCategory": "图像与视频",
       "relevanceScore": 9,
-      "editorialScore": 13,
+      "editorialScore": 12,
       "tags": [
-        "设计",
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmresrkmd010yihm8hphiasx6",
-      "title": "开源工具 Kaitox：一键将 Obsidian Markdown 推送为 X 长文草稿",
-      "title_en": "有没有人和我一样，在 Obsidian 里写 1 小时 X 长文，搬到 X Article 里调格式、传图片就要耗半小时？ 社群兄弟kaitox刚出炉的开源工具 Kaitox，直接把这个破痛点给干没了…",
-      "url": "https://x.com/AYi_AInotes/status/2075526570739978244",
-      "permalink": "https://aihot.virxact.com/items/cmresrkmd010yihm8hphiasx6",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-07-10T10:24:30.000Z",
-      "summary": "开源工具 Kaitox 解决 Obsidian 写 X 长文时格式调整与图片上传耗时痛点。它通过本地 relay + Chrome 插件架构，将本地 Markdown 一键推送为 X 长文草稿，标题、加粗、列表、分割线等格式原生保留，图片与封面自动处理，全程数据不出电脑，无需 API Key 或第三方服务器。支持 CLI 和 Skill 接口，可集成 Claude Code/Codex 等 Agent 工作流；提供 Obsidian 插件，支持笔记旁预览发布效果。MIT 协议开源，推送前自动做风格检查。",
-      "category": "ai-products",
-      "score": 64,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmresrkmd010yihm8hphiasx6"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 12,
-      "editorialScore": 13,
-      "tags": [
-        "工作流",
-        "codex",
-        "claude code",
+        "视觉",
+        "视频",
         "agent"
       ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmrhcwliu00fnbik5onbx5a15",
@@ -936,33 +1017,6 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmrex7mcv02oaih8ed1g0ptpz",
-      "title": "OpenAI 关停 Atlas 浏览器，功能并入 ChatGPT",
-      "title_en": "OpenAI kills its Atlas browser after just eight months and folds everything into ChatGPT",
-      "url": "https://the-decoder.com/openai-kills-its-atlas-browser-after-just-eight-months-and-folds-everything-into-chatgpt",
-      "permalink": "https://aihot.virxact.com/items/cmrex7mcv02oaih8ed1g0ptpz",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-10T12:19:21.000Z",
-      "summary": "OpenAI 在推出仅八个月后关停其 AI 浏览器 Atlas。Atlas 的功能将整合进更新后的 Chrome 扩展，用户可直接在 Chrome 侧边栏运行 ChatGPT。OpenAI 表示将吸收 Atlas 的开发经验与用户反馈。同时，新的桌面端\"Computer Use\"功能让 ChatGPT 在后台执行点击、输入、移动文件、跨应用与浏览器操作等任务，支持单次或周期性执行。Atlas 用户将收到切换通知。此举使 Atlas 加入 OpenAI 已放弃或未成功的产品名单，包括插件、应用、ChatGPT Agent 及 Sora 视频模型。",
-      "category": "industry",
-      "score": 57,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrex7mcv02oaih8ed1g0ptpz"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
-      "tags": [
-        "sora",
-        "视频",
-        "agent"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmrfqxag0029gihjl30n1bmab",
       "title": "AI 内存 V-Die 方案亮相：侧立放置 DRAM 吞吐 540 tokens/s，较 HBM4 高 82.43%",
       "title_en": null,
@@ -988,31 +1042,29 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cmrex5yev02jyih8e67pig55q",
-      "title": "NEvo：AI进化算法生成视频，最大化驱动目标脑区",
-      "title_en": "由人工智能生成的视频，旨在最大限度地刺激目标脑区",
-      "url": "https://nevo-project.epfl.ch/",
-      "permalink": "https://aihot.virxact.com/items/cmrex5yev02jyih8e67pig55q",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-10T12:15:35.260Z",
-      "summary": "NEvo通过AI进化算法生成视频，旨在最大化驱动目标脑区。该方法首先训练一个\"数字孪生\"编码模型，预测各视觉区域对任意视频的反应，然后自动搜索能最大化激活特定区域的视频。视频由\"基因\"（主题、光照、运动、情绪）描述，通过种群生成、评分、交叉和变异迭代优化。合成视频对每个区域的效果均优于手工制作或自然视频，且运动版本优于静态帧。沿外侧流从V1向aSTS滑动搜索，合成刺激从简单图案和运动逐渐转向人脸和社交互动，揭示了视觉选择性从动态到社会性的梯度变化。",
-      "category": "paper",
-      "score": 56,
-      "selected": false,
+      "id": "cmrijw1sy00j6bi0jshweyv4l",
+      "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/975/865.htm",
+      "permalink": "https://aihot.virxact.com/items/cmrijw1sy00j6bi0jshweyv4l",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-13T00:55:29.000Z",
+      "summary": "英伟达CEO黄仁勋在摩根士丹利路演中表示，公司季度营收即将逼近1000亿美元，且增长速度仍在加快。他否认下一代旗舰架构Rubin Ultra延期传闻，称其仍按计划于明年出货，当前机架设计调整仅为系统架构优化。一个此前主要依赖ASIC的前沿AI模型项目，如今英伟达GPU算力占比已接近50%，市场普遍指向Anthropic。英伟达预计本财年CPU业务收入约200亿美元，下一代Vera CPU将进军通用服务器市场。摩根士丹利维持英伟达\"增持\"评级，目标价288美元。",
+      "category": "industry",
+      "score": 77,
+      "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrex5yev02jyih8e67pig55q"
+        "canonical": "https://aihot.virxact.com/items/cmrijw1sy00j6bi0jshweyv4l"
       },
       "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
       "tags": [
-        "视觉",
-        "交互",
-        "视频"
+        "设计"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmrhmej3y01kibimnn79t6vcw",
@@ -1120,29 +1172,60 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmrejztxk00dbihclgh90b2vy",
-      "title": "美国 NHTSA 局长表态，暗示自动驾驶汽车强制标配方向盘规定将取消",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/975/002.htm",
-      "permalink": "https://aihot.virxact.com/items/cmrejztxk00dbihclgh90b2vy",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-10T05:54:21.000Z",
-      "summary": "美国国家公路交通安全管理局（NHTSA）局长乔纳森·莫里森周四接受采访时表示，支持自动驾驶技术创新，并考虑取消部分车辆配置的法律规定。他指出，如果汽车设计之初就不是由人类驾驶，继续要求配备人工操纵装置已无意义。目前优步、特斯拉等企业已开发自动驾驶出租车，部分产品本身不设驾驶位。莫里森强调，NHTSA 的职责是监管行业而非阻碍技术发展，但一切必须以正确、安全的方式推进。",
-      "category": "industry",
-      "score": 64,
+      "id": "cmril4x0v008ibilkgub3fjr9",
+      "title": "Flowith Matrix 推出\"0人OPC\"概念，AI模拟内容团队完成多平台发布",
+      "title_en": "可算有个内容创作Agent能解决我0人OPC的多平台同步烦恼了。",
+      "url": "https://mp.weixin.qq.com/s/pkSiqCnjNE8O1l33WuuUSg",
+      "permalink": "https://aihot.virxact.com/items/cmril4x0v008ibilkgub3fjr9",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-07-13T01:51:00.000Z",
+      "summary": "Flowith新产品Matrix提出\"0人OPC\"概念，让AI像内容团队一样完成从创意到多平台发布的完整流程。用户创建Workspace后，Matrix自动配置包含CEO Office、受众信号室等多个部门的Agent团队。Matrix支持主动模式，引入OKR追踪关键结果，可全自动完成内容制作分发，也可step by step模式逐项确认。实测中，Matrix能生成Switch2宣传短片和MUJI服装宣传片，并自动发布到YouTube和X，为每个平台定制化标题和文案。用户可通过3D办公室视图查看各部门实时工作状态，甚至打电话催促进度。",
+      "category": "ai-products",
+      "score": 59,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrejztxk00dbihclgh90b2vy"
+        "canonical": "https://aihot.virxact.com/items/cmril4x0v008ibilkgub3fjr9"
+      },
+      "sourceType": "公众号",
+      "designCategory": "行业观察",
+      "relevanceScore": 9,
+      "editorialScore": 9,
+      "tags": [
+        "创意",
+        "内容创作",
+        "3d",
+        "agent"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
+      "id": "cmrig9mkx0024bijp9pr04hss",
+      "title": "Ploy 将 AI 智能体默认模型从 Claude Opus 4.8 切换至 GPT-5.6 Sol",
+      "title_en": "将生产环境中的AI代理迁移至GPT-5.6：速度提升2.2倍，成本降低27%",
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "permalink": "https://aihot.virxact.com/items/cmrig9mkx0024bijp9pr04hss",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-12T23:41:11.951Z",
+      "summary": "Ploy 将其 AI 智能体默认模型从 Claude Opus 4.8 切换至 OpenAI 今晨发布的 GPT-5.6 Sol。在真实营销网站构建测试中，GPT-5.6 Sol 完成页面平均耗时 3 分 42 秒，较 Opus 4.8 的 8 分钟快 2.2 倍；每次构建成本从 3.06 美元降至 2.22 美元，降低 27%；输出 token 从 33.0K 降至 17.1K，视觉评分从 0.936 提升至 0.970。迁移过程发现，GPT-5.6 会为所有 25 个工具参数填充默认值，导致 52%-64% 的文件读取返回空结果；提示词指令和 OpenAI strict 模式均无法修复此行为。此外，评估框架中约三分之一的原始失败源于针对旧模型的假设，而非模型本身问题。",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrig9mkx0024bijp9pr04hss"
       },
       "sourceType": "网站",
-      "designCategory": "产品与体验",
+      "designCategory": "图像与视频",
       "relevanceScore": 6,
-      "editorialScore": 10,
+      "editorialScore": 9,
       "tags": [
-        "设计"
+        "视觉",
+        "提示词",
+        "营销",
+        "智能体"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmrhpmckr02epbimn9dctabx5",
@@ -1193,59 +1276,6 @@
         "工作流",
         "agent",
         "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmreeeqog000bihgvurbs0hr8",
-      "title": "OpenAI 发布 GPT 5.6 全家桶，Codex 改名 ChatGPT，新增 Work 与站点功能",
-      "title_en": "实测GPT5.6，分享三个超实用Prompt，跟Fable5分工合作",
-      "url": "https://mp.weixin.qq.com/s/AabBvPiRxmfhHBX3oztZ_w",
-      "permalink": "https://aihot.virxact.com/items/cmreeeqog000bihgvurbs0hr8",
-      "source": "公众号：卡尔的AI沃茨",
-      "publishedAt": "2026-07-10T03:47:00.000Z",
-      "summary": "OpenAI 发布 GPT 5.6 全家桶，将 Codex 更名为 ChatGPT，原 ChatGPT 改为 ChatGPT Classic，新增 ChatGPT Work 和站点功能。模型分三级：Sol（超大杯，上下文 372k）、Terra（大杯，性能接近 GPT-5.5，价格减半）、Luna（中杯轻量）。Sol 新增 max 与 ultra 推理档位，ultra 可调用多个子 Agent 并行处理。在 Cerebras 芯片加速下，Sol 推理速度达 750 tokens/s。OpenAI 计划跳过 5.x 直接发布 GPT-6，基于全新更大预训练底座。GPT-5.4 将于 7 月 23 日下线，Atla 浏览器改为插件形式。",
-      "category": "tip",
-      "score": 80,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmreeeqog000bihgvurbs0hr8"
-      },
-      "sourceType": "公众号",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "prompt",
-        "codex",
-        "agent"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmrecamtt021vihyyto7cj30q",
-      "title": "AI 改变了软件重写的经济模式",
-      "title_en": "人工智能改变了软件重写的经济模式",
-      "url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself",
-      "permalink": "https://aihot.virxact.com/items/cmrecamtt021vihyyto7cj30q",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-10T02:47:04.229Z",
-      "summary": "AI 模型在代码生成上的表现不仅取决于提示词，更取决于训练数据中的已有知识和提供的上下文（代码库）。流行技术栈因模型见过数百万公开示例而具备 AI 优势；专有语言、私有框架和不一致的代码模式则需在有限的上下文窗口中额外教导。两种工作流对比显示：代码库模式清晰一致时，模型能直接生成实现；反之则需先推断模式，消耗更多 token、提示词和成本，且输出质量更低。因此，软件重写不仅是技术栈现代化，更是围绕清晰一致的模式重建代码库以发挥 AI 优势的机会--否则花在让 AI 学习语言上的时间将成为竞争对手的优势。",
-      "category": "tip",
-      "score": 50,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrecamtt021vihyyto7cj30q"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "工作流",
-        "提示词"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -1326,59 +1356,6 @@
       "tags": [
         "提示词",
         "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmreqp5ys057vihclxfyqj2gx",
-      "title": "如何在不裁员的情况下缩减 token 预算",
-      "title_en": "How to shrink the token budget without shrinking the team",
-      "url": "https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team",
-      "permalink": "https://aihot.virxact.com/items/cmreqp5ys057vihclxfyqj2gx",
-      "source": "Artificial Intelligence News（RSS）",
-      "publishedAt": "2026-07-10T09:34:27.000Z",
-      "summary": "英伟达CEO黄仁勋在GTC 2026后的播客中表示，若年薪50万美元的工程师年度AI token消费低于其工资一半，他会\"非常警惕\"，并确认英伟达正迈向每年20亿美元的工程token账单。Gartner调查显示，约80%部署AI智能体后裁员的公司未改善回报。Uber去年12月为5000名工程师提供AI编码工具，到今年4月已耗尽全年AI预算。优化token预算的方法包括提示词缓存、路由到合适尺寸模型、批处理、RAG及提示词压缩。",
-      "category": "tip",
-      "score": 64,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmreqp5ys057vihclxfyqj2gx"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "提示词",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmreax6su01ozihyy4xtirms5",
-      "title": "Claude Code v2.1.206 发布",
-      "title_en": "v2.1.206",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.206",
-      "permalink": "https://aihot.virxact.com/items/cmreax6su01ozihyy4xtirms5",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "publishedAt": "2026-07-10T01:45:26.000Z",
-      "summary": "Claude Code v2.1.206 发布，主要更新包括：为 `/cd` 命令添加目录路径建议；新增 `/doctor` 检查以建议修剪 CLAUDE.md 文件中模型可从代码库推导的内容；`/commit-push-pr` 现在自动允许 git push 到仓库配置的推送远程仓库；`/login` 支持 Anthropic 运营的公共网关端点；后台智能体在更新后自动升级。修复了过期登录导致所有模型报错、`claude --resume` 和 `--continue` 在启动时无键盘响应、MCP 服务器忽略 `request_timeout_ms` 配置、OAuth MCP 服务器需手动重新认证、`/model` 选择器价格显示错误、桌面会话卡在\"运行中\"状态、Windows 上键盘输入被忽略等多项问题。",
-      "category": "ai-products",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmreax6su01ozihyy4xtirms5"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "claude code",
-        "智能体",
-        "mcp"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
