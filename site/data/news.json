@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-15T03:34:43.660Z",
-  "previousGeneratedAt": "2026-07-14T14:13:43.904Z",
+  "generatedAt": "2026-07-15T08:35:44.101Z",
+  "previousGeneratedAt": "2026-07-15T03:34:43.660Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 64,
+  "itemCount": 65,
   "sourceCounts": {
     "网站": 34,
     "X": 24,
-    "公众号": 6
+    "公众号": 7
   },
   "source": {
     "name": "AI HOT",
@@ -15,20 +15,20 @@
   },
   "items": [
     {
-      "id": "cmrkswubg00wabi5qrgj8jc2l",
-      "title": "小米发布Xiaomi-Robotics-U0：380亿参数多模态自回归模型统一具身合成",
-      "title_en": "Xiaomi-Robotics-U0： Unified Embodied Synthesis with World Foundation Model",
-      "url": "https://arxiv.org/abs/2607.11643",
-      "permalink": "https://aihot.virxact.com/items/cmrkswubg00wabi5qrgj8jc2l",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-13T14:57:58.000Z",
-      "summary": "小米推出Xiaomi-Robotics-U0，一个380亿参数的多模态自回归模型，用于统一具身合成。该模型将具身生成视为基础图像与视频生成的延伸，联合优化文生图、图像编辑、具身场景生成、具身迁移及具身视频生成。它是首个支持跨多种机器人形态的高质量多视角场景生成模型，并引入结构化可控具身迁移。该模型在单步与序列生成任务上达到SOTA，在具身场景生成与迁移的人类评估中超越GPT-Image-2.0，在World Arena具身视频生成排名第一，并将pi_0.5在真实世界操控任务上的分布外成功率从36.9%提升至63.2%。代码与检查点已开源。",
-      "category": "paper",
-      "score": 76,
-      "selected": true,
+      "id": "cmrlrukxp016sbih5djadhgv7",
+      "title": "小米开源 Xiaomi-Robotics-U0：380 亿参数多模态具身生成模型",
+      "title_en": "小米开源 Xiaomi-Robotics-U0：具身领域首个\"通吃\"四类任务的统一生成模型",
+      "url": "https://www.ithome.com/0/977/012.htm",
+      "permalink": "https://aihot.virxact.com/items/cmrlrukxp016sbih5djadhgv7",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-15T06:52:33.000Z",
+      "summary": "小米发布并开源 Xiaomi-Robotics-U0，一个 380 亿参数的多模态自回归具身生成基础模型，是具身领域首个\"通吃\"场景生成、具身迁移、机器人交互视频生成和通用文生图/图像编辑四类任务的统一模型。该模型在 WorldArena 评测基准上以匿名代号 UNIS 取得全球 126 个模型中的总分第一名，并通过 FlashAR+ 推理加速方案将生成效率提升近 83 倍。",
+      "category": "ai-models",
+      "score": 66,
+      "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrkswubg00wabi5qrgj8jc2l"
+        "canonical": "https://aihot.virxact.com/items/cmrlrukxp016sbih5djadhgv7"
       },
       "sourceType": "网站",
       "designCategory": "图像与视频",
@@ -38,7 +38,7 @@
         "文生图",
         "视频生成",
         "生图",
-        "视频"
+        "交互"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -95,6 +95,33 @@
         "sora",
         "视觉",
         "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmrlppdld00kcbih5myo5l9v3",
+      "title": "谷歌图片服务 25 周年，AI 概览新增 Nano Banana 生图功能",
+      "title_en": "谷歌图片服务上线 25 周年，AI 概览新增 Nano Banana 生图功能",
+      "url": "https://www.ithome.com/0/976/980.htm",
+      "permalink": "https://aihot.virxact.com/items/cmrlppdld00kcbih5myo5l9v3",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-15T06:26:45.000Z",
+      "summary": "谷歌庆祝图片服务上线 25 周年，在 AI 概览中新增图像生成功能，用户可直接调用最新的 Nano Banana 模型，将文本提示转化为原创的高质量自定义图像。该功能将在未来几周内陆续在英文版中推出，面向所有目前支持 AI 模式图像创建的地区。",
+      "category": "ai-products",
+      "score": 45,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrlppdld00kcbih5myo5l9v3"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 17,
+      "editorialScore": 20,
+      "tags": [
+        "图像生成",
+        "生图",
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -292,6 +319,32 @@
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
+      "id": "cmrlruelm0169bih5cuv84efz",
+      "title": "AI拉大设计爱好者与专业设计师差距",
+      "title_en": "有了 AI 之后，设计爱好者 与 专业设计师 之间的差距，被拉的反而比 普通人 与 专业设计师 之间的差距还要大，其实挺可怕的",
+      "url": "https://x.com/ZHO_ZHO_ZHO/status/2077285279883538890",
+      "permalink": "https://aihot.virxact.com/items/cmrlruelm0169bih5cuv84efz",
+      "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+      "publishedAt": "2026-07-15T06:52:59.000Z",
+      "summary": "ZHO指出，AI让设计爱好者与专业设计师之间的差距反而比普通人与专业设计师之间的差距更大。更强的模型会让专业者谦虚，而爱好者自大。",
+      "category": "tip",
+      "score": 53,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrlruelm0169bih5cuv84efz"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 11,
+      "editorialScore": 15,
+      "tags": [
+        "设计师",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "cmrkudlue01fabi5qy8q9j22g",
       "title": "Google Images 改版：类似 Pinterest 的动态画廊与 AI 图像生成",
       "title_en": "Google Images gets a Pinterest-like redesign focused on discovery",
@@ -397,6 +450,61 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmrlsvmmw01jkbih5t3ow17qk",
+      "title": "火山引擎发布 Seedance 2.5，AI 视频生成支持 30 秒直出与 50 份全模态素材输入",
+      "title_en": "这个夏天，Seedance 2.5带你和迈克尔·欧文一起追风！",
+      "url": "https://mp.weixin.qq.com/s/tSfAoa30uuwPsR7XhVA2VA",
+      "permalink": "https://aihot.virxact.com/items/cmrlsvmmw01jkbih5t3ow17qk",
+      "source": "公众号：火山引擎",
+      "publishedAt": "2026-07-15T08:04:37.000Z",
+      "summary": "Seedance 2.5 大幅提升多人运动场景下的人物一致性与动态表现，支持图片、音频、视频等全模态素材最高 50 份同时导入。模型新增二次编辑能力，可对已生成画面进行定向修改而无需整段重做；指令遵循支持时间戳精准响应，按秒对齐 Prompt 中的画面动作。Seedance 2.5 单段原生视频最长 30 秒，火山引擎将于近日上线其 API。",
+      "category": "ai-products",
+      "score": 53,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrlsvmmw01jkbih5t3ow17qk"
+      },
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频",
+        "prompt"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmrlpt5ze00o0bih5mtjcuusb",
+      "title": "开发者分享BaoCut开发Loop：AI模型分工协作",
+      "title_en": "我在开发 BaoCut 这个 App 的时候，是基于一个 Loop 来的： 1. 在开发新功能之前先设计原型（参考图1），借助的是 baoyu-design skill （https://githu...",
+      "url": "https://x.com/dotey/status/2077281462433223043",
+      "permalink": "https://aihot.virxact.com/items/cmrlpt5ze00o0bih5mtjcuusb",
+      "source": "X：宝玉 (@dotey)",
+      "publishedAt": "2026-07-15T06:37:49.000Z",
+      "summary": "开发者@dotey分享了BaoCut App的开发Loop：先用baoyu-design skill配合Claude Code设计原型（Opus 4.8设计能力优于GPT 5.6 Sol），再用Claude Code（Fable 5效果最好）将设计稿1：1还原为功能，最后用Codex及其CloudFlare Plugin发布更新。",
+      "category": "tip",
+      "score": 67,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrlpt5ze00o0bih5mtjcuusb"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 10,
+      "editorialScore": 14,
+      "tags": [
+        "原型",
+        "design",
+        "设计",
+        "codex"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmrkveit901o4bi5q7jho2u0k",
@@ -560,6 +668,34 @@
         "交互"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmrll6p8e0ca7bi2b4xbixi2n",
+      "title": "卡兹克分享Fable 5与GPT-5.6时代最佳AI开发流程",
+      "title_en": "http://x.com/i/article/2077244183124058112",
+      "url": "https://x.com/Khazix0918/status/2077249794377134531",
+      "permalink": "https://aihot.virxact.com/items/cmrll6p8e0ca7bi2b4xbixi2n",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "publishedAt": "2026-07-15T04:31:59.000Z",
+      "summary": "卡兹克每天Vibe Coding 16小时，总结出Claude Fable 5做方案初版、GPT-5.6 Sol纠错优化、Codex目标模式全自动化执行的最佳流程。他通过优化测试流程和CI（自建腾讯云服务器）实现Agent自动提测、修复、部署，最长目标模式运行17小时。他认为核心是\"哑铃形状\"：左边用最强模型出方案，右边靠严格测试和\"洁癖.skill\"保证代码、文档、记忆统一。",
+      "category": "tip",
+      "score": 65,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrll6p8e0ca7bi2b4xbixi2n"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 12,
+      "editorialScore": 13,
+      "tags": [
+        "vibe coding",
+        "自动化",
+        "codex",
+        "agent"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmrli8r4w0ayybi2bo6huafdm",
@@ -772,34 +908,6 @@
       "tags": [
         "design",
         "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmrjbrqwy01e4bi03snljd59h",
-      "title": "阶跃终端首款智能体手机 STEPX Neo 亮相，业内人士称系自主设计与魅族无关",
-      "title_en": "业内人士称阶跃终端首款智能体手机 STEPX Neo 属自主设计，与魅族\"没啥关系\"",
-      "url": "https://www.ithome.com/0/976/226.htm",
-      "permalink": "https://aihot.virxact.com/items/cmrjbrqwy01e4bi03snljd59h",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-13T14:26:21.000Z",
-      "summary": "阶跃终端品牌旗下首款智能体手机 STEPX Neo 正式亮相，机身背面配备交互副屏，搭载智能体原生系统 Step AOS。业内人士 @布鲁卡 澄清该机为阶跃自主设计，与魅族\"没啥关系\"。基于成本 BOM 估算，价格预计在 3.5K 以上。首批生态合作伙伴包括美团、WPS、剪映、携程、高德、支付宝、百度、滴滴、京东、微博、百度地图等。",
-      "category": "ai-products",
-      "score": 44,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrjbrqwy01e4bi03snljd59h"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "设计",
-        "交互",
-        "品牌",
-        "智能体"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
@@ -1150,6 +1258,57 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmrlk9trc0c2fbi2b7xjhy24n",
+      "title": "公众号GIF压缩Skill发布，支持10M限制",
+      "title_en": "写了个 Gif 压缩Skill，用于满足公众号插入需求。 公众号 GIF 大小限制为 10M，而且超过300 帧也不行。 尺寸建议：宽度控制在 640 像素左右，帧率控制在12 - 20 fps …",
+      "url": "https://x.com/vista8/status/2077242458627289494",
+      "permalink": "https://aihot.virxact.com/items/cmrlk9trc0c2fbi2b7xjhy24n",
+      "source": "X：Vista (@vista8)",
+      "publishedAt": "2026-07-15T04:02:50.000Z",
+      "summary": "Vista 发布了一个 GIF 压缩 Skill，专为满足公众号插入需求设计。该工具可处理公众号 10M 大小限制及 300 帧上限，建议宽度 640 像素、帧率 12-20 fps。安装指令为 `npx skills add joeseesun/qiaomu-tiny-gif`，开源代码与演示网站见评论区。",
+      "category": "tip",
+      "score": 73,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrlk9trc0c2fbi2b7xjhy24n"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计",
+        "skill"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmrlj9p000bqibi2b760rgikp",
+      "title": "阿里发布实时语音交互对话模型 Qwen-Audio-3.0-Realtime",
+      "title_en": "阿里发布实时语音交互对话模型 Qwen-Audio-3.0-Realtime，号称懂倾听、更聪明",
+      "url": "https://www.ithome.com/0/976/865.htm",
+      "permalink": "https://aihot.virxact.com/items/cmrlj9p000bqibi2b760rgikp",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-15T03:00:22.000Z",
+      "summary": "阿里巴巴今日发布实时语音交互对话模型 Qwen-Audio-3.0-Realtime，包含推理更强的 Plus 版本和速度更快的 Flash 版本。该模型在 S2S 语音指令遵循基准 VStyle 上取得 SOTA 效果，并在 Artificial Analysis 子项中综合排名第一，超越 OpenAI GPT-Realtime-2。",
+      "category": "ai-models",
+      "score": 62,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrlj9p000bqibi2b760rgikp"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "cmrlh3k0009h8bi2bwjpgkauw",
       "title": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
       "title_en": "Qwen-Audio-3.0-Realtime 如何让语音交互\"懂倾听，更聪明\"？",
@@ -1252,58 +1411,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmrkvjeln01s3bi5qolfl48lt",
-      "title": "360 AI 研究院 MoSA：让 AI 通过视频运动学习识别物体，无需人工标注",
-      "title_en": "AI should not just get bigger. It should also be more precise and easier to manage. What I see in t…",
-      "url": "https://x.com/rohanpaul_ai/status/2077064067102253536",
-      "permalink": "https://aihot.virxact.com/items/cmrkvjeln01s3bi5qolfl48lt",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-07-14T16:13:58.000Z",
-      "summary": "360 AI 研究院在 ECCV 2026 发表的 MoSA（Motion-Grounded Segment Anything）论文，提出让 AI 通过视频中物体的运动来学习识别，无需人工标注。该方法从约 10，000 小时无标签视频中自动生成了超过 2，100 万个伪标签，突破了 Meta 的 SAM 模型依赖数百万手工标注图像的限制。MoSA 属于该研究院 H1 2026 系列论文中\"精准感知、精准编辑、精准生成\"研究方向的一部分，旨在让 AI 的感知、编辑和生成能力更准确、可控且实用。",
-      "category": "paper",
-      "score": 36,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrkvjeln01s3bi5qolfl48lt"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrkta0yg011gbi5qybaprtfw",
-      "title": "Runway Agent 助你轻松创作电影短片",
-      "title_en": "Learn how to use Runway Agent to create your own cinematic short films， like Flicker. No big budgets…",
-      "url": "https://x.com/runwayml/status/2077051670316396744",
-      "permalink": "https://aihot.virxact.com/items/cmrkta0yg011gbi5qybaprtfw",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-07-14T15:24:42.000Z",
-      "summary": "了解如何使用 Runway Agent 创作你自己的电影短片，就像《Flicker》一样。无需大预算，无需工作室意见，只需一种简单的方式将你的想法带入现实。",
-      "category": "tip",
-      "score": 62,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrkta0yg011gbi5qybaprtfw"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "runway",
-        "agent"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmrkr5s8i007sbi5qhvw1fcj9",
       "title": "Spotify 为 Premium 用户推出类 ChatGPT 音乐助手",
       "title_en": "Spotify expands its AI push with a ChatGPT-like music assistant",
@@ -1355,56 +1462,6 @@
         "视频"
       ],
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmrka80uk054nbiw2lk9vr8qc",
-      "title": "OpenClaw v2026.7.1 发布：iOS 与 Android 应用同步更新",
-      "title_en": "We shipped！ iOS and Android apps also got updates and they look great. Had to bump Node to keep thi…",
-      "url": "https://x.com/steipete/status/2076917691139674373",
-      "permalink": "https://aihot.virxact.com/items/cmrka80uk054nbiw2lk9vr8qc",
-      "source": "X：Peter Steinberger (@steipete)",
-      "publishedAt": "2026-07-14T06:32:19.000Z",
-      "summary": "OpenClaw v2026.7.1 正式发布，该版本由 532 位贡献者提交了 3，063 项贡献。主要更新包括：Web UI 与新手引导全面翻新；iOS、Android 及 macOS 应用重大改进；新增 Telegram、Slack、Discord 和 iMessage 集成优化；支持 GPT-5.6、Muse Spark 1.1 等新模型。主推文补充，iOS 和 Android 应用也已同步更新，并提醒用户若自动更新失败，可运行 Web 安装程序手动升级。",
-      "category": "ai-products",
-      "score": 32,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrka80uk054nbiw2lk9vr8qc"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "ui"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmrk7o6k7049tbiw22oerq2yy",
-      "title": "OpenClaw v2026.7.1 发布，超3000项贡献",
-      "title_en": "OpenClaw v2026.7.1 is out， with 3，063 contributions from 532 contributors！ • Web UI and onboarding …",
-      "url": "https://x.com/openclaw/status/2076900503259414944",
-      "permalink": "https://aihot.virxact.com/items/cmrk7o6k7049tbiw22oerq2yy",
-      "source": "X：OpenClaw (@openclaw)",
-      "publishedAt": "2026-07-14T05:24:01.000Z",
-      "summary": "OpenClaw v2026.7.1 已发布，来自 532 位贡献者的 3，063 项贡献！\n\n• Web UI 和入门引导全面翻新\n• iOS、Android 和 MacOS 应用重大工作\n• Telegram、Slack、Discord 和 iMessage 改进\n• GPT-5.6、Muse Spark 1.1 等更多\n\nhttps://docs.openclaw.ai/releases/2026.7.1",
-      "category": "ai-products",
-      "score": 52,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrk7o6k7049tbiw22oerq2yy"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "ui"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmrk5t3is03uobiw29njsrdgp",
@@ -1535,33 +1592,6 @@
         "工作流",
         "视频",
         "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmrjdn1z901szbi03g8s8u50v",
-      "title": "安全研究人员用\"上下文炸弹\"防御AI智能体攻击",
-      "title_en": "Now， defenders are embracing the prompt injection， too",
-      "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too",
-      "permalink": "https://aihot.virxact.com/items/cmrjdn1z901szbi03g8s8u50v",
-      "source": "Ars Technica：AI（RSS）",
-      "publishedAt": "2026-07-13T15:06:34.000Z",
-      "summary": "安全研究人员提出\"上下文炸弹\"防御手段，通过向AI智能体上下文窗口注入大量无关信息，使其推理过载并主动关闭，从而阻止恶意攻击。该方法本质是用提示词注入技术防御，对基于LLM的黑客工具有效，但可能误伤合法智能体，且攻击者可优化提示词规避。",
-      "category": "tip",
-      "score": 51,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrjdn1z901szbi03g8s8u50v"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "提示词",
-        "prompt",
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
