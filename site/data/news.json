@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-15T08:35:44.101Z",
-  "previousGeneratedAt": "2026-07-15T03:34:43.660Z",
+  "generatedAt": "2026-07-15T14:09:23.406Z",
+  "previousGeneratedAt": "2026-07-15T08:35:44.101Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 65,
+  "itemCount": 59,
   "sourceCounts": {
-    "网站": 34,
+    "网站": 27,
     "X": 24,
-    "公众号": 7
+    "公众号": 8
   },
   "source": {
     "name": "AI HOT",
@@ -43,32 +43,32 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmrjme67900pbbis4crpvjm0j",
-      "title": "Google Gemini Omni Flash 登顶 Artificial Analysis 文生图与图生视频双榜",
-      "title_en": "Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Text to Video and Image to Video …",
-      "url": "https://x.com/ArtificialAnlys/status/2076747075036045645",
-      "permalink": "https://aihot.virxact.com/items/cmrjme67900pbbis4crpvjm0j",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "publishedAt": "2026-07-13T19:14:21.000Z",
-      "summary": "Google 在 I/O 大会发布的 Gemini Omni Flash 模型，在 Artificial Analysis 文生视频和图生视频双榜均位列第一，略超字节跳动 Seedance 2.0。该模型是 Gemini Omni 系列首款原生多模态模型，支持文本、图像、视频输入，可生成带原生音频的 3-10 秒 720p/24FPS 视频，并支持对话式编辑。定价 $0.10/秒（$6.00/分钟），与 Veo 3.1 Fast 持平。现已通过 Gemini API、Google AI Studio 等平台开放，YouTube Shorts 和 YouTube Create 应用可免费使用。",
+      "id": "cmrlxec8v0164bi5knljsyo7r",
+      "title": "MengTo 开源 75 个 AI 智能体技能包，含设计指令与工作流",
+      "title_en": "推荐 @MengTo 为设计师和开发者们开源的 Skills MengTo 是 @designcodeio 和 http://aura.build 创始人，在设计和开发结合方面有非常深的积累，他的分…",
+      "url": "https://x.com/shao__meng/status/2077335188666044426",
+      "permalink": "https://aihot.virxact.com/items/cmrlxec8v0164bi5knljsyo7r",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-07-15T10:11:18.000Z",
+      "summary": "设计师与开发者 MengTo 开源了包含 75 个 Skills 的项目，将设计指令、工作流和风格系统沉淀为可复用的 AI 智能体技能包。项目涵盖 10 个 Codex 工作流（如从参考视频一键生成 HTML）和 62 个网页设计技能，并提供\"design-first-ui-prompting\"方法论，通过固定 prompt 骨架和变体迭代提升输出质量。",
       "category": "tip",
-      "score": 57,
+      "score": 38,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrjme67900pbbis4crpvjm0j"
+        "canonical": "https://aihot.virxact.com/items/cmrlxec8v0164bi5knljsyo7r"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 27,
-      "editorialScore": 30,
+      "designCategory": "产品与体验",
+      "relevanceScore": 20,
+      "editorialScore": 24,
       "tags": [
-        "文生图",
-        "文生视频",
-        "生图",
-        "视频"
+        "设计师",
+        "ui",
+        "design",
+        "设计"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmrkks0w60063big5vvgrurpe",
@@ -97,6 +97,34 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmrm2hyb602jzbi5kcfm4c1ap",
+      "title": "Vibe Coding 前端设计灵感网站：组件与动效命名指南",
+      "title_en": "这个很棒啊！一个能帮你提升 Vibe Coding 前端交互设计水平的网站。 不知道名字，就不知道如何跟 AI 说实现什么样的效果。 网站整理了Web和App常见组件和动效名字。 还列网页设计风…",
+      "url": "https://x.com/vista8/status/2077372385788150184",
+      "permalink": "https://aihot.virxact.com/items/cmrm2hyb602jzbi5kcfm4c1ap",
+      "source": "X：Vista (@vista8)",
+      "publishedAt": "2026-07-15T12:39:07.000Z",
+      "summary": "一个整理 Web 和 App 常见组件、动效名称及网页设计风格（如 Liquid Glass、Neumorphism）的网站，帮助开发者准确向 AI 描述前端交互效果。该网站解决了\"不知道名字就无法让 AI 实现\"的痛点，地址在评论区。",
+      "category": "tip",
+      "score": 56,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrm2hyb602jzbi5kcfm4c1ap"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 17,
+      "editorialScore": 21,
+      "tags": [
+        "交互设计",
+        "设计",
+        "交互",
+        "vibe coding"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmrlppdld00kcbih5myo5l9v3",
@@ -264,33 +292,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmrjiyicc03bxbi03zros3h6a",
-      "title": "视频生成模型成为通用视觉学习者",
-      "title_en": "Video Generation Models are General-Purpose Vision Learners",
-      "url": "https://x.com/_akhaliq/status/2076727488168841609",
-      "permalink": "https://aihot.virxact.com/items/cmrjiyicc03bxbi03zros3h6a",
-      "source": "X：AK (@_akhaliq)",
-      "publishedAt": "2026-07-13T17:56:31.000Z",
-      "summary": "视频生成模型是通用视觉学习者",
-      "category": "paper",
-      "score": 26,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrjiyicc03bxbi03zros3h6a"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 15,
-      "editorialScore": 18,
-      "tags": [
-        "视频生成",
-        "视觉",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmrl5a4ib00bfbilmbn1mwnds",
       "title": "唱作人 sad alex 谈如何用 Suno 作为创意草稿本，在短内容中保持创作自主性",
       "title_en": "sad alex on songwriting， short-form， and creative autonomy By Jessi Liang， Head of Creator Success·Jul 14， 2026 sad alex reflects on internet-native songwriting， creative autonomy， and using Suno as a creative sketchpad. Spotlights",
@@ -424,32 +425,6 @@
         "codex"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmrjw1gyj011bbiw2epuuumva",
-      "title": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元",
-      "title_en": "Video generation startup PixVerse raises $439M， valuation soars past $2B",
-      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b",
-      "permalink": "https://aihot.virxact.com/items/cmrjw1gyj011bbiw2epuuumva",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-14T00:00:00.000Z",
-      "summary": "新加坡视频生成初创公司 PixVerse 完成 C 轮扩展融资，共筹集 4.39 亿美元，估值突破 20 亿美元。公司提供 V 系列（消费者及 API）、C 系列（专业影视）及今年初发布的 R 系列世界模型（游戏开发）。用户可生成最高 4k 分辨率并自带音频的视频，消费端注册用户超 1.5 亿，月活超 1500 万，图生视频每分钟 4.80 美元。本轮投资者包括阿里巴巴等。公司计划今年推出新 V 系列模型及新版世界模型，并全球拓展企业客户。",
-      "category": "industry",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrjw1gyj011bbiw2epuuumva"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "视频生成",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmrlsvmmw01jkbih5t3ow17qk",
@@ -642,32 +617,6 @@
         "智能体"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrjpd3i701ejbis4vl8dt9o0",
-      "title": "Siri AI 在 iOS 27 公测版中已开始改变 iPhone 使用方式",
-      "title_en": "Siri AI is already changing how I use my iPhone",
-      "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
-      "permalink": "https://aihot.virxact.com/items/cmrjpd3i701ejbis4vl8dt9o0",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-07-13T20:43:20.000Z",
-      "summary": "iOS 27 首个公开测试版今日发布。Siri AI 是本次更新的核心亮点，已在日常使用中显著改变 iPhone 交互方式。该版本被定位为 Snow Leopard 式更新，侧重系统修复与速度优化，包括应用启动、照片搜索和 AirDrop 传输提速。Messages 应用新增行内回复和 RCS 端到端加密支持，Liquid Glass 界面也得到进一步精炼。",
-      "category": "tip",
-      "score": 64,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrjpd3i701ejbis4vl8dt9o0"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 10,
-      "editorialScore": 14,
-      "tags": [
-        "界面",
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmrll6p8e0ca7bi2b4xbixi2n",
@@ -1046,31 +995,6 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmrjk8h94004sbis4jf1ahtqp",
-      "title": "苹果诉OpenAI窃取商业机密：指控涉及400多名前员工及\"LOL\"消息",
-      "title_en": "The wildest allegations in Apple's trade secrets lawsuit against OpenAI",
-      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai",
-      "permalink": "https://aihot.virxact.com/items/cmrjk8h94004sbis4jf1ahtqp",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-13T18:22:10.000Z",
-      "summary": "苹果在一份41页诉状中指控OpenAI系统性窃取其商业机密。诉状称，OpenAI前硬件主管Tang Yew Tan（曾在苹果任职24年）指示面试者携带苹果\"实际零件\"和\"原型机\"参加面试。苹果声称，一名前员工在发现可访问苹果网络存储后发消息称\"LOL，太搞笑了\"，并利用认证漏洞从同事电脑持续窃取数据。诉状透露，已有超过400名前苹果员工在OpenAI任职。",
-      "category": "industry",
-      "score": 81,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrjk8h94004sbis4jf1ahtqp"
-      },
-      "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 7,
-      "editorialScore": 12,
-      "tags": [
-        "原型"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
       "id": "cmrlg0ucc080qbi2bb8hn7nj3",
       "title": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
       "title_en": "开源TODO Skill，我这三年用AI做知识管理和代办的经验都在这了",
@@ -1153,109 +1077,31 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cmrjv1l1x00s7biw2hij031re",
-      "title": "蚂蚁集团旗下Robbyant发布LingBot-VA 2.0视频动作基础模型",
-      "title_en": "Most video-action robot models are a content-creation video generator with an action module attached…",
-      "url": "https://x.com/rohanpaul_ai/status/2076808536294887547",
-      "permalink": "https://aihot.virxact.com/items/cmrjv1l1x00s7biw2hij031re",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-07-13T23:18:34.000Z",
-      "summary": "蚂蚁集团旗下具身AI公司Robbyant发布LingBot-VA 2.0，这是一款从零训练的视频动作基础模型，专为机器人控制设计。模型采用稀疏MoE架构，约13B总参数，每token激活约1.9B参数。通过前瞻推理及系统加速，峰值异步执行频率达225Hz。高层视觉语言规划器分解长任务，底层视频动作策略处理连续运动。模型仅需10-15次演示即可适应，支持跨机器人本体迁移及零样本新任务。在RoboTwin 2.0基准上平均得分93.6，真实世界测试优于LingBot-VA和π0.5。",
-      "category": "ai-models",
-      "score": 52,
+      "id": "cmrlza6u401n0bi5kxjumprbu",
+      "title": "GPT 5.6 模型组合搭配曝光：Sol、Terra、Luna 分工明确",
+      "title_en": "著名 AI Newsletter 博主Ben分享GPT 5.6模型的组合搭配： 1 主要开发和创意工作：Sol medium 2 复杂任务：开 Ultra 用大量Subagent处理后台代理，可能是…",
+      "url": "https://x.com/vista8/status/2077347219619873217",
+      "permalink": "https://aihot.virxact.com/items/cmrlza6u401n0bi5kxjumprbu",
+      "source": "X：Vista (@vista8)",
+      "publishedAt": "2026-07-15T10:59:07.000Z",
+      "summary": "据 AI 博主 Ben 分享，GPT 5.6 系列包含三个模型：Sol medium 用于主要开发和创意工作，Ultra 模式配合大量 Subagent 处理复杂后台任务，Luna xhigh 负责日常对话。Sol 在 UI 和 Max 等级写作上表现较好；Terra 是 GPT 5.5 升级版，UI 和写作小幅提升且更易被提示词引导；Luna 在模糊提示词下表现较弱，需清晰任务定义。",
+      "category": "tip",
+      "score": 41,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrjv1l1x00s7biw2hij031re"
+        "canonical": "https://aihot.virxact.com/items/cmrlza6u401n0bi5kxjumprbu"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视觉",
-        "设计",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrjrg5aj0201bis4nwhgldt0",
-      "title": "三星强制用户同意健康数据用于AI训练，否则将删除数据",
-      "title_en": "如果您不允许三星将您的健康数据用于训练人工智能，三星将删除这些数据",
-      "url": "https://neow.in/cWsyMTV3",
-      "permalink": "https://aihot.virxact.com/items/cmrjrg5aj0201bis4nwhgldt0",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-13T21:50:30.967Z",
-      "summary": "三星在Samsung Health应用中新增\"同意将健康数据用于AI训练和建模\"开关，用户若关闭该选项将无法同步健康数据，且现有数据将被删除（除非法律要求保留）。三星计划收集睡眠、用药、医疗记录和周期追踪四类数据，用于改进机器学习算法以\"优化Samsung Health\"，并称部分数据可能由人工（包括员工和第三方承包商）审查。该更新正值Galaxy Watch 9和One UI 9 Watch即将发布，Samsung Health近期已进行生成式AI大改，新增Vitals（监测心率、心率变异性、呼吸率、皮肤温度、血氧）等AI功能。",
-      "category": "industry",
-      "score": 62,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrjrg5aj0201bis4nwhgldt0"
-      },
-      "sourceType": "网站",
       "designCategory": "产品与体验",
-      "relevanceScore": 7,
-      "editorialScore": 11,
+      "relevanceScore": 6,
+      "editorialScore": 10,
       "tags": [
-        "ui"
+        "ui",
+        "创意",
+        "提示词"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmrjqp0ai01thbis4i235n3c9",
-      "title": "Muse Spark 1.1 在 AA-Briefcase 基准测试中获 863 分，与 Gemini 3.5 Flash 持平",
-      "title_en": "Muse Spark 1.1 scores 863 on our agentic knowledge work benchmark AA-Briefcase， matching Gemini 3.5 …",
-      "url": "https://x.com/ArtificialAnlys/status/2076779734810382764",
-      "permalink": "https://aihot.virxact.com/items/cmrjqp0ai01thbis4i235n3c9",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "publishedAt": "2026-07-13T21:24:08.000Z",
-      "summary": "Artificial Analysis 发布新基准 AA-Briefcase，测试模型在数千个输入文件上的真实任务（电子表格、演示文稿、UI 原型）。Meta 的 Muse Spark 1.1 取得 863 分，与 Gemini 3.5 Flash 和 NVIDIA Nemotron 3 Ultra 持平，较前代提升 232 分。其 rubric 通过率 34.5%，超过 GPT-5.5 （xhigh），略低于 GLM 5.2 （max）。但演示质量是短板：Presentation Elo 仅 432，较前代下降 67 分，低于 Mistral Medium 3.5。",
-      "category": "tip",
-      "score": 52,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrjqp0ai01thbis4i235n3c9"
-      },
-      "sourceType": "X",
-      "designCategory": "设计工具",
-      "relevanceScore": 6,
-      "editorialScore": 11,
-      "tags": [
-        "原型",
-        "ui"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "cmrl7y6vh019obi7hvc6ue1dr",
-      "title": "证据回溯视频问答（E-VQA）：为Video LLM建立像素级定位基准",
-      "title_en": "Evidence-Backed Video Question Answering",
-      "url": "https://arxiv.org/abs/2607.11862",
-      "permalink": "https://aihot.virxact.com/items/cmrl7y6vh019obi7hvc6ue1dr",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-13T17:49:10.000Z",
-      "summary": "当前Video LLM在问答上表现优异，但缺乏可验证的视觉依据。现有可解释性方法依赖文本理由或稀疏边界框，难以处理遮挡与非刚性形变。研究者提出证据回溯视频问答（E-VQA）任务，要求模型同时输出语义答案与精确的时空证据--时间片段及密集、可跟踪的对象分割掩码序列。配套发布首个经人工验证的像素级定位基准ST-Evidence，覆盖判别与生成两类任务。评估显示，SOTA模型的问答准确率与真实视觉感知存在严重脱节，且单纯扩大规模无法弥合。团队构建自动化生成管线，产出16万规模的ST-Evidence-Instruct数据集，用于微调具备细粒度定位能力的Video LLM。在7B参数模型上，该方法相比同尺寸UniPixel基线取得显著提升（t-mean +27.2，J&F +13.8）。代码与数据已开源。",
-      "category": "paper",
-      "score": 49,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrl7y6vh019obi7hvc6ue1dr"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视觉",
-        "视频",
-        "自动化"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmrlk9trc0c2fbi2b7xjhy24n",
@@ -1411,6 +1257,32 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmrkvjeln01s3bi5qolfl48lt",
+      "title": "360 AI 研究院 MoSA：让 AI 通过视频运动学习识别物体，无需人工标注",
+      "title_en": "AI should not just get bigger. It should also be more precise and easier to manage. What I see in t…",
+      "url": "https://x.com/rohanpaul_ai/status/2077064067102253536",
+      "permalink": "https://aihot.virxact.com/items/cmrkvjeln01s3bi5qolfl48lt",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-07-14T16:13:58.000Z",
+      "summary": "360 AI 研究院在 ECCV 2026 发表的 MoSA（Motion-Grounded Segment Anything）论文，提出让 AI 通过视频中物体的运动来学习识别，无需人工标注。该方法从约 10，000 小时无标签视频中自动生成了超过 2，100 万个伪标签，突破了 Meta 的 SAM 模型依赖数百万手工标注图像的限制。MoSA 属于该研究院 H1 2026 系列论文中\"精准感知、精准编辑、精准生成\"研究方向的一部分，旨在让 AI 的感知、编辑和生成能力更准确、可控且实用。",
+      "category": "paper",
+      "score": 36,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrkvjeln01s3bi5qolfl48lt"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmrkr5s8i007sbi5qhvw1fcj9",
       "title": "Spotify 为 Premium 用户推出类 ChatGPT 音乐助手",
       "title_en": "Spotify expands its AI push with a ChatGPT-like music assistant",
@@ -1490,29 +1362,29 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmrjqdk5901oebis4mr1o3jgf",
-      "title": "无需打开 Xcode 即可构建和发布 Mac 及 iOS 应用",
-      "title_en": null,
-      "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode",
-      "permalink": "https://aihot.virxact.com/items/cmrjqdk5901oebis4mr1o3jgf",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-13T21:04:25.528Z",
-      "summary": "通过 XcodeGen 和命令行工具，开发者可在不打开 Xcode 图形界面的情况下完成 Mac 和 iOS 应用的构建、签名、公证与分发。Xcode.app 必须安装，但只需一次性通过 GUI 完成 Apple ID 登录、创建 Developer ID Application 证书、存储公证密码。之后所有操作通过脚本执行：xcodebuild 归档、Developer ID 签名、notarytool 公证、stapler 钉选、安装到 /Applications。XcodeGen 用 project.yml 自动生成 .xcodeproj，避免 Git 冲突。签名密钥存储在登录钥匙串中，无需在仓库中保存密钥。",
-      "category": "tip",
-      "score": 60,
+      "id": "cmrlvdotd00imbi5kz9gv1m4m",
+      "title": "北京亦庄联合京东云上线全国首个\"模型券\"即时补贴平台",
+      "title_en": "全国首个\"模型券\"即时补贴平台上线京东云",
+      "url": "https://mp.weixin.qq.com/s/t4FgmtkqkyUxhvvB-0SDKQ",
+      "permalink": "https://aihot.virxact.com/items/cmrlvdotd00imbi5kz9gv1m4m",
+      "source": "公众号：京东JoyAI",
+      "publishedAt": "2026-07-15T09:12:19.000Z",
+      "summary": "北京经济技术开发区（北京亦庄）联合京东科技集团上线全国首个\"模型券\"即时补贴平台，企业购买模型服务时可在京东云优惠价基础上叠加最高65%的即时补贴。平台支持多模型调用，企业完成线上实名认证、资质审核、选购券包、下单抵扣四步即可使用，券包内包含爱诗PixVerse、MiniMax海螺、Vidu、可灵等多款商用模型。未来算力券补贴功能也将上线，形成\"模型+算力\"双券联动。",
+      "category": "ai-products",
+      "score": 42,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrjqdk5901oebis4mr1o3jgf"
+        "canonical": "https://aihot.virxact.com/items/cmrlvdotd00imbi5kz9gv1m4m"
       },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
       "relevanceScore": 6,
-      "editorialScore": 10,
+      "editorialScore": 9,
       "tags": [
-        "界面"
+        "可灵"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmrl2m4yg00awbicqo2arojvd",
@@ -1569,34 +1441,6 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmrjk7jcj004ibis4lbagqu67",
-      "title": "构建VideoAgent风格多智能体系统：视频编辑任务的意图解析、图规划与工具路由",
-      "title_en": "Building a VideoAgent-Style Multi-Agent System： Intent Parsing， Graph Planning， and Tool Routing for Video Editing Tasks",
-      "url": "https://www.marktechpost.com/2026/07/13/building-a-videoagent-style-multi-agent-system-intent-parsing-graph-planning-and-tool-routing-for-video-editing-tasks",
-      "permalink": "https://aihot.virxact.com/items/cmrjk7jcj004ibis4lbagqu67",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-07-13T18:30:30.000Z",
-      "summary": "该教程构建了一个可运行的VideoAgent工作流，专注于视频理解、检索、编辑和重制的核心智能体管线。系统包含意图解析器、智能体库、工具路由器、图规划器以及用于修复执行图中缺失依赖的文本梯度优化器，并集成了FFmpeg、基于Whisper的转录、场景检测、关键帧采样、字幕生成、跨模态索引与检索、修剪、节拍同步编辑及最终渲染等实际视频处理工具。最终形成一个完整的多智能体视频系统，能够回答视频相关问题、总结内容、生成新闻式概览，并根据自然语言指令产出编辑后的视频成品。系统支持OpenAI、DeepSeek、Anthropic和Gemini等多种LLM后端，并在无API密钥时安全回退至确定性执行。",
-      "category": "tip",
-      "score": 67,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrjk7jcj004ibis4lbagqu67"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "工作流",
-        "视频",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
       "id": "cmrkc8ors00h9bizsgk0dao3r",
       "title": "报告称 Claude Code 处理用户请求前消耗 Tokens 量约为 OpenCode 的 4.7 倍",
       "title_en": null,
@@ -1624,28 +1468,28 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmrjj6scy03ghbi03olyygged",
-      "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
-      "title_en": "OpenAI's new prompting guide tells users to stop overthinking and start with the result",
-      "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
-      "permalink": "https://aihot.virxact.com/items/cmrjj6scy03ghbi03olyygged",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-13T17:47:39.000Z",
-      "summary": "OpenAI 整合了一份面向普通用户的提示词指南，涵盖目标、上下文、输出格式和边界四个可选模块。指南建议以结果而非步骤开头，用一两条硬性规则替代逐步骤脚本。Chat 处理快速任务，基于 Codex 技术和 GPT-5.6 模型的 ChatGPT Work 负责多源、多步骤的复杂项目。Codex 新增 Steer（重定向当前运行）、Queue（排队下一条消息）和沙盒模式，支持 `/plan`、`/goal` 和 `/review` 等斜杠命令。用户无需一次性写对提示词，后续追问是预期调整方式。",
-      "category": "tip",
-      "score": 78,
+      "id": "cmrltzprt0014bi5k7mp2uwpy",
+      "title": "金山办公推出 WPS Comate AI 办公客户端",
+      "title_en": "金山办公推出 WPS Comate AI 办公客户端，支持 Skill 技能生态、自动化任务、Wiki 知识库等",
+      "url": "https://www.ithome.com/0/977/105.htm",
+      "permalink": "https://aihot.virxact.com/items/cmrltzprt0014bi5k7mp2uwpy",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-15T08:39:58.000Z",
+      "summary": "金山办公在2026 AI生产力大会上推出面向员工的AI办公客户端WPS Comate，可连接组织数据与流程。该产品提供AI岗位专家、Skill技能生态、自动化任务等六大模块，并支持云端与本地双任务模式，个人用户可直接下载体验。",
+      "category": "ai-products",
+      "score": 70,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrjj6scy03ghbi03olyygged"
+        "canonical": "https://aihot.virxact.com/items/cmrltzprt0014bi5k7mp2uwpy"
       },
       "sourceType": "网站",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
+      "relevanceScore": 6,
+      "editorialScore": 7,
       "tags": [
-        "提示词",
-        "codex"
+        "自动化",
+        "skill"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -1730,30 +1574,31 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmrjplofx01ivbis4fhpabr9i",
-      "title": "微软CEO纳德拉警告企业使用专有AI模型会泄露专有知识",
-      "title_en": "Satya Nadella has issued a shocking warning to companies using AI",
-      "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai",
-      "permalink": "https://aihot.virxact.com/items/cmrjplofx01ivbis4fhpabr9i",
+      "id": "cmrm4l2w20346bi5kuo06yrxc",
+      "title": "Reelful 利用 AI 将相册内容自动剪辑成短视频",
+      "title_en": "Reelful's AI turns your camera roll into short-form videos for social media",
+      "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media",
+      "permalink": "https://aihot.virxact.com/items/cmrm4l2w20346bi5kuo06yrxc",
       "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-13T20:59:00.000Z",
-      "summary": "微软CEO萨提亚·纳德拉在博客中警告，企业使用OpenAI、Anthropic等专有AI模型时，不仅支付了token费用，还无意中交出了更宝贵的专有知识。他认为，模型通过用户的提示词、智能体工具使用及纠错反馈进行学习，这些\"废气\"数据提炼出的机构知识是竞争对手无法买到的。纳德拉批评模型厂商一方面自由抓取互联网数据训练，另一方面却限制企业对模型进行\"知识蒸馏\"。他建议企业保留对提示词、反馈等数据的所有权，在云端构建专有学习环境，并采用\"编排层\"工具在不同AI模型间灵活切换，避免被单一厂商锁定。",
-      "category": "tip",
-      "score": 66,
+      "publishedAt": "2026-07-15T13:00:00.000Z",
+      "summary": "前 Snapchat 工程师 Kate Deyneka 推出 iOS 应用 Reelful，用户输入提示词并录制 30 秒语音样本后，AI 即可自动规划脚本、添加配音和特效，将照片和视频剪辑成适配 TikTok 的短视频。该应用提供一次性购买（5 个视频 15 美元起）和订阅计划（Creator 月费 25 美元含 10 个视频）。",
+      "category": "ai-products",
+      "score": 61,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrjplofx01ivbis4fhpabr9i"
+        "canonical": "https://aihot.virxact.com/items/cmrm4l2w20346bi5kuo06yrxc"
       },
       "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
+      "designCategory": "行业观察",
       "relevanceScore": 6,
-      "editorialScore": 7,
+      "editorialScore": 6,
       "tags": [
-        "提示词",
-        "智能体"
+        "creator",
+        "视频",
+        "提示词"
       ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     }
   ]
 }
