@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-16T08:34:16.937Z",
-  "previousGeneratedAt": "2026-07-16T03:37:24.226Z",
+  "generatedAt": "2026-07-16T14:22:54.737Z",
+  "previousGeneratedAt": "2026-07-16T08:34:16.937Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 52,
+  "itemCount": 51,
   "sourceCounts": {
-    "网站": 20,
+    "网站": 17,
     "X": 24,
-    "公众号": 8
+    "公众号": 10
   },
   "source": {
     "name": "AI HOT",
@@ -39,34 +39,6 @@
         "视频生成",
         "生图",
         "交互"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrmcxk5n043ebivc1jdh5ejg",
-      "title": "仅需一层适配层：将预训练视觉编码器用于扩散模型图像生成",
-      "title_en": "One Layer Is Enough： Adapting Pretrained Visual Encoders for Image Generation",
-      "url": "https://machinelearning.apple.com/research/adapting-pretrained-visual-encoders",
-      "permalink": "https://aihot.virxact.com/items/cmrmcxk5n043ebivc1jdh5ejg",
-      "source": "Apple Machine Learning Research（RSS）",
-      "publishedAt": "2026-07-15T00:00:00.000Z",
-      "summary": "Apple 研究提出在预训练视觉编码器后添加一个轻量级适配层，即可直接用于扩散模型图像生成，无需重新训练整个编码器。该方法在 ImageNet 无条件生成任务上达到 1 FID，性能与专用编码器相当，且大幅降低计算成本。",
-      "category": "paper",
-      "score": 36,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrmcxk5n043ebivc1jdh5ejg"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 22,
-      "editorialScore": 25,
-      "tags": [
-        "图像生成",
-        "image generation",
-        "视觉",
-        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -264,6 +236,33 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmrnhsgjs0047bii5nu3it2qc",
+      "title": "一家字体设计工作室声明：我们在任何设计或生产流程中都不使用人工智能",
+      "title_en": "我们在任何设计或生产流程中都不使用人工智能",
+      "url": "https://mass-driver.com/article/from-human-hands",
+      "permalink": "https://aihot.virxact.com/items/cmrnhsgjs0047bii5nu3it2qc",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-16T12:24:30.045Z",
+      "summary": "一家字体设计工作室宣布其所有设计及生产流程均不使用AI。文章以字母\"A\"的演化史为例，指出AI工具（如Midjourney、ChatGPT）无法复现人类在书写中因手腕不适而发明衬线等创新过程，并认为依赖有限训练数据的AI会固化视觉文化、阻碍未被充分代表的语言与字体发展。该工作室坚持所有作品均出自人手工制作。",
+      "category": "tip",
+      "score": 43,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrnhsgjs0047bii5nu3it2qc"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 13,
+      "editorialScore": 16,
+      "tags": [
+        "midjourney",
+        "视觉",
+        "设计"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmrmlf6ou04vrbiult38moqmt",
       "title": "阶跃星辰 StepFun 3.7 Flash 上线 P0 平台",
       "title_en": "We're excited to partner with @P0Systems to bring StepFun 3.7 Flash to more developers. Experience …",
@@ -289,6 +288,32 @@
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmrnbnnta010lbic6mqzo6ajp",
+      "title": "AI时代门槛降低反拉大专业差距",
+      "title_en": "AI 时代，垃圾丛生，让我意识到 门槛 的正向保护作用",
+      "url": "https://x.com/ZHO_ZHO_ZHO/status/2077677478819361047",
+      "permalink": "https://aihot.virxact.com/items/cmrnbnnta010lbic6mqzo6ajp",
+      "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+      "publishedAt": "2026-07-16T08:51:26.000Z",
+      "summary": "有观点认为，AI 时代\"垃圾丛生\"，让人意识到门槛的正向保护作用。引用推文指出，AI 反而拉大了设计爱好者与专业设计师之间的差距，且这一差距比普通人与专业设计师之间的差距更大。",
+      "category": "tip",
+      "score": 43,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrnbnnta010lbic6mqzo6ajp"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 11,
+      "editorialScore": 15,
+      "tags": [
+        "设计师",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmrn144dj04xwbije2rsi17al",
@@ -343,6 +368,33 @@
         "设计"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmrnhlxy70004bii5a7n2jfrs",
+      "title": "生数科技入选工信部2025年人工智能应用典型案例",
+      "title_en": null,
+      "url": "https://mp.weixin.qq.com/s/DUg4enEao_ltbEsy9zX5iA",
+      "permalink": "https://aihot.virxact.com/items/cmrnhlxy70004bii5a7n2jfrs",
+      "source": "公众号：生数科技（Vidu·视频）",
+      "publishedAt": "2026-07-16T12:01:17.000Z",
+      "summary": "生数科技申报的\"国产化高性能多模态通用大模型创新应用\"入选工信部《2025年人工智能应用典型案例名单》技术底座方向。在数字世界，Vidu支持文生视频、图生视频、参考生视频，实时交互模型Vidu S1实现数字角色实时交互；在物理世界，Motubrain打造具身智能通用大脑。",
+      "category": "industry",
+      "score": 50,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrnhlxy70004bii5a7n2jfrs"
+      },
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "文生视频",
+        "交互",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmrn7v3jo07iebijerzdnyt9l",
@@ -510,6 +562,60 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmrndi33g01lobic60oq7ok2m",
+      "title": "19世纪《博物学家图书馆》1300幅精美插画经AI修复后上线",
+      "title_en": "19世纪的1，300幅精美野生动物插画现已修复",
+      "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
+      "permalink": "https://aihot.virxact.com/items/cmrndi33g01lobic60oq7ok2m",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-16T10:16:22.596Z",
+      "summary": "设计师Nicholas Rougeux完成了对19世纪《博物学家图书馆》40余卷、1300余幅彩色插画的修复与数字化，并免费上线。修复过程中使用了AI工具来挖掘资料来源、填补视觉空白以及构思封面方案。用户可在线浏览全部内容，也可购买精装实体版（$295.11）或主题海报。",
+      "category": "tip",
+      "score": 7,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrndi33g01lobic60oq7ok2m"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 10,
+      "editorialScore": 13,
+      "tags": [
+        "海报",
+        "设计师",
+        "视觉",
+        "设计"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmrna42a800idbic63zqubt98",
+      "title": "生数科技 WAIC 展区开放，可现场体验 Vidu S1 实时互动与 AI 视频生成",
+      "title_en": "生数科技 WAIC 展区，等你来体验！",
+      "url": "https://mp.weixin.qq.com/s/o7ZBULUpNsiCyj8AtHD_qQ",
+      "permalink": "https://aihot.virxact.com/items/cmrna42a800idbic63zqubt98",
+      "source": "公众号：生数科技（Vidu·视频）",
+      "publishedAt": "2026-07-16T08:59:33.000Z",
+      "summary": "生数科技在 WAIC 展区（上海西岸国际会展中心 X1B-301，7 月 17 日-20 日）开放三项互动活动。参与者可现场体验 Vidu S1 与 AI 角色实时互动，或扫码注册 Vidu 账号完成视频生成并发布至社交平台，领取限量礼品。",
+      "category": "industry",
+      "score": 17,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrna42a800idbic63zqubt98"
+      },
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
+      "relevanceScore": 10,
+      "editorialScore": 13,
+      "tags": [
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmrm6xh6v03s5bi5kroyjcpzj",
       "title": "前端设计术语网站助你精准描述Vibe Coding需求",
       "title_en": "必须收入囊中，前段设计必须Mark！",
@@ -621,58 +727,6 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmrlezc5406ljbi2bpaghwxxs",
-      "title": "Canva Code 2.0 上线：代码生成提速 75%，从提示到发布提速 30%",
-      "title_en": "AI 网页开发平台 Canva Code 2.0 上线：代码生成提速 75%，从提示到发布提速 30%",
-      "url": "https://www.ithome.com/0/976/803.htm",
-      "permalink": "https://aihot.virxact.com/items/cmrlezc5406ljbi2bpaghwxxs",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-15T01:03:34.000Z",
-      "summary": "Canva 发布 Canva Code 2.0，一款 AI 氛围编程平台，让不懂代码的用户通过聊天交互直接制作互动网页和小游戏。新版本新增超过 50 个模板，支持 HTML 导入和实时协作，代码生成速度提升 75%，从提示到发布速度提升 30%。",
-      "category": "ai-products",
-      "score": 53,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrlezc5406ljbi2bpaghwxxs"
-      },
-      "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 8,
-      "editorialScore": 13,
-      "tags": [
-        "canva",
-        "交互"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "cmrlaooou014cbi2b8sspnn9z",
-      "title": "ChatGPT 可直接生成并部署完整网页 App",
-      "title_en": "ChatGPT现在能直接把你说的话变成一个能上线的完整网页App。 你描述想要什么功能，它就从头到尾把前端、逻辑、交互全写好，还能让你继续迭代修改，最后直接部署上线。 整个过程就在聊天界面里完成，…",
-      "url": "https://x.com/berryxia/status/2077174836342951963",
-      "permalink": "https://aihot.virxact.com/items/cmrlaooou014cbi2b8sspnn9z",
-      "source": "X：Berry Xia (@berryxia)",
-      "publishedAt": "2026-07-14T23:34:07.000Z",
-      "summary": "ChatGPT 现在支持将用户语音描述直接转化为可上线的完整网页 App，自动完成前端、逻辑与交互开发，并允许后续迭代修改。整个过程在聊天界面内完成，无需切换工具或手动部署，大幅缩短了从\"想法\"到\"可用产品\"的距离。",
-      "category": "ai-products",
-      "score": 49,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrlaooou014cbi2b8sspnn9z"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "界面",
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmrmagrda098hbif7gyisgven",
       "title": "OpenAI 推出 kbd-1.0-codex-micro 键盘",
       "title_en": "Meet kbd-1.0-codex-micro， built with @work_louder. Map the buttons and joystick to your workflow， a…",
@@ -725,6 +779,59 @@
         "agent"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmrnl5c410154bii5rzgzt6ir",
+      "title": "面壁智能Build Small黑客马拉松获奖项目",
+      "title_en": "🏆 Build Small Hackathon Winner - OpenBMB Award： 🥇Grandpa's Bedtime Stories 👴 Congratulations for…",
+      "url": "https://x.com/OpenBMB/status/2077755420610101705",
+      "permalink": "https://aihot.virxact.com/items/cmrnl5c410154bii5rzgzt6ir",
+      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "publishedAt": "2026-07-16T14:01:09.000Z",
+      "summary": "🏆 Build Small 黑客马拉松获奖者 - OpenBMB 奖项：🥇爷爷的睡前故事 👴\n\n恭喜以 2，500 美元奖金赢得千词木赛道第一名！🎉\n\n图像可以捕捉瞬间，但背后的故事等待被探索。该项目利用 AI 将视觉内容转化为互动叙事体验，创造分享和体验故事的新方式。👇",
+      "category": "industry",
+      "score": 25,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrnl5c410154bii5rzgzt6ir"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmrner3a901zlbic664wxy34o",
+      "title": "字节跳动与努比亚今年将推多款豆包AI智能体手机，总产量约20万台",
+      "title_en": "ByteDance and Nubia are preparing several models of the Doubao AI-agent phone this year， with one ex…",
+      "url": "https://x.com/thexpin/status/2077706447509709063",
+      "permalink": "https://aihot.virxact.com/items/cmrner3a901zlbic664wxy34o",
+      "source": "X：X.PIN (@thexpin)",
+      "publishedAt": "2026-07-16T10:46:33.000Z",
+      "summary": "字节跳动与努比亚计划今年推出多款豆包AI智能体手机，其中一款预计亮相WAIC 2026，总产量规划约20万台。首款工程原型机努比亚M153技术预览版去年12月发售约3万台，售罄后未补货，二手价曾达官方售价两倍。",
+      "category": "industry",
+      "score": 52,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrner3a901zlbic664wxy34o"
+      },
+      "sourceType": "X",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
+      "tags": [
+        "原型",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "cmrn1ygf905h5bije94j5gb70",
@@ -782,33 +889,6 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmrm8sh0o04aabi5kytbvq5bk",
-      "title": "Gemini 东南亚报告：用户翻倍，多模态驱动增长",
-      "title_en": "We just released our first-ever Gemini Southeast Asia Report （below）， 3 insights： 1/ Active users m…",
-      "url": "https://x.com/joshwoodward/status/2077411104775406045",
-      "permalink": "https://aihot.virxact.com/items/cmrm8sh0o04aabi5kytbvq5bk",
-      "source": "X：Josh Woodward (@joshwoodward, Google Labs VP)",
-      "publishedAt": "2026-07-15T15:12:58.000Z",
-      "summary": "我们刚刚发布了首份 Gemini 东南亚报告（如下），3 个洞察：\n\n1/ 活跃用户在过去一年翻了一番多\n2/ 70% 的提示词以本地语言提交\n3/ 40% 的提示词仅使用语音、图像或视频\n\nGemini 的本地语言能力 + 多模态功能 + 移动应用正在推动增长，我们很快将为该地区带来更多更新！\n\n🇮🇩🇲🇾🇵🇭🇸🇬🇹🇭🇻🇳",
-      "category": "industry",
-      "score": 66,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrm8sh0o04aabi5kytbvq5bk"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视频",
-        "图像",
-        "提示词"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmrlg0ucc080qbi2bb8hn7nj3",
       "title": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
       "title_en": "开源TODO Skill，我这三年用AI做知识管理和代办的经验都在这了",
@@ -837,60 +917,6 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmrlbqrmp02hubi2bvj72j1hx",
-      "title": "每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程",
-      "title_en": "平均每天Vibe Coding 16小时后，这是我觉得Fable 5和GPT-5.6时代最好用的AI开发流程。",
-      "url": "https://mp.weixin.qq.com/s/wm_LM83gyLM-auidBxprZw",
-      "permalink": "https://aihot.virxact.com/items/cmrlbqrmp02hubi2bvj72j1hx",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-07-15T00:02:00.000Z",
-      "summary": "作者每天Vibe Coding约16小时，认为Claude Fable 5在大型方案初版设计上\"当世独一档\"，GPT-5.6 Sol能有效纠错并优化方案。核心流程为：Fable 5出方案初版 → GPT-5.6 Sol审查纠错 → 在Codex中开启\"目标模式\"全自动化执行，最长曾连续运行17小时。",
-      "category": "tip",
-      "score": 64,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrlbqrmp02hubi2bvj72j1hx"
-      },
-      "sourceType": "公众号",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 10,
-      "editorialScore": 11,
-      "tags": [
-        "设计",
-        "vibe coding",
-        "自动化",
-        "codex"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmrmyb31x0393bijevdp23x2s",
-      "title": "GigaWorld-Policy-0.5：一种更快速、更强的高效世界动作模型",
-      "title_en": "GigaWorld-Policy-0.5： A Faster and Stronger WAM Empowered by AutoResearch",
-      "url": "https://arxiv.org/abs/2607.13960",
-      "permalink": "https://aihot.virxact.com/items/cmrmyb31x0393bijevdp23x2s",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-15T00:00:00.000Z",
-      "summary": "GigaWorld-Policy-0.5 是一种面向机器人控制的高效世界动作模型，训练时利用未来视觉动态，推理时仅解码动作，避免生成未来视频的计算开销。该模型采用混合训练策略与 Mixture-of-Transformers 架构，在本地 RTX 4090 上实现 85 ms 推理延迟。",
-      "category": "paper",
-      "score": 37,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrmyb31x0393bijevdp23x2s"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视觉",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmrn331510636bijepqy0bmb4",
       "title": "微软发布 Visual Studio Code 1.129 正式版更新，现代 UI 抢先看",
       "title_en": "现代 UI 抢先看：微软发布 Visual Studio Code 1.129 正式版更新，AI Agent 能力加强",
@@ -916,34 +942,6 @@
         "智能体"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmrn3q61w06abbijezrwqxw9m",
-      "title": "AI 智能体时代，工程自动化价值更高",
-      "title_en": "AI agent does not remove the necessity of engineering automation. They are worth much more. The big…",
-      "url": "https://x.com/rohanpaul_ai/status/2077628604331266485",
-      "permalink": "https://aihot.virxact.com/items/cmrn3q61w06abbijezrwqxw9m",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-07-16T05:37:14.000Z",
-      "summary": "AI 智能体并未消除工程自动化的必要性，反而使其价值更高。核心变化在于，现在可以通过 `claude.md` 等文件编码远超代码规则的内容，包括架构偏好、审查标准、产品限制、领域知识和智能体技能。自动化能将领域知识转化为基础设施，让新工程师和非工程师也能高效贡献代码库，实现从一次性修复问题到永久自动化整个工作类型的转变。",
-      "category": "tip",
-      "score": 36,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrn3q61w06abbijezrwqxw9m"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 9,
-      "editorialScore": 10,
-      "tags": [
-        "自动化",
-        "automation",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmrmrjrwk001pbimilq46mpeq",
@@ -1156,81 +1154,31 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmrn0gac904hgbije73ng6ew1",
-      "title": "Hallo4D：面向一致时空生成的多模态幻觉缓解框架",
-      "title_en": "Hallo4D： Multi-Modal Hallucination Mitigation for Consistent Spatio-Temporal Generation",
-      "url": "https://arxiv.org/abs/2607.12752",
-      "permalink": "https://aihot.virxact.com/items/cmrn0gac904hgbije73ng6ew1",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-15T00:00:00.000Z",
-      "summary": "Hallo4D 提出一种无需重训练或修改架构的生成-检测-修正范式，利用大语言模型识别多视角渲染中的时空不一致性，并通过多模型投票引导图像空间一致性优化。该方法引入运动感知关键帧采样与外观对齐，在多种3D和4D生成设置中持续优于强基线，提供可扩展的泛化解。",
-      "category": "paper",
-      "score": 37,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrn0gac904hgbije73ng6ew1"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "图像",
-        "3d"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrl8gqbg01pabi7h2lcoeyi8",
-      "title": "OpenAI 首度回应苹果诉讼：相信公平竞争，未发现任何证据",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/976/767.htm",
-      "permalink": "https://aihot.virxact.com/items/cmrl8gqbg01pabi7h2lcoeyi8",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-14T22:19:06.000Z",
-      "summary": "OpenAI 就苹果提起的商业秘密侵权诉讼作出回应，称严肃对待指控但未发现合理依据，并表示对其他公司的商业机密不感兴趣，支持人才自由流动。苹果于 7 月 10 日提交诉状，指控 OpenAI 通过挖角员工等方式获取未发布产品的信息、零部件及设计图纸，称已有超 400 名前苹果员工在 OpenAI 工作。诉讼涉及 OpenAI 首席硬件官 Tang Tan 及前苹果工程师 Chang Liu。",
-      "category": "industry",
-      "score": 61,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrl8gqbg01pabi7h2lcoeyi8"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmrl6xukw00ogbi7hnn35vq0v",
-      "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-      "title_en": "Cursor 0day：当全面披露成为唯一的防护手段时",
-      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "permalink": "https://aihot.virxact.com/items/cmrl6xukw00ogbi7hnn35vq0v",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-14T21:27:11.693Z",
-      "summary": "安全公司 Mindgard 于 2025 年 12 月 15 日发现 Cursor IDE 存在严重 0day 漏洞。当用户在 Windows 上打开包含恶意 `git.exe` 的仓库时，Cursor 会自动执行该文件，无需任何用户交互。漏洞源于 Cursor 在加载项目时会在包括工作区在内的多个位置搜索 Git 二进制文件。Mindgard 在 7 个月内多次报告，Cursor CISO 虽确认但因内部自动化故障导致流程中断，至今已发布 70 多个新版本仍未修复。临时缓解措施包括使用 AppLocker 阻止从工作区目录执行该文件名，或在隔离虚拟机中打开不受信任的仓库。",
-      "category": "industry",
-      "score": 83,
+      "id": "cmrnc82t9016bbic6qmevgy67",
+      "title": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商",
+      "title_en": "Expanding Choice in Gemini Enterprise Agent Platform： Introducing Grounding with Parallel Web Search",
+      "url": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search",
+      "permalink": "https://aihot.virxact.com/items/cmrnc82t9016bbic6qmevgy67",
+      "source": "Google Developers Blog（RSS）",
+      "publishedAt": "2026-07-16T09:58:51.914Z",
+      "summary": "Google Cloud 与 Parallel Web Systems 合作，将 Parallel 的搜索基础设施作为新的网络接地提供商原生集成到 Gemini Enterprise Agent Platform 中。该集成使开发者能将 AI 智能体锚定在可验证的实时网络结果上，以提升企业工作流的事实准确性。用户还可编程提取、永久缓存并与其他大语言模型一起处理网络数据。",
+      "category": "ai-products",
+      "score": 60,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrl6xukw00ogbi7hnn35vq0v"
+        "canonical": "https://aihot.virxact.com/items/cmrnc82t9016bbic6qmevgy67"
       },
       "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
       "tags": [
-        "交互",
-        "自动化"
+        "工作流",
+        "agent",
+        "智能体"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmrn7cx9z07c0bije5ilnyr7x",
@@ -1308,6 +1256,32 @@
         "可灵"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmrnhly4m0007bii5zd6dhl1p",
+      "title": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
+      "title_en": "秒哒3.5： 全球首发iOS App 无代码开发、多端共享后端",
+      "url": "https://mp.weixin.qq.com/s/W3QACoSYgwK0TW4zG-KFsg",
+      "permalink": "https://aihot.virxact.com/items/cmrnhly4m0007bii5zd6dhl1p",
+      "source": "公众号：百度智能云（文心）",
+      "publishedAt": "2026-07-16T12:17:11.000Z",
+      "summary": "百度智能云在 WAIC2026 发布秒哒 3.5，新增 iOS 打包能力，用户无需 Mac 或 Xcode 即可将应用打包为 IPA 文件或上架 App Store。3.5 版本还内置 SEO Agent 实现搜索优化自动化，支持多应用共享同一后端数据库，并推出数据库多环境隔离与后端资源分级功能。秒哒累计服务超 3500 万用户，已创造 350 万个商业应用。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrnhly4m0007bii5zd6dhl1p"
+      },
+      "sourceType": "公众号",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "自动化",
+        "agent"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmrmwj4j102eebijejhn2qkym",
