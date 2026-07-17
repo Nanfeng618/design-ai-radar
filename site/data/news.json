@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-17T03:37:03.220Z",
-  "previousGeneratedAt": "2026-07-16T14:22:54.737Z",
+  "generatedAt": "2026-07-17T08:28:27.612Z",
+  "previousGeneratedAt": "2026-07-17T03:37:03.220Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 59,
+  "itemCount": 61,
   "sourceCounts": {
-    "网站": 27,
+    "网站": 29,
     "X": 24,
     "公众号": 8
   },
@@ -208,33 +208,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmrmlf6ou04vrbiult38moqmt",
-      "title": "阶跃星辰 StepFun 3.7 Flash 上线 P0 平台",
-      "title_en": "We're excited to partner with @P0Systems to bring StepFun 3.7 Flash to more developers. Experience …",
-      "url": "https://x.com/StepFun_ai/status/2077503365500874800",
-      "permalink": "https://aihot.virxact.com/items/cmrmlf6ou04vrbiult38moqmt",
-      "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
-      "publishedAt": "2026-07-15T21:19:35.000Z",
-      "summary": "阶跃星辰与 P0 Systems 合作，将其旗舰多模态推理模型 StepFun 3.7 Flash 部署至 P0 平台。该模型支持 256K 上下文窗口、原生图像与视频理解及完整工具调用，限时免费向所有 P0 用户开放，可通过 Peezy CLI 和网关使用。",
-      "category": "ai-products",
-      "score": 34,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrmlf6ou04vrbiult38moqmt"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 13,
-      "editorialScore": 16,
-      "tags": [
-        "生图",
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmrnbnnta010lbic6mqzo6ajp",
       "title": "AI时代门槛降低反拉大专业差距",
       "title_en": "AI 时代，垃圾丛生，让我意识到 门槛 的正向保护作用",
@@ -417,34 +390,6 @@
       "editorialScore": 14,
       "tags": [
         "图像生成",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrmdq270053hbivcfl8fwemj",
-      "title": "阶跃星辰 Step 3.7 Flash 上线 Baseten",
-      "title_en": "Great to see Step 3.7 Flash now available through @baseten. We built this model for real-world agen…",
-      "url": "https://x.com/StepFun_ai/status/2077447198728659223",
-      "permalink": "https://aihot.virxact.com/items/cmrmdq270053hbivcfl8fwemj",
-      "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
-      "publishedAt": "2026-07-15T17:36:23.000Z",
-      "summary": "阶跃星辰的 Step 3.7 Flash 模型已上线 Baseten 模型库。该模型为 198B 参数稀疏 MoE 架构（每 token 激活 11B），原生支持图像和视频输入，拥有 256K 上下文窗口，专为视觉推理、智能体编程和长上下文任务设计。",
-      "category": "industry",
-      "score": 37,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrmdq270053hbivcfl8fwemj"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视觉",
-        "设计",
-        "视频",
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
@@ -659,6 +604,58 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmroe8spe02cybitozvo2sad0",
+      "title": "Ubuntu 报告 Linux 7.0.0-28.28 内核 AMDGPU 问题致 ROCm 计算吞吐降至 1/42",
+      "title_en": "Ubuntu 报告 Linux 7.0.0-28.28 中 AMDGPU 性能下降：9 秒任务拖长至 388 秒，吞吐降至 1/42",
+      "url": "https://www.ithome.com/0/977/956.htm",
+      "permalink": "https://aihot.virxact.com/items/cmroe8spe02cybitozvo2sad0",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-17T02:54:45.000Z",
+      "summary": "Ubuntu 内核团队指出 Linux 7.0.0-28.28 内核版本因 AMDGPU 问题，导致 ROCm 计算负载吞吐性能降至 42 分之一。以 Stable Diffusion XL 在 ComfyUI 上推理为例，原本约 9 秒的任务最长需 388 秒完成。该回归问题源自 Linux 7.0 稳定版上游内核，CachyOS 和 Fedora 用户也已报告。",
+      "category": "industry",
+      "score": 47,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmroe8spe02cybitozvo2sad0"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 9,
+      "editorialScore": 12,
+      "tags": [
+        "stable diffusion"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmroi9yhh03jkbitodhqmzp7y",
+      "title": "Kimi K3 首测：与 Opus 4.8 前端对决，有来有回",
+      "title_en": "http://x.com/i/article/2077959935124733952",
+      "url": "https://x.com/op7418/status/2077969109506277602",
+      "permalink": "https://aihot.virxact.com/items/cmroi9yhh03jkbitodhqmzp7y",
+      "source": "X：歸藏 (@op7418)",
+      "publishedAt": "2026-07-17T04:10:17.000Z",
+      "summary": "Kimi K3 正式上线，采用全新 Kimi Linear 混合线性注意力架构，拥有 2.8T 参数和 1M 上下文，覆盖编程、Agent 和多模态。博主将其与 Claude Opus 4.8 进行四项前端高难度对比测试，结果显示 K3 在视频理解生成 3D 场景上明显胜出，且能自我截图修正代码；Opus 4.8 则在精细排版和一次性成功率上更稳。K3 为开源模型，定价在 Sonnet 级别。",
+      "category": "tip",
+      "score": 67,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmroi9yhh03jkbitodhqmzp7y"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视频",
+        "3d",
+        "agent"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmrnvwal30187bixyznkhs73l",
       "title": "Kimi K3 登顶前端代码竞技场，超越 Claude Fable 5",
       "title_en": "Kimi k3 has taken first place in design arena frontend. And it's not even close.",
@@ -794,6 +791,33 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
+      "id": "cmromu0ks050xbitoz2fa7u1p",
+      "title": "VIABench：首个面向视障辅助场景的多模态视频评测基准",
+      "title_en": "VIABench： A Comprehensive Video Benchmark Collected from Blind Individuals for Visual Impairment Assistance",
+      "url": "https://arxiv.org/abs/2607.14660",
+      "permalink": "https://aihot.virxact.com/items/cmromu0ks050xbitoz2fa7u1p",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-16T00:00:00.000Z",
+      "summary": "VIABench 是一个专门用视障人士第一人称视频评估多模态大语言模型（MLLM）的基准，定义了主动提醒、视觉问答和视觉引导交互三项核心任务。实验表明，当前 MLLM 在主动提醒任务上表现最差，难以准确预判导航事件并实时响应。该基准支持在线与离线两种评测模式，代码与数据将开源。",
+      "category": "paper",
+      "score": 43,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmromu0ks050xbitoz2fa7u1p"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "交互",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmroc43ze01nzbitop56gzbnp",
       "title": "RoboTTT：将机器人策略的视觉运动上下文窗口扩展至 8K 时间步",
       "title_en": "RoboTTT： Context Scaling for Robot Policies",
@@ -820,31 +844,85 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmrmmyn0x05uzbiulsu1u7uum",
-      "title": "OpenAI 发布内部红队模型 GPT-Red",
-      "title_en": "OpenAI announced GPT-Red， an internal model for finding prompt-injection vulnerabilities at scale. …",
-      "url": "https://x.com/testingcatalog/status/2077513154112929909",
-      "permalink": "https://aihot.virxact.com/items/cmrmmyn0x05uzbiulsu1u7uum",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-07-15T21:58:28.000Z",
-      "summary": "OpenAI 推出内部自动化红队模型 GPT-Red，用于大规模发现模型的提示词注入漏洞。GPT-Red 对旧模型攻击力极强，OpenAI 已用它对抗性训练 GPT-5.6，使其对提示词注入的鲁棒性显著提升。",
-      "category": "ai-models",
-      "score": 44,
+      "id": "cmrokobqu04b6bito1svigo9r",
+      "title": "英特尔扩大与 Google Cloud 合作，为全球员工提供 Gemini Enterprise 并加速芯片开发",
+      "title_en": "英特尔扩大与谷歌 Google Cloud 合作，加速企业 AI 赋能转型",
+      "url": "https://www.ithome.com/0/978/036.htm",
+      "permalink": "https://aihot.virxact.com/items/cmrokobqu04b6bito1svigo9r",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-17T06:27:24.000Z",
+      "summary": "英特尔宣布扩大与 Google Cloud 的合作，将为其全球员工提供 Gemini Enterprise 生成式 AI 服务，各业务部门可构建定制业务线智能体以优化开发管道和自动化软件工作流。同时，英特尔将把 Google Cloud 的 C4 和 N4 实例作为本地算力补充，用于优化芯片开发仿真和核心工作负载，通过并行运行复杂 HPC 仿真来加速芯片开发周期。",
+      "category": "industry",
+      "score": 29,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrmmyn0x05uzbiulsu1u7uum"
+        "canonical": "https://aihot.virxact.com/items/cmrokobqu04b6bito1svigo9r"
       },
-      "sourceType": "X",
+      "sourceType": "网站",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 10,
-      "editorialScore": 11,
+      "relevanceScore": 9,
+      "editorialScore": 10,
       "tags": [
-        "提示词",
-        "prompt",
-        "自动化"
+        "工作流",
+        "自动化",
+        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmroh1pki036fbito68igf23l",
+      "title": "Databricks 年化收入69亿美元，AI产品贡献17亿",
+      "title_en": "What's cooler than a Series L？ A Series M！ 🚀 Databricks is now at a $6.9B annualized revenue run r…",
+      "url": "https://x.com/Yuchenj_UW/status/2077976917140292052",
+      "permalink": "https://aihot.virxact.com/items/cmroh1pki036fbito68igf23l",
+      "source": "X：Yuchen Jin (@Yuchenj_UW)",
+      "publishedAt": "2026-07-17T04:41:18.000Z",
+      "summary": "Databricks 年化收入运行率已达 69 亿美元，同比增长 80%，其中 17 亿美元来自 AI 产品（AI Gateway 和 Genie 智能体）。公司正以 1880 亿美元估值融资，重点投入三大 AI 方向：多 AI 治理方案 Unity AI Gateway、理解业务数据的 AI 同事 Genie，以及专为 AI 智能体设计的无服务器 Postgres 数据库 Lakebase。",
+      "category": "industry",
+      "score": 65,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmroh1pki036fbito68igf23l"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmroggebh0311bito0y5yq8gb",
+      "title": "Kimi 3 视频与 3D 生成能力实测",
+      "title_en": "不吹不黑，也没有什么商业广告就是纯体验真不错推荐给大家。 我把官方的宣传视频风格提炼了个Skills，以AI 发展为主题，让它给我做了个视频介绍。 从文案、脚本、配音、音轨全部都手拿把掐的拿捏交付…",
+      "url": "https://x.com/berryxia/status/2077974125872865742",
+      "permalink": "https://aihot.virxact.com/items/cmroggebh0311bito0y5yq8gb",
+      "source": "X：Berry Xia (@berryxia)",
+      "publishedAt": "2026-07-17T04:30:13.000Z",
+      "summary": "用户实测 Kimi 3，称其 3D 建模质感与交互\"吊打头部模型\"，无需复杂提示词。主推文进一步展示，用户将官方宣传视频风格提炼为 Skills，让 Kimi 3 以 AI 发展为主题自动生成视频，文案、脚本、配音、音轨全部交付。",
+      "category": "tip",
+      "score": 46,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmroggebh0311bito0y5yq8gb"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "交互",
+        "广告",
+        "视频",
+        "3d"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmrntkxll00ifbixy748srom6",
@@ -1058,6 +1136,33 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmrogegap030qbito2rsst90h",
+      "title": "VideoChat3 发布：完全开源的高效通用视频 MLLM，4B 参数超越同规模模型",
+      "title_en": "VideoChat3： Fully Open Video MLLM for Efficient and Generalist Video Understanding",
+      "url": "https://arxiv.org/abs/2607.14935",
+      "permalink": "https://aihot.virxact.com/items/cmrogegap030qbito2rsst90h",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-16T00:00:00.000Z",
+      "summary": "VideoChat3 是一个完全开源的视频多模态大模型（MLLM），专为高效和通用视频理解设计。它引入 Inflated 3D Vision Transformer （I3D-ViT） 和自适应帧率流式视频感知技术，降低训练与推理成本，并构建了覆盖通用、长视频和流式场景的三个高质量数据集。仅 4B 参数，VideoChat3 在多项基准测试中超越同等或更大参数量的开源模型。",
+      "category": "paper",
+      "score": 49,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrogegap030qbito2rsst90h"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "设计",
+        "视频",
+        "3d"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmrmsd6p300dabimieg3s2l7j",
       "title": "OpenAI 前 CTO 穆拉蒂创业公司 TML 发布首款 AI 模型 Inkling：9750 亿参数，借鉴 DeepSeek-V3 架构",
       "title_en": "OpenAI 前女 CTO 穆拉蒂创业公司 TML 发布首款 AI 模型 Inkling：借鉴中国技术，主打成本和性能平衡",
@@ -1106,61 +1211,6 @@
         "界面",
         "智能体",
         "mcp"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmrmg4oa4019fbimru02i7zhk",
-      "title": "Work Louder 与 OpenAI 合作推出 Codex Micro 键盘",
-      "title_en": "Codex Micro",
-      "url": "https://openai.com/supply/co-lab/work-louder",
-      "permalink": "https://aihot.virxact.com/items/cmrmg4oa4019fbimru02i7zhk",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-15T18:49:36.076Z",
-      "summary": "Work Louder 与 OpenAI 合作推出 kbd-1.0-codex-micro 键盘，专为 Codex 智能体工作流设计。键盘配备 13 个机械按键、摇杆和旋钮，每个 Agent Key 可通过 RGB 灯实时显示智能体状态，摇杆可触发 PR 审查等 Codex 技能。支持蓝牙/USB-C 连接，兼容 Mac 和 Windows，预计 7 月 24 日发货。",
-      "category": "ai-products",
-      "score": 37,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrmg4oa4019fbimru02i7zhk"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 9,
-      "editorialScore": 10,
-      "tags": [
-        "设计",
-        "工作流",
-        "codex",
-        "agent"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmrmg4oa4019ibimr8z3cupyq",
-      "title": "为LLM智能体设计\"背带\"的原则：最小核心提示词与Unix环境映射",
-      "title_en": "迈向一款无所不能的背带",
-      "url": "https://eardatasci.github.io/c/ambiance/index.html",
-      "permalink": "https://aihot.virxact.com/items/cmrmg4oa4019ibimr8z3cupyq",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-15T18:33:18.868Z",
-      "summary": "作者提出为LLM智能体设计\"背带\"的原则：核心提示词应尽可能小，智能体运行时自主选择加载技能到上下文，避免接近上下文限制导致模型失控。背带应利用LLM在编码和系统管理上的先验知识，将日志、检查等繁重工作放在后台。Unix/Linux环境是天然候选，通过将外部数据映射到类FHS虚拟文件系统，让智能体用grep等工具自愈。",
-      "category": "tip",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrmg4oa4019ibimr8z3cupyq"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计",
-        "提示词",
-        "智能体"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
