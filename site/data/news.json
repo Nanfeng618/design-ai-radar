@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-18T03:32:01.238Z",
-  "previousGeneratedAt": "2026-07-17T14:03:29.019Z",
+  "generatedAt": "2026-07-18T08:08:55.803Z",
+  "previousGeneratedAt": "2026-07-18T03:32:01.238Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
   "itemCount": 44,
   "sourceCounts": {
     "X": 24,
-    "公众号": 3,
-    "网站": 17
+    "公众号": 4,
+    "网站": 16
   },
   "source": {
     "name": "AI HOT",
@@ -41,6 +41,34 @@
         "摄影"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmrq2xavm001sbi6v3sswahli",
+      "title": "Claude Design 高保真原型可替代产品文档",
+      "title_en": "高保真原型已经可以代替传统的产品文档了，而且效果更好。Claude Design 出的高保真原型可以交互、有各种模拟的数据，比文档直观多了，这样的设计稿交给 AI，无论你用什么语言实现，基本上能还原 …",
+      "url": "https://x.com/dotey/status/2078388657979838830",
+      "permalink": "https://aihot.virxact.com/items/cmrq2xavm001sbi6v3sswahli",
+      "source": "X：宝玉 (@dotey)",
+      "publishedAt": "2026-07-18T07:57:25.000Z",
+      "summary": "开发者用 Claude Design 生成高保真可交互原型替代传统产品文档，原型包含模拟数据且修改便捷。以视频水印功能为例，先让 Opus 4.8 出原型稿，打磨确认后由 AI 实现代码，最终代码还原度可达 9 成以上。",
+      "category": "tip",
+      "score": 65,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrq2xavm001sbi6v3sswahli"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 14,
+      "editorialScore": 18,
+      "tags": [
+        "原型",
+        "design",
+        "设计",
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmrp7u75e0b2ibitop7hs1891",
@@ -231,6 +259,89 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmrq04e60079gbisriyzc0nsl",
+      "title": "沐曦股份发布 AI 超节点曦景 S600：单机柜 64 卡高密度部署，可扩展至万卡级别",
+      "title_en": "沐曦股份发布 AI 超节点新品曦景 S600：支持单机柜 64 卡高密度部署，可灵活扩展至万卡级别",
+      "url": "https://www.ithome.com/0/978/460.htm",
+      "permalink": "https://aihot.virxact.com/items/cmrq04e60079gbisriyzc0nsl",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-18T06:16:35.000Z",
+      "summary": "沐曦股份在 WAIC 2026 上发布新一代 AI 超节点新品曦景 S600，面向大模型训练、推理及智算中心建设。该产品实现单机柜 64 卡高密度部署，通过柜内全互连架构降低数据交互时延，集群规模可灵活扩展至万卡级别，并采用整机柜一体化交付与 0 线缆直连设计以降低部署和运维成本。",
+      "category": "ai-products",
+      "score": 41,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrq04e60079gbisriyzc0nsl"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "可灵",
+        "设计",
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmrpwcbt2066zbisrl3g6qkqk",
+      "title": "乔帮主评测Kimi K3：强大但有限制",
+      "title_en": "乔帮主对Kimi K3的详细评测报告来了！非常牛逼，但也有一些局限。 6个真实场景项目，每个都能在线体验使用。 模型局限也有几条： 1. 因训练方式原因，与官方的 Kimi Code 匹配更好，…",
+      "url": "https://x.com/vista8/status/2078337668942094436",
+      "permalink": "https://aihot.virxact.com/items/cmrpwcbt2066zbisrl3g6qkqk",
+      "source": "X：Vista (@vista8)",
+      "publishedAt": "2026-07-18T04:34:48.000Z",
+      "summary": "乔帮主发布Kimi K3详细评测，基于6个真实场景项目。K3因训练方式与Kimi Code匹配最佳，接入Claude Code效果可能折损；优化了长程高难任务，但面对简单模糊需求易过度发挥。在交互、界面、视觉等场景K3可作首选，但在架构、后端场景仍落后于Claude Fable 5和GPT-5.6。",
+      "category": "tip",
+      "score": 35,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrpwcbt2066zbisrl3g6qkqk"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "视觉",
+        "界面",
+        "交互",
+        "claude code"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmrpumlfj05oxbisr49attjfz",
+      "title": "实测Kimi K3搭配7个设计Skill，最佳组合出炉",
+      "title_en": "都说Kimi审美好，实测7个Skills来找出它的最佳搭配",
+      "url": "https://mp.weixin.qq.com/s/MkqpZv3fsCcnlpQu2tGM1A",
+      "permalink": "https://aihot.virxact.com/items/cmrpumlfj05oxbisr49attjfz",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-07-18T04:04:00.000Z",
+      "summary": "用同一份Prompt和Kimi K3，依次搭配7个设计Skill生成网页，每轮只跑一次不返工。结果显示，design-taste-frontend和Impeccable表现最佳，分别以克制与大胆的风格放大了K3的能力；而Web Design Guidelines反而出现字体溢出、空白页等低级错误，效果不如纯K3。",
+      "category": "tip",
+      "score": 54,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrpumlfj05oxbisr49attjfz"
+      },
+      "sourceType": "公众号",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "design",
+        "设计",
+        "prompt",
+        "skill"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmrpj1haa02dsbisrlbh29nkn",
@@ -573,6 +684,31 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmrpw0cg1064rbisr8p9o5erp",
+      "title": "Kimi K3 前端盲测登顶，非对称竞争挑战 Fable 5",
+      "title_en": "感觉全网都在吹 Kimi K3 新王登基，我研究了一上午发现吹的方向全错了， 我来给大家关于Kimi K3最客观全面深度的一个分析总结： Kimi K3 发布这两天铺天盖地的都在比它和 Fable …",
+      "url": "https://x.com/AYi_AInotes/status/2078330884726431967",
+      "permalink": "https://aihot.virxact.com/items/cmrpw0cg1064rbisr8p9o5erp",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-07-18T04:07:51.000Z",
+      "summary": "Kimi K3 在 Frontend Code Arena 人类盲测中以 1679 Elo 登顶第一，7 个前端赛道拿下 6 个第一，但综合智能指数仅排第 4。它选择在前端 UI、终端代理等赛道集中火力，并以 15 美元/M 输出定价（Fable 5 为 50 美元）实现非对称竞争。完整模型权重将于 7 月 27 日前开放。",
+      "category": "tip",
+      "score": 68,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrpw0cg1064rbisr8p9o5erp"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 7,
+      "editorialScore": 11,
+      "tags": [
+        "ui"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "cmrpk1gx302nvbisrwzvv41j6",
       "title": "Vertu Alphafold 评测：6880美元AI智能体手机实测",
       "title_en": "Vertu wants executives to pay $6，880 for an AI agent - here's how it actually performs",
@@ -733,54 +869,54 @@
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
-      "id": "cmrnp8h9t013xbizz00pt110t",
-      "title": "Viggle 推出自研文本转动作模型",
-      "title_en": "Introducing our new Text-to-Motion model， built in-house at Viggle， now live in @Viggle_PINOC！ Typ…",
-      "url": "https://x.com/ViggleAI/status/2077782898732650576",
-      "permalink": "https://aihot.virxact.com/items/cmrnp8h9t013xbizz00pt110t",
-      "source": "X：Viggle AI (@ViggleAI)",
-      "publishedAt": "2026-07-16T15:50:21.000Z",
-      "summary": "介绍我们内部自研的全新文本转动作模型，现已上线 @Viggle_PINOC！\n\n输入动作描述，即可生成动画。高能量、富有表现力的动作是它的强项。\n\n设计镜头、制作游戏原型、用真正会动的 NPC 填满你的世界。把关键帧留给主角镜头。\n\n在 PINOC 上免费试用👇",
+      "id": "cmrq04e60079ibisrvc2d60kz",
+      "title": "三星 One UI 9 版 My FanCam 曝光：Galaxy AI 智能追踪视频拍摄主体并自动重新构图",
+      "title_en": "三星 One UI 9 版 My FanCam 曝光：AI 智能追踪视频拍摄主体",
+      "url": "https://www.ithome.com/0/978/458.htm",
+      "permalink": "https://aihot.virxact.com/items/cmrq04e60079ibisrvc2d60kz",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-18T06:08:39.000Z",
+      "summary": "三星 One UI 9 内测版截图曝光了名为 My FanCam 的 AI 功能，该功能依赖 Galaxy AI，可在用户完成视频拍摄后，从成片中智能识别并持续追踪主体，自动重新构图确保主体始终处于画面中心。与三星现有视频录制中追踪主体的 Auto Track 功能不同，My FanCam 更偏向于后期处理。该功能测试基于搭载 One UI 9 的 Galaxy S25+ 手机。",
       "category": "ai-products",
-      "score": 58,
+      "score": 33,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrnp8h9t013xbizz00pt110t"
+        "canonical": "https://aihot.virxact.com/items/cmrq04e60079ibisrvc2d60kz"
       },
-      "sourceType": "X",
-      "designCategory": "设计工具",
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
       "relevanceScore": 6,
-      "editorialScore": 11,
+      "editorialScore": 10,
       "tags": [
-        "原型",
-        "设计"
+        "ui",
+        "视频"
       ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmrnl5c410154bii5rzgzt6ir",
-      "title": "面壁智能Build Small黑客马拉松获奖项目",
-      "title_en": "🏆 Build Small Hackathon Winner - OpenBMB Award： 🥇Grandpa's Bedtime Stories 👴 Congratulations for…",
-      "url": "https://x.com/OpenBMB/status/2077755420610101705",
-      "permalink": "https://aihot.virxact.com/items/cmrnl5c410154bii5rzgzt6ir",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "publishedAt": "2026-07-16T14:01:09.000Z",
-      "summary": "🏆 Build Small 黑客马拉松获奖者 - OpenBMB 奖项：🥇爷爷的睡前故事 👴\n\n恭喜以 2，500 美元奖金赢得千词木赛道第一名！🎉\n\n图像可以捕捉瞬间，但背后的故事等待被探索。该项目利用 AI 将视觉内容转化为互动叙事体验，创造分享和体验故事的新方式。👇",
-      "category": "industry",
-      "score": 25,
+      "id": "cmrpymvkp06tcbisrb2wumndk",
+      "title": "Kimi K3 登顶 SpreadsheetBench 2，超越 Claude Fable 5",
+      "title_en": "Kimi K3 may be super useful for finance， planning and operations， given how well it plays with sprea…",
+      "url": "https://x.com/rohanpaul_ai/status/2078352555944689722",
+      "permalink": "https://aihot.virxact.com/items/cmrpymvkp06tcbisrb2wumndk",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-07-18T05:33:57.000Z",
+      "summary": "Kimi K3 在 SpreadsheetBench 2 上排名第一，超越 Claude Fable 5，成为首个超越所有闭源模型的开源权重模型。该基准测试包含 321 个专家任务，涵盖财务建模、工作簿调试和原生图表创建，平均每个任务涉及 11.8 个工作表和 593.5 次单元格变更。Kimi K3 完成了 34.8% 的工作流，在金融、规划和运营场景中表现出色。",
+      "category": "tip",
+      "score": 40,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrnl5c410154bii5rzgzt6ir"
+        "canonical": "https://aihot.virxact.com/items/cmrpymvkp06tcbisrb2wumndk"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "relevanceScore": 7,
+      "editorialScore": 10,
       "tags": [
-        "视觉",
-        "图像"
+        "生图",
+        "工作流"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -810,58 +946,6 @@
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmrp97v1r002pbiuxnr5bgwwo",
-      "title": "MiniMax 模型集成 Raven 智能体框架",
-      "title_en": "M3 brings long-context reasoning， while Raven adds the durable memory and reusable skills that help …",
-      "url": "https://x.com/MiniMax_AI/status/2078178092959564164",
-      "permalink": "https://aihot.virxact.com/items/cmrp97v1r002pbiuxnr5bgwwo",
-      "source": "X：MiniMax (@MiniMax_AI)",
-      "publishedAt": "2026-07-17T18:00:42.000Z",
-      "summary": "MiniMax 宣布其 M3 模型（长上下文推理）与 Raven 智能体框架集成。Raven 基于 EverOS，提供持久记忆、主动上下文管理、可复用技能，结合 MiniMax 的长上下文与编码能力，可支持深度研究、自动化等复杂工作流。用户可通过专属链接享受 MiniMax API 12% 折扣。",
-      "category": "industry",
-      "score": 41,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrp97v1r002pbiuxnr5bgwwo"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 9,
-      "editorialScore": 10,
-      "tags": [
-        "工作流",
-        "自动化",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmrp1tior09c8bito6ufn40i6",
-      "title": "Anthropic Workbench 更新并入 Build 板块",
-      "title_en": "ICYMI 👀： Anthropic Workbench has been updated and now belongs to the new Build section， which featu…",
-      "url": "https://x.com/testingcatalog/status/2078121143890845970",
-      "permalink": "https://aihot.virxact.com/items/cmrp1tior09c8bito6ufn40i6",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-07-17T14:14:24.000Z",
-      "summary": "ICYMI 👀： Anthropic Workbench 已更新，现归属于新的 Build 板块，该板块采用了全新 UI。\n\n&gt； 发送 Messages API 请求，查看 Claude 的响应，并复制代码以发布\n\n还可为 Claude Fable 5 配置备用模型。",
-      "category": "ai-products",
-      "score": 54,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrp1tior09c8bito6ufn40i6"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "ui"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmrokobqu04b6bito1svigo9r",
@@ -917,29 +1001,29 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmrnlyzl3006sbi8v0f80nbaz",
-      "title": "在 Claude Cowork 中使用 Claude Fable 5",
-      "title_en": "Working with Claude Fable 5 in Claude Cowork",
-      "url": "https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork",
-      "permalink": "https://aihot.virxact.com/items/cmrnlyzl3006sbi8v0f80nbaz",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-07-16T14:32:22.664Z",
-      "summary": "Anthropic 发布最强通用模型 Claude Fable 5，专为长时间、多步骤的复杂异步工作设计，可在 Claude Cowork 中自主执行深度研究、尽职调查等任务。该模型需手动选择，默认模型为 Claude Sonnet 5。",
+      "id": "cmrq04e60079dbisrgvls7skt",
+      "title": "B站\"猫娘计划\"亮相WAIC 2026，支持自主导入模型并理解桌面内容",
+      "title_en": "B站\"猫娘计划\"亮相 WAIC 2026：支持自主导入模型，可理解桌面内容主动发起对话",
+      "url": "https://www.ithome.com/0/978/464.htm",
+      "permalink": "https://aihot.virxact.com/items/cmrq04e60079dbisrgvls7skt",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-18T06:34:59.000Z",
+      "summary": "哔哩哔哩在WAIC 2026上展示了开源AI数字生命生态计划\"猫娘计划\"，其核心产品为主动式全模态AI伙伴驱动器N.E.K.O.。该产品支持Live2D与VRM双引擎，用户可自由导入模型，并内置视觉多模态大模型以理解电脑屏幕内容。目前该产品已在Steam上架抢鲜体验。",
       "category": "ai-products",
-      "score": 64,
-      "selected": true,
+      "score": 61,
+      "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrnlyzl3006sbi8v0f80nbaz"
+        "canonical": "https://aihot.virxact.com/items/cmrq04e60079dbisrgvls7skt"
       },
       "sourceType": "网站",
-      "designCategory": "产品与体验",
+      "designCategory": "图像与视频",
       "relevanceScore": 6,
-      "editorialScore": 10,
+      "editorialScore": 9,
       "tags": [
-        "设计"
+        "视觉"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmrodegdr021wbito32kpybwh",
@@ -965,86 +1049,6 @@
         "视觉"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrnoiak500uubizzx8skyzxx",
-      "title": "前 DeepMind 研究员 Andrew Dai 创办视觉 AI 公司 Elorian，以 3 亿美元估值完成 5500 万美元种子轮融资",
-      "title_en": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-      "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product",
-      "permalink": "https://aihot.virxact.com/items/cmrnoiak500uubizzx8skyzxx",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-16T15:02:00.000Z",
-      "summary": "前 Google DeepMind 研究员 Andrew Dai 创立视觉 AI 公司 Elorian，在离开谷歌数月后以 3 亿美元估值完成 5500 万美元种子轮融资。Dai 认为视觉理解与推理是 AI 进展最不均衡的领域，Elorian 的目标是构建迈向视觉 AGI 的模型。他优先选择英伟达和 Menlo Ventures 等战略投资者，而非出价更高的投资方。",
-      "category": "industry",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrnoiak500uubizzx8skyzxx"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "视觉"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrnmyawl00b1bizzpp4oi6ve",
-      "title": "Google 提出模块化提示词转译方案，构建可扩展 AI 智能体",
-      "title_en": "Building scalable AI agents with modular prompt transpilation",
-      "url": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation",
-      "permalink": "https://aihot.virxact.com/items/cmrnmyawl00b1bizzpp4oi6ve",
-      "source": "Google Developers Blog（RSS）",
-      "publishedAt": "2026-07-16T14:58:54.526Z",
-      "summary": "Google 提出将系统提示词模块化为可复用的\"技能文件\"，通过转译器进行静态验证并在构建时捕获缺失依赖，从而解决单体提示词导致的扩展瓶颈与运行时错误。该方法将提示词生成集成到 CI/CD 流水线中，防止代码漂移，并允许智能体通过标准 pull request 自主更新逻辑。",
-      "category": "tip",
-      "score": 56,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrnmyawl00b1bizzpp4oi6ve"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "提示词",
-        "prompt",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmrnn0tm900bsbizzxs0eg7ib",
-      "title": "OpenAI 与 Work Louder 推出 Codex Micro：用摇杆和旋钮控制 AI 智能体的紧凑键盘",
-      "title_en": "OpenAI wants developers to stop typing commands and start using a joystick to control their AI agents",
-      "url": "https://the-decoder.com/openai-wants-developers-to-stop-typing-commands-and-start-using-a-joystick-to-control-their-ai-agents",
-      "permalink": "https://aihot.virxact.com/items/cmrnn0tm900bsbizzxs0eg7ib",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-16T14:31:34.000Z",
-      "summary": "OpenAI 与键盘厂商 Work Louder 发布了 Codex Micro，一款专为控制 AI 智能体设计的紧凑硬件控制器。它通过摇杆触发代码审查、调试等常见工作流，旋钮调节推理级别以控制模型计算量，顶部六键以 RGB 灯光实时显示智能体状态。Codex Micro 售价 230 美元，目前缺货，支持蓝牙或 USB-C 连接 Mac 与 Windows。",
-      "category": "ai-products",
-      "score": 36,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrnn0tm900bsbizzxs0eg7ib"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "设计",
-        "工作流",
-        "codex",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmrnw0hk501dabixya1ypjg7l",
