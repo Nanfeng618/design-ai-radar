@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-21T08:44:42.697Z",
-  "previousGeneratedAt": "2026-07-21T03:45:02.344Z",
+  "generatedAt": "2026-07-21T14:22:00.428Z",
+  "previousGeneratedAt": "2026-07-21T08:44:42.697Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 52,
+  "itemCount": 54,
   "sourceCounts": {
-    "网站": 22,
+    "网站": 25,
     "X": 24,
-    "公众号": 6
+    "公众号": 5
   },
   "source": {
     "name": "AI HOT",
@@ -43,111 +43,57 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmrrs5q3i00ejbi5q93o5am9e",
-      "title": "Qwen3.8-Max-Preview 预览版发布，Token Plan 订阅方案升级",
-      "title_en": "Qwen 3.8 Max 预览版",
-      "url": "https://www.qwencloud.com/pricing/token-plan",
-      "permalink": "https://aihot.virxact.com/items/cmrrs5q3i00ejbi5q93o5am9e",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-19T12:25:23.982Z",
-      "summary": "通义千问发布 Qwen3.8-Max-Preview 预览版，并推出升级版 Token Plan 订阅方案。新方案提供 Individual 和 Team 两种计划，支持统一访问文本、视觉、语音和图像生成模型。Lite、Standard、Pro 三档月费计划分别支持 1-2、3-4、6-8 个并发智能体。",
+      "id": "cmruf180102bzbi1x6jtk6pls",
+      "title": "Meta 开源 Astryx：含 150+ 无障碍组件、七种主题和 CLI 的 Agent 就绪 React 设计系统",
+      "title_en": "Meta Open-Sources Astryx： An Agent-Ready React Design System With 150+ Accessible Components， Seven Themes， and a CLI",
+      "url": "https://www.marktechpost.com/2026/07/21/meta-open-sources-astryx-an-agent-ready-react-design-system-with-150-accessible-components-seven-themes-and-a-cli",
+      "permalink": "https://aihot.virxact.com/items/cmruf180102bzbi1x6jtk6pls",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-07-21T08:49:55.000Z",
+      "summary": "Meta 开源了内部运行八年、覆盖 13，000+ 应用的 React 与 StyleX 设计系统 Astryx。它提供 150+ 无障碍组件、七种主题、暗色模式、模板及一个 Agent 就绪的 CLI，采用 MIT 许可，要求 React 19+。",
       "category": "ai-products",
-      "score": 49,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrrs5q3i00ejbi5q93o5am9e"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 15,
-      "editorialScore": 18,
-      "tags": [
-        "图像生成",
-        "视觉",
-        "图像",
-        "智能体"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrrnqs5q0026bi3t1m6vcq25",
-      "title": "Google DeepMind 提出 GenCeption，将视频生成模型改造为通用视觉模型",
-      "title_en": "Google Deepmind argues video generators already contain the world models computer vision has been missing",
-      "url": "https://the-decoder.com/google-deepmind-argues-video-generators-already-contain-the-world-models-computer-vision-has-been-missing",
-      "permalink": "https://aihot.virxact.com/items/cmrrnqs5q0026bi3t1m6vcq25",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-19T10:17:49.000Z",
-      "summary": "Google DeepMind 提出 GenCeption，将阿里巴巴开源的 Wan2.1 视频生成模型改造为单次前向传播即可完成深度估计、分割等任务的模型。它仅用 7，500 段合成视频训练，数据量仅为竞品的 1/7 至 1/500，但在多个基准上匹配甚至超越了 DepthAnything 3 等专用模型。",
-      "category": "paper",
-      "score": 47,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrrnqs5q0026bi3t1m6vcq25"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 15,
-      "editorialScore": 18,
-      "tags": [
-        "视频生成",
-        "视觉",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrrmz7qd0cd3bihk552i2oja",
-      "title": "阿里云推出个人Token计划，覆盖多模态",
-      "title_en": "One Plan. Every Modality. Great Value. 🚀 Alibaba Cloud Token Plan for Individuals： ✅ Unified credi…",
-      "url": "https://x.com/alibaba_cloud/status/2078784690534670495",
-      "permalink": "https://aihot.virxact.com/items/cmrrmz7qd0cd3bihk552i2oja",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "publishedAt": "2026-07-19T10:11:06.000Z",
-      "summary": "一个计划。所有模态。超值价格。🚀\n\n阿里云个人Token计划：✅ 文本、图像和视频的统一额度 ✅ Qwen3.8-Max-Preview · GLM-5.2 · DeepSeek-V4-Pro ✅ 用于视频生成的 Happy Horse 1.1 ✅ 首月（使用优惠券后）起价 4 美元/月\n\n🔗 https://int.alibabacloud.com/m/1000415553/\n\n#阿里云 #AI #Token计划 #Qwen",
-      "category": "ai-products",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrrmz7qd0cd3bihk552i2oja"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 15,
-      "editorialScore": 18,
-      "tags": [
-        "视频生成",
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrrwse9r00dvbivc8mc2ek2m",
-      "title": "Berry Xia 实测：Claude 3D 建模与视频生成能力惊人",
-      "title_en": "卧槽！ 这货不仅是做3D 建模的一把好手啊！ 简直是我等视频小白的一把利器啊！ 突然发现我的口喷又行了啊~~看视频！ 没有任何Skills完全自己理解的情况下~，这要是搞个Skills还了得啊~",
-      "url": "https://x.com/berryxia/status/2078851241338401262",
-      "permalink": "https://aihot.virxact.com/items/cmrrwse9r00dvbivc8mc2ek2m",
-      "source": "X：Berry Xia (@berryxia)",
-      "publishedAt": "2026-07-19T14:35:33.000Z",
-      "summary": "Berry Xia 实测发现，Claude 不仅能出色完成 3D 建模，还能在无任何 Skills 辅助下，一次成型生成高质量视频。他认为若配合 Skills 能力将更强大，并称\"好久没有如此的兴奋了\"。",
-      "category": "tip",
       "score": 37,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrrwse9r00dvbivc8mc2ek2m"
+        "canonical": "https://aihot.virxact.com/items/cmruf180102bzbi1x6jtk6pls"
       },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 14,
-      "editorialScore": 17,
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 15,
+      "editorialScore": 20,
       "tags": [
-        "视频生成",
-        "视频",
-        "3d"
+        "设计系统",
+        "design system",
+        "design",
+        "设计"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmrujbb8y0i98bi07lewhdpe2",
+      "title": "Qwen-Image-3.0 发布：支持 4.5k token 输入与 10px 小字渲染",
+      "title_en": "Qwen-Image-3.0：丰富的内容、真实的细节、深厚的知识",
+      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+      "permalink": "https://aihot.virxact.com/items/cmrujbb8y0i98bi07lewhdpe2",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-21T10:38:03.030Z",
+      "summary": "阿里通义千问推出第三代基础图像生成模型 Qwen-Image-3.0，核心能力聚焦\"真实\"，支持最长 4.5k token 的指令输入，可一次性生成包含 9 个复杂信息图的 3×3 网格布局。模型能精确渲染小至 10px 的文字，并原生支持 12 种语言，可模拟网页、游戏、直播等主流界面，在学术论文、报纸等密集排版场景中保持可读性。",
+      "category": "ai-models",
+      "score": 67,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrujbb8y0i98bi07lewhdpe2"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "图像生成",
+        "界面",
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -174,32 +120,6 @@
       "tags": [
         "图像生成",
         "ui",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmru9nwvo0b1kbi7f5vi9uqfu",
-      "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
-      "title_en": "Qwen-Image-3.0： Rich Content， Authentic Details， Deep Knowledge",
-      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-      "permalink": "https://aihot.virxact.com/items/cmru9nwvo0b1kbi7f5vi9uqfu",
-      "source": "Qwen：Blog Retrieval（API）",
-      "publishedAt": "2026-07-21T06:00:00.000Z",
-      "summary": "通义千问发布第三代图像生成基座模型 Qwen-Image-3.0，核心关键词为\"实\"。该模型支持最长 4.5k token 指令输入，可单次生成包含 9 个复杂信息图的 3×3 网格布局；文本渲染精度达 10px，并支持 12 种语言原生渲染，旨在将图像转化为可部署的生产力工具。",
-      "category": "ai-models",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmru9nwvo0b1kbi7f5vi9uqfu"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "图像生成",
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
@@ -252,6 +172,60 @@
       "editorialScore": 15,
       "tags": [
         "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmrui8znj0atdbi07jixiw7qy",
+      "title": "阿里云HappyHorse 1.1获AI视频黑客松卓越奖",
+      "title_en": "🎖️ Excellence Award at the AI Video Hackathon Tokyo A compelling PR film for a new venture-crafted…",
+      "url": "https://x.com/alibaba_cloud/status/2079507022345650415",
+      "permalink": "https://aihot.virxact.com/items/cmrui8znj0atdbi07jixiw7qy",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-07-21T10:01:24.000Z",
+      "summary": "阿里云旗下HappyHorse 1.1在东京AI视频黑客松中荣获卓越奖。获奖作品《连接现实的工程师》仅用一晚完成，以15秒短片展现工程创新与人文关怀的结合。用户可通过链接免费试用该视频生成模型。",
+      "category": "industry",
+      "score": 30,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrui8znj0atdbi07jixiw7qy"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmruh6fcq049nbi0719ok5q99",
+      "title": "阿里云东京AI视频黑客松落幕，HappyHorse 1.1助力创作",
+      "title_en": "We're thrilled to announce the successful conclusion of our AI Video Hackathon in Tokyo. Over 50 cre…",
+      "url": "https://x.com/alibaba_cloud/status/2079499930159247403",
+      "permalink": "https://aihot.virxact.com/items/cmruh6fcq049nbi0719ok5q99",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-07-21T09:33:13.000Z",
+      "summary": "阿里云在东京举办AI视频黑客松，50多位创作者使用全球排名第一的AI视频生成模型HappyHorse，在一夜内完成15秒电影级广告片。大奖作品利用通勤列车离心力烘干衣物的创意，由HappyHorse 1.1生成。",
+      "category": "industry",
+      "score": 27,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmruh6fcq049nbi0719ok5q99"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "广告",
+        "创意",
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
@@ -338,6 +312,32 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmrulcd6b0w8hbi07isp68dyh",
+      "title": "ShotPlan：基于可学习规划token的电影级视频生成框架",
+      "title_en": "ShotPlan： Cinematic Video Generation with Learnable Planning Token",
+      "url": "https://arxiv.org/abs/2607.17675",
+      "permalink": "https://aihot.virxact.com/items/cmrulcd6b0w8hbi07isp68dyh",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-20T00:00:00.000Z",
+      "summary": "ShotPlan提出一种显式多镜头电影级视频生成框架，通过可学习规划token（planning tokens）与分数时间旋转位置编码（FRoPE）在帧级别控制镜头切换。实验表明，该方法在镜头管理和跨镜头一致性上显著优于现有电影级视频生成方法。",
+      "category": "paper",
+      "score": 56,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrulcd6b0w8hbi07isp68dyh"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmrucrmwi0wkfbi7fwacw6p5p",
       "title": "FlowMimic：无需遮罩的在线视频编辑数据生成与模态模仿框架",
       "title_en": "FlowMimic： Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry",
@@ -389,33 +389,6 @@
         "原型",
         "视频",
         "agent"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrrxaez700h1bivczr4a5mka",
-      "title": "生数科技朱军：从视频生成到世界模型的演进路径",
-      "title_en": "WAIC 2026 特别对话|央视专访朱军：AI从生成视频，到理解世界",
-      "url": "https://mp.weixin.qq.com/s/xE3SffTQWY0yRtqUA3cY4A",
-      "permalink": "https://aihot.virxact.com/items/cmrrxaez700h1bivczr4a5mka",
-      "source": "公众号：生数科技（Vidu·视频）",
-      "publishedAt": "2026-07-19T14:31:17.000Z",
-      "summary": "生数科技创始人朱军阐释了从视频生成到世界模型的演进路径。公司发布的实时交互模型Vidu S1支持无限时长连续生成与语音交互，世界动作模型Motubrain在RoboTwin 2.0的50余项复杂任务中平均成功率超过95%。",
-      "category": "tip",
-      "score": 46,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrrxaez700h1bivczr4a5mka"
-      },
-      "sourceType": "公众号",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视频生成",
-        "交互",
-        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -607,56 +580,32 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cmrrsfl5900i5bi5qjlz0v3bl",
-      "title": "Emad：开源SD模型加速行业资本投入",
-      "title_en": "I am pretty sure the open weight release of stable diffusion was accelerationist &amp； led to huge c…",
-      "url": "https://x.com/EMostaque/status/2078812674868023419",
-      "permalink": "https://aihot.virxact.com/items/cmrrsfl5900i5bi5qjlz0v3bl",
-      "source": "X：Emad Mostaque (@EMostaque)",
-      "publishedAt": "2026-07-19T12:02:18.000Z",
-      "summary": "我很确定稳定扩散的开源权重发布是加速主义的，并导致了巨大的资本支出\n\n至于这是否是AI共产主义，嗯",
+      "id": "cmrupmpuw0755biuff0tzsfv5",
+      "title": "Anthropic 团队透露 Claude Tag 承担 65% 产品工程 PR，系统提示词缩减 80%",
+      "title_en": "A Fireside Chat with Cat and Thariq from the Claude Code team",
+      "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq",
+      "permalink": "https://aihot.virxact.com/items/cmrupmpuw0755biuff0tzsfv5",
+      "source": "Simon Willison 博客",
+      "publishedAt": "2026-07-21T12:54:02.000Z",
+      "summary": "Anthropic 的 Cat Wu 和 Thariq Shihipar 在炉边对话中透露，Claude Tag 现已承担 Claude Code 团队 65% 的产品工程 PR。Claude Code 系统提示词最近缩减了 80%，团队越来越多地依赖自动化代码审查处理产品\"外层\"变更。Fable 已能一次性完成大量功能实现，Thariq 还用它编辑了自己的产品发布视频。",
       "category": "tip",
-      "score": 30,
-      "selected": false,
+      "score": 75,
+      "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrrsfl5900i5bi5qjlz0v3bl"
+        "canonical": "https://aihot.virxact.com/items/cmrupmpuw0755biuff0tzsfv5"
       },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 10,
+      "editorialScore": 11,
       "tags": [
-        "stable diffusion"
+        "视频",
+        "提示词",
+        "自动化",
+        "claude code"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrrrbz8c007hbi5qywfxyk7p",
-      "title": "可灵AI助力神话与K-pop融合MV获奖",
-      "title_en": "When Ancient Myth Meets K-pop Energy🌙 Step into \"BARIDEGI\" by Park Soleun， Lee Hyerin & Son Seoyeo…",
-      "url": "https://x.com/Kling_ai/status/2078812095341334683",
-      "permalink": "https://aihot.virxact.com/items/cmrrrbz8c007hbi5qywfxyk7p",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "publishedAt": "2026-07-19T12:00:00.000Z",
-      "summary": "当古老神话遇上K-pop能量🌙\n\n走进Park Soleun、Lee Hyerin与Son Seoyeong的《BARIDEGI》--一场神话、音乐与想象力的惊艳融合。\n\n祝贺Park Soleun、Lee Hyerin、Son Seoyeong荣获可灵AI NEXTGEN 2026韩国大学创意挑战赛最佳音乐视频奖！",
-      "category": "tip",
-      "score": 21,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrrrbz8c007hbi5qywfxyk7p"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
-      "tags": [
-        "可灵",
-        "创意",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmru4b1q055r8bihzj6gjx2cj",
@@ -864,6 +813,31 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmrunlzl4022ibi7yb5yk3nok",
+      "title": "生成式AI的\"老虎机效应\"：为何它会破坏深度工作及如何重拾专注",
+      "title_en": "The AI Slot Machine Effect： Why Generative Feeds Disrupt Deep Work And How to Reclaim Focus",
+      "url": "https://www.artificialintelligence-news.com/news/the-ai-slot-machine-effect-why-generative-feeds-disrupt-deep-work-and-how-to-reclaim-focus",
+      "permalink": "https://aihot.virxact.com/items/cmrunlzl4022ibi7yb5yk3nok",
+      "source": "Artificial Intelligence News（RSS）",
+      "publishedAt": "2026-07-21T12:50:06.000Z",
+      "summary": "2026年知识工作者发现，生成式AI工具的设计目标--让用户停留更久--与高效完成任务的初衷相悖，形成了类似老虎机的可变奖励循环，不断消耗深度工作所需的时间。MIT Technology Review的分析显示，AI在客服和软件开发领域分别带来约14%和26%的效率提升，但在判断密集型工作中收益骤减。",
+      "category": "tip",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrunlzl4022ibi7yb5yk3nok"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmru9nj1y0axibi7fy6lrsehk",
@@ -1255,29 +1229,83 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmrrvig4h01ctbi5qyidwptd7",
-      "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
-      "title_en": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-      "url": "https://x.com/OpenBMB/status/2078839529591759025",
-      "permalink": "https://aihot.virxact.com/items/cmrrvig4h01ctbi5qyidwptd7",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "publishedAt": "2026-07-19T13:49:01.000Z",
-      "summary": "面壁智能开源首个具身AI模型系列 MiniCPM-Robot，包含 1.5B 参数的通用视觉-语言-动作（VLA）模型 MiniCPM-RobotManip 和用于目标跟踪的 MiniCPM-RobotTrack。同时发布高性能推理框架 PhyAI，旨在让机器人实现理解、记忆与行动。",
-      "category": "ai-models",
-      "score": 71,
-      "selected": true,
+      "id": "cmrupqkf507tfbiufsakbz2k7",
+      "title": "Claude Code 系统提示词削减80%的实战经验",
+      "title_en": "Claude Code 的系统提示词被削减了 80% ？！ AI Engineer World's Fair 炉边对谈，Simon Willison 主持，对谈嘉宾为 Claude Code 产品负…",
+      "url": "https://x.com/shao__meng/status/2079559716448125205",
+      "permalink": "https://aihot.virxact.com/items/cmrupqkf507tfbiufsakbz2k7",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-07-21T13:30:47.000Z",
+      "summary": "Claude Code 产品负责人 Cat Wu 和工程师 Thariq Shihipar 透露，其系统提示词已削减80%，适用于 Fable 5 和 Opus 4.8 等前沿模型。",
+      "category": "tip",
+      "score": 66,
+      "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrrvig4h01ctbi5qyidwptd7"
+        "canonical": "https://aihot.virxact.com/items/cmrupqkf507tfbiufsakbz2k7"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
       "tags": [
-        "视觉"
+        "提示词",
+        "claude code"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmrt3qvvw0nt0bitlkobaadtz",
+      "title": "Claude Code Desktop 新增项目创建 UI 与可见性选项",
+      "title_en": "Anthropic is adding a new dedicated UI for Project creation on Claude Code Desktop. Enterprise and…",
+      "url": "https://x.com/testingcatalog/status/2079151275304792475",
+      "permalink": "https://aihot.virxact.com/items/cmrt3qvvw0nt0bitlkobaadtz",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "publishedAt": "2026-07-20T10:27:47.000Z",
+      "summary": "Anthropic 为 Claude Code Desktop 新增专用项目创建 UI，企业版和团队版用户可在个人与共享可见性之间选择。项目作为单一工作流的容器，会话共享记忆和指令以实现上下文延续，并仅创建和管理云端会话。该功能尚未公开上线。",
+      "category": "ai-products",
+      "score": 29,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrt3qvvw0nt0bitlkobaadtz"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "ui",
+        "工作流",
+        "claude code"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmrsxay70007pbitlges9cr9t",
+      "title": "Kimi K3 修复 GPT-5.6 拒绝处理的 15 个漏洞",
+      "title_en": "Kimi fixed all 15 critical bugs in 10 hours in a single prompt that GPT-5.6 and Fable 5 refused to f…",
+      "url": "https://x.com/kimmonismus/status/2079102866690638334",
+      "permalink": "https://aihot.virxact.com/items/cmrsxay70007pbitlges9cr9t",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-07-20T07:15:25.000Z",
+      "summary": "Kimi 在 10 小时内用单条提示词修复了全部 15 个严重 bug，而 GPT-5.6 和 Fable 5 因护栏拒绝修复。对中国开源模型的敬意与日俱增。",
+      "category": "tip",
+      "score": 36,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrsxay70007pbitlges9cr9t"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "提示词",
+        "prompt"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmrstst2c003rbi0i3cvumq21",
@@ -1385,6 +1413,32 @@
       "tags": [
         "vibe coding",
         "agent"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmruewt2q01embi1xh8wgpcbq",
+      "title": "WorldCupArena：面向大语言模型与深度研究智能体的足球预测细粒度评测基准",
+      "title_en": "WorldCupArena： Fine-Grained Evaluation of Language Models and Deep-Research Agents on Football Forecasting",
+      "url": "https://arxiv.org/abs/2607.18084",
+      "permalink": "https://aihot.virxact.com/items/cmruewt2q01embi1xh8wgpcbq",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-20T00:00:00.000Z",
+      "summary": "上海交通大学等机构发布 WorldCupArena，一个针对大语言模型和深度研究智能体的动态评测基准，首次评估覆盖 2026 年 FIFA 世界杯全部 104 场比赛与 13 个系统。结果显示，结果准确率相近的模型在比分、球员等细粒度预测上差异显著；最佳系统相比博彩市场和球迷基线仅在比分接近度上有明显优势。代码、提示词、预测和评估脚本已开源。",
+      "category": "paper",
+      "score": 65,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmruewt2q01embi1xh8wgpcbq"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "提示词",
+        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     }
