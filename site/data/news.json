@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-22T03:46:19.228Z",
-  "previousGeneratedAt": "2026-07-21T14:22:00.428Z",
+  "generatedAt": "2026-07-22T08:44:24.145Z",
+  "previousGeneratedAt": "2026-07-22T03:46:19.228Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 58,
+  "itemCount": 57,
   "sourceCounts": {
-    "网站": 32,
+    "网站": 30,
     "X": 24,
-    "公众号": 2
+    "公众号": 3
   },
   "source": {
     "name": "AI HOT",
@@ -97,6 +97,33 @@
         "设计"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmrvmzjnv03ypbihbhkzhy0nw",
+      "title": "用 GPT-5.6、Claude、Gemini 和 Grok \"绘制\"《蒙娜丽莎》--AI 图像生成能力实测",
+      "title_en": "使用 GPT-5.6、Claude、Gemini 和 Grok \"绘制\"《蒙娜丽莎》",
+      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+      "permalink": "https://aihot.virxact.com/items/cmrvmzjnv03ypbihbhkzhy0nw",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-22T04:52:13.376Z",
+      "summary": "开发者使用 GPT-5.6、Claude、Gemini 和 Grok 分别尝试\"绘制\"《蒙娜丽莎》，对比各模型的图像生成效果。测试展示了不同 AI 在艺术风格还原、细节处理上的差异，GPT-5.6 在构图准确性上表现突出，而 Claude 和 Gemini 各有侧重。该实验为评估多模态模型的视觉创作能力提供了直观参考。",
+      "category": "tip",
+      "score": 49,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrvmzjnv03ypbihbhkzhy0nw"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 15,
+      "editorialScore": 18,
+      "tags": [
+        "图像生成",
+        "视觉",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmruw28on0077biymtun5fh2o",
@@ -232,32 +259,6 @@
         "设计"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmrtirgkp3n0ybitlf25zqtwv",
-      "title": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》",
-      "title_en": "District 9 director Neill Blomkamp releases first short film made entirely with AI video generation",
-      "url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation",
-      "permalink": "https://aihot.virxact.com/items/cmrtirgkp3n0ybitlf25zqtwv",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-20T17:32:41.000Z",
-      "summary": "Neill Blomkamp发布了13分钟科幻恐怖短片《Nightborne》，完全使用Seedance 2.0视频生成模型通过文本提示逐帧创作。影片采用纪录片风格，使用了32位真实人物的面部和声音（已获授权），人类艺术家负责概念艺术。Blomkamp表示计划以相同格式拍摄一部长片，并已创立AI电影工作室Barley Studios。",
-      "category": "industry",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrtirgkp3n0ybitlf25zqtwv"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "视频生成",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmrviojel02ntbihb38wjx6c1",
@@ -501,6 +502,89 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmrvra3a3003zbipz1tvxjt5r",
+      "title": "腾讯设计Agent Miora全量上线，支持品牌VI与多模型",
+      "title_en": "http://x.com/i/article/2079820128330649600",
+      "url": "https://x.com/Khazix0918/status/2079823300466012438",
+      "permalink": "https://aihot.virxact.com/items/cmrvra3a3003zbipz1tvxjt5r",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "publishedAt": "2026-07-22T06:58:10.000Z",
+      "summary": "腾讯设计Agent平台Miora正式全量开放，无需邀请码。它提供品牌设计、影视创意、电商广告、互动游戏、网页应用五大场景模式，内置Skill模板和画板编辑功能。Agent底模分Standard/Pro/Max三档，可调用GPT-image、Seedance、可灵等多模态模型，支持框选编辑、文字替换及自定义Skill发布。",
+      "category": "tip",
+      "score": 75,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrvra3a3003zbipz1tvxjt5r"
+      },
+      "sourceType": "X",
+      "designCategory": "行业观察",
+      "relevanceScore": 13,
+      "editorialScore": 13,
+      "tags": [
+        "可灵",
+        "设计",
+        "广告",
+        "创意"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
+      "id": "cmrvmyf6r03wmbihbt23mfoi9",
+      "title": "AI游戏《奥德赛》成本仅为诺兰电影的百万分之一",
+      "title_en": "AI生视频和生图一定会改变未来的内容消费形态，多剧情游戏可能是其中一种。 这个AI游戏有点致敬诺兰的新片奥德赛。 游戏中的视频做的很不错，场面相当宏大壮观。 对话式选择，生成不同的剧情走向…",
+      "url": "https://x.com/vista8/status/2079793236231774617",
+      "permalink": "https://aihot.virxact.com/items/cmrvmyf6r03wmbihbt23mfoi9",
+      "source": "X：Vista (@vista8)",
+      "publishedAt": "2026-07-22T04:58:42.000Z",
+      "summary": "创作者用Yoroll平台花费约250美元、2天时间，将《奥德赛》改编成40分钟可玩的AI互动剧情游戏。相比诺兰2.5亿美元的电影制作成本，百万倍的成本差距正改变内容创作的门槛。游戏支持对话式选择生成不同剧情走向，画面宏大，适合边玩边学英语。",
+      "category": "ai-products",
+      "score": 29,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrvmyf6r03wmbihbt23mfoi9"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 10,
+      "editorialScore": 13,
+      "tags": [
+        "生图",
+        "内容创作",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmrvlsaaw03kdbihb7l4urwb5",
+      "title": "Ant Design Vue 作者唐金州开源视频剪辑 Skill Pireel",
+      "title_en": "开整啊，这个剪辑SKILLS~ 曾经那个靠开源项目Ant Design Vue赚到300万的人，现在又回来开源了。 老唐也尝试过闭源项目，但回报远不如当年开源带来的价值高。 他这次干脆直接开源了…",
+      "url": "https://x.com/berryxia/status/2079786125644923132",
+      "permalink": "https://aihot.virxact.com/items/cmrvlsaaw03kdbihb7l4urwb5",
+      "source": "X：Berry Xia (@berryxia)",
+      "publishedAt": "2026-07-22T04:30:27.000Z",
+      "summary": "Ant Design Vue 作者唐金州开源了 Pireel，一个专为 Codex 设计的视频剪辑 Skill。通过 `npx skills add pireel/pireel-agent` 即可安装，它能根据视频内容智能匹配主题，内置 20 多种 HyperFrames 主题，主打口播类场景。",
+      "category": "ai-products",
+      "score": 38,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrvlsaaw03kdbihb7l4urwb5"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "design",
+        "设计",
+        "视频",
+        "codex"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "cmrux96jl0079binvqqdjdhaw",
       "title": "Google 3.6 Flash 模型生成可3D打印数学艺术",
       "title_en": "One of our engineers built an interactive math art generator using the new 3.6 Flash model. You can …",
@@ -582,58 +666,29 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmrtsfci122q4bihz327edec7",
-      "title": "Ramp 推出模型路由，一个端点调用最优模型",
-      "title_en": "Huge launch from @tryramp. Different steps in an agent workflow can use different models. This can …",
-      "url": "https://x.com/omarsar0/status/2079327744458944970",
-      "permalink": "https://aihot.virxact.com/items/cmrtsfci122q4bihz327edec7",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "publishedAt": "2026-07-20T22:09:00.000Z",
-      "summary": "Ramp 发布 Ramp Router，一个 OpenAI 兼容的模型路由端点。它能在智能体工作流中为不同步骤自动选择 GPT、Claude、Gemini 等最优模型，无需重写应用即可降低成本。该路由已为 7 万客户内部运行三年，现对外开放。",
-      "category": "ai-products",
-      "score": 38,
+      "id": "cmrvlw3ki03n1bihbgympr4af",
+      "title": "商汤 SenseNova-Vision 开源统一视觉模型",
+      "title_en": "Thank you. Yes， that's the whole point - replace the multi-tool pipeline headache with one model tha…",
+      "url": "https://x.com/SenseTime_AI/status/2079784489199518131",
+      "permalink": "https://aihot.virxact.com/items/cmrvlw3ki03n1bihbgympr4af",
+      "source": "X：商汤 SenseTime (@SenseTime_AI)",
+      "publishedAt": "2026-07-22T04:23:57.000Z",
+      "summary": "商汤发布 SenseNova-Vision，一个通过自然语言提示词即可完成检测、分割、深度估计、OCR、3D 重建等多项视觉任务的统一模型，无需串联多个专用工具。该模型在关键基准上超越近期统一视觉方案，并已完全开源（权重、数据、代码、Demo、论文）。",
+      "category": "ai-models",
+      "score": 54,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrtsfci122q4bihz327edec7"
+        "canonical": "https://aihot.virxact.com/items/cmrvlw3ki03n1bihbgympr4af"
       },
       "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 11,
-      "editorialScore": 12,
-      "tags": [
-        "工作流",
-        "workflow",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmrtsfndu22tfbihzuhc83gk9",
-      "title": "Nativ：在 Mac 上本地运行前沿开放模型",
-      "title_en": "Nativ：在您的 Mac 上本地运行 Frontier 开放模型",
-      "url": "https://blaizzy.github.io/nativ",
-      "permalink": "https://aihot.virxact.com/items/cmrtsfndu22tfbihzuhc83gk9",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-20T21:55:08.620Z",
-      "summary": "Nativ 发布 macOS 桌面应用，让用户在 Apple Silicon（M1+）上本地运行 Google、Cohere、Liquid AI 等开放模型，无需账户或订阅。应用支持语言、视觉、视频、代码、音频等多模态交互，并提供实时 token/秒、内存压力等性能指标。Nativ 完全开源（MIT 许可），内置本地端点，可对接 Claude Code、Codex 等编码智能体。",
-      "category": "ai-products",
-      "score": 67,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrtsfndu22tfbihzuhc83gk9"
-      },
-      "sourceType": "网站",
       "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
+      "relevanceScore": 8,
+      "editorialScore": 11,
       "tags": [
         "视觉",
-        "交互",
-        "视频",
-        "codex"
+        "3d",
+        "提示词"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -743,31 +798,6 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrtvmax830psbihzp9jlsf97",
-      "title": "Adobe Project Indigo 1.1 新增 AI 指导拍照功能，采用谷歌 Nano Banana 模型",
-      "title_en": "Adobe 相机应用 Project Indigo 测试新功能：AI 指导你怎么拍更出片",
-      "url": "https://www.ithome.com/0/979/273.htm",
-      "permalink": "https://aihot.virxact.com/items/cmrtvmax830psbihzp9jlsf97",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-20T23:04:24.000Z",
-      "summary": "Adobe 相机应用 Project Indigo 1.1 版新增多项生成式 AI 照片编辑功能，包括一键清除干扰元素、营造浅景深效果、套用风格和调整光线。AI Playground 可分析照片并提出改进建议，目前采用谷歌 Nano Banana 模型，后续有望支持其他模型。该功能处于小规模试验阶段，未来几周免费开放给少量用户，若受欢迎将改为收费服务。",
-      "category": "ai-products",
-      "score": 31,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrtvmax830psbihzp9jlsf97"
-      },
-      "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 6,
-      "editorialScore": 11,
-      "tags": [
-        "adobe"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "cmrvhhyvt028sbihbxv6j3hw7",
@@ -920,6 +950,32 @@
       "editorialScore": 10,
       "tags": [
         "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmrvls9qg03jtbihbfhtx203y",
+      "title": "ABot-World-0：单张桌面级GPU实现无限交互式世界生成",
+      "title_en": "ABot-World-0： Infinite Interactive World Rollout on a Single Desktop GPU",
+      "url": "https://arxiv.org/abs/2607.19191",
+      "permalink": "https://aihot.virxact.com/items/cmrvls9qg03jtbihbfhtx203y",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-21T15:26:50.000Z",
+      "summary": "ABot-World-0是一个动作条件视频世界模型，能在单张NVIDIA RTX 5090 GPU上以720P分辨率、最高16 FPS、1.2秒动作到首帧延迟和约19 GiB峰值显存预算运行无限交互式世界生成。该模型采用统一的帧同步键盘动作接口，通过LongForcing分布匹配阶段解决长程自回归漂移问题，并集成轻量级VAE解码器、低比特DiT推理和局部上下文KV缓存等系统级优化。",
+      "category": "paper",
+      "score": 83,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrvls9qg03jtbihbfhtx203y"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互",
+        "视频"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
@@ -1104,6 +1160,34 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmrvl3qgw03hubihbavi1fla0",
+      "title": "腾讯设计Agent平台Miora全面开放",
+      "title_en": "腾讯悄悄上线了他们第一个设计Agent - Miora。",
+      "url": "https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ",
+      "permalink": "https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-07-22T04:21:03.000Z",
+      "summary": "腾讯设计Agent平台Miora今日全面开放，无需邀请码即可使用。该平台由WorkBuddy团队打造，提供品牌设计、影视创意等五大场景模式，支持自定义多模态模型和Agent推理深度，并内置Skill市场与记忆系统。",
+      "category": "ai-products",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0"
+      },
+      "sourceType": "公众号",
+      "designCategory": "行业观察",
+      "relevanceScore": 9,
+      "editorialScore": 9,
+      "tags": [
+        "设计",
+        "创意",
+        "品牌",
+        "agent"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
       "id": "cmrvfglwy01pkbihby5wybx6z",
       "title": "Plasma 开源 Fractal：将单个 AI 编码会话转变为持久智能体树",
       "title_en": "Plasma just open-sourced Fractal， a command-line tool that lets agent loops create more agent loops….",
@@ -1236,33 +1320,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmrtn1pq30frtbihzzjk3tovc",
-      "title": "OpenRouter上线Krea 2三款图像模型",
-      "title_en": "Live on OpenRouter： Krea 2 from @krea_ai. Three image models built for creative control， style refe…",
-      "url": "https://x.com/OpenRouter/status/2079290126837133523",
-      "permalink": "https://aihot.virxact.com/items/cmrtn1pq30frtbihzzjk3tovc",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-07-20T19:39:32.000Z",
-      "summary": "Live on OpenRouter： Krea 2 from @krea_ai.\n\n三款图像模型，专为创意控制、风格参考和快速迭代而构建。\n\n关于 Krea 2 Large、Medium 和 Medium Turbo 的更多信息见下方 🧵",
-      "category": "ai-models",
-      "score": 48,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrtn1pq30frtbihzzjk3tovc"
-      },
-      "sourceType": "X",
-      "designCategory": "行业观察",
-      "relevanceScore": 9,
-      "editorialScore": 9,
-      "tags": [
-        "创意",
-        "creative",
-        "图像"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
       "id": "cmrv2lgp601szbinvun89ny0w",
       "title": "Claude Cowork 上线屏幕录制教学技能",
       "title_en": "Claude Cowork just launched a super useful feature. Screen recording to train it a new skill. You r…",
@@ -1286,58 +1343,6 @@
         "自动化",
         "codex",
         "skill"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmruv3tdt004jbii0s5yqnvwz",
-      "title": "Codex 更新：更快更易用的导航体验",
-      "title_en": "Codex is getting faster and easier to navigate. We shipped updates across long chats， the sidebar， …",
-      "url": "https://x.com/OpenAIDevs/status/2079595537658151209",
-      "permalink": "https://aihot.virxact.com/items/cmruv3tdt004jbii0s5yqnvwz",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "publishedAt": "2026-07-21T15:53:07.000Z",
-      "summary": "Codex 变得更快、更易导航。\n\n我们推出了跨长对话、侧边栏、审查、侧聊以及日常工作流的更新。",
-      "category": "ai-products",
-      "score": 28,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmruv3tdt004jbii0s5yqnvwz"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "工作流",
-        "codex"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmrutwsuv0010bijqtirsdkyx",
-      "title": "Google AI 推出 Gemini 3.6 Flash 与 3.5 Flash-Lite 两款新模型",
-      "title_en": "Today， we're introducing not one but TWO new models， striking the balance between efficiency and qua…",
-      "url": "https://x.com/GoogleAI/status/2079589742535118985",
-      "permalink": "https://aihot.virxact.com/items/cmrutwsuv0010bijqtirsdkyx",
-      "source": "X：Google AI (@GoogleAI)",
-      "publishedAt": "2026-07-21T15:30:06.000Z",
-      "summary": "Google AI 今日推出 Gemini 3.6 Flash 和 Gemini 3.5 Flash-Lite 两款新模型。前者在编码、知识工作与多模态任务上比 3.5 Flash 更快、更准且消耗更少 token；后者输出速度约 350 token/秒，是 3.5 系列中最快、最具成本效益的模型，专为智能体工作流优化。",
-      "category": "ai-models",
-      "score": 67,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrutwsuv0010bijqtirsdkyx"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "工作流",
-        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -1467,33 +1472,6 @@
       "tags": [
         "prompt",
         "agent"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmrto59ur0r4pbihzr3mw76t5",
-      "title": "Kimi Work：本地桌面智能体，支持24/7自动化与网页浏览",
-      "title_en": "Kimi Work",
-      "url": "https://www.kimi.com/products/kimi-work",
-      "permalink": "https://aihot.virxact.com/items/cmrto59ur0r4pbihzr3mw76t5",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-20T19:47:12.537Z",
-      "summary": "Kimi Work是一款本地运行的桌面智能体，内置Cron引擎实现全天候自动化任务调度，支持LLM Agent调用和Python/Shell脚本执行。其WebBridge功能可让智能体自主浏览网页、提取数据并执行多步骤操作。该工具还具备多智能体协作能力，可一键将研究成果转为PowerPoint或Excel文件，并预集成A股、港股、美股市场数据。",
-      "category": "ai-products",
-      "score": 52,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrto59ur0r4pbihzr3mw76t5"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "自动化",
-        "agent",
-        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
