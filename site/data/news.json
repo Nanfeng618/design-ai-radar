@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-23T03:44:35.001Z",
-  "previousGeneratedAt": "2026-07-22T14:21:56.982Z",
+  "generatedAt": "2026-07-23T08:44:32.368Z",
+  "previousGeneratedAt": "2026-07-23T03:44:35.001Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 44,
+  "itemCount": 43,
   "sourceCounts": {
     "X": 24,
-    "网站": 16,
+    "网站": 15,
     "公众号": 4
   },
   "source": {
@@ -153,6 +153,61 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmrx4o1ik007xro4bliu21v9w",
+      "title": "Grok Build v0.2.111 更新：开发者控制增强",
+      "title_en": "Grok Build gets better every day http://X.ai/cli",
+      "url": "https://x.com/elonmusk/status/2080170228554903796",
+      "permalink": "https://aihot.virxact.com/items/cmrx4o1ik007xro4bliu21v9w",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "publishedAt": "2026-07-23T05:56:44.000Z",
+      "summary": "xAI 发布 Grok Build v0.2.111 更新，开发者现可通过 config.toml 或环境变量禁用图像与视频生成工具。新版本在 TUI 内直接支持 `grok doctor fix` 诊断命令，`/session-info` 可显示 OAuth 或 API key 账户信息。此外修复了多项会话可靠性问题，并降低了 macOS 语音模式的显存占用。",
+      "category": "ai-products",
+      "score": 29,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrx4o1ik007xro4bliu21v9w"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 14,
+      "editorialScore": 17,
+      "tags": [
+        "视频生成",
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmrx2g36r00raroqpajuirv8b",
+      "title": "DeepSeek 梁文锋：产品是AGI副产品，代码与通用Agent优先",
+      "title_en": "DeepSeek founder Liang Wenfeng's doctrine #1： 1. Products are just a byproduct on the path to AGI， …",
+      "url": "https://x.com/thexpin/status/2080160617667985438",
+      "permalink": "https://aihot.virxact.com/items/cmrx2g36r00raroqpajuirv8b",
+      "source": "X：X.PIN (@thexpin)",
+      "publishedAt": "2026-07-23T05:18:33.000Z",
+      "summary": "DeepSeek 创始人梁文锋在投资者会议上阐述其核心原则：产品只是通往 AGI 路上的副产品，当前不以营收为重心；3D/视频生成及世界模型不在主计划内，多模态仅作为产品组件而非核心智能。公司优先投入代码与通用 AI 智能体，行业专用智能体可暂缓，模型幻觉被视为长期产品问题而非当前重点。",
+      "category": "tip",
+      "score": 47,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrx2g36r00raroqpajuirv8b"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 14,
+      "editorialScore": 17,
+      "tags": [
+        "视频生成",
+        "视频",
+        "3d",
+        "agent"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmrwl9tkq002fro9lcov2opaa",
       "title": "DAIR.AI 社区新界面由多模型协作构建",
       "title_en": "Just implemented a new interface for our @dair_ai community. I first brainstormed a concept design …",
@@ -179,6 +234,34 @@
         "提示词"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmrwzfumb0003ros2qq2d593h",
+      "title": "梁文锋四小时投资人会议实录：DeepSeek 的克制战略与 AGI 路线图",
+      "title_en": "梁文锋四小时投资人会议实录",
+      "url": "https://elsewhere.news/zh/elsewhere/wenfeng-liangs-four-hour-investor-meeting-full-transcript",
+      "permalink": "https://aihot.virxact.com/items/cmrwzfumb0003ros2qq2d593h",
+      "source": "elsewhere：文章（RSS）",
+      "publishedAt": "2026-07-22T15:33:15.000Z",
+      "summary": "DeepSeek 创始人梁文锋在投资人会议上明确表示，公司主线只有 AGI，不做 3D、视频生成、世界模型或下一个超级 App，并坚持开源与合理定价。他认为模型竞争的核心是成本、时间与用户体验，而保持团队稳定性是做成 AGI 的关键。梁文锋称，DeepSeek 离彻底转向商业化仍很遥远，开源与克制是增加 AGI 成功概率的战略选择。",
+      "category": "tip",
+      "score": 56,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrwzfumb0003ros2qq2d593h"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 14,
+      "editorialScore": 17,
+      "tags": [
+        "用户体验",
+        "视频生成",
+        "视频",
+        "3d"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmrvfcs3101lfbihb7tjytc4n",
@@ -341,30 +424,29 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmrv91jv600h2bi8rywp4do8r",
-      "title": "《第九区》导演 Blomkamp 发布 AI 短片《Nightborne》，全片由字节跳动 Seedance 2.0 生成",
-      "title_en": "Neill Blomkamp's new zombie AI 'film' is just slop warmed over",
-      "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
-      "permalink": "https://aihot.virxact.com/items/cmrv91jv600h2bi8rywp4do8r",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-07-21T22:06:43.000Z",
-      "summary": "《第九区》导演 Neill Blomkamp 发布 13 分钟科幻短片《Nightborne》，所有镜头均由字节跳动 Seedance 2.0 文生视频模型生成，并使用了 32 位人类演员肖像。影片因画面细节混乱、角色表演缺乏真实感而被广泛批评为\"AI 垃圾\"，Blomkamp 的创作风格几乎消失。",
+      "id": "cmrx7xiz000nlrorq3fekmguw",
+      "title": "梁文锋：排名是暂时的，终局拼成本与时间",
+      "title_en": "damn，被梁文锋 4 小时投资人会议纪要刷屏了， 我关心的不是又多了一堆金句啥的，是他几乎在用同一套坐标系，把四件很多人拆开吵的事钉在一起了， （以下据流传纪要转述，细节以原始记录为准。） 1…",
+      "url": "https://x.com/AYi_AInotes/status/2080191915723534516",
+      "permalink": "https://aihot.virxact.com/items/cmrx7xiz000nlrorq3fekmguw",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-07-23T07:22:55.000Z",
+      "summary": "梁文锋在投资人会议纪要中提出，Anthropic 当前超过 OpenAI 是阶段性现象，OpenAI 与 Google 未来大概率会交替上升。他认为终局竞争的核心是成本、时间与用户体验，成本并非低价促销，而是\"同样质量下用多少算力才能端得住\"。他更提出目标：用几分之一的算力，将中美 AI 叙事差距缩至 6 个月、3 个月。",
       "category": "tip",
-      "score": 40,
+      "score": 50,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrv91jv600h2bi8rywp4do8r"
+        "canonical": "https://aihot.virxact.com/items/cmrx7xiz000nlrorq3fekmguw"
       },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
       "tags": [
-        "文生视频",
-        "视频"
+        "用户体验"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmrvra3a3003zbipz1tvxjt5r",
@@ -792,6 +874,31 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmrwz3b2v03y0robh2j8sh6gx",
+      "title": "SetwiseEvalKit：面向文档集合交互质量的评测基准与优化框架",
+      "title_en": "Beyond Relevance-Centric Retrieval： Rubric-Oriented Document Set Selection and Ranking",
+      "url": "https://arxiv.org/abs/2607.19747",
+      "permalink": "https://aihot.virxact.com/items/cmrwz3b2v03y0robh2j8sh6gx",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-22T00:00:00.000Z",
+      "summary": "研究者提出SetwiseEvalKit，一个覆盖短文本与长文本场景、包含约28K条高质量评估准则的三级九维度文档集合评测基准。对12种重排序器的评估显示，最佳方法覆盖率不足45%，跨文档协调维度普遍薄弱。基于此提出的免训练方法Rubric4Setwise将准则转化为集合选择信号，在更少文档和搜索轮次下取得最优下游生成性能，是唯一在两个场景均保持SOTA的方法。",
+      "category": "paper",
+      "score": 67,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrwz3b2v03y0robh2j8sh6gx"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "cmrwusxrp02mlrobhao8ytzwz",
       "title": "ATSplat：自适应 token 扩展的紧凑前馈 3D 高斯泼溅",
       "title_en": "ATSplat： Compact Feed-forward 3D Gaussian Splatting with Adaptive Token Expansion",
@@ -816,31 +923,6 @@
         "3d"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrv6vujk00cpbi6pbdilmfm4",
-      "title": "Google 发布三款新 Gemini 模型",
-      "title_en": "Google releases 3 new Gemini models. - Gemini 3.6 Flash： 17% fewer output tokens compared to 3.5 Fl…",
-      "url": "https://x.com/rohanpaul_ai/status/2079684667796832702",
-      "permalink": "https://aihot.virxact.com/items/cmrv6vujk00cpbi6pbdilmfm4",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-07-21T21:47:18.000Z",
-      "summary": "Google 发布三款新 Gemini 模型，包括性能更强的 Gemini 3.6 Flash、高性价比的 3.5 Flash-Lite 以及专为网络安全设计的 3.5 Flash Cyber。其中，3.6 Flash 在编码测试 DeepSWE 上得分从 37% 升至 49%，输出 token 减少 17%，定价为 $1.50/1M 输入、$7.50/1M 输出。",
-      "category": "ai-models",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrv6vujk00cpbi6pbdilmfm4"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmrwfxug501ifroj0o0n5q8yx",
@@ -923,60 +1005,6 @@
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
-      "id": "cmrvfglwy01pkbihby5wybx6z",
-      "title": "Plasma 开源 Fractal：将单个 AI 编码会话转变为持久智能体树",
-      "title_en": "Plasma just open-sourced Fractal， a command-line tool that lets agent loops create more agent loops….",
-      "url": "https://x.com/rohanpaul_ai/status/2079740051672678631",
-      "permalink": "https://aihot.virxact.com/items/cmrvfglwy01pkbihby5wybx6z",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-07-22T01:27:22.000Z",
-      "summary": "Plasma 开源了命令行工具 Fractal（Apache 2.0 许可，完全本地运行），它能将单个 Claude Code 或 Codex 会话转变为持久的智能体树。每个智能体节点拥有独立的 git worktree 和内存，可并行处理大型编码任务的不同部分，所有迭代均生成 git 提交以便逐行审查。",
-      "category": "ai-products",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrvfglwy01pkbihby5wybx6z"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "codex",
-        "claude code",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmrwevfge017xroj0qbf50htu",
-      "title": "提示词被高估，直接提要求即可",
-      "title_en": "Prompt crafting is over-rated， ask for what you want",
-      "url": "https://x.com/emollick/status/2079995399150932318",
-      "permalink": "https://aihot.virxact.com/items/cmrwevfge017xroj0qbf50htu",
-      "source": "X：Ethan Mollick (@emollick)",
-      "publishedAt": "2026-07-22T18:22:02.000Z",
-      "summary": "提示词被高估了，直接提要求就行。",
-      "category": "tip",
-      "score": 45,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrwevfge017xroj0qbf50htu"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "提示词",
-        "prompt"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
       "id": "cmrw2xnri00ao1p888cc6h6no",
       "title": "OpenAI 推出 OpenAI Presence，布局企业软件赛道",
       "title_en": null,
@@ -999,6 +1027,32 @@
       "tags": [
         "自动化",
         "codex",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmrx4lhef004aro4b29dltdot",
+      "title": "ServiceNow 4000万美元投资印度银行软件公司BusinessNext",
+      "title_en": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+      "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push",
+      "permalink": "https://aihot.virxact.com/items/cmrx4lhef004aro4b29dltdot",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-07-23T06:09:13.000Z",
+      "summary": "ServiceNow向印度银行软件公司BusinessNext投资4000万美元，获得约5%股份，后者估值达7亿美元。BusinessNext年收入约3200万美元，服务全球70多家银行，其\"自主银行\"平台将AI智能体嵌入银行工作流。双方将结合ServiceNow的企业工作流平台与BusinessNext的银行业务专长，共同向金融机构销售。",
+      "category": "industry",
+      "score": 43,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrx4lhef004aro4b29dltdot"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "工作流",
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
@@ -1057,58 +1111,6 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmrwq0jzl01b0robhnhfjqgud",
-      "title": "NTT DATA Group 借助 ChatGPT Enterprise 和 Codex 将事件分析时间缩短至 30 分钟",
-      "title_en": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-      "url": "https://openai.com/index/ntt-data",
-      "permalink": "https://aihot.virxact.com/items/cmrwq0jzl01b0robhnhfjqgud",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-07-22T00:00:00.000Z",
-      "summary": "NTT DATA Group 利用 ChatGPT Enterprise 和 Codex 帮助 9，000 名员工实现工作自动化，将事件分析时间缩短至 30 分钟，并规模化推广安全的 AI 应用。",
-      "category": "industry",
-      "score": 31,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrwq0jzl01b0robhnhfjqgud"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "自动化",
-        "codex"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmrv6rq9o00a8bi6p3tvlyon2",
-      "title": "Claude Code v2.1.217 发布：新增 Emoji 快捷输入、修复内存泄漏与 Windows 更新失败",
-      "title_en": "v2.1.217",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.217",
-      "permalink": "https://aihot.virxact.com/items/cmrv6rq9o00a8bi6p3tvlyon2",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "publishedAt": "2026-07-21T21:35:10.000Z",
-      "summary": "Claude Code v2.1.217 在提示词输入中新增 Emoji 简码自动补全（如输入 ：heart 插入 ❤️），可通过 emojiCompletionEnabled 设置关闭。",
-      "category": "ai-products",
-      "score": 30,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrv6rq9o00a8bi6p3tvlyon2"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "提示词",
-        "claude code"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
       "id": "cmrwbpmwc009wroj0colke6xz",
       "title": "在 Claude Code 中使用技能构建验证循环",
       "title_en": "Building verification loops in Claude Code with skills",
@@ -1150,31 +1152,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrvfcrp201kvbihb7kic2dxa"
-      },
-      "sourceType": "网站",
-      "designCategory": "行业观察",
-      "relevanceScore": 6,
-      "editorialScore": 6,
-      "tags": [
-        "广告"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmrv2m1gu01w8binv2kiup4x2",
-      "title": "OpenAI 在 ChatGPT 中正式推出广告服务",
-      "title_en": "在ChatGPT上投放广告",
-      "url": "https://ads.openai.com/",
-      "permalink": "https://aihot.virxact.com/items/cmrv2m1gu01w8binv2kiup4x2",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-21T19:39:29.689Z",
-      "summary": "OpenAI 在 ChatGPT 中推出原生广告服务，允许广告主在用户探索选项、比较选择和做出决策时投放相关广告。广告在体验中明确标注并与回答区分，首批广告主包括 Best Buy、Lowe's 和 VistaPrint。广告主可通过 Ads Manager 创建广告系列、设置预算并优化效果。",
-      "category": "ai-products",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrv2m1gu01w8binv2kiup4x2"
       },
       "sourceType": "网站",
       "designCategory": "行业观察",
