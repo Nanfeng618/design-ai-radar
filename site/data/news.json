@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-24T08:42:34.437Z",
-  "previousGeneratedAt": "2026-07-24T03:44:05.505Z",
+  "generatedAt": "2026-07-24T14:12:46.587Z",
+  "previousGeneratedAt": "2026-07-24T08:42:34.437Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 43,
+  "itemCount": 47,
   "sourceCounts": {
     "X": 24,
-    "网站": 17,
-    "公众号": 2
+    "网站": 18,
+    "公众号": 5
   },
   "source": {
     "name": "AI HOT",
@@ -98,6 +98,35 @@
         "文生视频",
         "flux",
         "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmrywwsva05zgrolgrh7uc4ls",
+      "title": "FLUX 3 x mimic：新一代视频动作模型",
+      "title_en": "Flux 3 X Mimic：新一代视频动作模型",
+      "url": "https://bfl.ai/blog/flux-3-mimic",
+      "permalink": "https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-24T11:55:45.885Z",
+      "discoveredAt": "2026-07-24T12:24:18.584Z",
+      "summary": "Black Forest Labs 发布多模态基础模型 FLUX 3，联合训练图像、视频和音频，其中视频预测占训练算力的 95% 以上。该模型与机器人公司 mimic 合作推出 FLUX-mimic，已在奥迪生产线上测试部署。加入动作预测后，视频生成质量最初下降最多 10%，但经 3500 步训练后恢复原有水平。",
+      "category": "ai-models",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 20,
+      "editorialScore": 23,
+      "tags": [
+        "视频生成",
+        "flux",
+        "视频",
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -642,6 +671,34 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmryt7aph04w7rolgd1krdvzi",
+      "title": "生数科技在 WAIC 2026 展示通用世界模型最新进展",
+      "title_en": "WAIC 2026 圆满落幕 | 生数科技全景呈现通用世界模型最新进展：从数字世界生成到物理世界行动",
+      "url": "https://mp.weixin.qq.com/s/PNTAz8J2U8OibvMtk59G_w",
+      "permalink": "https://aihot.virxact.com/items/cmryt7aph04w7rolgd1krdvzi",
+      "source": "公众号：生数科技（Vidu·视频）",
+      "publishedAt": "2026-07-24T10:35:54.000Z",
+      "discoveredAt": "2026-07-24T10:40:31.252Z",
+      "summary": "生数科技在 WAIC 2026 上展示了从数字世界生成到物理世界行动的通用世界模型。其视频生成模型 Vidu 已形成产品矩阵，实时交互模型 Vidu S1 支持 540P、最高 42FPS 的视频通话级输出。面向物理世界的世界动作模型 Motubrain 在 RoboTwin 2.0 榜单的 Clean 和 Randomized 场景下均位列第一。",
+      "category": "ai-products",
+      "score": 40,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmryt7aph04w7rolgd1krdvzi"
+      },
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "交互",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmryndm35039grolgryvwcn9q",
       "title": "梁文锋详解DeepSeek AGI路线图：不追热点",
       "title_en": "终于懂DeepSeek为什么死活不追热点了，人家心里的AGI路线图，跟全行业根本不在一个维度啊卧槽， 关于AGI技术路线，4小时实录里最狠的判断是梁文峰说\"奇点之后做具身就不用我们做了，模型自己就做…",
@@ -741,60 +798,6 @@
         "canonical": "https://aihot.virxact.com/items/cmrxc3qhn016orot3rnsd4kzm"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视频生成",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrwwy31q0387robh8bn8x5sf",
-      "title": "AIHOT月活突破60万，永久免费AI资讯站升级",
-      "title_en": "恭喜卡神月活突破60万！这个AIHOT 网站又升级了，我看UI细节交互又变得更加舒服了。 看AI快讯看这个真的就是目前最全面的包含第一手的大拿、机构、LAB等，都可以快速查看。 并且永久免费，嘎嘎…",
-      "url": "https://x.com/berryxia/status/2080109501471150180",
-      "permalink": "https://aihot.virxact.com/items/cmrwwy31q0387robh8bn8x5sf",
-      "source": "X：Berry Xia (@berryxia)",
-      "publishedAt": "2026-07-23T01:55:26.000Z",
-      "discoveredAt": "2026-07-23T02:49:47.238Z",
-      "summary": "AIHOT月活突破60万，网站UI细节与交互体验再次升级。该站覆盖数百个信源、5分钟级抓取，经数据清洗、结构化、预筛、精选、聚类等流程，其中大模型介入环节超10处。永久免费，地址：https://aihot.virxact.com。",
-      "category": "tip",
-      "score": 28,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrwwy31q0387robh8bn8x5sf"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 10,
-      "editorialScore": 14,
-      "tags": [
-        "ui",
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmrwusx5702m0robh8ck2zsy4",
-      "title": "马斯克宣布用 AI 工具 Grok Imagine 拍摄《奥德赛》长篇电影，全白人班底确保\"符合史实\"",
-      "title_en": "马斯克宣布将用 AI 拍摄《奥德赛》长篇电影：全白人班底以确保符合史实，且忠于荷马艺术",
-      "url": "https://www.ithome.com/0/980/391.htm",
-      "permalink": "https://aihot.virxact.com/items/cmrwusx5702m0robh8ck2zsy4",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-23T01:37:04.000Z",
-      "discoveredAt": "2026-07-23T01:49:45.840Z",
-      "summary": "埃隆·马斯克在 X 上表示，计划在 2026 年底前用自家 AI 视频生成工具 Grok Imagine 制作一部完整的《奥德赛》长篇电影。他称影片将\"符合史实，并忠于荷马的艺术作品\"，并转发了一段 AI 生成的场景视频。马斯克未公布具体制作方式、影片时长或 Grok Imagine 如何维持长片一致性等细节。",
-      "category": "industry",
-      "score": 37,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrwusx5702m0robh8ck2zsy4"
-      },
-      "sourceType": "网站",
       "designCategory": "图像与视频",
       "relevanceScore": 11,
       "editorialScore": 14,
@@ -911,6 +914,35 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmrz07a8z00ksroey0zfjw3iq",
+      "title": "Runway Agent 推出自然语言工作流功能",
+      "title_en": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+      "url": "https://x.com/runwayml/status/2080649234672439389",
+      "permalink": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
+      "source": "X：Runway (@runwayml)",
+      "publishedAt": "2026-07-24T13:40:08.000Z",
+      "discoveredAt": "2026-07-24T13:56:25.978Z",
+      "summary": "在 Runway Agent 中引入工作流。现在你可以通过自然语言构建、运行或编辑基于节点的工作流。工作流可大规模解锁高质量输出。\n\n立即尝试，点击下方链接调用 / Workflow 技能。",
+      "category": "ai-products",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 11,
+      "editorialScore": 12,
+      "tags": [
+        "runway",
+        "工作流",
+        "workflow",
+        "agent"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cmryhzfdj01hjrolghw239asv",
       "title": "用百度 Unlimited-OCR 构建端到端高分辨率图像与多页 PDF 解析管线",
       "title_en": "How to Build an End-to-End OCR Pipeline with Baidu's Unlimited-OCR for High-Resolution Images and Multi-Page PDF Parsing",
@@ -968,31 +1000,31 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmryixxqe01nqrolgb3ug6pln",
-      "title": "Higgsfield 超级计算机让 Claude 直接操作 After Effects 实时项目",
-      "title_en": "The newly launched Higgsfield Supercomputer enables Claude to work directly inside Adobe After Effec…",
-      "url": "https://x.com/rohanpaul_ai/status/2080531177677742583",
-      "permalink": "https://aihot.virxact.com/items/cmryixxqe01nqrolgb3ug6pln",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-07-24T05:51:01.000Z",
-      "discoveredAt": "2026-07-24T05:53:17.082Z",
-      "summary": "Higgsfield 新推出的超级计算机使 Claude 能直接读取并修改 Adobe After Effects 的实时项目，包括图层、关键帧、效果和表达式。用户只需描述任务，Claude 即可自动编写 ExtendScript 或使用表达式生成可手动编辑的标准场景。所有操作均可通过 Higgsfield MCP 在 Claude 中直接执行。",
-      "category": "ai-products",
-      "score": 40,
+      "id": "cmrypisxv03x1rolgrn2zv5xm",
+      "title": "腾讯合并大模型与多模态部，姚顺雨统管AI",
+      "title_en": "突发：28岁的姚顺雨升任为腾讯AI条线的1号位，基本把腾讯语言、图像、视频、语音等AI模型业务板块都收入麾下，可以说是把腾讯混元基础模型的核心权力，牢牢握在了自己 手里。@TencentHunyuan…",
+      "url": "https://x.com/AYi_AInotes/status/2080567279171850659",
+      "permalink": "https://aihot.virxact.com/items/cmrypisxv03x1rolgrn2zv5xm",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-07-24T08:14:29.000Z",
+      "discoveredAt": "2026-07-24T08:57:28.549Z",
+      "summary": "腾讯内部通知将大语言模型部和多模态部合并为基础模型部，由首席AI科学家姚顺雨统一负责。姚顺雨去年12月空降，7个月内完成从AI Lab撤并到混元、再到整合多模态的集权。此前发布的Hy3模型（295B总参数/21B激活参数）已打平参数2-5倍的旗舰模型，内部WorkBuddy任务成功率从72%提升至90%，耗时降34%。",
+      "category": "industry",
+      "score": 60,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmryixxqe01nqrolgb3ug6pln"
+        "canonical": "https://aihot.virxact.com/items/cmrypisxv03x1rolgrn2zv5xm"
       },
       "sourceType": "X",
-      "designCategory": "设计工具",
-      "relevanceScore": 6,
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
       "editorialScore": 11,
       "tags": [
-        "adobe",
-        "mcp"
+        "视频",
+        "图像"
       ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmryewabt00mprolgd7bs4q0f",
@@ -1021,6 +1053,59 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmrz0ch8700m7roeygv4eshdv",
+      "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+      "title_en": "Ling-3.0-flash：智以密胜",
+      "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
+      "permalink": "https://aihot.virxact.com/items/cmrz0ch8700m7roeygv4eshdv",
+      "source": "公众号：蚂蚁百灵（Ling）",
+      "publishedAt": "2026-07-24T13:40:30.000Z",
+      "discoveredAt": "2026-07-24T14:00:30.582Z",
+      "summary": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-flash，总参数量124B，激活参数量仅5.1B，在传统推理、指令遵循与长文本等指标上对标甚至超越上一代旗舰Ring-2.6-1T。模型采用原生混合线性注意力架构与1/64稀疏MoE，并扩展至10，000+可交互训练环境，长输入下TTFT降低60%至80%以上。",
+      "category": "ai-models",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrz0ch8700m7roeygv4eshdv"
+      },
+      "sourceType": "公众号",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmrysmexs04pwrolg1h74c3bh",
+      "title": "OneCLI：开源凭证网关，防止AI智能体泄露机密信息",
+      "title_en": "Show HN： OneCLI--一款开源凭证网关，可防止机密信息泄露至AI代理",
+      "url": "https://github.com/onecli/onecli",
+      "permalink": "https://aihot.virxact.com/items/cmrysmexs04pwrolg1h74c3bh",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-24T10:19:38.152Z",
+      "discoveredAt": "2026-07-24T10:24:16.615Z",
+      "summary": "OneCLI 是一款开源凭证网关，专门设计用于防止 AI 智能体在操作中意外泄露 API 密钥、数据库密码等机密信息。它通过拦截和过滤 CLI 命令中的敏感凭证，确保只有经过授权的安全调用才能访问这些秘密。该项目已在 GitHub 上开源，旨在为使用 AI 代理的开发团队提供一道额外的安全防线。",
+      "category": "ai-products",
+      "score": 69,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrysmexs04pwrolg1h74c3bh"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmrykywyy026srolg9s0qrg8v",
@@ -1131,6 +1216,33 @@
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmryqp84q0470rolgcd73lzky",
+      "title": "京东数字人携23家品牌IP进直播间，探索AI营销新玩法",
+      "title_en": "品牌IP进直播间，京东数字人引领AI营销玩法",
+      "url": "https://mp.weixin.qq.com/s/hSNfOxmPlRQM00AEzQQlpA",
+      "permalink": "https://aihot.virxact.com/items/cmryqp84q0470rolgcd73lzky",
+      "source": "公众号：京东JoyAI",
+      "publishedAt": "2026-07-24T09:27:36.000Z",
+      "discoveredAt": "2026-07-24T09:30:29.201Z",
+      "summary": "京东数字人技术支持联想拯救者、蒙牛、海信、五粮液、三只松鼠等23家品牌IP进入直播间，联动赛事热点与福利玩法，实现从内容露出到经营承接的转化。该系列直播以\"万物皆可直播\"为主题，将品牌IP从静态资产变为可互动、可承接转化的内容资产，为品牌商家打开AI营销新场景。",
+      "category": "industry",
+      "score": 37,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmryqp84q0470rolgcd73lzky"
+      },
+      "sourceType": "公众号",
+      "designCategory": "行业观察",
+      "relevanceScore": 7,
+      "editorialScore": 7,
+      "tags": [
+        "品牌",
+        "营销"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "cmrx4lhef004aro4b29dltdot",
