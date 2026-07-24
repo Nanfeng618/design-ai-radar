@@ -1,19 +1,48 @@
 {
-  "generatedAt": "2026-07-24T03:44:05.505Z",
-  "previousGeneratedAt": "2026-07-23T14:32:07.017Z",
+  "generatedAt": "2026-07-24T08:42:34.437Z",
+  "previousGeneratedAt": "2026-07-24T03:44:05.505Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 42,
+  "itemCount": 43,
   "sourceCounts": {
     "X": 24,
     "网站": 17,
-    "公众号": 1
+    "公众号": 2
   },
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com"
   },
   "items": [
+    {
+      "id": "cmryeqipg00ilrolg4ycz6mhm",
+      "title": "FLUX 3发布：多模态真实世界模型",
+      "title_en": "FLUX 3 发布了！ Black Forest Labs 对它的定位，不再是又一个「文生视频模型」或「文生图模型」，是「真实世界模型」！ 团队把 图像 / 视频 / 音频 放进同一套 multi…",
+      "url": "https://x.com/shao__meng/status/2080499451576377388",
+      "permalink": "https://aihot.virxact.com/items/cmryeqipg00ilrolg4ycz6mhm",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-07-24T03:44:57.000Z",
+      "discoveredAt": "2026-07-24T03:55:33.149Z",
+      "summary": "Black Forest Labs发布FLUX 3，定位为\"真实世界模型\"，而非单纯的文生图或文生视频模型。该模型将图像、视频、音频和语言纳入同一multimodal flow架构，通过模态间的互约束学习物理规律与因果线索。同一底座支持三条产品线：Video（最长20秒、原生音频）、Image（后续推出）和Action（动作预测，已用于FLUX-mimic机器人场景）。",
+      "category": "ai-models",
+      "score": 52,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmryeqipg00ilrolg4ycz6mhm"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 32,
+      "editorialScore": 35,
+      "tags": [
+        "文生图",
+        "文生视频",
+        "生图",
+        "flux"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
     {
       "id": "cmry5yqgv009croeulwpmcunn",
       "title": "FLUX 3 统一图像视频音频与机器人动作预测",
@@ -69,6 +98,35 @@
         "文生视频",
         "flux",
         "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmrykywyx026jrolgq06set4j",
+      "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+      "title_en": "FLUX 3 多模态 AI 模型登场：支持单次生成 20 秒多样化视频",
+      "url": "https://www.ithome.com/0/981/137.htm",
+      "permalink": "https://aihot.virxact.com/items/cmrykywyx026jrolgq06set4j",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-24T06:48:04.000Z",
+      "discoveredAt": "2026-07-24T06:50:01.581Z",
+      "summary": "Black Forest Labs 以 Early Access 方式推出 FLUX 3 多模态基础模型，采用统一架构联合学习图像、视频和音频。该模型基于 Self-Flow 学习框架扩展，可在单次生成中输出最长 20 秒视频并附带原生音频，支持文生视频、图生视频、多镜头串联等任务。",
+      "category": "ai-models",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrykywyx026jrolgq06set4j"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 20,
+      "editorialScore": 23,
+      "tags": [
+        "文生视频",
+        "flux",
+        "视频",
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -275,64 +333,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmrycf0ky000aroxs94sx71v4",
-      "title": "GraphVid：基于交互图的可控视频生成模型",
-      "title_en": "GraphVid： Interactive Graph-Controllable Video Generation",
-      "url": "https://arxiv.org/abs/2607.21580",
-      "permalink": "https://aihot.virxact.com/items/cmrycf0ky000aroxs94sx71v4",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-23T00:00:00.000Z",
-      "discoveredAt": "2026-07-24T02:50:37.927Z",
-      "summary": "GraphVid 是一种图条件图像到视频生成模型，通过结构化交互图实现对多主体的灵活精确控制。相比 Motion-I2V，GraphVid 在 FID 上降低 39.9%、FVD 降低 37.6%，PSNR 从 9.87 提升至 15.98、SSIM 从 0.38 提升至 0.61，且训练数据和参数更少。配套发布的 GraphVid-Bench 数据集为交互感知视频生成提供了大规模结构化关系标注。",
-      "category": "paper",
-      "score": 50,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrycf0ky000aroxs94sx71v4"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 14,
-      "editorialScore": 17,
-      "tags": [
-        "视频生成",
-        "交互",
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrwl9tkq002fro9lcov2opaa",
-      "title": "DAIR.AI 社区新界面由多模型协作构建",
-      "title_en": "Just implemented a new interface for our @dair_ai community. I first brainstormed a concept design …",
-      "url": "https://x.com/omarsar0/status/2080039840200978917",
-      "permalink": "https://aihot.virxact.com/items/cmrwl9tkq002fro9lcov2opaa",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "publishedAt": "2026-07-22T21:18:37.000Z",
-      "discoveredAt": "2026-07-22T21:22:59.049Z",
-      "summary": "刚为我们的 @dair_ai 社区实现了一个新界面。\n\n我先用 Fable 5 通过 HTML 构件（见附图）构思了一个概念设计。然后把它交给 GPT-5.6-Sol 来构建。\n\n构件作为提示词效果很好。组合模型能带来效率提升。",
-      "category": "tip",
-      "score": 54,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrwl9tkq002fro9lcov2opaa"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 13,
-      "editorialScore": 17,
-      "tags": [
-        "design",
-        "设计",
-        "界面",
-        "提示词"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmrxua5jb02kcroxpfp2mvtgm",
       "title": "Black Forest Labs 发布 Flux 3：可生成带原生音频的 20 秒视频，并推出机器人动作模型 Flux-mimic",
       "title_en": "Flux 3 generates videos with native audio up to 20 seconds long， a first for Black Forest Labs",
@@ -412,6 +412,90 @@
       "tags": [
         "runway",
         "创意",
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmryn9g0u033yrolggxnwywgy",
+      "title": "Flux 3 多模态前沿模型发布，支持图像/视频/音频联合学习",
+      "title_en": "Flux 3",
+      "url": "https://bfl.ai/blog/flux-3",
+      "permalink": "https://aihot.virxact.com/items/cmryn9g0u033yrolggxnwywgy",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-24T07:39:43.382Z",
+      "discoveredAt": "2026-07-24T07:54:13.692Z",
+      "summary": "Flux 3 多模态前沿模型发布，通过联合学习图像、视频和音频构建统一的世界表征。该模型现已开放 Early Access。",
+      "category": "ai-models",
+      "score": 50,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmryn9g0u033yrolggxnwywgy"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "flux",
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmryn43pu02w1rolg1nm1y8gc",
+      "title": "Runway Media Router 上线：根据场景自动切换 AI 模型，节省 Token 成本",
+      "title_en": "Runway Media Router 上线：根据场景切换 AI 模型，帮你省 Token",
+      "url": "https://www.ithome.com/0/981/144.htm",
+      "permalink": "https://aihot.virxact.com/items/cmryn43pu02w1rolg1nm1y8gc",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-24T07:00:01.000Z",
+      "discoveredAt": "2026-07-24T07:50:02.937Z",
+      "summary": "Runway 推出 Media Router，可在生成图像、视频、音频时根据质量、速度、成本三项优先级自动切换模型，减少开发者手动调换负担。该工具已上线 Runway Dev 平台，支持调用 Seedance、GPT Image 2、ElevenLabs 等多家模型，按高速生成、高质量、低成本三种场景灵活调度。",
+      "category": "ai-products",
+      "score": 51,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmryn43pu02w1rolg1nm1y8gc"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "runway",
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmryk71l2024nrolgqzck6l2v",
+      "title": "Black Forest Labs 发布多模态模型 FLUX 3",
+      "title_en": "Black Forest Labs introduced FLUX 3， a multimodal model for Image， Video， audio， and Action Predicti…",
+      "url": "https://x.com/testingcatalog/status/2080536654423478676",
+      "permalink": "https://aihot.virxact.com/items/cmryk71l2024nrolgqzck6l2v",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "publishedAt": "2026-07-24T06:12:47.000Z",
+      "discoveredAt": "2026-07-24T06:28:22.581Z",
+      "summary": "Black Forest Labs 推出了 FLUX 3，这是一个用于图像、视频、音频和动作预测的多模态模型。\n\n> 在一个统一架构中联合训练，我们的模型可扩展用于预测机器人动作。\n\n> FLUX 3 Video 现已开放早期访问（需通过表单申请）。",
+      "category": "ai-models",
+      "score": 35,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmryk71l2024nrolgqzck6l2v"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "flux",
         "视频",
         "图像"
       ],
@@ -558,6 +642,34 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmryndm35039grolgryvwcn9q",
+      "title": "梁文锋详解DeepSeek AGI路线图：不追热点",
+      "title_en": "终于懂DeepSeek为什么死活不追热点了，人家心里的AGI路线图，跟全行业根本不在一个维度啊卧槽， 关于AGI技术路线，4小时实录里最狠的判断是梁文峰说\"奇点之后做具身就不用我们做了，模型自己就做…",
+      "url": "https://x.com/AYi_AInotes/status/2080550345957130415",
+      "permalink": "https://aihot.virxact.com/items/cmryndm35039grolgryvwcn9q",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-07-24T07:07:11.000Z",
+      "discoveredAt": "2026-07-24T07:57:27.811Z",
+      "summary": "梁文锋在投资人会议实录中提出AGI的明确台阶：去年是CoT思维链，今年是Agent，下一道硬坎是持续学习，之后才是奇点（模型自我迭代），最后才轮到具身智能。他认为视频生成、世界模型等是支线，顺序错了越努力越错。DeepSeek因此不追热点，按自己的主线节奏推进。",
+      "category": "tip",
+      "score": 51,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmryndm35039grolgryvwcn9q"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频",
+        "agent"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmryclcdp009vroxssveik609",
       "title": "Canvas UI：首个将真实交互DOM交给WebGL shader处理的HTML-in-Canvas组件库",
       "title_en": "【前端开源】 Canvas UI：把真实、可交互的 DOM 交给 WebGL shader 处理的创意组件库--建立在 Chrome 实验性 HTML-in-Canvas 上，支持 React / V…",
@@ -693,34 +805,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmrwqikfl01cqrobhyi4z27hu",
-      "title": "Qwen-Image-3.0 发布：主打\"真实\"与细腻人像",
-      "title_en": "Qwen 3.0 细腻 文字细节提升不少~' 尤其感觉非常符合国人的审美，人像非常棒，古典美学更不在画下啊~ 得试试",
-      "url": "https://x.com/berryxia/status/2080074549761028386",
-      "permalink": "https://aihot.virxact.com/items/cmrwqikfl01cqrobhyi4z27hu",
-      "source": "X：Berry Xia (@berryxia)",
-      "publishedAt": "2026-07-22T23:36:33.000Z",
-      "discoveredAt": "2026-07-22T23:49:45.692Z",
-      "summary": "阿里通义千问发布第三代图像生成模型 Qwen-Image-3.0，核心关键词为\"实\"。模型支持 4.5k token 提示词，可一次生成复杂排版（报纸、试卷、3×3 信息图），文字清晰度达 10px，并具备 12 种语言原生渲染与实时网页检索能力。博主 Berry Xia 实测认为其人像和古典美学表现非常符合国人审美。",
-      "category": "ai-models",
-      "score": 42,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrwqikfl01cqrobhyi4z27hu"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "图像生成",
-        "图像",
-        "提示词"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmry0qsdq002sro4eyhpgfii7",
       "title": "Alexa Plus 更新：连接更多智能家居设备并支持 MCP 开放标准",
       "title_en": "Alexa Plus is getting an AI update to handle more complicated instructions",
@@ -827,6 +911,34 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmryhzfdj01hjrolghw239asv",
+      "title": "用百度 Unlimited-OCR 构建端到端高分辨率图像与多页 PDF 解析管线",
+      "title_en": "How to Build an End-to-End OCR Pipeline with Baidu's Unlimited-OCR for High-Resolution Images and Multi-Page PDF Parsing",
+      "url": "https://www.marktechpost.com/2026/07/23/how-to-build-an-end-to-end-ocr-pipeline-with-baidus-unlimited-ocr-for-high-resolution-images-and-multi-page-pdf-parsing",
+      "permalink": "https://aihot.virxact.com/items/cmryhzfdj01hjrolghw239asv",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-07-24T05:16:28.000Z",
+      "discoveredAt": "2026-07-24T05:26:26.990Z",
+      "summary": "本教程构建了一套完整的 OCR 工作流，在 GPU 上加载百度 3B 参数的 Unlimited-OCR 视觉语言模型，支持 bfloat16/float16 自动选择。管线包含两种推理模式：Gundam 模式（分块高细节）和 Base 模式（单视图更快），并通过 PyMuPDF 和 infer_multi（） 扩展至多页 PDF 解析，全程保留长上下文生成、重复控制和结构化输出设置。",
+      "category": "tip",
+      "score": 65,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmryhzfdj01hjrolghw239asv"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 9,
+      "editorialScore": 12,
+      "tags": [
+        "视觉",
+        "工作流",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmrxteazo02i3roxpomh471t3",
       "title": "Atomic Mail 测试：OpenClaw 与 Hermes 邮件对决",
       "title_en": "Atomic Mail put OpenClaw and Hermes under a test on top of an isolated email inbox for AI agents. B…",
@@ -856,86 +968,84 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmrxq074u01byroxpbmaywbmg",
-      "title": "DAIR.AI 推出通用动态工作流编排器",
-      "title_en": "Dynamic workflows are a generalization of harnesses， automations， loops， routing， and graphs. It's …",
-      "url": "https://x.com/omarsar0/status/2080323178119786642",
-      "permalink": "https://aihot.virxact.com/items/cmrxq074u01byroxpbmaywbmg",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "publishedAt": "2026-07-23T16:04:30.000Z",
-      "discoveredAt": "2026-07-23T16:23:14.600Z",
-      "summary": "DAIR.AI 创始人 Elvis Saravia 在其 AI 智能体编排器中构建了\"动态工作流\"功能，可支持 LLM 委员会、动态任务路由、顾问/法官+执行者及智能体团队等多种模式。该功能受 Claude Code 启发，旨在跨不同智能体后端（Claude、Codex 等）实现通用化，解锁新的测试时计算形式。",
-      "category": "tip",
-      "score": 41,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrxq074u01byroxpbmaywbmg"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 10,
-      "editorialScore": 11,
-      "tags": [
-        "工作流",
-        "codex",
-        "claude code",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmrwrt19z01whrobhachjuizh",
-      "title": "Claude Opus/Sonnet 即将登陆语音模式",
-      "title_en": "ANTHROPIC 🔥： Claude Opus and Sonnet models will soon become available on Claude Voice Mode！ The ne…",
-      "url": "https://x.com/testingcatalog/status/2080083191830888807",
-      "permalink": "https://aihot.virxact.com/items/cmrwrt19z01whrobhachjuizh",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-07-23T00:10:53.000Z",
-      "discoveredAt": "2026-07-23T00:25:53.875Z",
-      "summary": "Anthropic 的 Claude Opus 和 Sonnet 模型即将上线 Claude 语音模式。新模型选择器已在 UI 中隐藏约三周，默认使用 Haiku，现已更新为通过 Opus 和 Sonnet 响应。该系统仍基于 TTS，但能出色处理中断并支持 Connectors，工具访问范围更广，能力超越 ChatGPT 当前方案，但高推理任务的使用成本可能成为问题。",
+      "id": "cmryixxqe01nqrolgb3ug6pln",
+      "title": "Higgsfield 超级计算机让 Claude 直接操作 After Effects 实时项目",
+      "title_en": "The newly launched Higgsfield Supercomputer enables Claude to work directly inside Adobe After Effec…",
+      "url": "https://x.com/rohanpaul_ai/status/2080531177677742583",
+      "permalink": "https://aihot.virxact.com/items/cmryixxqe01nqrolgb3ug6pln",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-07-24T05:51:01.000Z",
+      "discoveredAt": "2026-07-24T05:53:17.082Z",
+      "summary": "Higgsfield 新推出的超级计算机使 Claude 能直接读取并修改 Adobe After Effects 的实时项目，包括图层、关键帧、效果和表达式。用户只需描述任务，Claude 即可自动编写 ExtendScript 或使用表达式生成可手动编辑的标准场景。所有操作均可通过 Higgsfield MCP 在 Claude 中直接执行。",
       "category": "ai-products",
-      "score": 63,
+      "score": 40,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrwrt19z01whrobhachjuizh"
+        "canonical": "https://aihot.virxact.com/items/cmryixxqe01nqrolgb3ug6pln"
       },
       "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 7,
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
       "editorialScore": 11,
       "tags": [
-        "ui"
+        "adobe",
+        "mcp"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cmrycf0kz000froxsdkjr6pyu",
-      "title": "WorldWeaver：流式多智能体扩散模型引入世界状态寄存器",
-      "title_en": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
-      "url": "https://arxiv.org/abs/2607.21594",
-      "permalink": "https://aihot.virxact.com/items/cmrycf0kz000froxsdkjr6pyu",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-23T00:00:00.000Z",
-      "discoveredAt": "2026-07-24T02:50:37.927Z",
-      "summary": "WorldWeaver 提出一种流式多智能体视频扩散模型，通过可学习的\"世界状态寄存器\"token 在生成过程中跨智能体持久化并动态更新共享世界信息。该寄存器融合了智能体状态、鸟瞰视图和场景文本等多重监督信号，并采用 Mixture-of-Transformers 架构分离世界状态建模与视觉帧生成的权重。",
-      "category": "paper",
-      "score": 52,
+      "id": "cmryewabt00mprolgd7bs4q0f",
+      "title": "2026 美团低空经济与具身智能挑战赛启动，总奖金 55 万元",
+      "title_en": "55 万元大奖等你挑战！2026 美团低空经济与具身智能挑战赛启动",
+      "url": "https://mp.weixin.qq.com/s/P5YmxTk3il67UOfh4queiw",
+      "permalink": "https://aihot.virxact.com/items/cmryewabt00mprolgd7bs4q0f",
+      "source": "公众号：龙猫LongCat（美团）",
+      "publishedAt": "2026-07-23T11:58:00.000Z",
+      "discoveredAt": "2026-07-24T04:00:02.705Z",
+      "summary": "2026 年第四届美团低空经济与具身智能挑战赛启动报名，面向全球高校在校学生，总奖金 55 万元。赛事以无人机换电任务为原型，考察机器人在视觉识别、运动规划、精准操作等方面的综合能力，参赛设备形态不限。初赛需提交机器人演示视频与技术报告，决赛为线下实机挑战，表现优异者可获美团无人机实习机会及\"北斗计划\"直通面试权。",
+      "category": "industry",
+      "score": 34,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrycf0kz000froxsdkjr6pyu"
+        "canonical": "https://aihot.virxact.com/items/cmryewabt00mprolgd7bs4q0f"
       },
-      "sourceType": "网站",
+      "sourceType": "公众号",
       "designCategory": "图像与视频",
       "relevanceScore": 8,
       "editorialScore": 11,
       "tags": [
+        "原型",
         "视觉",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmrykywyy026srolg9s0qrg8v",
+      "title": "腾讯混元大语言模型与多模态团队合并，成立基础模型部由姚顺雨统一管理",
+      "title_en": "腾讯混元大语言模型和多模态团队合并，统一由姚顺雨管理",
+      "url": "https://www.ithome.com/0/981/121.htm",
+      "permalink": "https://aihot.virxact.com/items/cmrykywyy026srolg9s0qrg8v",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-24T06:19:25.000Z",
+      "discoveredAt": "2026-07-24T06:50:01.581Z",
+      "summary": "腾讯宣布混元多模态模型部门与大语言模型部门合并，成立基础模型部，由首席AI科学家姚顺雨统一管理。7月上线的Hy3大语言模型智能水平比肩参数规模2-5倍的旗舰模型，发布一周后总调用量较上一代Hy2增长超68倍。混元3D世界模型2.0（Hy World 2.0）已开源，支持文字、图片、视频输入生成3D世界，社区下载量超300万。",
+      "category": "industry",
+      "score": 52,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrykywyy026srolg9s0qrg8v"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
         "视频",
-        "agent",
-        "智能体"
+        "3d"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -964,34 +1074,6 @@
         "设计",
         "工作流",
         "视频"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmrwmg6qm00exrobhystiexl7",
-      "title": "EdgeBench：AI智能体基准测试与缩放定律分析",
-      "title_en": "Research-Grade EdgeBench Analysis： AI Agent Benchmarking， Leaderboard Analytics， Scaling Laws， and Evaluation Metrics",
-      "url": "https://www.marktechpost.com/2026/07/22/research-grade-edgebench-analysis-ai-agent-benchmarking-leaderboard-analytics-scaling-laws-and-evaluation-metrics",
-      "permalink": "https://aihot.virxact.com/items/cmrwmg6qm00exrobhystiexl7",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-07-22T21:53:58.000Z",
-      "discoveredAt": "2026-07-22T21:55:55.583Z",
-      "summary": "EdgeBench 是一个评估 AI 智能体的基准，涵盖 51 个任务、多种运行时环境和交互时间预算。分析显示，Claude Opus 4.8、GPT-5.5、GPT-5.4、GLM-5.1 和 DS-V4-Pro 等模型在 2-12 分钟时间预算下性能差异显著，其中 Claude Opus 4.8 在多数类别中领先。",
-      "category": "tip",
-      "score": 62,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrwmg6qm00exrobhystiexl7"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "交互",
-        "agent",
-        "智能体"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
@@ -1073,63 +1155,6 @@
       "editorialScore": 7,
       "tags": [
         "工作流",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmrycf0kz000broxsd74zlwqf",
-      "title": "腾讯发布 WorkBuddy Bench：多领域编码智能体评测套件",
-      "title_en": "Tencent WorkBuddy Bench： A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction",
-      "url": "https://arxiv.org/abs/2607.20911",
-      "permalink": "https://aihot.virxact.com/items/cmrycf0kz000broxsd74zlwqf",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-23T00:00:00.000Z",
-      "discoveredAt": "2026-07-24T02:50:37.927Z",
-      "summary": "腾讯推出 WorkBuddy Bench，一个覆盖 Code、Web、Office、Security 四个工作领域的编码智能体评测套件。每个任务均从真实 commit、PR 或业务场景逆向工程而来，改写为口语化角色扮演请求，从构造上抵抗数据污染。该基准在 CodeBuddy Code 和 Claude Code 上运行，所有任务目录、环境镜像、评分工具和参考方案均开源发布。",
-      "category": "paper",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrycf0kz000broxsd74zlwqf"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "claude code",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmrya95q2002kroxyvgeyx1hy",
-      "title": "ICAE-Bench：评估编程智能体作为交互式项目构建者的基准测试",
-      "title_en": "ICAE-Bench： Evaluating Coding Agents as Interactive Project Builders",
-      "url": "https://arxiv.org/abs/2607.21217",
-      "permalink": "https://aihot.virxact.com/items/cmrya95q2002kroxyvgeyx1hy",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-23T00:00:00.000Z",
-      "discoveredAt": "2026-07-24T01:50:05.542Z",
-      "summary": "美团与复旦大学等机构推出 ICAE-Bench，用于评估编程智能体在交互式项目构建场景下的表现。该基准包含 480 个任务，覆盖 12 种编程语言，通过自动化 User Agent 模拟需求澄清过程。实验表明，智能体在复现可见行为上表现尚可，但在处理隐藏约束、边界情况和长周期集成时仍面临挑战。",
-      "category": "paper",
-      "score": 56,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrya95q2002kroxyvgeyx1hy"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "交互",
-        "自动化",
-        "agent",
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
