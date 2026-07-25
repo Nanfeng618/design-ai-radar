@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-25T08:23:40.375Z",
-  "previousGeneratedAt": "2026-07-25T03:37:01.651Z",
+  "generatedAt": "2026-07-25T14:02:00.134Z",
+  "previousGeneratedAt": "2026-07-25T08:23:40.375Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 45,
+  "itemCount": 44,
   "sourceCounts": {
-    "网站": 18,
+    "网站": 17,
     "X": 24,
     "公众号": 3
   },
@@ -384,34 +384,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmry3xn4o0032rozr8hdmyrl8",
-      "title": "FLUX 3 统一模型赋能机器人学习",
-      "title_en": "FLUX 3 will have big positive impact on robot intelligence and learning. Standard vision-language-a…",
-      "url": "https://x.com/rohanpaul_ai/status/2080421078309175699",
-      "permalink": "https://aihot.virxact.com/items/cmry3xn4o0032rozr8hdmyrl8",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-07-23T22:33:32.000Z",
-      "discoveredAt": "2026-07-23T22:53:10.005Z",
-      "summary": "Black Forest Labs 发布 FLUX 3，一个统一处理图像、视频、音频和动作预测的多模态模型。其视频骨干网络通过大规模视频预训练学习物体运动、接触变形和时间因果，使机器人无需从零学习物理规律。基于 Self-Flow 架构，FLUX 3 能让机器人用约一半的微调数据学会任务，此前实验显示可减少高达 10 倍的训练数据。",
-      "category": "tip",
-      "score": 42,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmry3xn4o0032rozr8hdmyrl8"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "flux",
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cms02k7bd0372rop15ot5w82i",
       "title": "谷歌 ATLAS 报告：AI 应用覆盖 68% 职业但深度不足，仅 20% 任务调用",
       "title_en": "1500 万条 AI 交互洞察：谷歌称 AI 应用广泛但深度不足",
@@ -635,60 +607,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmry0qsdq002sro4eyhpgfii7",
-      "title": "Alexa Plus 更新：连接更多智能家居设备并支持 MCP 开放标准",
-      "title_en": "Alexa Plus is getting an AI update to handle more complicated instructions",
-      "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-      "permalink": "https://aihot.virxact.com/items/cmry0qsdq002sro4eyhpgfii7",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-07-23T21:15:06.000Z",
-      "discoveredAt": "2026-07-23T21:23:52.134Z",
-      "summary": "Amazon 为 Alexa Plus 推出更新，使其能连接 Bosch、iRobot 等品牌的智能家居设备，并自动将请求路由到正确设备。新集成由 AI 开发者工具包驱动，并采用 MCP 开放标准。Canva、Priceline 等公司计划今年晚些时候上线集成。",
-      "category": "ai-products",
-      "score": 50,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmry0qsdq002sro4eyhpgfii7"
-      },
-      "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 8,
-      "editorialScore": 13,
-      "tags": [
-        "canva",
-        "品牌",
-        "mcp"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "cmrxzn97700dpropgl3zhovbg",
-      "title": "Claude语音模式升级：支持Opus/Sonnet/Haiku及跨应用操作",
-      "title_en": "Anthropic just upgraded Claude voice mode with 3 model families and connected-app actions across pla…",
-      "url": "https://x.com/rohanpaul_ai/status/2080394339029864865",
-      "permalink": "https://aihot.virxact.com/items/cmrxzn97700dpropgl3zhovbg",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-07-23T20:47:16.000Z",
-      "discoveredAt": "2026-07-23T20:53:06.986Z",
-      "summary": "Anthropic升级Claude语音模式，现支持Claude Opus、Sonnet和Haiku三款模型，可在对话中切换模型且不丢失上下文。语音模式新增连接Gmail、日历、Slack、Canva和Notion等工具，通过语音执行移动会议、起草邮件等操作。该功能支持10种语言，覆盖移动端、桌面端和网页端，免费用户仍限用Haiku及一个连接工具。",
-      "category": "ai-products",
-      "score": 53,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrxzn97700dpropgl3zhovbg"
-      },
-      "sourceType": "X",
-      "designCategory": "设计工具",
-      "relevanceScore": 8,
-      "editorialScore": 13,
-      "tags": [
-        "canva"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
       "id": "cmrz07a8z00ksroey0zfjw3iq",
       "title": "Runway Agent 推出自然语言工作流功能",
       "title_en": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
@@ -881,6 +799,34 @@
         "mcp"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cms0942e500corodza9v7s7sb",
+      "title": "Anthropic 称 Opus 5 几乎免疫浏览器提示词注入，攻击成功率降至零",
+      "title_en": "Opus 5 may have solved browser-based prompt injection， the biggest security flaw haunting AI agents",
+      "url": "https://the-decoder.com/opus-5-may-have-solved-browser-based-prompt-injection-the-biggest-security-flaw-haunting-ai-agents",
+      "permalink": "https://aihot.virxact.com/items/cms0942e500corodza9v7s7sb",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-25T10:43:36.000Z",
+      "discoveredAt": "2026-07-25T10:53:39.226Z",
+      "summary": "Anthropic 称其 Opus 5 模型在自家软件中几乎免疫提示词注入攻击。在 129 个浏览器智能体测试场景中，攻击成功率为零；在 Gray Swan 通用提示词注入测试中，15 次尝试后的成功率从 Opus 4.8 的 5.5% 降至 2.0%。零成功率仅在 Claude Cowork 等产品开启 Auto Mode 时实现，该模式叠加了输入扫描与执行拦截两层防御。",
+      "category": "ai-models",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms0942e500corodza9v7s7sb"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 9,
+      "editorialScore": 10,
+      "tags": [
+        "提示词",
+        "prompt",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmrzpyqdm00b0ro6dm7gaa9yt",
@@ -1127,32 +1073,33 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmry3ykgw004krozrrb71l5y5",
-      "title": "Palmier Pro：专为 AI 打造的开源 macOS 视频编辑器",
-      "title_en": "Show HN： Palmier Pro--专为人工智能打造的开源 macOS 视频编辑器",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "permalink": "https://aihot.virxact.com/items/cmry3ykgw004krozrrb71l5y5",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-23T22:35:30.175Z",
-      "discoveredAt": "2026-07-23T22:53:53.611Z",
-      "summary": "Palmier Pro 是一款开源的 macOS 视频编辑器，专为 AI 工作流设计。它支持基于时间轴的视频编辑，并集成了 AI 功能以加速剪辑、生成字幕或处理素材。该项目已在 GitHub 上发布，面向开发者与视频创作者开放。",
+      "id": "cms097ddu00hfrodz85d48y3f",
+      "title": "ego lite：AI智能体原生Chromium浏览器登顶GitHub",
+      "title_en": "ego lite：\"agent 原生\"的 Chromium 浏览器 它本身既是你的日常浏览器，又能让任意 Agent CLI（Claude Code、Codex、Cursor、Kiro、Hermes…",
+      "url": "https://x.com/shao__meng/status/2080963123826360716",
+      "permalink": "https://aihot.virxact.com/items/cms097ddu00hfrodz85d48y3f",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-07-25T10:27:25.000Z",
+      "discoveredAt": "2026-07-25T10:56:14.011Z",
+      "summary": "ego lite 是一款\"Agent 原生\"的 Chromium 浏览器，允许 Claude Code、Codex 等任意 Agent CLI 通过 `ego-browser` skill 在隔离的 Space 中并行驱动浏览器，不抢占用户标签页或登录态。",
       "category": "ai-products",
-      "score": 65,
+      "score": 58,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmry3ykgw004krozrrb71l5y5"
+        "canonical": "https://aihot.virxact.com/items/cms097ddu00hfrodz85d48y3f"
       },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
       "tags": [
-        "设计",
-        "工作流",
-        "视频"
+        "codex",
+        "claude code",
+        "agent",
+        "智能体"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmrzh8mze0036roryi6mombce",
@@ -1180,6 +1127,35 @@
         "视频",
         "自动化",
         "codex"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmrzayhxr008hro8j72luegxo",
+      "title": "Anthropic 砍掉 Claude Code 80% 系统提示",
+      "title_en": "玩AI可别再堆提示词了，Anthropic内部把Claude Code的系统提示砍了80%，模型反而更好用了。 这可不是降本噱头哦，现在新模型时代的交互范式彻底变了：你写的满页禁令、堆的几十个示例、…",
+      "url": "https://x.com/AYi_AInotes/status/2080725123175178435",
+      "permalink": "https://aihot.virxact.com/items/cmrzayhxr008hro8j72luegxo",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-07-24T18:41:42.000Z",
+      "discoveredAt": "2026-07-24T18:57:32.995Z",
+      "summary": "Anthropic 将 Claude Code 系统提示从 65K tokens 压缩至 13K，性能几乎未降且更稳定。核心转变是让模型自主判断，而非堆砌规则和示例。开发者应改用按需加载的 Skill、真实代码和测试用例作为参考，而非一次性塞满提示词。",
+      "category": "tip",
+      "score": 66,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrzayhxr008hro8j72luegxo"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "交互",
+        "提示词",
+        "claude code",
+        "skill"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
