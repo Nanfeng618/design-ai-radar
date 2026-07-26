@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-25T14:02:00.134Z",
-  "previousGeneratedAt": "2026-07-25T08:23:40.375Z",
+  "generatedAt": "2026-07-26T03:55:06.809Z",
+  "previousGeneratedAt": "2026-07-25T14:02:00.134Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 44,
+  "itemCount": 43,
   "sourceCounts": {
-    "网站": 17,
+    "网站": 16,
     "X": 24,
     "公众号": 3
   },
@@ -14,93 +14,6 @@
     "url": "https://aihot.virxact.com"
   },
   "items": [
-    {
-      "id": "cmrzawb1t0069ro8jesdi7q3o",
-      "title": "Claude Design 产品设计师 Nate Parrott 分享如何用其探索视觉创意",
-      "title_en": "How the product designer who built Claude Design uses it to explore ideas before building them",
-      "url": "https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them",
-      "permalink": "https://aihot.virxact.com/items/cmrzawb1t0069ro8jesdi7q3o",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-07-24T18:55:51.476Z",
-      "discoveredAt": "2026-07-24T18:55:51.476Z",
-      "summary": "Anthropic 产品设计师 Nate Parrott 分享了他在 Claude Design（beta 版）中利用 HTML 交互能力进行产品原型、幻灯片、动画等视觉创意探索与迭代的方法。他将 Anthropic 品牌规范提炼为提示词，使输出自动符合品牌指南。Claude Design 不包含图像模型，不适合 Logo 设计，但可与 Claude Code 协同工作，将早期创意与生产开发衔接。",
-      "category": "tip",
-      "score": 61,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrzawb1t0069ro8jesdi7q3o"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 33,
-      "editorialScore": 37,
-      "tags": [
-        "产品设计",
-        "设计师",
-        "原型",
-        "designer"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmryeqipg00ilrolg4ycz6mhm",
-      "title": "FLUX 3发布：多模态真实世界模型",
-      "title_en": "FLUX 3 发布了！ Black Forest Labs 对它的定位，不再是又一个「文生视频模型」或「文生图模型」，是「真实世界模型」！ 团队把 图像 / 视频 / 音频 放进同一套 multi…",
-      "url": "https://x.com/shao__meng/status/2080499451576377388",
-      "permalink": "https://aihot.virxact.com/items/cmryeqipg00ilrolg4ycz6mhm",
-      "source": "X：邵猛 (@shao__meng)",
-      "publishedAt": "2026-07-24T03:44:57.000Z",
-      "discoveredAt": "2026-07-24T03:55:33.149Z",
-      "summary": "Black Forest Labs发布FLUX 3，定位为\"真实世界模型\"，而非单纯的文生图或文生视频模型。该模型将图像、视频、音频和语言纳入同一multimodal flow架构，通过模态间的互约束学习物理规律与因果线索。同一底座支持三条产品线：Video（最长20秒、原生音频）、Image（后续推出）和Action（动作预测，已用于FLUX-mimic机器人场景）。",
-      "category": "ai-models",
-      "score": 52,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmryeqipg00ilrolg4ycz6mhm"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 32,
-      "editorialScore": 35,
-      "tags": [
-        "文生图",
-        "文生视频",
-        "生图",
-        "flux"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmry5yqgv009croeulwpmcunn",
-      "title": "FLUX 3 统一图像视频音频与机器人动作预测",
-      "title_en": "好久没有看到Flux家更新模型了啊~ FLUX 3把图像、视频、音频和机器人动作预测塞进了同一个模型。 Black Forest Labs这次直接上统一架构，一个多模态backbone同时处理图像…",
-      "url": "https://x.com/berryxia/status/2080431253744968087",
-      "permalink": "https://aihot.virxact.com/items/cmry5yqgv009croeulwpmcunn",
-      "source": "X：Berry Xia (@berryxia)",
-      "publishedAt": "2026-07-23T23:13:58.000Z",
-      "discoveredAt": "2026-07-23T23:50:00.454Z",
-      "summary": "Black Forest Labs 发布 FLUX 3，一个统一多模态 backbone，同时处理图像生成、视频、原生音频，并扩展至机器人动作预测。视频已开放 early access，后续将开放权重，并已与 mimic、Audi 合作在真实机器人上测试。该模型旨在证明物理世界智能与内容创作可共享同一套视觉基础模型。",
-      "category": "ai-models",
-      "score": 56,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmry5yqgv009croeulwpmcunn"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 23,
-      "editorialScore": 26,
-      "tags": [
-        "图像生成",
-        "flux",
-        "视觉",
-        "内容创作"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
     {
       "id": "cmrywwsva05zgrolgrh7uc4ls",
       "title": "FLUX 3 x mimic：新一代视频动作模型",
@@ -329,61 +242,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmryk71l2024nrolgqzck6l2v",
-      "title": "Black Forest Labs 发布多模态模型 FLUX 3",
-      "title_en": "Black Forest Labs introduced FLUX 3， a multimodal model for Image， Video， audio， and Action Predicti…",
-      "url": "https://x.com/testingcatalog/status/2080536654423478676",
-      "permalink": "https://aihot.virxact.com/items/cmryk71l2024nrolgqzck6l2v",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-07-24T06:12:47.000Z",
-      "discoveredAt": "2026-07-24T06:28:22.581Z",
-      "summary": "Black Forest Labs 推出了 FLUX 3，这是一个用于图像、视频、音频和动作预测的多模态模型。\n\n> 在一个统一架构中联合训练，我们的模型可扩展用于预测机器人动作。\n\n> FLUX 3 Video 现已开放早期访问（需通过表单申请）。",
-      "category": "ai-models",
-      "score": 35,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmryk71l2024nrolgqzck6l2v"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "flux",
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmry9ae7600gyropq4igkhcmr",
-      "title": "Kimi K3与Claude Fable5成视频生成首选模型",
-      "title_en": "如果你用Hyperframe、remotion、manim生成的视频不好。 建议换成Kimi K3或Claude Fable5模型，因为这些库都依赖 HTML 生成的页面。 当下，大模型前端审美前…",
-      "url": "https://x.com/vista8/status/2080456617234227433",
-      "permalink": "https://aihot.virxact.com/items/cmry9ae7600gyropq4igkhcmr",
-      "source": "X：Vista (@vista8)",
-      "publishedAt": "2026-07-24T00:54:45.000Z",
-      "discoveredAt": "2026-07-24T01:23:03.325Z",
-      "summary": "针对Hyperframe、remotion、manim生成的视频效果不佳的问题，建议改用Kimi K3或Claude Fable5模型。这些视频生成库依赖HTML页面渲染，而当前大模型前端审美能力最强的两个模型正是Kimi K3和Claude Fable5。",
-      "category": "tip",
-      "score": 61,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmry9ae7600gyropq4igkhcmr"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "视频生成",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cms02k7bd0372rop15ot5w82i",
       "title": "谷歌 ATLAS 报告：AI 应用覆盖 68% 职业但深度不足，仅 20% 任务调用",
       "title_en": "1500 万条 AI 交互洞察：谷歌称 AI 应用广泛但深度不足",
@@ -469,30 +327,29 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmryclcdp009vroxssveik609",
-      "title": "Canvas UI：首个将真实交互DOM交给WebGL shader处理的HTML-in-Canvas组件库",
-      "title_en": "【前端开源】 Canvas UI：把真实、可交互的 DOM 交给 WebGL shader 处理的创意组件库--建立在 Chrome 实验性 HTML-in-Canvas 上，支持 React / V…",
-      "url": "https://x.com/shao__meng/status/2080482389718106222",
-      "permalink": "https://aihot.virxact.com/items/cmryclcdp009vroxssveik609",
-      "source": "X：邵猛 (@shao__meng)",
-      "publishedAt": "2026-07-24T02:37:09.000Z",
-      "discoveredAt": "2026-07-24T02:55:32.323Z",
-      "summary": "Canvas UI 发布，这是首个将真实、可交互 DOM 交给 WebGL shader 处理的 HTML-in-Canvas 组件库。它基于 Chrome 实验性技术，提供 24 个组件，支持 React、Vue、Svelte 和原生 TS，运行时自动探测兼容性并降级。项目通过 shadcn registry 分发，无运行时包依赖。",
-      "category": "ai-products",
-      "score": 32,
+      "id": "cms0tnxod00smrova2x8yjcso",
+      "title": "OpenAI 重置 ChatGPT Work 与 Codex 使用限制",
+      "title_en": "OPENAI 🔥： A new usage limits reset has been applied to ChatGPT Work and Codex！ P. S. If you haven…",
+      "url": "https://x.com/testingcatalog/status/2081110907942314081",
+      "permalink": "https://aihot.virxact.com/items/cms0tnxod00smrova2x8yjcso",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "publishedAt": "2026-07-25T20:14:40.000Z",
+      "discoveredAt": "2026-07-25T20:28:59.943Z",
+      "summary": "OPENAI 🔥：ChatGPT Work 和 Codex 已应用新的使用限制重置！\n\n附：如果你还没尝试通过新的语音模式操作 Codex，那绝对值得一试。这是我们一直期待的\"新用户体验\"。",
+      "category": "industry",
+      "score": 33,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmryclcdp009vroxssveik609"
+        "canonical": "https://aihot.virxact.com/items/cms0tnxod00smrova2x8yjcso"
       },
       "sourceType": "X",
       "designCategory": "产品与体验",
-      "relevanceScore": 10,
-      "editorialScore": 14,
+      "relevanceScore": 9,
+      "editorialScore": 13,
       "tags": [
-        "ui",
-        "交互",
-        "创意"
+        "用户体验",
+        "codex"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
@@ -636,34 +493,6 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmryhzfdj01hjrolghw239asv",
-      "title": "用百度 Unlimited-OCR 构建端到端高分辨率图像与多页 PDF 解析管线",
-      "title_en": "How to Build an End-to-End OCR Pipeline with Baidu's Unlimited-OCR for High-Resolution Images and Multi-Page PDF Parsing",
-      "url": "https://www.marktechpost.com/2026/07/23/how-to-build-an-end-to-end-ocr-pipeline-with-baidus-unlimited-ocr-for-high-resolution-images-and-multi-page-pdf-parsing",
-      "permalink": "https://aihot.virxact.com/items/cmryhzfdj01hjrolghw239asv",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-07-24T05:16:28.000Z",
-      "discoveredAt": "2026-07-24T05:26:26.990Z",
-      "summary": "本教程构建了一套完整的 OCR 工作流，在 GPU 上加载百度 3B 参数的 Unlimited-OCR 视觉语言模型，支持 bfloat16/float16 自动选择。管线包含两种推理模式：Gundam 模式（分块高细节）和 Base 模式（单视图更快），并通过 PyMuPDF 和 infer_multi（） 扩展至多页 PDF 解析，全程保留长上下文生成、重复控制和结构化输出设置。",
-      "category": "tip",
-      "score": 65,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmryhzfdj01hjrolghw239asv"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
-      "tags": [
-        "视觉",
-        "工作流",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmrznnuhy00epro0pdy54jaht",
       "title": "Anthropic 发布 Claude Opus 5 旗舰模型",
       "title_en": "BestBlogs 早报 · 07-25 # Claude Opus 5 / Harness Engineering / 超级团队 / Kimi K3 / 视频动作模型 【1】 ★ 精讲|Anth…",
@@ -774,31 +603,138 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmryixxqe01nqrolgb3ug6pln",
-      "title": "Higgsfield 超级计算机让 Claude 直接操作 After Effects 实时项目",
-      "title_en": "The newly launched Higgsfield Supercomputer enables Claude to work directly inside Adobe After Effec…",
-      "url": "https://x.com/rohanpaul_ai/status/2080531177677742583",
-      "permalink": "https://aihot.virxact.com/items/cmryixxqe01nqrolgb3ug6pln",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-07-24T05:51:01.000Z",
-      "discoveredAt": "2026-07-24T05:53:17.082Z",
-      "summary": "Higgsfield 新推出的超级计算机使 Claude 能直接读取并修改 Adobe After Effects 的实时项目，包括图层、关键帧、效果和表达式。用户只需描述任务，Claude 即可自动编写 ExtendScript 或使用表达式生成可手动编辑的标准场景。所有操作均可通过 Higgsfield MCP 在 Claude 中直接执行。",
-      "category": "ai-products",
+      "id": "cms19k5e002wero0wwdvoz286",
+      "title": "Claude Skills 调用流程：一次推理完成，无需两次调用",
+      "title_en": "Q：Agent 用 Skills 的时候，是不是要先调一次大模型选 Skill，再调一次大模型执行工具，总共调了两次？ A：不是的。Skills 的元信息（每个 Skill 的 name 和 des…",
+      "url": "https://x.com/dotey/status/2081225771473879226",
+      "permalink": "https://aihot.virxact.com/items/cms19k5e002wero0wwdvoz286",
+      "source": "X：宝玉 (@dotey)",
+      "publishedAt": "2026-07-26T03:51:05.000Z",
+      "discoveredAt": "2026-07-26T03:53:55.791Z",
+      "summary": "Claude 的 Skills 机制并非先选 Skill 再执行工具的两段式调用。所有 Skills 的元信息（name 和 description）在对话开始时作为系统提示词一次性加载进上下文窗口，大模型在一次推理中即可完成判断、读取指令和调用工具。Prompt Caching 缓存了系统提示词，多轮对话中无需重复处理，节省 token 和时间。",
+      "category": "tip",
+      "score": 47,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms19k5e002wero0wwdvoz286"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 9,
+      "editorialScore": 10,
+      "tags": [
+        "提示词",
+        "prompt",
+        "agent",
+        "skill"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cms17af1n025zro0wiq6jkmgv",
+      "title": "比亚迪迪空间预热人形机器人，八月初亮相",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/981/642.htm",
+      "permalink": "https://aihot.virxact.com/items/cms17af1n025zro0wiq6jkmgv",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-26T02:40:23.000Z",
+      "discoveredAt": "2026-07-26T02:50:22.400Z",
+      "summary": "比亚迪迪空间发布悬念海报，预告人形机器人将于八月初首次面向公众亮相。比亚迪执行副总裁李柯此前表示，希望未来每家门店部署两三台机器人，用于向顾客讲解和演示车辆。比亚迪否认了\"自研人形机器人代号尧舜禹、年内自用2万台\"等传闻。",
+      "category": "industry",
       "score": 40,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmryixxqe01nqrolgb3ug6pln"
+        "canonical": "https://aihot.virxact.com/items/cms17af1n025zro0wiq6jkmgv"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "海报"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cms0zy5m2002cro0wmr7rwhdb",
+      "title": "Fly.io 首席执行官 Kurt Mackey 即将卸任，公司转向 AI 智能体平台 Sprites",
+      "title_en": "Fly.io 首席执行官库尔特·麦基即将卸任",
+      "url": "https://fly.io/blog/kurt-scott-money-sprites",
+      "permalink": "https://aihot.virxact.com/items/cms0zy5m2002cro0wmr7rwhdb",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-25T23:06:49.365Z",
+      "discoveredAt": "2026-07-25T23:24:54.337Z",
+      "summary": "Fly.io 联合创始人 Kurt Mackey 宣布卸任 CEO，由 Scott Johnston 接任。公司完成新一轮融资，并推出新一代 Sprites--专为 AI 智能体设计的云端计算环境。Mackey 认为传统公共云架构不适应 AI 驱动的个性化软件时代，智能体需要按需创建、用完即弃的轻量级计算资源。",
+      "category": "industry",
+      "score": 66,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms0zy5m2002cro0wmr7rwhdb"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cms0pb4r10080rohp0yh1v4uf",
+      "title": "TileLang：用高级Python DSL通过TVM设计高性能GPU内核--从Tensor-Core GEMM到FlashAttention",
+      "title_en": "Designing High-Performance GPU Kernels with TileLang： Tensor-Core GEMM， Fused Softmax， FlashAttention， and Autotuning",
+      "url": "https://www.marktechpost.com/2026/07/25/designing-high-performance-gpu-kernels-with-tilelang-tensor-core-gemm-fused-softmax-flashattention-and-autotuning",
+      "permalink": "https://aihot.virxact.com/items/cms0pb4r10080rohp0yh1v4uf",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-07-25T18:08:12.000Z",
+      "discoveredAt": "2026-07-25T18:27:03.905Z",
+      "summary": "TileLang作为基于TVM的Python领域特定语言，可设计并编译面向性能的GPU内核。教程逐步实现向量加法、分块Tensor-Core矩阵乘法、融合GEMM后处理、行级Softmax及FlashAttention，并对比PyTorch和cuBLAS基线。通过自动调优识别架构相关内核配置，TileLang管理线程映射、内存布局、同步及底层CUDA指令生成。",
+      "category": "tip",
+      "score": 61,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms0pb4r10080rohp0yh1v4uf"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cms0kz72r0135ropfq76o6nnv",
+      "title": "Bento开源HTML PPT：丢网址AI自动生成",
+      "title_en": "这个HTML PPT 项目真的有点东西，我丢给它一个博客网址，自动生成的PPT。 它会把文章配图转成背景，看起来效果就很高级。",
+      "url": "https://x.com/vista8/status/2081048707563389260",
+      "permalink": "https://aihot.virxact.com/items/cms0kz72r0135ropfq76o6nnv",
+      "source": "X：Vista (@vista8)",
+      "publishedAt": "2026-07-25T16:07:30.000Z",
+      "discoveredAt": "2026-07-25T16:25:46.749Z",
+      "summary": "开源项目Bento支持输入博客网址自动生成PPT，并将文章配图转为背景。该项目仅用一个HTML文件实现全屏播放、文本编辑与多人协作，文档以明文JSON存储，便于AI修改迭代。",
+      "category": "tip",
+      "score": 36,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms0kz72r0135ropfq76o6nnv"
       },
       "sourceType": "X",
-      "designCategory": "设计工具",
-      "relevanceScore": 6,
-      "editorialScore": 11,
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
       "tags": [
-        "adobe",
-        "mcp"
+        "配图"
       ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cms0942e500corodza9v7s7sb",
@@ -1046,29 +982,57 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmrykywyy026srolg9s0qrg8v",
-      "title": "腾讯混元大语言模型与多模态团队合并，成立基础模型部由姚顺雨统一管理",
-      "title_en": "腾讯混元大语言模型和多模态团队合并，统一由姚顺雨管理",
-      "url": "https://www.ithome.com/0/981/121.htm",
-      "permalink": "https://aihot.virxact.com/items/cmrykywyy026srolg9s0qrg8v",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-24T06:19:25.000Z",
-      "discoveredAt": "2026-07-24T06:50:01.581Z",
-      "summary": "腾讯宣布混元多模态模型部门与大语言模型部门合并，成立基础模型部，由首席AI科学家姚顺雨统一管理。7月上线的Hy3大语言模型智能水平比肩参数规模2-5倍的旗舰模型，发布一周后总调用量较上一代Hy2增长超68倍。混元3D世界模型2.0（Hy World 2.0）已开源，支持文字、图片、视频输入生成3D世界，社区下载量超300万。",
-      "category": "industry",
-      "score": 52,
+      "id": "cms18kti602p9ro0wfc5m0xki",
+      "title": "开发者正变成AI Agent的工程经理",
+      "title_en": "Prompt Engineering、Context Engineering、Loop Engineering、Graph Engineering … 你现在是否也是「只通过语言指令指挥 Age…",
+      "url": "https://x.com/shao__meng/status/2081216459364331528",
+      "permalink": "https://aihot.virxact.com/items/cms18kti602p9ro0wfc5m0xki",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-07-26T03:14:05.000Z",
+      "discoveredAt": "2026-07-26T03:26:27.924Z",
+      "summary": "通过提示词指挥AI Agent而不直接读写代码，本质与工程经理管理人类下属无异。当每个开发者都成为管理多个AI Agent的工程经理时，质量保障仍需依靠管理与流程，而非幻想AI不犯错。",
+      "category": "tip",
+      "score": 39,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrykywyy026srolg9s0qrg8v"
+        "canonical": "https://aihot.virxact.com/items/cms18kti602p9ro0wfc5m0xki"
       },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
       "tags": [
-        "视频",
-        "3d"
+        "提示词",
+        "prompt",
+        "agent"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cms0xtc480057ro2587fcwgkk",
+      "title": "Sam Altman 43分钟深度访谈要点",
+      "title_en": "Oh my god 43：00 https://x.com/jxnlco/status/2076130428407480650?s=46",
+      "url": "https://x.com/jxnlco/status/2081140203985527295",
+      "permalink": "https://aihot.virxact.com/items/cms0xtc480057ro2587fcwgkk",
+      "source": "X：Jason Liu (@jxnlco)",
+      "publishedAt": "2026-07-25T22:11:05.000Z",
+      "discoveredAt": "2026-07-25T22:25:10.093Z",
+      "summary": "Jason Liu 分享了一段 43 分钟的 Sam Altman 访谈。Altman 在访谈中讨论了创业、指数增长、创造充裕智能、OpenAI 早期经历、关闭 Sora 聚焦 Codex、算力投资不足、以及 AI 威权主义与自由等话题。",
+      "category": "tip",
+      "score": 41,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms0xtc480057ro2587fcwgkk"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "sora",
+        "codex"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -1160,48 +1124,47 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmryce7mn001droeb7cvuxb6v",
-      "title": "OpenAI 升级 ChatGPT 桌面应用，GPT-Live 模型驱动语音模式上线",
-      "title_en": "OpenAI ChatGPT 桌面应用上线语音模式：用户口述需求，AI 推进多项任务",
-      "url": "https://www.ithome.com/0/980/975.htm",
-      "permalink": "https://aihot.virxact.com/items/cmryce7mn001droeb7cvuxb6v",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-24T02:45:13.000Z",
-      "discoveredAt": "2026-07-24T02:49:59.285Z",
-      "summary": "OpenAI 于 7 月 24 日发布公告，升级 ChatGPT 桌面应用（已与 Codex 合体），引入由 GPT-Live 模型驱动的 ChatGPT Voice 模式。用户可在聊天、办公和编程三个板块中通过语音发起、检查或调整任务，实现多线程工作协同。GPT-Live 为全双工语音模型，可同时聆听与说话，支持从单一对话启动多个工作流程并在后台完成任务。",
+      "id": "cmrz3h24q01lwroeyzaeujk8b",
+      "title": "可灵AI展示小猫咪捣蛋趣事",
+      "title_en": "Just a tiny meow-squito causing trouble.",
+      "url": "https://x.com/Kling_ai/status/2080669333253173732",
+      "permalink": "https://aihot.virxact.com/items/cmrz3h24q01lwroeyzaeujk8b",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-07-24T15:00:00.000Z",
+      "discoveredAt": "2026-07-24T15:28:01.971Z",
+      "summary": "Just a tiny meow-squito causing trouble.\n只是一只小小的喵蚊子惹了点麻烦。",
       "category": "ai-products",
-      "score": 70,
+      "score": 20,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmryce7mn001droeb7cvuxb6v"
+        "canonical": "https://aihot.virxact.com/items/cmrz3h24q01lwroeyzaeujk8b"
       },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
       "editorialScore": 9,
       "tags": [
-        "工作流",
-        "codex"
+        "可灵"
       ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmrz7ov4300lfrox82ri8kia1",
-      "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
-      "title_en": "The new rules of context engineering for Claude 5 generation models",
+      "id": "cms110qj500fhro0wq1zpxkf7",
+      "title": "Claude 5 系列模型上下文工程新规则：Anthropic 移除 Claude Code 超 80% 系统提示词",
+      "title_en": "Claude 5 生成模型的上下文工程新规则",
       "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "permalink": "https://aihot.virxact.com/items/cmrz7ov4300lfrox82ri8kia1",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-07-24T17:25:50.349Z",
-      "discoveredAt": "2026-07-24T17:25:50.349Z",
-      "summary": "Anthropic 为 Claude Opus 5 和 Claude Fable 5 等新一代模型删除了 Claude Code 超过 80% 的系统提示词，且编码评测无显著损失。",
+      "permalink": "https://aihot.virxact.com/items/cms110qj500fhro0wq1zpxkf7",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-25T23:23:09.413Z",
+      "discoveredAt": "2026-07-25T23:54:54.341Z",
+      "summary": "Anthropic 为 Claude Opus 5 和 Claude Fable 5 等新一代模型移除了 Claude Code 超过 80% 的系统提示词，且编码评测分数未出现可测量损失。",
       "category": "tip",
       "score": 65,
-      "selected": true,
+      "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrz7ov4300lfrox82ri8kia1"
+        "canonical": "https://aihot.virxact.com/items/cms110qj500fhro0wq1zpxkf7"
       },
       "sourceType": "网站",
       "designCategory": "工作流与 Agent",
