@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-26T08:39:30.673Z",
-  "previousGeneratedAt": "2026-07-26T03:55:06.809Z",
+  "generatedAt": "2026-07-26T13:56:17.362Z",
+  "previousGeneratedAt": "2026-07-26T08:39:30.673Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 40,
+  "itemCount": 39,
   "sourceCounts": {
     "网站": 14,
     "X": 24,
-    "公众号": 2
+    "公众号": 1
   },
   "source": {
     "name": "AI HOT",
@@ -186,34 +186,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmryt7aph04w7rolgd1krdvzi",
-      "title": "生数科技在 WAIC 2026 展示通用世界模型最新进展",
-      "title_en": "WAIC 2026 圆满落幕 | 生数科技全景呈现通用世界模型最新进展：从数字世界生成到物理世界行动",
-      "url": "https://mp.weixin.qq.com/s/PNTAz8J2U8OibvMtk59G_w",
-      "permalink": "https://aihot.virxact.com/items/cmryt7aph04w7rolgd1krdvzi",
-      "source": "公众号：生数科技（Vidu·视频）",
-      "publishedAt": "2026-07-24T10:35:54.000Z",
-      "discoveredAt": "2026-07-24T10:40:31.252Z",
-      "summary": "生数科技在 WAIC 2026 上展示了从数字世界生成到物理世界行动的通用世界模型。其视频生成模型 Vidu 已形成产品矩阵，实时交互模型 Vidu S1 支持 540P、最高 42FPS 的视频通话级输出。面向物理世界的世界动作模型 Motubrain 在 RoboTwin 2.0 榜单的 Clean 和 Randomized 场景下均位列第一。",
-      "category": "ai-products",
-      "score": 40,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmryt7aph04w7rolgd1krdvzi"
-      },
-      "sourceType": "公众号",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视频生成",
-        "交互",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cms1duc9h0433ro0wumwbgcsn",
       "title": "人与AI交互的带宽不对称设计",
       "title_en": "It was always possible to speak to your computer. It wouldn't do much in return. But we fixed that b…",
@@ -378,6 +350,33 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cms1sw61502kero05pi7i3prr",
+      "title": "Midjourney 收购占星App Co-Star",
+      "title_en": "Mindjourney 收购了一家算命公司：Co-Star 传统星座运势一般只看出生月份（太阳星座），而 Co-Star 需要精确到出生的具体分钟和出生地点。 它结合了 NASA 的行星数据 和专…",
+      "url": "https://x.com/xiaohu/status/2081362086429602174",
+      "permalink": "https://aihot.virxact.com/items/cms1sw61502kero05pi7i3prr",
+      "source": "X：小互 (@xiaohu)",
+      "publishedAt": "2026-07-26T12:52:45.000Z",
+      "discoveredAt": "2026-07-26T12:55:08.322Z",
+      "summary": "Midjourney 收购了占星 App Co-Star，后者利用 NASA 行星数据和 AI 算法生成个性化性格与运势分析。Co-Star 创始人 Banu Guler 将出任 Midjourney 首席设计官，原 App 仍由其独立运营。",
+      "category": "industry",
+      "score": 37,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms1sw61502kero05pi7i3prr"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 9,
+      "editorialScore": 12,
+      "tags": [
+        "midjourney",
+        "设计"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmrz07a8z00ksroey0zfjw3iq",
       "title": "Runway Agent 推出自然语言工作流功能",
       "title_en": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
@@ -405,6 +404,33 @@
         "agent"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cms1qkzsq01unro05w5qh7qv9",
+      "title": "开发者推出防AI训练图片干扰工具，意外催生\"抖动视觉风格\"梗图创作潮流",
+      "title_en": "开发者推出防 AI 训练图片干扰工具，意外催生\"抖动视觉风格\"梗图创作潮流",
+      "url": "https://www.ithome.com/0/981/786.htm",
+      "permalink": "https://aihot.virxact.com/items/cms1qkzsq01unro05w5qh7qv9",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-26T11:45:41.000Z",
+      "discoveredAt": "2026-07-26T11:50:27.476Z",
+      "summary": "开发者TI111310推出\"grid-noise-animator\"工具，通过在图片中加入大量噪点干扰AI识别能力，防止图片被用于训练AI模型。该工具可将照片转换为带噪点的视频或动态图片，并支持调整噪点尺寸、采样抖动等参数。其产生的抖动视觉风格意外被网友用作创作工具，制作趣味梗图或\"灵异录像带\"风格影像，形成潮流。",
+      "category": "ai-products",
+      "score": 51,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms1qkzsq01unro05w5qh7qv9"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cms1i0bga001eroxouqi3e52w",
@@ -840,60 +866,6 @@
         "交互"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmrysmexs04pwrolg1h74c3bh",
-      "title": "OneCLI：开源凭证网关，防止AI智能体泄露机密信息",
-      "title_en": "Show HN： OneCLI--一款开源凭证网关，可防止机密信息泄露至AI代理",
-      "url": "https://github.com/onecli/onecli",
-      "permalink": "https://aihot.virxact.com/items/cmrysmexs04pwrolg1h74c3bh",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-24T10:19:38.152Z",
-      "discoveredAt": "2026-07-24T10:24:16.615Z",
-      "summary": "OneCLI 是一款开源凭证网关，专门设计用于防止 AI 智能体在操作中意外泄露 API 密钥、数据库密码等机密信息。它通过拦截和过滤 CLI 命令中的敏感凭证，确保只有经过授权的安全调用才能访问这些秘密。该项目已在 GitHub 上开源，旨在为使用 AI 代理的开发团队提供一道额外的安全防线。",
-      "category": "ai-products",
-      "score": 69,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrysmexs04pwrolg1h74c3bh"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmryrk1hv04gbrolgtuvmq09h",
-      "title": "阿里云推出Token Plan，统一AI模型调用与计费",
-      "title_en": "Small teams don't need an AI tool for every job title. They need one plan that covers all of them. …",
-      "url": "https://x.com/alibaba_cloud/status/2080588893691531270",
-      "permalink": "https://aihot.virxact.com/items/cmryrk1hv04gbrolgtuvmq09h",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "publishedAt": "2026-07-24T09:40:22.000Z",
-      "discoveredAt": "2026-07-24T09:54:26.430Z",
-      "summary": "阿里云发布Token Plan，将文本、图像、视频和音频模型的调用整合到一个统一的信用池中，提供对通义千问（Qwen）及第三方领先模型的一站式访问。该计划旨在简化AI支出，首月起步价4美元。",
-      "category": "ai-products",
-      "score": 58,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmryrk1hv04gbrolgtuvmq09h"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cms18kti602p9ro0wfc5m0xki",
