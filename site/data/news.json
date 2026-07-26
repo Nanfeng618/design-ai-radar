@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-26T03:55:06.809Z",
-  "previousGeneratedAt": "2026-07-25T14:02:00.134Z",
+  "generatedAt": "2026-07-26T08:39:30.673Z",
+  "previousGeneratedAt": "2026-07-26T03:55:06.809Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 43,
+  "itemCount": 40,
   "sourceCounts": {
-    "网站": 16,
+    "网站": 14,
     "X": 24,
-    "公众号": 3
+    "公众号": 2
   },
   "source": {
     "name": "AI HOT",
@@ -37,35 +37,6 @@
       "editorialScore": 23,
       "tags": [
         "视频生成",
-        "flux",
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrykywyx026jrolgq06set4j",
-      "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
-      "title_en": "FLUX 3 多模态 AI 模型登场：支持单次生成 20 秒多样化视频",
-      "url": "https://www.ithome.com/0/981/137.htm",
-      "permalink": "https://aihot.virxact.com/items/cmrykywyx026jrolgq06set4j",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-24T06:48:04.000Z",
-      "discoveredAt": "2026-07-24T06:50:01.581Z",
-      "summary": "Black Forest Labs 以 Early Access 方式推出 FLUX 3 多模态基础模型，采用统一架构联合学习图像、视频和音频。该模型基于 Self-Flow 学习框架扩展，可在单次生成中输出最长 20 秒视频并附带原生音频，支持文生视频、图生视频、多镜头串联等任务。",
-      "category": "ai-models",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrykywyx026jrolgq06set4j"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 20,
-      "editorialScore": 23,
-      "tags": [
-        "文生视频",
         "flux",
         "视频",
         "图像"
@@ -186,62 +157,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmryn9g0u033yrolggxnwywgy",
-      "title": "Flux 3 多模态前沿模型发布，支持图像/视频/音频联合学习",
-      "title_en": "Flux 3",
-      "url": "https://bfl.ai/blog/flux-3",
-      "permalink": "https://aihot.virxact.com/items/cmryn9g0u033yrolggxnwywgy",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-24T07:39:43.382Z",
-      "discoveredAt": "2026-07-24T07:54:13.692Z",
-      "summary": "Flux 3 多模态前沿模型发布，通过联合学习图像、视频和音频构建统一的世界表征。该模型现已开放 Early Access。",
-      "category": "ai-models",
-      "score": 50,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmryn9g0u033yrolggxnwywgy"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "flux",
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmryn43pu02w1rolg1nm1y8gc",
-      "title": "Runway Media Router 上线：根据场景自动切换 AI 模型，节省 Token 成本",
-      "title_en": "Runway Media Router 上线：根据场景切换 AI 模型，帮你省 Token",
-      "url": "https://www.ithome.com/0/981/144.htm",
-      "permalink": "https://aihot.virxact.com/items/cmryn43pu02w1rolg1nm1y8gc",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-24T07:00:01.000Z",
-      "discoveredAt": "2026-07-24T07:50:02.937Z",
-      "summary": "Runway 推出 Media Router，可在生成图像、视频、音频时根据质量、速度、成本三项优先级自动切换模型，减少开发者手动调换负担。该工具已上线 Runway Dev 平台，支持调用 Seedance、GPT Image 2、ElevenLabs 等多家模型，按高速生成、高质量、低成本三种场景灵活调度。",
-      "category": "ai-products",
-      "score": 51,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmryn43pu02w1rolg1nm1y8gc"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "runway",
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cms02k7bd0372rop15ot5w82i",
       "title": "谷歌 ATLAS 报告：AI 应用覆盖 68% 职业但深度不足，仅 20% 任务调用",
       "title_en": "1500 万条 AI 交互洞察：谷歌称 AI 应用广泛但深度不足",
@@ -299,32 +214,31 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmryndm35039grolgryvwcn9q",
-      "title": "梁文锋详解DeepSeek AGI路线图：不追热点",
-      "title_en": "终于懂DeepSeek为什么死活不追热点了，人家心里的AGI路线图，跟全行业根本不在一个维度啊卧槽， 关于AGI技术路线，4小时实录里最狠的判断是梁文峰说\"奇点之后做具身就不用我们做了，模型自己就做…",
-      "url": "https://x.com/AYi_AInotes/status/2080550345957130415",
-      "permalink": "https://aihot.virxact.com/items/cmryndm35039grolgryvwcn9q",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-07-24T07:07:11.000Z",
-      "discoveredAt": "2026-07-24T07:57:27.811Z",
-      "summary": "梁文锋在投资人会议实录中提出AGI的明确台阶：去年是CoT思维链，今年是Agent，下一道硬坎是持续学习，之后才是奇点（模型自我迭代），最后才轮到具身智能。他认为视频生成、世界模型等是支线，顺序错了越努力越错。DeepSeek因此不追热点，按自己的主线节奏推进。",
+      "id": "cms1duc9h0433ro0wumwbgcsn",
+      "title": "人与AI交互的带宽不对称设计",
+      "title_en": "It was always possible to speak to your computer. It wouldn't do much in return. But we fixed that b…",
+      "url": "https://x.com/thsottiaux/status/2081254182502465981",
+      "permalink": "https://aihot.virxact.com/items/cms1duc9h0433ro0wumwbgcsn",
+      "source": "X：Tibo (@thsottiaux)",
+      "publishedAt": "2026-07-26T05:43:59.000Z",
+      "discoveredAt": "2026-07-26T05:53:50.435Z",
+      "summary": "一直以来你都可以和电脑说话。但它不会怎么回应你。不过我们修复了这个bug。",
       "category": "tip",
-      "score": 51,
+      "score": 28,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmryndm35039grolgryvwcn9q"
+        "canonical": "https://aihot.virxact.com/items/cms1duc9h0433ro0wumwbgcsn"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
       "tags": [
-        "视频生成",
-        "视频",
-        "agent"
+        "设计",
+        "交互"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cms0tnxod00smrova2x8yjcso",
@@ -493,6 +407,61 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
+      "id": "cms1i0bga001eroxouqi3e52w",
+      "title": "微电影《返航日》7月27日上映，采用荣耀Robot Phone完成一镜到底视觉叙事",
+      "title_en": "微电影《返航日》官宣 7 月 27 日上映，采用荣耀 Robot Phone 完成一镜到底视觉叙事",
+      "url": "https://www.ithome.com/0/981/701.htm",
+      "permalink": "https://aihot.virxact.com/items/cms1i0bga001eroxouqi3e52w",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-26T07:04:08.000Z",
+      "discoveredAt": "2026-07-26T07:50:26.072Z",
+      "summary": "荣耀手机官宣微电影《返航日》将于7月27日上映，由摄影指导王博学执导，全程使用荣耀Robot Phone完成一镜到底拍摄。该机搭载第五代骁龙8至尊版芯片，机身顶部集成行业最小四自由度钛合金机械云台系统，电机体积比主流方案缩小70%。荣耀Robot Phone已开启预约，定档\"8月见\"，并将首发伙伴型多模态智能体操作系统AgenticOS内核。",
+      "category": "industry",
+      "score": 39,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms1i0bga001eroxouqi3e52w"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "摄影",
+        "智能体"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cms1bpbpt03ikro0wzb10c3au",
+      "title": "Claude Opus 5 单次生成滑雪视频无视觉缺陷",
+      "title_en": "Everything that can be written down as a spec is heading to zero. Claude Opus 5 made this， and \"no …",
+      "url": "https://x.com/rohanpaul_ai/status/2081236021791109266",
+      "permalink": "https://aihot.virxact.com/items/cms1bpbpt03ikro0wzb10c3au",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-07-26T04:31:49.000Z",
+      "discoveredAt": "2026-07-26T04:53:57.138Z",
+      "summary": "一切能写成规范的东西都在归零。\nClaude Opus 5 做到了这一点，\"首次通过无视觉缺陷。\"",
+      "category": "tip",
+      "score": 41,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms1bpbpt03ikro0wzb10c3au"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmrznnuhy00epro0pdy54jaht",
       "title": "Anthropic 发布 Claude Opus 5 旗舰模型",
       "title_en": "BestBlogs 早报 · 07-25 # Claude Opus 5 / Harness Engineering / 超级团队 / Kimi K3 / 视频动作模型 【1】 ★ 精讲|Anth…",
@@ -574,33 +543,6 @@
         "agent"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmrypisxv03x1rolgrn2zv5xm",
-      "title": "腾讯合并大模型与多模态部，姚顺雨统管AI",
-      "title_en": "突发：28岁的姚顺雨升任为腾讯AI条线的1号位，基本把腾讯语言、图像、视频、语音等AI模型业务板块都收入麾下，可以说是把腾讯混元基础模型的核心权力，牢牢握在了自己 手里。@TencentHunyuan…",
-      "url": "https://x.com/AYi_AInotes/status/2080567279171850659",
-      "permalink": "https://aihot.virxact.com/items/cmrypisxv03x1rolgrn2zv5xm",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-07-24T08:14:29.000Z",
-      "discoveredAt": "2026-07-24T08:57:28.549Z",
-      "summary": "腾讯内部通知将大语言模型部和多模态部合并为基础模型部，由首席AI科学家姚顺雨统一负责。姚顺雨去年12月空降，7个月内完成从AI Lab撤并到混元、再到整合多模态的集权。此前发布的Hy3模型（295B总参数/21B激活参数）已打平参数2-5倍的旗舰模型，内部WorkBuddy任务成功率从72%提升至90%，耗时降34%。",
-      "category": "industry",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrypisxv03x1rolgrn2zv5xm"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cms19k5e002wero0wwdvoz286",
@@ -954,34 +896,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmryn83me032drolgc4epoecd",
-      "title": "Codex Live 实时语音操控电脑看视频",
-      "title_en": "Codex live完全操控电脑，陪着一起看YouTube视频。 能看见界面，持续实时语音对话，有点酷啊。 开启方法： 1. 升级Codex到最新版，打开后自动有引导。 2. 或打开设置-&g…",
-      "url": "https://x.com/vista8/status/2080554543981736417",
-      "permalink": "https://aihot.virxact.com/items/cmryn83me032drolgc4epoecd",
-      "source": "X：Vista (@vista8)",
-      "publishedAt": "2026-07-24T07:23:52.000Z",
-      "discoveredAt": "2026-07-24T07:53:09.907Z",
-      "summary": "Codex Live 功能上线，可实时语音操控电脑并\"看见\"屏幕界面，支持边看 YouTube 视频边对话。用户只需升级 Codex 至最新版，或在设置中开启 Voice Chat 并打开 Screen context 即可使用。",
-      "category": "tip",
-      "score": 67,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmryn83me032drolgc4epoecd"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "界面",
-        "视频",
-        "codex"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cms18kti602p9ro0wfc5m0xki",
       "title": "开发者正变成AI Agent的工程经理",
       "title_en": "Prompt Engineering、Context Engineering、Loop Engineering、Graph Engineering … 你现在是否也是「只通过语言指令指挥 Age…",
@@ -1150,6 +1064,33 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cms125aio00taro0wvfu4jmck",
+      "title": "Codex 并行 QA 发现复杂行为问题",
+      "title_en": "Been running codex all day to do massive parallel QA in prep of the next release. Sol got insanely g…",
+      "url": "https://x.com/steipete/status/2081169373784633552",
+      "permalink": "https://aihot.virxact.com/items/cms125aio00taro0wvfu4jmck",
+      "source": "X：Peter Steinberger (@steipete)",
+      "publishedAt": "2026-07-26T00:06:59.000Z",
+      "discoveredAt": "2026-07-26T00:26:26.510Z",
+      "summary": "一整天都在运行 codex 进行大规模并行 QA，为下一个版本做准备。Sol 在真正理解意图方面变得极其出色，并能发现复杂的行为问题。\n过去，这类工作流会在压缩边界处崩溃，或者模型开始作弊。",
+      "category": "tip",
+      "score": 35,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms125aio00taro0wvfu4jmck"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "工作流",
+        "codex"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cms110qj500fhro0wq1zpxkf7",
       "title": "Claude 5 系列模型上下文工程新规则：Anthropic 移除 Claude Code 超 80% 系统提示词",
       "title_en": "Claude 5 生成模型的上下文工程新规则",
@@ -1175,33 +1116,6 @@
         "claude code"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmryqp84q0470rolgcd73lzky",
-      "title": "京东数字人携23家品牌IP进直播间，探索AI营销新玩法",
-      "title_en": "品牌IP进直播间，京东数字人引领AI营销玩法",
-      "url": "https://mp.weixin.qq.com/s/hSNfOxmPlRQM00AEzQQlpA",
-      "permalink": "https://aihot.virxact.com/items/cmryqp84q0470rolgcd73lzky",
-      "source": "公众号：京东JoyAI",
-      "publishedAt": "2026-07-24T09:27:36.000Z",
-      "discoveredAt": "2026-07-24T09:30:29.201Z",
-      "summary": "京东数字人技术支持联想拯救者、蒙牛、海信、五粮液、三只松鼠等23家品牌IP进入直播间，联动赛事热点与福利玩法，实现从内容露出到经营承接的转化。该系列直播以\"万物皆可直播\"为主题，将品牌IP从静态资产变为可互动、可承接转化的内容资产，为品牌商家打开AI营销新场景。",
-      "category": "industry",
-      "score": 37,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmryqp84q0470rolgcd73lzky"
-      },
-      "sourceType": "公众号",
-      "designCategory": "行业观察",
-      "relevanceScore": 7,
-      "editorialScore": 7,
-      "tags": [
-        "品牌",
-        "营销"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     }
   ]
 }
