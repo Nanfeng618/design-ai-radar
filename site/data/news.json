@@ -1,48 +1,18 @@
 {
-  "generatedAt": "2026-07-26T13:56:17.362Z",
-  "previousGeneratedAt": "2026-07-26T08:39:30.673Z",
+  "generatedAt": "2026-07-27T04:02:05.197Z",
+  "previousGeneratedAt": "2026-07-26T13:56:17.362Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 39,
+  "itemCount": 38,
   "sourceCounts": {
     "网站": 14,
-    "X": 24,
-    "公众号": 1
+    "X": 24
   },
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com"
   },
   "items": [
-    {
-      "id": "cmrywwsva05zgrolgrh7uc4ls",
-      "title": "FLUX 3 x mimic：新一代视频动作模型",
-      "title_en": "Flux 3 X Mimic：新一代视频动作模型",
-      "url": "https://bfl.ai/blog/flux-3-mimic",
-      "permalink": "https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-24T11:55:45.885Z",
-      "discoveredAt": "2026-07-24T12:24:18.584Z",
-      "summary": "Black Forest Labs 发布多模态基础模型 FLUX 3，联合训练图像、视频和音频，其中视频预测占训练算力的 95% 以上。该模型与机器人公司 mimic 合作推出 FLUX-mimic，已在奥迪生产线上测试部署。加入动作预测后，视频生成质量最初下降最多 10%，但经 3500 步训练后恢复原有水平。",
-      "category": "ai-models",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 20,
-      "editorialScore": 23,
-      "tags": [
-        "视频生成",
-        "flux",
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
     {
       "id": "cmrzf4txp00qqro2i0h0jn18k",
       "title": "Midjourney 收购占星 App Co-Star，拓展 AI 个性化服务版图",
@@ -97,6 +67,34 @@
         "海报",
         "视觉",
         "design"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cms23ou2z022fro9fuxwjdsli",
+      "title": "Black Forest Labs 发布 FLUX 3：统一图像、视频、音频与机器人动作预测的多模态基础模型",
+      "title_en": "Black Forest Labs Releases FLUX 3： A Multimodal Flow Model for Image， Video， Audio and Robot Action Prediction",
+      "url": "https://www.marktechpost.com/2026/07/26/black-forest-labs-releases-flux-3-a-multimodal-flow-model-for-image-video-audio-and-robot-action-prediction",
+      "permalink": "https://aihot.virxact.com/items/cms23ou2z022fro9fuxwjdsli",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-07-26T17:50:23.000Z",
+      "discoveredAt": "2026-07-26T17:57:23.466Z",
+      "summary": "Black Forest Labs 发布 FLUX 3，这是首个在单一架构中联合学习图像、视频和音频，并从同一组权重输出视频、音频和动作预测的多模态基础模型。FLUX 3 Video 可单次生成长达 20 秒、带原生音频的视频，在 10 秒 720p 文本生成视频的人类偏好测试中，以 93% 的偏好率击败 Luma Ray 3.2。",
+      "category": "ai-models",
+      "score": 70,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms23ou2z022fro9fuxwjdsli"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 13,
+      "editorialScore": 16,
+      "tags": [
+        "flux",
+        "视频",
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -296,54 +294,26 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmrz3cguz01giroeykqf5jdhl",
-      "title": "Midjourney 收购 Co-Star，CEO 任首席设计官",
-      "title_en": "Midjourney is acquiring Co-Star. CEO @banu__guler is now Chief Design Officer at Midjourney. She's b…",
-      "url": "https://x.com/midjourney/status/2080671833322672148",
-      "permalink": "https://aihot.virxact.com/items/cmrz3cguz01giroeykqf5jdhl",
-      "source": "X：Midjourney (@midjourney)",
-      "publishedAt": "2026-07-24T15:09:56.000Z",
-      "discoveredAt": "2026-07-24T15:24:28.698Z",
-      "summary": "Midjourney 正在收购 Co-Star。CEO @banu__guler 现担任 Midjourney 首席设计官。她正在组建跨职能的设计、产品和前端团队，以支持我们所有工作。Co-Star 应用将继续在 Banu 的完全控制下运营。欢迎 Banu 和团队 &lt；3",
+      "id": "cms1x6lkh007oro9f6aob41ly",
+      "title": "Midjourney 收购占星 App Co-Star，并推健康扫描",
+      "title_en": "Midjourney 最近动作不断，挺值得观察。 一个是上个月往健康方向走，开澡堂子做全身超声扫描。 另一个是收购 Co-Star，一个做星盘分析的 App。",
+      "url": "https://x.com/frxiaobei/status/2081385675467935889",
+      "permalink": "https://aihot.virxact.com/items/cms1x6lkh007oro9f6aob41ly",
+      "source": "X：小北 (@frxiaobei)",
+      "publishedAt": "2026-07-26T14:26:29.000Z",
+      "discoveredAt": "2026-07-26T14:55:15.916Z",
+      "summary": "Midjourney 近期动作频繁，先是推出全身超声扫描服务，后又收购了占星分析 App Co-Star。Co-Star 需精确到出生分钟和地点，结合 NASA 行星数据与 AI 算法生成性格与运势预测，并支持社交功能。",
       "category": "industry",
-      "score": 62,
+      "score": 42,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrz3cguz01giroeykqf5jdhl"
+        "canonical": "https://aihot.virxact.com/items/cms1x6lkh007oro9f6aob41ly"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
-      "tags": [
-        "midjourney",
-        "design",
-        "设计"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrz3ch9f01grroeyr5tm0o7l",
-      "title": "Midjourney 收购占星社交应用 Co-Star",
-      "title_en": "Midjourney acquired the astrology app Co-Star",
-      "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star",
-      "permalink": "https://aihot.virxact.com/items/cmrz3ch9f01grroeyr5tm0o7l",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-24T15:09:55.000Z",
-      "discoveredAt": "2026-07-24T15:24:29.047Z",
-      "summary": "Midjourney 收购了社交占星应用 Co-Star，交易金额未披露。Co-Star 月活跃用户约 430 万，利用 AI 和人工撰写星座运势与兼容性评估。Co-Star 约 2 人的团队已加入 Midjourney，其消费级应用开发经验或助力 Midjourney 推出独立应用。",
-      "category": "industry",
-      "score": 62,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrz3ch9f01grroeyr5tm0o7l"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
+      "relevanceScore": 9,
+      "editorialScore": 12,
       "tags": [
         "midjourney"
       ],
@@ -377,33 +347,31 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmrz07a8z00ksroey0zfjw3iq",
-      "title": "Runway Agent 推出自然语言工作流功能",
-      "title_en": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
-      "url": "https://x.com/runwayml/status/2080649234672439389",
-      "permalink": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-07-24T13:40:08.000Z",
-      "discoveredAt": "2026-07-24T13:56:25.978Z",
-      "summary": "在 Runway Agent 中引入工作流。现在你可以通过自然语言构建、运行或编辑基于节点的工作流。工作流可大规模解锁高质量输出。\n\n立即尝试，点击下方链接调用 / Workflow 技能。",
+      "id": "cms2nzdrl02varo3fs3czynmz",
+      "title": "阿里云Token Plan：多模态AI共享额度",
+      "title_en": "Why manage separate AI tools for the script， the image， and the video？ The Alibaba Cloud Token Plan…",
+      "url": "https://x.com/alibaba_cloud/status/2081578536121344070",
+      "permalink": "https://aihot.virxact.com/items/cms2nzdrl02varo3fs3czynmz",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-07-27T03:12:51.000Z",
+      "discoveredAt": "2026-07-27T03:25:28.399Z",
+      "summary": "阿里云推出Token Plan，为脚本、图像、视频等不同模态的AI工具提供统一共享额度池。该计划支持Qwen3.8-Max-Preview、HappyHorse1.1、DeepSeek V4、GLM-5.2等新模型，用户可跨模型和工具使用同一额度并查看用量。首月起步价仅4美元。",
       "category": "ai-products",
-      "score": 71,
-      "selected": true,
+      "score": 60,
+      "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq"
+        "canonical": "https://aihot.virxact.com/items/cms2nzdrl02varo3fs3czynmz"
       },
       "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 11,
-      "editorialScore": 12,
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
       "tags": [
-        "runway",
-        "工作流",
-        "workflow",
-        "agent"
+        "视频",
+        "图像"
       ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cms1qkzsq01unro05w5qh7qv9",
@@ -569,6 +537,59 @@
         "agent"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cms2p1yw70386ro3f9kzmwx89",
+      "title": "阿里云推出Token计划，多模型统一体验",
+      "title_en": "Which AI model actually fits the job？ You won't know until you experiment. The Alibaba Cloud Token…",
+      "url": "https://x.com/alibaba_cloud/status/2081583742116618475",
+      "permalink": "https://aihot.virxact.com/items/cms2p1yw70386ro3f9kzmwx89",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-07-27T03:33:32.000Z",
+      "discoveredAt": "2026-07-27T03:55:28.935Z",
+      "summary": "阿里云发布Token计划，通过单一信用池即可使用Qwen、Wan、HappyHorse、DeepSeek和GLM等多个模型，覆盖文本、音频、图像和视频能力。该计划提供更清晰的AI用量可视化，首月仅需4美元，方便用户尝试、测试和对比不同模型。",
+      "category": "ai-products",
+      "score": 53,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms2p1yw70386ro3f9kzmwx89"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cms2mqllz02f0ro3fnvapyymx",
+      "title": "小米澎湃 HyperOS 4 系统新特性曝光：实时光场渲染、AI 感色融色 UI 及悬浮岛",
+      "title_en": "小米澎湃 HyperOS 4 系统新特性曝光，将带来大量实时光场渲染等",
+      "url": "https://www.ithome.com/0/981/850.htm",
+      "permalink": "https://aihot.virxact.com/items/cms2mqllz02f0ro3fnvapyymx",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-27T02:08:40.000Z",
+      "discoveredAt": "2026-07-27T02:50:37.093Z",
+      "summary": "小米澎湃 HyperOS 4 系统新特性曝光，将带来大量实时光场渲染、玻璃材质、大文件夹自定义、堆叠桌面小组件、锁屏堆叠通知、悬浮岛及 AI 感色融色 UI 等。博主称前置主动 AI 感知通过 NPU 协同实现，功耗很低；AI 语音助手将以上岛形式呈现，类似\"AI Siri\"。据此前爆料，小米阔折叠手机将首发该系统，系统应用已做 AI 赋能。",
+      "category": "ai-products",
+      "score": 27,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms2mqllz02f0ro3fnvapyymx"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "ui"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cms19k5e002wero0wwdvoz286",
@@ -842,30 +863,33 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmrz0ch8700m7roeygv4eshdv",
-      "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-      "title_en": "Ling-3.0-flash：智以密胜",
-      "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
-      "permalink": "https://aihot.virxact.com/items/cmrz0ch8700m7roeygv4eshdv",
-      "source": "公众号：蚂蚁百灵（Ling）",
-      "publishedAt": "2026-07-24T13:40:30.000Z",
-      "discoveredAt": "2026-07-24T14:00:30.582Z",
-      "summary": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-flash，总参数量124B，激活参数量仅5.1B，在传统推理、指令遵循与长文本等指标上对标甚至超越上一代旗舰Ring-2.6-1T。模型采用原生混合线性注意力架构与1/64稀疏MoE，并扩展至10，000+可交互训练环境，长输入下TTFT降低60%至80%以上。",
-      "category": "ai-models",
-      "score": 75,
-      "selected": true,
+      "id": "cms2krmj401ypro3f7czzs1vc",
+      "title": "Qwen 登陆 CoreTV 赋能 AI 动画创作",
+      "title_en": "Great to see Qwen powering real creative workflows on CoreTV. Thanks @CoreTV_AI for building with us…",
+      "url": "https://x.com/alibaba_cloud/status/2081553260209746120",
+      "permalink": "https://aihot.virxact.com/items/cms2krmj401ypro3f7czzs1vc",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-07-27T01:32:25.000Z",
+      "discoveredAt": "2026-07-27T01:55:26.904Z",
+      "summary": "很高兴看到 Qwen 在 CoreTV 上赋能真实创意工作流。感谢 @CoreTV_AI 与我们共建--从提示词到成片，可能性才刚刚开始。✨",
+      "category": "industry",
+      "score": 29,
+      "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrz0ch8700m7roeygv4eshdv"
+        "canonical": "https://aihot.virxact.com/items/cms2krmj401ypro3f7czzs1vc"
       },
-      "sourceType": "公众号",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
+      "sourceType": "X",
+      "designCategory": "行业观察",
+      "relevanceScore": 9,
+      "editorialScore": 9,
       "tags": [
-        "交互"
+        "工作流",
+        "创意",
+        "creative",
+        "提示词"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "cms18kti602p9ro0wfc5m0xki",
@@ -1006,59 +1030,6 @@
         "提示词",
         "claude code",
         "skill"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmrz3h24q01lwroeyzaeujk8b",
-      "title": "可灵AI展示小猫咪捣蛋趣事",
-      "title_en": "Just a tiny meow-squito causing trouble.",
-      "url": "https://x.com/Kling_ai/status/2080669333253173732",
-      "permalink": "https://aihot.virxact.com/items/cmrz3h24q01lwroeyzaeujk8b",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "publishedAt": "2026-07-24T15:00:00.000Z",
-      "discoveredAt": "2026-07-24T15:28:01.971Z",
-      "summary": "Just a tiny meow-squito causing trouble.\n只是一只小小的喵蚊子惹了点麻烦。",
-      "category": "ai-products",
-      "score": 20,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrz3h24q01lwroeyzaeujk8b"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "可灵"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cms125aio00taro0wvfu4jmck",
-      "title": "Codex 并行 QA 发现复杂行为问题",
-      "title_en": "Been running codex all day to do massive parallel QA in prep of the next release. Sol got insanely g…",
-      "url": "https://x.com/steipete/status/2081169373784633552",
-      "permalink": "https://aihot.virxact.com/items/cms125aio00taro0wvfu4jmck",
-      "source": "X：Peter Steinberger (@steipete)",
-      "publishedAt": "2026-07-26T00:06:59.000Z",
-      "discoveredAt": "2026-07-26T00:26:26.510Z",
-      "summary": "一整天都在运行 codex 进行大规模并行 QA，为下一个版本做准备。Sol 在真正理解意图方面变得极其出色，并能发现复杂的行为问题。\n过去，这类工作流会在压缩边界处崩溃，或者模型开始作弊。",
-      "category": "tip",
-      "score": 35,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms125aio00taro0wvfu4jmck"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "工作流",
-        "codex"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
