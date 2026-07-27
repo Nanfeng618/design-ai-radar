@@ -1,18 +1,47 @@
 {
-  "generatedAt": "2026-07-27T04:02:05.197Z",
-  "previousGeneratedAt": "2026-07-26T13:56:17.362Z",
+  "generatedAt": "2026-07-27T10:09:16.567Z",
+  "previousGeneratedAt": "2026-07-27T04:02:05.197Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 38,
+  "itemCount": 40,
   "sourceCounts": {
-    "网站": 14,
-    "X": 24
+    "X": 24,
+    "网站": 16
   },
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com"
   },
   "items": [
+    {
+      "id": "cms2sbkyp046mro3f1etphuah",
+      "title": "Claude Design 作者自述：使用 Claude Design 的十条最佳实践",
+      "title_en": "Claude Design 作者自述：我自己使用 Claude Design 的十条最佳实践 @nateparrott 本来是 Claude Code for VS Code 的唯一产品设计师，搭配…",
+      "url": "https://x.com/shao__meng/status/2081609024911581558",
+      "permalink": "https://aihot.virxact.com/items/cms2sbkyp046mro3f1etphuah",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-07-27T05:14:00.000Z",
+      "discoveredAt": "2026-07-27T05:26:55.796Z",
+      "summary": "Nate Parrott分享了使用Claude Design的十条最佳实践，核心包括先想清楚再写prompt、通过指定字体或moodboard约束设计方向、将重复工作转化为design system作为资产。他还建议要求十个方案后remix重组，用纸笔画出布局上传，并通过指针加语音组合操作。",
+      "category": "tip",
+      "score": 65,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms2sbkyp046mro3f1etphuah"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 24,
+      "editorialScore": 28,
+      "tags": [
+        "产品设计",
+        "design system",
+        "设计师",
+        "design"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
     {
       "id": "cmrzf4txp00qqro2i0h0jn18k",
       "title": "Midjourney 收购占星 App Co-Star，拓展 AI 个性化服务版图",
@@ -151,6 +180,33 @@
         "midjourney",
         "创意",
         "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cms2vg1c70516ro3f3kphncec",
+      "title": "世界动作模型综述：从反应到预判",
+      "title_en": "A survey paper on World Action Models. WAMs are moving robotics from reacting to the present toward…",
+      "url": "https://x.com/rohanpaul_ai/status/2081627897735840117",
+      "permalink": "https://aihot.virxact.com/items/cms2vg1c70516ro3f3kphncec",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-07-27T06:29:00.000Z",
+      "discoveredAt": "2026-07-27T06:54:22.452Z",
+      "summary": "一篇关于世界动作模型（WAM）的综述论文指出，WAM 正推动机器人从\"对当前做出反应\"转向\"在行动前预测后果\"。只有预测的未来能直接用于生成、评分、验证或训练动作的模型才算 WAM。趋势是\"少做梦，多行动\"：完整视频生成对实时控制回路太慢且占用内存，因此许多新系统改用潜在特征、几何、可通行性图或运动表征，而非渲染视频。",
+      "category": "paper",
+      "score": 37,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms2vg1c70516ro3f3kphncec"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -347,6 +403,32 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cms328szu07b1ro3fa3cvdn6d",
+      "title": "英伟达、微软、IBM 等 37 家企业成立开放安全 AI 联盟",
+      "title_en": "英伟达、微软、IBM 等 37 家企业成立开放安全 AI 联盟：构建和共享开源工具、推动 AI 安全与保障",
+      "url": "https://www.ithome.com/0/982/171.htm",
+      "permalink": "https://aihot.virxact.com/items/cms328szu07b1ro3fa3cvdn6d",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-27T09:46:13.000Z",
+      "discoveredAt": "2026-07-27T10:04:40.404Z",
+      "summary": "英伟达、微软、Adobe、IBM 等 37 家企业宣布成立开放安全人工智能联盟，旨在构建和共享开源工具以促进 AI 的负责任使用。该联盟以 Linux 基金会的 Akrites 倡议与 OpenSSF 社区成果为基础，创始成员涵盖 Hugging Face、CrowdStrike、Databricks 等云计算、网络安全及 AI 研究领域的领导者。",
+      "category": "industry",
+      "score": 59,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms328szu07b1ro3fa3cvdn6d"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
+      "tags": [
+        "adobe"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
       "id": "cms2nzdrl02varo3fs3czynmz",
       "title": "阿里云Token Plan：多模态AI共享额度",
       "title_en": "Why manage separate AI tools for the script， the image， and the video？ The Alibaba Cloud Token Plan…",
@@ -510,33 +592,57 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmrz9rdqm003cro0pu69ph4pi",
-      "title": "daridotdev 发布缓存感知路由模型，节省 70% 成本",
-      "title_en": "Switching models mid-session is one of the fastest ways to inflate an agent bill. Every switch res…",
-      "url": "https://x.com/omarsar0/status/2080717869877473764",
-      "permalink": "https://aihot.virxact.com/items/cmrz9rdqm003cro0pu69ph4pi",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "publishedAt": "2026-07-24T18:12:52.000Z",
-      "discoveredAt": "2026-07-24T18:24:01.366Z",
-      "summary": "daridotdev 发布了一款面向编码智能体的开源权重自动路由模型。该模型能感知缓存状态，仅在切换模型真正省钱时才进行切换，避免因重置提示词缓存导致成本膨胀。相比 Fable，它实现 70% 成本降低且编码性能相当，可接入 Claude Code、Codex 等现有工具。",
-      "category": "ai-models",
-      "score": 41,
+      "id": "cms3040ol06jxro3ftluwb3ui",
+      "title": "抖音升级未成年人模式适龄推荐算法，引入多模态大语言模型",
+      "title_en": "抖音宣布优化适龄推荐算法，引入多模态大语言模型",
+      "url": "https://www.ithome.com/0/982/119.htm",
+      "permalink": "https://aihot.virxact.com/items/cms3040ol06jxro3ftluwb3ui",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-27T08:41:04.000Z",
+      "discoveredAt": "2026-07-27T09:04:39.618Z",
+      "summary": "抖音全面升级未成年人模式适龄推荐算法，核心是引入多模态大语言模型（MLLM）技术，综合处理文本、图像、音频等信息，为每条视频判断适宜观看的年龄范围。平台采用\"人工筛选 + 大模型分类 + 适龄推荐 + 内容偏好匹配\"的多重保障机制，目前未成年人专属内容池总量达770万条，日均新增约6000条优质内容。",
+      "category": "ai-products",
+      "score": 39,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrz9rdqm003cro0pu69ph4pi"
+        "canonical": "https://aihot.virxact.com/items/cms3040ol06jxro3ftluwb3ui"
       },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 10,
-      "editorialScore": 11,
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
       "tags": [
-        "提示词",
-        "codex",
-        "claude code",
-        "agent"
+        "视频",
+        "图像"
       ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cms2xhfev05moro3ff9bjgnct",
+      "title": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架",
+      "title_en": "When Coding Stops Being the Bottleneck",
+      "url": "https://rdi.berkeley.edu/blog/auto-software-dev",
+      "permalink": "https://aihot.virxact.com/items/cms2xhfev05moro3ff9bjgnct",
+      "source": "Berkeley RDI：Blog（AI 安全与评测）",
+      "publishedAt": "2026-07-27T07:51:26.272Z",
+      "discoveredAt": "2026-07-27T07:51:26.272Z",
+      "summary": "Berkeley RDI等机构提出三级软件自主开发框架：代码自主（AI完成设计与实现，人类决定构建内容并审核PR）、流水线自主（AI运行从设计到部署的全流程，人类仅评估结果）、需求自主（AI自主决定构建内容）。该框架旨在为能力声明、部署选择与问责提供清晰分类。",
+      "category": "tip",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms2xhfev05moro3ff9bjgnct"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cms2p1yw70386ro3f9kzmwx89",
@@ -782,85 +888,33 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmrz9s0rf005fro0pqj5rlmg7",
-      "title": "Cognition 收购 AI 助手 Poke，将个性互动融入编程工具 Devin",
-      "title_en": "Why Cognition bought Poke： AI personality is becoming a competitive advantage",
-      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage",
-      "permalink": "https://aihot.virxact.com/items/cmrz9s0rf005fro0pqj5rlmg7",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-24T18:07:32.000Z",
-      "discoveredAt": "2026-07-24T18:24:32.424Z",
-      "summary": "AI 编程初创公司 Cognition 以\"低九位数\"美元估值收购了 AI 助手 Poke，后者以类似朋友的聊天风格和幽默互动著称。该交易将把 Poke 的交互模型融入编程助手 Devin，同时 Poke 将利用 Cognition 的模型提升速度与可靠性。自 2026 年 3 月上线以来，Poke 用户已交换超过 1 亿条消息。",
-      "category": "industry",
-      "score": 66,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrz9s0rf005fro0pqj5rlmg7"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmrz9s1y2005pro0plkels3hg",
-      "title": "Dari 开源路由模型，79.8% 分数仅花 $76",
-      "title_en": "79.8% on Terminal-Bench 2.1 for $76 in total inference cost. That's the number Dari @daridotdev is …",
-      "url": "https://x.com/kimmonismus/status/2080715863469224121",
-      "permalink": "https://aihot.virxact.com/items/cmrz9s1y2005pro0plkels3hg",
-      "source": "X：Kim (@kimmonismus)",
-      "publishedAt": "2026-07-24T18:04:54.000Z",
-      "discoveredAt": "2026-07-24T18:24:33.159Z",
-      "summary": "Dari 发布开源权重自动路由模型 daridotdev，专为编码智能体设计。在 Terminal-Bench 2.1 上以 $76 总推理成本达到 79.8% 分数，而前沿模型组合在同样 89 项任务上成本达数千美元。该模型通过小型微调模型决定每步调用哪个模型，优先使用廉价选项并考虑缓存成本，仅在必要时调用昂贵前沿模型。",
-      "category": "ai-models",
-      "score": 61,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrz9s1y2005pro0plkels3hg"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmrz8lrce00sirox8k5ifetbv",
-      "title": "Claude Code 精简 80% 系统提示词的经验",
-      "title_en": "We removed ~80% of the Claude Code system prompt for our newest models， this is what we've learned a…",
-      "url": "https://x.com/trq212/status/2080710971228918066",
-      "permalink": "https://aihot.virxact.com/items/cmrz8lrce00sirox8k5ifetbv",
-      "source": "X：Thariq (@trq212)",
-      "publishedAt": "2026-07-24T17:45:27.000Z",
-      "discoveredAt": "2026-07-24T17:51:40.128Z",
-      "summary": "我们为最新模型移除了约 80% 的 Claude Code 系统提示词，这是我们在编写系统提示词、技能和 Claude.MD 方面学到的经验。",
+      "id": "cms2r8oe403w7ro3f4q6lddij",
+      "title": "Codex与Claude Code可即时生成创意游戏Demo",
+      "title_en": "We are in a world where you can create truly unique， visually interesting and creative playable demo…",
+      "url": "https://x.com/emollick/status/2081603003866329496",
+      "permalink": "https://aihot.virxact.com/items/cms2r8oe403w7ro3f4q6lddij",
+      "source": "X：Ethan Mollick (@emollick)",
+      "publishedAt": "2026-07-27T04:50:05.000Z",
+      "discoveredAt": "2026-07-27T04:56:40.536Z",
+      "summary": "我们已身处这样一个世界：借助Codex和Claude Code的现有能力，你可以按需创建真正独特、视觉有趣且富有创意的可玩Demo。我们不必再反复克隆那六款已有的游戏作为AI示例。大胆尝试更古怪的创意吧！",
       "category": "tip",
-      "score": 51,
+      "score": 46,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrz8lrce00sirox8k5ifetbv"
+        "canonical": "https://aihot.virxact.com/items/cms2r8oe403w7ro3f4q6lddij"
       },
       "sourceType": "X",
-      "designCategory": "工作流与 Agent",
+      "designCategory": "行业观察",
       "relevanceScore": 9,
-      "editorialScore": 10,
+      "editorialScore": 9,
       "tags": [
-        "提示词",
-        "prompt",
-        "claude code"
+        "视觉",
+        "创意",
+        "creative",
+        "codex"
       ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "cms2krmj401ypro3f7czzs1vc",
