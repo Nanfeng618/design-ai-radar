@@ -1,12 +1,13 @@
 {
-  "generatedAt": "2026-07-28T03:35:12.837Z",
-  "previousGeneratedAt": "2026-07-27T15:13:34.393Z",
+  "generatedAt": "2026-07-28T09:04:17.759Z",
+  "previousGeneratedAt": "2026-07-28T03:35:12.837Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 46,
+  "itemCount": 47,
   "sourceCounts": {
     "X": 24,
-    "网站": 22
+    "网站": 22,
+    "公众号": 1
   },
   "source": {
     "name": "AI HOT",
@@ -67,6 +68,64 @@
         "图像生成",
         "image generation",
         "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cms4cxoam02fvroepy1vqdx09",
+      "title": "Sol-Attn：通过在线注意力稀疏化加速视频生成推理",
+      "title_en": "Sol-Attn： Accelerating Video Generation Inference via On-the-Fly Attention Sparsification",
+      "url": "https://arxiv.org/abs/2607.24027",
+      "permalink": "https://aihot.virxact.com/items/cms4cxoam02fvroepy1vqdx09",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-27T00:00:00.000Z",
+      "discoveredAt": "2026-07-28T07:51:44.284Z",
+      "summary": "Sol-Attn 提出一种免训练的动态稀疏注意力方法，在单次在线 softmax 过程中统一了动态路由、稀疏计算和近似校正。该方法通过块阈值化和代理分数复用，无需物化代理映射即可实现动态可控的块预算，并直接复用未选中块的代理分数来近似其贡献。在图像和视频生成任务中，Sol-Attn 分别实现了视频生成和编辑 2.1 倍和 2.3 倍的端到端加速，同时保持视觉质量。",
+      "category": "paper",
+      "score": 47,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms4cxoam02fvroepy1vqdx09"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 18,
+      "editorialScore": 21,
+      "tags": [
+        "视频生成",
+        "视觉",
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cms44cyp005y1ro82hgzb7hvg",
+      "title": "FilmBench：面向电影级视频生成的专业基准测试",
+      "title_en": "FilmBench： A Film-Grade Benchmark for Cinematic Video Generation",
+      "url": "https://arxiv.org/abs/2607.24241",
+      "permalink": "https://aihot.virxact.com/items/cms44cyp005y1ro82hgzb7hvg",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-27T00:00:00.000Z",
+      "discoveredAt": "2026-07-28T03:51:42.151Z",
+      "summary": "北京电影学院与华景数字传媒联合推出FilmBench，一个基于电影语言专业标准的文生视频（T2V）与参考视频（R2V）评测基准。其提示词源自20种电影类型的获奖影片片段，评估体系包含3个主轴、12个组件和35项（T2V）+3项（R2V）子指标。在9个T2V和7个R2V模型上的测试显示，模型得分远低于现有网络风格基准，且存在动态美学与多镜头场景下的显著性能差距。",
+      "category": "paper",
+      "score": 57,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms44cyp005y1ro82hgzb7hvg"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 18,
+      "editorialScore": 21,
+      "tags": [
+        "视频生成",
+        "文生视频",
+        "视频",
+        "提示词"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -211,33 +270,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cms427se6057uro82ae2du2id",
-      "title": "OmniVAE：跨模态对齐的音频-视频VAE实现联合生成",
-      "title_en": "OmniVAE： An Audio-Video VAE with Cross-Modal Alignment for Joint Generation",
-      "url": "https://arxiv.org/abs/2607.23855",
-      "permalink": "https://aihot.virxact.com/items/cms427se6057uro82ae2du2id",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-26T00:00:00.000Z",
-      "discoveredAt": "2026-07-26T00:00:00.000Z",
-      "summary": "OmniVAE提出一种联合训练的音频-视频VAE，通过段级对比学习对齐音频与视频的潜在空间，并蒸馏预训练语义编码器的特征。实验表明，该方法能提升下游文本到音视频生成的质量与跨模态同步精度，验证了统一表征对全模态建模的基础作用。",
-      "category": "paper",
-      "score": 50,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms427se6057uro82ae2du2id"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视频生成",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cms3g8vtm01gvrondeeg3v1s6",
       "title": "Cohere 推出 North Automations 自动化工作流",
       "title_en": "Introducing North Automations Use plain language to design automated workflows with accurate result…",
@@ -317,33 +349,6 @@
       "tags": [
         "design",
         "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cms1duc9h0433ro0wumwbgcsn",
-      "title": "人与AI交互的带宽不对称设计",
-      "title_en": "It was always possible to speak to your computer. It wouldn't do much in return. But we fixed that b…",
-      "url": "https://x.com/thsottiaux/status/2081254182502465981",
-      "permalink": "https://aihot.virxact.com/items/cms1duc9h0433ro0wumwbgcsn",
-      "source": "X：Tibo (@thsottiaux)",
-      "publishedAt": "2026-07-26T05:43:59.000Z",
-      "discoveredAt": "2026-07-26T05:53:50.435Z",
-      "summary": "一直以来你都可以和电脑说话。但它不会怎么回应你。不过我们修复了这个bug。",
-      "category": "tip",
-      "score": 28,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms1duc9h0433ro0wumwbgcsn"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "设计",
-        "交互"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
@@ -672,57 +677,28 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cms1i0bga001eroxouqi3e52w",
-      "title": "微电影《返航日》7月27日上映，采用荣耀Robot Phone完成一镜到底视觉叙事",
-      "title_en": "微电影《返航日》官宣 7 月 27 日上映，采用荣耀 Robot Phone 完成一镜到底视觉叙事",
-      "url": "https://www.ithome.com/0/981/701.htm",
-      "permalink": "https://aihot.virxact.com/items/cms1i0bga001eroxouqi3e52w",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-26T07:04:08.000Z",
-      "discoveredAt": "2026-07-26T07:50:26.072Z",
-      "summary": "荣耀手机官宣微电影《返航日》将于7月27日上映，由摄影指导王博学执导，全程使用荣耀Robot Phone完成一镜到底拍摄。该机搭载第五代骁龙8至尊版芯片，机身顶部集成行业最小四自由度钛合金机械云台系统，电机体积比主流方案缩小70%。荣耀Robot Phone已开启预约，定档\"8月见\"，并将首发伙伴型多模态智能体操作系统AgenticOS内核。",
-      "category": "industry",
-      "score": 39,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms1i0bga001eroxouqi3e52w"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视觉",
-        "摄影",
-        "智能体"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cms1bpbpt03ikro0wzb10c3au",
-      "title": "Claude Opus 5 单次生成滑雪视频无视觉缺陷",
-      "title_en": "Everything that can be written down as a spec is heading to zero. Claude Opus 5 made this， and \"no …",
-      "url": "https://x.com/rohanpaul_ai/status/2081236021791109266",
-      "permalink": "https://aihot.virxact.com/items/cms1bpbpt03ikro0wzb10c3au",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-07-26T04:31:49.000Z",
-      "discoveredAt": "2026-07-26T04:53:57.138Z",
-      "summary": "一切能写成规范的东西都在归零。\nClaude Opus 5 做到了这一点，\"首次通过无视觉缺陷。\"",
+      "id": "cms46i8k2008jroep7gcm1oc9",
+      "title": "Kimi 文章配图用 YouMind 生成 4K 版",
+      "title_en": "我去，真是看着舒服啊~ 这个图用 YouMind 给 Kimi 的文章配图。 写了个 skills 生成这个配图，很多人觉得很不错，所以我就做了一个 4K 高清版本分享上来。 （X长图压缩太严重了…",
+      "url": "https://x.com/berryxia/status/2081960011920753092",
+      "permalink": "https://aihot.virxact.com/items/cms46i8k2008jroep7gcm1oc9",
+      "source": "X：Berry Xia (@berryxia)",
+      "publishedAt": "2026-07-28T04:28:42.000Z",
+      "discoveredAt": "2026-07-28T04:51:45.374Z",
+      "summary": "Berry Xia 用 YouMind 为 Kimi 文章生成配图，并制作了 4K 高清版本分享。该配图通过 skills 功能生成，因 X 长图压缩严重，特此提供高清版。",
       "category": "tip",
-      "score": 41,
+      "score": 43,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms1bpbpt03ikro0wzb10c3au"
+        "canonical": "https://aihot.virxact.com/items/cms46i8k2008jroep7gcm1oc9"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "relevanceScore": 7,
+      "editorialScore": 10,
       "tags": [
-        "视觉",
-        "视频"
+        "配图"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -890,61 +866,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cms19k5e002wero0wwdvoz286",
-      "title": "Claude Skills 调用流程：一次推理完成，无需两次调用",
-      "title_en": "Q：Agent 用 Skills 的时候，是不是要先调一次大模型选 Skill，再调一次大模型执行工具，总共调了两次？ A：不是的。Skills 的元信息（每个 Skill 的 name 和 des…",
-      "url": "https://x.com/dotey/status/2081225771473879226",
-      "permalink": "https://aihot.virxact.com/items/cms19k5e002wero0wwdvoz286",
-      "source": "X：宝玉 (@dotey)",
-      "publishedAt": "2026-07-26T03:51:05.000Z",
-      "discoveredAt": "2026-07-26T03:53:55.791Z",
-      "summary": "Claude 的 Skills 机制并非先选 Skill 再执行工具的两段式调用。所有 Skills 的元信息（name 和 description）在对话开始时作为系统提示词一次性加载进上下文窗口，大模型在一次推理中即可完成判断、读取指令和调用工具。Prompt Caching 缓存了系统提示词，多轮对话中无需重复处理，节省 token 和时间。",
-      "category": "tip",
-      "score": 47,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms19k5e002wero0wwdvoz286"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 9,
-      "editorialScore": 10,
-      "tags": [
-        "提示词",
-        "prompt",
-        "agent",
-        "skill"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cms17af1n025zro0wiq6jkmgv",
-      "title": "比亚迪迪空间预热人形机器人，八月初亮相",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/981/642.htm",
-      "permalink": "https://aihot.virxact.com/items/cms17af1n025zro0wiq6jkmgv",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-26T02:40:23.000Z",
-      "discoveredAt": "2026-07-26T02:50:22.400Z",
-      "summary": "比亚迪迪空间发布悬念海报，预告人形机器人将于八月初首次面向公众亮相。比亚迪执行副总裁李柯此前表示，希望未来每家门店部署两三台机器人，用于向顾客讲解和演示车辆。比亚迪否认了\"自研人形机器人代号尧舜禹、年内自用2万台\"等传闻。",
-      "category": "industry",
-      "score": 40,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms17af1n025zro0wiq6jkmgv"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "海报"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cms3z6hut0491ro82nhd6ae5j",
       "title": "Claude Code 创始人：别信网红，要实证调教 AI 智能体",
       "title_en": "\"How do people learn to use Claude Code like Boris？\" Claude Code creator Boris Cherny （@bcherny ） w…",
@@ -1080,6 +1001,32 @@
       "tags": [
         "视觉",
         "智能体"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cms44no4v06arro82khvjxjj4",
+      "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
+      "title_en": null,
+      "url": "https://mp.weixin.qq.com/s/IW9BdyA3hLvuuiX_aMCJEQ",
+      "permalink": "https://aihot.virxact.com/items/cms44no4v06arro82khvjxjj4",
+      "source": "公众号：月之暗面（Kimi）",
+      "publishedAt": "2026-07-27T15:34:59.000Z",
+      "discoveredAt": "2026-07-28T04:00:00.856Z",
+      "summary": "月之暗面发布 2.8 万亿参数的混合专家模型 Kimi K3，支持原生视觉理解和 100 万 token 上下文窗口。其规模化效率较 Kimi K2.5 提升 2.5 倍，并同步开源模型权重、技术报告及 MoonEP、FlashKDA、AgentEnv 三项 Infra 技术。",
+      "category": "ai-models",
+      "score": 85,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms44no4v06arro82khvjxjj4"
+      },
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "视觉"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -1222,32 +1169,31 @@
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
-      "id": "cms18kti602p9ro0wfc5m0xki",
-      "title": "开发者正变成AI Agent的工程经理",
-      "title_en": "Prompt Engineering、Context Engineering、Loop Engineering、Graph Engineering … 你现在是否也是「只通过语言指令指挥 Age…",
-      "url": "https://x.com/shao__meng/status/2081216459364331528",
-      "permalink": "https://aihot.virxact.com/items/cms18kti602p9ro0wfc5m0xki",
-      "source": "X：邵猛 (@shao__meng)",
-      "publishedAt": "2026-07-26T03:14:05.000Z",
-      "discoveredAt": "2026-07-26T03:26:27.924Z",
-      "summary": "通过提示词指挥AI Agent而不直接读写代码，本质与工程经理管理人类下属无异。当每个开发者都成为管理多个AI Agent的工程经理时，质量保障仍需依靠管理与流程，而非幻想AI不犯错。",
-      "category": "tip",
-      "score": 39,
+      "id": "cms44cyp005y2ro82uyfb20wc",
+      "title": "Kimi K3 发布：2.8T 参数开源混合专家模型",
+      "title_en": "Kimi K3： Open Frontier Intelligence",
+      "url": "https://arxiv.org/abs/2607.24653",
+      "permalink": "https://aihot.virxact.com/items/cms44cyp005y2ro82uyfb20wc",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-27T00:00:00.000Z",
+      "discoveredAt": "2026-07-28T03:51:42.151Z",
+      "summary": "月之暗面发布 Kimi K3，一个 2.8T 参数（104B 激活参数）的混合专家模型，支持原生视觉和百万 token 上下文窗口。该模型在长程编码、智能体、知识、推理和视觉任务上达到前沿水平，整体性能优于其他开源及闭源模型，但落后于 Claude Fable 5 和 GPT-5.6 Sol。Kimi K3 的完整模型权重已开源。",
+      "category": "ai-models",
+      "score": 81,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms18kti602p9ro0wfc5m0xki"
+        "canonical": "https://aihot.virxact.com/items/cms44cyp005y2ro82uyfb20wc"
       },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
       "editorialScore": 9,
       "tags": [
-        "提示词",
-        "prompt",
-        "agent"
+        "视觉",
+        "智能体"
       ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cms3ss6b901yzro82krv5czgx",
@@ -1273,6 +1219,89 @@
       "tags": [
         "提示词",
         "prompt"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cms3dxit00berro3f8etbfxfh",
+      "title": "Kimi K3 开源分布式智能体环境 AgentENV",
+      "title_en": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+      "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+      "permalink": "https://aihot.virxact.com/items/cms3dxit00berro3f8etbfxfh",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "publishedAt": "2026-07-27T15:25:45.000Z",
+      "discoveredAt": "2026-07-27T15:31:51.181Z",
+      "summary": "我们与 kvcache-ai 合作开源了 AgentENV。\n\nAgentENV 是一个用于大规模运行智能体环境的分布式系统。其组件为 Kimi K3 的智能体强化学习训练提供支持，具备快速快照、恢复和分支功能，适用于大规模并行智能体工作流。\n\n在 GitHub 上探索：http://github.com/kvcache-ai/AgentEnv",
+      "category": "ai-products",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms3dxit00berro3f8etbfxfh"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "工作流",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cms4fb8ty03fbroepdyj3wqsw",
+      "title": "Cursor 在印度推出 7 美元专属订阅计划",
+      "title_en": "哇靠，Cursor 今天在印度扔了个 7 美元的专属订阅， 本来以为是做慈善给新兴市场降价，仔细研究发现这步棋比即将落地的 600 亿 SpaceX 收购还狠。 当然也不是 Pro 版打三折，是专门…",
+      "url": "https://x.com/AYi_AInotes/status/2082014296746201346",
+      "permalink": "https://aihot.virxact.com/items/cms4fb8ty03fbroepdyj3wqsw",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-07-28T08:04:24.000Z",
+      "discoveredAt": "2026-07-28T08:58:17.024Z",
+      "summary": "Cursor 在印度推出每月 649 卢比（约 7 美元）的 Cursor Start 订阅计划，包含 Grok 4.5 和 Composer 模型、云端 Agent 及 iOS 远程控制等完整能力。印度已是 Cursor 全球第三大市场，人均 Agent 请求量世界第一，去年用户增长 3 倍。此举以低价换取海量真实使用数据，将 AI 编程从桌面 IDE 转化为异步云工作流。",
+      "category": "ai-products",
+      "score": 44,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms4fb8ty03fbroepdyj3wqsw"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "工作流",
+        "agent"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cms3kdvi600pfroiy8z6rgxui",
+      "title": "Kimi K3 上线 Together AI，面向智能体工作流",
+      "title_en": "Kimi K3 is now live on @togethercompute！ Happy to have Together AI as our day0 launch partner， giv…",
+      "url": "https://x.com/Kimi_Moonshot/status/2081804933188501886",
+      "permalink": "https://aihot.virxact.com/items/cms3kdvi600pfroiy8z6rgxui",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "publishedAt": "2026-07-27T18:12:28.000Z",
+      "discoveredAt": "2026-07-27T18:32:32.245Z",
+      "summary": "Kimi K3 已在 Together AI 平台上线，成为其 Day 0 首发合作伙伴。该开放前沿模型专为代码、工具、视觉和研究等长时间运行的智能体工作流设计，通过高吞吐推理为开发者提供即时访问。",
+      "category": "industry",
+      "score": 50,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms3kdvi600pfroiy8z6rgxui"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "视觉",
+        "设计",
+        "工作流",
+        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     }
