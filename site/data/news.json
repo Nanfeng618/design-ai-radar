@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-27T15:13:34.393Z",
-  "previousGeneratedAt": "2026-07-27T10:09:16.567Z",
+  "generatedAt": "2026-07-28T03:35:12.837Z",
+  "previousGeneratedAt": "2026-07-27T15:13:34.393Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 40,
+  "itemCount": 46,
   "sourceCounts": {
     "X": 24,
-    "网站": 16
+    "网站": 22
   },
   "source": {
     "name": "AI HOT",
@@ -43,6 +43,34 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cms3fuyms00mtrondudz5pjw8",
+      "title": "OpenRouter 新增图像生成模型专用 API 端点",
+      "title_en": "Image Generation Models on OpenRouter",
+      "url": "https://openrouter.ai/blog/tutorials/image-generation-models",
+      "permalink": "https://aihot.virxact.com/items/cms3fuyms00mtrondudz5pjw8",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-07-27T00:00:00.000Z",
+      "discoveredAt": "2026-07-27T16:25:48.767Z",
+      "summary": "OpenRouter 通过专用 `/api/v1/images` 端点提供图像生成模型服务，图像理解仍通过 `/chat/completions` 端点完成，两者共用同一 API Key 和计费体系。该平台同时公布了两种任务的完整接口合约，并修复了此前出现的\"no endpoints found\"错误。",
+      "category": "tip",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms3fuyms00mtrondudz5pjw8"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 19,
+      "editorialScore": 22,
+      "tags": [
+        "图像生成",
+        "image generation",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cms37f7wc08vqro3ffndxp4d5",
       "title": "SpaceXAI 升级 Imagine API 2.0 统一图像视频生成",
       "title_en": "SpaceXAI is planning to upgrade the Imagine API to version 2.0， unifying its offerings for image and…",
@@ -67,35 +95,6 @@
         "视频生成",
         "视频",
         "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrzmlr3p001qro0p40es8sno",
-      "title": "Genspark Design 品牌设计系统实测",
-      "title_en": "Genspark Design is seriously impressive. I tested Genspark Design on one fictional product， to see …",
-      "url": "https://x.com/rohanpaul_ai/status/2080805687186313511",
-      "permalink": "https://aihot.virxact.com/items/cmrzmlr3p001qro0p40es8sno",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-07-25T00:01:49.000Z",
-      "discoveredAt": "2026-07-25T00:23:34.460Z",
-      "summary": "Genspark Design 令人印象深刻。\n\n我用一个虚构产品测试了 Genspark Design，看看一个视觉方向能走多远。\n\n你可以为产品或服务设计完整的品牌标识系统。\n\n生成海报、落地页模型、短宣传视频概念，以及可复用的设计系统（颜色、字体、视觉规则）。\n\n只需给出方向，它就能创建：\n\n移动应用、品牌视频、社交媒体海报\n\n这是我的简单工作流程。🧵 1.",
-      "category": "tip",
-      "score": 59,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrzmlr3p001qro0p40es8sno"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 14,
-      "editorialScore": 17,
-      "tags": [
-        "设计系统",
-        "海报",
-        "视觉",
-        "design"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -157,62 +156,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmrzjfczf00aqrokhhmyntg3s",
-      "title": "Midjourney V8.2 发布，主打美学与个性化",
-      "title_en": "We're releasing V8.2 today and making it the default model on Midjourney. This is a release focused …",
-      "url": "https://x.com/midjourney/status/2080781271043911807",
-      "permalink": "https://aihot.virxact.com/items/cmrzjfczf00aqrokhhmyntg3s",
-      "source": "X：Midjourney (@midjourney)",
-      "publishedAt": "2026-07-24T22:24:48.000Z",
-      "discoveredAt": "2026-07-24T22:54:37.659Z",
-      "summary": "我们今天发布 V8.2，并将其设为 Midjourney 的默认模型。本次发布聚焦于美学、个性化和图像质量。我们的新风格更具创意、大胆、前卫、清新，个性化效果也比以往更好。玩得开心！",
-      "category": "ai-models",
-      "score": 69,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrzjfczf00aqrokhhmyntg3s"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 13,
-      "editorialScore": 16,
-      "tags": [
-        "midjourney",
-        "创意",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmrzi9yew001arop9eruk86n7",
-      "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
-      "title_en": "Version 8.2",
-      "url": "https://updates.midjourney.com/version-8-2",
-      "permalink": "https://aihot.virxact.com/items/cmrzi9yew001arop9eruk86n7",
-      "source": "Midjourney：Updates（RSS）",
-      "publishedAt": "2026-07-24T22:18:48.000Z",
-      "discoveredAt": "2026-07-24T22:22:25.866Z",
-      "summary": "Midjourney 今日推出 V8.2 图像模型，重点提升美学质量、图像创意与个性化表现。低质量图像出现频率将显著降低，个性化功能能更精准理解用户审美偏好。V8.2 的个性化配置文件拥有更大、更优的图像选择池，建议用户尝试新旧配置文件体验最新版本。",
-      "category": "ai-models",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrzi9yew001arop9eruk86n7"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 13,
-      "editorialScore": 16,
-      "tags": [
-        "midjourney",
-        "创意",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cms2vg1c70516ro3f3kphncec",
       "title": "世界动作模型综述：从反应到预判",
       "title_en": "A survey paper on World Action Models. WAMs are moving robotics from reacting to the present toward…",
@@ -240,31 +183,140 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cms02k7bd0372rop15ot5w82i",
-      "title": "谷歌 ATLAS 报告：AI 应用覆盖 68% 职业但深度不足，仅 20% 任务调用",
-      "title_en": "1500 万条 AI 交互洞察：谷歌称 AI 应用广泛但深度不足",
-      "url": "https://www.ithome.com/0/981/498.htm",
-      "permalink": "https://aihot.virxact.com/items/cms02k7bd0372rop15ot5w82i",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-25T06:56:40.000Z",
-      "discoveredAt": "2026-07-25T07:50:14.422Z",
-      "summary": "谷歌基于 1500 万条去标识化 AI 交互的 ATLAS 报告显示，全球 68% 的细分职业已使用 AI，但在典型岗位中仅约 20% 的任务会调用 AI。完全自动化任务的交互占比不足 10%，65% 的职场 AI 交互集中于\"非例行认知\"任务（如分析与创意设计）。超过 86% 的交互发生在工作之外，主要用于家庭事务、购物及政府服务。",
-      "category": "tip",
-      "score": 68,
+      "id": "cms427se6057vro8241t4snrr",
+      "title": "ClinFusion：面向整体医学理解的视觉中心多模态大语言模型系统",
+      "title_en": "ClinFusion： A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
+      "url": "https://arxiv.org/abs/2607.24743",
+      "permalink": "https://aihot.virxact.com/items/cms427se6057vro8241t4snrr",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-27T00:00:00.000Z",
+      "discoveredAt": "2026-07-28T02:51:41.744Z",
+      "summary": "ClinFusion 提出级联空间感知局部融合算子，将 2D 与原生 3D 医学图像理解统一到融合编码器中。该系统在 24 项基准测试的 20 项上超越 Hulu-Med、Lingshu 等开源医学 MLLM，并在 16 项基准测试的 13 项上优于 GPT-5.2 和 Gemini-3-Flash 等闭源模型。",
+      "category": "paper",
+      "score": 31,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms02k7bd0372rop15ot5w82i"
+        "canonical": "https://aihot.virxact.com/items/cms427se6057vro8241t4snrr"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视觉",
+        "图像",
+        "3d"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cms427se6057uro82ae2du2id",
+      "title": "OmniVAE：跨模态对齐的音频-视频VAE实现联合生成",
+      "title_en": "OmniVAE： An Audio-Video VAE with Cross-Modal Alignment for Joint Generation",
+      "url": "https://arxiv.org/abs/2607.23855",
+      "permalink": "https://aihot.virxact.com/items/cms427se6057uro82ae2du2id",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-26T00:00:00.000Z",
+      "discoveredAt": "2026-07-26T00:00:00.000Z",
+      "summary": "OmniVAE提出一种联合训练的音频-视频VAE，通过段级对比学习对齐音频与视频的潜在空间，并蒸馏预训练语义编码器的特征。实验表明，该方法能提升下游文本到音视频生成的质量与跨模态同步精度，验证了统一表征对全模态建模的基础作用。",
+      "category": "paper",
+      "score": 50,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms427se6057uro82ae2du2id"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cms3g8vtm01gvrondeeg3v1s6",
+      "title": "Cohere 推出 North Automations 自动化工作流",
+      "title_en": "Introducing North Automations Use plain language to design automated workflows with accurate result…",
+      "url": "https://x.com/cohere/status/2081756537249202319",
+      "permalink": "https://aihot.virxact.com/items/cms3g8vtm01gvrondeeg3v1s6",
+      "source": "X：Cohere（@cohere）",
+      "publishedAt": "2026-07-27T15:00:10.000Z",
+      "discoveredAt": "2026-07-27T15:00:10.000Z",
+      "summary": "推出 North Automations\n\n使用自然语言设计自动化工作流，获得准确结果。无论技术能力如何，Cohere 让所有员工都能利用 AI 的力量。",
+      "category": "ai-products",
+      "score": 37,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms3g8vtm01gvrondeeg3v1s6"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "design",
+        "设计",
+        "工作流",
+        "自动化"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cms3dps800an9ro3fkb0irvvd",
+      "title": "Enigma 获 7000 万美元种子轮融资，探索让操控机器人像调节音量一样直观",
+      "title_en": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+      "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume",
+      "permalink": "https://aihot.virxact.com/items/cms3dps800an9ro3fkb0irvvd",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-07-27T13:00:00.000Z",
+      "discoveredAt": "2026-07-27T15:25:50.399Z",
+      "summary": "机器人研究实验室 Enigma 以 7000 万美元种子轮融资走出隐身模式，由 Index Ventures 和 Ribbit Capital 领投。这家成立不到一年的初创公司不专注于模型能力，而是通过一项允许全球用户在线操控其 100 多台 AI 机器人的大规模实验，研究人类与机器人的交互方式，旨在发现更直观的界面和训练基础 AI 模型的新方法。",
+      "category": "industry",
+      "score": 56,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms3dps800an9ro3fkb0irvvd"
       },
       "sourceType": "网站",
       "designCategory": "产品与体验",
-      "relevanceScore": 10,
-      "editorialScore": 14,
+      "relevanceScore": 9,
+      "editorialScore": 13,
       "tags": [
-        "设计",
-        "交互",
-        "创意",
-        "自动化"
+        "界面",
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cms3fbu4z00h3rond8fdh4zvr",
+      "title": "NVIDIA 将 Vera CPU 部署于 EDA 流程，加速下一代芯片设计",
+      "title_en": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
+      "url": "https://blogs.nvidia.com/blog/vera-cpu-eda",
+      "permalink": "https://aihot.virxact.com/items/cms3fbu4z00h3rond8fdh4zvr",
+      "source": "NVIDIA Blog（RSS）",
+      "publishedAt": "2026-07-27T00:45:42.000Z",
+      "discoveredAt": "2026-07-27T00:45:42.000Z",
+      "summary": "NVIDIA 正将 Vera CPU 用于自身 EDA 流程，以加速下一代 CPU 和 GPU 的设计。与 Cadence 及 Synopsys 合作优化后，Cadence Jasper 与 Synopsys VCS 在选定工作负载上性能提升最高达 1.5 倍。",
+      "category": "industry",
+      "score": 38,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms3fbu4z00h3rond8fdh4zvr"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "design",
+        "设计"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
@@ -296,58 +348,59 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cms0tnxod00smrova2x8yjcso",
-      "title": "OpenAI 重置 ChatGPT Work 与 Codex 使用限制",
-      "title_en": "OPENAI 🔥： A new usage limits reset has been applied to ChatGPT Work and Codex！ P. S. If you haven…",
-      "url": "https://x.com/testingcatalog/status/2081110907942314081",
-      "permalink": "https://aihot.virxact.com/items/cms0tnxod00smrova2x8yjcso",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-07-25T20:14:40.000Z",
-      "discoveredAt": "2026-07-25T20:28:59.943Z",
-      "summary": "OPENAI 🔥：ChatGPT Work 和 Codex 已应用新的使用限制重置！\n\n附：如果你还没尝试通过新的语音模式操作 Codex，那绝对值得一试。这是我们一直期待的\"新用户体验\"。",
-      "category": "industry",
-      "score": 33,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms0tnxod00smrova2x8yjcso"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "用户体验",
-        "codex"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmrzlerlw00b7rovb9n6o462k",
-      "title": "苹果 macOS 27 邮件应用测试\"Write with Siri\"，整合 Siri AI 交互",
-      "title_en": "苹果 macOS 27 邮件应用测试新撰写窗口，整合 Siri AI 交互",
-      "url": "https://www.ithome.com/0/981/404.htm",
-      "permalink": "https://aihot.virxact.com/items/cmrzlerlw00b7rovb9n6o462k",
+      "id": "cms3u41er02ejro827v5p4fxo",
+      "title": "OpenAI 奥尔特曼自曝沉迷 TikTok，周末一刷 3 小时最终删除 App",
+      "title_en": "OpenAI 奥尔特曼自曝沉迷 TikTok：周末一刷就是 3 小时，最终不得不删除 App",
+      "url": "https://www.ithome.com/0/982/275.htm",
+      "permalink": "https://aihot.virxact.com/items/cms3u41er02ejro827v5p4fxo",
       "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-24T23:12:41.000Z",
-      "discoveredAt": "2026-07-24T23:50:08.147Z",
-      "summary": "苹果在 macOS 27 Golden Gate Beta 4 中为邮件应用测试\"Write with Siri\"功能，将 Siri AI 整合到撰写窗口。新设计将格式栏中的\"Write with Siri\"置于最突出位置，用户输入提示后格式按钮自动折叠，并支持显示 Siri AI 情境化智能回复建议。",
-      "category": "ai-products",
-      "score": 37,
+      "publishedAt": "2026-07-27T22:42:34.000Z",
+      "discoveredAt": "2026-07-27T23:04:48.455Z",
+      "summary": "OpenAI CEO 萨姆·奥尔特曼为研究短视频机制使用 TikTok，曾在一个周六下午连续刷了约 3 小时，因\"吸引力太强\"而删除该应用。他透露，OpenAI 此前推出的 AI 视频社交应用 Sora 因算力消耗过大已于今年 3 月停止项目。",
+      "category": "industry",
+      "score": 39,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrzlerlw00b7rovb9n6o462k"
+        "canonical": "https://aihot.virxact.com/items/cms3u41er02ejro827v5p4fxo"
       },
       "sourceType": "网站",
-      "designCategory": "产品与体验",
+      "designCategory": "图像与视频",
       "relevanceScore": 9,
-      "editorialScore": 13,
+      "editorialScore": 12,
       "tags": [
-        "设计",
-        "交互"
+        "sora",
+        "视频"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cms3n5wpl001sro82iax01xu3",
+      "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查",
+      "title_en": "The harness is all you need （mostly）",
+      "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+      "permalink": "https://aihot.virxact.com/items/cms3n5wpl001sro82iax01xu3",
+      "source": "GitHub Blog",
+      "publishedAt": "2026-07-27T18:00:00.000Z",
+      "discoveredAt": "2026-07-27T19:50:19.758Z",
+      "summary": "GitHub Copilot 推出\"Harness\"工作流，让开发者通过单一 AI 工具完成从原型设计、规划、实现到代码审查的完整软件开发流程，无需追逐多种新 AI 工具。该工作流强调实用性与集成性，旨在减少工具切换带来的效率损耗。",
+      "category": "tip",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms3n5wpl001sro82iax01xu3"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 7,
+      "editorialScore": 12,
+      "tags": [
+        "原型",
+        "设计",
+        "工作流"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "cms3cgbw30a65ro3fu3pml4zx",
@@ -429,6 +482,89 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cms3pqstt0123ro82ty68var0",
+      "title": "Gemini 3.5 Flash-Lite 处理百万级图像演示",
+      "title_en": "We wanted to see how Gemini 3.5 Flash-Lite handles massive， repetitive visual tasks. This demo runs …",
+      "url": "https://x.com/googleaidevs/status/2081844338892710191",
+      "permalink": "https://aihot.virxact.com/items/cms3pqstt0123ro82ty68var0",
+      "source": "X：Google AI for Developers (@googleaidevs)",
+      "publishedAt": "2026-07-27T20:49:03.000Z",
+      "discoveredAt": "2026-07-27T21:02:33.667Z",
+      "summary": "我们想看看 Gemini 3.5 Flash-Lite 如何处理大规模、重复性的视觉任务。该演示让模型处理超过 100 万张目录图像，以大规模工作流所需的低延迟和 token 效率，将原始特征提取为干净、结构化的数据。",
+      "category": "tip",
+      "score": 47,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms3pqstt0123ro82ty68var0"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "工作流",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cms3l0qs0000mrosk787zclaz",
+      "title": "GitHub Copilot 发布\"全流程工作流\"：用单一工具完成原型、规划、实现与代码审查",
+      "title_en": "The harness is all you need （mostly）",
+      "url": "https://github.blog/company/the-harness-is-all-you-need-mostly",
+      "permalink": "https://aihot.virxact.com/items/cms3l0qs0000mrosk787zclaz",
+      "source": "GitHub Blog",
+      "publishedAt": "2026-07-27T18:00:00.000Z",
+      "discoveredAt": "2026-07-27T18:50:19.635Z",
+      "summary": "GitHub Copilot 推出一个实用工作流，让开发者用单一工具完成软件原型设计、规划、实现与代码审查，无需追逐每款新 AI 工具。该工作流将 Copilot 的聊天、内联代码补全、代码审查与 GitHub Actions 集成，覆盖从需求到部署的完整闭环。",
+      "category": "tip",
+      "score": 59,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms3l0qs0000mrosk787zclaz"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
+      "tags": [
+        "原型",
+        "设计",
+        "工作流"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cms3gqf3h01y1rondsl8z5sxy",
+      "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
+      "title_en": "GitHub Copilot app for Beginners： Getting started",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+      "permalink": "https://aihot.virxact.com/items/cms3gqf3h01y1rondsl8z5sxy",
+      "source": "GitHub Blog",
+      "publishedAt": "2026-07-27T16:00:00.000Z",
+      "discoveredAt": "2026-07-27T16:50:19.067Z",
+      "summary": "GitHub Copilot app 将 AI 编码工具升级为多 Agent 会话工作区，支持同时管理多个任务线程而不丢失进度。用户可为每个会话绑定项目上下文，通过 `/create-canvas` 命令在浏览器 Canvas 中预览 UI 并直接点选修改，还能启用 Agent Merge 自动处理 PR 审查反馈和合并冲突。",
+      "category": "tip",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms3gqf3h01y1rondsl8z5sxy"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 7,
+      "editorialScore": 11,
+      "tags": [
+        "ui",
+        "agent"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "cms328szu07b1ro3fa3cvdn6d",
       "title": "英伟达、微软、IBM 等 37 家企业成立开放安全 AI 联盟",
       "title_en": "英伟达、微软、IBM 等 37 家企业成立开放安全 AI 联盟：构建和共享开源工具、推动 AI 安全与保障",
@@ -477,6 +613,33 @@
       "editorialScore": 11,
       "tags": [
         "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cms3el9cc000orozqcae978wd",
+      "title": "Apple 提出 GH-ESD：面向实例级视觉任务的假设驱动错误切片发现方法",
+      "title_en": "GH-ESD： Grounded Hypothesis-Driven Error Slice Discovery for Instance-Level Vision Tasks",
+      "url": "https://machinelearning.apple.com/research/gh-esd",
+      "permalink": "https://aihot.virxact.com/items/cms3el9cc000orozqcae978wd",
+      "source": "Apple Machine Learning Research（RSS）",
+      "publishedAt": "2026-07-27T00:00:00.000Z",
+      "discoveredAt": "2026-07-27T15:50:19.318Z",
+      "summary": "Apple 机器学习研究团队提出 GH-ESD（Grounded Hypothesis-Driven Error Slice Discovery），一种针对目标检测与分割等实例级视觉任务的错误切片发现方法。现有方法主要适用于图像级分类，难以捕捉由上下文关系和空间视觉模式导致的实例级失败。GH-ESD 通过基于假设的驱动方式，系统性地发现模型在语义连贯子集上的系统性失效。",
+      "category": "paper",
+      "score": 40,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms3el9cc000orozqcae978wd"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
@@ -564,31 +727,32 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmrznnuhy00epro0pdy54jaht",
-      "title": "Anthropic 发布 Claude Opus 5 旗舰模型",
-      "title_en": "BestBlogs 早报 · 07-25 # Claude Opus 5 / Harness Engineering / 超级团队 / Kimi K3 / 视频动作模型 【1】 ★ 精讲|Anth…",
-      "url": "https://x.com/hongming731/status/2080804808123208161",
-      "permalink": "https://aihot.virxact.com/items/cmrznnuhy00epro0pdy54jaht",
-      "source": "X：洪明 (@hongming731)",
-      "publishedAt": "2026-07-24T23:58:20.000Z",
-      "discoveredAt": "2026-07-25T00:53:11.244Z",
-      "summary": "Anthropic 发布新一代旗舰模型 Claude Opus 5，在 Frontier-Bench 得分超过前代两倍，ARC-AGI 3 得分是次优模型三倍，OSWorld 以约三分之一成本超越 Fable 5 最佳成绩。模型展示了自建视觉管线和测试工具修复复杂任务的能力，但网络安全能力仍落后于 Mythos 5。",
+      "id": "cms3w97oq032kro82ajx8ulck",
+      "title": "微软CEO纳德拉警告：依赖单一AI模型的企业将无法生存",
+      "title_en": "微软 CEO 纳德拉：依赖单一 AI 满足所有需求的公司恐将无法生存",
+      "url": "https://www.ithome.com/0/982/284.htm",
+      "permalink": "https://aihot.virxact.com/items/cms3w97oq032kro82ajx8ulck",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-27T23:24:42.000Z",
+      "discoveredAt": "2026-07-28T00:04:49.098Z",
+      "summary": "微软CEO萨提亚·纳德拉警告企业，将AI能力完全交给模型开发商会导致失去竞争力甚至无法生存。他建议企业建立机制，确保每次调用AI模型产生的元数据掌握在自己手中，用于训练自有模型或开源模型，并部署AI Gateway等基础设施隔离Prompt与模型。纳德拉还建议企业不要依赖Claude Code、ChatGPT Codex等内置编程工具，应将上下文和记忆与模型分离，以便自由选择模型并掌握自身命运。",
       "category": "tip",
-      "score": 34,
+      "score": 61,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrznnuhy00epro0pdy54jaht"
+        "canonical": "https://aihot.virxact.com/items/cms3w97oq032kro82ajx8ulck"
       },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 9,
+      "editorialScore": 10,
       "tags": [
-        "视觉",
-        "视频"
+        "prompt",
+        "codex",
+        "claude code"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cms3bmy7h0a2zro3fmn6fkctz",
@@ -671,32 +835,6 @@
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cms2xhfev05moro3ff9bjgnct",
-      "title": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架",
-      "title_en": "When Coding Stops Being the Bottleneck",
-      "url": "https://rdi.berkeley.edu/blog/auto-software-dev",
-      "permalink": "https://aihot.virxact.com/items/cms2xhfev05moro3ff9bjgnct",
-      "source": "Berkeley RDI：Blog（AI 安全与评测）",
-      "publishedAt": "2026-07-27T07:51:26.272Z",
-      "discoveredAt": "2026-07-27T07:51:26.272Z",
-      "summary": "Berkeley RDI等机构提出三级软件自主开发框架：代码自主（AI完成设计与实现，人类决定构建内容并审核PR）、流水线自主（AI运行从设计到部署的全流程，人类仅评估结果）、需求自主（AI自主决定构建内容）。该框架旨在为能力声明、部署选择与问责提供清晰分类。",
-      "category": "tip",
-      "score": 64,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms2xhfev05moro3ff9bjgnct"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cms2p1yw70386ro3f9kzmwx89",
@@ -807,139 +945,196 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cms0zy5m2002cro0wmr7rwhdb",
-      "title": "Fly.io 首席执行官 Kurt Mackey 即将卸任，公司转向 AI 智能体平台 Sprites",
-      "title_en": "Fly.io 首席执行官库尔特·麦基即将卸任",
-      "url": "https://fly.io/blog/kurt-scott-money-sprites",
-      "permalink": "https://aihot.virxact.com/items/cms0zy5m2002cro0wmr7rwhdb",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-25T23:06:49.365Z",
-      "discoveredAt": "2026-07-25T23:24:54.337Z",
-      "summary": "Fly.io 联合创始人 Kurt Mackey 宣布卸任 CEO，由 Scott Johnston 接任。公司完成新一轮融资，并推出新一代 Sprites--专为 AI 智能体设计的云端计算环境。Mackey 认为传统公共云架构不适应 AI 驱动的个性化软件时代，智能体需要按需创建、用完即弃的轻量级计算资源。",
-      "category": "industry",
-      "score": 66,
+      "id": "cms3z6hut0491ro82nhd6ae5j",
+      "title": "Claude Code 创始人：别信网红，要实证调教 AI 智能体",
+      "title_en": "\"How do people learn to use Claude Code like Boris？\" Claude Code creator Boris Cherny （@bcherny ） w…",
+      "url": "https://x.com/rohanpaul_ai/status/2081907787865678285",
+      "permalink": "https://aihot.virxact.com/items/cms3z6hut0491ro82nhd6ae5j",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-07-28T01:01:11.000Z",
+      "discoveredAt": "2026-07-28T01:26:42.287Z",
+      "summary": "Claude Code 创始人 Boris Cherny 在 Y Combinator 的 Startup School 2026 上建议用户不要听信 LinkedIn 网红。他认为不存在让模型完美工作的\"奇招\"，正确方法是给模型超出能力的任务，提供验证工具，观察其失败点，再用更好的提示词、技能或 MCP 连接来修复。",
+      "category": "tip",
+      "score": 41,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms0zy5m2002cro0wmr7rwhdb"
+        "canonical": "https://aihot.virxact.com/items/cms3z6hut0491ro82nhd6ae5j"
       },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
       "tags": [
-        "设计",
+        "creator",
+        "提示词",
+        "claude code",
         "智能体"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cms0pb4r10080rohp0yh1v4uf",
-      "title": "TileLang：用高级Python DSL通过TVM设计高性能GPU内核--从Tensor-Core GEMM到FlashAttention",
-      "title_en": "Designing High-Performance GPU Kernels with TileLang： Tensor-Core GEMM， Fused Softmax， FlashAttention， and Autotuning",
-      "url": "https://www.marktechpost.com/2026/07/25/designing-high-performance-gpu-kernels-with-tilelang-tensor-core-gemm-fused-softmax-flashattention-and-autotuning",
-      "permalink": "https://aihot.virxact.com/items/cms0pb4r10080rohp0yh1v4uf",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-07-25T18:08:12.000Z",
-      "discoveredAt": "2026-07-25T18:27:03.905Z",
-      "summary": "TileLang作为基于TVM的Python领域特定语言，可设计并编译面向性能的GPU内核。教程逐步实现向量加法、分块Tensor-Core矩阵乘法、融合GEMM后处理、行级Softmax及FlashAttention，并对比PyTorch和cuBLAS基线。通过自动调优识别架构相关内核配置，TileLang管理线程映射、内存布局、同步及底层CUDA指令生成。",
+      "id": "cms3z51740455ro82fb8taotp",
+      "title": "Databricks 发布 Genie One：面向业务用户的 AI 协同工作助手",
+      "title_en": "Get Started with Genie One： Top AI Cowork Use Cases for Business Users",
+      "url": "https://www.databricks.com/blog/get-started-genie-one-top-ai-cowork-use-cases-business-users",
+      "permalink": "https://aihot.virxact.com/items/cms3z51740455ro82fb8taotp",
+      "source": "Databricks：Blog（RSS）",
+      "publishedAt": "2026-07-28T01:00:00.000Z",
+      "discoveredAt": "2026-07-28T01:25:34.224Z",
+      "summary": "Databricks 推出 Genie One，一款面向业务用户的 AI 协同工作工具，旨在帮助非技术员工通过自然语言与数据交互。Genie One 支持数据查询、报告生成和自动化工作流，无需编写代码即可完成常见业务任务。该工具现已通过 Databricks 平台提供，降低了企业用户使用 AI 分析数据的门槛。",
       "category": "tip",
-      "score": 61,
+      "score": 58,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms0pb4r10080rohp0yh1v4uf"
+        "canonical": "https://aihot.virxact.com/items/cms3z51740455ro82fb8taotp"
       },
       "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
       "tags": [
-        "设计"
+        "交互",
+        "工作流",
+        "自动化"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cms0kz72r0135ropfq76o6nnv",
-      "title": "Bento开源HTML PPT：丢网址AI自动生成",
-      "title_en": "这个HTML PPT 项目真的有点东西，我丢给它一个博客网址，自动生成的PPT。 它会把文章配图转成背景，看起来效果就很高级。",
-      "url": "https://x.com/vista8/status/2081048707563389260",
-      "permalink": "https://aihot.virxact.com/items/cms0kz72r0135ropfq76o6nnv",
-      "source": "X：Vista (@vista8)",
-      "publishedAt": "2026-07-25T16:07:30.000Z",
-      "discoveredAt": "2026-07-25T16:25:46.749Z",
-      "summary": "开源项目Bento支持输入博客网址自动生成PPT，并将文章配图转为背景。该项目仅用一个HTML文件实现全屏播放、文本编辑与多人协作，文档以明文JSON存储，便于AI修改迭代。",
-      "category": "tip",
-      "score": 36,
-      "selected": false,
+      "id": "cms3lggqj00c0roskhu1r5f09",
+      "title": "Kimi 发布视觉感知基准 PerceptionBench",
+      "title_en": "We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
+      "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
+      "permalink": "https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "publishedAt": "2026-07-27T18:45:20.000Z",
+      "discoveredAt": "2026-07-27T19:02:32.798Z",
+      "summary": "Kimi.ai 发布 PerceptionBench，一个从当前前沿模型在 42 个基准上的失败模式中归纳出的视觉感知基准。该基准将视觉感知拆解为 10 种原子能力，并构建了 3000 道验证题，每道题只考察单一感知能力，无需推理或外部知识。",
+      "category": "ai-products",
+      "score": 73,
+      "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms0kz72r0135ropfq76o6nnv"
+        "canonical": "https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
+      "relevanceScore": 6,
+      "editorialScore": 9,
       "tags": [
-        "配图"
+        "视觉"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cms0942e500corodza9v7s7sb",
-      "title": "Anthropic 称 Opus 5 几乎免疫浏览器提示词注入，攻击成功率降至零",
-      "title_en": "Opus 5 may have solved browser-based prompt injection， the biggest security flaw haunting AI agents",
-      "url": "https://the-decoder.com/opus-5-may-have-solved-browser-based-prompt-injection-the-biggest-security-flaw-haunting-ai-agents",
-      "permalink": "https://aihot.virxact.com/items/cms0942e500corodza9v7s7sb",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-25T10:43:36.000Z",
-      "discoveredAt": "2026-07-25T10:53:39.226Z",
-      "summary": "Anthropic 称其 Opus 5 模型在自家软件中几乎免疫提示词注入攻击。在 129 个浏览器智能体测试场景中，攻击成功率为零；在 Gray Swan 通用提示词注入测试中，15 次尝试后的成功率从 Opus 4.8 的 5.5% 降至 2.0%。零成功率仅在 Claude Cowork 等产品开启 Auto Mode 时实现，该模式叠加了输入扫描与执行拦截两层防御。",
-      "category": "ai-models",
-      "score": 60,
+      "id": "cms3h02m402bbrondiqpuh796",
+      "title": "Perplexity 发布 pplx：单二进制 CLI 工具，将 Search API 带入终端供编码智能体使用",
+      "title_en": "Perplexity Releases pplx， a Single-Binary CLI That Puts Its Search API in the Terminal for Coding Agents",
+      "url": "https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx",
+      "permalink": "https://aihot.virxact.com/items/cms3h02m402bbrondiqpuh796",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-07-27T16:32:47.000Z",
+      "discoveredAt": "2026-07-27T16:57:46.730Z",
+      "summary": "Perplexity 发布 pplx，一个官方命令行客户端，提供 `pplx search web` 和 `pplx content fetch` 两个命令，输出单一 JSON 对象。该工具以经校验和的单二进制形式提供，支持 macOS arm64 和 Linux，并附带适用于 Claude Code、Codex CLI 等工具的 Agent Skill。",
+      "category": "ai-products",
+      "score": 55,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms0942e500corodza9v7s7sb"
+        "canonical": "https://aihot.virxact.com/items/cms3h02m402bbrondiqpuh796"
       },
       "sourceType": "网站",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 9,
-      "editorialScore": 10,
+      "relevanceScore": 8,
+      "editorialScore": 9,
       "tags": [
-        "提示词",
-        "prompt",
+        "codex",
+        "claude code",
+        "agent",
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmrzpyqdm00b0ro6dm7gaa9yt",
-      "title": "Anthropic 为 Opus 5 推模块化提示词开关",
-      "title_en": "Anthropic 内部给 Claude Opus 5（在 Claude Code 里）用的模块化 system prompt 注入开关",
-      "url": "https://x.com/AYi_AInotes/status/2080832262795309186",
-      "permalink": "https://aihot.virxact.com/items/cmrzpyqdm00b0ro6dm7gaa9yt",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-07-25T01:47:26.000Z",
-      "discoveredAt": "2026-07-25T01:57:38.206Z",
-      "summary": "Anthropic 内部给 Claude Opus 5（在 Claude Code 里）用的模块化 system prompt 注入开关",
-      "category": "tip",
-      "score": 26,
+      "id": "cms3eqorx007vrozqzhvotdwq",
+      "title": "Kimi K3 开源：2.8T MoE 模型，1M 上下文",
+      "title_en": "赞，Kimi K3 开源权重了。",
+      "url": "https://x.com/dotey/status/2081768665356124481",
+      "permalink": "https://aihot.virxact.com/items/cms3eqorx007vrozqzhvotdwq",
+      "source": "X：宝玉 (@dotey)",
+      "publishedAt": "2026-07-27T15:48:21.000Z",
+      "discoveredAt": "2026-07-27T15:54:31.469Z",
+      "summary": "月之暗面开源其最强模型 Kimi K3，这是一个 2.8T 参数的 MoE 模型，具备原生视觉理解能力和 1M token 上下文窗口。新架构实现了每单位计算 2.5 倍的智能提升。同时开源了高性能注意力内核、MoE 通信库及智能体运行基础设施。",
+      "category": "ai-models",
+      "score": 62,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrzpyqdm00b0ro6dm7gaa9yt"
+        "canonical": "https://aihot.virxact.com/items/cms3eqorx007vrozqzhvotdwq"
       },
       "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 9,
-      "editorialScore": 10,
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
       "tags": [
-        "提示词",
-        "prompt",
-        "claude code"
+        "视觉",
+        "智能体"
       ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cms3f3vfa00bwrondo13qukdn",
+      "title": "月之暗面开源 Kimi K3 模型，2.8 万亿参数",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/982/259.htm",
+      "permalink": "https://aihot.virxact.com/items/cms3f3vfa00bwrondo13qukdn",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-27T15:14:48.000Z",
+      "discoveredAt": "2026-07-27T16:04:44.891Z",
+      "summary": "月之暗面正式开源 Kimi K3 模型，该模型拥有 2.8 万亿参数、100 万 token 上下文窗口，并原生支持视觉理解。Kimi K3 基于 KDA 混合线性注意力机制构建，结合 Stable LatentMoE 框架在 896 个专家中激活 16 个，整体扩展效率相比 K2 提升约 2.5 倍。",
+      "category": "ai-models",
+      "score": 81,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms3f3vfa00bwrondo13qukdn"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "视觉"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cms3dxit00betro3fiwkotg0j",
+      "title": "Kimi K3 开源：2.8T MoE 模型与技术报告",
+      "title_en": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+      "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
+      "permalink": "https://aihot.virxact.com/items/cms3dxit00betro3fiwkotg0j",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "publishedAt": "2026-07-27T15:14:40.000Z",
+      "discoveredAt": "2026-07-27T15:31:51.181Z",
+      "summary": "Kimi 发布其最强模型 Kimi K3，这是一个 2.8T 参数的 MoE 模型，具备原生视觉理解和 1M token 上下文窗口。新架构实现了每单位计算 2.5 倍的智能提升。除模型权重外，Kimi 还开源了高性能注意力内核、MoE 通信库及大规模智能体运行环境基础设施。",
+      "category": "ai-models",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms3dxit00betro3fiwkotg0j"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "视觉",
+        "智能体"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cms344l1007v2ro3fzn9ibi29",
@@ -1055,56 +1250,29 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cms0xtc480057ro2587fcwgkk",
-      "title": "Sam Altman 43分钟深度访谈要点",
-      "title_en": "Oh my god 43：00 https://x.com/jxnlco/status/2076130428407480650?s=46",
-      "url": "https://x.com/jxnlco/status/2081140203985527295",
-      "permalink": "https://aihot.virxact.com/items/cms0xtc480057ro2587fcwgkk",
-      "source": "X：Jason Liu (@jxnlco)",
-      "publishedAt": "2026-07-25T22:11:05.000Z",
-      "discoveredAt": "2026-07-25T22:25:10.093Z",
-      "summary": "Jason Liu 分享了一段 43 分钟的 Sam Altman 访谈。Altman 在访谈中讨论了创业、指数增长、创造充裕智能、OpenAI 早期经历、关闭 Sora 聚焦 Codex、算力投资不足、以及 AI 威权主义与自由等话题。",
+      "id": "cms3ss6b901yzro82krv5czgx",
+      "title": "Gemini 团队将举办提示词技巧分享活动",
+      "title_en": "Prompt Like a Pro returns to the Gemini Discord server this week. A member of the Gemini team will …",
+      "url": "https://x.com/GeminiApp/status/2081866612005892254",
+      "permalink": "https://aihot.virxact.com/items/cms3ss6b901yzro82krv5czgx",
+      "source": "X：Gemini (@GeminiApp)",
+      "publishedAt": "2026-07-27T22:17:34.000Z",
+      "discoveredAt": "2026-07-27T22:27:36.360Z",
+      "summary": "Prompt Like a Pro 本周将重返 Gemini Discord 服务器。\n\nGemini 团队的一名成员将重点介绍一些你的真实使用案例，并提供技巧和方法，助你更上一层楼。\n\n加入我们，磨练你的提示词技巧，并充分利用 Gemini Omni、Gemini Live、Notebooks 等功能。\n\n👉 加入 Discord 观看直播：http://discord.gg/gemini\n📅 太平洋时间 7 月 29 日星期三上午 11：30",
       "category": "tip",
-      "score": 41,
+      "score": 26,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms0xtc480057ro2587fcwgkk"
+        "canonical": "https://aihot.virxact.com/items/cms3ss6b901yzro82krv5czgx"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "sora",
-        "codex"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cms110qj500fhro0wq1zpxkf7",
-      "title": "Claude 5 系列模型上下文工程新规则：Anthropic 移除 Claude Code 超 80% 系统提示词",
-      "title_en": "Claude 5 生成模型的上下文工程新规则",
-      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "permalink": "https://aihot.virxact.com/items/cms110qj500fhro0wq1zpxkf7",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-25T23:23:09.413Z",
-      "discoveredAt": "2026-07-25T23:54:54.341Z",
-      "summary": "Anthropic 为 Claude Opus 5 和 Claude Fable 5 等新一代模型移除了 Claude Code 超过 80% 的系统提示词，且编码评测分数未出现可测量损失。",
-      "category": "tip",
-      "score": 65,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms110qj500fhro0wq1zpxkf7"
-      },
-      "sourceType": "网站",
       "designCategory": "工作流与 Agent",
       "relevanceScore": 7,
       "editorialScore": 8,
       "tags": [
         "提示词",
-        "claude code"
+        "prompt"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     }
