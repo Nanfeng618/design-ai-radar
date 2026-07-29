@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-29T03:39:40.888Z",
-  "previousGeneratedAt": "2026-07-28T14:37:13.018Z",
+  "generatedAt": "2026-07-29T09:08:45.406Z",
+  "previousGeneratedAt": "2026-07-29T03:39:40.888Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 43,
+  "itemCount": 42,
   "sourceCounts": {
-    "网站": 19,
+    "网站": 18,
     "X": 24
   },
   "source": {
@@ -13,6 +13,93 @@
     "url": "https://aihot.virxact.com"
   },
   "items": [
+    {
+      "id": "cms5uj9640uqmrobknl5v2hco",
+      "title": "并行解码蒸馏（PDD）：加速图像与视频生成的新方法",
+      "title_en": "Parallel Decoding Distillation for Fast Image and Video Generation",
+      "url": "https://arxiv.org/abs/2607.26004",
+      "permalink": "https://aihot.virxact.com/items/cms5uj9640uqmrobknl5v2hco",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-28T00:00:00.000Z",
+      "discoveredAt": "2026-07-29T08:52:11.469Z",
+      "summary": "研究者提出并行解码蒸馏（PDD），一种简化且可扩展的轨迹蒸馏方法，通过单次网络评估预测多个去噪步骤，加速扩散与流匹配模型推理。该方法在4-8次函数评估下，于LTX-2.3文生视频/音频、Wan 14B文生视频及Qwen-Image文生图上达到SOTA性能，并显著提升了生成视频的多样性。PDD兼容任意预训练模型，无需使用变分分数蒸馏或对抗损失。",
+      "category": "paper",
+      "score": 56,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms5uj9640uqmrobknl5v2hco"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 34,
+      "editorialScore": 37,
+      "tags": [
+        "文生图",
+        "视频生成",
+        "文生视频",
+        "生图"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cms5l3hzy072zrobk6w0316ke",
+      "title": "Flux 3 视频模型生成水獭用笔记本，效果惊人",
+      "title_en": "Those who follow my feed know that I test new video models by having them show an otter using a lapt…",
+      "url": "https://x.com/emollick/status/2082319924987351510",
+      "permalink": "https://aihot.virxact.com/items/cms5l3hzy072zrobk6w0316ke",
+      "source": "X：Ethan Mollick (@emollick)",
+      "publishedAt": "2026-07-29T04:18:52.000Z",
+      "discoveredAt": "2026-07-29T04:27:57.457Z",
+      "summary": "Ethan Mollick 用新发布的 Flux 3 视频模型测试\"水獭在飞机上用笔记本电脑\"的生成效果，结果非常出色。对比 2022 年图像生成器输出的无意义内容，Flux 3 首次尝试即生成细节丰富、光照自然的视频，展现两年间 AI 视频生成的巨大进步。",
+      "category": "tip",
+      "score": 38,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms5l3hzy072zrobk6w0316ke"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 26,
+      "editorialScore": 29,
+      "tags": [
+        "图像生成",
+        "视频生成",
+        "flux",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cms5obb000i6rrobkdj4s6r9k",
+      "title": "Flux 3 生成复杂提示视频效果惊人",
+      "title_en": "Flux 3 is pretty darn impressive. This is what it produced with the prompt： \"tracking shot that foll…",
+      "url": "https://x.com/emollick/status/2082339882031026392",
+      "permalink": "https://aihot.virxact.com/items/cms5obb000i6rrobkdj4s6r9k",
+      "source": "X：Ethan Mollick (@emollick)",
+      "publishedAt": "2026-07-29T05:38:10.000Z",
+      "discoveredAt": "2026-07-29T05:58:02.673Z",
+      "summary": "Flux 3 根据一段包含宇航员、摄政舞会、罗斯科壁画、骑士与忍者打斗等复杂元素的详细提示词，生成了令人印象深刻的视频。该模型能够连贯地呈现多场景切换与细节，展示了其在复杂视频生成任务上的能力。",
+      "category": "tip",
+      "score": 44,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms5obb000i6rrobkdj4s6r9k"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 16,
+      "editorialScore": 19,
+      "tags": [
+        "视频生成",
+        "flux",
+        "视频",
+        "提示词"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
     {
       "id": "cms4v9pfw02bsroa1qb9zh6c8",
       "title": "Amazon 收缩自研 Nova 模型线，押注 Pieter Abbeel 领导的 Frontier 新团队",
@@ -181,6 +268,35 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cms5ly8pi098lrobk5pew6cce",
+      "title": "ReDesign：通过智能体分解从图像中恢复可编辑设计结构",
+      "title_en": "ReDesign： Recovering Editable Design Structures from Images via Agentic Decomposition",
+      "url": "https://arxiv.org/abs/2607.25565",
+      "permalink": "https://aihot.virxact.com/items/cms5ly8pi098lrobk5pew6cce",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-28T00:00:00.000Z",
+      "discoveredAt": "2026-07-29T04:51:54.665Z",
+      "summary": "ReDesign 提出一种智能体框架，将光栅图像重建为可编辑的图层层级结构，通过视觉语言模型（VLM）智能体选择并组合多模态工具逐步扩展节点，并在每次扩展中引入优雅验证机制（接受、剪枝或重试）以防止错误累积。",
+      "category": "paper",
+      "score": 58,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms5ly8pi098lrobk5pew6cce"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "视觉",
+        "design",
+        "设计",
+        "图像"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "cms5hnvv70018ros5ao6lm1wh",
       "title": "Wonder：实时、可控制摄像头的视频世界模型",
       "title_en": "Wonder： Video World Model Done Better",
@@ -262,34 +378,6 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cms3n5wpl001sro82iax01xu3",
-      "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查",
-      "title_en": "The harness is all you need （mostly）",
-      "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
-      "permalink": "https://aihot.virxact.com/items/cms3n5wpl001sro82iax01xu3",
-      "source": "GitHub Blog",
-      "publishedAt": "2026-07-27T18:00:00.000Z",
-      "discoveredAt": "2026-07-27T19:50:19.758Z",
-      "summary": "GitHub Copilot 推出\"Harness\"工作流，让开发者通过单一 AI 工具完成从原型设计、规划、实现到代码审查的完整软件开发流程，无需追逐多种新 AI 工具。该工作流强调实用性与集成性，旨在减少工具切换带来的效率损耗。",
-      "category": "tip",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms3n5wpl001sro82iax01xu3"
-      },
-      "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 7,
-      "editorialScore": 12,
-      "tags": [
-        "原型",
-        "设计",
-        "工作流"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "cms5fzmoh031aro7c2sk07fy4",
@@ -485,57 +573,28 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cms3l0qs0000mrosk787zclaz",
-      "title": "GitHub Copilot 发布\"全流程工作流\"：用单一工具完成原型、规划、实现与代码审查",
-      "title_en": "The harness is all you need （mostly）",
-      "url": "https://github.blog/company/the-harness-is-all-you-need-mostly",
-      "permalink": "https://aihot.virxact.com/items/cms3l0qs0000mrosk787zclaz",
-      "source": "GitHub Blog",
-      "publishedAt": "2026-07-27T18:00:00.000Z",
-      "discoveredAt": "2026-07-27T18:50:19.635Z",
-      "summary": "GitHub Copilot 推出一个实用工作流，让开发者用单一工具完成软件原型设计、规划、实现与代码审查，无需追逐每款新 AI 工具。该工作流将 Copilot 的聊天、内联代码补全、代码审查与 GitHub Actions 集成，覆盖从需求到部署的完整闭环。",
-      "category": "tip",
-      "score": 59,
+      "id": "cms5qpibd0pfmrobkdpqgrtqe",
+      "title": "谷歌解散AlphaFold团队，成员转岗至Gemini项目",
+      "title_en": "谷歌解散 AlphaFold 团队以专注于 Gemini，前者曾获诺贝尔奖",
+      "url": "https://www.ithome.com/0/983/065.htm",
+      "permalink": "https://aihot.virxact.com/items/cms5qpibd0pfmrobkdpqgrtqe",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-29T06:47:15.000Z",
+      "discoveredAt": "2026-07-29T07:05:02.571Z",
+      "summary": "谷歌旗下DeepMind已解散其诺贝尔奖获奖AI系统AlphaFold背后的团队，过去一年里大多数原始作者被重新分配到其他团队。这些员工已内部转岗至围绕Gemini大语言模型构建的项目，以及酶设计、核聚变和基因组学等领域。AlphaFold原始论文的全职作者中近四分之一已离开公司，包括联合负责人江珀已离职前往Anthropic。",
+      "category": "industry",
+      "score": 61,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms3l0qs0000mrosk787zclaz"
-      },
-      "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 6,
-      "editorialScore": 11,
-      "tags": [
-        "原型",
-        "设计",
-        "工作流"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "cms3gqf3h01y1rondsl8z5sxy",
-      "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
-      "title_en": "GitHub Copilot app for Beginners： Getting started",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
-      "permalink": "https://aihot.virxact.com/items/cms3gqf3h01y1rondsl8z5sxy",
-      "source": "GitHub Blog",
-      "publishedAt": "2026-07-27T16:00:00.000Z",
-      "discoveredAt": "2026-07-27T16:50:19.067Z",
-      "summary": "GitHub Copilot app 将 AI 编码工具升级为多 Agent 会话工作区，支持同时管理多个任务线程而不丢失进度。用户可为每个会话绑定项目上下文，通过 `/create-canvas` 命令在浏览器 Canvas 中预览 UI 并直接点选修改，还能启用 Agent Merge 自动处理 PR 审查反馈和合并冲突。",
-      "category": "tip",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms3gqf3h01y1rondsl8z5sxy"
+        "canonical": "https://aihot.virxact.com/items/cms5qpibd0pfmrobkdpqgrtqe"
       },
       "sourceType": "网站",
       "designCategory": "产品与体验",
-      "relevanceScore": 7,
-      "editorialScore": 11,
+      "relevanceScore": 6,
+      "editorialScore": 10,
       "tags": [
-        "ui",
-        "agent"
+        "设计"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
@@ -999,89 +1058,6 @@
         "视觉"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cms3h02m402bbrondiqpuh796",
-      "title": "Perplexity 发布 pplx：单二进制 CLI 工具，将 Search API 带入终端供编码智能体使用",
-      "title_en": "Perplexity Releases pplx， a Single-Binary CLI That Puts Its Search API in the Terminal for Coding Agents",
-      "url": "https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx",
-      "permalink": "https://aihot.virxact.com/items/cms3h02m402bbrondiqpuh796",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-07-27T16:32:47.000Z",
-      "discoveredAt": "2026-07-27T16:57:46.730Z",
-      "summary": "Perplexity 发布 pplx，一个官方命令行客户端，提供 `pplx search web` 和 `pplx content fetch` 两个命令，输出单一 JSON 对象。该工具以经校验和的单二进制形式提供，支持 macOS arm64 和 Linux，并附带适用于 Claude Code、Codex CLI 等工具的 Agent Skill。",
-      "category": "ai-products",
-      "score": 55,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms3h02m402bbrondiqpuh796"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "codex",
-        "claude code",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cms3eqorx007vrozqzhvotdwq",
-      "title": "Kimi K3 开源：2.8T MoE 模型，1M 上下文",
-      "title_en": "赞，Kimi K3 开源权重了。",
-      "url": "https://x.com/dotey/status/2081768665356124481",
-      "permalink": "https://aihot.virxact.com/items/cms3eqorx007vrozqzhvotdwq",
-      "source": "X：宝玉 (@dotey)",
-      "publishedAt": "2026-07-27T15:48:21.000Z",
-      "discoveredAt": "2026-07-27T15:54:31.469Z",
-      "summary": "月之暗面开源其最强模型 Kimi K3，这是一个 2.8T 参数的 MoE 模型，具备原生视觉理解能力和 1M token 上下文窗口。新架构实现了每单位计算 2.5 倍的智能提升。同时开源了高性能注意力内核、MoE 通信库及智能体运行基础设施。",
-      "category": "ai-models",
-      "score": 62,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms3eqorx007vrozqzhvotdwq"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "视觉",
-        "智能体"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cms5be9gq01ctro7c9hrc16a7",
-      "title": "ChatGPT Work 能力超乎想象",
-      "title_en": "ChatGPT Work so much more capable than people realize - any prompt that you've used that really drov…",
-      "url": "https://x.com/gdb/status/2082249986004435082",
-      "permalink": "https://aihot.virxact.com/items/cms5be9gq01ctro7c9hrc16a7",
-      "source": "X：Greg Brockman (@gdb)",
-      "publishedAt": "2026-07-28T23:40:57.000Z",
-      "discoveredAt": "2026-07-28T23:56:26.177Z",
-      "summary": "ChatGPT Work 的能力远比人们意识到的更强大--你用过哪些提示词真正展现了 Work 的能力？",
-      "category": "tip",
-      "score": 27,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms5be9gq01ctro7c9hrc16a7"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "提示词",
-        "prompt"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cms5ae5id013tro7crfjt8m71",
