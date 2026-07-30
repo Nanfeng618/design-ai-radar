@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-30T08:49:47.764Z",
-  "previousGeneratedAt": "2026-07-30T03:28:39.169Z",
+  "generatedAt": "2026-07-30T14:31:36.595Z",
+  "previousGeneratedAt": "2026-07-30T08:49:47.764Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 47,
+  "itemCount": 48,
   "sourceCounts": {
     "X": 24,
-    "网站": 23
+    "网站": 24
   },
   "source": {
     "name": "AI HOT",
@@ -186,6 +186,61 @@
         "设计"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cms7b9v3607jnro2epohx3dpm",
+      "title": "纳米Work发布会：老周坦诚AI全员实践与产品设计",
+      "title_en": "前些天参加了纳米Work的发布会，印象最深的是老周讲话的坦诚。 现场喷 PPT 做的有问题，坦然承认全员用 AI 暴露的问题。 在龙虾很火的时候，他们也做了类似产品，推动全员\"吃狗粮\"，收集了5万…",
+      "url": "https://x.com/vista8/status/2082754047317270732",
+      "permalink": "https://aihot.virxact.com/items/cms7b9v3607jnro2epohx3dpm",
+      "source": "X：Vista (@vista8)",
+      "publishedAt": "2026-07-30T09:03:55.000Z",
+      "discoveredAt": "2026-07-30T09:28:33.711Z",
+      "summary": "纳米Work在发布会上坦诚全员使用AI暴露的问题，并基于5万多条真实业务反馈改进产品。产品目标用户为企业老板、创业者/OPC和职场精英，设计围绕其高频痛点展开。",
+      "category": "ai-products",
+      "score": 57,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms7b9v3607jnro2epohx3dpm"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 13,
+      "editorialScore": 17,
+      "tags": [
+        "产品设计",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cms7l421b0kgxro2e5tbz0yvo",
+      "title": "Gemini macOS 应用新增\"语音对话\"功能",
+      "title_en": "GOOGLE 🔥： Gemini desktop app for macOS now supports \"Speak to Window\" feature！ &gt； \"Today， we're …",
+      "url": "https://x.com/testingcatalog/status/2082828124211806545",
+      "permalink": "https://aihot.virxact.com/items/cms7l421b0kgxro2e5tbz0yvo",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "publishedAt": "2026-07-30T13:58:16.000Z",
+      "discoveredAt": "2026-07-30T14:03:58.367Z",
+      "summary": "Google 为 Gemini macOS 桌面应用推出\"Speak to Window\"语音交互功能。用户可通过长按 Fn 键直接语音输入，让 Gemini 完成信息提取与摘要、文本撰写与改写、图像生成与编辑等任务，无需手动打字。",
+      "category": "ai-products",
+      "score": 38,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms7l421b0kgxro2e5tbz0yvo"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "图像生成",
+        "交互",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cms74shs2028tro8w73rvu4bk",
@@ -438,34 +493,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cms575s1b01egroehkbtkz305",
-      "title": "Anthropic 将 MCP 升级为无状态请求协议",
-      "title_en": "Some good development on the MCP side from Anthropic. They are turning MCP from a session-heavy co…",
-      "url": "https://x.com/rohanpaul_ai/status/2082216771264930232",
-      "permalink": "https://aihot.virxact.com/items/cms575s1b01egroehkbtkz305",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-07-28T21:28:58.000Z",
-      "discoveredAt": "2026-07-28T21:57:51.555Z",
-      "summary": "Anthropic 发布 MCP 2026-07-28 更新，这是协议发布以来最大的一次升级。核心变化是将 MCP 从需要维护客户端会话的有状态连接，转变为独立的请求-响应模式，每个请求可由任意服务器实例独立处理。此举使 MCP 更易于部署、扩展、保障安全并集成到生产应用中，同时将交互界面等高级功能拆分为可选扩展。",
-      "category": "ai-products",
-      "score": 42,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms575s1b01egroehkbtkz305"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "界面",
-        "交互",
-        "mcp"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cms6xc4sj02rkrouqg7naz795",
       "title": "Flux 3 生成《荒原》朗诵视频效果惊艳",
       "title_en": "I gave Flux 3 the penultimate lines of Eliot's The Wasteland， which involve both switches in tone an…",
@@ -602,28 +629,28 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cms52rug600r3rorrfu16bmyq",
-      "title": "FLUX 3 生成1957年预言视频",
-      "title_en": "FLUX 3： > a recently found color interview with a man in 1957， he predicts every major technologica…",
-      "url": "https://x.com/fofrAI/status/2082191083946364949",
-      "permalink": "https://aihot.virxact.com/items/cms52rug600r3rorrfu16bmyq",
-      "source": "X：fofr (@fofrAI)",
-      "publishedAt": "2026-07-28T19:46:54.000Z",
-      "discoveredAt": "2026-07-28T19:55:02.865Z",
-      "summary": "FLUX 3：\n\n> 一段最近发现的1957年彩色采访，一位男子准确预测了直到2025年的每一项重大技术事件，没有文字或镜头切换，只有一位拥有深远预见的男子严肃的采访，采访者不说话，只是轻蔑地看着他，仿佛他疯了。",
+      "id": "cms7ddg5p0ak8ro2ekx2pixvn",
+      "title": "阿里云Qwen模型家族演进图谱发布",
+      "title_en": "The Qwen model family cyber atlas： a visual walkthrough of how AI really evolved - from large langua…",
+      "url": "https://x.com/alibaba_cloud/status/2082773341954527236",
+      "permalink": "https://aihot.virxact.com/items/cms7ddg5p0ak8ro2ekx2pixvn",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-07-30T10:20:35.000Z",
+      "discoveredAt": "2026-07-30T10:27:20.070Z",
+      "summary": "Qwen模型家族网络图谱：一次关于AI真正如何演进的视觉导览--从大语言模型到具身智能。\n\n在下方视频中发现完整的演进过程。\n\n准备好进一步探索了吗？\n• 试用Model Studio：https://click.alibabacloud.com/m/20000000959/\n• 或探索Qwen Cloud：https://click.qwencloud.com/m/20000000996/",
       "category": "tip",
-      "score": 49,
+      "score": 24,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms52rug600r3rorrfu16bmyq"
+        "canonical": "https://aihot.virxact.com/items/cms7ddg5p0ak8ro2ekx2pixvn"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
+      "relevanceScore": 8,
+      "editorialScore": 11,
       "tags": [
-        "flux",
+        "视觉",
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
@@ -766,32 +793,56 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cms544vhc002broeh6ikde3oh",
-      "title": "MazeBench 3D 迷宫基准发布，AI 最高仅 12% 得分",
-      "title_en": "Patience Cave announced MazeBench， a new puzzle-based benchmark in a 3D form. 12% is the current t…",
-      "url": "https://x.com/testingcatalog/status/2082197788285174050",
-      "permalink": "https://aihot.virxact.com/items/cms544vhc002broeh6ikde3oh",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-07-28T20:13:32.000Z",
-      "discoveredAt": "2026-07-28T20:33:10.807Z",
-      "summary": "Patience Cave 推出 MazeBench，一个基于 3D 开放世界迷宫的评测基准，用于评估 AI 的长期规划与视觉空间推理能力。当前最高分仅 12%，由 GPT 5.6 Sol、Fable 5、Opus 5 和 Kimi K3 等模型取得。该基准包含数百个房间和谜题，目前最强 AI 智能体也无法突破初始关卡。",
-      "category": "paper",
-      "score": 40,
+      "id": "cms7dff1c0aq1ro2ei8gbfcqv",
+      "title": "腾讯开源 AngelSpec：面向推测解码草稿模型的统一训练框架",
+      "title_en": "Tencent Open-Sources AngelSpec： A Unified Training Framework for MTP and Block-Parallel Speculative Decoding on Hy3 Models",
+      "url": "https://www.marktechpost.com/2026/07/30/tencent-open-sources-angelspec-a-unified-training-framework-for-mtp-and-block-parallel-speculative-decoding-on-hy3-models",
+      "permalink": "https://aihot.virxact.com/items/cms7dff1c0aq1ro2ei8gbfcqv",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-07-30T10:08:18.000Z",
+      "discoveredAt": "2026-07-30T10:28:49.090Z",
+      "summary": "腾讯开源了 AngelSpec，一个面向推测解码草稿模型的 torch-native 训练框架，支持自回归多 token 预测（MTP）与块并行 DFlash 系列。该框架针对工作负载异构性设计，提供 MTP 与块扩散两种互补草稿模型。在 Hy3-A21B 模型上，块扩散架构 DFly 的平均接受长度达 4.79，相比 DFlash 的 3.69 提升 29.8%。",
+      "category": "ai-products",
+      "score": 66,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms544vhc002broeh6ikde3oh"
+        "canonical": "https://aihot.virxact.com/items/cms7dff1c0aq1ro2ei8gbfcqv"
       },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
       "tags": [
-        "视觉",
-        "3d",
-        "智能体"
+        "设计"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cms7ag0aw05zwro2e66sv84lf",
+      "title": "荣耀 MagicOS 11 先锋品鉴会 8 月 6 日举行，号称\"流光通透，流畅丝滑\"",
+      "title_en": "荣耀官宣 MagicOS 11 先锋品鉴会 8 月 6 日举行，号称\"流光通透，流畅丝滑\"",
+      "url": "https://www.ithome.com/0/983/715.htm",
+      "permalink": "https://aihot.virxact.com/items/cms7ag0aw05zwro2e66sv84lf",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-30T08:20:12.000Z",
+      "discoveredAt": "2026-07-30T09:05:18.763Z",
+      "summary": "荣耀宣布 MagicOS 11 先锋品鉴会将于 8 月 6 日在北京举行。新系统带来全新 YOYO Next，内置 YOYO Claw，支持自定义 AI 大模型、操控第三方 App、长期全局记忆及技能商店，并深度优化过渡动画，采用安卓阵营首个动态液态玻璃 UI。",
+      "category": "ai-products",
+      "score": 28,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms7ag0aw05zwro2e66sv84lf"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "ui"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cms6xky2402xgrouqgudkfgsg",
@@ -1277,33 +1328,6 @@
       "editorialScore": 6,
       "tags": [
         "广告"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cms54yn20008croehpg3b4qfx",
-      "title": "MCP 初创公司 Runlayer 起诉 Rippling 窃取其产品创意",
-      "title_en": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea",
-      "permalink": "https://aihot.virxact.com/items/cms54yn20008croehpg3b4qfx",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-28T20:45:12.000Z",
-      "discoveredAt": "2026-07-28T20:56:20.189Z",
-      "summary": "Runlayer 指控 HR 软件公司 Rippling 在近一年的产品试用中获取其 MCP 网关的源代码与路线图后，内部开发了\"几乎 1 比 1 复制\"的竞品。Runlayer 已聘请律所 Sullivan & Cromwell 提起诉讼，主张盗用商业秘密、不正当竞争及违约。Rippling 否认指控，称将推出基于自有知识产权的\"更优产品\"。",
-      "category": "industry",
-      "score": 65,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms54yn20008croehpg3b4qfx"
-      },
-      "sourceType": "网站",
-      "designCategory": "行业观察",
-      "relevanceScore": 6,
-      "editorialScore": 6,
-      "tags": [
-        "创意",
-        "mcp"
       ],
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     }
