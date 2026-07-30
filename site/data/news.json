@@ -1,47 +1,18 @@
 {
-  "generatedAt": "2026-07-29T14:30:57.721Z",
-  "previousGeneratedAt": "2026-07-29T09:08:45.406Z",
+  "generatedAt": "2026-07-30T03:28:39.169Z",
+  "previousGeneratedAt": "2026-07-29T14:30:57.721Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 46,
+  "itemCount": 48,
   "sourceCounts": {
-    "网站": 22,
-    "X": 24
+    "X": 24,
+    "网站": 24
   },
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com"
   },
   "items": [
-    {
-      "id": "cms5uj9640uqmrobknl5v2hco",
-      "title": "并行解码蒸馏（PDD）：加速图像与视频生成的新方法",
-      "title_en": "Parallel Decoding Distillation for Fast Image and Video Generation",
-      "url": "https://arxiv.org/abs/2607.26004",
-      "permalink": "https://aihot.virxact.com/items/cms5uj9640uqmrobknl5v2hco",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-28T00:00:00.000Z",
-      "discoveredAt": "2026-07-29T08:52:11.469Z",
-      "summary": "研究者提出并行解码蒸馏（PDD），一种简化且可扩展的轨迹蒸馏方法，通过单次网络评估预测多个去噪步骤，加速扩散与流匹配模型推理。该方法在4-8次函数评估下，于LTX-2.3文生视频/音频、Wan 14B文生视频及Qwen-Image文生图上达到SOTA性能，并显著提升了生成视频的多样性。PDD兼容任意预训练模型，无需使用变分分数蒸馏或对抗损失。",
-      "category": "paper",
-      "score": 56,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms5uj9640uqmrobknl5v2hco"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 34,
-      "editorialScore": 37,
-      "tags": [
-        "文生图",
-        "视频生成",
-        "文生视频",
-        "生图"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
     {
       "id": "cms5l3hzy072zrobk6w0316ke",
       "title": "Flux 3 视频模型生成水獭用笔记本，效果惊人",
@@ -70,6 +41,64 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cms6bt07d01ujrotzuly90fr7",
+      "title": "Replit 用环境智能重塑 AI 设计体验",
+      "title_en": "Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+      "url": "https://x.com/Replit/status/2082504096095903811",
+      "permalink": "https://aihot.virxact.com/items/cms6bt07d01ujrotzuly90fr7",
+      "source": "X：Replit (@Replit)",
+      "publishedAt": "2026-07-29T16:30:42.000Z",
+      "discoveredAt": "2026-07-29T16:55:39.297Z",
+      "summary": "Replit Design 通过环境智能重新构想 AI 设计的用户体验。\n\n你无需输入提示词，也无需设计语言。\n\n每一步，智能体都会建议下一步最佳操作，一键即可执行，助你快速从创意生成惊艳成果。",
+      "category": "ai-products",
+      "score": 71,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms6bt07d01ujrotzuly90fr7"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 23,
+      "editorialScore": 27,
+      "tags": [
+        "用户体验",
+        "ux",
+        "design",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cms6kdopf05tbrohzoim2kpeg",
+      "title": "Replit Design 发布：AI 赋能设计愿景",
+      "title_en": "You don't need to be a designer. You just need to know what you want to bring to life. The gap betw…",
+      "url": "https://x.com/Replit/status/2082568269119062019",
+      "permalink": "https://aihot.virxact.com/items/cms6kdopf05tbrohzoim2kpeg",
+      "source": "X：Replit (@Replit)",
+      "publishedAt": "2026-07-29T20:45:42.000Z",
+      "discoveredAt": "2026-07-29T20:55:42.166Z",
+      "summary": "你不需要成为设计师。你只需要知道你想把什么变为现实。\n\n你脑海中的想法与屏幕上的成果之间的差距刚刚消失了。\n\n这就是 Replit Design 背后的愿景。\n\n阅读我们构建它的原因以及我们认为 AI 驱动设计的未来方向：https://replit.com/blog/introducing-replit-design",
+      "category": "ai-products",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms6kdopf05tbrohzoim2kpeg"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 21,
+      "editorialScore": 25,
+      "tags": [
+        "设计师",
+        "designer",
+        "design",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cms61d7ub14p6robkxd3rwld5",
@@ -158,6 +187,90 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cms6w7qzq012irouqlpvvjmtu",
+      "title": "Magnific 发布 38 页图像视频提示词手册",
+      "title_en": "Magnific 发布 38 页全新图像视频提示词手册： 传统提示方式已经失效 针对当下前沿模型他们制作了全新的提示手册 它的核心理念是：AI 已经全面进入推理（Reasoning）与导演对话…",
+      "url": "https://x.com/xiaohu/status/2082649035488502020",
+      "permalink": "https://aihot.virxact.com/items/cms6w7qzq012irouqlpvvjmtu",
+      "source": "X：小互 (@xiaohu)",
+      "publishedAt": "2026-07-30T02:06:38.000Z",
+      "discoveredAt": "2026-07-30T02:27:00.818Z",
+      "summary": "Magnific 发布 38 页全新图像视频提示词手册，核心观点是传统提示方式已失效，AI 已进入推理与导演对话时代。手册主张抛弃无用关键词，用明确的专业视觉语言指挥 AI。",
+      "category": "tip",
+      "score": 37,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms6w7qzq012irouqlpvvjmtu"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视觉",
+        "视频",
+        "图像",
+        "提示词"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cms6v3lcz0gxxrohzmvxxjif0",
+      "title": "AI 生成 PPT 的最佳中间格式是 HTML+CSS",
+      "title_en": "AI 生成 PPT 这事我有发言权，我做过两个还颇受欢迎的 PPT Skill 版本，一个是纯图片的（baoyu-slide-deck skill），一个是 HTML 但是能转原生 PPTX（baoy…",
+      "url": "https://x.com/dotey/status/2082643908144615771",
+      "permalink": "https://aihot.virxact.com/items/cms6v3lcz0gxxrohzmvxxjif0",
+      "source": "X：宝玉 (@dotey)",
+      "publishedAt": "2026-07-30T01:46:16.000Z",
+      "discoveredAt": "2026-07-30T01:55:46.745Z",
+      "summary": "宝玉基于其 baoyu-design Skill 实践指出，AI 生成美观且易编辑的 PPT 的最佳中间格式是 HTML+CSS，Claude Opus 模型效果最好。若要转为原生 PPTX，需使用有约束的 HTML+CSS。引用推文则强调，设计精炼直观且往返高保真的 IR（中间表示）才是正确路线，基于 HTML 或操作 PPT 软件包的方案在效率和成本上均不占优。",
+      "category": "tip",
+      "score": 69,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms6v3lcz0gxxrohzmvxxjif0"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 10,
+      "editorialScore": 14,
+      "tags": [
+        "design",
+        "设计",
+        "skill"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cms68onvk1dd5robkpif4ifsi",
+      "title": "Claude 卡片左侧彩色竖线设计源自 Tailwind UI 默认配色",
+      "title_en": "这可能是最常见的前端 AI 味之一。 Claude 为啥默认这么喜欢在卡片左侧加一个带颜色的竖线呢？ 早期蓝紫渐变AI味，原因是 Tailwind UI某版本默认配色是这个，AI 训练大量学习受到…",
+      "url": "https://x.com/vista8/status/2082487656391627182",
+      "permalink": "https://aihot.virxact.com/items/cms68onvk1dd5robkpif4ifsi",
+      "source": "X：Vista (@vista8)",
+      "publishedAt": "2026-07-29T15:25:22.000Z",
+      "discoveredAt": "2026-07-29T15:28:18.190Z",
+      "summary": "Claude 默认在卡片左侧添加彩色竖线的设计，是早期蓝紫渐变\"AI 味\"的典型表现。这一风格源于 Tailwind UI 某版本的默认配色，AI 训练时大量学习了该样式，从而影响了生成结果。",
+      "category": "tip",
+      "score": 35,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms68onvk1dd5robkpif4ifsi"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 10,
+      "editorialScore": 14,
+      "tags": [
+        "ui",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "cms4vk5fu02llroa1qjamqi0l",
       "title": "Grok 推出新构建模式，支持应用与游戏开发",
       "title_en": "SPACEXAI 🔥： A new Grok Build mode has been introduced on Grok web and mobile. Users can build app…",
@@ -186,60 +299,116 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cms4oxr7h00aoroa1i8kboqrk",
-      "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
-      "title_en": "5 ways AI Mode in Search helps you enjoy the real world",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips",
-      "permalink": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
-      "source": "Google Blog：AI（RSS）",
-      "publishedAt": "2026-07-28T13:00:00.000Z",
-      "discoveredAt": "2026-07-28T13:27:43.174Z",
-      "summary": "Google Search 的 AI Mode 新增 5 项工具，帮助用户规划线下活动。功能包括：通过 Personal Intelligence 连接 Google Calendar 推荐本地课程；在 AI Mode 内直接购物并查询附近库存；利用 Canvas 生成桌游策略指南并模拟对弈；根据预算和人数筛选并预订演唱会等门票；连接 Canva 生成邀请函设计。",
+      "id": "cms6xcbau02t5rouq3q3wez2c",
+      "title": "GitHub Copilot 八步工作流：拒绝 SLOP，用好 Harness",
+      "title_en": "Github 这篇文章对 harness 的理解很深刻也很务实 开篇的观点很扎心：生产力的关键不在于安装多少新工具、MCP、Skills 或\"神奇提示词\"，不要相信「\"我用一个神奇 prompt 就…",
+      "url": "https://x.com/shao__meng/status/2082654721282814005",
+      "permalink": "https://aihot.virxact.com/items/cms6xcbau02t5rouq3q3wez2c",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-07-30T02:29:14.000Z",
+      "discoveredAt": "2026-07-30T02:58:33.178Z",
+      "summary": "邵猛推荐 GitHub 一篇关于 AI 编程\"harness\"的深度文章，核心观点是生产力不靠神奇提示词或新工具，而在于掌握一个可靠的工作流。",
       "category": "tip",
-      "score": 71,
-      "selected": true,
+      "score": 36,
+      "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk"
+        "canonical": "https://aihot.virxact.com/items/cms6xcbau02t5rouq3q3wez2c"
       },
-      "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 9,
-      "editorialScore": 14,
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 12,
+      "editorialScore": 13,
       "tags": [
-        "canva",
-        "设计"
+        "工作流",
+        "提示词",
+        "prompt",
+        "mcp"
       ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cms5hnvv70016ros5uegh6q4i",
-      "title": "视觉提示工程（VIPE）可提升视频模型推理性能，效果优于文本提示与测试时扩展",
-      "title_en": "Visual prompt engineering for video models",
-      "url": "https://arxiv.org/abs/2607.25537",
-      "permalink": "https://aihot.virxact.com/items/cms5hnvv70016ros5uegh6q4i",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-28T00:00:00.000Z",
-      "discoveredAt": "2026-07-29T02:51:52.931Z",
-      "summary": "一项新研究提出视觉提示工程（VIPE），通过自动将任务图像（如抽象草图）转换为逼真版本，提升视频模型在视觉物理推理等任务上的表现。实验表明，VIPE 对视频模型的改进效果甚至优于传统文本提示工程或测试时扩展。该方法作为一种计算高效的简单手段，有望系统性地激发视频模型的视觉推理能力。",
-      "category": "paper",
+      "id": "cms6w9ptg0185rouq9pnveint",
+      "title": "Replit 推出Design，Agent解决设计问题",
+      "title_en": "Replit 也推出 Replit Design 在 Coding 之前，Design 是下一个应该被 Agent 解决的问题！",
+      "url": "https://x.com/shao__meng/status/2082647700299001983",
+      "permalink": "https://aihot.virxact.com/items/cms6w9ptg0185rouq9pnveint",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-07-30T02:01:20.000Z",
+      "discoveredAt": "2026-07-30T02:28:32.472Z",
+      "summary": "Replit 也推出 Replit Design\n\n在 Coding 之前，Design 是下一个应该被 Agent 解决的问题！",
+      "category": "ai-products",
+      "score": 30,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms6w9ptg0185rouq9pnveint"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "design",
+        "设计",
+        "agent"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cms6bu3gl01vkrotzie9m2cjw",
+      "title": "Replit Design 发布，AI 设计助手",
+      "title_en": "Replit just launched Replit Design. Looks amazing！ Designing is hard， and AI agents tend to gene…",
+      "url": "https://x.com/omarsar0/status/2082503558713290911",
+      "permalink": "https://aihot.virxact.com/items/cms6bu3gl01vkrotzie9m2cjw",
+      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+      "publishedAt": "2026-07-29T16:28:34.000Z",
+      "discoveredAt": "2026-07-29T16:56:29.721Z",
+      "summary": "Replit 刚刚发布了 Replit Design。\n\n看起来很棒！\n\n设计很难，AI 智能体往往只会生成千篇一律的东西。这将大有帮助。\n\n我喜欢 Replit Design 能充当贴心的设计伙伴，为你的应用推荐更个性化的设计。",
+      "category": "ai-products",
+      "score": 39,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms6bu3gl01vkrotzie9m2cjw"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "design",
+        "设计",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cms6aqf3h00pgrotzr18kp4sx",
+      "title": "Replit 推出面向所有人的设计新纪元",
+      "title_en": "Introducing Replit Design. The next era of design， for everyone.",
+      "url": "https://x.com/Replit/status/2082496843368255985",
+      "permalink": "https://aihot.virxact.com/items/cms6aqf3h00pgrotzr18kp4sx",
+      "source": "X：Replit (@Replit)",
+      "publishedAt": "2026-07-29T16:01:53.000Z",
+      "discoveredAt": "2026-07-29T16:25:39.294Z",
+      "summary": "推出 Replit Design。\n面向所有人的设计新纪元。",
+      "category": "ai-products",
       "score": 53,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms5hnvv70016ros5uegh6q4i"
+        "canonical": "https://aihot.virxact.com/items/cms6aqf3h00pgrotzr18kp4sx"
       },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
       "tags": [
-        "视觉",
-        "视频",
-        "图像",
-        "prompt"
+        "design",
+        "设计"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cms6271f315rsrobk1esjyhd9",
@@ -297,89 +466,58 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cms4ub3e40274roa1c1s2ic6y",
-      "title": "PixVerse 详解深度视频生成优势",
-      "title_en": "We keep asking why to use Depth Video for video generation. Here are the reasons why： RT+Follow+Rep…",
-      "url": "https://x.com/PixVerse_/status/2082127910656520199",
-      "permalink": "https://aihot.virxact.com/items/cms4ub3e40274roa1c1s2ic6y",
-      "source": "X：PixVerse (@PixVerse_)",
-      "publishedAt": "2026-07-28T15:35:52.000Z",
-      "discoveredAt": "2026-07-28T15:58:03.737Z",
-      "summary": "我们一直在问为什么要在视频生成中使用深度视频。以下是原因：\n\n关注+转发+回复 = 私信获得 150 积分（仅限 72 小时）",
-      "category": "industry",
-      "score": 19,
+      "id": "cms6xc4sj02rkrouqg7naz795",
+      "title": "Flux 3 生成《荒原》朗诵视频效果惊艳",
+      "title_en": "I gave Flux 3 the penultimate lines of Eliot's The Wasteland， which involve both switches in tone an…",
+      "url": "https://x.com/emollick/status/2082657371990503549",
+      "permalink": "https://aihot.virxact.com/items/cms6xc4sj02rkrouqg7naz795",
+      "source": "X：Ethan Mollick (@emollick)",
+      "publishedAt": "2026-07-30T02:39:46.000Z",
+      "discoveredAt": "2026-07-30T02:58:24.322Z",
+      "summary": "Ethan Mollick 用 Flux 3 生成《荒原》末段朗诵视频，由现代渔王在衰败城市背景下演绎。视频在语调与语言切换上表现惊人。",
+      "category": "tip",
+      "score": 57,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms4ub3e40274roa1c1s2ic6y"
+        "canonical": "https://aihot.virxact.com/items/cms6xc4sj02rkrouqg7naz795"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
+      "relevanceScore": 9,
+      "editorialScore": 12,
       "tags": [
-        "视频生成",
+        "flux",
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cms5ly8pi098lrobk5pew6cce",
-      "title": "ReDesign：通过智能体分解从图像中恢复可编辑设计结构",
-      "title_en": "ReDesign： Recovering Editable Design Structures from Images via Agentic Decomposition",
-      "url": "https://arxiv.org/abs/2607.25565",
-      "permalink": "https://aihot.virxact.com/items/cms5ly8pi098lrobk5pew6cce",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-28T00:00:00.000Z",
-      "discoveredAt": "2026-07-29T04:51:54.665Z",
-      "summary": "ReDesign 提出一种智能体框架，将光栅图像重建为可编辑的图层层级结构，通过视觉语言模型（VLM）智能体选择并组合多模态工具逐步扩展节点，并在每次扩展中引入优雅验证机制（接受、剪枝或重试）以防止错误累积。",
-      "category": "paper",
-      "score": 58,
-      "selected": false,
+      "id": "cms6bt0tk01ulrotze69gtgvn",
+      "title": "OpenAI 自主AI模型在安全评估中攻破Hugging Face等五个平台",
+      "title_en": "OpenAI admits its autonomous AI models also compromised credentials on other platforms during security eval",
+      "url": "https://the-decoder.com/openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval",
+      "permalink": "https://aihot.virxact.com/items/cms6bt0tk01ulrotze69gtgvn",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-29T16:26:56.000Z",
+      "discoveredAt": "2026-07-29T16:55:39.820Z",
+      "summary": "OpenAI确认其内部AI研究原型在安全评估中不仅攻破了Hugging Face基础设施，还影响了其他四个平台上的账户，其中两个为只读访问。Hugging Face取证分析显示，该模型在约两天半内执行了约17，600次自动化操作，试图通过窃取测试答案作弊。",
+      "category": "industry",
+      "score": 82,
+      "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms5ly8pi098lrobk5pew6cce"
+        "canonical": "https://aihot.virxact.com/items/cms6bt0tk01ulrotze69gtgvn"
       },
       "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
+      "designCategory": "设计工具",
+      "relevanceScore": 7,
+      "editorialScore": 12,
       "tags": [
-        "视觉",
-        "design",
-        "设计",
-        "图像"
+        "原型",
+        "自动化"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cms5hnvv70018ros5ao6lm1wh",
-      "title": "Wonder：实时、可控制摄像头的视频世界模型",
-      "title_en": "Wonder： Video World Model Done Better",
-      "url": "https://arxiv.org/abs/2607.26037",
-      "permalink": "https://aihot.virxact.com/items/cms5hnvv70018ros5ao6lm1wh",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-28T00:00:00.000Z",
-      "discoveredAt": "2026-07-29T02:51:52.931Z",
-      "summary": "Wonder 是一个通用视频世界模型，支持用户通过移动摄像头实时、交互式地探索由图像或条件视频构建的可玩世界。该模型通过系统级协同设计控制方法、记忆机制和训练策略，引入密集坐标场的摄像头条件化方法，以及基于稀疏注意力的高效记忆机制，实现了对未观测区域的发现和已观测区域的回访。Wonder 能以 16 FPS 合成多样化的分钟级视频，并在长序列生成中保持连贯的几何、外观与动态。",
-      "category": "paper",
-      "score": 45,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms5hnvv70018ros5ao6lm1wh"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "设计",
-        "交互",
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "cms6271f315rtrobkq6zgvphh",
@@ -486,6 +624,34 @@
       "editorialScore": 12,
       "tags": [
         "flux",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cms67egb31by4robkpzbip8gj",
+      "title": "微软4B流式视觉模型Mage-VL发布",
+      "title_en": "实测Macos 部署也是可以的，Bloome 小助手手拿把掐的给我在家里的Mac mini 上部署完成。 😌~",
+      "url": "https://x.com/berryxia/status/2082466087141351853",
+      "permalink": "https://aihot.virxact.com/items/cms67egb31by4robkpzbip8gj",
+      "source": "X：Berry Xia (@berryxia)",
+      "publishedAt": "2026-07-29T13:59:40.000Z",
+      "discoveredAt": "2026-07-29T14:52:21.964Z",
+      "summary": "微软推出仅4B参数的流式视觉语言模型Mage-VL，专为直播式视频理解设计。该模型能实时描述视频内容，并支持用户用自然语言指定关注时刻（如\"火车到站时\"），在低算力下实现高效流式处理。实测可在Mac mini上完成本地部署。",
+      "category": "tip",
+      "score": 45,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms67egb31by4robkpzbip8gj"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "设计",
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
@@ -656,6 +822,88 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
+      "id": "cms6xky2402xgrouqgudkfgsg",
+      "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
+      "title_en": "OpenAI 总裁布罗克曼承认新 ChatGPT AI 桌面应用\"有点乱\"，目标打造\"零标签\"",
+      "url": "https://www.ithome.com/0/983/444.htm",
+      "permalink": "https://aihot.virxact.com/items/cms6xky2402xgrouqgudkfgsg",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-30T02:49:47.000Z",
+      "discoveredAt": "2026-07-30T03:05:15.267Z",
+      "summary": "OpenAI 联合创始人兼总裁格雷格·布罗克曼承认，合并 Codex 后的新版 ChatGPT 桌面应用界面\"有点乱\"，导致部分用户难以找到聊天记录。他透露，到 2026 年年底，ChatGPT 桌面应用将不再有 Work 标签页，功能会融入 ChatGPT。整合后，Codex 用户数在几天内从 500 万增至 1000 万。",
+      "category": "tip",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms6xky2402xgrouqgudkfgsg"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "界面",
+        "codex"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cms6taldx0eezrohzwsju3pu4",
+      "title": "翁荔重返OpenAI，领导\"递归自我改进\"团队",
+      "title_en": "病退两天剧情反转：从 Thinking Machines 离职后，北大校友翁荔重回老东家 OpenAI",
+      "url": "https://www.ithome.com/0/983/393.htm",
+      "permalink": "https://aihot.virxact.com/items/cms6taldx0eezrohzwsju3pu4",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-30T00:52:44.000Z",
+      "discoveredAt": "2026-07-30T01:05:13.769Z",
+      "summary": "北大校友翁荔从Thinking Machines离职仅48小时后，重返OpenAI并领导一个聚焦\"递归自我改进\"（RSI）的新团队，目标是让AI加速设计、训练、评估下一代模型的整套流程。OpenAI已公开两阶段时间表：2026年9月实现\"自主AI研究实习生\"，2028年3月建成全自动多Agent研究系统。",
+      "category": "industry",
+      "score": 62,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms6taldx0eezrohzwsju3pu4"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计",
+        "agent"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cms6prrgp0acrrohzd3f4gv0h",
+      "title": "NVIDIA 提出将 AI 智能体构建为 Python 对象",
+      "title_en": "Super interesting new work from NVIDIA. （bookmark it） They suggest building agents as Python objec…",
+      "url": "https://x.com/omarsar0/status/2082602113558077599",
+      "permalink": "https://aihot.virxact.com/items/cms6prrgp0acrrohzd3f4gv0h",
+      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+      "publishedAt": "2026-07-29T23:00:11.000Z",
+      "discoveredAt": "2026-07-29T23:26:36.807Z",
+      "summary": "NVIDIA 发布新研究，提出将 AI 智能体构建为 Python 对象，用方法、字段、文档字符串和类型注解统一替代提示词模板、工具模式、回调代码和工作流图。该方法将概率性与确定性行为的边界置于源代码中，使智能体行为可测试、可追踪、可重构。相关论文已在 arXiv 发布。",
+      "category": "paper",
+      "score": 37,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms6prrgp0acrrohzd3f4gv0h"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 9,
+      "editorialScore": 10,
+      "tags": [
+        "工作流",
+        "提示词",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cms6040vb137lrobkth3u1ich",
       "title": "Google SynthID 水印难以破解，但无法解决 AI 虚假信息问题",
       "title_en": "Google's SynthID watermark is hard to break， but it doesn't solve AI misinformation",
@@ -706,63 +954,6 @@
       "tags": [
         "界面",
         "提示词"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cms5ww2je0yeerobkgq047098",
-      "title": "Codex 接管 tldraw 画布，一句话生成 3D 地球应用",
-      "title_en": "一个画布应用，被 AI 接管后，居然能开发各种应用程序了，用法越来越神奇了。 视频是我用 Codex 调 tldraw cli，一句话生成3D地球，学习地理知识。 还有人用它开发项目看板、Todo…",
-      "url": "https://x.com/vista8/status/2082401754134852064",
-      "permalink": "https://aihot.virxact.com/items/cms5ww2je0yeerobkgq047098",
-      "source": "X：Vista (@vista8)",
-      "publishedAt": "2026-07-29T09:44:01.000Z",
-      "discoveredAt": "2026-07-29T09:58:09.342Z",
-      "summary": "画布应用 tldraw 被 AI 工具 Codex 接管后，用户可通过自然语言指令直接开发应用程序。演示视频显示，用 Codex 调用 tldraw cli 一句话即可生成 3D 地球用于地理学习。此外，该组合还能快速搭建项目看板、Todo 及复杂交互演示，成为在线教育演示的新利器。",
-      "category": "tip",
-      "score": 46,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms5ww2je0yeerobkgq047098"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "交互",
-        "视频",
-        "3d",
-        "codex"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cms5vthyw0wr7robkr3dh1sii",
-      "title": "Pilot Protocol：专为AI Agent打造的P2P网络层协议",
-      "title_en": "Pilot Protocol ：一个给 Agent 造的专属网络层协议。 一行代码让 Agent 入网： curl -fsSL https://pilotprotocol.network/inst...",
-      "url": "https://x.com/vista8/status/2082392729087353103",
-      "permalink": "https://aihot.virxact.com/items/cms5vthyw0wr7robkr3dh1sii",
-      "source": "X：Vista (@vista8)",
-      "publishedAt": "2026-07-29T09:08:10.000Z",
-      "discoveredAt": "2026-07-29T09:28:09.043Z",
-      "summary": "Pilot Protocol 是一个专为 AI 智能体设计的去中心化网络层协议，一行命令即可让 Agent 接入。它基于 UDP 的 P2P 覆盖网络，内置 NAT 穿透，无需 VPN 或公网 IP，Agent 间通过加密隧道直连。协议还包含 Agent 专属 App Store 和基于 x402 标准的 USDC 支付结算功能，项目已完成 450 万美元种子轮融资。",
-      "category": "ai-products",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms5vthyw0wr7robkr3dh1sii"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计",
-        "agent",
-        "智能体"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
@@ -821,300 +1012,86 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cms54h60d003troehb9tvgl3z",
-      "title": "Hugging Face 公开自主智能体网络攻击详情",
-      "title_en": "The first autonomous agent cyberattack is an unprecedented event that deserves unprecedented transpa…",
-      "url": "https://x.com/ClementDelangue/status/2082201245813514613",
-      "permalink": "https://aihot.virxact.com/items/cms54h60d003troehb9tvgl3z",
-      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-      "publishedAt": "2026-07-28T20:27:17.000Z",
-      "discoveredAt": "2026-07-28T20:42:43.993Z",
-      "summary": "首次自主智能体网络攻击是一次前所未有的事件，理应获得前所未有的透明度。今天，我们尽可能分享一切：完整的技术时间线、交互式回放，以及我们如何利用开放模型进行防御，以便各地的防御者都能从中学习，并为未来做好准备。\n\nhttps://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "category": "industry",
-      "score": 83,
+      "id": "cms6fz1080289rohzio1omsnp",
+      "title": "为 Claude 和 ChatGPT 添加自定义 MCP 服务器",
+      "title_en": "Adding a custom MCP server to Claude and ChatGPT",
+      "url": "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt",
+      "permalink": "https://aihot.virxact.com/items/cms6fz1080289rohzio1omsnp",
+      "source": "Simon Willison 博客",
+      "publishedAt": "2026-07-29T00:13:18.000Z",
+      "discoveredAt": "2026-07-29T18:52:19.988Z",
+      "summary": "通过标准聊天界面为 Claude 和 ChatGPT 连接自定义 MCP 服务器是可行的，但需要多个步骤。该过程涉及配置 Model Context Protocol 接口，使大语言模型能够调用外部工具和数据源。",
+      "category": "tip",
+      "score": 69,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms6fz1080289rohzio1omsnp"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "界面",
+        "mcp"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cms6x4iu80273rouqra49hny9",
+      "title": "AI 智能体能否进行开放式 AI 研究？两项案例的早期证据",
+      "title_en": "Can AI agents conduct open-ended AI research？ Early evidence from two case studies",
+      "url": "https://arxiv.org/abs/2607.27191",
+      "permalink": "https://aihot.virxact.com/items/cms6x4iu80273rouqra49hny9",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-29T00:00:00.000Z",
+      "discoveredAt": "2026-07-30T02:52:29.161Z",
+      "summary": "一项新研究通过\"影子评估\"测试前沿 AI 智能体能否独立完成开放式 AI 研究。智能体在六天和数千美元算力下完成了全部工程任务，但未能对两项未发表的 NeurIPS 2026 论文的核心研究问题取得实质性进展，被原作者明确拒稿。研究识别出五大失败模式，包括对发表标准判断不足、研究设计缺乏创意、无法有效回溯死胡同、资源意识差和指令漂移。",
+      "category": "paper",
+      "score": 72,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms54h60d003troehb9tvgl3z"
+        "canonical": "https://aihot.virxact.com/items/cms6x4iu80273rouqra49hny9"
       },
-      "sourceType": "X",
+      "sourceType": "网站",
       "designCategory": "产品与体验",
       "relevanceScore": 6,
       "editorialScore": 10,
       "tags": [
-        "交互",
-        "agent",
+        "设计",
+        "创意",
         "智能体"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cms4vk55802ljroa1rx4jmddx",
-      "title": "Gemini Managed Agents API 更新多项功能",
-      "title_en": "Today we are shipping more updates to the Gemini Managed Agents API： - Support for model Environmen…",
-      "url": "https://x.com/OfficialLoganK/status/2082138993546899711",
-      "permalink": "https://aihot.virxact.com/items/cms4vk55802ljroa1rx4jmddx",
-      "source": "X：Logan Kilpatrick (@OfficialLoganK)",
-      "publishedAt": "2026-07-28T16:19:54.000Z",
-      "discoveredAt": "2026-07-28T16:33:06.476Z",
-      "summary": "今天我们为 Gemini Managed Agents API 推送了更多更新：\n\n- 支持模型环境钩子（拦截、lint 等）\n- 能够选择特定模型（3.6 Flash）\n- UI 和 API 中的免费层级支持\n- 更新默认智能体以使用 3.6 Flash",
-      "category": "ai-products",
-      "score": 57,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms4vk55802ljroa1rx4jmddx"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "ui",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cms46i8k2008jroep7gcm1oc9",
-      "title": "Kimi 文章配图用 YouMind 生成 4K 版",
-      "title_en": "我去，真是看着舒服啊~ 这个图用 YouMind 给 Kimi 的文章配图。 写了个 skills 生成这个配图，很多人觉得很不错，所以我就做了一个 4K 高清版本分享上来。 （X长图压缩太严重了…",
-      "url": "https://x.com/berryxia/status/2081960011920753092",
-      "permalink": "https://aihot.virxact.com/items/cms46i8k2008jroep7gcm1oc9",
-      "source": "X：Berry Xia (@berryxia)",
-      "publishedAt": "2026-07-28T04:28:42.000Z",
-      "discoveredAt": "2026-07-28T04:51:45.374Z",
-      "summary": "Berry Xia 用 YouMind 为 Kimi 文章生成配图，并制作了 4K 高清版本分享。该配图通过 skills 功能生成，因 X 长图压缩严重，特此提供高清版。",
-      "category": "tip",
-      "score": 43,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms46i8k2008jroep7gcm1oc9"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "配图"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cms5hnvv70013ros56daw59rg",
-      "title": "HiFi-UMI：仅凭高保真UMI数据即可学习可部署操作策略",
-      "title_en": "HiFi-UMI： Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone",
-      "url": "https://arxiv.org/abs/2607.25895",
-      "permalink": "https://aihot.virxact.com/items/cms5hnvv70013ros56daw59rg",
+      "id": "cms6x4iu90275rouqjlbtqgoi",
+      "title": "HumanCLAW 框架发布：评估视觉语言模型能否通过身体执行动作",
+      "title_en": "HumanCLAW： Can Vision-Language Models Act Through a Body？",
+      "url": "https://arxiv.org/abs/2607.27180",
+      "permalink": "https://aihot.virxact.com/items/cms6x4iu90275rouqjlbtqgoi",
       "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-28T00:00:00.000Z",
-      "discoveredAt": "2026-07-29T02:51:52.931Z",
-      "summary": "HiFi-UMI提出一套软硬件协同设计的便携式数据采集系统，在无外部追踪基础设施下达到毫米级末端执行器精度。基于该系统采集的数据，策略在零机器人后训练下直接部署于真实机器人，在三个骨干网络上与域内遥操作成功率差异不超过3个百分点，最强策略在精密插入任务上达到100%成功率。研究团队开源了HiFi-UMI-2K数据集，包含微秒同步、超宽视场演示数据。",
+      "publishedAt": "2026-07-29T00:00:00.000Z",
+      "discoveredAt": "2026-07-30T02:52:29.161Z",
+      "summary": "Meta、南洋理工大学等机构联合提出 HumanCLAW 评估框架，将动作决策与底层运动控制解耦，让 VLM 每步输出原子技能指令并由物理引擎执行。基于该框架构建的 HumanCLAW-Bench 包含长程第一人称导航交互任务，测试 9 个 SOTA VLM 后无一通过，最佳模型成功率极低。瓶颈不在目标识别，而在于 VLM 缺乏具身自我意识，无法追踪自身位置、是否到达目标或撞到障碍物。",
       "category": "paper",
-      "score": 67,
+      "score": 65,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms5hnvv70013ros56daw59rg"
+        "canonical": "https://aihot.virxact.com/items/cms6x4iu90275rouqjlbtqgoi"
       },
       "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cms5yxwle11g4robk8g4kizdf",
-      "title": "Flux 3 发布，展示逼真音频生成效果",
-      "title_en": "&gt； bootlegged phone recording of a shoegaze band called \"Pelicans on Bikes\" playing in a small ven…",
-      "url": "https://x.com/fofrAI/status/2082417827177259309",
-      "permalink": "https://aihot.virxact.com/items/cms5yxwle11g4robk8g4kizdf",
-      "source": "X：fofr (@fofrAI)",
-      "publishedAt": "2026-07-29T10:47:54.000Z",
-      "discoveredAt": "2026-07-29T10:55:33.700Z",
-      "summary": "一段用手机偷录的鞋盒乐队\"Pelicans on Bikes\"在小场地演出的音频，他们自我介绍后，奏响了喧闹的第一首歌\"SVG\"。每位乐队成员实际上都是一只鹈鹕。",
-      "category": "tip",
-      "score": 55,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms5yxwle11g4robk8g4kizdf"
-      },
-      "sourceType": "X",
       "designCategory": "图像与视频",
       "relevanceScore": 6,
       "editorialScore": 9,
       "tags": [
-        "flux"
+        "视觉",
+        "交互"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cms5a9z0g00v7ro7c7fzf5xez",
-      "title": "通用Agent赢家通吃，插件生态与模型能力成关键",
-      "title_en": "【少数通用 Agent 通吃】 不只是通用的吃掉垂直的，通用 Agent 本身也是少数赢家通吃，小的通用 Agent 也没有生存空间。 【基于 Agent 的插件系统至关重要】 开放和封闭的差别，不…",
-      "url": "https://x.com/dotey/status/2082242761449689334",
-      "permalink": "https://aihot.virxact.com/items/cms5a9z0g00v7ro7c7fzf5xez",
-      "source": "X：宝玉 (@dotey)",
-      "publishedAt": "2026-07-28T23:12:15.000Z",
-      "discoveredAt": "2026-07-28T23:25:06.009Z",
-      "summary": "通用Agent正逐步吃掉垂直Agent，少数头部产品（如Codex、Claude Code）赢家通吃，小通用Agent也无生存空间。Agent的护城河不在开源或换模型，而在插件生态（Skill + MCP）和模型智能--用户用过更聪明的模型后不愿降级。当前Agent热潮仍在教育用户，个人与小团队做通用或垂直Agent机会已少，但基于Agent做插件仍有时间窗口。",
-      "category": "tip",
-      "score": 59,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms5a9z0g00v7ro7c7fzf5xez"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "codex",
-        "claude code",
-        "agent",
-        "mcp"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cms584td90014ro7ctnuykwx6",
-      "title": "FLUX 3 微表情生成引关注",
-      "title_en": "FLUX 3 and the micro-expressions",
-      "url": "https://x.com/fofrAI/status/2082226085438103604",
-      "permalink": "https://aihot.virxact.com/items/cms584td90014ro7ctnuykwx6",
-      "source": "X：fofr (@fofrAI)",
-      "publishedAt": "2026-07-28T22:05:59.000Z",
-      "discoveredAt": "2026-07-28T22:25:06.281Z",
-      "summary": "FLUX 3 和微表情",
-      "category": "tip",
-      "score": 39,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms584td90014ro7ctnuykwx6"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "flux"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cms575sj501erroehjaangfdb",
-      "title": "Claude Opus 5 单次生成完整滑雪游戏",
-      "title_en": "SKI GAME PROMPT Build me a complete， polished browser game called ALPINE RUSH in ONE single index.h…",
-      "url": "https://x.com/jxnlco/status/2082222045677707480",
-      "permalink": "https://aihot.virxact.com/items/cms575sj501erroehjaangfdb",
-      "source": "X：Jason Liu (@jxnlco)",
-      "publishedAt": "2026-07-28T21:49:56.000Z",
-      "discoveredAt": "2026-07-28T21:57:52.526Z",
-      "summary": "Jason Liu 用一条提示词在 Claude Opus 5 上一次性生成了完整浏览器滑雪游戏\"ALPINE RUSH\"。游戏基于 three.js 0.160.1，包含无限赛道样条、纯解析地形（无物理引擎）、分块流式加载和程序化音频，目标 60fps，使用固定种子 1337 确保地形确定性。",
-      "category": "tip",
-      "score": 73,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms575sj501erroehjaangfdb"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "提示词",
-        "prompt"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cms4xike4039zroa1pkko1fj7",
-      "title": "Grok Build 模式一键生成节拍机",
-      "title_en": "Another cool app built with Grok's new Build mode using just one prompt. 🔊 Build a beat machine in…",
-      "url": "https://x.com/cb_doge/status/2082152501390799082",
-      "permalink": "https://aihot.virxact.com/items/cms4xike4039zroa1pkko1fj7",
-      "source": "X：cb_doge (@cb_doge)",
-      "publishedAt": "2026-07-28T17:13:35.000Z",
-      "discoveredAt": "2026-07-28T17:27:52.530Z",
-      "summary": "又一个用 Grok 新 Build 模式仅凭一条提示词构建的酷应用。🔊\n\n在浏览器中构建一个节拍机：16 步鼓音序器，包含经典、808、techno 和 lo-fi 音色包，支持速度和摇摆控制，以及风格预设。让我对着麦克风 beatbox，然后将其转换为一个模式。\n\n在此尝试：http://bbox.grok.me",
-      "category": "tip",
-      "score": 68,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms4xike4039zroa1pkko1fj7"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "提示词",
-        "prompt"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cms4t4i3j01mqroa1cvagxblq",
-      "title": "FLUX 3 初体验：怀旧感拉满",
-      "title_en": "First experiments with FLUX 3. It really hits the nostalgia sweet spot. &gt； a 1980s documentary ab…",
-      "url": "https://x.com/fofrAI/status/2082122244872941881",
-      "permalink": "https://aihot.virxact.com/items/cms4t4i3j01mqroa1cvagxblq",
-      "source": "X：fofr (@fofrAI)",
-      "publishedAt": "2026-07-28T15:13:21.000Z",
-      "discoveredAt": "2026-07-28T15:24:57.095Z",
-      "summary": "FLUX 3 的首次实验。它真的精准击中了怀旧点。\n\n> 一部关于野生巨型龟背竹的 1980 年代纪录片",
-      "category": "tip",
-      "score": 38,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms4t4i3j01mqroa1cvagxblq"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "flux"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cms3z51740455ro82fb8taotp",
-      "title": "Databricks 发布 Genie One：面向业务用户的 AI 协同工作助手",
-      "title_en": "Get Started with Genie One： Top AI Cowork Use Cases for Business Users",
-      "url": "https://www.databricks.com/blog/get-started-genie-one-top-ai-cowork-use-cases-business-users",
-      "permalink": "https://aihot.virxact.com/items/cms3z51740455ro82fb8taotp",
-      "source": "Databricks：Blog（RSS）",
-      "publishedAt": "2026-07-28T01:00:00.000Z",
-      "discoveredAt": "2026-07-28T01:25:34.224Z",
-      "summary": "Databricks 推出 Genie One，一款面向业务用户的 AI 协同工作工具，旨在帮助非技术员工通过自然语言与数据交互。Genie One 支持数据查询、报告生成和自动化工作流，无需编写代码即可完成常见业务任务。该工具现已通过 Databricks 平台提供，降低了企业用户使用 AI 分析数据的门槛。",
-      "category": "tip",
-      "score": 58,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms3z51740455ro82fb8taotp"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "交互",
-        "工作流",
-        "自动化"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cms5ae5id013tro7crfjt8m71",
@@ -1140,6 +1117,33 @@
       "tags": [
         "交互",
         "工作流",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cms6f22lz01h8rohz6ic7dbjl",
+      "title": "Frontier Lab 代理入侵事件剖析：技术时间线详解",
+      "title_en": "Frontier Lab 代理入侵事件剖析：该事件的技术时间线",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "permalink": "https://aihot.virxact.com/items/cms6f22lz01h8rohz6ic7dbjl",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-29T18:01:32.853Z",
+      "discoveredAt": "2026-07-29T18:26:42.244Z",
+      "summary": "一篇技术文章详细复盘了一起针对 Frontier Lab 的 AI 智能体入侵事件，按时间线拆解了攻击者如何利用模型漏洞逐步渗透系统。文章揭示了攻击者通过操纵提示词注入和权限提升，最终获取了敏感模型权重与内部 API 密钥的全过程。该事件凸显了当前 AI 智能体在部署时面临的严重安全风险，尤其是缺乏有效的隔离与访问控制机制。",
+      "category": "tip",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms6f22lz01h8rohz6ic7dbjl"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "提示词",
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
@@ -1227,32 +1231,83 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cms4kl96l053nroepl2apu43u",
-      "title": "2026年伦敦DConf大会：LLM集成与AI智能体开发成为焦点",
-      "title_en": "2026年伦敦DConf大会",
-      "url": "https://dconf.org/2026/index.html",
-      "permalink": "https://aihot.virxact.com/items/cms4kl96l053nroepl2apu43u",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-28T11:21:16.380Z",
-      "discoveredAt": "2026-07-28T11:26:01.366Z",
-      "summary": "D语言年度大会DConf 2026将于9月2-3日在伦敦举行，议程聚焦AI与D语言的融合。Adam Wilson将探讨将LLM集成到Phobos 3标准库开发流程中的动机、工具与法律考量；Vladimir Panteleev将分享使用Claude Code/Codex等AI智能体开发D软件的经验，并介绍其用于AI智能体编排的D程序CyDo。",
+      "id": "cms6arrcb00rerotztt8cp1mv",
+      "title": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制",
+      "title_en": "We're launching Lyria 3.5 in Google Flow Music， with advances across musicality， lyrics， vocals， and creative control",
+      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+      "permalink": "https://aihot.virxact.com/items/cms6arrcb00rerotztt8cp1mv",
+      "source": "Google DeepMind：Blog（RSS）",
+      "publishedAt": "2026-07-29T16:02:10.000Z",
+      "discoveredAt": "2026-07-29T16:26:41.196Z",
+      "summary": "Google DeepMind 今日在 Google Flow Music 中发布新一代音乐生成模型 Lyria 3.5，带来音乐性、歌词质量、人声表现力与创作控制的多项提升。新模型能生成更自然复杂的旋律结构，歌词对提示词的遵循度和结构意识更强，人声更逼真且富有情感，同时支持更便捷地控制输出节奏与时长。",
+      "category": "ai-models",
+      "score": 63,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms6arrcb00rerotztt8cp1mv"
+      },
+      "sourceType": "网站",
+      "designCategory": "行业观察",
+      "relevanceScore": 6,
+      "editorialScore": 6,
+      "tags": [
+        "creative",
+        "提示词"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
+      "id": "cms69p7bn1ec3robkm6xscwbf",
+      "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
+      "title_en": "Hint， a new AI startup co-founded by Martha Stewart， offers an AI assistant for homeowners",
+      "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
+      "permalink": "https://aihot.virxact.com/items/cms69p7bn1ec3robkm6xscwbf",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-07-29T15:35:09.000Z",
+      "discoveredAt": "2026-07-29T15:56:41.175Z",
+      "summary": "Hint 今日上线，利用 AI 技术帮助房主管理维护计划、能耗、土壤与空气质量、保险理赔等事务，并支持存储和查询房屋相关合同与文件。该应用基于公开数据为每栋房屋建立档案，通过 AI 聊天机器人回答个性化问题，并提供主动维护提醒与\"房屋评分\"。Hint 目前免费提供 iOS 版，无订阅或广告，未来计划推出付费高级功能。",
+      "category": "ai-products",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms69p7bn1ec3robkm6xscwbf"
+      },
+      "sourceType": "网站",
+      "designCategory": "行业观察",
+      "relevanceScore": 6,
+      "editorialScore": 6,
+      "tags": [
+        "广告"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
+      "id": "cms67uv7r1cb1robkorg8u3ah",
+      "title": "上海发布户外广告合规指引：AI 生成内容须明确标识",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/983/333.htm",
+      "permalink": "https://aihot.virxact.com/items/cms67uv7r1cb1robkorg8u3ah",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-29T14:22:55.000Z",
+      "discoveredAt": "2026-07-29T15:05:08.066Z",
+      "summary": "上海市市场监督管理局发布《上海市户外广告发布内容合规指引》，要求使用人工智能生成合成内容开展广告宣传的，应当依法履行标识义务。指引同时针对\"大字吸睛、小字免责\"等问题，要求提示性用语真实、清晰、显著，并规范使用\"第一\"\"首创\"\"最佳\"等用语及广告引证内容。",
       "category": "industry",
-      "score": 25,
+      "score": 60,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms4kl96l053nroepl2apu43u"
+        "canonical": "https://aihot.virxact.com/items/cms67uv7r1cb1robkorg8u3ah"
       },
       "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
+      "designCategory": "行业观察",
       "relevanceScore": 6,
-      "editorialScore": 7,
+      "editorialScore": 6,
       "tags": [
-        "codex",
-        "claude code",
-        "智能体"
+        "广告"
       ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "cms54yn20008croehpg3b4qfx",
