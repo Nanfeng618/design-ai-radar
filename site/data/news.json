@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-02T08:36:44.232Z",
-  "previousGeneratedAt": "2026-08-02T03:52:56.326Z",
+  "generatedAt": "2026-08-02T13:54:31.899Z",
+  "previousGeneratedAt": "2026-08-02T08:36:44.232Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 47,
+  "itemCount": 48,
   "sourceCounts": {
     "X": 24,
-    "网站": 23
+    "网站": 24
   },
   "source": {
     "name": "AI HOT",
@@ -264,60 +264,6 @@
       "tags": [
         "图像生成",
         "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cms8hbg7q0dq7rot05gr9z0qa",
-      "title": "字节跳动推出 Seedance 2.5 视频生成模型：单次生成 30 秒、突破长叙事能力",
-      "title_en": "字节跳动推出 Seedance 2.5 视频 AI 模型：单次生成时长 30 秒、突破长叙事能力",
-      "url": "https://www.ithome.com/0/984/104.htm",
-      "permalink": "https://aihot.virxact.com/items/cms8hbg7q0dq7rot05gr9z0qa",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-31T04:43:43.000Z",
-      "discoveredAt": "2026-07-31T05:05:29.618Z",
-      "summary": "字节跳动今日推出 Seedance 2.5 视频生成模型，单次生成时长从 15 秒提升至 30 秒，并支持多轮延长，可在 30 秒内组织多个具备逻辑关联的镜头。",
-      "category": "ai-models",
-      "score": 61,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms8hbg7q0dq7rot05gr9z0qa"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "视频生成",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cms8g0aj00cakrot0ws6fdkzc",
-      "title": "MiniMax H3登顶视频编辑榜，将开源权重",
-      "title_en": "MiniMax H3 is #1 in Video Editing and ranks top 3 in both Text to Video and Image to Video on Artifi…",
-      "url": "https://x.com/ArtificialAnlys/status/2083042088338538594",
-      "permalink": "https://aihot.virxact.com/items/cms8g0aj00cakrot0ws6fdkzc",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "publishedAt": "2026-07-31T04:08:29.000Z",
-      "discoveredAt": "2026-07-31T04:28:50.892Z",
-      "summary": "MiniMax H3在Artificial Analysis视频编辑排行榜位列第一，文生视频第二、图生视频第三。该模型支持多模态输入，可生成5-15秒24fps带原生音频的片段，2K定价$7.80/分钟。MiniMax计划以社区许可开源权重，允许年收入低于$20M的组织商用，若发布将成为最强开源视频模型。",
-      "category": "ai-models",
-      "score": 69,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms8g0aj00cakrot0ws6fdkzc"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "文生视频",
-        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -901,33 +847,31 @@
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
-      "id": "cms8h37d60dovrot0jorqyp60",
-      "title": "用 Omnigent 构建策略管控的多智能体金融研究工作流",
-      "title_en": "Building a Policy-Governed Multi-Agent Financial Research Workflow with Omnigent",
-      "url": "https://www.marktechpost.com/2026/07/30/building-a-policy-governed-multi-agent-financial-research-workflow-with-omnigent",
-      "permalink": "https://aihot.virxact.com/items/cms8h37d60dovrot0jorqyp60",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-07-31T04:44:12.000Z",
-      "discoveredAt": "2026-07-31T04:59:05.497Z",
-      "summary": "本教程演示如何用 Omnigent 构建多智能体金融研究工作流：配置一个金融研究主管智能体，从外部 API 获取实时 USD 兑 EUR 汇率并生成客户摘要，再交由文本审核子智能体检查清晰度和长度。整个流程通过 YAML 定义，使用 Claude Agent SDK 执行，并应用限制工具调用次数和会话成本上限的治理策略，可在 Colab 中直接运行。",
+      "id": "cmsbkm0om0ih7rohvatmawgqh",
+      "title": "探索性建模：一种新的生成式建模训练范式",
+      "title_en": "探索性建模：基于K个最佳猜测进行训练",
+      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling",
+      "permalink": "https://aihot.virxact.com/items/cmsbkm0om0ih7rohvatmawgqh",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-02T08:40:57.761Z",
+      "discoveredAt": "2026-08-02T09:01:00.514Z",
+      "summary": "探索性建模（Explorative Modeling）作为生成式建模的第三种预训练轴，可端到端生成，并在图像、视频和语言任务上单调提升现有模型性能，增益随规模增长（数据7%→36%，参数13%→23%）。探索性模型（XMs）实现6.2倍样本效率、4.1倍FLOP效率和47%参数效率提升，作为端到端生成模型在控制任务上以最多256倍更少推理计算匹配扩散模型。",
       "category": "tip",
-      "score": 54,
+      "score": 61,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms8h37d60dovrot0jorqyp60"
+        "canonical": "https://aihot.virxact.com/items/cmsbkm0om0ih7rohvatmawgqh"
       },
       "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 11,
-      "editorialScore": 12,
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
       "tags": [
-        "工作流",
-        "workflow",
-        "agent",
-        "智能体"
+        "视频",
+        "图像"
       ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmsb7qy8407dgrohvafhxrodz",
@@ -999,6 +943,33 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms9r6akp0ntkro9ki2p0dqc5"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cms9eb97l0cnvro9kzszxcf0f",
+      "title": "MiniMax H3 上线 OpenArt，支持 2K 视频与原生音频",
+      "title_en": "Ring ring ring… your images are calling 🫨 They want motion. They want sound. They want H3. Now liv…",
+      "url": "https://x.com/MiniMax_AI/status/2083286328570265877",
+      "permalink": "https://aihot.virxact.com/items/cms9eb97l0cnvro9kzszxcf0f",
+      "source": "X：MiniMax (@MiniMax_AI)",
+      "publishedAt": "2026-07-31T20:19:00.000Z",
+      "discoveredAt": "2026-07-31T20:29:09.358Z",
+      "summary": "MiniMax H3 现已在 OpenArt 上线，支持 2K 分辨率视频与原生音频生成，可生成 5 至 15 秒片段。该模型支持文本、图像和音频生成视频，并支持起始帧、结束帧及参考图像。OpenArt 的 Wonder 用户可免费无限使用 H3 至 8 月 5 日，开源权重即将发布。",
+      "category": "ai-models",
+      "score": 68,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms9eb97l0cnvro9kzszxcf0f"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
@@ -1092,6 +1063,35 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmsbkm4qh0ij3rohvvzl9h7sh",
+      "title": "Claude Opus 5 将提示词生成游戏从粗糙色块推进到带物理和音乐的完整 3D 原型",
+      "title_en": "Claude Opus 5 pushes prompt-to-game AI from rough color blocks to full 3D prototypes with physics and music",
+      "url": "https://the-decoder.com/claude-opus-5-pushes-prompt-to-game-ai-from-rough-color-blocks-to-full-3d-prototypes-with-physics-and-music",
+      "permalink": "https://aihot.virxact.com/items/cmsbkm4qh0ij3rohvvzl9h7sh",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-08-02T08:51:07.000Z",
+      "discoveredAt": "2026-08-02T09:01:03.113Z",
+      "summary": "Anthropic 的 Claude Opus 5 仅凭单个文本提示词即可生成可运行的 3D 游戏世界，包括第一人称射击游戏和《我的世界》复刻版，无需任何外部文件或预制资源。模型从零编写几何、纹理、物理和音乐代码，并以可编辑的 HTML 文件直接在浏览器中渲染。社区测试显示，其物理真实感和机械复杂度显著超越去年的 Claude 4 Opus，也优于 GPT-5.6 Sol 和 Kimi K3。",
+      "category": "tip",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsbkm4qh0ij3rohvvzl9h7sh"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "原型",
+        "3d",
+        "提示词",
+        "prompt"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cms99z07h095aro9kx836l1eu",
       "title": "Google DeepMind 推出 Gemini Robotics 2，为各类机器人提供智能层",
       "title_en": "Google Deepmind unveils Gemini Robotics 2 to power robots of all shapes from tabletop arms to humanoids",
@@ -1171,6 +1171,33 @@
         "工作流",
         "agent",
         "skill"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmsbu9elg0qmyrohvb54kbkz0",
+      "title": "OpenAI Presence 旨在让 AI 智能体为企业生产环境做好准备",
+      "title_en": "OpenAI Presence wants to make AI agents production-ready for businesses",
+      "url": "https://the-decoder.com/openai-presence-wants-to-make-ai-agents-production-ready-for-businesses",
+      "permalink": "https://aihot.virxact.com/items/cmsbu9elg0qmyrohvb54kbkz0",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-08-02T13:10:21.000Z",
+      "discoveredAt": "2026-08-02T13:31:06.367Z",
+      "summary": "OpenAI 推出面向企业客户的新产品 Presence，目标是将 AI 智能体部署到客户服务和内部工作流等生产环境，超越其现有 Workspace Agents 主要面向内部用例的定位。",
+      "category": "ai-products",
+      "score": 42,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsbu9elg0qmyrohvb54kbkz0"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "工作流",
+        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
