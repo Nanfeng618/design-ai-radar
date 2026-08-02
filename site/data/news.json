@@ -1,76 +1,18 @@
 {
-  "generatedAt": "2026-08-01T13:55:00.611Z",
-  "previousGeneratedAt": "2026-08-01T08:34:10.277Z",
+  "generatedAt": "2026-08-02T03:52:56.326Z",
+  "previousGeneratedAt": "2026-08-01T13:55:00.611Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 49,
+  "itemCount": 46,
   "sourceCounts": {
-    "网站": 25,
-    "X": 24
+    "X": 24,
+    "网站": 22
   },
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com"
   },
   "items": [
-    {
-      "id": "cms8alj7t05nzrot031aqrcb8",
-      "title": "AI美学：从闪烁文字到小图标，AI设计语言如何渗透软件交互范式",
-      "title_en": "AI美学",
-      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic",
-      "permalink": "https://aihot.virxact.com/items/cms8alj7t05nzrot031aqrcb8",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-31T01:45:25.289Z",
-      "discoveredAt": "2026-07-31T01:57:24.317Z",
-      "summary": "每个时代都会催生独特的设计语言，AI时代也不例外。文章指出，AI界面催生了流式文本、闪烁文字（表示\"思考\"或异步任务）、小图标、米色奶油色搭配橙色点缀等美学特征，其中部分正从AI应用扩散至更广泛的软件交互设计。作者以Claude、Codex、Cursor等桌面AI应用与macOS原生应用对比，展示AI应用图标更小更细的现象，并探讨这些设计模式能否像汉堡菜单一样成为长期范式。",
-      "category": "tip",
-      "score": 49,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms8alj7t05nzrot031aqrcb8"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 21,
-      "editorialScore": 25,
-      "tags": [
-        "交互设计",
-        "设计",
-        "界面",
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cms87droz020crot087s6upwp",
-      "title": "Replit Design 推出数百设计模板",
-      "title_en": "Never start from a blank page again. Replit Design ships with hundreds of templates made by real de…",
-      "url": "https://x.com/Replit/status/2082979584799060267",
-      "permalink": "https://aihot.virxact.com/items/cms87droz020crot087s6upwp",
-      "source": "X：Replit (@Replit)",
-      "publishedAt": "2026-07-31T00:00:07.000Z",
-      "discoveredAt": "2026-07-31T00:27:23.225Z",
-      "summary": "再也不用从空白页开始了。\n\nReplit Design 内置了由真实设计师制作的数百个模板，涵盖手机界面、落地页到社交媒体帖子。\n\n可以拖入一个模板开始，或在项目中遇到瓶颈时随时添加一个。\n\n立即尝试：http://replit.com/design",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms87droz020crot087s6upwp"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 20,
-      "editorialScore": 24,
-      "tags": [
-        "设计师",
-        "design",
-        "设计",
-        "界面"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
     {
       "id": "cmsacw5ah01pxrob3q6k3xe2x",
       "title": "Grok Imagine 升级：语音一致与视频生成",
@@ -100,6 +42,34 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmsax03ee05j8romzlgxz63ha",
+      "title": "Flux 3 零重力视频生成效果惊艳",
+      "title_en": "Zero-G version &gt； an amateur handheld recording of a very fast zero-g movement through a zero-g s…",
+      "url": "https://x.com/fofrAI/status/2083670630570807451",
+      "permalink": "https://aihot.virxact.com/items/cmsax03ee05j8romzlgxz63ha",
+      "source": "X：fofr (@fofrAI)",
+      "publishedAt": "2026-08-01T21:46:05.000Z",
+      "discoveredAt": "2026-08-01T22:00:07.652Z",
+      "summary": "零重力版本\n\n> 一段业余手持拍摄的零重力空间站内高速移动画面，穿过一个又一个房间，永不停歇，每个房间都截然不同且怪异，持续移动，从不停止\n\n【引用 @fofrAI】：我喜欢 Flux 3 让这个画面变得如此奇异",
+      "category": "tip",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsax03ee05j8romzlgxz63ha"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 17,
+      "editorialScore": 20,
+      "tags": [
+        "视频生成",
+        "flux",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cms92ioz7022xro9k9kmww9ug",
       "title": "字节 Seedance 2.5 发布：30 秒一镜到底视频",
       "title_en": "damn，seedance 2.5这回真的要杀疯了！！！ 这个日本雨中街道的第一人称视频，我看了三遍才敢信是AI生成的🤯。。。 第一人称视角，撑着伞走在日本的雨里， 雨滴打在伞面上，积水里映着…",
@@ -123,34 +93,6 @@
       "tags": [
         "视频生成",
         "即梦",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cms7zxgc000m2rodg44rmvsol",
-      "title": "NVIDIA Cosmos3 蒸馏版登顶开源文生图/视频榜首",
-      "title_en": "NVIDIA's Cosmos3-Super-4Step distills are the new #1 open weights model for Image to Video and #3 fo…",
-      "url": "https://x.com/ArtificialAnlys/status/2082929595226165285",
-      "permalink": "https://aihot.virxact.com/items/cms7zxgc000m2rodg44rmvsol",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "publishedAt": "2026-07-30T20:41:29.000Z",
-      "discoveredAt": "2026-07-30T20:58:44.606Z",
-      "summary": "NVIDIA 发布 Cosmos3-Super-4Step 蒸馏模型，将推理步数从 50 步（文生图）和 35 步（图生视频）降至 4 步，并去除了无分类器引导。",
-      "category": "tip",
-      "score": 57,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms7zxgc000m2rodg44rmvsol"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 17,
-      "editorialScore": 20,
-      "tags": [
-        "文生图",
-        "生图",
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
@@ -212,64 +154,6 @@
         "智能体"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cms8214h1026wrodgu5hsvpnm",
-      "title": "Codex 图像生成新增灯箱与画布功能",
-      "title_en": "ImageGen in Codex just got a new lightbox and canvas. Now， it's even easier to explore and refine v…",
-      "url": "https://x.com/OpenAIDevs/status/2082944138635595782",
-      "permalink": "https://aihot.virxact.com/items/cms8214h1026wrodgu5hsvpnm",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "publishedAt": "2026-07-30T21:39:16.000Z",
-      "discoveredAt": "2026-07-30T21:57:34.927Z",
-      "summary": "Codex 中的 ImageGen 刚刚新增了灯箱和画布功能。\n\n现在，在工作流中探索和优化视觉内容变得更加容易。",
-      "category": "ai-products",
-      "score": 53,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms8214h1026wrodgu5hsvpnm"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 15,
-      "editorialScore": 18,
-      "tags": [
-        "图像生成",
-        "视觉",
-        "工作流",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cms7w9p0p000fro20pyggbkmb",
-      "title": "Google Earth 集成 Nano Banana 2 图像生成",
-      "title_en": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
-      "url": "https://x.com/GoogleAI/status/2082902334984609936",
-      "permalink": "https://aihot.virxact.com/items/cms7w9p0p000fro20pyggbkmb",
-      "source": "X：Google AI (@GoogleAI)",
-      "publishedAt": "2026-07-30T18:53:09.000Z",
-      "discoveredAt": "2026-07-30T19:16:16.061Z",
-      "summary": "Google Earth 网页版上线基于 Nano Banana 2 的图像生成功能，用户可通过文本提示词将卫星与 3D 影像结合，重新想象全球任意地点（如百年前的城市风貌或社区新球场）。该功能现已面向所有用户开放。",
-      "category": "ai-products",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms7w9p0p000fro20pyggbkmb"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 15,
-      "editorialScore": 18,
-      "tags": [
-        "图像生成",
-        "图像",
-        "3d",
-        "提示词"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmsaercbb03dzrob3swk88cvi",
@@ -438,31 +322,58 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cms88i5rr03corot02qs3nsj6",
-      "title": "Gemini Omni Flash 登顶视频编辑排行榜",
-      "title_en": "Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing Leaderboard， comple…",
-      "url": "https://x.com/ArtificialAnlys/status/2082991648703930561",
-      "permalink": "https://aihot.virxact.com/items/cms88i5rr03corot02qs3nsj6",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "publishedAt": "2026-07-31T00:48:03.000Z",
-      "discoveredAt": "2026-07-31T00:58:47.519Z",
-      "summary": "Google 的 Gemini Omni Flash 在 Artificial Analysis 视频编辑排行榜上位列第一，超越阿里 Wan 2.7 和 HappyHorse 1.0，并已占据文生视频和图生视频榜首。",
-      "category": "tip",
-      "score": 68,
+      "id": "cmsb2e8oy02ljrohv1tplzjq6",
+      "title": "Grok Imagine 图像生成功能发布",
+      "title_en": "Made with Grok Imagine",
+      "url": "https://x.com/elonmusk/status/2083709924236751300",
+      "permalink": "https://aihot.virxact.com/items/cmsb2e8oy02ljrohv1tplzjq6",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "publishedAt": "2026-08-02T00:22:14.000Z",
+      "discoveredAt": "2026-08-02T00:31:05.761Z",
+      "summary": "由 Grok Imagine 制作",
+      "category": "ai-products",
+      "score": 27,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms88i5rr03corot02qs3nsj6"
+        "canonical": "https://aihot.virxact.com/items/cmsb2e8oy02ljrohv1tplzjq6"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
+      "relevanceScore": 11,
+      "editorialScore": 14,
       "tags": [
-        "文生视频",
-        "视频"
+        "图像生成",
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsauuj1r03vhromz9radhtl6",
+      "title": "Replit 设计套件支持多款顶级模型",
+      "title_en": "Your design， your model. Create with your pick of the world's leading models， including Claude， GPT…",
+      "url": "https://x.com/Replit/status/2083658830458614104",
+      "permalink": "https://aihot.virxact.com/items/cmsauuj1r03vhromz9radhtl6",
+      "source": "X：Replit (@Replit)",
+      "publishedAt": "2026-08-01T20:59:12.000Z",
+      "discoveredAt": "2026-08-01T20:59:48.605Z",
+      "summary": "你的设计，你的模型。\n\n使用你从世界领先模型中选择的任意一款进行创作，包括 Claude、GPT-5、Gemini、Kimi 和 GLM。跨模型家族比较输出结果，保留最符合需求的那一个。\n\n一个套件，囊括所有顶级设计模型。\n\n立即在 http://replit.com/design 体验。",
+      "category": "ai-products",
+      "score": 62,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsauuj1r03vhromz9radhtl6"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 10,
+      "editorialScore": 14,
+      "tags": [
+        "design",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cms9q3paq0mviro9kv1s50ent",
@@ -770,6 +681,33 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmsb2e07t02gjrohvmoswiuvf",
+      "title": "Seedance 2.5 发布：单次生成 30 秒视频，支持多模态参考与精准编辑",
+      "title_en": "Seedance 2.5",
+      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "permalink": "https://aihot.virxact.com/items/cmsb2e07t02gjrohvmoswiuvf",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-02T00:09:26.634Z",
+      "discoveredAt": "2026-08-02T00:30:54.740Z",
+      "summary": "Seedance 2.5 正式上线，单次生成最长 30 秒高质量音视频片段，并支持多轮扩展以输出数分钟连贯内容。模型可一次输入最多 30 张图片、10 段视频和 10 段音频作为参考，并新增时间戳级编辑控制，提升长叙事、多模态参考与剪辑能力。即日起登陆即梦 AI、豆包 Pro 等平台，API 即将通过 BytePlus ModelArk 提供。",
+      "category": "ai-products",
+      "score": 77,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsb2e07t02gjrohvmoswiuvf"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 10,
+      "editorialScore": 13,
+      "tags": [
+        "即梦",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cms9o70fb0kywro9kvs9osu42",
       "title": "谷歌地球 AI 生图功能上线不到一天即下架，可无限制生成\"灾难\"图片",
       "title_en": "能无限制生成\"灾难\"图片，谷歌地球 AI 生图功能上线不到一天就下架",
@@ -852,34 +790,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cms7xqfk001lxro20rpr94ozp",
-      "title": "Replit Design 发布及设计大赛预告",
-      "title_en": "Replit Design is here， and tomorrow we're going behind the scenes with the team that built it. 🎨 @…",
-      "url": "https://x.com/Replit/status/2082912924902010981",
-      "permalink": "https://aihot.virxact.com/items/cms7xqfk001lxro20rpr94ozp",
-      "source": "X：Replit (@Replit)",
-      "publishedAt": "2026-07-30T19:35:14.000Z",
-      "discoveredAt": "2026-07-30T19:57:17.330Z",
-      "summary": "Replit 宣布推出 Replit Design 功能，并预告将于 7 月 31 日举办幕后设计分享直播。同时启动 Designathon 设计竞赛，提供超过 5 万美元的现金和积分奖励，鼓励社区创作最大胆、最具创意的设计。",
-      "category": "ai-products",
-      "score": 37,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms7xqfk001lxro20rpr94ozp"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "design",
-        "设计",
-        "创意"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmsaafjqj021projdbl4yxpmd",
       "title": "AI 无法生成可用的产品：从原型到生产级系统仍需工程判断力",
       "title_en": "人工智能无法生成可用的产品，这仍然是你的工作",
@@ -905,34 +815,6 @@
         "设计"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "cms9eics20crbro9kgoo68l7v",
-      "title": "Runway Characters 入选 SIGGRAPH 2026 Real-Time Live！ 现场演示",
-      "title_en": "Bringing Runway Characters to SIGGRAPH's Biggest Stage",
-      "url": "https://runwayml.com/news/company-news/runway-characters-siggraph-2026",
-      "permalink": "https://aihot.virxact.com/items/cms9eics20crbro9kgoo68l7v",
-      "source": "Runway：News（网页）",
-      "publishedAt": "2026-07-31T20:34:35.373Z",
-      "discoveredAt": "2026-07-31T20:34:35.373Z",
-      "summary": "Runway 的实时交互数字人系统 Characters 入选 SIGGRAPH 2026 的 Real-Time Live！ 环节，团队在现场用一张照片数秒内生成可对话的角色。该系统从单张图片出发，无需微调即可适配任意风格，逐帧生成画面以支持长达 30 分钟以上的连续对话。Characters 于今年 3 月上线，团队正探索可导航环境、多参考图像及记忆功能等后续方向。",
-      "category": "tip",
-      "score": 49,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms9eics20crbro9kgoo68l7v"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
-      "tags": [
-        "runway",
-        "交互",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cms9d9c310bzdro9kxrm5nwb6",
@@ -1020,6 +902,33 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
+      "id": "cmsb7qy8407dgrohvafhxrodz",
+      "title": "Karpathy 用 Opus 5 生成《指环王》3D 渲染",
+      "title_en": "We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a…",
+      "url": "https://x.com/karpathy/status/2083749667410727319",
+      "permalink": "https://aihot.virxact.com/items/cmsb7qy8407dgrohvafhxrodz",
+      "source": "X：Andrej Karpathy (@karpathy)",
+      "publishedAt": "2026-08-02T03:00:09.000Z",
+      "discoveredAt": "2026-08-02T03:00:56.528Z",
+      "summary": "Andrej Karpathy 给 Opus 5 提供《指环王》第一段和 1M token 预算（约 $10），模型耗时约 2 小时写出 5500 行代码，程序化渲染出故事场景。他认为这展示了从\"没人会做\"到\"几乎免费\"的转变，并指出 LLM 在视频感知和游戏内审计能力上仍有明显短板。",
+      "category": "tip",
+      "score": 70,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsb7qy8407dgrohvafhxrodz"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视频",
+        "3d"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmsa41lwy02rsro41jbsfykj5",
       "title": "MiniMax 发布 MiniMax H3：可生成 15 秒 2K 原生立体声视频的全模态模型",
       "title_en": "MiniMax Releases MiniMax H3： An Omni-Modal Video Model That Generates 15-Second 2K Clips With Native Stereo Audio",
@@ -1037,6 +946,60 @@
         "canonical": "https://aihot.virxact.com/items/cmsa41lwy02rsro41jbsfykj5"
       },
       "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cms9r6akp0ntkro9ki2p0dqc5",
+      "title": "MiniMax 发布开源权重视频模型 H3，登顶视频编辑榜",
+      "title_en": "For the first time， an open video model sits at the same table as the closed frontier. That was the …",
+      "url": "https://x.com/MiniMax_AI/status/2083373860796153869",
+      "permalink": "https://aihot.virxact.com/items/cms9r6akp0ntkro9ki2p0dqc5",
+      "source": "X：MiniMax (@MiniMax_AI)",
+      "publishedAt": "2026-08-01T02:06:50.000Z",
+      "discoveredAt": "2026-08-01T02:29:12.885Z",
+      "summary": "MiniMax 发布开源权重视频模型 H3，在 Artificial Analysis 视频编辑榜登顶，文本生视频排名第二、图像生视频排名第三。H3 支持文本、图像、视频、音频统一输入，原生生成 2K 24fps 5-15 秒带立体声片段，定价每分钟 2K 视频 $7.80，远低于 Seedance 2.0 的 $22.45 和 Kling 3.0 的 $20.16。",
+      "category": "ai-models",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms9r6akp0ntkro9ki2p0dqc5"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cms9eb97l0cnvro9kzszxcf0f",
+      "title": "MiniMax H3 上线 OpenArt，支持 2K 视频与原生音频",
+      "title_en": "Ring ring ring… your images are calling 🫨 They want motion. They want sound. They want H3. Now liv…",
+      "url": "https://x.com/MiniMax_AI/status/2083286328570265877",
+      "permalink": "https://aihot.virxact.com/items/cms9eb97l0cnvro9kzszxcf0f",
+      "source": "X：MiniMax (@MiniMax_AI)",
+      "publishedAt": "2026-07-31T20:19:00.000Z",
+      "discoveredAt": "2026-07-31T20:29:09.358Z",
+      "summary": "MiniMax H3 现已在 OpenArt 上线，支持 2K 分辨率视频与原生音频生成，可生成 5 至 15 秒片段。该模型支持文本、图像和音频生成视频，并支持起始帧、结束帧及参考图像。OpenArt 的 Wonder 用户可免费无限使用 H3 至 8 月 5 日，开源权重即将发布。",
+      "category": "ai-models",
+      "score": 68,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms9eb97l0cnvro9kzszxcf0f"
+      },
+      "sourceType": "X",
       "designCategory": "图像与视频",
       "relevanceScore": 8,
       "editorialScore": 11,
@@ -1073,62 +1036,6 @@
         "品牌"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cms8avxii05vprot0tb9p4ssi",
-      "title": "MiniMax H3 全模态生成模型正式发布：最高支持 15 秒 2K 分辨率，超分方案革新",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/983/957.htm",
-      "permalink": "https://aihot.virxact.com/items/cms8avxii05vprot0tb9p4ssi",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-31T02:00:53.000Z",
-      "discoveredAt": "2026-07-31T02:05:27.878Z",
-      "summary": "稀宇科技今日发布 MiniMax H3 全模态生成模型，支持对文本、图像、视频、声音组成的多模态上下文统一理解，可输出原生双声道音视频，最高支持 15s 2K 分辨率。",
-      "category": "ai-models",
-      "score": 64,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms8avxii05vprot0tb9p4ssi"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cms858kx801h7roeqdvfjn64a",
-      "title": "ASD-STE100 简化技术英语的强制文档生成代理技能",
-      "title_en": "ASD-STE100 中用于强制生成文档的代理技能（简化技术英语）",
-      "url": "https://github.com/AminBlg/SimpleEnglish",
-      "permalink": "https://aihot.virxact.com/items/cms858kx801h7roeqdvfjn64a",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-30T23:05:23.736Z",
-      "discoveredAt": "2026-07-30T23:27:22.273Z",
-      "summary": "一个开源项目在 GitHub 上发布了用于 ASD-STE100 简化技术英语的 Agent Skill，可强制文档生成遵循该标准。该技能通过提示词约束和规则检查，确保 AI 输出符合 STE100 的词汇、语法和句式规范。项目代码已开源，可直接集成到支持 Agent Skill 的文档工作流中。",
-      "category": "tip",
-      "score": 35,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms858kx801h7roeqdvfjn64a"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 10,
-      "editorialScore": 11,
-      "tags": [
-        "工作流",
-        "提示词",
-        "agent",
-        "skill"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cms90m6zu08jvro7vrzyeczac",
@@ -1293,6 +1200,34 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
+      "id": "cmsagv5iz054nrob3u2ws4gr2",
+      "title": "AI 编程智能体可现代化科研软件，但无法判断科学正确性",
+      "title_en": "AI coding agents can modernize research software but can't judge if the science is right",
+      "url": "https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right",
+      "permalink": "https://aihot.virxact.com/items/cmsagv5iz054nrob3u2ws4gr2",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-08-01T14:26:28.000Z",
+      "discoveredAt": "2026-08-01T14:28:21.906Z",
+      "summary": "OpenAI 与学术伙伴的实地报告显示，Codex、Claude Code 等编程智能体能将老化科研软件提速超 60 倍，如 RustQC 将运行时间从 15 小时 34 分降至 14 分 54 秒，HelixForge 比 BamSurgeon 快 59.6 倍。但智能体无法可靠判断结果是否科学正确，常自信地输出错误代码，需人类定义测试与验证标准。",
+      "category": "tip",
+      "score": 40,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsagv5iz054nrob3u2ws4gr2"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "codex",
+        "claude code",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cmsa79ekm02xirox0ytfuy2x7",
       "title": "Supabase 开源 Evals：用真实任务评测 Claude Code、Codex 和 OpenCode 的基准框架",
       "title_en": "Supabase Releases Evals： an Open Source Benchmark That Scores Claude Code， Codex and OpenCode on Real Supabase Tasks",
@@ -1344,33 +1279,6 @@
       "tags": [
         "codex",
         "claude code",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cms7wnvll00k9ro20m3ikfdy1",
-      "title": "研究人员给GPT 5.6 Sol智能体安排真实商业任务，它撒谎、发垃圾邮件并亏损447美元",
-      "title_en": "我们给GPT 5.6 Sol安排了一项真实的商业任务。它撒谎、发送垃圾信息，还亏损了447美元。",
-      "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
-      "permalink": "https://aihot.virxact.com/items/cms7wnvll00k9ro20m3ikfdy1",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-30T19:05:24.301Z",
-      "discoveredAt": "2026-07-30T19:27:18.857Z",
-      "summary": "研究人员给GPT 5.6 Sol驱动的智能体Saul配备Mac mini、银行账户和真实iOS应用，让其24小时内自主运营公司。Saul消耗3.207亿prompt tokens，起始余额350美元降至250.50美元，用户数从61增至66，新增收入为0。",
-      "category": "tip",
-      "score": 66,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms7wnvll00k9ro20m3ikfdy1"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "prompt",
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
