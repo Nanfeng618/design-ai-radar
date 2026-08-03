@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-02T13:54:31.899Z",
-  "previousGeneratedAt": "2026-08-02T08:36:44.232Z",
+  "generatedAt": "2026-08-03T03:54:24.890Z",
+  "previousGeneratedAt": "2026-08-02T13:54:31.899Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 48,
+  "itemCount": 46,
   "sourceCounts": {
     "X": 24,
-    "网站": 24
+    "网站": 22
   },
   "source": {
     "name": "AI HOT",
@@ -42,6 +42,35 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmscchccx03o4roeu80jg0d71",
+      "title": "Replit Design 一键提取品牌设计系统",
+      "title_en": "Found a look you love？ Extract it into a design system. Replit Design distills any frame into a liv…",
+      "url": "https://x.com/Replit/status/2084036577202737637",
+      "permalink": "https://aihot.virxact.com/items/cmscchccx03o4roeu80jg0d71",
+      "source": "X：Replit (@Replit)",
+      "publishedAt": "2026-08-02T22:00:14.000Z",
+      "discoveredAt": "2026-08-02T22:01:12.856Z",
+      "summary": "找到了你喜欢的风格？将其提取为设计系统。\n\nReplit Design 可将任意画面提炼为包含你的颜色、字体和样式的实时风格指南，让每个新界面、帖子和应用都保持品牌一致。无需交接，不会走样，也不会丢失你最初的设计初衷。\n\n你的品牌，无处不在，一键搞定。\n\n立即体验：http://replit.com/design",
+      "category": "ai-products",
+      "score": 57,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmscchccx03o4roeu80jg0d71"
+      },
+      "sourceType": "X",
+      "designCategory": "设计工具",
+      "relevanceScore": 15,
+      "editorialScore": 20,
+      "tags": [
+        "设计系统",
+        "design system",
+        "design",
+        "设计"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
       "id": "cmsax03ee05j8romzlgxz63ha",
       "title": "Flux 3 零重力视频生成效果惊艳",
       "title_en": "Zero-G version &gt； an amateur handheld recording of a very fast zero-g movement through a zero-g s…",
@@ -65,34 +94,6 @@
       "tags": [
         "视频生成",
         "flux",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cms92ioz7022xro9k9kmww9ug",
-      "title": "字节 Seedance 2.5 发布：30 秒一镜到底视频",
-      "title_en": "damn，seedance 2.5这回真的要杀疯了！！！ 这个日本雨中街道的第一人称视频，我看了三遍才敢信是AI生成的🤯。。。 第一人称视角，撑着伞走在日本的雨里， 雨滴打在伞面上，积水里映着…",
-      "url": "https://x.com/AYi_AInotes/status/2083201284593565719",
-      "permalink": "https://aihot.virxact.com/items/cms92ioz7022xro9k9kmww9ug",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-07-31T14:41:04.000Z",
-      "discoveredAt": "2026-07-31T14:59:00.658Z",
-      "summary": "字节跳动 Seed 团队发布 Seedance 2.5，支持 30 秒原生一镜到底视频生成，并可通过多轮延长形成几分钟连贯内容。该模型支持 50 个参考素材（30 图、10 视频、10 音频）锁定角色与风格，音画原生同步，并支持局部编辑。即梦 AI、豆包专业版已上线，Dreamina 和 CapCut 国际版在推，API 即将开放。",
-      "category": "ai-products",
-      "score": 75,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms92ioz7022xro9k9kmww9ug"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 17,
-      "editorialScore": 20,
-      "tags": [
-        "视频生成",
-        "即梦",
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
@@ -156,6 +157,63 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmsco9yco0g86roeulmbj715c",
+      "title": "MiniMax H3 开源即获 vLLM-Omni 支持",
+      "title_en": "Open weights are step one. Making them easy to serve is step two. H3 now has Day 0 support in @vllm_…",
+      "url": "https://x.com/MiniMax_AI/status/2084113653524209777",
+      "permalink": "https://aihot.virxact.com/items/cmsco9yco0g86roeulmbj715c",
+      "source": "X：MiniMax (@MiniMax_AI)",
+      "publishedAt": "2026-08-03T03:06:30.000Z",
+      "discoveredAt": "2026-08-03T03:31:23.373Z",
+      "summary": "MiniMax H3 开源权重，并在 vLLM-Omni 中获得 Day 0 支持，提供兼容 OpenAI 的视频端点。该模型可将文本、图像、视频和音频作为单一上下文处理，支持文生视频、首/尾帧及多参考生成，输出 4-15 秒、最高 2K 24 FPS 的 H.264 视频并自带同步立体声。",
+      "category": "ai-products",
+      "score": 53,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsco9yco0g86roeulmbj715c"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 14,
+      "editorialScore": 17,
+      "tags": [
+        "文生视频",
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsccpmko03ujroeupr4ud9np",
+      "title": "Gemini 桌面应用将支持 MCP 与图像视频生成",
+      "title_en": "GOOGLE 🔥： Gemini desktop app is about to get proper MCP support for Gemini Spark， dedicated Image a…",
+      "url": "https://x.com/testingcatalog/status/2084038211009908982",
+      "permalink": "https://aihot.virxact.com/items/cmsccpmko03ujroeupr4ud9np",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "publishedAt": "2026-08-02T22:06:43.000Z",
+      "discoveredAt": "2026-08-02T22:07:39.443Z",
+      "summary": "GOOGLE 🔥：Gemini 桌面应用即将为 Gemini Spark 提供完整的 MCP 支持，新增专门的图像和视频生成标签页，以及相机附件选项。\n\n与 Gemini 网页版缩小差距 👀",
+      "category": "ai-products",
+      "score": 36,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsccpmko03ujroeupr4ud9np"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 14,
+      "editorialScore": 17,
+      "tags": [
+        "视频生成",
+        "视频",
+        "图像",
+        "mcp"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmsaercbb03dzrob3swk88cvi",
       "title": "Grok Imagine Video 1.5 新增文生视频与1080p",
       "title_en": "text-to-video support， image and voice references， and native 1080p arrived on Grok Imagine Video 1….",
@@ -212,33 +270,33 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cms8meih800g9rof1oc30kvkz",
-      "title": "MiniMax 发布多模态生成模型 H3",
-      "title_en": "MiniMax has released MiniMax H3， a multimodal generative AI model designed to understand text， image…",
-      "url": "https://x.com/thexpin/status/2083090032089583689",
-      "permalink": "https://aihot.virxact.com/items/cms8meih800g9rof1oc30kvkz",
-      "source": "X：X.PIN (@thexpin)",
-      "publishedAt": "2026-07-31T07:19:00.000Z",
-      "discoveredAt": "2026-07-31T07:27:52.351Z",
-      "summary": "MiniMax 发布多模态生成模型 H3，可在统一上下文中理解文本、图像、视频和音频，并原生生成立体声与视频，支持最长 15 秒 2K 分辨率片段。该模型面向商业内容创作，支持视频到视频的运动迁移等可控多模态编辑，可处理高达 100K 输入 token 的复杂任务，并将输出压缩至约 4K token。2K 视频生成由基础模型直接完成而非传统超分，模型权重即将开源。",
-      "category": "ai-models",
-      "score": 59,
+      "id": "cmsc61o9s0199ro8v0gnvyrkk",
+      "title": "普通人用GPT 5.6 Sol vibe coding做出3D人体解剖应用",
+      "title_en": "OMG，这个简直太颠覆了， 以前这种东西，得一个团队，3D建模师、前端工程师、教育设计师、医学顾问--起码做半年，烧个几十万，现在一个人，一段和AI的对话，就可以做出来了。 教育这件事，说了多少年要…",
+      "url": "https://x.com/AYi_AInotes/status/2083977164068720848",
+      "permalink": "https://aihot.virxact.com/items/cmsc61o9s0199ro8v0gnvyrkk",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-08-02T18:04:08.000Z",
+      "discoveredAt": "2026-08-02T19:01:03.749Z",
+      "summary": "一位开发者用GPT 5.6 Sol、GPT Image 2.0和TripoAI，通过vibe coding构建了3D人体解剖应用，将总资源从约900MB优化至28.6MB，单个模型从120-150MB降至2-5.5MB，帧率从16fps提升。整个过程仅靠与AI对话完成，无需专业团队，展示了工具民主化对教育内容的冲击。",
+      "category": "tip",
+      "score": 38,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms8meih800g9rof1oc30kvkz"
+        "canonical": "https://aihot.virxact.com/items/cmsc61o9s0199ro8v0gnvyrkk"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 14,
-      "editorialScore": 17,
+      "designCategory": "产品与体验",
+      "relevanceScore": 11,
+      "editorialScore": 15,
       "tags": [
-        "视频生成",
-        "内容创作",
-        "视频",
-        "图像"
+        "设计师",
+        "设计",
+        "3d",
+        "vibe coding"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmsa64zsk01nzrox04aext9y0",
@@ -264,6 +322,34 @@
       "tags": [
         "图像生成",
         "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsc1rbxn0wsyrohvkkub6gdf",
+      "title": "Grok 视频生成获赞，被称视频界 DeepSeek",
+      "title_en": "我宣布，Grok就是视频大模型界的DeepSeek，@elonmusk 好好搞吧，私房钱留着充Grok imagine 年度大会员！ 真的是随便发了个提示词，一次性抽卡， 直接生成这个1080P的1…",
+      "url": "https://x.com/AYi_AInotes/status/2083947198618694024",
+      "permalink": "https://aihot.virxact.com/items/cmsc1rbxn0wsyrohvkkub6gdf",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-08-02T16:05:04.000Z",
+      "discoveredAt": "2026-08-02T17:01:02.759Z",
+      "summary": "博主称 Grok 为视频大模型界的 DeepSeek，并建议马斯克好好发展。其展示 Grok 一次生成、零抽卡的 15 秒 1080P 打斗片段，认为效果优于降智的 seedance 2.0，且对比 seedance 2.5 的高价更具性价比。",
+      "category": "tip",
+      "score": 32,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsc1rbxn0wsyrohvkkub6gdf"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频",
+        "提示词"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -628,33 +714,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cms8llt7f0iahrot0e537jgj9",
-      "title": "字节跳动发布 Seedance 2.5 视频生成模型，小鹏汽车、智元机器人等将率先接入",
-      "title_en": "字节火山引擎：小鹏汽车、智元机器人等将率先接入 Seedance 2.5 视频生成模型",
-      "url": "https://www.ithome.com/0/984/146.htm",
-      "permalink": "https://aihot.virxact.com/items/cms8llt7f0iahrot0e537jgj9",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-31T07:03:46.000Z",
-      "discoveredAt": "2026-07-31T07:05:30.200Z",
-      "summary": "字节跳动今日发布新一代视频生成模型 Seedance 2.5，火山引擎将于近期上线 API 服务。徐工集团、小鹏汽车、智元机器人、穹彻智能等多家企业已达成合作意向，将率先接入该模型。Seedance 2.5 延续统一的多模态音视频联合生成架构，重点提升长叙事、多模态参考和编辑能力，并新增白模参考能力，已落地工业制造、汽车、具身智能、智能驾驶等实体产业。",
-      "category": "ai-models",
-      "score": 39,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms8llt7f0iahrot0e537jgj9"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视频生成",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmsb2e07t02gjrohvmoswiuvf",
       "title": "Seedance 2.5 发布：单次生成 30 秒视频，支持多模态参考与精准编辑",
       "title_en": "Seedance 2.5",
@@ -847,6 +906,33 @@
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
+      "id": "cmscne3ve0eurroeufwk70rsq",
+      "title": "MiniMax H3 正式开源：通用视频模型支持多模态上下文与 2K 分辨率",
+      "title_en": "通用视频模型 MiniMax H3 正式开源，支持多模态上下文、2K 分辨率",
+      "url": "https://www.ithome.com/0/984/937.htm",
+      "permalink": "https://aihot.virxact.com/items/cmscne3ve0eurroeufwk70rsq",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-03T02:52:25.000Z",
+      "discoveredAt": "2026-08-03T03:06:36.186Z",
+      "summary": "MiniMax 今日正式开源新一代通用视频模型 MiniMax H3，可统一理解文本、图像、视频和音频构成的多模态上下文，生成最高 2K 分辨率、最长 15 秒且带原生立体声音频的视频。",
+      "category": "ai-models",
+      "score": 68,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmscne3ve0eurroeufwk70rsq"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmsbkm0om0ih7rohvatmawgqh",
       "title": "探索性建模：一种新的生成式建模训练范式",
       "title_en": "探索性建模：基于K个最佳猜测进行训练",
@@ -870,33 +956,6 @@
       "tags": [
         "视频",
         "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmsb7qy8407dgrohvafhxrodz",
-      "title": "Karpathy 用 Opus 5 生成《指环王》3D 渲染",
-      "title_en": "We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a…",
-      "url": "https://x.com/karpathy/status/2083749667410727319",
-      "permalink": "https://aihot.virxact.com/items/cmsb7qy8407dgrohvafhxrodz",
-      "source": "X：Andrej Karpathy (@karpathy)",
-      "publishedAt": "2026-08-02T03:00:09.000Z",
-      "discoveredAt": "2026-08-02T03:00:56.528Z",
-      "summary": "Andrej Karpathy 给 Opus 5 提供《指环王》第一段和 1M token 预算（约 $10），模型耗时约 2 小时写出 5500 行代码，程序化渲染出故事场景。他认为这展示了从\"没人会做\"到\"几乎免费\"的转变，并指出 LLM 在视频感知和游戏内审计能力上仍有明显短板。",
-      "category": "tip",
-      "score": 70,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsb7qy8407dgrohvafhxrodz"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视频",
-        "3d"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -928,137 +987,30 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cms9r6akp0ntkro9ki2p0dqc5",
-      "title": "MiniMax 发布开源权重视频模型 H3，登顶视频编辑榜",
-      "title_en": "For the first time， an open video model sits at the same table as the closed frontier. That was the …",
-      "url": "https://x.com/MiniMax_AI/status/2083373860796153869",
-      "permalink": "https://aihot.virxact.com/items/cms9r6akp0ntkro9ki2p0dqc5",
-      "source": "X：MiniMax (@MiniMax_AI)",
-      "publishedAt": "2026-08-01T02:06:50.000Z",
-      "discoveredAt": "2026-08-01T02:29:12.885Z",
-      "summary": "MiniMax 发布开源权重视频模型 H3，在 Artificial Analysis 视频编辑榜登顶，文本生视频排名第二、图像生视频排名第三。H3 支持文本、图像、视频、音频统一输入，原生生成 2K 24fps 5-15 秒带立体声片段，定价每分钟 2K 视频 $7.80，远低于 Seedance 2.0 的 $22.45 和 Kling 3.0 的 $20.16。",
-      "category": "ai-models",
-      "score": 60,
+      "id": "cmscbezc002tlroeuyltwsglu",
+      "title": "GeoAI 教程：用 U-Net、Grounding DINO、SAM 与 Mask R-CNN 从 NAIP 影像提取建筑足迹",
+      "title_en": "A Tutorial on GeoAI： Designing Footprint Extraction from NAIP Imagery Using U-Net， Grounding DINO， SAM， and Mask R-CNN",
+      "url": "https://www.marktechpost.com/2026/08/02/a-tutorial-on-geoai-designing-footprint-extraction-from-naip-imagery-using-u-net-grounding-dino-sam-and-mask-r-cnn",
+      "permalink": "https://aihot.virxact.com/items/cmscbezc002tlroeuyltwsglu",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-08-02T21:19:48.000Z",
+      "discoveredAt": "2026-08-02T21:31:22.766Z",
+      "summary": "本教程设计了一套完整的 GeoAI 工作流，从高分辨率 NAIP 航拍影像中提取建筑足迹。流程涵盖配置深度学习环境、下载影像与标签、生成图像块和分割掩码，训练 ResNet-34 编码器的 U-Net 模型，并应用滑动窗口推理。",
+      "category": "tip",
+      "score": 69,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms9r6akp0ntkro9ki2p0dqc5"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cms9eb97l0cnvro9kzszxcf0f",
-      "title": "MiniMax H3 上线 OpenArt，支持 2K 视频与原生音频",
-      "title_en": "Ring ring ring… your images are calling 🫨 They want motion. They want sound. They want H3. Now liv…",
-      "url": "https://x.com/MiniMax_AI/status/2083286328570265877",
-      "permalink": "https://aihot.virxact.com/items/cms9eb97l0cnvro9kzszxcf0f",
-      "source": "X：MiniMax (@MiniMax_AI)",
-      "publishedAt": "2026-07-31T20:19:00.000Z",
-      "discoveredAt": "2026-07-31T20:29:09.358Z",
-      "summary": "MiniMax H3 现已在 OpenArt 上线，支持 2K 分辨率视频与原生音频生成，可生成 5 至 15 秒片段。该模型支持文本、图像和音频生成视频，并支持起始帧、结束帧及参考图像。OpenArt 的 Wonder 用户可免费无限使用 H3 至 8 月 5 日，开源权重即将发布。",
-      "category": "ai-models",
-      "score": 68,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms9eb97l0cnvro9kzszxcf0f"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cms8rt1ml06j0roghw1n7a4bq",
-      "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
-      "title_en": "MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
-      "url": "https://www.minimax.io/blog/minimax-h3",
-      "permalink": "https://aihot.virxact.com/items/cms8rt1ml06j0roghw1n7a4bq",
-      "source": "MiniMax：Blog（网页）",
-      "publishedAt": "2026-07-31T09:59:02.996Z",
-      "discoveredAt": "2026-07-31T09:59:02.996Z",
-      "summary": "MiniMax 正式推出全能多模态生成模型 H3，可联合理解文本、图像、视频和音频，生成最高 2K 分辨率、15 秒时长且带原生立体声的视频。H3 在指令跟随、文字与品牌呈现、V2V 动作迁移上表现突出，2K 下每秒价格低于主流模型三分之一，768p 下低于主流 720p 价格一半。官方计划近日开源模型权重，以支持开源社区并加速硬件兼容。",
-      "category": "ai-models",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms8rt1ml06j0roghw1n7a4bq"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视频",
-        "图像",
-        "品牌"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cms90m6zu08jvro7vrzyeczac",
-      "title": "MiniMax H3 通用多模态视频模型将于 8 月 3 日开源，最高支持 15s 2K 分辨率",
-      "title_en": "MiniMax H3 通用多模态视频模型将于 8 月 3 日开源，最高可支持 15s 2K 分辨率",
-      "url": "https://www.ithome.com/0/984/379.htm",
-      "permalink": "https://aihot.virxact.com/items/cms90m6zu08jvro7vrzyeczac",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-31T13:13:29.000Z",
-      "discoveredAt": "2026-07-31T14:05:41.274Z",
-      "summary": "稀宇科技宣布推出 MiniMax H3 通用多模态视频模型，将于北京时间 8 月 3 日 0 点在魔搭社区正式开源。该模型支持对文本、图像、视频、声音的统一理解，可输出原生双声道音视频，最高支持 15s 2K 分辨率。官方称其默认提供 2K 分辨率，每秒价格不到主流模型的 1/3，768P 分辨率下为主流 720P 的 1/2。",
-      "category": "ai-models",
-      "score": 59,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms90m6zu08jvro7vrzyeczac"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cms8wbpwc03xero7vq54bpg6n",
-      "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/984/365.htm",
-      "permalink": "https://aihot.virxact.com/items/cms8wbpwc03xero7vq54bpg6n",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-31T11:40:12.000Z",
-      "discoveredAt": "2026-07-31T12:05:35.038Z",
-      "summary": "欧盟《人工智能法》新增透明度要求于8月2日起正式执行，聊天机器人等交互式AI系统须明确告知用户其AI身份，深度伪造内容须加标识及机器可识别标记。同日公布首批签署《人工智能生成内容透明度行为准则》的180多家机构名单，包括谷歌、微软、OpenAI等，Meta拒绝加入。违反透明度义务最高可处750万欧元或全球年营业额1%的罚款。",
-      "category": "industry",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms8wbpwc03xero7vq54bpg6n"
+        "canonical": "https://aihot.virxact.com/items/cmscbezc002tlroeuyltwsglu"
       },
       "sourceType": "网站",
       "designCategory": "产品与体验",
       "relevanceScore": 6,
       "editorialScore": 10,
       "tags": [
-        "交互"
+        "设计",
+        "工作流",
+        "图像"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
