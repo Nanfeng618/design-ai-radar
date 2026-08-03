@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-03T10:05:41.390Z",
-  "previousGeneratedAt": "2026-08-03T03:54:24.890Z",
+  "generatedAt": "2026-08-03T15:16:18.678Z",
+  "previousGeneratedAt": "2026-08-03T10:05:41.390Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 47,
+  "itemCount": 43,
   "sourceCounts": {
     "X": 24,
-    "网站": 23
+    "网站": 19
   },
   "source": {
     "name": "AI HOT",
@@ -184,35 +184,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cms9gek600e9ero9kr69r6d18",
-      "title": "Show HN：AI 智能体的图形用户界面应该是什么样子的？",
-      "title_en": "Show HN： AI 智能体的图形用户界面应该是什么样子的？",
-      "url": "https://marbleos.com/demo",
-      "permalink": "https://aihot.virxact.com/items/cms9gek600e9ero9kr69r6d18",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-31T21:13:14.774Z",
-      "discoveredAt": "2026-07-31T21:27:42.963Z",
-      "summary": "一个名为 MarbleOS 的项目在 Hacker News 上展示其对 AI 智能体图形用户界面的构想。该项目通过演示界面，探讨了智能体时代 GUI 应有的交互形态与设计方向，引发社区关于 AI 原生界面范式的讨论。",
-      "category": "ai-products",
-      "score": 64,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms9gek600e9ero9kr69r6d18"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 14,
-      "editorialScore": 18,
-      "tags": [
-        "设计",
-        "界面",
-        "交互",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmsco9yco0g86roeulmbj715c",
       "title": "MiniMax H3 开源即获 vLLM-Omni 支持",
       "title_en": "Open weights are step one. Making them easy to serve is step two. H3 now has Day 0 support in @vllm_…",
@@ -298,6 +269,34 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmsd9pxo515x7roeu9q2z1ba7",
+      "title": "面壁智能 MiniCPM3-4B 微调打造 AI 电影生成项目",
+      "title_en": "🎬 Build with MiniCPM3-4B： LLM Cinema - Turn Ideas into AI Movies A participant in the #BuildSmall …",
+      "url": "https://x.com/OpenBMB/status/2084270864686862395",
+      "permalink": "https://aihot.virxact.com/items/cmsd9pxo515x7roeu9q2z1ba7",
+      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "publishedAt": "2026-08-03T13:31:12.000Z",
+      "discoveredAt": "2026-08-03T13:31:41.066Z",
+      "summary": "面壁智能（OpenBMB）社区黑客松参与者基于 MiniCPM3-4B 微调构建了 LLM Cinema 项目，让该模型扮演编剧、角色设计师和导演。它能从创意生成结构化电影脚本、创建 ASCII 风格角色设计，并为每个场景确定演员、动作、镜头和情绪。该项目不直接生成最终画面，而是输出可编辑的结构化中间表示，实现透明可控的电影生成流程。",
+      "category": "tip",
+      "score": 41,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsd9pxo515x7roeu9q2z1ba7"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 11,
+      "editorialScore": 15,
+      "tags": [
+        "设计师",
+        "设计",
+        "创意"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "cmsd094cn0uatroeua3j9m6hg",
       "title": "AI 大模型周榜：阿里千问 3.8-Max 空降综合前五，字节即梦 5.0 生图第六",
       "title_en": null,
@@ -377,6 +376,33 @@
       "tags": [
         "图像生成",
         "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsd8fver14h5roeusplaoian",
+      "title": "玉伯实测：YouMind 生成 PPT 远超 ChatGPT",
+      "title_en": "居然能好这么多 有点意外",
+      "url": "https://x.com/lifesinger/status/2084249090632863857",
+      "permalink": "https://aihot.virxact.com/items/cmsd8fver14h5roeusplaoian",
+      "source": "X：Frank Wang 玉伯 (@lifesinger)",
+      "publishedAt": "2026-08-03T12:04:41.000Z",
+      "discoveredAt": "2026-08-03T12:55:51.732Z",
+      "summary": "玉伯将血糖与饮食数据同时交给 ChatGPT 和 YouMind，用相同指令生成给医生看的可视化 PPT，背后生图模型均为 gpt-image-2.0。YouMind 的产出更美观，且兼顾医患场景的专业度、简洁度与规范视觉，而 ChatGPT 的交付效果明显逊色。",
+      "category": "tip",
+      "score": 30,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsd8fver14h5roeusplaoian"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "生图",
+        "视觉"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -600,88 +626,33 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cms9gemhc0e9zro9k71kooo27",
-      "title": "Replit Design 完整演示视频发布",
-      "title_en": "New video out！ a full walkthrough of Replit Design Templates to start fast. Ambient intelligence so…",
-      "url": "https://x.com/Replit/status/2083296650538217753",
-      "permalink": "https://aihot.virxact.com/items/cms9gemhc0e9zro9k71kooo27",
-      "source": "X：Replit (@Replit)",
-      "publishedAt": "2026-07-31T21:00:01.000Z",
-      "discoveredAt": "2026-07-31T21:27:46.099Z",
-      "summary": "新视频上线！Replit Design 完整演示\n\n模板助你快速起步。环境智能让你永不卡壳。设计系统让所有作品浑然一体。\n\n点击观看 👇",
-      "category": "ai-products",
-      "score": 63,
+      "id": "cmsd6q5gm12q4roeur95msg0r",
+      "title": "可灵MCP教程：批量生成美食宣传视频",
+      "title_en": "Kling MCP Tutorial： Batch Create Food Promo Videos with Kling MCP 🍔 From analyzing creative styles…",
+      "url": "https://x.com/Kling_ai/status/2084247919897780389",
+      "permalink": "https://aihot.virxact.com/items/cmsd6q5gm12q4roeur95msg0r",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-08-03T12:00:02.000Z",
+      "discoveredAt": "2026-08-03T12:07:51.874Z",
+      "summary": "可灵 MCP 教程：使用可灵 MCP 批量制作美食宣传视频 🍔\n\n从分析创意风格、构建分镜脚本到生成最终视频--你的整个美食宣传流程现在都可以由 AI 完成。创作更快，推广更智能。与我们一起壮大你的美食品牌。",
+      "category": "tip",
+      "score": 60,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms9gemhc0e9zro9k71kooo27"
+        "canonical": "https://aihot.virxact.com/items/cmsd6q5gm12q4roeur95msg0r"
       },
       "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 10,
-      "editorialScore": 14,
+      "designCategory": "行业观察",
+      "relevanceScore": 13,
+      "editorialScore": 13,
       "tags": [
-        "设计系统",
-        "design",
-        "设计",
+        "可灵",
+        "创意",
+        "creative",
         "视频"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cms9fdu4o0dmtro9kiv6sgspe",
-      "title": "MiniMax H3 上线 ComfyUI 并即将开源权重",
-      "title_en": "Thanks for the love @ComfyUI team 🙌 More canvas， more custom nodes， more workflows and soon， open …",
-      "url": "https://x.com/MiniMax_AI/status/2083289753097818315",
-      "permalink": "https://aihot.virxact.com/items/cms9fdu4o0dmtro9kiv6sgspe",
-      "source": "X：MiniMax (@MiniMax_AI)",
-      "publishedAt": "2026-07-31T20:32:37.000Z",
-      "discoveredAt": "2026-07-31T20:59:09.637Z",
-      "summary": "感谢 @ComfyUI 团队的支持🙌 更多画布、更多自定义节点、更多工作流，很快还将开放权重，让你能构建任何想要的图结构。🧑🎨✨\n\nMiniMax H3 现可通过 Partner Nodes 在 ComfyUI 中使用。\n\n→ 多模态输入/输出：文生视频、首/末帧、全参考\n\n→ 每个片段原生立体声音频\n\n→ 最高 2K，5-15 秒，24 FPS\n\n→ 就地编辑角色、场景、对话和语音\n\nAPI 今日已上线。原生开放权重支持即将推出。",
-      "category": "ai-products",
-      "score": 38,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms9fdu4o0dmtro9kiv6sgspe"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "文生视频",
-        "工作流",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cms9d6rkf0bsfro9konzvawmk",
-      "title": "Google 在 Google Earth 上线一天的 AI 图像生成功能 Nano Banana 2 因误导信息风险被撤下",
-      "title_en": "Google nixes its Earth AI feature one day after launch， amid criticism it would spread misinformation",
-      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation",
-      "permalink": "https://aihot.virxact.com/items/cms9d6rkf0bsfro9konzvawmk",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-31T19:47:28.000Z",
-      "discoveredAt": "2026-07-31T19:57:40.848Z",
-      "summary": "Google 周四在 Google Earth 推出基于 Nano Banana 2 的 AI 图像生成功能，允许用户将任意图像叠加到真实地图上，但遭记者和研究者批评可能被滥用传播误导信息。发布仅一天后，Google 已撤下该功能，称将加强防护措施后再重新上线。",
-      "category": "industry",
-      "score": 57,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms9d6rkf0bsfro9konzvawmk"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "图像生成",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "cmsd27kjg0x4vroeuep1pq98s",
@@ -765,34 +736,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cms9ebfbk0cpqro9k0u4hopow",
-      "title": "LingBot-Map 教程：GPU 感知推理与点云导出",
-      "title_en": "LingBot-Map Tutorial： GPU-Aware Inference and Point Cloud Export",
-      "url": "https://www.marktechpost.com/2026/07/31/lingbot-map-tutorial-gpu-aware-inference-and-point-cloud-export",
-      "permalink": "https://aihot.virxact.com/items/cms9ebfbk0cpqro9k0u4hopow",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-07-31T20:27:13.000Z",
-      "discoveredAt": "2026-07-31T20:29:16.674Z",
-      "summary": "本教程演示如何用 LingBot-Map 搭建流式 3D 重建流水线，涵盖 GPU 感知配置、预处理、GCTStream 模型推理及点云生成。通过图像或视频序列，可输出一致的 3D 场景，并导出 PLY 与 NPZ 格式文件。",
-      "category": "tip",
-      "score": 59,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms9ebfbk0cpqro9k0u4hopow"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
-      "tags": [
-        "视频",
-        "图像",
-        "3d"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmsaafjqj021projdbl4yxpmd",
       "title": "AI 无法生成可用的产品：从原型到生产级系统仍需工程判断力",
       "title_en": "人工智能无法生成可用的产品，这仍然是你的工作",
@@ -820,60 +763,31 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cms9d9c310bzdro9kxrm5nwb6",
-      "title": "Flux 3 展示史上最早影像片段",
-      "title_en": "&gt； a found recording of the first ever video footage",
-      "url": "https://x.com/fofrAI/status/2083280999455043996",
-      "permalink": "https://aihot.virxact.com/items/cms9d9c310bzdro9kxrm5nwb6",
-      "source": "X：fofr (@fofrAI)",
-      "publishedAt": "2026-07-31T19:57:50.000Z",
-      "discoveredAt": "2026-07-31T19:59:40.114Z",
-      "summary": "> 一段发现的最早视频影像记录\n\n【引用 @fofrAI】：Flux 3：\n\n> 一段发现的自 1702 年以来的最早视频影像记录",
-      "category": "tip",
-      "score": 21,
+      "id": "cmsd4cr2l0zv1roeup7rgajfi",
+      "title": "MiniMax 发布 33B 视频模型 H3，可生成同步立体声音频并适配 RTX 5090",
+      "title_en": "Holy， those insanae releases： MiniMax released a 33B video model that generates synchronized stereo …",
+      "url": "https://x.com/kimmonismus/status/2084229681012711598",
+      "permalink": "https://aihot.virxact.com/items/cmsd4cr2l0zv1roeup7rgajfi",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-08-03T10:47:33.000Z",
+      "discoveredAt": "2026-08-03T11:01:28.064Z",
+      "summary": "MiniMax 发布 33B 视频模型 H3，可生成同步立体声音频，支持文本、图像、视频和音频多模态生成与编辑，片段最长 15 秒。ComfyUI 优化栈约 40GB，通过动态 RAM/SSD 卸载适配消费级显卡，RTX 5090 上生成 5 秒 768p 视频约需 5.5 分钟。",
+      "category": "ai-models",
+      "score": 70,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms9d9c310bzdro9kxrm5nwb6"
+        "canonical": "https://aihot.virxact.com/items/cmsd4cr2l0zv1roeup7rgajfi"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
+      "relevanceScore": 8,
+      "editorialScore": 11,
       "tags": [
-        "flux",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cms985jny07p2ro9kusgelbzm",
-      "title": "MiniMax H3 上线 HailuoAI 与 API",
-      "title_en": "MiniMax H3 is now available on HailuoAI & MiniMax APIs！ > All-in-One Reference - Creating Videos Us…",
-      "url": "https://x.com/testingcatalog/status/2083241267643691226",
-      "permalink": "https://aihot.virxact.com/items/cms985jny07p2ro9kusgelbzm",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-07-31T17:19:57.000Z",
-      "discoveredAt": "2026-07-31T17:36:44.793Z",
-      "summary": "MiniMax H3 现已在 HailuoAI 及 MiniMax API 上线，支持文本、图像、音频和视频多模态输入生成视频，并具备精准编辑控制。该模型面向电影、广告、游戏、品牌和电商等创意场景，2K 视频定价 $0.081/秒，768p 视频即将推出，定价 $0.047/秒。",
-      "category": "ai-models",
-      "score": 54,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms985jny07p2ro9kusgelbzm"
-      },
-      "sourceType": "X",
-      "designCategory": "行业观察",
-      "relevanceScore": 12,
-      "editorialScore": 12,
-      "tags": [
-        "广告",
-        "创意",
         "视频",
         "图像"
       ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmscne3ve0eurroeufwk70rsq",
@@ -1011,59 +925,82 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cms9eb97l0cnvro9kzszxcf0f",
-      "title": "MiniMax H3 上线 OpenArt，支持 2K 视频与原生音频",
-      "title_en": "Ring ring ring… your images are calling 🫨 They want motion. They want sound. They want H3. Now liv…",
-      "url": "https://x.com/MiniMax_AI/status/2083286328570265877",
-      "permalink": "https://aihot.virxact.com/items/cms9eb97l0cnvro9kzszxcf0f",
-      "source": "X：MiniMax (@MiniMax_AI)",
-      "publishedAt": "2026-07-31T20:19:00.000Z",
-      "discoveredAt": "2026-07-31T20:29:09.358Z",
-      "summary": "MiniMax H3 现已在 OpenArt 上线，支持 2K 分辨率视频与原生音频生成，可生成 5 至 15 秒片段。该模型支持文本、图像和音频生成视频，并支持起始帧、结束帧及参考图像。OpenArt 的 Wonder 用户可免费无限使用 H3 至 8 月 5 日，开源权重即将发布。",
-      "category": "ai-models",
-      "score": 68,
+      "id": "cmsdbpxfo17x8roeu8o3e71fh",
+      "title": "药物研发没有魔法棒：AI 的真正瓶颈在于疾病理解",
+      "title_en": "Drug Discovery Has No Magic Wands",
+      "url": "https://www.a16z.news/p/drug-discovery-has-no-magic-wands",
+      "permalink": "https://aihot.virxact.com/items/cmsdbpxfo17x8roeu8o3e71fh",
+      "source": "a16z：News（RSS）",
+      "publishedAt": "2026-08-03T14:01:26.000Z",
+      "discoveredAt": "2026-08-03T14:27:38.763Z",
+      "summary": "insitro 创始人兼 CEO Daphne Koller 撰文指出，AI 虽能加速分子设计，但药物研发的真正瓶颈在于疾病机制理解--超过 90% 进入临床试验的药物因靶点错误而失败。行业每年推进的新靶点数量已从约 100 个降至约 30 个。她认为，AI 需先用于正确测量生物学并从中获取新洞察，而非直接寻找疗法。",
+      "category": "tip",
+      "score": 61,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms9eb97l0cnvro9kzszxcf0f"
+        "canonical": "https://aihot.virxact.com/items/cmsdbpxfo17x8roeu8o3e71fh"
       },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
       "tags": [
-        "视频",
-        "图像"
+        "设计"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmscrhqp70kcvroeul9lvpsaf",
-      "title": "字节发布视频模型 Dreamina Seedance 2.5",
-      "title_en": "ByteDance has launched its new video model Dreamina Seedance 2.5 and its genuinely impressive. Use …",
-      "url": "https://x.com/rohanpaul_ai/status/2084140807263498513",
-      "permalink": "https://aihot.virxact.com/items/cmscrhqp70kcvroeul9lvpsaf",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-08-03T04:54:24.000Z",
-      "discoveredAt": "2026-08-03T05:01:25.684Z",
-      "summary": "字节跳动推出视频模型 Dreamina Seedance 2.5，单片段最多支持 50 个参考文件，可一次生成 30 秒连续视频，前 7 天仅在 Dreamina 平台运行。该模型支持同时输入 30 张图像、10 段视频和 10 段音频，并允许在提示词中使用时间戳（如 【0s-5s】）作为分镜脚本。",
-      "category": "ai-models",
-      "score": 59,
+      "id": "cmsd8fver14h4roeu6id8ebao",
+      "title": "玉伯推荐 Youmind 精灵：微信与客户端双入口",
+      "title_en": "感谢向阳乔木推荐 提到的两个功能 都是我每天用的",
+      "url": "https://x.com/lifesinger/status/2084252804596785350",
+      "permalink": "https://aihot.virxact.com/items/cmsd8fver14h4roeu6id8ebao",
+      "source": "X：Frank Wang 玉伯 (@lifesinger)",
+      "publishedAt": "2026-08-03T12:19:26.000Z",
+      "discoveredAt": "2026-08-03T12:55:51.732Z",
+      "summary": "玉伯（Frank Wang）转发推荐 Youmind 的精灵功能，称其\"绑定微信\"和\"客户端快捷唤起\"两个功能是他每天在用的。该功能支持绑定微信随时调用国内外顶级模型对话、生图；安装客户端后可按 Command + J 唤起精灵，用于生成 PPT、写作、网页，体验类似 Raycast AI。",
+      "category": "tip",
+      "score": 27,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmscrhqp70kcvroeul9lvpsaf"
+        "canonical": "https://aihot.virxact.com/items/cmsd8fver14h4roeu6id8ebao"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
       "relevanceScore": 7,
       "editorialScore": 10,
       "tags": [
-        "视频",
-        "图像",
-        "提示词"
+        "生图"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsd6q57g12pwroeu6iacjuqj",
+      "title": "Kimi Work 幻灯片制作教程发布",
+      "title_en": "Build Slides with Kimi Work - Tutorial #1. Kimi Slides handles the entire slide-building process： -…",
+      "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+      "permalink": "https://aihot.virxact.com/items/cmsd6q57g12pwroeu6iacjuqj",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "publishedAt": "2026-08-03T11:51:51.000Z",
+      "discoveredAt": "2026-08-03T12:07:51.874Z",
+      "summary": "使用 Kimi Work 制作幻灯片 - 教程 #1。\n\nKimi Slides 处理整个幻灯片制作流程：\n- 清晰的结构与研究，由 Kimi K3 驱动\n- 连贯的设计，包括精美的图表和 SmartArts\n- 可编辑并可直接下载\n\n欢迎在评论区告诉我们你还想看什么内容！",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsd6q57g12pwroeu6iacjuqj"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmscbezc002tlroeuyltwsglu",
@@ -1119,61 +1056,6 @@
         "3d",
         "提示词",
         "prompt"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cms99z07h095aro9kx836l1eu",
-      "title": "Google DeepMind 推出 Gemini Robotics 2，为各类机器人提供智能层",
-      "title_en": "Google Deepmind unveils Gemini Robotics 2 to power robots of all shapes from tabletop arms to humanoids",
-      "url": "https://the-decoder.com/google-deepmind-unveils-gemini-robotics-2-to-power-robots-of-all-shapes-from-tabletop-arms-to-humanoids",
-      "permalink": "https://aihot.virxact.com/items/cms99z07h095aro9kx836l1eu",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-31T18:25:08.000Z",
-      "discoveredAt": "2026-07-31T18:27:37.602Z",
-      "summary": "Google DeepMind 发布 Gemini Robotics 2，称其为迄今最先进的视觉-语言-动作（VLA）模型，可控制从桌面机械臂到全身人形机器人的各类系统。该模型支持全身运动、精细操作及多机器人协同，开发者可通过候补名单申请早期访问。同期发布的 Gemini Robotics ER 2 专为具身推理设计，已上线 Google AI Studio。",
-      "category": "ai-models",
-      "score": 66,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms99z07h095aro9kx836l1eu"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "视觉",
-        "设计"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cms9d6s650bsjro9k6cnc9ryc",
-      "title": "QM：面向初创公司的开源多智能体平台",
-      "title_en": "qm",
-      "url": "https://github.com/yc-software/qm",
-      "permalink": "https://aihot.virxact.com/items/cms9d6s650bsjro9k6cnc9ryc",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-31T19:37:15.613Z",
-      "discoveredAt": "2026-07-31T19:57:40.848Z",
-      "summary": "QM 是一款面向初创公司的开源多智能体平台，每位员工拥有独立隔离的工作区，可在 Slack 频道、群组消息和项目中与智能体协作。核心采用 TypeScript 编写，支持 Pi、OpenCode、Codex 和 Claude Code 等多种 harness 和模型自由切换，部署不绑定单一供应商。",
-      "category": "ai-products",
-      "score": 61,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms9d6s650bsjro9k6cnc9ryc"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "codex",
-        "claude code",
-        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
