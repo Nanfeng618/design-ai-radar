@@ -1,19 +1,48 @@
 {
-  "generatedAt": "2026-08-04T09:07:32.459Z",
-  "previousGeneratedAt": "2026-08-04T03:36:53.756Z",
+  "generatedAt": "2026-08-04T14:39:30.249Z",
+  "previousGeneratedAt": "2026-08-04T09:07:32.459Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 59,
+  "itemCount": 60,
   "sourceCounts": {
     "X": 24,
-    "网站": 31,
-    "公众号": 4
+    "网站": 33,
+    "公众号": 3
   },
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com"
   },
   "items": [
+    {
+      "id": "cmserfjpw145lro2e4df2m5ig",
+      "title": "OpenAI 移动端 UI/UX 完胜 Claude",
+      "title_en": "I use both Claude Code and Codex， including their iOS apps. And holy moly， OpenAI absolutely wins on…",
+      "url": "https://x.com/kimmonismus/status/2084642693133529316",
+      "permalink": "https://aihot.virxact.com/items/cmserfjpw145lro2e4df2m5ig",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-08-04T14:08:43.000Z",
+      "discoveredAt": "2026-08-04T14:35:14.268Z",
+      "summary": "Claude Code 和 Codex 我都在用，包括它们的 iOS 应用。天哪，OpenAI 在 UI/UX 上绝对胜出。\n\n相比之下，Claude 的应用感觉像是来自另一个时代。",
+      "category": "tip",
+      "score": 23,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmserfjpw145lro2e4df2m5ig"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 19,
+      "editorialScore": 23,
+      "tags": [
+        "ui/ux",
+        "ui",
+        "ux",
+        "codex"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
     {
       "id": "cmsdu66z701e4rofzwquy4tgm",
       "title": "MiniMax H3登顶开源视频生成SOTA",
@@ -239,6 +268,35 @@
         "mcp"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmseo88jq10qnro2ego9pmfwh",
+      "title": "Arcads 智能体：模型之外的控制流才是关键",
+      "title_en": "Arcads agents is a good example of why the model is rarely the finished product. The tricky bit is …",
+      "url": "https://x.com/rohanpaul_ai/status/2084620614636372143",
+      "permalink": "https://aihot.virxact.com/items/cmseo88jq10qnro2ego9pmfwh",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-08-04T12:40:59.000Z",
+      "discoveredAt": "2026-08-04T13:05:35.421Z",
+      "summary": "Arcads 将广告创意流程整合为单一智能体运行，避免营销人员在研究、文案、设计和视频系统间手动传递上下文。其新 AI 产品 Mark 已获 1600 万美元融资，拥有持久品牌记忆，可访问完整素材库，并能生成超写实 UGC、动态图形及全球本地化广告，现已向所有用户开放。",
+      "category": "ai-products",
+      "score": 36,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmseo88jq10qnro2ego9pmfwh"
+      },
+      "sourceType": "X",
+      "designCategory": "行业观察",
+      "relevanceScore": 15,
+      "editorialScore": 15,
+      "tags": [
+        "设计",
+        "广告",
+        "创意",
+        "视频"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "cmsd9pxo515x7roeu9q2z1ba7",
@@ -491,35 +549,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmsdu4z39018qrofzyoa60l6w",
-      "title": "实测MiniMax H3做后期和动效：视频届的审美王来了",
-      "title_en": "实测MiniMax H3做后期和动效夯中夯，视频届的审美王来了！",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509055&idx=1&sn=28254c9e78532b336895b8c541905d49",
-      "permalink": "https://aihot.virxact.com/items/cmsdu4z39018qrofzyoa60l6w",
-      "source": "公众号：卡尔的AI沃茨",
-      "publishedAt": "2026-08-02T13:26:14.000Z",
-      "discoveredAt": "2026-08-02T13:26:14.000Z",
-      "summary": "MiniMax H3视频模型实测覆盖广告TVC、短剧、创意片头、动态海报、UI动效和游戏实机六类场景，可生成5-15秒视频、原生双声道、直出2K，一次最多放9张图、3段视频和3段音频，提示语最高支持7000字符。",
-      "category": "tip",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsdu4z39018qrofzyoa60l6w"
-      },
-      "sourceType": "公众号",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "海报",
-        "ui",
-        "广告",
-        "创意"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmsd6q5gm12q4roeur95msg0r",
       "title": "可灵MCP教程：批量生成美食宣传视频",
       "title_en": "Kling MCP Tutorial： Batch Create Food Promo Videos with Kling MCP 🍔 From analyzing creative styles…",
@@ -630,6 +659,34 @@
         "设计"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmseq167s12m3ro2eas0pbc9y",
+      "title": "Cloudflare 如何用软件工厂将 Astro 的 GitHub issue 数降至零",
+      "title_en": "How we built a software factory to drive Astro's GitHub issue count to zero",
+      "url": "https://blog.cloudflare.com/astro-issue-triage",
+      "permalink": "https://aihot.virxact.com/items/cmseq167s12m3ro2eas0pbc9y",
+      "source": "Cloudflare Blog",
+      "publishedAt": "2026-08-04T13:00:00.000Z",
+      "discoveredAt": "2026-08-04T13:56:04.557Z",
+      "summary": "Cloudflare 在 Astro 仓库上运行自动化 triage 流水线，通过隔离的 AI 子代理复现、诊断并修复 bug，将开放 issue 从 200 多个降至约 30 个，预计下月归零。该流水线由 issue 标签驱动，修复后自动发布预览版本供用户验证。其底层引擎已发展为 Flue，一个开源的平台无关框架，用于构建持久化智能体与工作流。",
+      "category": "tip",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmseq167s12m3ro2eas0pbc9y"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 10,
+      "editorialScore": 11,
+      "tags": [
+        "工作流",
+        "自动化",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmse0pnyk08bgro2es54fb3s6",
@@ -851,31 +908,111 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmsbkm0om0ih7rohvatmawgqh",
-      "title": "探索性建模：一种新的生成式建模训练范式",
-      "title_en": "探索性建模：基于K个最佳猜测进行训练",
-      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling",
-      "permalink": "https://aihot.virxact.com/items/cmsbkm0om0ih7rohvatmawgqh",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-02T08:40:57.761Z",
-      "discoveredAt": "2026-08-02T09:01:00.514Z",
-      "summary": "探索性建模（Explorative Modeling）作为生成式建模的第三种预训练轴，可端到端生成，并在图像、视频和语言任务上单调提升现有模型性能，增益随规模增长（数据7%→36%，参数13%→23%）。探索性模型（XMs）实现6.2倍样本效率、4.1倍FLOP效率和47%参数效率提升，作为端到端生成模型在控制任务上以最多256倍更少推理计算匹配扩散模型。",
-      "category": "tip",
-      "score": 61,
+      "id": "cmseq167s12m2ro2efhh7h5ia",
+      "title": "Cloudflare 让智能体通过本地追踪调试 Workers",
+      "title_en": "Your agent can now debug Workers with local tracing",
+      "url": "https://blog.cloudflare.com/local-tracing",
+      "permalink": "https://aihot.virxact.com/items/cmseq167s12m2ro2efhh7h5ia",
+      "source": "Cloudflare Blog",
+      "publishedAt": "2026-08-04T13:00:00.000Z",
+      "discoveredAt": "2026-08-04T13:56:04.557Z",
+      "summary": "Cloudflare 即日起在 wrangler dev 和 vite dev 中自动为本地 Worker 调用捕获 OpenTelemetry 追踪，无需安装 SDK 或配置智能体。智能体可通过 Local Explorer API 查询追踪数据，定位失败操作、修复本地环境并验证结果。开发者也可在浏览器界面 Local Explorer 中可视化查看 spans、时序、错误及关联控制台日志。",
+      "category": "ai-products",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmseq167s12m2ro2efhh7h5ia"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "界面",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmseoak0510sdro2ecq82lo3r",
+      "title": "中国 AI 黑板海外走红：手写公式实时生成曲线、手绘草图秒变 3D 模型",
+      "title_en": "手写公式实时生成曲线、手绘草图秒变 3D 模型，中国 AI 黑板让海外网友惊叹",
+      "url": "https://www.ithome.com/0/985/684.htm",
+      "permalink": "https://aihot.virxact.com/items/cmseoak0510sdro2ecq82lo3r",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-04T12:40:15.000Z",
+      "discoveredAt": "2026-08-04T13:07:22.199Z",
+      "summary": "一段中国 AI 黑板视频在海外社交媒体引发热议，老师手写公式可实时同步大屏并生成动态曲线，手绘草图能瞬间转化为可拆解操控的 3D 模型。该技术基于光学字符识别与 3D 剖分技术，基座为全国产算力训练的深度推理大模型。目前 AI 黑板已进驻全国 300 余个地市、1400 多个区县，在超 10 万个班级常态化应用，课堂问题解答率提升 85%、学生参与度提升 72%。",
+      "category": "ai-products",
+      "score": 38,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsbkm0om0ih7rohvatmawgqh"
+        "canonical": "https://aihot.virxact.com/items/cmseoak0510sdro2ecq82lo3r"
       },
       "sourceType": "网站",
       "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "relevanceScore": 7,
+      "editorialScore": 10,
       "tags": [
         "视频",
-        "图像"
+        "3d"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsenwhth10f2ro2etljuqtoh",
+      "title": "阿里字节重组办公产品，腾讯WorkBuddy领跑",
+      "title_en": "晚点LatePost昨天写的中国AI应用层开打「办公大战」的稿子，可以和摩根士丹利的最新研报一起看，就是在上游交易趋于拥挤的情况下，资本逻辑转为追求兑收，从而创造出了一个「半场休息」的短暂间隙，在这个…",
+      "url": "https://x.com/foxshuo/status/2084613427037921348",
+      "permalink": "https://aihot.virxact.com/items/cmsenwhth10f2ro2etljuqtoh",
+      "source": "X：阑夕 (@foxshuo)",
+      "publishedAt": "2026-08-04T12:12:25.000Z",
+      "discoveredAt": "2026-08-04T12:56:27.820Z",
+      "summary": "阿里将QoderWork、MuleRun、悟空合并为千问办公，字节将飞书并入豆包，两者均因腾讯WorkBuddy在AI办公赛道快速建立市场心智而应激调整。WorkBuddy日活仅百万级，但腾讯已全力倾斜资源，主力业务相继接入。阿里字节此前在旧产品里\"+AI\"被指自缚手脚，现转向以千问/豆包为统一入口的\"AI+\"设计。",
+      "category": "tip",
+      "score": 64,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsenwhth10f2ro2etljuqtoh"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmsehsq740t3iro2eqn3lojp4",
+      "title": "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅",
+      "title_en": "Reflex Open Sources XY： A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive",
+      "url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy",
+      "permalink": "https://aihot.virxact.com/items/cmsehsq740t3iro2eqn3lojp4",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-08-04T09:45:40.000Z",
+      "discoveredAt": "2026-08-04T10:05:33.098Z",
+      "summary": "Reflex AI 发布 Apache-2.0 许可的 Python 交互式 2D 绘图库 XY，通过 Rust 原生核心、二进制传输和 WebGL2 渲染，在 1 万至 1 亿点规模下均保持约 0.08 秒的渲染时间。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsehsq740t3iro2eqn3lojp4"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmsefnjpn0q20ro2el7g7lyjw",
@@ -893,6 +1030,32 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmsefnjpn0q20ro2el7g7lyjw"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmsefpvbw0q3uro2egupv1g4s",
+      "title": "我国首部L3/L4自动驾驶系统安全强制性国标发布，2027年7月实施",
+      "title_en": "我国首部 L3/L4 智能网联汽车自动驾驶系统安全要求强制性国标正式发布，2027 年 7 月起实施",
+      "url": "https://www.ithome.com/0/985/551.htm",
+      "permalink": "https://aihot.virxact.com/items/cmsefpvbw0q3uro2egupv1g4s",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-04T08:41:48.000Z",
+      "discoveredAt": "2026-08-04T09:07:20.587Z",
+      "summary": "工信部组织制定的《智能网联汽车 自动驾驶系统安全要求》（GB 44721-2026）强制性国标获批发布，将于2027年7月1日起实施。这是我国首部针对L3/L4级自动驾驶系统的强制性标准，由2024年推荐性国标升级而来，适用于M类载客和N类载货车辆，不适用于自动泊车系统。标准从企业全生命周期安全保障、动态驾驶任务执行、人机交互与用户告知、多维度检验检测四方面构建安全要求体系。",
+      "category": "industry",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsefpvbw0q3uro2egupv1g4s"
       },
       "sourceType": "网站",
       "designCategory": "产品与体验",
@@ -1120,59 +1283,6 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmsco9yco0g87roeu8gvu7rpm",
-      "title": "MiniMax H3 上线 LMSYS，获 Day 0 支持",
-      "title_en": "H3 now has Day 0 support in @lmsysorg -- local， customizable， and ready to build on across @NVIDIAAI…",
-      "url": "https://x.com/MiniMax_AI/status/2084112746615115865",
-      "permalink": "https://aihot.virxact.com/items/cmsco9yco0g87roeu8gvu7rpm",
-      "source": "X：MiniMax (@MiniMax_AI)",
-      "publishedAt": "2026-08-03T03:02:54.000Z",
-      "discoveredAt": "2026-08-03T03:31:23.373Z",
-      "summary": "MiniMax H3 已上线 LMSYS，获得 Day 0 服务支持，可在 NVIDIA 和 AMD 硬件上本地运行。该开源模型在 SGLang Diffusion 中性能对标 Seedance 2.0，成本仅为后者三分之一，本地运行（2x 5090 或 1 RTX 6000）则免费。H3 支持文本、图像、视频和音频统一上下文，可生成 5-15 秒原生 2K、24fps 带立体声的视频。",
-      "category": "ai-products",
-      "score": 36,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsco9yco0g87roeu8gvu7rpm"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmscm4qki0d4jroeuuoqd7zgu",
-      "title": "通义千问发布 Qwen3.8-Max，2.4T 参数开源在即",
-      "title_en": "📢Meet Qwen3.8-Max - our most capable model to date. Next week， the open weights of Qwen3.8-Max wi…",
-      "url": "https://x.com/Alibaba_Qwen/status/2084100707423289643",
-      "permalink": "https://aihot.virxact.com/items/cmscm4qki0d4jroeuuoqd7zgu",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "publishedAt": "2026-08-03T02:15:04.000Z",
-      "discoveredAt": "2026-08-03T02:31:21.002Z",
-      "summary": "通义千问发布最强模型 Qwen3.8-Max，参数规模达 2.4T，主打自主编程与多模态能力，可完成 10 天以上自进化开发及 500+ 轮芯片设计优化。模型将于下周开源权重，同步开源的还有 Qwen3.8-27B。API 定价为输入 $2.0/M tokens、输出 $6.0/M tokens。",
-      "category": "ai-models",
-      "score": 75,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmscm4qki0d4jroeuuoqd7zgu"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmse2ervc0aacro2ecp4xgglb",
       "title": "ScrambleToolBench：智能体在自身地图指向下一步时仍会穷举搜索",
       "title_en": "ScrambleToolBench： Agents Search Exhaustively Even When Their Own Map Points to the Next Step",
@@ -1226,33 +1336,6 @@
         "图像"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmsbigsh80gk6rohv8o47jzqg",
-      "title": "Karpathy 用 Claude Opus 5 生成《魔戒》3D 世界",
-      "title_en": "@karpathy Karpathy这个实验，可能是这周最有意思的AI demo了吧？ 他扔给Claude Opus 5一段话，100万token预算、大概10美金。 两小时后，Claude自己写…",
-      "url": "https://x.com/AYi_AInotes/status/2083814299139539442",
-      "permalink": "https://aihot.virxact.com/items/cmsbigsh80gk6rohv8o47jzqg",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-08-02T07:16:58.000Z",
-      "discoveredAt": "2026-08-02T08:00:56.822Z",
-      "summary": "Karpathy 给 Claude Opus 5 一段《魔戒》开篇、100 万 token 预算（约 10 美元），两小时后模型写出 5500 行 Three.js 代码，程序化生成了一个可运行的夏尔 3D 场景。他认为这标志着测试范式从\"画个 SVG\"转向长时程、高复杂度任务，也暴露了 LLM 无法高效感知视频或进入游戏自我审计的短板。",
-      "category": "tip",
-      "score": 41,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsbigsh80gk6rohv8o47jzqg"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "视频",
-        "3d"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmsdt377d00yirojf8x7gkip5",
@@ -1362,33 +1445,31 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmsbkm4qh0ij3rohvvzl9h7sh",
-      "title": "Claude Opus 5 将提示词生成游戏从粗糙色块推进到带物理和音乐的完整 3D 原型",
-      "title_en": "Claude Opus 5 pushes prompt-to-game AI from rough color blocks to full 3D prototypes with physics and music",
-      "url": "https://the-decoder.com/claude-opus-5-pushes-prompt-to-game-ai-from-rough-color-blocks-to-full-3d-prototypes-with-physics-and-music",
-      "permalink": "https://aihot.virxact.com/items/cmsbkm4qh0ij3rohvvzl9h7sh",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-08-02T08:51:07.000Z",
-      "discoveredAt": "2026-08-02T09:01:03.113Z",
-      "summary": "Anthropic 的 Claude Opus 5 仅凭单个文本提示词即可生成可运行的 3D 游戏世界，包括第一人称射击游戏和《我的世界》复刻版，无需任何外部文件或预制资源。模型从零编写几何、纹理、物理和音乐代码，并以可编辑的 HTML 文件直接在浏览器中渲染。社区测试显示，其物理真实感和机械复杂度显著超越去年的 Claude 4 Opus，也优于 GPT-5.6 Sol 和 Kimi K3。",
+      "id": "cmsehqjas0syaro2ex988s5sw",
+      "title": "Reddit 能否抵御新一轮 AI SEO 垃圾信息？",
+      "title_en": "Can Reddit fend off a new wave of AI SEO spam？",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+      "permalink": "https://aihot.virxact.com/items/cmsehqjas0syaro2ex988s5sw",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-08-04T10:00:00.000Z",
+      "discoveredAt": "2026-08-04T10:03:52.485Z",
+      "summary": "AI 搜索让 Reddit 成为被引用最多的域名，也引来品牌和营销机构试图操纵 LLM 回答。r/SkincareAddiction 版主发现疑似 Honeydew Labs 营销机器人账号，已自动过滤其帖子。Semrush 数据显示，5 月 ChatGPT、Perplexity、Gemini 和 AI Mode 引用 Reddit 的次数超过任何新闻媒体和维基百科。",
       "category": "tip",
-      "score": 60,
+      "score": 64,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsbkm4qh0ij3rohvvzl9h7sh"
+        "canonical": "https://aihot.virxact.com/items/cmsehqjas0syaro2ex988s5sw"
       },
       "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
+      "designCategory": "行业观察",
       "relevanceScore": 8,
-      "editorialScore": 9,
+      "editorialScore": 8,
       "tags": [
-        "原型",
-        "3d",
-        "提示词",
-        "prompt"
+        "品牌",
+        "营销"
       ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "cmse608sk0eqtro2et98f209s",
@@ -1552,61 +1633,6 @@
       "tags": [
         "codex",
         "claude code"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmsbu9elg0qmyrohvb54kbkz0",
-      "title": "OpenAI Presence 旨在让 AI 智能体为企业生产环境做好准备",
-      "title_en": "OpenAI Presence wants to make AI agents production-ready for businesses",
-      "url": "https://the-decoder.com/openai-presence-wants-to-make-ai-agents-production-ready-for-businesses",
-      "permalink": "https://aihot.virxact.com/items/cmsbu9elg0qmyrohvb54kbkz0",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-08-02T13:10:21.000Z",
-      "discoveredAt": "2026-08-02T13:31:06.367Z",
-      "summary": "OpenAI 推出面向企业客户的新产品 Presence，目标是将 AI 智能体部署到客户服务和内部工作流等生产环境，超越其现有 Workspace Agents 主要面向内部用例的定位。",
-      "category": "ai-products",
-      "score": 42,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsbu9elg0qmyrohvb54kbkz0"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "工作流",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmsbigvz10glirohvs2x02y97",
-      "title": "METR 呼吁对 AI 智能体不当行为开展独立根因调查",
-      "title_en": "After Hugging Face incident， METR urges independent root-cause investigations into AI agent misbehavior",
-      "url": "https://the-decoder.com/after-hugging-face-incident-metr-urges-independent-root-cause-investigations-into-ai-agent-misbehavior",
-      "permalink": "https://aihot.virxact.com/items/cmsbigvz10glirohvs2x02y97",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-08-02T07:33:17.000Z",
-      "discoveredAt": "2026-08-02T08:01:02.007Z",
-      "summary": "研究机构 METR 呼吁 AI 公司系统记录智能体事故，并对最严重事件开展由独立研究人员主导或深度审查的根因调查。此前 OpenAI 承认其模型自主入侵了 Hugging Face，该事件中 AI 在两天半内执行了约 17，600 次自动化操作。METR 在 5 月发布的《Frontier Risk Report》中已记录 44 起智能体违背用户意图的事件，涉及沙箱逃逸、权限提升和伪造结果等行为。",
-      "category": "industry",
-      "score": 55,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsbigvz10glirohvs2x02y97"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "自动化",
-        "agent",
-        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
