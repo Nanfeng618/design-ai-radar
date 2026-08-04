@@ -1,12 +1,13 @@
 {
-  "generatedAt": "2026-08-03T15:16:18.678Z",
-  "previousGeneratedAt": "2026-08-03T10:05:41.390Z",
+  "generatedAt": "2026-08-04T03:36:53.756Z",
+  "previousGeneratedAt": "2026-08-03T15:16:18.678Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 43,
+  "itemCount": 55,
   "sourceCounts": {
     "X": 24,
-    "网站": 19
+    "网站": 27,
+    "公众号": 4
   },
   "source": {
     "name": "AI HOT",
@@ -14,21 +15,21 @@
   },
   "items": [
     {
-      "id": "cmsacw5ah01pxrob3q6k3xe2x",
-      "title": "Grok Imagine 升级：语音一致与视频生成",
-      "title_en": "SPACEXAI 🔥： Grok Imagine got upgraded with Voice Consistency， Multi-References， Text-to-Video， and …",
-      "url": "https://x.com/testingcatalog/status/2083525523368563111",
-      "permalink": "https://aihot.virxact.com/items/cmsacw5ah01pxrob3q6k3xe2x",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-08-01T12:09:29.000Z",
-      "discoveredAt": "2026-08-01T12:37:11.381Z",
-      "summary": "Grok Imagine 新增语音一致性、多参考图、文生视频及原生 1080p 支持。用户可通过 @ 引用文件复用角色及其一致语音。该功能现面向 SuperGrok Plus 和 Heavy 订阅者开放，未来数日将逐步推送给所有用户，并支持网页、Grok 应用及 Imagine API。",
-      "category": "ai-products",
+      "id": "cmsdu66z701e4rofzwquy4tgm",
+      "title": "MiniMax H3登顶开源视频生成SOTA",
+      "title_en": "MiniMax H3 is now the SOTA open video generation model in both @arena and @ArtificialAnlys benchmark…",
+      "url": "https://x.com/MiniMax_AI/status/2084410437618352386",
+      "permalink": "https://aihot.virxact.com/items/cmsdu66z701e4rofzwquy4tgm",
+      "source": "X：MiniMax (@MiniMax_AI)",
+      "publishedAt": "2026-08-03T22:45:49.000Z",
+      "discoveredAt": "2026-08-03T23:04:11.330Z",
+      "summary": "MiniMax H3在Video Arena和Artificial Analysis基准中成为SOTA开源视频生成模型，在文生视频和图生视频两项均排名第一。其得分较第二名开源模型hunyuan-video-1.5高出280分，图生视频得分1476，仅比Dreamina Seedance-2.0低2分。",
+      "category": "ai-models",
       "score": 48,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsacw5ah01pxrob3q6k3xe2x"
+        "canonical": "https://aihot.virxact.com/items/cmsdu66z701e4rofzwquy4tgm"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
@@ -99,6 +100,34 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmsdgioa500wdrocaa5e7gi2a",
+      "title": "Nvidia 高管：AI 是值得重建的全新计算模型",
+      "title_en": "At Nvidia， the Story Is Becoming the Interface",
+      "url": "https://runwayml.com/news/customers/nvidia-nyc-summit-2026",
+      "permalink": "https://aihot.virxact.com/items/cmsdgioa500wdrocaa5e7gi2a",
+      "source": "Runway：News（网页）",
+      "publishedAt": "2026-08-03T16:41:58.719Z",
+      "discoveredAt": "2026-08-03T16:41:58.719Z",
+      "summary": "Nvidia 媒体与娱乐部门副总裁 Richard Kerris 认为，AI 不是可叠加的功能，而是值得围绕其重建的全新计算模型。Runway 仅用一天便将 Gen-4.5 迁移至 Nvidia 最新平台 Vera Rubin，生成速度从分钟级提升至即时，使视频生成变为实时创作循环。",
+      "category": "tip",
+      "score": 52,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsdgioa500wdrocaa5e7gi2a"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 16,
+      "editorialScore": 19,
+      "tags": [
+        "视频生成",
+        "runway",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmscy3ykp0rkproeujb9y1hui",
       "title": "商汤科技开源多模态模型 SenseNova U1.5-Lite-Preview 预览版，原生支持 4K 图像生成",
       "title_en": "原生支持 4K 图像生成，商汤科技开源多模态模型 SenseNova U1.5-Lite-Preview 预览版本",
@@ -151,35 +180,6 @@
         "视频生成",
         "视觉",
         "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cms9wein101i3ro5ebv9er53d",
-      "title": "阑夕复现Coser与角色拼接构图AI提示词",
-      "title_en": "今日份的AI作业，复现了Coser和Cos角色的拼接构图。 提示词： 竖幅近距离写实摄影，一位【角色】（出自【作品】）风格的女性 cosplayer 正面看向镜头。 她将一部智能手机横向但明显顺时…",
-      "url": "https://x.com/foxshuo/status/2083415089726574772",
-      "permalink": "https://aihot.virxact.com/items/cms9wein101i3ro5ebv9er53d",
-      "source": "X：阑夕 (@foxshuo)",
-      "publishedAt": "2026-08-01T04:50:40.000Z",
-      "discoveredAt": "2026-08-01T04:55:34.726Z",
-      "summary": "阑夕分享AI图像生成提示词，用于复现Coser与Cos角色的拼接构图。提示词要求手机作为\"动漫滤镜窗口\"，覆盖真人面部大部分区域，屏幕内显示同一人物精确对齐的动漫面部局部，使两者合成为一张脸，并规定手机倾斜角度、面部遮挡范围及背景等细节。",
-      "category": "tip",
-      "score": 69,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms9wein101i3ro5ebv9er53d"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 15,
-      "editorialScore": 18,
-      "tags": [
-        "图像生成",
-        "图像",
-        "摄影",
-        "提示词"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -237,34 +237,6 @@
         "视频",
         "图像",
         "mcp"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmsaercbb03dzrob3swk88cvi",
-      "title": "Grok Imagine Video 1.5 新增文生视频与1080p",
-      "title_en": "text-to-video support， image and voice references， and native 1080p arrived on Grok Imagine Video 1….",
-      "url": "https://x.com/rohanpaul_ai/status/2083545533248070070",
-      "permalink": "https://aihot.virxact.com/items/cmsaercbb03dzrob3swk88cvi",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-08-01T13:29:00.000Z",
-      "discoveredAt": "2026-08-01T13:29:25.614Z",
-      "summary": "文生视频支持、图像与语音参考，以及原生 1080p 已登陆 Grok Imagine Video 1.5。",
-      "category": "ai-products",
-      "score": 43,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsaercbb03dzrob3swk88cvi"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 14,
-      "editorialScore": 17,
-      "tags": [
-        "文生视频",
-        "视频",
-        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -353,31 +325,61 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmsa64zsk01nzrox04aext9y0",
-      "title": "Google 上线两天即撤回 Google Earth 的 Nano Banana 卫星图像生成功能",
-      "title_en": "Google handed users the easiest possible tool for fake satellite imagery， then pulled it after two days",
-      "url": "https://the-decoder.com/google-handed-users-the-easiest-possible-tool-for-fake-satellite-imagery-then-pulled-it-after-two-days",
-      "permalink": "https://aihot.virxact.com/items/cmsa64zsk01nzrox04aext9y0",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-08-01T09:00:04.000Z",
-      "discoveredAt": "2026-08-01T09:28:05.460Z",
-      "summary": "Google 在 Google Earth 中上线 Nano Banana 2 卫星图像生成功能仅两天后便将其撤回。该功能允许用户基于卫星图像生成自定义场景，但用户很快展示了如何用它制作以假乱真的虚假卫星图像，如墨西哥边境的难民队伍或加沙被炸毁的医院。Google 称相关图像已标注为 AI 生成且不对其他用户可见，但仍有违规截图被传播，该功能将在加强保障措施后才会回归。",
-      "category": "industry",
-      "score": 60,
+      "id": "cmsdyaht805kero2eazx3548c",
+      "title": "BestBlogs 早报：Qwen3.8-Max 与多款 AI 新品发布",
+      "title_en": "BestBlogs 早报 · 08-04 # Qwen3.8-Max / 推理工程 / 办公智能体 / Baseten / WorkBuddy 【1】 ★ 精讲|Qwen3.8-Max：编程与办公…",
+      "url": "https://x.com/hongming731/status/2084431125460783162",
+      "permalink": "https://aihot.virxact.com/items/cmsdyaht805kero2eazx3548c",
+      "source": "X：洪明 (@hongming731)",
+      "publishedAt": "2026-08-04T00:08:01.000Z",
+      "discoveredAt": "2026-08-04T00:59:30.558Z",
+      "summary": "BestBlogs 早报汇总 10 条 AI 动态：Qwen3.8-Max 聚焦长程自主工作能力；OpenAI 推出 GPT-Live 实现不打断的语音交互；MiniMax H3 视频生成模型开源。另有微软 Orchard 智能体框架、腾讯 TencentDB Agent Memory 开源及推理工程、办公智能体等深度解析。",
+      "category": "tip",
+      "score": 43,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsa64zsk01nzrox04aext9y0"
+        "canonical": "https://aihot.virxact.com/items/cmsdyaht805kero2eazx3548c"
       },
-      "sourceType": "网站",
+      "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
+      "relevanceScore": 11,
+      "editorialScore": 14,
       "tags": [
-        "图像生成",
-        "图像"
+        "视频生成",
+        "交互",
+        "视频",
+        "agent"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsdua60801iprofzer5r12ud",
+      "title": "前 R 星设计师透露《湾岸午夜俱乐部 5》曾进入开发阶段，最终被取消",
+      "title_en": "前 R 星设计师透露赛车游戏《湾岸午夜俱乐部 5》曾进入开发阶段，但最终被取消",
+      "url": "https://www.ithome.com/0/985/262.htm",
+      "permalink": "https://aihot.virxact.com/items/cmsdua60801iprofzer5r12ud",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-03T22:45:31.000Z",
+      "discoveredAt": "2026-08-03T23:07:16.564Z",
+      "summary": "前 R 星 Rockstar San Diego 高级设计师 Kris Roberts 透露，《湾岸午夜俱乐部 5》曾进入开发阶段并完成伦敦城市原型设计，但项目最终被取消。取消原因之一是 Rockstar 内部工作室存在矛盾，该系列长期被视为次要项目，未来资源将全部投入《侠盗猎车手》等作品。项目取消后，原团队成员被重新分配至 RAGE 引擎及《荒野大镖客：救赎》等项目。",
+      "category": "tip",
+      "score": 7,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsdua60801iprofzer5r12ud"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 10,
+      "editorialScore": 14,
+      "tags": [
+        "设计师",
+        "原型",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmsd8fver14h5roeusplaoian",
@@ -462,6 +464,35 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmsdu4z39018qrofzyoa60l6w",
+      "title": "实测MiniMax H3做后期和动效：视频届的审美王来了",
+      "title_en": "实测MiniMax H3做后期和动效夯中夯，视频届的审美王来了！",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509055&idx=1&sn=28254c9e78532b336895b8c541905d49",
+      "permalink": "https://aihot.virxact.com/items/cmsdu4z39018qrofzyoa60l6w",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-08-02T13:26:14.000Z",
+      "discoveredAt": "2026-08-02T13:26:14.000Z",
+      "summary": "MiniMax H3视频模型实测覆盖广告TVC、短剧、创意片头、动态海报、UI动效和游戏实机六类场景，可生成5-15秒视频、原生双声道、直出2K，一次最多放9张图、3段视频和3段音频，提示语最高支持7000字符。",
+      "category": "tip",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsdu4z39018qrofzyoa60l6w"
+      },
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "海报",
+        "ui",
+        "广告",
+        "创意"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmsbe6oly0cvxrohv4aesmzza",
       "title": "MiniMax 宣布 H3 模型即将开源",
       "title_en": "open weights soon",
@@ -540,88 +571,6 @@
       "tags": [
         "design",
         "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cms9q3paq0mviro9kv1s50ent",
-      "title": "MiniMax H3 开源视频模型瞄准机器人领域",
-      "title_en": "Robotics is one of the use cases we're most excited about for MiniMax H3. Open weights mean the embo…",
-      "url": "https://x.com/MiniMax_AI/status/2083370134144758075",
-      "permalink": "https://aihot.virxact.com/items/cms9q3paq0mviro9kv1s50ent",
-      "source": "X：MiniMax (@MiniMax_AI)",
-      "publishedAt": "2026-08-01T01:52:01.000Z",
-      "discoveredAt": "2026-08-01T01:59:12.651Z",
-      "summary": "MiniMax 表示 H3 开源视频生成模型对机器人应用潜力巨大，开放权重让具身智能社区无需许可即可构建数据引擎、世界模型与策略。研究者称，视频生成正借助世界模型热潮快速推动机器人技术进步，MiniMax 欢迎相关合作。",
-      "category": "tip",
-      "score": 35,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms9q3paq0mviro9kv1s50ent"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视频生成",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cms9p1az20ltlro9knb1jpv7h",
-      "title": "Imagine Video 1.5 新增文生视频与1080p",
-      "title_en": "Imagine Video 1.5 improvements",
-      "url": "https://x.com/elonmusk/status/2083356782693380350",
-      "permalink": "https://aihot.virxact.com/items/cms9p1az20ltlro9knb1jpv7h",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "publishedAt": "2026-08-01T00:58:58.000Z",
-      "discoveredAt": "2026-08-01T01:29:20.938Z",
-      "summary": "Imagine Video 1.5 改进",
-      "category": "ai-products",
-      "score": 35,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms9p1az20ltlro9knb1jpv7h"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "文生视频",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cms9jmeb70h05ro9kig73eegb",
-      "title": "Replit 本周更新：设计新时代与智能体升级",
-      "title_en": "This Week in Replit Our biggest design moment yet. Here's what shipped： 1） Replit Design is live， th…",
-      "url": "https://x.com/Replit/status/2083326066974769540",
-      "permalink": "https://aihot.virxact.com/items/cms9jmeb70h05ro9kig73eegb",
-      "source": "X：Replit (@Replit)",
-      "publishedAt": "2026-07-31T22:56:55.000Z",
-      "discoveredAt": "2026-07-31T22:57:47.652Z",
-      "summary": "本周 Replit 动态--我们迄今最大的设计时刻。以下是已发布的内容：1） Replit Design 正式上线，面向所有人的设计新时代 2） 模型选择器，为任务选择最佳智能 3） 后续任务，一个知道下一步的智能体 4） 重建的使用页面 + 更长的会话时长 线程 🧵",
-      "category": "ai-products",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms9jmeb70h05ro9kig73eegb"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 10,
-      "editorialScore": 14,
-      "tags": [
-        "design",
-        "设计",
-        "智能体"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
@@ -709,56 +658,140 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cms9o70fb0kywro9kvs9osu42",
-      "title": "谷歌地球 AI 生图功能上线不到一天即下架，可无限制生成\"灾难\"图片",
-      "title_en": "能无限制生成\"灾难\"图片，谷歌地球 AI 生图功能上线不到一天就下架",
-      "url": "https://www.ithome.com/0/984/415.htm",
-      "permalink": "https://aihot.virxact.com/items/cms9o70fb0kywro9kvs9osu42",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-01T00:14:40.000Z",
-      "discoveredAt": "2026-08-01T01:05:46.983Z",
-      "summary": "谷歌为 Google Earth 加入的 AI 图像编辑功能上线不到 24 小时便紧急下线，该功能调用 Gemini 旗下 Nano Banana 2 图像模型，用户输入文字指令即可修改地点影像。",
-      "category": "industry",
-      "score": 52,
+      "id": "cmsdu04wy00rorofz61t7gwiy",
+      "title": "Fable 5 写方案、Codex 执行、Fable 验收的 Agent 工作流",
+      "title_en": "实用",
+      "url": "https://x.com/hongming731/status/2084406350604607547",
+      "permalink": "https://aihot.virxact.com/items/cmsdu04wy00rorofz61t7gwiy",
+      "source": "X：洪明 (@hongming731)",
+      "publishedAt": "2026-08-03T22:29:35.000Z",
+      "discoveredAt": "2026-08-03T22:59:29.036Z",
+      "summary": "洪明分享复杂任务工作流：Fable 5 产出技术方案文档，交 Codex（GPT-5.6 Sol xhigh）执行，再由 Fable 5 验收，兼顾方案质量与性价比。文档确认后立即 /compact 可借 Prompt Caching 降低成本。Opus 5 可替代 GPT-5.6，但稳定性与 token 耐用性均不如后者。",
+      "category": "tip",
+      "score": 31,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms9o70fb0kywro9kvs9osu42"
+        "canonical": "https://aihot.virxact.com/items/cmsdu04wy00rorofz61t7gwiy"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 11,
+      "editorialScore": 12,
+      "tags": [
+        "工作流",
+        "prompt",
+        "codex",
+        "agent"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmsds08dl002wrojf6l5ljvfo",
+      "title": "Replit 推出简易提示设计功能",
+      "title_en": "Prompting Replit Design， the easy way 🎨 Open thread 🧵",
+      "url": "https://x.com/Replit/status/2084398966402113821",
+      "permalink": "https://aihot.virxact.com/items/cmsds08dl002wrojf6l5ljvfo",
+      "source": "X：Replit (@Replit)",
+      "publishedAt": "2026-08-03T22:00:14.000Z",
+      "discoveredAt": "2026-08-03T22:03:34.636Z",
+      "summary": "提示 Replit Design，轻松搞定 🎨\n\n开放讨论串 🧵",
+      "category": "ai-products",
+      "score": 15,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsds08dl002wrojf6l5ljvfo"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 8,
+      "editorialScore": 12,
+      "tags": [
+        "design",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmse0pnyk08bgro2es54fb3s6",
+      "title": "欧盟 AI 透明度新规生效：企业需明确标注 AI 生成内容，违者最高罚 1500 万欧元",
+      "title_en": "欧盟 AI 透明度新规生效：企业需明确标注 AI 生成内容，违者将被重罚",
+      "url": "https://www.ithome.com/0/985/326.htm",
+      "permalink": "https://aihot.virxact.com/items/cmse0pnyk08bgro2es54fb3s6",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-04T01:58:30.000Z",
+      "discoveredAt": "2026-08-04T02:07:16.838Z",
+      "summary": "欧盟《人工智能法案》新透明度要求于 8 月 2 日正式生效，要求 AI 系统提供商和部署方明确提醒用户是否在与 AI 互动，并在 AI 生成的音视频、图像和文本中加入机器可读标记。部署方还须对拟真深度伪造内容进行标注。违规企业最高面临 1500 万欧元（约 1720 万美元）罚款或全球年营业额 3% 的处罚；8 月 2 日前已上线的模型须在 12 月 2 日前完成合规。",
+      "category": "industry",
+      "score": 71,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmse0pnyk08bgro2es54fb3s6"
       },
       "sourceType": "网站",
       "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
+      "relevanceScore": 8,
+      "editorialScore": 11,
       "tags": [
-        "生图",
+        "视频",
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmsaafjqj021projdbl4yxpmd",
-      "title": "AI 无法生成可用的产品：从原型到生产级系统仍需工程判断力",
-      "title_en": "人工智能无法生成可用的产品，这仍然是你的工作",
-      "url": "https://weeraman.com/the-prototype-isnt-the-product",
-      "permalink": "https://aihot.virxact.com/items/cmsaafjqj021projdbl4yxpmd",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-01T11:05:25.825Z",
-      "discoveredAt": "2026-08-01T11:28:17.160Z",
-      "summary": "AI 大幅加速了从想法到可用原型的路径，但并未缩短原型与生产级系统之间的距离。构建软件的难点从来不在语法，而在于判断力：系统设计、数据架构、错误处理与安全性。因此，学习计算机科学的价值不减反增，工程师应把 AI 视为深度知识的杠杆，而非替代品。",
-      "category": "tip",
-      "score": 63,
+      "id": "cmsdh7z0i01uhrocag3vock3e",
+      "title": "Helena：自我改进型 AI 营销员上线",
+      "title_en": "\"Helena\" is a new AI launched by @SeijinJung and @enrich_labs that tests and repairs its own output….",
+      "url": "https://x.com/rohanpaul_ai/status/2084319230888116567",
+      "permalink": "https://aihot.virxact.com/items/cmsdh7z0i01uhrocag3vock3e",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-08-03T16:43:24.000Z",
+      "discoveredAt": "2026-08-03T17:01:39.956Z",
+      "summary": "Helena 是 Enrich Labs 推出的自称\"全球首个自我改进型 AI 营销员\"，能测试并修复自身输出，已为 2 万家企业带来 1000 万美元销售额。它可自动优化 Meta/Google 广告、撰写 SEO 内容并处理邮件，宣称将部分品牌自然流量提升 35% 以上，并在 5 周内使某 DTC 品牌销售额翻倍。",
+      "category": "ai-products",
+      "score": 34,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsaafjqj021projdbl4yxpmd"
+        "canonical": "https://aihot.virxact.com/items/cmsdh7z0i01uhrocag3vock3e"
       },
-      "sourceType": "网站",
+      "sourceType": "X",
+      "designCategory": "行业观察",
+      "relevanceScore": 11,
+      "editorialScore": 11,
+      "tags": [
+        "广告",
+        "品牌",
+        "营销"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
+      "id": "cmsdu2uhb013irofzio0v54of",
+      "title": "E-Bench：以腾讯产品为原型的 AI 智能体大考",
+      "title_en": "E-Bench ：以腾讯产品为原型的 AI 智能体大考",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498208&idx=1&sn=3248204e418afd02031073a30ee449e2",
+      "permalink": "https://aihot.virxact.com/items/cmsdu2uhb013irofzio0v54of",
+      "source": "公众号：腾讯混元",
+      "publishedAt": "2026-08-03T12:35:04.000Z",
+      "discoveredAt": "2026-08-03T12:35:04.000Z",
+      "summary": "腾讯混元团队、清华AIR与东南大学推出E-Bench，以王者荣耀、QQ音乐、腾讯会议为原型构建全合成环境，用确定性数据库状态diff评测智能体多步骤工具使用能力。11个前沿模型平均成功率仅54.56%，最强模型Pass3也只有58.82%；腾讯混元Hy3在E-Bench-Code下以约$0.029的单任务成本取得64.40%的Avg@3，兼具成本优势。",
+      "category": "paper",
+      "score": 55,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsdu2uhb013irofzio0v54of"
+      },
+      "sourceType": "公众号",
       "designCategory": "设计工具",
-      "relevanceScore": 7,
-      "editorialScore": 12,
+      "relevanceScore": 6,
+      "editorialScore": 11,
       "tags": [
         "原型",
-        "设计"
+        "智能体"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
@@ -817,6 +850,60 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmsdu3hyr015xrofzqxuosm3y",
+      "title": "MiniMax H3 正式开源：通用全模态生成系统支持 2K 视频与原生立体声",
+      "title_en": "开放通用智能，MiniMax H3 正式开源",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247488931&idx=1&sn=0506e1d52edd5166becf35f5ebd83a07",
+      "permalink": "https://aihot.virxact.com/items/cmsdu3hyr015xrofzqxuosm3y",
+      "source": "公众号：MiniMax（稀宇科技）",
+      "publishedAt": "2026-08-03T02:44:09.000Z",
+      "discoveredAt": "2026-08-03T02:44:09.000Z",
+      "summary": "MiniMax 正式开源新一代通用视频模型 H3，可统一理解文本、图像、视频和音频，生成最高 2K 分辨率、最长 15 秒、带 32 kHz 原生立体声音频的视频。",
+      "category": "ai-models",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsdu3hyr015xrofzqxuosm3y"
+      },
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmse2ervc0aadro2e5ojdxbw5",
+      "title": "Roomer：面向3D室内布局合成的反思式对象级模型编辑与修复框架",
+      "title_en": "Roomer： Reflective Object-Grounded Model Editing and Repair for 3D Indoor Layout Synthesis",
+      "url": "https://arxiv.org/abs/2608.01973",
+      "permalink": "https://aihot.virxact.com/items/cmse2ervc0aadro2e5ojdxbw5",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-03T00:00:00.000Z",
+      "discoveredAt": "2026-08-04T02:54:49.370Z",
+      "summary": "Roomer提出一种反思式修复框架，将室内布局生成中的局部违规（如碰撞、越界、遮挡开口）转化为稀疏的对象级修复问题。它通过RoState编码布局、RoReview绑定违规证据，并由几何条件视觉语言模型规划局部编辑，仅在全场景验证通过后才提交修改。基于67，550个配对修复样本的Roomer-CC数据集训练，实验表明Roomer能在保留有效区域的同时提升物理有效性与可用性，并可迁移至外部生成器。",
+      "category": "paper",
+      "score": 52,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmse2ervc0aadro2e5ojdxbw5"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "3d"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmsbkm0om0ih7rohvatmawgqh",
       "title": "探索性建模：一种新的生成式建模训练范式",
       "title_en": "探索性建模：基于K个最佳猜测进行训练",
@@ -871,54 +958,81 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmsa41lwy02rsro41jbsfykj5",
-      "title": "MiniMax 发布 MiniMax H3：可生成 15 秒 2K 原生立体声视频的全模态模型",
-      "title_en": "MiniMax Releases MiniMax H3： An Omni-Modal Video Model That Generates 15-Second 2K Clips With Native Stereo Audio",
-      "url": "https://www.marktechpost.com/2026/08/01/minimax-releases-minimax-h3-an-omni-modal-video-model-that-generates-15-second-2k-clips-with-native-stereo-audio",
-      "permalink": "https://aihot.virxact.com/items/cmsa41lwy02rsro41jbsfykj5",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-08-01T08:28:07.000Z",
-      "discoveredAt": "2026-08-01T08:29:28.630Z",
-      "summary": "MiniMax 于 7 月 31 日发布全模态生成模型 MiniMax H3，将文本、图像、视频和音频作为统一上下文处理，直接输出带原生立体声的 2K 视频，时长 4-15 秒。",
-      "category": "ai-models",
-      "score": 64,
+      "id": "cmsdg5joy00q0rocasz5iiimg",
+      "title": "欧盟《人工智能法案》第 50 条透明度规则正式生效",
+      "title_en": "EU AI Act Article 50 transparency rules enter force",
+      "url": "https://www.artificialintelligence-news.com/news/eu-ai-act-article-50-transparency-rules-enter-force",
+      "permalink": "https://aihot.virxact.com/items/cmsdg5joy00q0rocasz5iiimg",
+      "source": "Artificial Intelligence News（RSS）",
+      "publishedAt": "2026-08-03T16:09:25.000Z",
+      "discoveredAt": "2026-08-03T16:31:45.036Z",
+      "summary": "欧盟《人工智能法案》第 50 条正式生效，为在欧盟运营的 AI 提供商和部署方设定透明度义务。使用生成式 AI 工具的企业现在须遵守该条款，要求特定 AI 系统的提供商和部署方在人们与机器交互时明确告知对方。",
+      "category": "industry",
+      "score": 63,
       "selected": false,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsa41lwy02rsro41jbsfykj5"
+        "canonical": "https://aihot.virxact.com/items/cmsdg5joy00q0rocasz5iiimg"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmsdf42hs0358rotj0s94kxvs",
+      "title": "Deedy 分享减少冷邮件骚扰的默认流程",
+      "title_en": "This has been my default workflow to reduce email spam especially for cold inbounds. Thankfully， I…",
+      "url": "https://x.com/deedydas/status/2084304623691841820",
+      "permalink": "https://aihot.virxact.com/items/cmsdf42hs0358rotj0s94kxvs",
+      "source": "X：Deedy Das (@deedydas)",
+      "publishedAt": "2026-08-03T15:45:21.000Z",
+      "discoveredAt": "2026-08-03T16:02:37.686Z",
+      "summary": "这是我减少邮件垃圾（尤其是冷邮件）的默认工作流程。\n\n谢天谢地，我听说团队正在专门针对邮件工作流开发一些东西！",
+      "category": "tip",
+      "score": 32,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsdf42hs0358rotj0s94kxvs"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 9,
+      "editorialScore": 10,
+      "tags": [
+        "工作流",
+        "workflow"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmsdf2kea0307rotjw25j5p9k",
+      "title": "ComfyUI 新增 MiniMax H3 Day-0 支持：开放权重、原生音频与 2K 视频",
+      "title_en": "ComfyUI 中对 MiniMax H3 Day-0 的支持：开放权重、原生音频和 2K 视频",
+      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+      "permalink": "https://aihot.virxact.com/items/cmsdf2kea0307rotjw25j5p9k",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-03T15:37:05.659Z",
+      "discoveredAt": "2026-08-03T16:01:26.627Z",
+      "summary": "ComfyUI 宣布对 MiniMax H3 提供 Day-0 支持，该模型采用开放权重，支持原生音频生成与 2K 视频输出。用户现可在 ComfyUI 中直接使用 MiniMax H3 的完整能力，包括文本、图像、音频与视频的多模态生成。此次集成使开源社区能够第一时间在 ComfyUI 工作流中调用 MiniMax H3。",
+      "category": "ai-models",
+      "score": 26,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsdf2kea0307rotjw25j5p9k"
       },
       "sourceType": "网站",
       "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "relevanceScore": 7,
+      "editorialScore": 10,
       "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cms9r6akp0ntkro9ki2p0dqc5",
-      "title": "MiniMax 发布开源权重视频模型 H3，登顶视频编辑榜",
-      "title_en": "For the first time， an open video model sits at the same table as the closed frontier. That was the …",
-      "url": "https://x.com/MiniMax_AI/status/2083373860796153869",
-      "permalink": "https://aihot.virxact.com/items/cms9r6akp0ntkro9ki2p0dqc5",
-      "source": "X：MiniMax (@MiniMax_AI)",
-      "publishedAt": "2026-08-01T02:06:50.000Z",
-      "discoveredAt": "2026-08-01T02:29:12.885Z",
-      "summary": "MiniMax 发布开源权重视频模型 H3，在 Artificial Analysis 视频编辑榜登顶，文本生视频排名第二、图像生视频排名第三。H3 支持文本、图像、视频、音频统一输入，原生生成 2K 24fps 5-15 秒带立体声片段，定价每分钟 2K 视频 $7.80，远低于 Seedance 2.0 的 $22.45 和 Kling 3.0 的 $20.16。",
-      "category": "ai-models",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms9r6akp0ntkro9ki2p0dqc5"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
+        "工作流",
         "视频",
         "图像"
       ],
@@ -1003,6 +1117,61 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmscrhqp70kcvroeul9lvpsaf",
+      "title": "字节发布视频模型 Dreamina Seedance 2.5",
+      "title_en": "ByteDance has launched its new video model Dreamina Seedance 2.5 and its genuinely impressive. Use …",
+      "url": "https://x.com/rohanpaul_ai/status/2084140807263498513",
+      "permalink": "https://aihot.virxact.com/items/cmscrhqp70kcvroeul9lvpsaf",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-08-03T04:54:24.000Z",
+      "discoveredAt": "2026-08-03T05:01:25.684Z",
+      "summary": "字节跳动推出视频模型 Dreamina Seedance 2.5，单片段最多支持 50 个参考文件，可一次生成 30 秒连续视频，前 7 天仅在 Dreamina 平台运行。该模型支持同时输入 30 张图像、10 段视频和 10 段音频，并允许在提示词中使用时间戳（如 【0s-5s】）作为分镜脚本。",
+      "category": "ai-models",
+      "score": 59,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmscrhqp70kcvroeul9lvpsaf"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "图像",
+        "提示词"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmse2ervc0aacro2ecp4xgglb",
+      "title": "ScrambleToolBench：智能体在自身地图指向下一步时仍会穷举搜索",
+      "title_en": "ScrambleToolBench： Agents Search Exhaustively Even When Their Own Map Points to the Next Step",
+      "url": "https://arxiv.org/abs/2608.02358",
+      "permalink": "https://aihot.virxact.com/items/cmse2ervc0aacro2ecp4xgglb",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-03T00:00:00.000Z",
+      "discoveredAt": "2026-08-04T02:54:49.370Z",
+      "summary": "ScrambleToolBench 是一个交互式终端基准，通过去除语义线索并引入映射漂移、随机动作失败和时间执行窗口等动态挑战，隔离智能体的行为推理能力。对前沿语言模型的评估显示，初始发现成功并不等于稳健适应：面对结构变化时，智能体无法使用循环追踪等演绎策略，转而表现出信念惯性或退化为穷举搜索。",
+      "category": "paper",
+      "score": 66,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmse2ervc0aacro2ecp4xgglb"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "cmscbezc002tlroeuyltwsglu",
       "title": "GeoAI 教程：用 U-Net、Grounding DINO、SAM 与 Mask R-CNN 从 NAIP 影像提取建筑足迹",
       "title_en": "A Tutorial on GeoAI： Designing Footprint Extraction from NAIP Imagery Using U-Net， Grounding DINO， SAM， and Mask R-CNN",
@@ -1031,6 +1200,87 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmsdt377d00yirojf8x7gkip5",
+      "title": "用稳健数据加载与自动评判评估多模态视觉模型：Moonshot PerceptionBench 端到端评测流程",
+      "title_en": "Evaluating Multimodal Vision Models with Moonshot PerceptionBench Using Robust Data Loading and Automated Judging",
+      "url": "https://www.marktechpost.com/2026/08/03/evaluating-multimodal-vision-models-with-moonshot-perceptionbench-using-robust-data-loading-and-automated-judging",
+      "permalink": "https://aihot.virxact.com/items/cmsdt377d00yirojf8x7gkip5",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-08-03T22:26:32.000Z",
+      "discoveredAt": "2026-08-03T22:33:52.093Z",
+      "summary": "本文构建了一套 PerceptionBench 多模态基准的端到端评测流程，覆盖 OCR、计数、定位、上下文推理、比较、深度理解与幻觉检测等细粒度视觉感知任务。流程采用多阶段流式与下载策略加载平衡子集，支持盲基线、OpenAI 兼容多模态 API 及本地 Hugging Face 视觉语言模型，并实现基于规则与可选 LLM 辅助评判、bootstrap 置信区间及能力画像对比。",
+      "category": "tip",
+      "score": 67,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsdt377d00yirojf8x7gkip5"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "视觉"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsdgioa500wcroca80g0rdcu",
+      "title": "Paramount CTO Phil Wiser：AI 属于史上最伟大技术趋势，但\"iPhone 时刻\"尚未到来",
+      "title_en": "Paramount's CTO on Closing the Gap Between Vision and Screen",
+      "url": "https://runwayml.com/news/customers/paramount-nyc-summit-2026",
+      "permalink": "https://aihot.virxact.com/items/cmsdgioa500wcroca80g0rdcu",
+      "source": "Runway：News（网页）",
+      "publishedAt": "2026-08-03T16:41:58.719Z",
+      "discoveredAt": "2026-08-03T16:41:58.719Z",
+      "summary": "Paramount 首席技术官 Phil Wiser 认为 AI 应跻身人类史上最伟大技术趋势前五，其影响堪比火的使用。他主张等待依赖条件成熟、以\"aha 时刻\"引导采用，而非以技术为先导；并警告行业巨头过度分析将错失窗口期，这一窗口可能仅 5 至 10 年。Paramount 两年前已通过 Runway 向全员开放 AI 工具，并以业务成果而非 token 消耗量衡量成效。",
+      "category": "tip",
+      "score": 56,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsdgioa500wcroca80g0rdcu"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "runway"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsdu4z39018profzpgrmywgx",
+      "title": "跨多台 Mac 与 Codex、Claude Code 的 Agent 记忆管理方案：claude-mem 本地捕获 + Mem0 跨设备共享",
+      "title_en": "刚买了第三台mac mini，是时候整理一下跨多台机器跨codex、claude code等Agent的记忆管理方案了。全部塞Agent.md的话上下文包爆炸的，你去X上搜会看到8月份Agent知识管理又多了很多词，分层记忆，时序图谱，Dreaming，CMEM，Mem0，Graphiti。 都安装下来发现重叠率太高，太难稳定在三台机器生效了。我烧了一周的codex额度做了个新方案，claude-mem负责本地记忆捕获，Mem0 负责跨设备共享。 claude-mem这个开源项目可以通过hook自动获取当前对话关键记忆，还可以筛选后再上传到远程的mem0，附上项目id，这样无论我是在MacBook上用Claude，还是换到Mac mini上打开Codex，Agent都会查询到当前项目的共享记忆，知道这个项目是啥，之前为啥这样设计，不用从头解释。 🔗 github. com/thedotmack/claude-mem 🔗 mem0. ai 第一次给Agent做知识管理的话，就把这提示语丢给codex， 【 搭建一套claude-mem本地捕获+Mem0跨机器跨Agent共享的记忆系统。 目标： - 每台机器分别使用claude-mem记录本地会话。不复制或同步claude-mem.db。 - 只把架构决策，稳定偏好，重要发现和已验证的Bug修复上传到同一个Mem0账户。 - ClaudeCode和Codex都能通过Mem0MCP 检索这些共享记忆。 - Git同步代码，handoff同步当前进度，Mem0负责保存为什么和怎么做。 按以下步骤执行： 1. 审计本机的ClaudeCode，Codex，claude-mem，Mem0 MCP，Hook和数据库状态。 2. 安装或修复claude-mem，并验证新会话真的能生成observation。 3. 为ClaudeCode和Codex配置Mem0 MCP。 4. 确定一个所有机器共用的稳定user_id。 5. 建立claude-mem→Mem0的增量同步： - 只同步decision、bugfix、discovery；排除临时进度、原始日志、未确认计划和敏感信息； - 每条记忆带project、source_device、obs_id和唯一来源键；使用独立游标、文件锁、失败重试、dry-run和脱敏日志； - 默认从当前最新observation开始，未经确认不得回填历史数据。 6. 检索规则预设 优先按user_id+metadata.project搜索，使用 top_k=5、threshold=0.4、rerank=true；项目找不到时才回退一次到用户级搜索。 7. 完成至少一次本地、跨Agent和跨机器盲测。 】 其实7月底，claude-mem还发布了cmem远程服务，比MEM0更原生支持跨设备同步。但我是真怕啊，同步范围会包括完整提示语的，也就是还没公开的项目信息或者临时贴进对话的材料都会同步到云端， 想来想去还是我这个好。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509140&idx=1&sn=26de4481384e590e60ac0b7079dd4a5d",
+      "permalink": "https://aihot.virxact.com/items/cmsdu4z39018profzpgrmywgx",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-08-03T08:57:00.000Z",
+      "discoveredAt": "2026-08-03T08:57:00.000Z",
+      "summary": "作者为三台 Mac 上的 Codex、Claude Code 等 Agent 设计了一套记忆管理方案：开源项目 claude-mem 通过 hook 自动捕获本地对话关键记忆，筛选后上传至远程 Mem0 并附项目 id，实现跨设备、跨 Agent 共享项目上下文。",
+      "category": "tip",
+      "score": 69,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsdu4z39018profzpgrmywgx"
+      },
+      "sourceType": "公众号",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "设计",
+        "codex",
+        "claude code",
+        "agent"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cmsbkm4qh0ij3rohvvzl9h7sh",
       "title": "Claude Opus 5 将提示词生成游戏从粗糙色块推进到带物理和音乐的完整 3D 原型",
       "title_en": "Claude Opus 5 pushes prompt-to-game AI from rough color blocks to full 3D prototypes with physics and music",
@@ -1056,6 +1306,142 @@
         "3d",
         "提示词",
         "prompt"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmsdosom40410ro0ozr5u3vsb",
+      "title": "如何在生产环境中保护 AI 智能体、MCP 服务器与 LLM 应用",
+      "title_en": "How to Secure AI Agents， MCP Servers， and LLM Apps in Production",
+      "url": "https://www.marktechpost.com/2026/08/03/how-to-secure-ai-agents-mcp-servers-and-llm-apps-in-production",
+      "permalink": "https://aihot.virxact.com/items/cmsdosom40410ro0ozr5u3vsb",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-08-03T20:16:56.000Z",
+      "discoveredAt": "2026-08-03T20:33:43.179Z",
+      "summary": "该指南提出 see-fix-protect 框架，覆盖五层智能体 AI 攻击面图谱、12 点错误配置检查清单、基于证据的优先级矩阵、运行时护栏与系统提示词加固。同时提供与 NIST AI RMF、OWASP AIMA、ISO/IEC 42001 及欧盟 AI 法案对齐的成熟度自评估，帮助团队在生产中系统化应对智能体应用的安全风险。",
+      "category": "tip",
+      "score": 62,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsdosom40410ro0ozr5u3vsb"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "提示词",
+        "智能体",
+        "mcp"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmsdgx6wv01d4rocaktxn01ca",
+      "title": "Simon Willison 引述 David Crawshaw 的夜间 cron 任务提示词",
+      "title_en": "Quoting David Crawshaw's prompt",
+      "url": "https://simonwillison.net/2026/Aug/3/david-crawshaw",
+      "permalink": "https://aihot.virxact.com/items/cmsdgx6wv01d4rocaktxn01ca",
+      "source": "Simon Willison 博客",
+      "publishedAt": "2026-08-03T16:15:27.000Z",
+      "discoveredAt": "2026-08-03T16:53:14.125Z",
+      "summary": "Simon Willison 在博客中引述了 David Crawshaw 的一段提示词，建议设置一个夜间 cron 任务，自动拉取上游变更并基于上游变基所有本地修改，随后检查软件运行是否正常并替换当前版本。该提示词出自 David Crawshaw 的文章\"Devtools must be open source\"。",
+      "category": "tip",
+      "score": 58,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsdgx6wv01d4rocaktxn01ca"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "提示词",
+        "prompt"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmse0pnyk08bmro2eijserfwa",
+      "title": "OpenAI 邀请网红参加奢华品牌活动被批，房价一晚超 2000 美元",
+      "title_en": "房价一晚超 2000 美元，OpenAI 邀请网红参加奢华品牌营销活动被批",
+      "url": "https://www.ithome.com/0/985/317.htm",
+      "permalink": "https://aihot.virxact.com/items/cmse0pnyk08bmro2eijserfwa",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-04T01:30:32.000Z",
+      "discoveredAt": "2026-08-04T02:07:16.838Z",
+      "summary": "OpenAI 上周末在纽约州北部豪华度假村 Wildflower Farms 举办首次网红品牌活动\"Summer Club\"，邀请创作者体验农场餐饮、养蜂及 ChatGPT 使用课程，周末房价超每晚 2000 美元。",
+      "category": "industry",
+      "score": 47,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmse0pnyk08bmro2eijserfwa"
+      },
+      "sourceType": "网站",
+      "designCategory": "行业观察",
+      "relevanceScore": 7,
+      "editorialScore": 7,
+      "tags": [
+        "品牌",
+        "营销"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
+      "id": "cmsdy1orw04vsro2ei0n026gl",
+      "title": "Claude Code v2.1.221 发布：新增 Focus view、沙箱凭据掩码与多项修复",
+      "title_en": "v2.1.221",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.221",
+      "permalink": "https://aihot.virxact.com/items/cmsdy1orw04vsro2ei0n026gl",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "publishedAt": "2026-08-04T00:14:23.000Z",
+      "discoveredAt": "2026-08-04T00:52:39.808Z",
+      "summary": "Claude Code v2.1.221 发布，为 VSCode 新增 Focus view 聊天菜单开关，可隐藏工具活动并显示实时运行指示器。新增 Linux/WSL 沙箱凭据文件 \"mask\" 模式，并修复 zsh 隐藏命令执行、PowerShell 路径引号处理等多项权限检查绕过问题。同时改进 Vertex AI 工具搜索、自动模式权限检查缓存效率，并降低提示词缓存成本。",
+      "category": "ai-products",
+      "score": 50,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsdy1orw04vsro2ei0n026gl"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "提示词",
+        "claude code"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmsdvz7mp01xfro2ebqp9l0tf",
+      "title": "开发者工具必须开源：LLM 如何让\"检查并修改代码\"变得可行",
+      "title_en": "Devtools must be open source （exe.dev）",
+      "url": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev",
+      "permalink": "https://aihot.virxact.com/items/cmsdvz7mp01xfro2ebqp9l0tf",
+      "source": "Simon Willison 博客",
+      "publishedAt": "2026-08-03T15:30:38.000Z",
+      "discoveredAt": "2026-08-03T23:54:45.706Z",
+      "summary": "Simon Willison 认为，LLM 改变了开源软件\"自由检查与修改代码\"的可行性。过去多数人因时间成本无法阅读和修改常用工具代码，如今他每天多次让 Claude 克隆 GitHub 仓库并解释其工作原理，或让 Codex、Claude Code 自动完成构建，将过去的高摩擦变为零时间投入的挑战。他尚未习惯性修改所用软件，但已看到一年前不存在的路径。",
+      "category": "tip",
+      "score": 62,
+      "selected": false,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsdvz7mp01xfro2ebqp9l0tf"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "codex",
+        "claude code"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -1137,62 +1523,6 @@
       "editorialScore": 7,
       "tags": [
         "工作流"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmsagv5iz054nrob3u2ws4gr2",
-      "title": "AI 编程智能体可现代化科研软件，但无法判断科学正确性",
-      "title_en": "AI coding agents can modernize research software but can't judge if the science is right",
-      "url": "https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right",
-      "permalink": "https://aihot.virxact.com/items/cmsagv5iz054nrob3u2ws4gr2",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-08-01T14:26:28.000Z",
-      "discoveredAt": "2026-08-01T14:28:21.906Z",
-      "summary": "OpenAI 与学术伙伴的实地报告显示，Codex、Claude Code 等编程智能体能将老化科研软件提速超 60 倍，如 RustQC 将运行时间从 15 小时 34 分降至 14 分 54 秒，HelixForge 比 BamSurgeon 快 59.6 倍。但智能体无法可靠判断结果是否科学正确，常自信地输出错误代码，需人类定义测试与验证标准。",
-      "category": "tip",
-      "score": 40,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsagv5iz054nrob3u2ws4gr2"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "codex",
-        "claude code",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmsa79ekm02xirox0ytfuy2x7",
-      "title": "Supabase 开源 Evals：用真实任务评测 Claude Code、Codex 和 OpenCode 的基准框架",
-      "title_en": "Supabase Releases Evals： an Open Source Benchmark That Scores Claude Code， Codex and OpenCode on Real Supabase Tasks",
-      "url": "https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-real-supabase-tasks",
-      "permalink": "https://aihot.virxact.com/items/cmsa79ekm02xirox0ytfuy2x7",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-08-01T09:52:49.000Z",
-      "discoveredAt": "2026-08-01T09:59:29.604Z",
-      "summary": "Supabase 开源了 Supabase Evals，一个用真实任务（如构建 schema、调试 Edge Function、修复 RLS 策略）评测 Claude Code、Codex 和 OpenCode 等编码智能体的基准与框架，并驱动 supabase.com/evals 公开排行榜。",
-      "category": "ai-products",
-      "score": 51,
-      "selected": false,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsa79ekm02xirox0ytfuy2x7"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "codex",
-        "claude code",
-        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     }
