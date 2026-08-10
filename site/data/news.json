@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-10T02:34:19.016Z",
-  "previousGeneratedAt": "2026-08-09T13:15:42.663Z",
+  "generatedAt": "2026-08-10T08:04:02.748Z",
+  "previousGeneratedAt": "2026-08-10T02:34:19.016Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 47,
+  "itemCount": 45,
   "sourceCounts": {
     "X": 24,
-    "网站": 21,
+    "网站": 19,
     "公众号": 2
   },
   "source": {
@@ -298,6 +298,35 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
+      "id": "cmsmt46gf0g3rrohfu2wtal7d",
+      "title": "MiniMax H3 开源视频模型上线 ComfyUI",
+      "title_en": "Huge thanks to @ComfyUI for an incredible livestream！ From reference-to-video and native audio， to…",
+      "url": "https://x.com/MiniMax_AI/status/2086685565722984842",
+      "permalink": "https://aihot.virxact.com/items/cmsmt46gf0g3rrohfu2wtal7d",
+      "source": "X：MiniMax (@MiniMax_AI)",
+      "publishedAt": "2026-08-10T05:26:22.000Z",
+      "discoveredAt": "2026-08-10T05:44:34.195Z",
+      "summary": "MiniMax H3 开源多模态视频生成模型在 ComfyUI 直播中亮相，支持文本、图像、视频和音频输入，可生成最长 15 秒 768p 视频片段，并原生同步生成含对话、音效和音乐的立体声音频。托管版 H3 支持最高 2K 分辨率生成，模型已优化至可在消费级 GPU 上本地部署，并提供 Context-IR 与 Regenerate-2K API 工作流。",
+      "category": "ai-models",
+      "score": 68,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsmt46gf0g3rrohfu2wtal7d"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 15,
+      "editorialScore": 18,
+      "tags": [
+        "视频生成",
+        "工作流",
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmskt41gi03hbrokk6f0jbee2",
       "title": "Grok 4.6将至，xAI与Cursor卷写作与设计品味",
       "title_en": "Grok 4.6要来了，这个版本我们有望看到更干净的写作、更少的 AI-slop，以及生成 UI/前端时更好的默认审美。 当各家在卷大模型谁推理更强、谁coding分更高的时候， @SpaceXAI…",
@@ -324,34 +353,6 @@
         "交互"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmsiwpja21wejronksta2fibl",
-      "title": "Luma 上线 Seedance 2.5 多镜头视频生成",
-      "title_en": "Seedance 2.5 has landed on Luma. 🚀 Create up to 30 seconds of multi-shot video， high-definition in…",
-      "url": "https://x.com/LumaLabsAI/status/2085697463701344369",
-      "permalink": "https://aihot.virxact.com/items/cmsiwpja21wejronksta2fibl",
-      "source": "X：Luma AI (@LumaLabsAI)",
-      "publishedAt": "2026-08-07T12:00:00.000Z",
-      "discoveredAt": "2026-08-07T12:14:04.044Z",
-      "summary": "Seedance 2.5 已登陆 Luma。🚀\n\n单次生成即可创建长达 30 秒的多镜头高清视频，最多可使用 50 个参考（文本、图像、视频和音频）。借助 Luma Agents，你可以控制场景、镜头角度和节奏，打造你的下一部杰作。",
-      "category": "ai-products",
-      "score": 68,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsiwpja21wejronksta2fibl"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 15,
-      "editorialScore": 18,
-      "tags": [
-        "视频生成",
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmsjz3mnp04ykro4bqi3501mv",
@@ -436,29 +437,31 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmsiwn1us1wbxronkvbtajg8m",
+      "id": "cmsmxepkh0m3crohfbrbfs7ww",
       "title": "PixVerse 上线 Seedance 2.5 视频生成",
-      "title_en": "OMG…The wait is over. Seedance 2.5 is on PixVerse. 30 seconds. Multiple characters. Set the refe…",
-      "url": "https://x.com/PixVerse_/status/2085694711952777391",
-      "permalink": "https://aihot.virxact.com/items/cmsiwn1us1wbxronkvbtajg8m",
+      "title_en": "Seedance 2.5 is now on PixVerse. Create a 60-second Back-To-School TVC - student journeys， campus m…",
+      "url": "https://x.com/PixVerse_/status/2086715562022072513",
+      "permalink": "https://aihot.virxact.com/items/cmsmxepkh0m3crohfbrbfs7ww",
       "source": "X：PixVerse (@PixVerse_)",
-      "publishedAt": "2026-08-07T11:49:04.000Z",
-      "discoveredAt": "2026-08-07T12:12:08.921Z",
-      "summary": "天哪……等待结束了。\n\nSeedance 2.5 现已登陆 PixVerse。\n\n30 秒。多角色。设置参考。一个连贯的场景。\n\n转发 + 关注 + 回复 = 私信送 150 积分（仅限 72 小时）",
+      "publishedAt": "2026-08-10T07:25:33.000Z",
+      "discoveredAt": "2026-08-10T07:44:44.030Z",
+      "summary": "Seedance 2.5 现已登陆 PixVerse。\n\n制作 60 秒返校季电视广告--学生旅程、校园瞬间、品牌营销--角色一致、电影级画面、叙事驱动。\n\n角逐最高 300 美元 + 30，000 积分奖励。Seedance 2.0 限时优惠价现已生效。🎬",
       "category": "ai-products",
-      "score": 66,
+      "score": 48,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsiwn1us1wbxronkvbtajg8m"
+        "canonical": "https://aihot.virxact.com/items/cmsmxepkh0m3crohfbrbfs7ww"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
+      "relevanceScore": 11,
+      "editorialScore": 14,
       "tags": [
         "视频生成",
-        "视频"
+        "广告",
+        "视频",
+        "品牌"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -488,61 +491,6 @@
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmsiys9iz1ysrronkt32qyzr2",
-      "title": "面壁智能 PAREIDOLIA：给万物赋予面孔与声音",
-      "title_en": "PAREIDOLIA - Giving Everything a Face and a Voice 👁️ Created by developer @_Andresio during the #B…",
-      "url": "https://x.com/OpenBMB/status/2085712572087710083",
-      "permalink": "https://aihot.virxact.com/items/cmsiys9iz1ysrronkt32qyzr2",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "publishedAt": "2026-08-07T13:00:02.000Z",
-      "discoveredAt": "2026-08-07T13:12:10.561Z",
-      "summary": "面壁智能开发者 @_Andresio 在 #BuildSmall 黑客松中打造 PAREIDOLIA，用 MiniCPM-V 4.5 识别物体特征并生成个性，结合 VoxCPM2 无需参考音频即可设计独特角色声音，让日常物品\"活\"成共享虚拟动物园中的角色。该项目展示了视觉与语音模型融合的趣味 AI 交互新形态。",
-      "category": "tip",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsiys9iz1ysrronkt32qyzr2"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 10,
-      "editorialScore": 14,
-      "tags": [
-        "视觉",
-        "设计",
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmsiys4dz1yqironkuitnfi7t",
-      "title": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌",
-      "title_en": "Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
-      "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab",
-      "permalink": "https://aihot.virxact.com/items/cmsiys4dz1yqironkuitnfi7t",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-08-07T12:50:56.000Z",
-      "discoveredAt": "2026-08-07T13:12:02.670Z",
-      "summary": "斯坦福大学与 Arc Institute 团队用 AI 模型 Evo 从零设计完整病毒基因组，并在实验室构建出 16 种自然界不存在的功能性病毒。Evo 提出 70 万个候选基因组，团队仅筛选最有希望的 285 个序列合成并植入细菌，其中 16 个成功复制并杀死宿主。该研究已通过同行评审发表于《Science》，但 Evo 未接受人类病原体数据训练，且能否推广至其他病毒类群仍是未知数。",
-      "category": "paper",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsiys4dz1yqironkuitnfi7t"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 10,
-      "editorialScore": 14,
-      "tags": [
-        "design",
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmskjlos6068droyzntnyeadc",
@@ -626,6 +574,33 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmsmxejiq0m1irohf2evhs9eh",
+      "title": "MiniMax H3 开源视频模型登顶 LMArena",
+      "title_en": "A few of the biggest takeaways from our H3 conversation on ThursdAI 🎥 🔓 Open video is reaching th…",
+      "url": "https://x.com/MiniMax_AI/status/2086718280199467207",
+      "permalink": "https://aihot.virxact.com/items/cmsmxejiq0m1irohf2evhs9eh",
+      "source": "X：MiniMax (@MiniMax_AI)",
+      "publishedAt": "2026-08-10T07:36:22.000Z",
+      "discoveredAt": "2026-08-10T07:44:35.576Z",
+      "summary": "MiniMax H3 在 ThursdAI 对话中被誉为\"领先的开源权重开放模型\"，直接对标 Seedance、FLUX 和 WAN，并登顶 LMArena 开源视频模型榜首。",
+      "category": "tip",
+      "score": 58,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsmxejiq0m1irohf2evhs9eh"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 9,
+      "editorialScore": 12,
+      "tags": [
+        "flux",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmsmek26r02n1road8w2hkybg",
       "title": "SQLite 压缩文本历史记录原型：用 zlib/zstd 压缩 JSON 数组存储全部修订版本",
       "title_en": "SQLite compressed text-history prototypes",
@@ -674,6 +649,62 @@
       "editorialScore": 12,
       "tags": [
         "stable diffusion"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsms1kkv0d8zrohf6cbw0xal",
+      "title": "阿里云万相3.0将文档转化为电影级视频",
+      "title_en": "What if a destination film could start with documents instead of storyboards？ With Wan3.0， city web…",
+      "url": "https://x.com/alibaba_cloud/status/2086681533608308885",
+      "permalink": "https://aihot.virxact.com/items/cmsms1kkv0d8zrohf6cbw0xal",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-08-10T05:10:20.000Z",
+      "discoveredAt": "2026-08-10T05:14:32.926Z",
+      "summary": "如果一部目的地影片可以从文档而非分镜脚本开始呢？\n\n借助万相3.0（Wan3.0），城市网站、博物馆档案、旅游指南及其他结构化内容都可以转化为电影级视频。\n\n将信息变成沉浸式视觉故事。\n\n观看演示并立即开始创作 ↓\n\n🔗 阿里云百炼（Alibaba Cloud Model Studio）：https://click.alibabacloud.com/m/20000002017/\n\n🔗 通义千问云（Qwen Cloud）：https://click.qwencloud.com/m/20000002025/",
+      "category": "ai-products",
+      "score": 42,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsms1kkv0d8zrohf6cbw0xal"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsmpwjyh0b0drohfw1hpbbzh",
+      "title": "Qwen-MM-Plugins 让智能体原生支持多模态",
+      "title_en": "👀 Seeing is just the beginning. With Qwen-MM-Plugins， turn your favorite agent harness multimodal-…",
+      "url": "https://x.com/Alibaba_Qwen/status/2086664887560970531",
+      "permalink": "https://aihot.virxact.com/items/cmsmpwjyh0b0drohfw1hpbbzh",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "publishedAt": "2026-08-10T04:04:12.000Z",
+      "discoveredAt": "2026-08-10T04:14:38.969Z",
+      "summary": "👀 看见只是开始。\n\n借助 Qwen-MM-Plugins，让你的智能体原生支持多模态--读取图片、视频和文档，编辑视频，处理 3D/CAD，以及更多。\n\n从多模态模型 → 多模态智能体。🚀\n\n观看实际效果：https://github.com/QwenLM/Qwen-MM-Plugins",
+      "category": "ai-products",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsmpwjyh0b0drohfw1hpbbzh"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视频",
+        "3d",
+        "agent",
+        "智能体"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -786,34 +817,6 @@
         "codex"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmsly1a8202m9ro6u0fadrtor",
-      "title": "Seedance 2.0 打造网球装备广告视频",
-      "title_en": "AI video ads for sports gear don't need physics-breaking VFX. They need one locked visual system and…",
-      "url": "https://x.com/PixVerse_/status/2086467607029489754",
-      "permalink": "https://aihot.virxact.com/items/cmsly1a8202m9ro6u0fadrtor",
-      "source": "X：PixVerse (@PixVerse_)",
-      "publishedAt": "2026-08-09T15:00:16.000Z",
-      "discoveredAt": "2026-08-09T15:14:30.879Z",
-      "summary": "运动装备的 AI 视频广告不需要打破物理规律的视觉特效。它们需要一个统一的视觉系统和六个连贯镜头，真正把产品卖出去。这支用 Seedance 2.0 制作的网球广告 ↓",
-      "category": "tip",
-      "score": 19,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsly1a8202m9ro6u0fadrtor"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "视觉",
-        "广告",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmslmv6kx03muroqyxyo4fbtl",
@@ -1031,60 +1034,6 @@
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmsj32j8f236kronk5sbchbnv",
-      "title": "Seedance 2.5 登陆 Arcads，工作流更智能",
-      "title_en": "Seedance 2.5 landing in Arcads， makes the workflow more interesting. Arcads begins with formats alr…",
-      "url": "https://x.com/rohanpaul_ai/status/2085738832734093721",
-      "permalink": "https://aihot.virxact.com/items/cmsj32j8f236kronk5sbchbnv",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-08-07T14:44:23.000Z",
-      "discoveredAt": "2026-08-07T15:12:08.131Z",
-      "summary": "Seedance 2.5 登陆 Arcads，让工作流更有意思。\n\nArcads 从你所在品类中已有的表现格式出发，用 Claude 将其转化为创意方向，现在又将 Seedance 2.5 引入生产层。\n\n如今，同一套系统可以更接近从研究到成片的完整流程。\n\n该模型将在前 24 小时内提供无限访问。",
-      "category": "ai-products",
-      "score": 33,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsj32j8f236kronk5sbchbnv"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 9,
-      "editorialScore": 10,
-      "tags": [
-        "工作流",
-        "workflow",
-        "创意"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmsisb7ky1r7nronk1bnv2bsy",
-      "title": "小米澎湃 HyperOS 4 更多特性首曝：超级小爱专家模式、全新融合设备中心等",
-      "title_en": "小米澎湃 HyperOS 4 系统更多特性首曝：超级小爱专家模式、全新融合设备中心等",
-      "url": "https://www.ithome.com/0/987/118.htm",
-      "permalink": "https://aihot.virxact.com/items/cmsisb7ky1r7nronk1bnv2bsy",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-07T09:29:12.000Z",
-      "discoveredAt": "2026-08-07T10:10:54.462Z",
-      "summary": "小米澎湃 HyperOS 4 宣传页面曝光，自研内核新增负载精算、内存预载技术，并采用柔光玻璃材质与全新锁屏设计。系统支持同尺寸小部件堆叠、桌面文件夹最大 6*3 调整，全新融合设备中心支持设备置顶与多家庭切换。超级小爱新增专家模式，支持复杂任务深度思考与定时任务自动执行，另有 AI 笔记与智能输入法。",
-      "category": "ai-products",
-      "score": 62,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsisb7ky1r7nronk1bnv2bsy"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmsjh070p09jfroo5iep61594",
