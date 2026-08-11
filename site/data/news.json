@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-11T07:37:16.721Z",
-  "previousGeneratedAt": "2026-08-11T02:27:36.794Z",
+  "generatedAt": "2026-08-11T13:43:09.003Z",
+  "previousGeneratedAt": "2026-08-11T07:37:16.721Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 44,
+  "itemCount": 45,
   "sourceCounts": {
-    "网站": 20,
+    "网站": 21,
     "X": 24
   },
   "source": {
@@ -464,29 +464,31 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmslk3c3k05byroo0twq8u9vw",
-      "title": "哈佛新研究：生成模型或存第三扩展轴",
-      "title_en": "New Harvard paper shows generative models may be missing a third scaling axis： how much they explore…",
-      "url": "https://x.com/rohanpaul_ai/status/2086370187784470962",
-      "permalink": "https://aihot.virxact.com/items/cmslk3c3k05byroo0twq8u9vw",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-08-09T08:33:10.000Z",
-      "discoveredAt": "2026-08-09T08:44:12.028Z",
-      "summary": "哈佛新论文提出生成模型可能缺失第三扩展轴：训练中的探索量。在强表征自编码器（RAE）图像生成方案中加入探索后，模型以6.2×更少的训练样本和4.1×更少的FLOPs达到基线最终性能。该方法将best-of-K训练视为扩展模型可学习模态数量的途径，而无需增加推理步骤。",
-      "category": "paper",
-      "score": 35,
+      "id": "cmsoo1zbb074rrop2pq2ardo8",
+      "title": "玉伯力荐：一人团队用 YouMind AI 全流程做视频",
+      "title_en": "一个人活成了一支团队 强烈推荐",
+      "url": "https://x.com/lifesinger/status/2087153298243735616",
+      "permalink": "https://aihot.virxact.com/items/cmsoo1zbb074rrop2pq2ardo8",
+      "source": "X：Frank Wang 玉伯 (@lifesinger)",
+      "publishedAt": "2026-08-11T12:24:58.000Z",
+      "discoveredAt": "2026-08-11T12:58:25.768Z",
+      "summary": "玉伯推荐一条推文：创作者用 YouMind AI 自建 skill，一人运营多个账号，实现选题、脚本、分镜、配图、剪辑全流程自动化。单篇曝光 33 万，涨粉近千，连最后的剪映剪辑工序也已自动化。",
+      "category": "tip",
+      "score": 33,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmslk3c3k05byroo0twq8u9vw"
+        "canonical": "https://aihot.virxact.com/items/cmsoo1zbb074rrop2pq2ardo8"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
+      "relevanceScore": 10,
+      "editorialScore": 13,
       "tags": [
-        "图像生成",
-        "图像"
+        "配图",
+        "视频",
+        "自动化",
+        "skill"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -761,6 +763,60 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmsoolxde07isrop2eb5rrtvq",
+      "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
+      "title_en": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+      "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
+      "permalink": "https://aihot.virxact.com/items/cmsoolxde07isrop2eb5rrtvq",
+      "source": "NVIDIA Blog（RSS）",
+      "publishedAt": "2026-08-11T13:00:25.000Z",
+      "discoveredAt": "2026-08-11T13:13:55.266Z",
+      "summary": "NVIDIA 发布 Nemotron 3.5 Lightning，一款可定制的开源 30B 混合专家（MoE）模型，专为常驻智能体设计。相比同类开源模型，其 token 生成速度最高提升 4 倍，任务完成时间缩短 30%。该模型采用开放权重，支持用户微调以匹配特定任务，并可在 RTX PC、DGX Spark 及 Jetson 等设备上运行。",
+      "category": "ai-models",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsoolxde07isrop2eb5rrtvq"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmsono10706grrop2eqx4ju08",
+      "title": "PixVerse 蜘蛛咬人完整工作流演示",
+      "title_en": "A spider just accidentally sank its fangs into you. Full Workflow ↓",
+      "url": "https://x.com/PixVerse_/status/2087153028982079945",
+      "permalink": "https://aihot.virxact.com/items/cmsono10706grrop2eqx4ju08",
+      "source": "X：PixVerse (@PixVerse_)",
+      "publishedAt": "2026-08-11T12:23:54.000Z",
+      "discoveredAt": "2026-08-11T12:47:35.015Z",
+      "summary": "一只蜘蛛刚刚不小心把毒牙扎进了你体内。完整工作流 ↓",
+      "category": "tip",
+      "score": 52,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsono10706grrop2eqx4ju08"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 9,
+      "editorialScore": 10,
+      "tags": [
+        "工作流",
+        "workflow"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cmso7i0al0dltrofwtwzo6bpl",
       "title": "H3-metal：面向 Apple Silicon 的原生 MiniMax-H3 推理",
       "title_en": "H3-metal--面向 Apple Silicon 的原生 MiniMax-H3 推理",
@@ -920,33 +976,6 @@
       "tags": [
         "交互",
         "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmsm2bbb405osroy96ls45345",
-      "title": "1985经典文字冒险游戏开源可玩",
-      "title_en": "Considered one of the best text adventure games （it is more interactive story， with few puzzles）， 19…",
-      "url": "https://x.com/emollick/status/2086500208444080380",
-      "permalink": "https://aihot.virxact.com/items/cmsm2bbb405osroy96ls45345",
-      "source": "X：Ethan Mollick (@emollick)",
-      "publishedAt": "2026-08-09T17:09:49.000Z",
-      "discoveredAt": "2026-08-09T17:14:17.437Z",
-      "summary": "1985年的《A Mind Forever Voyaging》被认为是最佳文字冒险游戏之一（它更像互动故事，谜题很少），至今仍值得一试。\n\n由于它现已开源，我让 Codex 快速搭建了一个界面，既可以玩原版，也可以使用简易 GUI 游玩：https://mind-forever-voyaging.netlify.app/",
-      "category": "tip",
-      "score": 61,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsm2bbb405osroy96ls45345"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "界面",
-        "codex"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
