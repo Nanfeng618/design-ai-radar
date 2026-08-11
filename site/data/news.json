@@ -1,13 +1,12 @@
 {
-  "generatedAt": "2026-08-11T02:27:36.794Z",
-  "previousGeneratedAt": "2026-08-10T13:43:45.580Z",
+  "generatedAt": "2026-08-11T07:37:16.721Z",
+  "previousGeneratedAt": "2026-08-11T02:27:36.794Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 41,
+  "itemCount": 44,
   "sourceCounts": {
-    "X": 24,
-    "网站": 16,
-    "公众号": 1
+    "网站": 20,
+    "X": 24
   },
   "source": {
     "name": "AI HOT",
@@ -15,31 +14,31 @@
   },
   "items": [
     {
-      "id": "cmsl40d7b04gnrol739g2q00s",
-      "title": "MiniMax H3 开源路线图：坚持开源至 AGI",
-      "title_en": "Thank you to everyone who joined our Reddit AMA！ The community energy was incredible， and we loved d…",
-      "url": "https://x.com/MiniMax_AI/status/2086253065657790895",
-      "permalink": "https://aihot.virxact.com/items/cmsl40d7b04gnrol739g2q00s",
-      "source": "X：MiniMax (@MiniMax_AI)",
-      "publishedAt": "2026-08-09T00:47:46.000Z",
-      "discoveredAt": "2026-08-09T01:13:59.723Z",
-      "summary": "MiniMax 在 Reddit AMA 中公布 H3 系列开源路线图，并承诺\"在 AGI 到来前保持开源\"。计划开源 H3-Regenerate-2K 潜在空间 DiT 再生模型、统一文生图与图像编辑模型，并考虑转向 Apache-2.0 许可证。H3 采用 MoBA 风格稀疏注意力，支持 4-NFE/8-NFE 低步长变体，Ref2VA 可续接生成 60 秒长视频。",
-      "category": "ai-products",
-      "score": 39,
-      "selected": false,
+      "id": "cmso8nqa70eq4rofw24w1wlwt",
+      "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
+      "title_en": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+      "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+      "permalink": "https://aihot.virxact.com/items/cmso8nqa70eq4rofw24w1wlwt",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-08-11T05:44:38.000Z",
+      "discoveredAt": "2026-08-11T05:47:24.900Z",
+      "summary": "本教程演示如何以 ComfyUI 为无头推理后端，构建端到端的 MiniMax-H3 视频生成工作流。通过 Python 直接构建执行图，支持文生视频、首尾帧条件生成和参考图像条件生成，并自动根据 GPU 显存选择 quality、balanced、squeeze 三种权重配置。流水线涵盖模型自动下载、节点模式校验、音视频联合解码与进度监控，无需图形界面即可复现实验。",
+      "category": "tip",
+      "score": 72,
+      "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsl40d7b04gnrol739g2q00s"
+        "canonical": "https://aihot.virxact.com/items/cmso8nqa70eq4rofw24w1wlwt"
       },
-      "sourceType": "X",
+      "sourceType": "网站",
       "designCategory": "图像与视频",
-      "relevanceScore": 20,
-      "editorialScore": 23,
+      "relevanceScore": 22,
+      "editorialScore": 25,
       "tags": [
-        "文生图",
-        "生图",
-        "视频",
-        "图像"
+        "视频生成",
+        "文生视频",
+        "界面",
+        "工作流"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -71,6 +70,33 @@
         "视频"
       ],
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
+      "id": "cmsobo81w0kwyrofw333n1qar",
+      "title": "微软 MAI-Image-2.6 发布，跃升 Arena 文生图模型榜第二位",
+      "title_en": "三周一更：微软 MAI-Image-2.6 发布，一举跃升 Arena 文生图模型榜第二位",
+      "url": "https://www.ithome.com/0/988/286.htm",
+      "permalink": "https://aihot.virxact.com/items/cmsobo81w0kwyrofw333n1qar",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-11T06:58:04.000Z",
+      "discoveredAt": "2026-08-11T07:11:46.049Z",
+      "summary": "微软发布新一代自研文生图模型 MAI-Image-2.6，在 Arena 排行榜位列第二，Elo 评分 1336 分，仅次于 OpenAI 的 GPT Image 2（Medium）。相比 2.5 版本，整体评分提升 79 分，文本渲染能力涨幅达 91 分，排名从第十位跃升至第二位。该模型已在 Arena 平台开放体验，计划本周部署至 MAI Playground。",
+      "category": "ai-models",
+      "score": 67,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsobo81w0kwyrofw333n1qar"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 15,
+      "editorialScore": 18,
+      "tags": [
+        "文生图",
+        "生图"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmsntm5d10j5trohfg55p39kn",
@@ -129,34 +155,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmskt41gi03hbrokk6f0jbee2",
-      "title": "Grok 4.6将至，xAI与Cursor卷写作与设计品味",
-      "title_en": "Grok 4.6要来了，这个版本我们有望看到更干净的写作、更少的 AI-slop，以及生成 UI/前端时更好的默认审美。 当各家在卷大模型谁推理更强、谁coding分更高的时候， @SpaceXAI…",
-      "url": "https://x.com/AYi_AInotes/status/2086168685341802632",
-      "permalink": "https://aihot.virxact.com/items/cmskt41gi03hbrokk6f0jbee2",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-08-08T19:12:28.000Z",
-      "discoveredAt": "2026-08-08T20:08:54.965Z",
-      "summary": "Grok 4.6即将发布，重点优化写作质量与设计品味，减少AI味。xAI与Cursor在硬能力之外转向\"品味\"竞争，Grok 4.5发布不到一个月即迭代，依托Cursor数百万开发者的真实交互数据快速反馈。AI竞争正从跑分转向审美与产品感等\"虚\"的体验维度。",
-      "category": "tip",
-      "score": 45,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmskt41gi03hbrokk6f0jbee2"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 14,
-      "editorialScore": 18,
-      "tags": [
-        "ui",
-        "设计",
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmsnvs8d60l4erohfw2sd0aci",
       "title": "微软MAI Image 2.6登顶文生图榜第二",
       "title_en": "MAI Image 2.6 from Microsoft made its debut on Arena and landed in the second spot on the text-to-im…",
@@ -211,6 +209,35 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmsobvepa0l3drofw6ovm5rvc",
+      "title": "腾讯混元发布 Hy3D WorldClaw 智能体工作流",
+      "title_en": "Introducing Hy3D WorldClaw--an agentic workflow that generates large scale 3D open worlds from text …",
+      "url": "https://x.com/TencentHunyuan/status/2087068591296536755",
+      "permalink": "https://aihot.virxact.com/items/cmsobvepa0l3drofw6ovm5rvc",
+      "source": "X：腾讯混元 (@TencentHunyuan)",
+      "publishedAt": "2026-08-11T06:48:22.000Z",
+      "discoveredAt": "2026-08-11T07:17:23.132Z",
+      "summary": "推出 Hy3D WorldClaw--一个从文本提示词生成大规模 3D 开放世界的智能体工作流。🚀🚀🚀 不是视频，不是高斯泼溅，WorldClaw 生成的每个场景都可自由探索，且完全由可编辑、可直接用于游戏的 3D 资产构建，具备高质量几何与纹理。项目页面：https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+      "category": "ai-products",
+      "score": 62,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsobvepa0l3drofw6ovm5rvc"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 14,
+      "editorialScore": 15,
+      "tags": [
+        "工作流",
+        "workflow",
+        "视频",
+        "3d"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cmsnjque00b9mrohfqi6kblwq",
       "title": "Cursor 设计负责人离职赴亚洲引热议",
       "title_en": "@cursor_ai 的设计负责人@ryolu_ 在公司最火的时候走了，去亚洲重新开始。 这是我今年看过最清醒的离职帖， 他在旧金山科技圈泡了10年，Asana、Stripe、Notion创始设计师…",
@@ -262,6 +289,64 @@
         "flux",
         "视频",
         "摄影"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmso8nmhw0eoarofwxl1h8os3",
+      "title": "Grok Imagine 升级：Image 2.0 成创意工具",
+      "title_en": "Grok Imagine",
+      "url": "https://x.com/elonmusk/status/2087046240353603854",
+      "permalink": "https://aihot.virxact.com/items/cmso8nmhw0eoarofwxl1h8os3",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "publishedAt": "2026-08-11T05:19:33.000Z",
+      "discoveredAt": "2026-08-11T05:47:21.811Z",
+      "summary": "Grok Imagine\n\n【引用 @minchoi】：Grok Imagine 不再只是图像生成器。\n\nImage 2.0 可以精准编辑照片、融合 5 张参考图、渲染清晰文字、调整任意尺寸并移除背景。\n\n这现在是一款真正的创意工具。\n\n100% AI\n\n10 个精彩示例（含提示词）：\n\n1. 宝丽来风格合影",
+      "category": "ai-products",
+      "score": 45,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmso8nmhw0eoarofwxl1h8os3"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "图像生成",
+        "创意",
+        "图像",
+        "提示词"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmso7bojy0disrofwg3kmadfp",
+      "title": "字节 Seedance 2.5 免费开源提示词文档",
+      "title_en": "sendance2.5效果是真的顶， 字节这波基本实现了视频大模型代际领先了， 字节官方的seedance 2.5提示词知识库下方帖子自取⬇️",
+      "url": "https://x.com/AYi_AInotes/status/2087031387970736235",
+      "permalink": "https://aihot.virxact.com/items/cmso7bojy0disrofwg3kmadfp",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-08-11T04:20:32.000Z",
+      "discoveredAt": "2026-08-11T05:10:04.302Z",
+      "summary": "字节 Seedance 2.5 与 Seedream 5.0 Pro 的提示词文档免费开源，内含几十套完整案例，覆盖盛唐 30 秒长镜头、废土科幻一镜到底等场景。视频支持 30 秒生成、时间戳指定镜头动作，最多吃 30 图 + 10 视频 + 10 音频参考；生图支持高密度信息图与商用级人像。官方将专业分镜、运镜、负面词方法论拆成可直接复制的 Prompt，替代传统分镜师与后期团队一周的工作。",
+      "category": "ai-models",
+      "score": 61,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmso7bojy0disrofwg3kmadfp"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "生图",
+        "视频",
+        "提示词",
+        "prompt"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -347,6 +432,34 @@
         "广告",
         "视频",
         "品牌"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmso2m6ot082rrofwnmm5aq7y",
+      "title": "Sci-VBench：科学领域知识密集型视频生成的评测基准",
+      "title_en": "Sci-VBench： Evaluating Knowledge- and Reasoning-Intensive Video Generation in Science Domains",
+      "url": "https://arxiv.org/abs/2608.09873",
+      "permalink": "https://aihot.virxact.com/items/cmso2m6ot082rrofwnmm5aq7y",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "discoveredAt": "2026-08-11T02:58:16.068Z",
+      "summary": "Sci-VBench 基准包含 1，253 个专家标注示例，覆盖自然科学、医疗健康、人文社科与工程四大领域的 60 个主题，要求模型生成具备科学推理能力的时序视频。评测显示，16 个前沿模型在感知质量上接近，但在提示词接地性与科学因果正确性上差异显著，专有与开源模型间存在明显差距。",
+      "category": "paper",
+      "score": 45,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmso2m6ot082rrofwnmm5aq7y"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频",
+        "提示词"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -648,6 +761,35 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmso7i0al0dltrofwtwzo6bpl",
+      "title": "H3-metal：面向 Apple Silicon 的原生 MiniMax-H3 推理",
+      "title_en": "H3-metal--面向 Apple Silicon 的原生 MiniMax-H3 推理",
+      "url": "https://github.com/antirez/h3.c",
+      "permalink": "https://aihot.virxact.com/items/cmso7i0al0dltrofwtwzo6bpl",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-11T04:42:08.868Z",
+      "discoveredAt": "2026-08-11T05:14:58.582Z",
+      "summary": "H3-metal 项目为 Apple Silicon 提供原生 MiniMax-H3 推理，已实现 prompt-to-video/audio、首尾帧条件控制及有序 Ref2VA 图像/视频/音频引用端到端工作流。",
+      "category": "tip",
+      "score": 68,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmso7i0al0dltrofwtwzo6bpl"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 9,
+      "editorialScore": 10,
+      "tags": [
+        "工作流",
+        "视频",
+        "图像",
+        "prompt"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cmsnoqnrx0f6trohf8h7ahzu8",
       "title": "Conductor 0.80 上线 Stacks 功能",
       "title_en": "Stacks are now live in Conductor 0.80！ Also new： - Cloud workspaces start 1.5-3x faster - Agents c…",
@@ -755,6 +897,33 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmso2m6os082orofwmyy8pmdt",
+      "title": "Macaron-V1：面向开放持续学习的开源智能体模型家族",
+      "title_en": "Macaron-V1： Towards Open Continual Learning with Self-Improvement and Mixture-of-LoRA",
+      "url": "https://arxiv.org/abs/2608.09819",
+      "permalink": "https://aihot.virxact.com/items/cmso2m6os082orofwmyy8pmdt",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "discoveredAt": "2026-08-11T02:58:16.068Z",
+      "summary": "Macaron-V1 是一个开源智能体模型家族，通过 Mixture-of-LoRA（MoL）架构冻结基座模型、组合专家 LoRA 适配器，并在每次用户交互时选择其中一个 LoRA，以支持部署后的持续学习。",
+      "category": "ai-models",
+      "score": 68,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmso2m6os082orofwmyy8pmdt"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "cmsm2bbb405osroy96ls45345",
       "title": "1985经典文字冒险游戏开源可玩",
       "title_en": "Considered one of the best text adventure games （it is more interactive story， with few puzzles）， 19…",
@@ -778,90 +947,6 @@
       "tags": [
         "界面",
         "codex"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmsly1a8202m9ro6u0fadrtor",
-      "title": "Seedance 2.0 打造网球装备广告视频",
-      "title_en": "AI video ads for sports gear don't need physics-breaking VFX. They need one locked visual system and…",
-      "url": "https://x.com/PixVerse_/status/2086467607029489754",
-      "permalink": "https://aihot.virxact.com/items/cmsly1a8202m9ro6u0fadrtor",
-      "source": "X：PixVerse (@PixVerse_)",
-      "publishedAt": "2026-08-09T15:00:16.000Z",
-      "discoveredAt": "2026-08-09T15:14:30.879Z",
-      "summary": "运动装备的 AI 视频广告不需要打破物理规律的视觉特效。它们需要一个统一的视觉系统和六个连贯镜头，真正把产品卖出去。这支用 Seedance 2.0 制作的网球广告 ↓",
-      "category": "tip",
-      "score": 19,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsly1a8202m9ro6u0fadrtor"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "视觉",
-        "广告",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmslmv6kx03muroqyxyo4fbtl",
-      "title": "Seedance 2.5 上线一周新增六种创意玩法",
-      "title_en": "一周过去了，Seedance2.5又多六种创意玩法！",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
-      "permalink": "https://aihot.virxact.com/items/cmslmv6kx03muroqyxyo4fbtl",
-      "source": "公众号：卡尔的AI沃茨",
-      "publishedAt": "2026-08-09T05:25:02.000Z",
-      "discoveredAt": "2026-08-09T10:01:50.329Z",
-      "summary": "Seedance 2.5 上线一周后，国内外社区涌现出时间静止、超级英雄变身、创意广告、K-pop MV、电商广告、拉片复刻等六类热门玩法。经实测，该版本人物面部告别\"AI 油腻感\"，动作自然度与镜头切换较 2.0 更合理，单次生成超长视频时长拉至 300 秒，并支持片段重拍与智能续写。通过 LibTV 年费会员，生成成本最低可至 0.4 元/秒。",
-      "category": "tip",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmslmv6kx03muroqyxyo4fbtl"
-      },
-      "sourceType": "公众号",
-      "designCategory": "行业观察",
-      "relevanceScore": 10,
-      "editorialScore": 10,
-      "tags": [
-        "广告",
-        "创意",
-        "视频"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmskzmhrs03rwrowg146pdv9j",
-      "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/987/452.htm",
-      "permalink": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-08T22:46:14.000Z",
-      "discoveredAt": "2026-08-08T23:11:13.416Z",
-      "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "交互",
-        "codex",
-        "智能体"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
