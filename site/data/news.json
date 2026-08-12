@@ -1,12 +1,13 @@
 {
-  "generatedAt": "2026-08-11T13:43:09.003Z",
-  "previousGeneratedAt": "2026-08-11T07:37:16.721Z",
+  "generatedAt": "2026-08-12T02:44:13.208Z",
+  "previousGeneratedAt": "2026-08-11T13:43:09.003Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 45,
+  "itemCount": 38,
   "sourceCounts": {
-    "网站": 21,
-    "X": 24
+    "网站": 13,
+    "X": 24,
+    "公众号": 1
   },
   "source": {
     "name": "AI HOT",
@@ -126,35 +127,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmsmt46gf0g3rrohfu2wtal7d",
-      "title": "MiniMax H3 开源视频模型上线 ComfyUI",
-      "title_en": "Huge thanks to @ComfyUI for an incredible livestream！ From reference-to-video and native audio， to…",
-      "url": "https://x.com/MiniMax_AI/status/2086685565722984842",
-      "permalink": "https://aihot.virxact.com/items/cmsmt46gf0g3rrohfu2wtal7d",
-      "source": "X：MiniMax (@MiniMax_AI)",
-      "publishedAt": "2026-08-10T05:26:22.000Z",
-      "discoveredAt": "2026-08-10T05:44:34.195Z",
-      "summary": "MiniMax H3 开源多模态视频生成模型在 ComfyUI 直播中亮相，支持文本、图像、视频和音频输入，可生成最长 15 秒 768p 视频片段，并原生同步生成含对话、音效和音乐的立体声音频。托管版 H3 支持最高 2K 分辨率生成，模型已优化至可在消费级 GPU 上本地部署，并提供 Context-IR 与 Regenerate-2K API 工作流。",
-      "category": "ai-models",
-      "score": 68,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsmt46gf0g3rrohfu2wtal7d"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 15,
-      "editorialScore": 18,
-      "tags": [
-        "视频生成",
-        "工作流",
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmsnvs8d60l4erohfw2sd0aci",
       "title": "微软MAI Image 2.6登顶文生图榜第二",
       "title_en": "MAI Image 2.6 from Microsoft made its debut on Arena and landed in the second spot on the text-to-im…",
@@ -205,6 +177,61 @@
       "tags": [
         "文生图",
         "生图"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsp5w9ed06qmrortlc6uvtoo",
+      "title": "大模型代码缺陷已变，对抗性审查成利器",
+      "title_en": "LLMs still produce bugs， but those bugs are different than what they used to be. It's less off-by-on…",
+      "url": "https://x.com/bcherny/status/2087284684103537011",
+      "permalink": "https://aihot.virxact.com/items/cmsp5w9ed06qmrortlc6uvtoo",
+      "source": "X：Boris Cherny (@bcherny)",
+      "publishedAt": "2026-08-11T21:07:03.000Z",
+      "discoveredAt": "2026-08-11T21:17:52.043Z",
+      "summary": "Boris Cherny 指出，LLM 生成的代码仍有缺陷，但问题已从 off-by-one 错误转向系统设计、UI 可用性和上下文缺失等更高层次问题。他认为对抗性代码审查是捕捉此类缺陷的有效工具，可用一行提示词实现，或直接使用 Claude 内置的 /code-review 功能。",
+      "category": "tip",
+      "score": 62,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsp5w9ed06qmrortlc6uvtoo"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 11,
+      "editorialScore": 15,
+      "tags": [
+        "ui",
+        "设计",
+        "提示词"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmsp3qwbn050orortpbotiq0p",
+      "title": "LTX-2.5 发布：NVIDIA 加速的开源权重世界模型，将视频制作栈压缩到一张桌面",
+      "title_en": "The Video Production Stack Now Fits on One Desk： LTX-2.5 Launches as NVIDIA-Accelerated Open Weights World Model",
+      "url": "https://www.marktechpost.com/2026/08/11/the-video-production-stack-now-fits-on-one-desk-ltx-2-5-launches-as-nvidia-accelerated-open-weights-world-model",
+      "permalink": "https://aihot.virxact.com/items/cmsp3qwbn050orortpbotiq0p",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-08-11T20:02:03.000Z",
+      "discoveredAt": "2026-08-11T20:17:42.021Z",
+      "summary": "LTX 发布 LTX-2.5，一个面向视频生成、实时应用和物理 AI 的开源权重世界模型，针对 NVIDIA RTX GPU 和 DGX Spark 本地推理优化，降低了 VRAM 需求。",
+      "category": "ai-models",
+      "score": 64,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsp3qwbn050orortpbotiq0p"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "视频生成",
+        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -265,30 +292,115 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmsn3wsq10173ror1ykgqkwdz",
-      "title": "Flux 3 生成土星太空游轮延时摄影",
-      "title_en": "Ok， one more as I dream of doing this： > an amateur timelapse video taken by a tourist from ` plush…",
-      "url": "https://x.com/fofrAI/status/2086762875176034674",
-      "permalink": "https://aihot.virxact.com/items/cmsn3wsq10173ror1ykgqkwdz",
-      "source": "X：fofr (@fofrAI)",
-      "publishedAt": "2026-08-10T10:33:34.000Z",
-      "discoveredAt": "2026-08-10T10:46:45.157Z",
-      "summary": "fofr 用 Flux 3 生成一段业余风格的太空游轮延时摄影视频，画面为绕土星轨道视角，包含房间反射、灯光变化和人物快速移动。作者称 Flux 3 还能处理其他更有趣的土星角度，效果令人印象深刻。",
-      "category": "tip",
-      "score": 59,
+      "id": "cmspcop8z0ekerort65qatpd7",
+      "title": "Grok Imagine 2.0 上线 OpenRouter",
+      "title_en": "Grok Imagine Image 2.0 from @grok is now available on OpenRouter. Built for images you can use in r…",
+      "url": "https://x.com/OpenRouter/status/2087334361465283018",
+      "permalink": "https://aihot.virxact.com/items/cmspcop8z0ekerort65qatpd7",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-08-12T00:24:27.000Z",
+      "discoveredAt": "2026-08-12T00:27:56.167Z",
+      "summary": "@grok 推出的 Grok Imagine Image 2.0 现已在 OpenRouter 上线。\n\n它专为可用于实际工作的图像而打造：能规划排版、布局和多部分视觉内容，在摄影、设计和插画领域均保持高保真度。",
+      "category": "ai-products",
+      "score": 50,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsn3wsq10173ror1ykgqkwdz"
+        "canonical": "https://aihot.virxact.com/items/cmspcop8z0ekerort65qatpd7"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
+      "relevanceScore": 11,
+      "editorialScore": 14,
       "tags": [
-        "flux",
-        "视频",
+        "视觉",
+        "设计",
+        "图像",
         "摄影"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmspcbjbv0edkrorthhrkahfo",
+      "title": "MiniMax H3 视频生成工作流：1.97 美元替代 Seedance 2.5",
+      "title_en": "Let H3 cook！！ 🧑🍳🔥",
+      "url": "https://x.com/MiniMax_AI/status/2087326474114384381",
+      "permalink": "https://aihot.virxact.com/items/cmspcbjbv0edkrorthhrkahfo",
+      "source": "X：MiniMax (@MiniMax_AI)",
+      "publishedAt": "2026-08-11T23:53:06.000Z",
+      "discoveredAt": "2026-08-12T00:17:42.271Z",
+      "summary": "MiniMax 官方转发演示：用 DeepSeek V4 Flash 0731 编写 Three.js 场景，再交由 H3 生成视频，48 分钟、单次生成仅花费 1.97 美元，即可完成一镜到底的游戏射击场景。该工作流比反复重roll视频模型便宜得多，被视为更经济高效的 Seedance 2.5 替代方案。",
+      "category": "tip",
+      "score": 54,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmspcbjbv0edkrorthhrkahfo"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "工作流",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsoydvhw028vro3yhje64r40",
+      "title": "Grok Build v1.0.1 更新：新增视频生成与安全改进",
+      "title_en": "What would you most like us to add to or fix about Grok Build？",
+      "url": "https://x.com/elonmusk/status/2087232895798616122",
+      "permalink": "https://aihot.virxact.com/items/cmsoydvhw028vro3yhje64r40",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "publishedAt": "2026-08-11T17:41:15.000Z",
+      "discoveredAt": "2026-08-11T17:47:36.277Z",
+      "summary": "Grok Build v1.0.1 发布，新增视频生成功能，支持预设语音、单图输入、1-15 秒时长及 4：3/3：4 宽高比。更新还引入受限子代理、`grok du` 磁盘占用命令、只读工具标记等安全特性，并修复多项 bug。Elon Musk 在 X 上向用户征集对 Grok Build 的改进建议。",
+      "category": "ai-products",
+      "score": 34,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsoydvhw028vro3yhje64r40"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsot0wiw05oxrohdvtwc1sb8",
+      "title": "Grok CLI v1.0.1 更新：新增磁盘用量与视频生成功能",
+      "title_en": "🚨 NEW GROK BUILD UPDATE 🚨 v1.0.1 - 2026-08-10 Updates： • /rewind now only truncates conversatio…",
+      "url": "https://x.com/cb_doge/status/2087189868875075617",
+      "permalink": "https://aihot.virxact.com/items/cmsot0wiw05oxrohdvtwc1sb8",
+      "source": "X：cb_doge (@cb_doge)",
+      "publishedAt": "2026-08-11T14:50:17.000Z",
+      "discoveredAt": "2026-08-11T15:17:33.339Z",
+      "summary": "Grok CLI 发布 v1.0.1 更新，新增 `grok du` 命令查看磁盘用量、支持从参考图生成 1-15 秒视频，并限制子智能体生成数量以防资源耗尽。/rewind 命令现仅截断对话历史且默认需确认，MCP 服务器仅通过网关目录可用，并修复了多项 bug。",
+      "category": "ai-products",
+      "score": 39,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsot0wiw05oxrohdvtwc1sb8"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频",
+        "智能体",
+        "mcp"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -378,92 +490,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmsnb66tr0abdron5alphtquo",
-      "title": "字节免费开源 Seedance 2.5 与 Seedream 5.0 Pro 提示词文档",
-      "title_en": "字节这是把 AI 视频收费课的桌子掀了啊，做内容、做广告、做电商的都去存一份，比你花大几千买的 AI 课有用一万倍，官方把饭都喂到你嘴里了。 Seedance 2.5 和 Seedream 5.0 P…",
-      "url": "https://x.com/AYi_AInotes/status/2086813331998859743",
-      "permalink": "https://aihot.virxact.com/items/cmsnb66tr0abdron5alphtquo",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-08-10T13:54:04.000Z",
-      "discoveredAt": "2026-08-10T14:09:59.490Z",
-      "summary": "字节跳动免费开源 Seedance 2.5 与 Seedream 5.0 Pro 的提示词文档，内含几十套完整案例，如盛唐 30 秒长镜头、废土科幻一镜到底，每个 Prompt 均含分镜、运镜、音效及负面词等细节。升级后视频可生成 30 秒，支持按时间戳指定画面，最多可参考 30 图+10 视频+10 音频；生图支持高密度信息图与多语言文字。",
-      "category": "tip",
-      "score": 70,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsnb66tr0abdron5alphtquo"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "生图",
-        "广告",
-        "视频",
-        "提示词"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmsmxepkh0m3crohfbrbfs7ww",
-      "title": "PixVerse 上线 Seedance 2.5 视频生成",
-      "title_en": "Seedance 2.5 is now on PixVerse. Create a 60-second Back-To-School TVC - student journeys， campus m…",
-      "url": "https://x.com/PixVerse_/status/2086715562022072513",
-      "permalink": "https://aihot.virxact.com/items/cmsmxepkh0m3crohfbrbfs7ww",
-      "source": "X：PixVerse (@PixVerse_)",
-      "publishedAt": "2026-08-10T07:25:33.000Z",
-      "discoveredAt": "2026-08-10T07:44:44.030Z",
-      "summary": "Seedance 2.5 现已登陆 PixVerse。\n\n制作 60 秒返校季电视广告--学生旅程、校园瞬间、品牌营销--角色一致、电影级画面、叙事驱动。\n\n角逐最高 300 美元 + 30，000 积分奖励。Seedance 2.0 限时优惠价现已生效。🎬",
-      "category": "ai-products",
-      "score": 48,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsmxepkh0m3crohfbrbfs7ww"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视频生成",
-        "广告",
-        "视频",
-        "品牌"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmso2m6ot082rrofwnmm5aq7y",
-      "title": "Sci-VBench：科学领域知识密集型视频生成的评测基准",
-      "title_en": "Sci-VBench： Evaluating Knowledge- and Reasoning-Intensive Video Generation in Science Domains",
-      "url": "https://arxiv.org/abs/2608.09873",
-      "permalink": "https://aihot.virxact.com/items/cmso2m6ot082rrofwnmm5aq7y",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-08-10T00:00:00.000Z",
-      "discoveredAt": "2026-08-11T02:58:16.068Z",
-      "summary": "Sci-VBench 基准包含 1，253 个专家标注示例，覆盖自然科学、医疗健康、人文社科与工程四大领域的 60 个主题，要求模型生成具备科学推理能力的时序视频。评测显示，16 个前沿模型在感知质量上接近，但在提示词接地性与科学因果正确性上差异显著，专有与开源模型间存在明显差距。",
-      "category": "paper",
-      "score": 45,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmso2m6ot082rrofwnmm5aq7y"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视频生成",
-        "视频",
-        "提示词"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmsoo1zbb074rrop2pq2ardo8",
       "title": "玉伯力荐：一人团队用 YouMind AI 全流程做视频",
       "title_en": "一个人活成了一支团队 强烈推荐",
@@ -549,57 +575,31 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmsmxejiq0m1irohf2evhs9eh",
-      "title": "MiniMax H3 开源视频模型登顶 LMArena",
-      "title_en": "A few of the biggest takeaways from our H3 conversation on ThursdAI 🎥 🔓 Open video is reaching th…",
-      "url": "https://x.com/MiniMax_AI/status/2086718280199467207",
-      "permalink": "https://aihot.virxact.com/items/cmsmxejiq0m1irohf2evhs9eh",
-      "source": "X：MiniMax (@MiniMax_AI)",
-      "publishedAt": "2026-08-10T07:36:22.000Z",
-      "discoveredAt": "2026-08-10T07:44:35.576Z",
-      "summary": "MiniMax H3 在 ThursdAI 对话中被誉为\"领先的开源权重开放模型\"，直接对标 Seedance、FLUX 和 WAN，并登顶 LMArena 开源视频模型榜首。",
-      "category": "tip",
-      "score": 58,
-      "selected": false,
+      "id": "cmsoxbh180a00rohdooafsmzp",
+      "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力",
+      "title_en": "AMIE， our research medical AI system， demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+      "permalink": "https://aihot.virxact.com/items/cmsoxbh180a00rohdooafsmzp",
+      "source": "Google Blog：AI（RSS）",
+      "publishedAt": "2026-08-11T17:00:00.000Z",
+      "discoveredAt": "2026-08-11T17:17:44.810Z",
+      "summary": "Google Research 与 Google DeepMind 推进医疗 AI 系统 AMIE，实现实时临床视频问诊，首次在此场景展示专家级 AI 能力。该系统基于 Gemini 和 Project Astra 构建，可解读视觉与听觉线索、引导虚拟体格检查并实时诊断推理。随机研究中，临床评估者对 AMIE 的病史采集、诊断准确性等核心能力给予好评，患者演员也更偏好视频体验。",
+      "category": "paper",
+      "score": 69,
+      "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsmxejiq0m1irohf2evhs9eh"
+        "canonical": "https://aihot.virxact.com/items/cmsoxbh180a00rohdooafsmzp"
       },
-      "sourceType": "X",
+      "sourceType": "网站",
       "designCategory": "图像与视频",
       "relevanceScore": 9,
       "editorialScore": 12,
       "tags": [
-        "flux",
+        "视觉",
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmsmek26r02n1road8w2hkybg",
-      "title": "SQLite 压缩文本历史记录原型：用 zlib/zstd 压缩 JSON 数组存储全部修订版本",
-      "title_en": "SQLite compressed text-history prototypes",
-      "url": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype",
-      "permalink": "https://aihot.virxact.com/items/cmsmek26r02n1road8w2hkybg",
-      "source": "Simon Willison 博客",
-      "publishedAt": "2026-08-09T22:05:00.000Z",
-      "discoveredAt": "2026-08-09T22:57:00.584Z",
-      "summary": "Simon Willison 提出并验证了一种 SQLite 存储文本修订历史的新方案：将每个历史版本全文放入 JSON 字符串数组，再用 zlib 或 zstd 整体压缩存入 BLOB 列。",
-      "category": "tip",
-      "score": 61,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsmek26r02n1road8w2hkybg"
-      },
-      "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 7,
-      "editorialScore": 12,
-      "tags": [
-        "原型"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "cmsnwe3jr0430roikigptzkf0",
@@ -655,112 +655,30 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmsn8luit07omron5x6vmkk7v",
-      "title": "Anthropic Labs 内部孵化机制如何炼成强大产品",
-      "title_en": "Anthropic 的产品，为什么这么厉害。 刚看了公众号《海外独角兽》的最新文章。非常不错，强烈推荐。 Anthropic 公司里有个 Labs 团队。 Labs 团队会围绕不同的技术判断播下大…",
-      "url": "https://x.com/lifesinger/status/2086796388277330395",
-      "permalink": "https://aihot.virxact.com/items/cmsn8luit07omron5x6vmkk7v",
-      "source": "X：Frank Wang 玉伯 (@lifesinger)",
-      "publishedAt": "2026-08-10T12:46:44.000Z",
-      "discoveredAt": "2026-08-10T12:58:12.754Z",
-      "summary": "玉伯推荐《海外独角兽》文章，解析 Anthropic 产品为何强大。其 Labs 团队围绕技术判断播下大量种子，放入内部真实工作环境生长，只有极少数在 Dogfooding 中扎根、跑出足够好的周活和留存才对外发布。Anthropic 现同时运行几百个原型，绝大多数永不面世；Claude Tag 经数月内部打磨，今年 6 月才正式发布。",
-      "category": "tip",
-      "score": 47,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsn8luit07omron5x6vmkk7v"
-      },
-      "sourceType": "X",
-      "designCategory": "设计工具",
-      "relevanceScore": 6,
-      "editorialScore": 11,
-      "tags": [
-        "原型"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "cmsms1kkv0d8zrohf6cbw0xal",
-      "title": "阿里云万相3.0将文档转化为电影级视频",
-      "title_en": "What if a destination film could start with documents instead of storyboards？ With Wan3.0， city web…",
-      "url": "https://x.com/alibaba_cloud/status/2086681533608308885",
-      "permalink": "https://aihot.virxact.com/items/cmsms1kkv0d8zrohf6cbw0xal",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "publishedAt": "2026-08-10T05:10:20.000Z",
-      "discoveredAt": "2026-08-10T05:14:32.926Z",
-      "summary": "如果一部目的地影片可以从文档而非分镜脚本开始呢？\n\n借助万相3.0（Wan3.0），城市网站、博物馆档案、旅游指南及其他结构化内容都可以转化为电影级视频。\n\n将信息变成沉浸式视觉故事。\n\n观看演示并立即开始创作 ↓\n\n🔗 阿里云百炼（Alibaba Cloud Model Studio）：https://click.alibabacloud.com/m/20000002017/\n\n🔗 通义千问云（Qwen Cloud）：https://click.qwencloud.com/m/20000002025/",
+      "id": "cmsp1lufu03a9rortoc0ci36q",
+      "title": "Runway Seedance 2.5 上线，支持50角色参考",
+      "title_en": "A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
+      "url": "https://x.com/runwayml/status/2087251184658657346",
+      "permalink": "https://aihot.virxact.com/items/cmsp1lufu03a9rortoc0ci36q",
+      "source": "X：Runway (@runwayml)",
+      "publishedAt": "2026-08-11T18:53:56.000Z",
+      "discoveredAt": "2026-08-11T19:17:47.577Z",
+      "summary": "完整阵容，完整曲目，一次生成一个。\n\nSeedance 2.5 已在 Runway 上线，支持 50 个独特角色参考，以及最长 30 秒、与音乐同步的片段。点击下方链接即可开始使用。",
       "category": "ai-products",
-      "score": 42,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsms1kkv0d8zrohf6cbw0xal"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视觉",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmsmpwjyh0b0drohfw1hpbbzh",
-      "title": "Qwen-MM-Plugins 让智能体原生支持多模态",
-      "title_en": "👀 Seeing is just the beginning. With Qwen-MM-Plugins， turn your favorite agent harness multimodal-…",
-      "url": "https://x.com/Alibaba_Qwen/status/2086664887560970531",
-      "permalink": "https://aihot.virxact.com/items/cmsmpwjyh0b0drohfw1hpbbzh",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "publishedAt": "2026-08-10T04:04:12.000Z",
-      "discoveredAt": "2026-08-10T04:14:38.969Z",
-      "summary": "👀 看见只是开始。\n\n借助 Qwen-MM-Plugins，让你的智能体原生支持多模态--读取图片、视频和文档，编辑视频，处理 3D/CAD，以及更多。\n\n从多模态模型 → 多模态智能体。🚀\n\n观看实际效果：https://github.com/QwenLM/Qwen-MM-Plugins",
-      "category": "ai-products",
-      "score": 71,
+      "score": 72,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsmpwjyh0b0drohfw1hpbbzh"
+        "canonical": "https://aihot.virxact.com/items/cmsp1lufu03a9rortoc0ci36q"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视频",
-        "3d",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmsmjglqx034prohfslczvkpb",
-      "title": "OpenChamber：一个基于代理的开发环境",
-      "title_en": null,
-      "url": "https://openchamber.dev/",
-      "permalink": "https://aihot.virxact.com/items/cmsmjglqx034prohfslczvkpb",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-10T00:46:27.596Z",
-      "discoveredAt": "2026-08-10T01:14:17.226Z",
-      "summary": "OpenChamber 是一个基于代理的开发环境，可跨桌面、浏览器、手机和 VS Code 使用，支持会话目标、多模型并行运行与融合、变更走查、从 issue 到 PR 的完整流程及定时任务。该工具基于 OpenCode SDK，完全开源且免费，代码和会话内容均保存在本地，远程访问可通过 UI 密码和端到端加密的 Private Relay 保护。",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsmjglqx034prohfslczvkpb"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
       "relevanceScore": 7,
-      "editorialScore": 11,
+      "editorialScore": 10,
       "tags": [
-        "ui"
+        "runway"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmsoolxde07isrop2eb5rrtvq",
@@ -926,58 +844,87 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmsn2lgxy061lro8op79nv80p",
-      "title": "阿里Qwen-MM-Plugins让大模型拥有多模态能力",
-      "title_en": "我靠阿里的这个插件有点东西， Qwen-MM-Plugins相当于给任何大模型外挂一套多模态能力，相当于有了眼睛能看图看视频，手能剪视频处理3D文件， 可做给DeepSeek配上，一个负责超级大脑，…",
-      "url": "https://x.com/AYi_AInotes/status/2086742482855858458",
-      "permalink": "https://aihot.virxact.com/items/cmsn2lgxy061lro8op79nv80p",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-08-10T09:12:32.000Z",
-      "discoveredAt": "2026-08-10T10:09:56.892Z",
-      "summary": "我靠阿里的这个插件有点东西，\n\nQwen-MM-Plugins相当于给任何大模型外挂一套多模态能力，相当于有了眼睛能看图看视频，手能剪视频处理3D文件， 可做给DeepSeek配上，一个负责超级大脑，一个负责干活",
-      "category": "ai-products",
-      "score": 41,
-      "selected": false,
+      "id": "cmspc30un0e4xrorts1kax9zg",
+      "title": "零基础用户半天上手AI的12步实操流程",
+      "title_en": "我们经常会感觉，AI已经这么火了，可是在我日常中，跟很多别的行业的朋友们聊，大家总是会天然的觉得，用AI，是一件很难的事情。 有很多人，不敢开始。 包括其实我日常被问的最多的问题，也是类似的： 卡老师，我想学AI、用AI，我要怎么开始。 所以呢，我今天就想写一个非常非常初级的小流程，如果你想用好AI，你就按着一步一步做，不仅可以入门，也基本有了最核心的心法。 1. 首先，你需要一台电脑，Mac最好，Windows也可以，内存不要低于16个G，你一定需要一台电脑，这个是我们用好AI的前提。 2. 如果你能使用海外产品，Google搜索ChatGPT，然后注册账号，冲一个月20美金的订阅费用，再在官网上，下载Codex，然后安装。 3. 如果你不能使用海外产品，百度搜索WorkBuddy，下载然后登录，可以先不充会员，记得嫖一下积分。 4. 在Codex中把模型选择为GPT-5.6 Sol最高，在WorkBuddy中选Kimi K3。 5. 下载一个语音输入法，Mac可以使用豆包输入法，Windows可以使用微信输入法，从此以后，你跟AI发送消息的时候，就不要再打字了，直接用嘴进行表达。 6. 把你脑海中你现在最头疼、最不想干、最抗拒的事情，一股脑的用语音输入法说给AI，记得用【背景、痛点、需求】的框架来去说，然后再附上一句，\"请你先不要开始干活，用苏格拉底提问法向我提问，一次只问一个问题，直到你认为已经完全理解这件事。\" 7. 回答AI跟你提出的问题。 8. 等AI跟你问的差不多了，输出了一个最终方案的时候，把你跟这个事情相关的所有文件，比如文档、表格、PPT、参考资料啥的，放在一个新建的文件夹里，扔给AI，然后说，\"这是我的所有的文件，请你帮我直接完成吧，遇到必须由我决定的地方，再停下来问我。\" 9. 调整AI给你的结果，千万别觉得AI不行然后就自己去干了，告诉AI，哪里不对，让它去调整，如果你说不出来，也可以说\"我现在讲不出来具体原因，但我就是不喜欢，请你对比几个方向，一次问我一个问题，帮我把判断标准找出来。\" 10. 大概2~3轮，你的这个最不想做的事，AI大概率就替你做完了。 11. 跟AI说，帮我把刚才的整个过程和这个事情，做成一个可以供我反复使用的Skill，以后，类似的事情，你就可以用AI自动化了。 12. 从此以后，遇到不想干的，扔给AI，提供你的文件和【背景、痛点、需求】，让AI帮你完成，同时沉淀成Skill。 好了。 现在，只需要半天时间，你已经学会使用AI了。 没错，就是如此简单。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
+      "permalink": "https://aihot.virxact.com/items/cmspc30un0e4xrorts1kax9zg",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-08-12T00:08:00.000Z",
+      "discoveredAt": "2026-08-12T00:11:05.004Z",
+      "summary": "文章给出一套零基础用户半天上手AI的12步实操流程：准备内存不低于16G的电脑，订阅ChatGPT并安装Codex或使用WorkBuddy，用语音输入法以【背景、痛点、需求】框架向AI交代任务，经苏格拉底提问澄清需求后投喂文件让AI直接完成，最后沉淀为可复用Skill。文中建议Codex选GPT-5.6 Sol最高模型，WorkBuddy选Kimi K3。",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsn2lgxy061lro8op79nv80p"
+        "canonical": "https://aihot.virxact.com/items/cmspc30un0e4xrorts1kax9zg"
       },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
+      "sourceType": "公众号",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
       "tags": [
-        "视频",
-        "3d"
+        "自动化",
+        "codex",
+        "skill"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmso2m6os082orofwmyy8pmdt",
-      "title": "Macaron-V1：面向开放持续学习的开源智能体模型家族",
-      "title_en": "Macaron-V1： Towards Open Continual Learning with Self-Improvement and Mixture-of-LoRA",
-      "url": "https://arxiv.org/abs/2608.09819",
-      "permalink": "https://aihot.virxact.com/items/cmso2m6os082orofwmyy8pmdt",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-08-10T00:00:00.000Z",
-      "discoveredAt": "2026-08-11T02:58:16.068Z",
-      "summary": "Macaron-V1 是一个开源智能体模型家族，通过 Mixture-of-LoRA（MoL）架构冻结基座模型、组合专家 LoRA 适配器，并在每次用户交互时选择其中一个 LoRA，以支持部署后的持续学习。",
-      "category": "ai-models",
-      "score": 68,
+      "id": "cmsou3oip06terohdc7f5ic08",
+      "title": "Krea 推出 Slack 集成 Beta 版",
+      "title_en": "today we introduce a beta of Krea in Slack. expand your team's creative work with the latest AI mod…",
+      "url": "https://x.com/krea_ai/status/2087198446017032642",
+      "permalink": "https://aihot.virxact.com/items/cmsou3oip06terohdc7f5ic08",
+      "source": "X：Krea AI (@krea_ai)",
+      "publishedAt": "2026-08-11T15:24:22.000Z",
+      "discoveredAt": "2026-08-11T15:47:41.484Z",
+      "summary": "今天我们推出 Krea 在 Slack 中的 Beta 版本。\n\n借助最新的 AI 模型和能适应你偏好的智能体，扩展你团队的创意工作。\n\n立即在 krea.ai 上试用。",
+      "category": "ai-products",
+      "score": 56,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmso2m6os082orofwmyy8pmdt"
+        "canonical": "https://aihot.virxact.com/items/cmsou3oip06terohdc7f5ic08"
       },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
+      "sourceType": "X",
+      "designCategory": "行业观察",
+      "relevanceScore": 9,
+      "editorialScore": 9,
       "tags": [
-        "交互",
+        "创意",
+        "creative",
         "智能体"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
+      "id": "cmsokg9m40vndrofwrh88qh9a",
+      "title": "PixVerse 发布 Batu 提示词与 Seedance 2.5 控制",
+      "title_en": "Here's the full \"Batu\" prompt on PixVerse. Epic wide shot s can be generated instantly. Seedance 2.5…",
+      "url": "https://x.com/PixVerse_/status/2087133274141507972",
+      "permalink": "https://aihot.virxact.com/items/cmsokg9m40vndrofwrh88qh9a",
+      "source": "X：PixVerse (@PixVerse_)",
+      "publishedAt": "2026-08-11T11:05:24.000Z",
+      "discoveredAt": "2026-08-11T11:17:33.979Z",
+      "summary": "以下是 PixVerse 上完整的\"Batu\"提示词。史诗级广角镜头可即时生成。Seedance 2.5 让你精确控制具体镜头与运镜。",
+      "category": "tip",
+      "score": 69,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsokg9m40vndrofwrh88qh9a"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "提示词",
+        "prompt"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmsnybra1031trofwz2b9ebky",
@@ -1008,6 +955,62 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmsnfgivj056qrohf22a8ghq6",
+      "title": "聂辉华《基层中国的运行逻辑》做成 AI Agent Skill 开源",
+      "title_en": "我干了件可能帮很多人少走十年弯路的事：把人大聂辉华教授那本《基层中国的运行逻辑》，做成了能装进 AI Agent 里的 Skill。 把这本书里 14 套讲透了中国社会运行规则的分析框架， 直接焊成了…",
+      "url": "https://x.com/AYi_AInotes/status/2086844120996126980",
+      "permalink": "https://aihot.virxact.com/items/cmsnfgivj056qrohf22a8ghq6",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-08-10T15:56:24.000Z",
+      "discoveredAt": "2026-08-10T16:10:00.423Z",
+      "summary": "阿易 AI Notes 将聂辉华《基层中国的运行逻辑》中 14 套分析框架做成可装入 AI Agent 的 Skill，MIT 完全开源，仓库不含原书正文。该 Skill 覆盖求学、考公、投资、养老、创业五大场景，支持懒加载调用以节省 token，可直接装入 Cursor、Claude Code、Codex、Grok 使用。原书分三部分，讲解国家治理体系、权力运行与基层治理逻辑。",
+      "category": "tip",
+      "score": 70,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsnfgivj056qrohf22a8ghq6"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "codex",
+        "claude code",
+        "agent",
+        "skill"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmsopyoum028urohdhqzve6ba",
+      "title": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning",
+      "title_en": "Blog SGLang Adds Day-0 Support for NVIDIA Nemotron 3.5 Lightning SGLang is excited to announce Day-0 support for NVIDIA Nemotron 3.5 Lightning， a customizable open model built to power always-on agents across local systems， the edge， the datacenter， and the cloud. … NVIDIA Nemotron Team and SGLang Team",
+      "url": "https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning",
+      "permalink": "https://aihot.virxact.com/items/cmsopyoum028urohdhqzve6ba",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "publishedAt": "2026-08-11T13:51:45.827Z",
+      "discoveredAt": "2026-08-11T13:51:45.827Z",
+      "summary": "SGLang 宣布对 NVIDIA Nemotron 3.5 Lightning 提供 Day-0 支持，该开源模型为 30B 总参数、3B 激活参数的混合专家架构，支持最长 1M token 上下文，可从 Hugging Face 下载 BF16 和 NVFP4 权重。模型支持 MTP、DFlash、DSpark 三种投机解码技术，并可通过 OpenAI 兼容 API 接入智能体工作流。",
+      "category": "ai-models",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsopyoum028urohdhqzve6ba"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "工作流",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cmsnfin8a0576rohf1prucb1y",
       "title": "新调查：AI 时代下超八成家长和老师认为学生应具备更强数据素养",
       "title_en": "新调查显示：AI 时代下，超八成家长和老师认为学生应具备更强的数据素养",
@@ -1023,116 +1026,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsnfin8a0576rohf1prucb1y"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "提示词",
-        "prompt"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmsn68brx03q2ron5vwp3pwta",
-      "title": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
-      "title_en": "Blog SGLang Adds Day-0 Support for Muse Glimmer， a Multimodal Model Built for Local Agentic Workflows We're excited to partner with Meta Superintelligence Labs to bring Day-0 support for Muse Glimmer to SGLang， with dedicated optimizations tailored for high-performance inference of agentic workflows o… Meta Superintelligence Labs and the SGLang Team",
-      "url": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
-      "permalink": "https://aihot.virxact.com/items/cmsn68brx03q2ron5vwp3pwta",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "publishedAt": "2026-08-10T11:51:38.747Z",
-      "discoveredAt": "2026-08-10T11:51:38.747Z",
-      "summary": "SGLang 与 Meta Superintelligence Labs 合作，为 30B 参数多模态模型 Muse Glimmer 提供 Day-0 支持，该模型拥有 128k+ token 上下文窗口。",
-      "category": "ai-models",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsn68brx03q2ron5vwp3pwta"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "工作流",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmsn0p12f03umrognrx8kgn6u",
-      "title": "Atlassian AI 智能体 Rovo 存在间接提示词注入漏洞，可窃取 Jira 与 Confluence 敏感数据",
-      "title_en": "Hidden text in a PDF is enough to steal sensitive data through Atlassian's AI agent Rovo",
-      "url": "https://the-decoder.com/hidden-text-in-a-pdf-is-enough-to-steal-sensitive-data-through-atlassians-ai-agent-rovo",
-      "permalink": "https://aihot.virxact.com/items/cmsn0p12f03umrognrx8kgn6u",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-08-10T08:46:36.000Z",
-      "discoveredAt": "2026-08-10T09:16:40.624Z",
-      "summary": "安全公司 PromptArmor 披露，Atlassian 的 AI 智能体 Rovo 存在间接提示词注入漏洞，攻击者仅需上传一个隐藏白色文字指令的 PDF，即可在无需用户确认且不留痕迹的情况下，窃取 Jira 工单和 Confluence 文档中的敏感数据。",
-      "category": "industry",
-      "score": 66,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsn0p12f03umrognrx8kgn6u"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "提示词",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmsntacii0j0urohfz48viimb",
-      "title": "Zapier 如何用 ChatGPT Work 改造核心营销流程",
-      "title_en": "How Zapier transformed core marketing processes with ChatGPT Work",
-      "url": "https://openai.com/index/zapier",
-      "permalink": "https://aihot.virxact.com/items/cmsntacii0j0urohfz48viimb",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-08-10T00:00:00.000Z",
-      "discoveredAt": "2026-08-10T22:37:07.711Z",
-      "summary": "Zapier 企业营销团队用 ChatGPT Work 自动化线索漏斗优化、营销素材搭建和报告生成，每月可对数千条线索执行 QA/QC，单人查看一条流失线索原本需 35 至 45 分钟。该系统每月为销售团队带来七位数管道价值，并生成高管仪表盘展示线索管道中的重复问题与每周趋势。团队得以将更多时间投入策略与创意工作，并计划未来设置常驻自动化循环。",
-      "category": "industry",
-      "score": 42,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsntacii0j0urohfz48viimb"
-      },
-      "sourceType": "网站",
-      "designCategory": "行业观察",
-      "relevanceScore": 8,
-      "editorialScore": 8,
-      "tags": [
-        "创意",
-        "自动化",
-        "营销"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmsmgqhir0036ronx63xcwb9j",
-      "title": "引用 Claude Opus 5 系统提示词",
-      "title_en": "Quoting Claude Opus 5 system prompt",
-      "url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt",
-      "permalink": "https://aihot.virxact.com/items/cmsmgqhir0036ronx63xcwb9j",
-      "source": "Simon Willison 博客",
-      "publishedAt": "2026-08-09T23:31:39.000Z",
-      "discoveredAt": "2026-08-09T23:57:59.965Z",
-      "summary": "Anthropic 于 6 月 9 日发布 Claude Fable 5 和 Claude Mythos 5，随后因美国商务部出口管制于 6 月 12 日暂停访问，管制解除后于 7 月 1 日恢复。Claude Opus 5 系统提示词明确要求模型如实确认这一事件，不否认暂停事实，并引导用户查阅 Anthropic 官网获取最新信息。",
-      "category": "tip",
-      "score": 31,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsmgqhir0036ronx63xcwb9j"
       },
       "sourceType": "网站",
       "designCategory": "工作流与 Agent",
@@ -1170,87 +1063,6 @@
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmsn4stfo0287ron58y0mneds",
-      "title": "Meta 开源 30B 模型 Muse Glimmer，4bit 量化可在 24GB 显存 GPU 本地运行",
-      "title_en": "Meta 开源 30B AI 模型 Muse Glimmer，4bit 量化可在单卡 24GB 显存 GPU 运行",
-      "url": "https://www.ithome.com/0/988/007.htm",
-      "permalink": "https://aihot.virxact.com/items/cmsn4stfo0287ron58y0mneds",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-10T10:52:38.000Z",
-      "discoveredAt": "2026-08-10T11:11:36.773Z",
-      "summary": "Meta 今日发布 300 亿参数模型 Muse Glimmer，并在 Apache 2.0 许可下开源权重。该模型专为全天候常驻的本地智能体工作流优化，应用 4bit 量化后可在 24GB/32GB 显存的 Mac 或 PC 上运行，实测性能几乎无衰减。在 MacBook M4 Max、M5 Max 及 RTX 5090 上，其速度可胜任流畅对话与实时智能体交互，所有计算均在本地完成。",
-      "category": "ai-models",
-      "score": 52,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsn4stfo0287ron58y0mneds"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "交互",
-        "工作流",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmsm7o4am03n7ro98567fkupy",
-      "title": "Anthropic 将 Claude Code 的自动模式设为默认选项",
-      "title_en": "Anthropic is turning Claude Code's auto mode on by default",
-      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default",
-      "permalink": "https://aihot.virxact.com/items/cmsm7o4am03n7ro98567fkupy",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-08-09T19:20:32.000Z",
-      "discoveredAt": "2026-08-09T19:44:12.767Z",
-      "summary": "Anthropic 宣布自 8 月 14 日起，将 Claude Code 的自动模式设为 Pro、Max 和 Team 账户的默认选项，该模式仅在操作被判定为\"不可逆、具破坏性或超出环境范围\"时才请求人工批准。测试显示，在 1，053 名付费测试者中，自动模式捕获了 89% 的有害操作，而人工审查仅捕获 13.6%。公司还新增了提示词注入筛查和可自定义的硬性拒绝规则等安全功能。",
-      "category": "ai-products",
-      "score": 54,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsm7o4am03n7ro98567fkupy"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "提示词",
-        "claude code"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmsm3dqor06c0roy9c647d1mb",
-      "title": "硅谷误读科幻作品，并削弱了民主",
-      "title_en": null,
-      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
-      "permalink": "https://aihot.virxact.com/items/cmsm3dqor06c0roy9c647d1mb",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-09T17:18:55.741Z",
-      "discoveredAt": "2026-08-09T17:44:09.396Z",
-      "summary": "哈佛历史学家、普利策奖得主Jill Lepore在新书中警告，科技公司正日益取代民主政府职能，标志着\"以算法、企业和机器统治形式回归暴政与神秘化\"。她强调自己并非反技术，批评的是私营企业未经同意逐步接管国家角色，并指Elon Musk等硅谷领袖正推动一个源自误读科幻小说的未来。Lepore还谈到苹果1984年Macintosh广告及将Twitter称为\"数字市政厅\"实属荒谬。",
-      "category": "tip",
-      "score": 61,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsm3dqor06c0roy9c647d1mb"
-      },
-      "sourceType": "网站",
-      "designCategory": "行业观察",
-      "relevanceScore": 6,
-      "editorialScore": 6,
-      "tags": [
-        "广告"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     }
   ]
 }
