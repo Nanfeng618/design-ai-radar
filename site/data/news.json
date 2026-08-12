@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-12T02:44:13.208Z",
-  "previousGeneratedAt": "2026-08-11T13:43:09.003Z",
+  "generatedAt": "2026-08-12T07:51:54.938Z",
+  "previousGeneratedAt": "2026-08-12T02:44:13.208Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 38,
+  "itemCount": 44,
   "sourceCounts": {
-    "网站": 13,
+    "网站": 17,
     "X": 24,
-    "公众号": 1
+    "公众号": 3
   },
   "source": {
     "name": "AI HOT",
@@ -71,6 +71,33 @@
         "视频"
       ],
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
+      "id": "cmspo16gx05plroje5edrpw96",
+      "title": "前沿模型变难懂？智能提升反伤用户体验",
+      "title_en": "I think the real weird thing is we improved intelligence but somehow accidentally made human ux way …",
+      "url": "https://x.com/dexhorthy/status/2087403002965721395",
+      "permalink": "https://aihot.virxact.com/items/cmspo16gx05plroje5edrpw96",
+      "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+      "publishedAt": "2026-08-12T04:57:12.000Z",
+      "discoveredAt": "2026-08-12T05:45:32.396Z",
+      "summary": "HumanLayer 的 Dex Horthy 认为，模型智能提升反而让人类用户体验变差：数学问题可逐步优化，但\"像人一样说话\"存在漫长的最后一公里。引用推文指出，前沿模型日益晦涩的表述并非训练失误，而是更高智能的自然表现，实验室最终会通过\"屈就人类水平\"来消除这种困惑感。",
+      "category": "tip",
+      "score": 50,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmspo16gx05plroje5edrpw96"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 14,
+      "editorialScore": 18,
+      "tags": [
+        "用户体验",
+        "ux"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmsobo81w0kwyrofw333n1qar",
@@ -179,6 +206,64 @@
         "生图"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmspk9ofu02cbrojej28w43eh",
+      "title": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
+      "title_en": "这两天正在重构vibe coding工作流，codex和claude都能跨会话互传消息后，我就不用写交接文档，不用每一步都用git备份，完全能探索所有可行路径还不丢上下文。 以前对话中途有个新想法，我面临三种选择👇 1️⃣ 继续在当前对话聊，主线容易被带偏。 2️⃣ 重新开一个对话，又得把背景、进度和之前踩过的坑解释一遍。为了不让新对话失忆，我还要维护一份交接文档，把重要信息复制过去。 3️⃣把当前对话完整复制下来做一个新对话，也就是对话分支功能，这样就既不影响主线还可以尝试新想法。但仅限于新想法跟原来想法相差不大的情况，不然上下文还是会污染新想法的实现。 新功能跨Session传消息就是，Claude和Codex的新对话可以从之前的所有对话里面选择自己能用的消息。 那可以直接换一种工作方式了，不用把一个Session当成必须从头聊到尾的总对话，而是把每一次Agent任务都当成一条可以随时分叉的工作线。主对话负责目标和最终决策；遇到一个需要认真展开的新想法，就另外开一条分支对话，让它独立研究尝试和推演。等支线跑完，再让主对话读取它的完整记录，决定该用哪些结论。 比方说我最近在优化AI热点Skill ai news radar，中途想到是否要加一个新域名重新做定位。这种任务不是一句话能回答的，这时单开一条分支对话就很合适。能跨Session传消息首先就省掉了做大量重复交接文档的时间。新对话不用只依赖我临时写的总结，可以读取旧对话里的决策、失败尝试和执行结果。 Codex和Claude用了两种不同的实现方式。Codex是精确寻址。打开我们要给新对话读取的目标对话，从左上角三个点里复制会话ID，再告诉主任务：读取 ID 为 xxx 的分支对话，提取核心结论、做过的尝试和待决策项，然后更新当前计划。 Claude Code不支持id搜索，而是做了一个能搜索对话历史的工具，通过内置的session management 查找旧对话，所以关键是把线索说清楚。刚开始的时候说【找一下上次某某网站对话】，基本都是噪音。现在已经换成了【搜索ai news radar项目在8月10日前后的会话，主题是新域名和产品定位。列出候选会话的时间、标题和首条任务，我确认后再读取完整记录。】 有一个我踩过的坑，Claude Code桌面端搜索的是它当前能够访问的会话记录。网页端URL 后面的 `session_…` 不能直接当成ID来搜索用。 总的来说， 我现在的工作流就是， 用一个主对话守住方向， 十几个甚至几十个分支对话负责把每个值得追下去的念头，认真走一遍。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509276&idx=1&sn=675b64d514b1179c8f2362941144bbb4",
+      "permalink": "https://aihot.virxact.com/items/cmspk9ofu02cbrojej28w43eh",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-08-11T14:15:07.000Z",
+      "discoveredAt": "2026-08-12T04:00:11.403Z",
+      "summary": "Codex 和 Claude 新增跨 Session 传消息功能后，新对话可从之前所有对话中选择可用消息，省去交接文档和 git 备份。作者据此重构工作流：主对话守住目标与决策，分支对话独立探索新想法，完成后由主对话读取完整记录。Codex 通过复制会话 ID 精确寻址，Claude Code 则用内置 session management 搜索对话历史，但桌面端只能搜索当前可访问的会话记录。",
+      "category": "tip",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmspk9ofu02cbrojej28w43eh"
+      },
+      "sourceType": "公众号",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 15,
+      "editorialScore": 16,
+      "tags": [
+        "工作流",
+        "vibe coding",
+        "codex",
+        "claude code"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmspo40i205uiroje88gkps2x",
+      "title": "Grok Bot 团队：8个AI智能体分工协作",
+      "title_en": "Grok Bot",
+      "url": "https://x.com/elonmusk/status/2087409427888603229",
+      "permalink": "https://aihot.virxact.com/items/cmspo40i205uiroje88gkps2x",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "publishedAt": "2026-08-12T05:22:44.000Z",
+      "discoveredAt": "2026-08-12T05:47:46.616Z",
+      "summary": "Grok Bot\n\n【引用 @farzyness】：这是我的 Grok Bot 团队：\n\n- Webby：网页设计师\n- Shotry：短视频内容创作者\n- Writey：文章/通讯稿写手\n- Claude Code：专精 CC 的 Grok 智能体\n- Codex：同上，但专精 CODEX\n- Script：YouTube 脚本写手\n- Idea：视频/内容创意生成\n- Master：整个团队的编排者\n\n搭建这些并让它们跑起来非常容易。看看效果如何！",
+      "category": "tip",
+      "score": 26,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmspo40i205uiroje88gkps2x"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 11,
+      "editorialScore": 15,
+      "tags": [
+        "设计师",
+        "设计",
+        "创意",
+        "内容创作"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmsp5w9ed06qmrortlc6uvtoo",
@@ -490,6 +575,62 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmspi2an8040kromi23qifbp1",
+      "title": "Latent-to-4D：从视频先验到 4D 世界的直接生成",
+      "title_en": "Beyond Pixels： From Video Priors to 4D Worlds",
+      "url": "https://arxiv.org/abs/2608.10744",
+      "permalink": "https://aihot.virxact.com/items/cmspi2an8040kromi23qifbp1",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-11T00:00:00.000Z",
+      "discoveredAt": "2026-08-12T02:58:28.494Z",
+      "summary": "4D 生成通常依赖 RGB 视频重建或为特定视频生成器定制几何预测，两者分别受分布失配和生成器绑定限制。新方法 Latent-to-4D 直接对齐视频模型的去噪潜变量与预训练 4D 解码器的 token 网格，绕过 RGB 中间步骤，仅用约 1K 重建片段训练，单一 checkpoint 即可在同类 VAE 家族的不同视频扩散 Transformer 间迁移。",
+      "category": "paper",
+      "score": 49,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmspi2an8040kromi23qifbp1"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsposjsq07tqrojejahq7zsv",
+      "title": "Seedance 2.5 实测：视频生成能力是否名副其实",
+      "title_en": "Seedance 2.5自绝于网民",
+      "url": "https://elsewhere.news/zh/funeralai/seedance-25",
+      "permalink": "https://aihot.virxact.com/items/cmsposjsq07tqrojejahq7zsv",
+      "source": "elsewhere：文章（RSS）",
+      "publishedAt": "2026-08-12T02:00:00.000Z",
+      "discoveredAt": "2026-08-12T06:06:51.319Z",
+      "summary": "Seedance 2.5 发布近两周，连路边视频 Agent OiiOii 都借其广告复活，引发广泛关注。本文对该模型进行实测，验证其视频生成能力是否与宣传相符，并评估其实际表现与市场热度是否匹配。",
+      "category": "tip",
+      "score": 13,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsposjsq07tqrojejahq7zsv"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 10,
+      "editorialScore": 13,
+      "tags": [
+        "视频生成",
+        "广告",
+        "视频",
+        "agent"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmsoo1zbb074rrop2pq2ardo8",
       "title": "玉伯力荐：一人团队用 YouMind AI 全流程做视频",
       "title_en": "一个人活成了一支团队 强烈推荐",
@@ -575,6 +716,35 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmsppq8pe01dxrog7ppmbaug9",
+      "title": "LangChain 详解：什么是 AI 智能体？",
+      "title_en": "What is an AI agent？",
+      "url": "https://www.langchain.com/blog/what-is-an-agent",
+      "permalink": "https://aihot.virxact.com/items/cmsppq8pe01dxrog7ppmbaug9",
+      "source": "LangChain：Blog（RSS）",
+      "publishedAt": "2026-08-12T05:47:11.000Z",
+      "discoveredAt": "2026-08-12T06:33:01.839Z",
+      "summary": "AI 智能体是在大语言模型循环中自主运行的系统，通过反复调用模型、观察结果并调整下一步行动来完成复杂任务。工作流（workflow）则是对固定步骤的预编排，两者互补：工作流保证确定性，智能体提供灵活性。理解二者差异是构建可靠、可投入生产的自主系统的关键。",
+      "category": "tip",
+      "score": 54,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsppq8pe01dxrog7ppmbaug9"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 11,
+      "editorialScore": 12,
+      "tags": [
+        "工作流",
+        "workflow",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cmsoxbh180a00rohdooafsmzp",
       "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力",
       "title_en": "AMIE， our research medical AI system， demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
@@ -595,6 +765,60 @@
       "designCategory": "图像与视频",
       "relevanceScore": 9,
       "editorialScore": 12,
+      "tags": [
+        "视觉",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmspkatpz02dvrojevaj0thvc",
+      "title": "百度搭子金融套件、设计套件正式上线",
+      "title_en": "重磅发布！百度搭子金融套件、设计套件正式上线",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA5NTQ5MzE5OQ%3D%3D&mid=2653159402&idx=3&sn=62dd8a918ef27313c4e09792a11f7516",
+      "permalink": "https://aihot.virxact.com/items/cmspkatpz02dvrojevaj0thvc",
+      "source": "公众号：百度智能云（文心）",
+      "publishedAt": "2026-08-11T14:08:30.000Z",
+      "discoveredAt": "2026-08-12T04:01:06.131Z",
+      "summary": "百度搭子正式上线金融套件与设计套件。金融套件覆盖市场全景、热点与财报解读、投资标的分析、实时监控、持仓分析、交易复盘六类任务，可连续完成整套投研工作。设计套件将需求理解、页面设计、代码生成、质量检查串联，覆盖响应式网站、B端后台页面、移动端页面原型及图标产品图精修，交付可双击打开的HTML文件。",
+      "category": "ai-products",
+      "score": 56,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmspkatpz02dvrojevaj0thvc"
+      },
+      "sourceType": "公众号",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
+      "tags": [
+        "原型",
+        "设计"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmspk7gzl01wrroje22s8htw5",
+      "title": "Ex-Omni-2D：具备原生视觉呈现能力的多模态对话模型",
+      "title_en": "Ex-Omni-2D： Expressive Omni-Modal Dialogue Models with Native Visual Presence",
+      "url": "https://arxiv.org/abs/2608.10720",
+      "permalink": "https://aihot.virxact.com/items/cmspk7gzl01wrroje22s8htw5",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-11T00:00:00.000Z",
+      "discoveredAt": "2026-08-12T03:58:29.001Z",
+      "summary": "Ex-Omni-2D 是一种多模态对话框架，能生成包含文本、个性化语音和参考条件视频的协调响应。它通过预测结构化视觉思维计划（VTP）和共享声学-时间接口，避免了对大规模查询-文本-语音-视频监督数据的需求。四步推理下，四 GPU 流水线在 400×720/720×400 分辨率下实现端到端 RTF 1.293。",
+      "category": "paper",
+      "score": 53,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmspk7gzl01wrroje22s8htw5"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
       "tags": [
         "视觉",
         "视频"
@@ -764,6 +988,35 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
+      "id": "cmspk7gzl01wurojegkbgyksu",
+      "title": "DSAgentBench：智能体能否在真实计算机环境中自动化端到端数据科学工作流？",
+      "title_en": "DSAgentBench： Can Agents Automate End-to-End Data-Science Workflows in Real Computer Environments？",
+      "url": "https://arxiv.org/abs/2608.10366",
+      "permalink": "https://aihot.virxact.com/items/cmspk7gzl01wurojegkbgyksu",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-11T00:00:00.000Z",
+      "discoveredAt": "2026-08-12T03:58:29.001Z",
+      "summary": "DSAgentBench 发布，成为首个在真实计算机环境中评估智能体自动化完整数据科学工作流的基准，包含 275 个覆盖全生命周期的任务，并采用确定性评估器验证分析正确性、视觉输出与模型性能。",
+      "category": "paper",
+      "score": 55,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmspk7gzl01wurojegkbgyksu"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 9,
+      "editorialScore": 10,
+      "tags": [
+        "视觉",
+        "工作流",
+        "自动化",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cmsnoqnrx0f6trohf8h7ahzu8",
       "title": "Conductor 0.80 上线 Stacks 功能",
       "title_en": "Stacks are now live in Conductor 0.80！ Also new： - Cloud workspaces start 1.5-3x faster - Agents c…",
@@ -818,30 +1071,31 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmsnddi070324rohf1npm6fle",
-      "title": "谷歌测试新版搜索主页：新增\"创建图片\"\"询问文件\"等 AI 入口，移除\"Google 搜索\"按钮",
-      "title_en": "曝谷歌测试新版主页：能创建图片、解读文件，唯独少了搜索按钮",
-      "url": "https://www.ithome.com/0/988/046.htm",
-      "permalink": "https://aihot.virxact.com/items/cmsnddi070324rohf1npm6fle",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-10T14:29:18.000Z",
-      "discoveredAt": "2026-08-10T15:11:38.900Z",
-      "summary": "谷歌本周开始测试新版搜索主页，部分未登录用户已看到新设计。新版页面用\"创建图片\"\"询问文件\"和\"头脑风暴\"三个 AI 功能快捷入口取代了沿用多年的\"Google 搜索\"按钮，其中\"创建图片\"可通过 Nano Banana 生成图片，\"询问文件\"支持上传文件后由 AI 解答问题。传统搜索并未消失，用户仍可在搜索框输入关键词后按 Enter 完成网页搜索，\"手气不错\"按钮也保留。",
-      "category": "ai-products",
-      "score": 61,
+      "id": "cmspkw7qb02oprojek58yglo8",
+      "title": "Qwen-Image-3.0 上线，支持多语言文本渲染",
+      "title_en": "Go creative with Qwen-Image-3.0 🔗 Alibaba Cloud Model Studio： https://click.alibabacloud.com/m/200...",
+      "url": "https://x.com/alibaba_cloud/status/2087387743953559775",
+      "permalink": "https://aihot.virxact.com/items/cmspkw7qb02oprojek58yglo8",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-08-12T03:56:34.000Z",
+      "discoveredAt": "2026-08-12T04:17:44.376Z",
+      "summary": "用 Qwen-Image-3.0 发挥创意\n\n🔗 阿里云百炼：https://click.alibabacloud.com/m/20000001218/\n\n🔗 Qwen Cloud：https://click.qwencloud.com/m/20000001155/",
+      "category": "ai-models",
+      "score": 47,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsnddi070324rohf1npm6fle"
+        "canonical": "https://aihot.virxact.com/items/cmspkw7qb02oprojek58yglo8"
       },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
+      "sourceType": "X",
+      "designCategory": "行业观察",
+      "relevanceScore": 9,
+      "editorialScore": 9,
       "tags": [
-        "设计"
+        "创意",
+        "creative"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "cmspc30un0e4xrorts1kax9zg",
@@ -868,61 +1122,6 @@
         "自动化",
         "codex",
         "skill"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmsou3oip06terohdc7f5ic08",
-      "title": "Krea 推出 Slack 集成 Beta 版",
-      "title_en": "today we introduce a beta of Krea in Slack. expand your team's creative work with the latest AI mod…",
-      "url": "https://x.com/krea_ai/status/2087198446017032642",
-      "permalink": "https://aihot.virxact.com/items/cmsou3oip06terohdc7f5ic08",
-      "source": "X：Krea AI (@krea_ai)",
-      "publishedAt": "2026-08-11T15:24:22.000Z",
-      "discoveredAt": "2026-08-11T15:47:41.484Z",
-      "summary": "今天我们推出 Krea 在 Slack 中的 Beta 版本。\n\n借助最新的 AI 模型和能适应你偏好的智能体，扩展你团队的创意工作。\n\n立即在 krea.ai 上试用。",
-      "category": "ai-products",
-      "score": 56,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsou3oip06terohdc7f5ic08"
-      },
-      "sourceType": "X",
-      "designCategory": "行业观察",
-      "relevanceScore": 9,
-      "editorialScore": 9,
-      "tags": [
-        "创意",
-        "creative",
-        "智能体"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmsokg9m40vndrofwrh88qh9a",
-      "title": "PixVerse 发布 Batu 提示词与 Seedance 2.5 控制",
-      "title_en": "Here's the full \"Batu\" prompt on PixVerse. Epic wide shot s can be generated instantly. Seedance 2.5…",
-      "url": "https://x.com/PixVerse_/status/2087133274141507972",
-      "permalink": "https://aihot.virxact.com/items/cmsokg9m40vndrofwrh88qh9a",
-      "source": "X：PixVerse (@PixVerse_)",
-      "publishedAt": "2026-08-11T11:05:24.000Z",
-      "discoveredAt": "2026-08-11T11:17:33.979Z",
-      "summary": "以下是 PixVerse 上完整的\"Batu\"提示词。史诗级广角镜头可即时生成。Seedance 2.5 让你精确控制具体镜头与运镜。",
-      "category": "tip",
-      "score": 69,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsokg9m40vndrofwrh88qh9a"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "提示词",
-        "prompt"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -955,35 +1154,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmsnfgivj056qrohf22a8ghq6",
-      "title": "聂辉华《基层中国的运行逻辑》做成 AI Agent Skill 开源",
-      "title_en": "我干了件可能帮很多人少走十年弯路的事：把人大聂辉华教授那本《基层中国的运行逻辑》，做成了能装进 AI Agent 里的 Skill。 把这本书里 14 套讲透了中国社会运行规则的分析框架， 直接焊成了…",
-      "url": "https://x.com/AYi_AInotes/status/2086844120996126980",
-      "permalink": "https://aihot.virxact.com/items/cmsnfgivj056qrohf22a8ghq6",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-08-10T15:56:24.000Z",
-      "discoveredAt": "2026-08-10T16:10:00.423Z",
-      "summary": "阿易 AI Notes 将聂辉华《基层中国的运行逻辑》中 14 套分析框架做成可装入 AI Agent 的 Skill，MIT 完全开源，仓库不含原书正文。该 Skill 覆盖求学、考公、投资、养老、创业五大场景，支持懒加载调用以节省 token，可直接装入 Cursor、Claude Code、Codex、Grok 使用。原书分三部分，讲解国家治理体系、权力运行与基层治理逻辑。",
-      "category": "tip",
-      "score": 70,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsnfgivj056qrohf22a8ghq6"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "codex",
-        "claude code",
-        "agent",
-        "skill"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
       "id": "cmsopyoum028urohdhqzve6ba",
       "title": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning",
       "title_en": "Blog SGLang Adds Day-0 Support for NVIDIA Nemotron 3.5 Lightning SGLang is excited to announce Day-0 support for NVIDIA Nemotron 3.5 Lightning， a customizable open model built to power always-on agents across local systems， the edge， the datacenter， and the cloud. … NVIDIA Nemotron Team and SGLang Team",
@@ -1011,29 +1181,29 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmsnfin8a0576rohf1prucb1y",
-      "title": "新调查：AI 时代下超八成家长和老师认为学生应具备更强数据素养",
-      "title_en": "新调查显示：AI 时代下，超八成家长和老师认为学生应具备更强的数据素养",
-      "url": "https://www.ithome.com/0/988/056.htm",
-      "permalink": "https://aihot.virxact.com/items/cmsnfin8a0576rohf1prucb1y",
+      "id": "cmspp1d5o07uvroje0bmwvph8",
+      "title": "美团王莆中：不开线下药店，坚持做医药商家 AI 转型小帮手",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/988/722.htm",
+      "permalink": "https://aihot.virxact.com/items/cmspp1d5o07uvroje0bmwvph8",
       "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-10T15:21:19.000Z",
-      "discoveredAt": "2026-08-10T16:11:38.910Z",
-      "summary": "DS4E 和 Mathematica 调查 1333 名家长、教师和教育局官员发现，88% 受访者认为所有学生应在高中毕业前具备数据素养能力，84% 认为数据素养和数据科学应融入更多学科。76% 受访者认为 AI 发展让数据教育重要性达到前所未有的高度。多数受访者认为学生更应学习解决问题能力和批判性思维，而非编程和提示词（Prompt）编写。",
+      "publishedAt": "2026-08-12T05:17:46.000Z",
+      "discoveredAt": "2026-08-12T06:13:37.485Z",
+      "summary": "美团核心本地商业 CEO 王莆中在西普会演讲中明确表示不开线下药店，将 AI 经营专家、CatPaw 能力及工作流改造方法论开放给医药行业。首批 AI 经营专家已在漱玉平民、科赴等企业应用并正式面向行业开放，全场景 AI Agent 平台 CatPaw 也将面向医药商家启动试点。基于 25 万家药店与近 500 家药企生态，美团目标打造医药零售 AI 时代的新型基础设施。",
       "category": "industry",
-      "score": 40,
+      "score": 44,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsnfin8a0576rohf1prucb1y"
+        "canonical": "https://aihot.virxact.com/items/cmspp1d5o07uvroje0bmwvph8"
       },
       "sourceType": "网站",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
+      "relevanceScore": 6,
+      "editorialScore": 7,
       "tags": [
-        "提示词",
-        "prompt"
+        "工作流",
+        "agent"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
