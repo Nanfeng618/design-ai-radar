@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-13T02:47:08.140Z",
-  "previousGeneratedAt": "2026-08-12T13:47:07.805Z",
+  "generatedAt": "2026-08-13T07:52:52.316Z",
+  "previousGeneratedAt": "2026-08-13T02:47:08.140Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 43,
+  "itemCount": 47,
   "sourceCounts": {
     "X": 24,
-    "网站": 18,
-    "公众号": 1
+    "网站": 20,
+    "公众号": 3
   },
   "source": {
     "name": "AI HOT",
@@ -40,6 +40,35 @@
         "ux"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmsr4qkcq0kkhroz2tozzhw76",
+      "title": "Seedance 2.5 免费生成与低价策略解析",
+      "title_en": "For video or image generations， iteration loop is the real workflow， which makes queue latency and g…",
+      "url": "https://x.com/rohanpaul_ai/status/2087784883103957007",
+      "permalink": "https://aihot.virxact.com/items/cmsr4qkcq0kkhroz2tozzhw76",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-08-13T06:14:39.000Z",
+      "discoveredAt": "2026-08-13T06:20:58.006Z",
+      "summary": "对于视频或图像生成，迭代循环才是真正的工作流程，这使得队列延迟和生成成本对实际效果至关重要。\n\n第一次渲染测试提示词。\n\n第二次修正构图。\n\n第三次加强运动一致性。\n\n第四次通常更接近目标。\n\n🇺🇸 在 Dreamina 上可免费进行 4 次 Seedance 2.5 生成，无需排队，全速运行，持续 3 天。\n\n其全球最低定价为 $0.097/秒。",
+      "category": "ai-products",
+      "score": 22,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsr4qkcq0kkhroz2tozzhw76"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 14,
+      "editorialScore": 17,
+      "tags": [
+        "图像生成",
+        "工作流",
+        "workflow",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmsqnl714015croux4khmc7xu",
@@ -323,33 +352,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmsoydvhw028vro3yhje64r40",
-      "title": "Grok Build v1.0.1 更新：新增视频生成与安全改进",
-      "title_en": "What would you most like us to add to or fix about Grok Build？",
-      "url": "https://x.com/elonmusk/status/2087232895798616122",
-      "permalink": "https://aihot.virxact.com/items/cmsoydvhw028vro3yhje64r40",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "publishedAt": "2026-08-11T17:41:15.000Z",
-      "discoveredAt": "2026-08-11T17:47:36.277Z",
-      "summary": "Grok Build v1.0.1 发布，新增视频生成功能，支持预设语音、单图输入、1-15 秒时长及 4：3/3：4 宽高比。更新还引入受限子代理、`grok du` 磁盘占用命令、只读工具标记等安全特性，并修复多项 bug。Elon Musk 在 X 上向用户征集对 Grok Build 的改进建议。",
-      "category": "ai-products",
-      "score": 34,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsoydvhw028vro3yhje64r40"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视频生成",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmsposjsq07tqrojejahq7zsv",
       "title": "Seedance 2.5 实测：视频生成能力是否名副其实",
       "title_en": "Seedance 2.5自绝于网民",
@@ -375,6 +377,33 @@
         "广告",
         "视频",
         "agent"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsr4k37a0kcmroz20n7j63b5",
+      "title": "机器人 AI 模型 DYNA-2 登场：超 100 万小时人类视频训练，任务成功率可达 90%",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/989/200.htm",
+      "permalink": "https://aihot.virxact.com/items/cmsr4k37a0kcmroz20n7j63b5",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-13T06:15:50.000Z",
+      "discoveredAt": "2026-08-13T06:15:55.520Z",
+      "summary": "具身智能公司 Dyna Robotics 发布机器人基础模型 DYNA-2，基于超 100 万小时第一人称人类视频预训练，任务成功率最高达 90%。该模型通过预测下一帧画面及应采取动作，补足传统视觉语言模型缺失的空间推理与接触物理能力。",
+      "category": "ai-models",
+      "score": 62,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsr4k37a0kcmroz20n7j63b5"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 9,
+      "editorialScore": 12,
+      "tags": [
+        "视觉",
+        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -433,33 +462,6 @@
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmsoxbh180a00rohdooafsmzp",
-      "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力",
-      "title_en": "AMIE， our research medical AI system， demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
-      "permalink": "https://aihot.virxact.com/items/cmsoxbh180a00rohdooafsmzp",
-      "source": "Google Blog：AI（RSS）",
-      "publishedAt": "2026-08-11T17:00:00.000Z",
-      "discoveredAt": "2026-08-11T17:17:44.810Z",
-      "summary": "Google Research 与 Google DeepMind 推进医疗 AI 系统 AMIE，实现实时临床视频问诊，首次在此场景展示专家级 AI 能力。该系统基于 Gemini 和 Project Astra 构建，可解读视觉与听觉线索、引导虚拟体格检查并实时诊断推理。随机研究中，临床评估者对 AMIE 的病史采集、诊断准确性等核心能力给予好评，患者演员也更偏好视频体验。",
-      "category": "paper",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsoxbh180a00rohdooafsmzp"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
-      "tags": [
-        "视觉",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmsq7yhjw07vnro2egcdjgrqd",
@@ -597,28 +599,31 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmsp1lufu03a9rortoc0ci36q",
-      "title": "Runway Seedance 2.5 上线，支持50角色参考",
-      "title_en": "A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
-      "url": "https://x.com/runwayml/status/2087251184658657346",
-      "permalink": "https://aihot.virxact.com/items/cmsp1lufu03a9rortoc0ci36q",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-08-11T18:53:56.000Z",
-      "discoveredAt": "2026-08-11T19:17:47.577Z",
-      "summary": "完整阵容，完整曲目，一次生成一个。\n\nSeedance 2.5 已在 Runway 上线，支持 50 个独特角色参考，以及最长 30 秒、与音乐同步的片段。点击下方链接即可开始使用。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true,
+      "id": "cmsqxn6d6094croz21cm1s6eo",
+      "title": "StateFlow：面向预可视化的 3D 世界状态构建、演化与访问框架",
+      "title_en": "StateFlow： Building， Evolving， and Accessing 3D World States for Previsualization",
+      "url": "https://arxiv.org/abs/2608.12314",
+      "permalink": "https://aihot.virxact.com/items/cmsqxn6d6094croz21cm1s6eo",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-12T00:00:00.000Z",
+      "discoveredAt": "2026-08-13T03:02:23.401Z",
+      "summary": "StateFlow 提出以可编辑 3D 世界为核心的状态中心框架，用于电影、游戏等领域的生成式预可视化。该框架通过状态构建、演化与访问三阶段，将 2D 内容提升为连贯 3D 世界，并支持局部编辑与相机轨迹优化，避免逐帧全场景重生成。实验显示其能生成高质量 3D 世界，适用于视频创作与类游戏原型设计。",
+      "category": "paper",
+      "score": 55,
+      "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsp1lufu03a9rortoc0ci36q"
+        "canonical": "https://aihot.virxact.com/items/cmsqxn6d6094croz21cm1s6eo"
       },
-      "sourceType": "X",
+      "sourceType": "网站",
       "designCategory": "图像与视频",
       "relevanceScore": 7,
       "editorialScore": 10,
       "tags": [
-        "runway"
+        "原型",
+        "设计",
+        "视频",
+        "3d"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -956,6 +961,35 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmsqzpw4z0bxdroz2j4e4m99n",
+      "title": "GoodCase.ai 开源：卡尔公开三年实测 AI 提示词案例库",
+      "title_en": "这个封装了我3年实测经验的AI提示词案例网站，今天正式免费开放",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509398&idx=1&sn=6b098a3348cf5fd7e59b368c6b44ba41",
+      "permalink": "https://aihot.virxact.com/items/cmsqzpw4z0bxdroz2j4e4m99n",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-08-13T01:52:00.000Z",
+      "discoveredAt": "2026-08-13T04:00:29.660Z",
+      "summary": "博主卡尔开源了维护三年的 AI 提示语案例网站 GoodCase.ai，收录上千条带完整提示语、模型版本和生成效果的 AI 视频、AI 前端及 Agent 案例。他用同一批提示语在 Seedance 2.0 Fast、MiniMax H3、Wan 3.0 三个模型上交叉验证，并烧掉十万积分完成首轮横测，将跨模型可复用的案例抽象成 Skill，供用户直接调用。",
+      "category": "ai-products",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsqzpw4z0bxdroz2j4e4m99n"
+      },
+      "sourceType": "公众号",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "视频",
+        "提示词",
+        "agent",
+        "skill"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cmsqklahe05ifroxvk12gixbx",
       "title": "Claude Code v2.1.229 发布：新增远程会话恢复、插件市场命令源及多项修复",
       "title_en": "v2.1.229",
@@ -1036,6 +1070,35 @@
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmsqzrmaj0bxtroz21qqr6uwp",
+      "title": "百度智能云在超级智能体大会成都站推出OPC重磅支持计划",
+      "title_en": "超级智能体大会成都站举办，百度智能云推出OPC重磅支持计划",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA5NTQ5MzE5OQ%3D%3D&mid=2653159438&idx=1&sn=c241274cfbd93071d97b254546da5021",
+      "permalink": "https://aihot.virxact.com/items/cmsqzrmaj0bxtroz21qqr6uwp",
+      "source": "公众号：百度智能云（文心）",
+      "publishedAt": "2026-08-12T12:39:33.000Z",
+      "discoveredAt": "2026-08-13T04:01:49.637Z",
+      "summary": "百度智能云在8月12日于成都举办的超级智能体大会BAIDU AGENT SUMMIT上正式推出OPC重磅支持计划，面向创业者开放Agent产品与生态能力，提供算力、模型额度、市场资源等综合支持。该计划未来三个月将在成都投入2亿产品及市场资源，并依托百度搭子作为超级入口连接Agent全家桶，推动AI内容创作、数字人营销、音乐生成、短剧出海等场景落地。",
+      "category": "industry",
+      "score": 32,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsqzrmaj0bxtroz21qqr6uwp"
+      },
+      "sourceType": "公众号",
+      "designCategory": "行业观察",
+      "relevanceScore": 8,
+      "editorialScore": 8,
+      "tags": [
+        "内容创作",
+        "营销",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "cmsq2266j016krobjncdhdg9g",
@@ -1146,29 +1209,30 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmsoydv2z028iro3y2nrdku2k",
-      "title": "Codex 登陆 Linux 桌面应用",
-      "title_en": "Build where your code already lives. Codex is coming to Linux in the ChatGPT desktop app， so you ca…",
-      "url": "https://x.com/OpenAIDevs/status/2087231793682694410",
-      "permalink": "https://aihot.virxact.com/items/cmsoydv2z028iro3y2nrdku2k",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "publishedAt": "2026-08-11T17:36:53.000Z",
-      "discoveredAt": "2026-08-11T17:47:36.557Z",
-      "summary": "在你代码所在之处构建。\n\nCodex 即将登陆 ChatGPT 桌面应用（Linux 版），让你将项目、开发工作流和受支持的浏览器工具整合在一起。\n\n现提供预览版。",
+      "id": "cmsqbpmx901u5roosevwk9z7m",
+      "title": "NoimosAI 发布 SEO Agent 2.0 实现自动化优化",
+      "title_en": "NoimosAI has released version 2.0 of its SEO Agent！ What's new 👀 > The Agent can conduct SEO rese…",
+      "url": "https://x.com/testingcatalog/status/2087574804740166141",
+      "permalink": "https://aihot.virxact.com/items/cmsqbpmx901u5roosevwk9z7m",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "publishedAt": "2026-08-12T16:19:53.000Z",
+      "discoveredAt": "2026-08-12T16:48:26.865Z",
+      "summary": "NoimosAI 发布 SEO Agent 2.0，可连接 Semrush、Google Search Console、GA4 等工具进行 SEO 研究并读取分析数据。该智能体能提出改进建议，经用户批准后直接对网站执行修改，形成持续 SEO 优化闭环，将洞察转化为实际流量增长。",
       "category": "ai-products",
-      "score": 40,
+      "score": 33,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsoydv2z028iro3y2nrdku2k"
+        "canonical": "https://aihot.virxact.com/items/cmsqbpmx901u5roosevwk9z7m"
       },
       "sourceType": "X",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
+      "relevanceScore": 6,
+      "editorialScore": 7,
       "tags": [
-        "工作流",
-        "codex"
+        "自动化",
+        "agent",
+        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -1196,6 +1260,62 @@
       "tags": [
         "工作流",
         "agent"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmsqxn6d6094broz21xzqa0rh",
+      "title": "AVA-Encoder：面向智能体的视频表示学习框架",
+      "title_en": "AVA-Encoder： Towards Agent-Native Video Representation Learning",
+      "url": "https://arxiv.org/abs/2608.12313",
+      "permalink": "https://aihot.virxact.com/items/cmsqxn6d6094broz21xzqa0rh",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-12T00:00:00.000Z",
+      "discoveredAt": "2026-08-13T03:02:23.401Z",
+      "summary": "AVA-Encoder 提出智能体视频自编码框架，将视频转化为知识图谱表示再重建回视频，以文本梯度优化驱动策略训练。该方法在评测中较最强外部基线提升 20.7 个百分点，伪训练策略在系统提示词 token 减少 74.3% 的情况下仍优于人工调优策略。研究团队已开源完整框架、重建基准及首个高质量电影知识图谱数据集。",
+      "category": "paper",
+      "score": 57,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsqxn6d6094broz21xzqa0rh"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "视频",
+        "提示词",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmsp3qri404xkrortg9croiss",
+      "title": "Oumi 发布\"复合式 AI 工厂\"闭环",
+      "title_en": "There is a strange problem with enterprise AI right now： companies spend millions integrating the sa…",
+      "url": "https://x.com/kimmonismus/status/2087265351054631322",
+      "permalink": "https://aihot.virxact.com/items/cmsp3qri404xkrortg9croiss",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-08-11T19:50:13.000Z",
+      "discoveredAt": "2026-08-11T20:17:36.113Z",
+      "summary": "Oumi 今日发布\"复合式 AI 工厂\"，将 AI 视为持续学习的系统而非一次性部署的软件：构建专用模型、部署、从失败中生成训练信号、改进再部署，形成循环而非单次发布。企业可保留过程中产生的模型、数据、评估与配方，编码智能体也能通过 Oumi CLI 操作该工作流。Oumi 认为，当强大模型成为商品，真正的优势在于围绕它们的\"学习循环\"，企业应积累而非租用智能。",
+      "category": "tip",
+      "score": 38,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsp3qri404xkrortg9croiss"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "工作流",
+        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     }
