@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-14T02:45:59.459Z",
-  "previousGeneratedAt": "2026-08-13T13:47:14.671Z",
+  "generatedAt": "2026-08-14T07:50:21.352Z",
+  "previousGeneratedAt": "2026-08-14T02:45:59.459Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 43,
+  "itemCount": 48,
   "sourceCounts": {
-    "网站": 17,
+    "网站": 21,
     "X": 24,
-    "公众号": 2
+    "公众号": 3
   },
   "source": {
     "name": "AI HOT",
@@ -40,6 +40,34 @@
         "生图",
         "图像",
         "codex"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmssdsxrc04ksrod05kfkw5xr",
+      "title": "Meta/Oxford 研究：多模态预训练仅需 5% 图像生成数据",
+      "title_en": "The Meta/Oxford study finds， a multimodal model may need surprisingly little image-generation data i…",
+      "url": "https://x.com/rohanpaul_ai/status/2088103654519968190",
+      "permalink": "https://aihot.virxact.com/items/cmssdsxrc04ksrod05kfkw5xr",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-08-14T03:21:20.000Z",
+      "discoveredAt": "2026-08-14T03:22:32.582Z",
+      "summary": "Meta 与牛津大学研究发现，若语言与视觉理解同步训练，多模态模型仅需极少量图像生成数据。1T token 实验中最佳配比为 70% 语言、25% 图像理解、5% 图像生成；13.5B 规模 2T token 测试中，图像生成 token 减少 5 倍，GenEval 仍从 0.467 提升至 0.482。研究还指出过晚引入视觉会导致\"视觉惰性\"，模型倾向依赖语言捷径。",
+      "category": "paper",
+      "score": 36,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmssdsxrc04ksrod05kfkw5xr"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 15,
+      "editorialScore": 18,
+      "tags": [
+        "图像生成",
+        "视觉",
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -239,6 +267,35 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmssf5p2p05nfrod0qv46pvr4",
+      "title": "DeepSeek Harness 最短使用教程：四模式 Agent 预设与可魔改 patch 层",
+      "title_en": "codex和claude code发抖吧！史上最短DeepSeek Harness使用教程来了，打开你电脑里任意一个Agent输入， ``` 根据我电脑环境安装npm install -g @deepseek-ai/dsh 有问题直接看github. com/deepseek-ai/deepseek-harness 按照好后运行dsh --profile web并打开网页端 ``` 然后在网页端填上API key就能开始用，如果本来电脑的环境变量就有deepseek的key的话这步都不需要 搞定，完事了。 目前DeepSeek Harness的Agent预设有四个模式，标准、PTC、极简、创造。 1️⃣标准模式：完整的编程助手，能理解需求、修改代码、运行命令并检查结果。 2️⃣PTC模式：在标准模式基础上，支持用 TypeScript 编写小程序，把多步操作组合成自动化流程。 3️⃣极简模式：只提供持续可用的终端和基础文本替换工具，适合简单的改动。 4️⃣创造模式：在标准模式基础上，额外支持运行时检查、尝试插件，以及使用预设完成创作类任务。 我看了跟Claude Code和Codex不太一样的内置patch层，总的来说像一套给Agent装能力的装扮系统。 除了能直接把本机的Codex和Claude Code作为子agent调用，还可以安装各种插件，接入外来的工具和服务，调整运行权限，开启全文搜索，甚至替换它使用的界面UI模块。也可以用JavaScript表达式定义规则，让这些能力按条件生效。 所以可以预料会基于这个模版魔改出来各种各样的DeepSeek Agents， v4 pro虽然拉了， 但是v4 flash还是挺能打啊， 开测！",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509399&idx=1&sn=316ec150ecb00483dcda9393aef47bd1",
+      "permalink": "https://aihot.virxact.com/items/cmssf5p2p05nfrod0qv46pvr4",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-08-13T13:43:29.000Z",
+      "discoveredAt": "2026-08-14T04:00:26.509Z",
+      "summary": "DeepSeek Harness 发布，通过 `npm install -g @deepseek-ai/dsh` 安装并运行 `dsh --profile web` 即可在网页端填入 API key 使用。",
+      "category": "tip",
+      "score": 40,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmssf5p2p05nfrod0qv46pvr4"
+      },
+      "sourceType": "公众号",
+      "designCategory": "产品与体验",
+      "relevanceScore": 10,
+      "editorialScore": 14,
+      "tags": [
+        "ui",
+        "界面",
+        "自动化",
+        "codex"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "cmsrkms5b03yxro46luqp5ort",
       "title": "HumanLayer 重构 UI 提升对比度",
       "title_en": "we redid the humanlayer UI to have less lines and more contrast. I can't believe this took so long. …",
@@ -294,6 +351,61 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmsshdnzq033kroffyrggylfp",
+      "title": "H2R-Bench：评估视频世界模型的人到机器人操作视频生成基准",
+      "title_en": "H2R-Bench： Benchmarking Human-to-Robot Manipulation Video Generation in World Models",
+      "url": "https://arxiv.org/abs/2608.13049",
+      "permalink": "https://aihot.virxact.com/items/cmsshdnzq033kroffyrggylfp",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-13T00:00:00.000Z",
+      "discoveredAt": "2026-08-14T05:02:37.849Z",
+      "summary": "H2R-Bench 提出用于评估跨具身人到机器人操作视频生成的基准，要求模型将第一视角人类演示转换为指定具身下的机器人操作视频。基准涵盖目标状态完成、动作事件完成、功能接触迁移、具身正确性和视频质量五个维度，并评测了六个操作族、两种机器人具身上的十一个最新视频生成模型。结果显示当前视频世界模型在具身一致性、功能交互和任务执行上仍存在明显不足。",
+      "category": "paper",
+      "score": 44,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsshdnzq033kroffyrggylfp"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "交互",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmssd3ass03ttrod0dbxttc96",
+      "title": "Alaya-EVOKE：从线性扩展监督到无尽世界",
+      "title_en": "Alaya-EVOKE： From Linear-Scaling Supervision to Endless World",
+      "url": "https://arxiv.org/abs/2608.13546",
+      "permalink": "https://aihot.virxact.com/items/cmssd3ass03ttrod0dbxttc96",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-13T00:00:00.000Z",
+      "discoveredAt": "2026-08-14T03:02:36.368Z",
+      "summary": "Alaya Lab 等机构提出交互式世界模型 Evoke，通过外部相机索引世界状态库保持有界上下文，并重新设计教师模型以支持长时程监督。其稀疏注意力机制实现激活内存和计算量线性增长，30 秒长时程分布匹配目标使三步学生模型无需 CFG 即可抵抗内容漂移。",
+      "category": "paper",
+      "score": 66,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmssd3ass03ttrod0dbxttc96"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 10,
+      "editorialScore": 14,
+      "tags": [
+        "设计",
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "cmsrrl37w02u6ro0ngn2e2fwj",
       "title": "Replit 设计团队谈 AI 时代设计革新",
       "title_en": "If everyone's building the same thing， we build what's next. Hear from the team that built Replit D…",
@@ -343,6 +455,34 @@
       "editorialScore": 13,
       "tags": [
         "用户体验"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmssd3ass03tprod0rctgtlea",
+      "title": "AutoDesign：面向长周期智能体设计的元框架优化",
+      "title_en": "AutoDesign： Meta-Harness Optimization for Long-Horizon Agentic Design",
+      "url": "https://arxiv.org/abs/2608.13560",
+      "permalink": "https://aihot.virxact.com/items/cmssd3ass03tprod0rctgtlea",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-13T00:00:00.000Z",
+      "discoveredAt": "2026-08-14T03:02:36.368Z",
+      "summary": "AutoDesign 将多模态设计任务建模为元框架优化问题，通过元优化器引导代码智能体基于反馈递归改进设计框架。在 PosterBench 主赛道（100 篇论文、五个学科）上，AutoDesign 以 78.32 分超越 Claude Design 7.45 分；集成 DesignHarness 后，七种配置下平均得分从 54.99 提升至 67.39（+12.4%）。",
+      "category": "paper",
+      "score": 57,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmssd3ass03tprod0rctgtlea"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "design",
+        "设计",
+        "智能体"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
@@ -456,31 +596,90 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmsqdxw310054rolif6l8rfo1",
-      "title": "研究人员实现从输出文本近乎完美逆向还原 LLM 提示词",
-      "title_en": "Researchers can now reverse-engineer LLM prompts from output text with near-perfect accuracy",
-      "url": "https://the-decoder.com/researchers-can-now-reverse-engineer-llm-prompts-from-output-text-with-near-perfect-accuracy",
-      "permalink": "https://aihot.virxact.com/items/cmsqdxw310054rolif6l8rfo1",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-08-12T17:32:59.000Z",
-      "discoveredAt": "2026-08-12T17:50:50.226Z",
-      "summary": "印度理工学院孟买分校与 Adobe Research 提出\"Previous-Token Prediction\"（PTP）方法，仅凭模型输出文本即可近乎完美地重建原始提示词，无需访问模型权重，且适用于第三方模型。",
+      "id": "cmssd3ass03trrod0gzy9h2vo",
+      "title": "PlayWorld：用智能体玩家在长程目标下评测世界模型",
+      "title_en": "PlayWorld： Benchmarking World Models with Agent Players over Long-Horizon Objectives",
+      "url": "https://arxiv.org/abs/2608.13552",
+      "permalink": "https://aihot.virxact.com/items/cmssd3ass03trrod0gzy9h2vo",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-13T00:00:00.000Z",
+      "discoveredAt": "2026-08-14T03:02:36.368Z",
+      "summary": "香港大学与快手可灵团队推出 PlayWorld 基准，用多模态 Agent Player 模拟人类玩家，在 171 个带指定目标的场景中与世界模型交互，以长程目标而非固定动作轨迹进行跨模型公平对比。评测覆盖几何一致性、交互保真度、视野外演化与洞察演化四个核心维度，并纳入视频质量与可控性基础指标。对九个前沿世界模型的实验显示，现有模型在长程交互目标上仍不可靠，尤其在空间一致性与持续状态演化方面。",
       "category": "paper",
-      "score": 60,
+      "score": 54,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsqdxw310054rolif6l8rfo1"
+        "canonical": "https://aihot.virxact.com/items/cmssd3ass03trrod0gzy9h2vo"
       },
       "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 7,
+      "designCategory": "图像与视频",
+      "relevanceScore": 9,
       "editorialScore": 12,
       "tags": [
-        "adobe",
-        "提示词"
+        "可灵",
+        "交互",
+        "视频",
+        "agent"
       ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmssmdr2n09flroff4mew7dxd",
+      "title": "DeepSeek Harness 实测：灵活切换多模型",
+      "title_en": "We just tested DeepSeek Harness， and it's more flexible than we expected. We initially assumed it wa…",
+      "url": "https://x.com/thexpin/status/2088161448971075965",
+      "permalink": "https://aihot.virxact.com/items/cmssmdr2n09flroff4mew7dxd",
+      "source": "X：X.PIN (@thexpin)",
+      "publishedAt": "2026-08-14T07:11:00.000Z",
+      "discoveredAt": "2026-08-14T07:22:40.605Z",
+      "summary": "我们刚测试了 DeepSeek Harness，它比我们预期的更灵活。我们最初以为它又是一个 Claude Code，但 Harness 可以在多个模型之间即时切换，并连接支持视觉的模型，让 DeepSeek 分析图像。其团队将目标描述为\"时间性\"和\"空间性可组合\"：工具可以动态安装、调整和移除，而不会破坏系统。这将是一个为无限扩展而构建、不会频繁崩溃的平台。",
+      "category": "tip",
+      "score": 40,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmssmdr2n09flroff4mew7dxd"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "图像",
+        "claude code"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmssmcebr097rroffc79obspy",
+      "title": "Phone Harness 实机教程：让 Codex 控制 iPhone 跑任务",
+      "title_en": "https://x.com/i/article/2088106304552263680",
+      "url": "https://x.com/AYi_AInotes/status/2088151691229123013",
+      "permalink": "https://aihot.virxact.com/items/cmssmcebr097rroffc79obspy",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-08-14T06:32:13.000Z",
+      "discoveredAt": "2026-08-14T07:21:36.169Z",
+      "summary": "阿易 AI Notes 发布 Phone Harness 实机教程，让 Codex、Claude Code 等 Agent 无需越狱即可控制锁屏 iPhone，完成开 APP、点按钮、读屏幕等操作。教程覆盖本地安装、权限避坑、云端异步任务设置，并附岗位早报 Prompt。作者实测合盖睡觉时 Agent 在云端手机自动跑任务，醒来邮箱已收到整理好的 12 个新 AI 岗位。",
+      "category": "tip",
+      "score": 69,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmssmcebr097rroffc79obspy"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 10,
+      "editorialScore": 11,
+      "tags": [
+        "prompt",
+        "codex",
+        "claude code",
+        "agent"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmsrui3ye0296rozet2ak3r03",
@@ -508,6 +707,60 @@
         "3d"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmssi37ln03nfroffepuj2zfn",
+      "title": "Grok 4.6 多模态理解大幅升级",
+      "title_en": "Try Grok 4.6 image &amp； video understanding， it's a major upgrade！",
+      "url": "https://x.com/elonmusk/status/2088127459971522726",
+      "permalink": "https://aihot.virxact.com/items/cmssi37ln03nfroffepuj2zfn",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "publishedAt": "2026-08-14T04:55:56.000Z",
+      "discoveredAt": "2026-08-14T05:22:29.467Z",
+      "summary": "Elon Musk 称 Grok 4.6 的图像与视频理解能力是一次重大升级。引用推文指出，Grok 4.6 多模态相较 4.5 是阶跃式改进，在视频审阅等日常工作中可将生产力提升至少 10 倍，甚至 100 倍。该模型在作者的实际用例中超越了 Gemini 3.5 和 Gemma 4。",
+      "category": "ai-models",
+      "score": 29,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmssi37ln03nfroffepuj2zfn"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsshe0ey03adroffv3xzdmxe",
+      "title": "ChunUI 开源：iOS 快速开发 UI 质感组件库",
+      "title_en": "iOS 快速开发或迭代现有软件的UI质感。 可选用 ChunUI ，搭配 ChunUI Skill （内置）。 自带一个组件集合 Demo App 开源地址：https://github.com/li...",
+      "url": "https://x.com/chunxiangai/status/2088123773023367480",
+      "permalink": "https://aihot.virxact.com/items/cmsshe0ey03adroffv3xzdmxe",
+      "source": "X：赵纯想 (@chunxiangai)",
+      "publishedAt": "2026-08-14T04:41:17.000Z",
+      "discoveredAt": "2026-08-14T05:02:54.771Z",
+      "summary": "赵纯想发布 ChunUI，一款用于 iOS 快速开发或迭代现有软件 UI 质感的组件库，内置 ChunUI Skill，并附带开源 Demo App（GitHub 地址已提供）。生产级实际应用已上架 TestFlight，订阅不扣钱、为模拟扣款，作者鼓励用户订阅体验。",
+      "category": "ai-products",
+      "score": 55,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsshe0ey03adroffv3xzdmxe"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "ui",
+        "skill"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmssal6ps01k3rod0dakw17yr",
@@ -864,149 +1117,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmsqi864i03p7roxv60t0jf6r",
-      "title": "MiniMax H3 与 fal 联办线上分享会",
-      "title_en": "MiniMax H3 × @fal 🎙️ This Thursday， join @OdinLovis， Creative Engineer at fal， Ethan Wei， AI Solut…",
-      "url": "https://x.com/MiniMax_AI/status/2087621556126310730",
-      "permalink": "https://aihot.virxact.com/items/cmsqi864i03p7roxv60t0jf6r",
-      "source": "X：MiniMax (@MiniMax_AI)",
-      "publishedAt": "2026-08-12T19:25:39.000Z",
-      "discoveredAt": "2026-08-12T19:50:49.489Z",
-      "summary": "MiniMax H3 × @fal 🎙️\n\n本周四，fal 创意工程师 @OdinLovis、MiniMax AI 解决方案架构师 Ethan Wei 以及 MiniMax GTM 工程师 @VictorSuOrtiz 将共同直播，深入解析创作者和开发者如何基于 H3 进行构建。\n\n我们将涵盖多模态引用、原生音频、提示词、LoRA 与定制化、开放权重，以及 fal 上真实的创意与技术工作流。\n\n8 月 13 日 · 上午 11 点（太平洋时间）· X Spaces\n\n设置提醒 ↓ https://x.com/i/spaces/1vJpPNPdnXZJE?s=20",
-      "category": "industry",
-      "score": 21,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsqi864i03p7roxv60t0jf6r"
-      },
-      "sourceType": "X",
-      "designCategory": "行业观察",
-      "relevanceScore": 9,
-      "editorialScore": 9,
-      "tags": [
-        "工作流",
-        "创意",
-        "creative",
-        "提示词"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmsqg306l01y5roxvv25f8msh",
-      "title": "MiniMax H3 与 fal 联办 X Spaces 直播",
-      "title_en": "MiniMax H3 × @fal 🎙️ Tomorrow.， join @OdinLovis， Creative Engineer at fal， Ethan Wei， AI Solutions…",
-      "url": "https://x.com/MiniMax_AI/status/2087607572711010709",
-      "permalink": "https://aihot.virxact.com/items/cmsqg306l01y5roxvv25f8msh",
-      "source": "X：MiniMax (@MiniMax_AI)",
-      "publishedAt": "2026-08-12T18:30:05.000Z",
-      "discoveredAt": "2026-08-12T18:50:48.622Z",
-      "summary": "MiniMax H3 × @fal 🎙️\n\n明天，加入 fal 创意工程师 @OdinLovis、MiniMax AI 解决方案架构师 Ethan Wei 和 MiniMax GTM 工程师 @VictorSuOrtiz，一起直播拆解创作者和开发者如何在 fal 上用 H3 进行构建。\n\n我们将涵盖多模态参考、原生音频、提示词、LoRA + 定制化、开放权重，以及 fal 上真实的创意和技术工作流。\n\n8 月 13 日 · 上午 11 点（太平洋时间）· X Spaces\n\n设置提醒 ↓ https://x.com/i/spaces/1vJpPNPdnXZJE?s=20",
-      "category": "industry",
-      "score": 23,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsqg306l01y5roxvv25f8msh"
-      },
-      "sourceType": "X",
-      "designCategory": "行业观察",
-      "relevanceScore": 9,
-      "editorialScore": 9,
-      "tags": [
-        "工作流",
-        "创意",
-        "creative",
-        "提示词"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmsqf0f2s011yroxvqcrpd34o",
-      "title": "MiniMax H3 与 fal 联办 X Spaces 直播",
-      "title_en": "MiniMax H3 × @fal 🎙️ Tomorrow.， join Lovis Odin， Creative Engineer at fal， Ethan Wei， AI Solutions…",
-      "url": "https://x.com/MiniMax_AI/status/2087603802635677700",
-      "permalink": "https://aihot.virxact.com/items/cmsqf0f2s011yroxvqcrpd34o",
-      "source": "X：MiniMax (@MiniMax_AI)",
-      "publishedAt": "2026-08-12T18:15:07.000Z",
-      "discoveredAt": "2026-08-12T18:20:48.564Z",
-      "summary": "MiniMax H3 × @fal 🎙️\n\n明天，fal 创意工程师 Lovis Odin、MiniMax AI 解决方案架构师 Ethan Wei 和 MiniMax GTM 工程师 @VictorSuOrtiz 将一起直播，深入解析创作者和开发者如何在 Fal 上使用 H3 进行构建。\n\n我们将涵盖多模态引用、原生音频、提示词、LoRA + 定制化、开放权重，以及 fal 上真实的创意和技术工作流。\n\n8 月 13 日 · 上午 11 点（太平洋时间）· X Spaces\n\n设置提醒 ↓ https://x.com/i/spaces/1vJpPNPdnXZJE?s=20",
-      "category": "industry",
-      "score": 26,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsqf0f2s011yroxvqcrpd34o"
-      },
-      "sourceType": "X",
-      "designCategory": "行业观察",
-      "relevanceScore": 9,
-      "editorialScore": 9,
-      "tags": [
-        "工作流",
-        "创意",
-        "creative",
-        "提示词"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmsqamw2j016grouccj5h4our",
-      "title": "Suno与BMG达成全球合作",
-      "title_en": "We are proud to announce a landmark global partnership with BMG to help grow the creative ecosystem！…",
-      "url": "https://x.com/suno/status/2087570601485697356",
-      "permalink": "https://aihot.virxact.com/items/cmsqamw2j016grouccj5h4our",
-      "source": "X：Suno (@suno)",
-      "publishedAt": "2026-08-12T16:03:11.000Z",
-      "discoveredAt": "2026-08-12T16:18:18.549Z",
-      "summary": "我们自豪地宣布与BMG达成一项具有里程碑意义的全球合作，助力创意生态发展！🎶\n\n我们将携手共建一个让艺术家和词曲作者参与其中的未来，将人类创造力置于核心。\n\n欢迎阅读博客，了解更多关于我们共同愿景的内容：https://suno.com/blog/suno-partnership-bmg",
-      "category": "industry",
-      "score": 53,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsqamw2j016grouccj5h4our"
-      },
-      "sourceType": "X",
-      "designCategory": "行业观察",
-      "relevanceScore": 9,
-      "editorialScore": 9,
-      "tags": [
-        "创意",
-        "creative"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmsrpiqvh02pprorkw5sf9doy",
-      "title": "DeepSeek Harness：可热插拔的Agent内核架构",
-      "title_en": "来，作为一个 deepseek harness 喷子，我来告诉你它到底在捣鼓什么： 在 Claude Code、Codex 这类产品里，通常是： 固定 Agent 内核 + 可以添加的 Skill…",
-      "url": "https://x.com/chunxiangai/status/2087928302250176804",
-      "permalink": "https://aihot.virxact.com/items/cmsrpiqvh02pprorkw5sf9doy",
-      "source": "X：赵纯想 (@chunxiangai)",
-      "publishedAt": "2026-08-13T15:44:33.000Z",
-      "discoveredAt": "2026-08-13T16:02:46.332Z",
-      "summary": "DeepSeek Harness 采用极小的 Cordis 内核加插件化设计，让模型供应、工具、Agent Loop、上下文、存储、沙箱等核心组件均可随时插拔，甚至 Agent 自身也能抽插自己。团队提出\"时间可组合性\"特性，插件在添加时即铺好退路，消失时干净退出不弄崩程序；插件还声明依赖服务，被拔开时变为不可用而非报错，等待新提供者后自动自愈。",
-      "category": "tip",
-      "score": 44,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsrpiqvh02pprorkw5sf9doy"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "设计",
-        "codex",
-        "claude code",
-        "agent"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
       "id": "cmsrbnmuk0sz7roz2ytljoklt",
       "title": "Okta 用 MCP 作用域削减 AI 智能体 token 成本",
       "title_en": "Okta targets AI agent token costs with MCP scoping",
@@ -1143,6 +1253,32 @@
       "tags": [
         "提示词",
         "prompt"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmssdt0sd04m6rod0si1fju7z",
+      "title": "构建推理型 LLM：SupraLabs 推理语料库的流式处理、筛选与微调实用指南",
+      "title_en": "Create a Reasoning-Focused LLM： A Practical Guide to Streaming， Curating， and Fine-Tuning the SupraLabs Reasoning Corpus",
+      "url": "https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus",
+      "permalink": "https://aihot.virxact.com/items/cmssdt0sd04m6rod0si1fju7z",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-08-14T03:09:45.000Z",
+      "discoveredAt": "2026-08-14T03:22:35.660Z",
+      "summary": "本教程构建了处理 SupraLabs 推理语料库的端到端工作流：从 Hugging Face Hub 流式采样 8，000 条数据，分析来源分布、token 长度与推理占比，并应用质量过滤器剔除不合格样本。",
+      "category": "tip",
+      "score": 63,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmssdt0sd04m6rod0si1fju7z"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "工作流"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
