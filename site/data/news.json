@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-14T07:50:21.352Z",
-  "previousGeneratedAt": "2026-08-14T02:45:59.459Z",
+  "generatedAt": "2026-08-14T13:42:41.371Z",
+  "previousGeneratedAt": "2026-08-14T07:50:21.352Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 48,
+  "itemCount": 43,
   "sourceCounts": {
-    "网站": 21,
+    "网站": 15,
     "X": 24,
-    "公众号": 3
+    "公众号": 4
   },
   "source": {
     "name": "AI HOT",
@@ -157,59 +157,32 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmsqnl714015croux4khmc7xu",
-      "title": "Runway 上线 Grok Imagine 2.0 图像模型",
-      "title_en": "Grok Imagine Image 2.0 is now on Runway. The newest model available now， alongside the world's best …",
-      "url": "https://x.com/runwayml/status/2087664899493400926",
-      "permalink": "https://aihot.virxact.com/items/cmsqnl714015croux4khmc7xu",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-08-12T22:17:53.000Z",
-      "discoveredAt": "2026-08-12T22:20:54.745Z",
-      "summary": "Grok Imagine Image 2.0 现已登陆 Runway。这款最新模型现已可用，与全球顶尖的图像和视频模型并列。\n\n点击下方链接立即体验。",
-      "category": "ai-products",
-      "score": 46,
+      "id": "cmssu8rif0getroffktizwnng",
+      "title": "玉伯推荐 Anthropic 风格插画 Skill",
+      "title_en": "Anthropic 风格插画 Skill 一枚 很好用 + 喜欢 + 推荐",
+      "url": "https://x.com/lifesinger/status/2088216125549240578",
+      "permalink": "https://aihot.virxact.com/items/cmssu8rif0getroffktizwnng",
+      "source": "X：Frank Wang 玉伯 (@lifesinger)",
+      "publishedAt": "2026-08-14T10:48:16.000Z",
+      "discoveredAt": "2026-08-14T11:02:44.926Z",
+      "summary": "玉伯推荐一款 YouMind 新发布的「Anthropic 风格插画」Skill。输入主题即可生成简单、克制、带手绘感的概念插画，适合做文章配图、封面或抽象概念的视觉隐喻。链接：https://youmind.com/skills/anthropic-paper-cut-illustrations-KRTYyHOBadqVOr",
+      "category": "tip",
+      "score": 32,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsqnl714015croux4khmc7xu"
+        "canonical": "https://aihot.virxact.com/items/cmssu8rif0getroffktizwnng"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
+      "relevanceScore": 11,
+      "editorialScore": 14,
       "tags": [
-        "runway",
-        "视频",
-        "图像"
+        "配图",
+        "视觉",
+        "skill"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmsqnl7xz015urouxsi9d3zfa",
-      "title": "ShieldFont：用字体对抗 AI 爬虫的新武器",
-      "title_en": "The web's newest weapon against AI scrapers is a font",
-      "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers",
-      "permalink": "https://aihot.virxact.com/items/cmsqnl7xz015urouxsi9d3zfa",
-      "source": "Ars Technica：AI（RSS）",
-      "publishedAt": "2026-08-12T22:02:25.000Z",
-      "discoveredAt": "2026-08-12T22:20:55.753Z",
-      "summary": "设计师 Isaque Seneda 和 Gabriel Abrucio 推出 ShieldFont，一款通过连字机制在屏幕上显示正常文本、同时向爬虫提供被篡改的无意义 HTML 版本的字体。该字体旨在为网页发布者提供\"未经授权的 AI 训练的实用退出选项\"，并破坏被忽略该选择时收集的数据。",
-      "category": "ai-products",
-      "score": 55,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsqnl7xz015urouxsi9d3zfa"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 11,
-      "editorialScore": 15,
-      "tags": [
-        "设计师",
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmsrq5emy0319rorkxihoscn3",
@@ -379,33 +352,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmssd3ass03ttrod0dbxttc96",
-      "title": "Alaya-EVOKE：从线性扩展监督到无尽世界",
-      "title_en": "Alaya-EVOKE： From Linear-Scaling Supervision to Endless World",
-      "url": "https://arxiv.org/abs/2608.13546",
-      "permalink": "https://aihot.virxact.com/items/cmssd3ass03ttrod0dbxttc96",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-08-13T00:00:00.000Z",
-      "discoveredAt": "2026-08-14T03:02:36.368Z",
-      "summary": "Alaya Lab 等机构提出交互式世界模型 Evoke，通过外部相机索引世界状态库保持有界上下文，并重新设计教师模型以支持长时程监督。其稀疏注意力机制实现激活内存和计算量线性增长，30 秒长时程分布匹配目标使三步学生模型无需 CFG 即可抵抗内容漂移。",
-      "category": "paper",
-      "score": 66,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmssd3ass03ttrod0dbxttc96"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 10,
-      "editorialScore": 14,
-      "tags": [
-        "设计",
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmsrrl37w02u6ro0ngn2e2fwj",
       "title": "Replit 设计团队谈 AI 时代设计革新",
       "title_en": "If everyone's building the same thing， we build what's next. Hear from the team that built Replit D…",
@@ -457,62 +403,6 @@
         "用户体验"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmssd3ass03tprod0rctgtlea",
-      "title": "AutoDesign：面向长周期智能体设计的元框架优化",
-      "title_en": "AutoDesign： Meta-Harness Optimization for Long-Horizon Agentic Design",
-      "url": "https://arxiv.org/abs/2608.13560",
-      "permalink": "https://aihot.virxact.com/items/cmssd3ass03tprod0rctgtlea",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-08-13T00:00:00.000Z",
-      "discoveredAt": "2026-08-14T03:02:36.368Z",
-      "summary": "AutoDesign 将多模态设计任务建模为元框架优化问题，通过元优化器引导代码智能体基于反馈递归改进设计框架。在 PosterBench 主赛道（100 篇论文、五个学科）上，AutoDesign 以 78.32 分超越 Claude Design 7.45 分；集成 DesignHarness 后，七种配置下平均得分从 54.99 提升至 67.39（+12.4%）。",
-      "category": "paper",
-      "score": 57,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmssd3ass03tprod0rctgtlea"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "design",
-        "设计",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmssay4zg020qrod0cvcfxit7",
-      "title": "OmniScientist：一个全模态、全学科的 AI 科学家",
-      "title_en": "OmniScientist： An Omni-Modal Omni-Discipline AI Scientist",
-      "url": "https://arxiv.org/abs/2608.13558",
-      "permalink": "https://aihot.virxact.com/items/cmssay4zg020qrod0cvcfxit7",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-08-13T00:00:00.000Z",
-      "discoveredAt": "2026-08-14T02:02:35.949Z",
-      "summary": "OmniScientist 是一个端到端全模态 AI 科学家，可直接从异构原始证据（图像、信号、音频、视频、3D 结构、轨迹、表格、公式和图）开展多学科研究。系统在 36 个真实数据案例（覆盖 5 个学科族）中全部完成从原始数据到成稿论文的完整流程，平均论文总分为 6.3。与仅接收预计算标量特征的盲变体相比，直接感知在全部 7 个评估维度上均更优，并在 85% 的成对比较中胜出。",
-      "category": "paper",
-      "score": 53,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmssay4zg020qrod0cvcfxit7"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
-      "tags": [
-        "视频",
-        "图像",
-        "3d"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmsrq7wvf0360rork7up0d3al",
@@ -592,35 +482,6 @@
       "tags": [
         "视觉",
         "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmssd3ass03trrod0gzy9h2vo",
-      "title": "PlayWorld：用智能体玩家在长程目标下评测世界模型",
-      "title_en": "PlayWorld： Benchmarking World Models with Agent Players over Long-Horizon Objectives",
-      "url": "https://arxiv.org/abs/2608.13552",
-      "permalink": "https://aihot.virxact.com/items/cmssd3ass03trrod0gzy9h2vo",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-08-13T00:00:00.000Z",
-      "discoveredAt": "2026-08-14T03:02:36.368Z",
-      "summary": "香港大学与快手可灵团队推出 PlayWorld 基准，用多模态 Agent Player 模拟人类玩家，在 171 个带指定目标的场景中与世界模型交互，以长程目标而非固定动作轨迹进行跨模型公平对比。评测覆盖几何一致性、交互保真度、视野外演化与洞察演化四个核心维度，并纳入视频质量与可控性基础指标。对九个前沿世界模型的实验显示，现有模型在长程交互目标上仍不可靠，尤其在空间一致性与持续状态演化方面。",
-      "category": "paper",
-      "score": 54,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmssd3ass03trrod0gzy9h2vo"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
-      "tags": [
-        "可灵",
-        "交互",
-        "视频",
-        "agent"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -705,6 +566,34 @@
       "tags": [
         "视觉",
         "3d"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmssrqigs0dunrofft7lsp2ew",
+      "title": "RedNote 开源 dots3-note 预览版，280B MoE 智能体模型",
+      "title_en": "Nice： RedNote just open-sourced dots3-note Preview， a 280b multimodal MoE built for agents that oper…",
+      "url": "https://x.com/kimmonismus/status/2088194805654323617",
+      "permalink": "https://aihot.virxact.com/items/cmssrqigs0dunrofft7lsp2ew",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-08-14T09:23:33.000Z",
+      "discoveredAt": "2026-08-14T09:52:33.464Z",
+      "summary": "RedNote 开源 dots3-note Preview，一款 280B MoE 多模态智能体模型，仅 16B 参数同时激活，支持 512K 上下文及文本、图像、视频和音频理解。",
+      "category": "ai-models",
+      "score": 51,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmssrqigs0dunrofft7lsp2ew"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "图像",
+        "智能体"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -1036,31 +925,59 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmsro2rbg01lirox34tteubug",
-      "title": "Luma与Dumbstruck合作推出广告创意智能闭环",
-      "title_en": "What if your ad knew exactly where it lost the room， and why？ What if it could learn from that resp…",
-      "url": "https://x.com/LumaLabsAI/status/2087916837736497459",
-      "permalink": "https://aihot.virxact.com/items/cmsro2rbg01lirox34tteubug",
-      "source": "X：Luma AI (@LumaLabsAI)",
-      "publishedAt": "2026-08-13T14:59:00.000Z",
-      "discoveredAt": "2026-08-13T15:22:20.222Z",
-      "summary": "如果你的广告能准确知道它在哪个环节失去了观众，以及原因，会怎样？\n\n如果它能在你投入一分钱之前，从反馈中学习并自我调整，又会怎样？\n\nLuma 与 @Dumbstruck 正在合作，打通广告洞察与执行之间的闭环。\n\nDumbstruck 通过情绪分析识别效果不佳的片段。Luma 利用你已有的素材重新制作这些片段，无需重新拍摄。\n\n我们称之为\"创意智能\"：全新的广告闭环。",
-      "category": "industry",
-      "score": 34,
+      "id": "cmsspyeyl0cm4roffe3iijopf",
+      "title": "PixSDS：潜在SDS为何产生噪声像素",
+      "title_en": "PixSDS： Why Latent SDS Makes Noisy Pixels",
+      "url": "https://arxiv.org/abs/2608.12997",
+      "permalink": "https://aihot.virxact.com/items/cmsspyeyl0cm4roffe3iijopf",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-13T00:00:00.000Z",
+      "discoveredAt": "2026-08-14T09:02:40.925Z",
+      "summary": "论文指出潜在SDS在文本生成3D中产生结构色伪影与高频纹理噪声，根因是VAE引发的像素漂移--优化图像沿VAE编码器弱约束方向移动，潜表征干净但图像累积可见伪影。为此提出PixSDS，一种轻量级VAE一致梯度修复方法，通过解码潜在SDS前瞻步骤作为像素空间优化方向，无需重训扩散模型或更换渲染器，在2D优化与文本生成3D实验中显著减少结构伪影并保留语义内容。代码已公开。",
+      "category": "paper",
+      "score": 53,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsro2rbg01lirox34tteubug"
+        "canonical": "https://aihot.virxact.com/items/cmsspyeyl0cm4roffe3iijopf"
       },
-      "sourceType": "X",
-      "designCategory": "行业观察",
-      "relevanceScore": 9,
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "图像",
+        "3d"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmssv94cg0h4mroffsb9e7a88",
+      "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
+      "title_en": "dots3-note Preview：迈向服务真实生活的长程智能体，坚定的第一步",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
+      "permalink": "https://aihot.virxact.com/items/cmssv94cg0h4mroffsb9e7a88",
+      "source": "公众号：小红书技术（dots.llm）",
+      "publishedAt": "2026-08-14T11:25:29.000Z",
+      "discoveredAt": "2026-08-14T11:31:00.943Z",
+      "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
+      "category": "ai-models",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmssv94cg0h4mroffsb9e7a88"
+      },
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
       "editorialScore": 9,
       "tags": [
-        "广告",
-        "创意"
+        "视觉",
+        "agent",
+        "智能体"
       ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmsrk8hk003rero462116sr2u",
@@ -1199,60 +1116,6 @@
         "提示词",
         "agent",
         "skill"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmsqklahe05ifroxvk12gixbx",
-      "title": "Claude Code v2.1.229 发布：新增远程会话恢复、插件市场命令源及多项修复",
-      "title_en": "v2.1.229",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.229",
-      "permalink": "https://aihot.virxact.com/items/cmsqklahe05ifroxvk12gixbx",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "publishedAt": "2026-08-12T20:56:22.000Z",
-      "discoveredAt": "2026-08-12T20:57:00.544Z",
-      "summary": "Claude Code v2.1.229 发布，新增远程控制会话恢复、自托管 runner 的服务器端 hook 支持，以及插件市场命令源。修复了长响应流式输出丢失、窄终端渲染崩溃、Windows 扩展路径崩溃等问题。改进工作流扇出以复用缓存提示前缀，并调整 /commit-push-pr 对危险 git/gh 命令不再自动批准。",
-      "category": "ai-products",
-      "score": 50,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsqklahe05ifroxvk12gixbx"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "工作流",
-        "claude code"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmsqiju8r0417roxvbqlhkvcm",
-      "title": "GitHub Copilot 应用如何写出你的第一条提示词",
-      "title_en": "Write your first prompt with the GitHub Copilot app",
-      "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
-      "permalink": "https://aihot.virxact.com/items/cmsqiju8r0417roxvbqlhkvcm",
-      "source": "GitHub Blog",
-      "publishedAt": "2026-08-12T19:00:00.000Z",
-      "discoveredAt": "2026-08-12T19:59:53.759Z",
-      "summary": "GitHub Copilot 应用发布入门指南，教用户写出第一条提示词，并学会选择合适的上下文与模型，从而自信地开启首个任务。该指南面向 Copilot 应用的新手用户，帮助其快速上手提示词编写。",
-      "category": "tip",
-      "score": 27,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsqiju8r0417roxvbqlhkvcm"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "提示词",
-        "prompt"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
