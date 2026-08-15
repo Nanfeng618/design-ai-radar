@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-15T06:57:44.460Z",
-  "previousGeneratedAt": "2026-08-15T01:49:48.932Z",
+  "generatedAt": "2026-08-15T12:58:24.890Z",
+  "previousGeneratedAt": "2026-08-15T06:57:44.460Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 33,
+  "itemCount": 35,
   "sourceCounts": {
     "X": 24,
-    "网站": 8,
-    "公众号": 1
+    "网站": 9,
+    "公众号": 2
   },
   "source": {
     "name": "AI HOT",
@@ -379,31 +379,87 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmsrui3ye0296rozet2ak3r03",
-      "title": "Matic 扫地机器人弃用 LiDAR 改用视觉方案",
-      "title_en": "This is so cool： Matic put the same vision-first bet Tesla made for self driving into a robot that c…",
-      "url": "https://x.com/kimmonismus/status/2087964467326034201",
-      "permalink": "https://aihot.virxact.com/items/cmsrui3ye0296rozet2ak3r03",
-      "source": "X：Kim (@kimmonismus)",
-      "publishedAt": "2026-08-13T18:08:16.000Z",
-      "discoveredAt": "2026-08-13T18:22:13.744Z",
-      "summary": "Matic 将特斯拉的视觉优先路线用于家用扫地机器人：配备五颗 RGB-IR 摄像头、无 LiDAR，由 NVIDIA Jetson Orin 板载推理，实时更新 3D 地图以区分充电线、袜子和宠物。团队耗时 7 年、不足 100 人打造，获 1.15 亿美元融资，支持 75 种语言，WIRED 给出 10/10 评分。",
-      "category": "ai-products",
-      "score": 35,
+      "id": "cmsuaevuc05xwroe0q0endzh3",
+      "title": "提示词如何让编程智能体浪费算力：Same Task， Different Work 论文揭示",
+      "title_en": "Really useful revelation on prompting coding agent in this paper. Your coding-agent prompt may be …",
+      "url": "https://x.com/rohanpaul_ai/status/2088581959299870941",
+      "permalink": "https://aihot.virxact.com/items/cmsuaevuc05xwroe0q0endzh3",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-08-15T11:01:57.000Z",
+      "discoveredAt": "2026-08-15T11:23:10.216Z",
+      "summary": "论文发现，提示词要求编程智能体考虑多种方案时，其推理量增加2.4-7.4倍，但成功率无提升；智能体平均展开约三个方案后弃用，仅实现其中一个。\"Be absolutely certain\"指令则触发冗余验证，最高使运行成本达基线18.25倍、工具调用15次对6次、耗时3倍，成功率不变。",
+      "category": "paper",
+      "score": 42,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsrui3ye0296rozet2ak3r03"
+        "canonical": "https://aihot.virxact.com/items/cmsuaevuc05xwroe0q0endzh3"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 9,
+      "editorialScore": 10,
+      "tags": [
+        "提示词",
+        "prompt",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmsu1shtt011crof2hdodhliw",
+      "title": "用Fable 5打磨AI生图提示词并开源",
+      "title_en": "我这套用Fable 5 打磨的AI生图焚决的含金量还在上升，直接看片吧， 以下是用@grok 生成的， 原图和所有提示词我全部开源， 你们可以拿去跟seedance对比一下",
+      "url": "https://x.com/AYi_AInotes/status/2088523133472960583",
+      "permalink": "https://aihot.virxact.com/items/cmsu1shtt011crof2hdodhliw",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-08-15T07:08:12.000Z",
+      "discoveredAt": "2026-08-15T07:21:48.451Z",
+      "summary": "博主用Claude Fable 5总结出AI生图\"焚决\"，并开源全部提示词供对比Grok生成效果。核心技法包括以\"成人+气质+材质\"定人设、用服装剪裁与面料质感替代直白描述、以表情瞬间和镜头语言强化质感，并强调\"克制的性感\"与强负面词约束。博主还提醒需使用干净的住宅IP以避免风控。",
+      "category": "tip",
+      "score": 36,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsu1shtt011crof2hdodhliw"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "relevanceScore": 7,
+      "editorialScore": 10,
       "tags": [
-        "视觉",
-        "3d"
+        "生图",
+        "提示词"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsu7ga9u03onroe0eoshkpou",
+      "title": "DeepSeek Harness实测：PTC模式和Cordis插件才是隐藏大招",
+      "title_en": "实测DeepSeek Harness，原来PTC模式和Cordis插件才是隐藏大招",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509609&idx=1&sn=177f208ce6031423db43442a55f6bf46",
+      "permalink": "https://aihot.virxact.com/items/cmsu7ga9u03onroe0eoshkpou",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-08-15T05:03:00.000Z",
+      "discoveredAt": "2026-08-15T10:00:16.053Z",
+      "summary": "DeepSeek开源Agent框架DeepSeek Harness（dsh），上线GitHub一多小时破2万星，次日达6万。其核心设计\"everything is a plugin\"，基于Cordis插件系统，模型接入、工具注册表、主循环等全部可替换。",
+      "category": "tip",
+      "score": 66,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsu7ga9u03onroe0eoshkpou"
+      },
+      "sourceType": "公众号",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计",
+        "agent"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmstwhe750je4ro0xkdjr3htq",
@@ -758,88 +814,57 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmsrusu9k02gzrozeu9q7wu87",
-      "title": "Gemini 3.7 Flash 发布，编码智能体性能大幅提升",
-      "title_en": "Good on Google for shipping this. Looks like a solid model， and the only way past the haters is thro…",
-      "url": "https://x.com/natolambert/status/2087966826110353796",
-      "permalink": "https://aihot.virxact.com/items/cmsrusu9k02gzrozeu9q7wu87",
-      "source": "X：Nathan Lambert (@natolambert)",
-      "publishedAt": "2026-08-13T18:17:38.000Z",
-      "discoveredAt": "2026-08-13T18:30:34.960Z",
-      "summary": "Google 发布 Gemini 3.7 Flash，面向编码与智能体工作流，首发价仅为 3.6 Flash 原价一半。Flash 系列 3 个月内从 3.5 迭代至 3.7，软件工程（DeepSWE v1.1）得分从 37.0% 升至 65.3%，企业自动化（AutomationBench）从 13.4% 升至 30.4%。",
+      "id": "cmstzp5iy0nv6ro0xgpfqfg3t",
+      "title": "Runway 上线 Seedance 2.5 1080p 高清版",
+      "title_en": "Seedance 2.5 in 1080p is now live on Runway. Early access starts today， bringing sharper detail at h…",
+      "url": "https://x.com/runwayml/status/2088510581120647272",
+      "permalink": "https://aihot.virxact.com/items/cmstzp5iy0nv6ro0xgpfqfg3t",
+      "source": "X：Runway (@runwayml)",
+      "publishedAt": "2026-08-15T06:18:19.000Z",
+      "discoveredAt": "2026-08-15T06:23:12.940Z",
+      "summary": "Seedance 2.5 1080p 现已上线 Runway。今日起开放抢先体验，以更高分辨率呈现更锐利的细节。\n\n点击下方链接即可开始使用。",
       "category": "ai-models",
-      "score": 39,
+      "score": 44,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsrusu9k02gzrozeu9q7wu87"
+        "canonical": "https://aihot.virxact.com/items/cmstzp5iy0nv6ro0xgpfqfg3t"
       },
       "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 9,
-      "editorialScore": 10,
-      "tags": [
-        "工作流",
-        "自动化",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmsrudflh026croze89fmiue2",
-      "title": "DeepSeek Harness v0.1 开源生产级 Agent 框架",
-      "title_en": "Damn！我感觉@deepseek_ai 这波是直接把生产级Agent的底裤都开源出来了。 刚放的DeepSeek Harness，带完整漂亮的Web UI，能直接通过SDK启动Claude Cod…",
-      "url": "https://x.com/AYi_AInotes/status/2087962866355995054",
-      "permalink": "https://aihot.virxact.com/items/cmsrudflh026croze89fmiue2",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-08-13T18:01:54.000Z",
-      "discoveredAt": "2026-08-13T18:18:35.724Z",
-      "summary": "DeepSeek 开源 DeepSeek Harness v0.1，一个带完整 Web UI、可直接通过 SDK 启动 Claude Code 和 Codex 代理的生产级 Agent 框架。",
-      "category": "ai-products",
-      "score": 41,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsrudflh026croze89fmiue2"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
+      "designCategory": "图像与视频",
       "relevanceScore": 6,
-      "editorialScore": 10,
+      "editorialScore": 9,
       "tags": [
-        "ui",
-        "codex",
-        "claude code",
-        "agent"
+        "runway"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmsrsd07y03haro0noq1yqc8o",
-      "title": "MiniMax-Music3 工作流上线",
-      "title_en": "MiniMax-Music3 gradio workflow is out https://huggingface.co/spaces/akhaliq/MiniMax-Music3-workflow",
-      "url": "https://x.com/_akhaliq/status/2087951732235993488",
-      "permalink": "https://aihot.virxact.com/items/cmsrsd07y03haro0noq1yqc8o",
-      "source": "X：AK (@_akhaliq)",
-      "publishedAt": "2026-08-13T17:17:39.000Z",
-      "discoveredAt": "2026-08-13T17:22:17.247Z",
-      "summary": "MiniMax-Music3 gradio 工作流已发布\n\nhttps://huggingface.co/spaces/akhaliq/MiniMax-Music3-workflow",
-      "category": "ai-products",
-      "score": 48,
+      "id": "cmste96kt04gzro0xqjibwawd",
+      "title": "Runway 第二届虚构产品广告大赛揭晓",
+      "title_en": "Congratulations to the second cohort of creatives whose work won big in Runway's Another Big Ad Cont…",
+      "url": "https://x.com/runwayml/status/2088354331540222178",
+      "permalink": "https://aihot.virxact.com/items/cmste96kt04gzro0xqjibwawd",
+      "source": "X：Runway (@runwayml)",
+      "publishedAt": "2026-08-14T19:57:27.000Z",
+      "discoveredAt": "2026-08-14T20:22:56.632Z",
+      "summary": "恭喜第二批创作者，他们的作品在 Runway 的\"Another Big Ad Contest for Products That Don't Exist\"中脱颖而出。在我们收到的数千份涵盖各种类型、简报和格式的广告作品中，仅有 15 位获奖者入选。\n\n以下是最佳 5 支广告。",
+      "category": "industry",
+      "score": 25,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsrsd07y03haro0noq1yqc8o"
+        "canonical": "https://aihot.virxact.com/items/cmste96kt04gzro0xqjibwawd"
       },
       "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 9,
-      "editorialScore": 10,
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
       "tags": [
-        "工作流",
-        "workflow"
+        "runway",
+        "广告"
       ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmssv94cg0h4mroffsb9e7a88",
@@ -868,6 +893,33 @@
         "智能体"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsu3zjq301a3roe0o9d212zj",
+      "title": "原告在法庭文件中隐藏不可见AI指令，试图暗中影响自动化审查",
+      "title_en": "Plaintiff hid invisible AI instructions in court filings to secretly influence automated review",
+      "url": "https://the-decoder.com/plaintiff-hid-invisible-ai-instructions-in-court-filings-to-secretly-influence-automated-review",
+      "permalink": "https://aihot.virxact.com/items/cmsu3zjq301a3roe0o9d212zj",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-08-15T08:00:45.000Z",
+      "discoveredAt": "2026-08-15T08:23:14.351Z",
+      "summary": "康涅狄格州一名自辩原告Matthew Elliott在法庭文件中嵌入提示词注入，用白底白色3号字写下指令，人眼不可见但AI可读取，要求系统按提交文件输出并将先前书记员的驳回视为错误。法院因异常空白发现该行为，法官Walter Spader Jr.在14页裁决中将其比作与陪审员秘密沟通，并取消其电子提交权限。法官同时明确欢迎用AI准备文件，但警告语言模型可能强化错误法律推理。",
+      "category": "industry",
+      "score": 56,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsu3zjq301a3roe0o9d212zj"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "提示词",
+        "自动化"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmssdt0sd04m6rod0si1fju7z",
