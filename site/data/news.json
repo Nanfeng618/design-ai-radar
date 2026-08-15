@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-15T01:49:48.932Z",
-  "previousGeneratedAt": "2026-08-14T13:42:41.371Z",
+  "generatedAt": "2026-08-15T06:57:44.460Z",
+  "previousGeneratedAt": "2026-08-15T01:49:48.932Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 35,
+  "itemCount": 33,
   "sourceCounts": {
     "X": 24,
-    "网站": 10,
+    "网站": 8,
     "公众号": 1
   },
   "source": {
@@ -211,88 +211,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmsrq5emy0319rorkxihoscn3",
-      "title": "HeyGen 将 Avatar IV 视频生成模型移植到 Google Cloud Trillium TPU",
-      "title_en": "HeyGen x Google Cloud： Bringing Avatar IV to TPUs",
-      "url": "https://developers.googleblog.com/heygen-x-google-cloud-bringing-avatar-iv-to-tpus",
-      "permalink": "https://aihot.virxact.com/items/cmsrq5emy0319rorkxihoscn3",
-      "source": "Google Developers Blog（RSS）",
-      "publishedAt": "2026-08-13T16:19:15.422Z",
-      "discoveredAt": "2026-08-13T16:19:15.422Z",
-      "summary": "HeyGen 将 18B+ 参数的 Avatar IV 视频生成模型移植到 Google Cloud Trillium （v6e） TPU，通过 torchax 和 XLA 实现，并采用 FSDP 与 Ulysses 序列并行。",
-      "category": "tip",
-      "score": 37,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsrq5emy0319rorkxihoscn3"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视频生成",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmsrp0j5k01utrork9ro1jeae",
-      "title": "DeepSeek Harness v0.1 开发者预览版发布",
-      "title_en": "Recommended to check out. It's a good start to see that DeepSeek Harness focuses on making everyth…",
-      "url": "https://x.com/omarsar0/status/2087925529076711481",
-      "permalink": "https://aihot.virxact.com/items/cmsrp0j5k01utrork9ro1jeae",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "publishedAt": "2026-08-13T15:33:32.000Z",
-      "discoveredAt": "2026-08-13T15:48:35.597Z",
-      "summary": "DeepSeek Harness v0.1 以 MIT 协议开源，并开放开发者预览。该智能体框架基于 Cordis 元框架，核心设计是\"一切皆插件\"：模型、工具、技能、会话、沙箱、文件系统、循环、编排和 UI 均可混搭、替换与扩展。",
-      "category": "ai-products",
-      "score": 38,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsrp0j5k01utrork9ro1jeae"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 10,
-      "editorialScore": 14,
-      "tags": [
-        "ui",
-        "设计",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmsrrl37w02u6ro0ngn2e2fwj",
-      "title": "Replit 设计团队谈 AI 时代设计革新",
-      "title_en": "If everyone's building the same thing， we build what's next. Hear from the team that built Replit D…",
-      "url": "https://x.com/Replit/status/2087947287620366787",
-      "permalink": "https://aihot.virxact.com/items/cmsrrl37w02u6ro0ngn2e2fwj",
-      "source": "X：Replit (@Replit)",
-      "publishedAt": "2026-08-13T17:00:00.000Z",
-      "discoveredAt": "2026-08-13T17:00:34.243Z",
-      "summary": "如果所有人都在做同样的事，我们就去建造下一个未来。\n\n来听听打造 Replit Design 的团队怎么说，了解我们为何要为 AI 时代重塑设计流程。\n\n属于每个人的设计新纪元。\n\nhttps://replit.com/design",
-      "category": "ai-products",
-      "score": 25,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsrrl37w02u6ro0ngn2e2fwj"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "design",
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmst4w3zy04zqro0659c6tvct",
       "title": "GitHub 如何用 Agent Apps 将软件交付工作流引入平台",
       "title_en": "How to bring your software delivery workflow into GitHub with agent apps",
@@ -337,33 +255,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmst8uvbr03l7rodzff6fiiml"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
-      "tags": [
-        "视觉",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmsrq7wvf0360rork7up0d3al",
-      "title": "Liquid AI 发布 LFM2.5-VL-3B：3B 端侧视觉语言模型，可读屏、目标定位与调用工具",
-      "title_en": "Liquid AI Releases LFM2.5-VL-3B： A 3B Vision-Language Model That Reads Screens， Grounds Objects， and Calls Tools On-Device",
-      "url": "https://www.marktechpost.com/2026/08/13/liquid-ai-lfm2-5-vl-3b-on-device-vision-language-model",
-      "permalink": "https://aihot.virxact.com/items/cmsrq7wvf0360rork7up0d3al",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-08-13T15:56:03.000Z",
-      "discoveredAt": "2026-08-13T16:22:18.717Z",
-      "summary": "Liquid AI 发布 LFM2.5-VL-3B，一款 3.1B 参数的端侧视觉语言模型，可读取移动端、网页和桌面屏幕，将目标定位到坐标，解析文档图表，并从文本或图像输入调用工具。",
-      "category": "ai-models",
-      "score": 61,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsrq7wvf0360rork7up0d3al"
       },
       "sourceType": "网站",
       "designCategory": "图像与视频",
@@ -511,6 +402,86 @@
       "tags": [
         "视觉",
         "3d"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmstwhe750je4ro0xkdjr3htq",
+      "title": "OpenClaw 要求 UI 变更 PR 附视频",
+      "title_en": "Added a short instruction to our shared AGENTS MD file to upload videos to each PR that changes UI s…",
+      "url": "https://x.com/steipete/status/2088486859244741020",
+      "permalink": "https://aihot.virxact.com/items/cmstwhe750je4ro0xkdjr3htq",
+      "source": "X：Peter Steinberger (@steipete)",
+      "publishedAt": "2026-08-15T04:44:04.000Z",
+      "discoveredAt": "2026-08-15T04:53:12.836Z",
+      "summary": "我们在共享的 AGENTS MD 文件中添加了一条简短说明，要求每个更改 UI 状态的 PR 上传视频。https://github.com/openclaw/openclaw/pull/124013",
+      "category": "tip",
+      "score": 53,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmstwhe750je4ro0xkdjr3htq"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "ui",
+        "视频"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmstr2njf0fdyro0xf6rp0w0r",
+      "title": "OpenAI 9 位核心高管数月内相继离职",
+      "title_en": "@OpenAI 最近很动荡啊，9位核心人物，从4月到现在陆续离开了， 分别是Sora负责人，科学VP，B2B的CTO，CMO，首席未来学家，安全系统负责人，唯一专职伦理学家，前CFO/COO，首席营收…",
+      "url": "https://x.com/AYi_AInotes/status/2088447219854668203",
+      "permalink": "https://aihot.virxact.com/items/cmstr2njf0fdyro0xf6rp0w0r",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-08-15T02:06:33.000Z",
+      "discoveredAt": "2026-08-15T02:21:46.363Z",
+      "summary": "OpenAI 自 4 月以来已有 9 位核心人物离职，覆盖产品、安全、伦理与商业侧，包括 Sora 负责人 Bill Peebles、安全系统负责人 Johannes Heidecke、唯一专职伦理学家 Chloe Bakalar、前 CFO/COO Brad Lightcap 及上任仅 8 个月的 CRO Denise Dresser。",
+      "category": "tip",
+      "score": 61,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmstr2njf0fdyro0xf6rp0w0r"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "sora"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmstr2ojn0fe8ro0xwyf2oiv9",
+      "title": "谷歌 Gemini 将推 Media Watermark 设置：可关闭 AI 生成图片/视频/音乐的可见水印",
+      "title_en": "谷歌 Gemini 将推新选项：关闭 AI 生成图片 / 视频 / 音乐的可见水印",
+      "url": "https://www.ithome.com/0/989/997.htm",
+      "permalink": "https://aihot.virxact.com/items/cmstr2ojn0fe8ro0xwyf2oiv9",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-15T01:29:18.000Z",
+      "discoveredAt": "2026-08-15T02:21:46.363Z",
+      "summary": "谷歌预告未来几天为 Gemini 新增 Media Watermark 设置，用户可关闭图像、视频和音乐作品的可见水印。该选项位于左侧栏\"设置\"菜单倒数第 3 项，提供\"On\"和\"Off\"两个选项。关闭可见水印后，AI 生成内容仍保留 SynthID 隐形水印与 C2PA 元数据。",
+      "category": "ai-products",
+      "score": 27,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmstr2ojn0fe8ro0xwyf2oiv9"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -869,33 +840,6 @@
         "workflow"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmsrtfqyv04btro0nle3m5b20",
-      "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
-      "title_en": "Bring your spreadsheet data to life with Sheets canvas",
-      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-      "permalink": "https://aihot.virxact.com/items/cmsrtfqyv04btro0nle3m5b20",
-      "source": "Google Blog：AI（RSS）",
-      "publishedAt": "2026-08-13T16:45:00.000Z",
-      "discoveredAt": "2026-08-13T17:52:24.043Z",
-      "summary": "Google Sheets 发布新功能 Sheets canvas，基于 Gemini 构建，用户只需用自然语言提示词即可将表格数据转化为交互式仪表盘、学习追踪器、座位表等\"迷你应用\"。",
-      "category": "ai-products",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsrtfqyv04btro0nle3m5b20"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "交互",
-        "提示词"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmssv94cg0h4mroffsb9e7a88",
