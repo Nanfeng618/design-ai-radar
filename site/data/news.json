@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-15T12:58:24.890Z",
-  "previousGeneratedAt": "2026-08-15T06:57:44.460Z",
+  "generatedAt": "2026-08-16T01:57:03.519Z",
+  "previousGeneratedAt": "2026-08-15T12:58:24.890Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 35,
+  "itemCount": 34,
   "sourceCounts": {
     "X": 24,
-    "网站": 9,
+    "网站": 8,
     "公众号": 2
   },
   "source": {
@@ -211,6 +211,60 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmsuytkv704a8rosa3fsfjxs0",
+      "title": "Opus 5 新输出风格：代码任务通过率97%",
+      "title_en": "this guy gets it",
+      "url": "https://x.com/dexhorthy/status/2088753878485373102",
+      "permalink": "https://aihot.virxact.com/items/cmsuytkv704a8rosa3fsfjxs0",
+      "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+      "publishedAt": "2026-08-15T22:25:06.000Z",
+      "discoveredAt": "2026-08-15T22:46:25.069Z",
+      "summary": "有用户发现 Claude Opus 5 采用\"Attention-kind\"输出风格后，代码任务通过率达97%，输出缩短43%，75%的回答首行即出（默认仅3%），88%为纯交付内容。主推文借此提出应建立\"AI-人类交互\"（AHI）研究领域，反向设计AI如何更好与人类互动。",
+      "category": "tip",
+      "score": 21,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsuytkv704a8rosa3fsfjxs0"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "设计",
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmsutpbhp093crouhe5lb2yjk",
+      "title": "Codex 重制 Infocom 文字游戏 Nord and Bert",
+      "title_en": "As Infocom games are now open source， I had Codex update 1987's word game \"Nord and Bert Couldn't Ma…",
+      "url": "https://x.com/emollick/status/2088716326525186269",
+      "permalink": "https://aihot.virxact.com/items/cmsutpbhp093crouhe5lb2yjk",
+      "source": "X：Ethan Mollick (@emollick)",
+      "publishedAt": "2026-08-15T19:55:53.000Z",
+      "discoveredAt": "2026-08-15T20:23:09.295Z",
+      "summary": "由于 Infocom 游戏现已开源，我让 Codex 对 1987 年的文字游戏\"Nord and Bert Couldn't Make Head or Tail of It\"进行了更新，使其现在即可游玩。游戏保留了 O'Neill 的谜题，不过凭借新的用户体验，通关变得更容易了（而且 AI 在翻译部分谜题方面表现更佳）。\n\nhttps://nord-and-bert.netlify.app/",
+      "category": "ai-products",
+      "score": 52,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsutpbhp093crouhe5lb2yjk"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "用户体验",
+        "codex"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "cmst4w3zy04zqro0659c6tvct",
       "title": "GitHub 如何用 Agent Apps 将软件交付工作流引入平台",
       "title_en": "How to bring your software delivery workflow into GitHub with agent apps",
@@ -377,6 +431,33 @@
         "agent"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmsuqulw707dbrouhqjb6blkn",
+      "title": "DeepSeek Harness：让智能体状态有明确归属",
+      "title_en": "https://x.com/i/article/2088681782606536704",
+      "url": "https://x.com/dongxi_nlp/status/2088696132964941988",
+      "permalink": "https://aihot.virxact.com/items/cmsuqulw707dbrouhqjb6blkn",
+      "source": "X：马东锡 NLP (@dongxi_nlp)",
+      "publishedAt": "2026-08-15T18:35:38.000Z",
+      "discoveredAt": "2026-08-15T19:03:17.910Z",
+      "summary": "DeepSeek Harness 的核心设计是拒绝将\"智能体状态\"视为单一模糊对象，而是让每个关键事实归属于有权验证它的组件。例如文件读取会记录版本号，仅在版本匹配时才允许修改，以消除检查与使用之间的时间差。工具调用则作为事件管道，包含身份验证、模式校验、执行钩子等环节，子智能体也需独立决策上下文、生命周期与权限。",
+      "category": "tip",
+      "score": 63,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsuqulw707dbrouhqjb6blkn"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmsuaevuc05xwroe0q0endzh3",
@@ -760,109 +841,28 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmss207co02qqroh6eb28le89",
-      "title": "Hitem3D 浏览器内 2D 转 3D 模型实测",
-      "title_en": "1/ Wanted to see if you could actually get a usable 3D asset out of a flat 2D image without spending…",
-      "url": "https://x.com/kimmonismus/status/2088015317624844355",
-      "permalink": "https://aihot.virxact.com/items/cmss207co02qqroh6eb28le89",
+      "id": "cmsuizf8p01ylro1fvrkdedd8",
+      "title": "OpenAI 2026 年已流失 12 位高管，Scott Gray 离职",
+      "title_en": "Scott Gray leaves OpenAI. He joined the company in 2016 and helped build the GPU infrastructure behi…",
+      "url": "https://x.com/kimmonismus/status/2088647536684712289",
+      "permalink": "https://aihot.virxact.com/items/cmsuizf8p01ylro1fvrkdedd8",
       "source": "X：Kim (@kimmonismus)",
-      "publishedAt": "2026-08-13T21:30:19.000Z",
-      "discoveredAt": "2026-08-13T21:52:16.379Z",
-      "summary": "1/ 我想测试一下，能否从一张平面 2D 图像直接生成可用的 3D 资产，而无需花费数小时修复网格。\n\n一张平面 2D 图像在大约 5 分钟内就变成了一个清晰、高细节的 3D 模型。整个过程完全在浏览器内通过 @Hitem3D 完成，零配置。以下是最终资产和具体工作流的快速展示：",
-      "category": "tip",
-      "score": 57,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmss207co02qqroh6eb28le89"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "工作流",
-        "图像",
-        "3d"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmsrxpvyb04obroze3ofd9inq",
-      "title": "Gemini 3.7 Flash 发布，降价五成",
-      "title_en": "Gemini 3.7 Flash is here 🔥 It's 50% cheaper than 3.6 Flash for the year， has made significant imp…",
-      "url": "https://x.com/ammaar/status/2087985302597926979",
-      "permalink": "https://aihot.virxact.com/items/cmsrxpvyb04obroze3ofd9inq",
-      "source": "X：Ammaar Reshi (@ammaar)",
-      "publishedAt": "2026-08-13T19:31:03.000Z",
-      "discoveredAt": "2026-08-13T19:52:16.379Z",
-      "summary": "Gemini 3.7 Flash 来了 🔥\n\n全年价格比 3.6 Flash 便宜 50%，在设计遵循、Web 开发和游戏制作方面都有显著改进！\n\n现已登陆 AI Studio、Antigravity 和 Gemini API。\n\n下面是一些一次性演示！",
-      "category": "ai-models",
-      "score": 65,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsrxpvyb04obroze3ofd9inq"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmstzp5iy0nv6ro0xgpfqfg3t",
-      "title": "Runway 上线 Seedance 2.5 1080p 高清版",
-      "title_en": "Seedance 2.5 in 1080p is now live on Runway. Early access starts today， bringing sharper detail at h…",
-      "url": "https://x.com/runwayml/status/2088510581120647272",
-      "permalink": "https://aihot.virxact.com/items/cmstzp5iy0nv6ro0xgpfqfg3t",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-08-15T06:18:19.000Z",
-      "discoveredAt": "2026-08-15T06:23:12.940Z",
-      "summary": "Seedance 2.5 1080p 现已上线 Runway。今日起开放抢先体验，以更高分辨率呈现更锐利的细节。\n\n点击下方链接即可开始使用。",
-      "category": "ai-models",
+      "publishedAt": "2026-08-15T15:22:32.000Z",
+      "discoveredAt": "2026-08-15T15:23:04.566Z",
+      "summary": "OpenAI 资深 GPU 系统工程师 Scott Gray 离职，他曾参与构建稀疏 Transformer、扩展定律及 GPT-3 的 GPU 基础设施。2026 年至今，OpenAI 已有至少 12 位高管离开，包括前 COO Brad Lightcap、Sora 负责人 Bill Peebles 及硬件与机器人负责人 Caitlin Kalinowski。",
+      "category": "industry",
       "score": 44,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmstzp5iy0nv6ro0xgpfqfg3t"
+        "canonical": "https://aihot.virxact.com/items/cmsuizf8p01ylro1fvrkdedd8"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
       "relevanceScore": 6,
       "editorialScore": 9,
       "tags": [
-        "runway"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmste96kt04gzro0xqjibwawd",
-      "title": "Runway 第二届虚构产品广告大赛揭晓",
-      "title_en": "Congratulations to the second cohort of creatives whose work won big in Runway's Another Big Ad Cont…",
-      "url": "https://x.com/runwayml/status/2088354331540222178",
-      "permalink": "https://aihot.virxact.com/items/cmste96kt04gzro0xqjibwawd",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-08-14T19:57:27.000Z",
-      "discoveredAt": "2026-08-14T20:22:56.632Z",
-      "summary": "恭喜第二批创作者，他们的作品在 Runway 的\"Another Big Ad Contest for Products That Don't Exist\"中脱颖而出。在我们收到的数千份涵盖各种类型、简报和格式的广告作品中，仅有 15 位获奖者入选。\n\n以下是最佳 5 支广告。",
-      "category": "industry",
-      "score": 25,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmste96kt04gzro0xqjibwawd"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "runway",
-        "广告"
+        "sora"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -937,32 +937,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmssdt0sd04m6rod0si1fju7z"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "工作流"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmss7a4if02bnroibyuf4jl92",
-      "title": "谷歌推出 Gemini 3.7 Flash 模型，首发优惠价为原 3.6 Flash 的一半",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/989/497.htm",
-      "permalink": "https://aihot.virxact.com/items/cmss7a4if02bnroibyuf4jl92",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-13T23:30:13.000Z",
-      "discoveredAt": "2026-08-14T00:19:55.879Z",
-      "summary": "谷歌推出专为编程与 Agents 场景打造的 Gemini 3.7 Flash 模型，距 3.6 Flash 发布仅约三周，在软件工程、知识工作及网页开发工作流方面大幅提升。",
-      "category": "ai-models",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmss7a4if02bnroibyuf4jl92"
       },
       "sourceType": "网站",
       "designCategory": "工作流与 Agent",
