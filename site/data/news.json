@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-16T01:57:03.519Z",
-  "previousGeneratedAt": "2026-08-15T12:58:24.890Z",
+  "generatedAt": "2026-08-16T06:59:13.409Z",
+  "previousGeneratedAt": "2026-08-16T01:57:03.519Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 34,
+  "itemCount": 33,
   "sourceCounts": {
     "X": 24,
-    "网站": 8,
+    "网站": 7,
     "公众号": 2
   },
   "source": {
@@ -124,6 +124,33 @@
         "图像",
         "提示词",
         "prompt"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsvcyazl0ecirosapw8sn8mt",
+      "title": "Seedance 2.5 视频生成：迟来二十年的补偿感",
+      "title_en": "趁着周末有空打磨AIGC基本功， 发现用Seedance 2.5做视频 有一种独特的爽感， 最强烈的一个感受已经不是AI好厉害了， 是一种迟到了二十年的补偿感😭😭 那些我们小时候画不出来、长大拍…",
+      "url": "https://x.com/AYi_AInotes/status/2088845636355440754",
+      "permalink": "https://aihot.virxact.com/items/cmsvcyazl0ecirosapw8sn8mt",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-08-16T04:29:43.000Z",
+      "discoveredAt": "2026-08-16T05:22:00.205Z",
+      "summary": "博主用 Seedance 2.5 将 AIGC 美女图转为视频，8 段画面动作与运镜一气呵成，全程不漂移，体验丝滑。其感叹 AI 让儿时想象直接成真，带来\"迟到了二十年的补偿感\"。引用推文称 Seedance 2.5 尺度比 2.0 开放，且能过审。",
+      "category": "tip",
+      "score": 34,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsvcyazl0ecirosapw8sn8mt"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -292,33 +319,6 @@
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmst8uvbr03l7rodzff6fiiml",
-      "title": "OpenRouter 视觉指南：如何通过 API 向多模态模型发送图像",
-      "title_en": "How to Send an Image to an LLM via API （Vision Guide）",
-      "url": "https://openrouter.ai/blog/tutorials/send-image-to-llm",
-      "permalink": "https://aihot.virxact.com/items/cmst8uvbr03l7rodzff6fiiml",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-08-14T00:00:00.000Z",
-      "discoveredAt": "2026-08-14T17:51:50.659Z",
-      "summary": "OpenRouter 发布视觉指南，详解通过 Chat Completions API 向多模态模型发送图像的方法。请求体采用 messages 数组，用户消息的 content 包含 text 和 image_url 两部分，支持公开 URL 或 base64 数据 URL 两种格式，兼容 PNG、JPEG、WebP 和 GIF。",
-      "category": "tip",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmst8uvbr03l7rodzff6fiiml"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
-      "tags": [
-        "视觉",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmst4lq8504kwro0608rly7ss",
@@ -788,59 +788,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmssal6ps01k3rod0dakw17yr",
-      "title": "人类I/O成本高，批量提问加速对齐",
-      "title_en": "human i/o is costly， so after listening to @mattpocockuk and @trq212 i made an /align-me modificatio…",
-      "url": "https://x.com/swyx/status/2088073777779515615",
-      "permalink": "https://aihot.virxact.com/items/cmssal6ps01k3rod0dakw17yr",
-      "source": "X：swyx (@swyx)",
-      "publishedAt": "2026-08-14T01:22:37.000Z",
-      "discoveredAt": "2026-08-14T01:52:32.173Z",
-      "summary": "人类输入/输出成本高昂，因此在听了 @mattpocockuk 和 @trq212 的建议后，我做了一个 /align-me 修改，支持批量提问而非逐轮问答。这与推测解码的思路一致--通过提前预判 2-10 步来加速。\n\n对设计探索类工作效果极佳。",
-      "category": "tip",
-      "score": 65,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmssal6ps01k3rod0dakw17yr"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmssajyiu01ckrod05vjundba",
-      "title": "理解才是新的瓶颈：AI 工程师大会上关于如何跟上智能体代码的演讲",
-      "title_en": "理解才是新的瓶颈",
-      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-      "permalink": "https://aihot.virxact.com/items/cmssajyiu01ckrod05vjundba",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-14T01:16:34.441Z",
-      "discoveredAt": "2026-08-14T01:51:34.610Z",
-      "summary": "AI 智能体正编写越来越多代码，理解这些代码成为新的瓶颈。作者提出三种高效理解技术：生成结构化代码解释文档、通过交互式测验检验理解、以及构建可操作的微世界。他强调理解不仅为了验证，更为了参与创造过程，并借鉴教育领域方法，如使用 /explain-diff 技能生成 HTML 或 Notion 文档，以及嵌入间隔重复测验来确保真正掌握。",
-      "category": "tip",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmssajyiu01ckrod05vjundba"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "交互",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmsuizf8p01ylro1fvrkdedd8",
       "title": "OpenAI 2026 年已流失 12 位高管，Scott Gray 离职",
       "title_en": "Scott Gray leaves OpenAI. He joined the company in 2016 and helped build the GPU infrastructure behi…",
@@ -918,6 +865,33 @@
       "tags": [
         "提示词",
         "自动化"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmsvf5k7m0hy2rosaz5umu2wx",
+      "title": "Artificial Analysis 推出 Optima：让用户用自有数据构建定制 AI 基准测试",
+      "title_en": "Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data",
+      "url": "https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data",
+      "permalink": "https://aihot.virxact.com/items/cmsvf5k7m0hy2rosaz5umu2wx",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-08-16T05:50:50.000Z",
+      "discoveredAt": "2026-08-16T06:23:36.815Z",
+      "summary": "Artificial Analysis 发布新平台 Optima，允许用户基于自有数据、工作流或场景描述构建定制 AI 基准测试，并对比模型在质量、单任务成本和单任务耗时上的表现。平台支持上传评估数据集或智能体轨迹，也可通过描述场景生成测试用例，提供基于评分标准或两两对比两种评估方式。Optima 现已上线，基准构建与运行仅按实际 token 成本计费，无加价。",
+      "category": "ai-products",
+      "score": 52,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsvf5k7m0hy2rosaz5umu2wx"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "工作流",
+        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
