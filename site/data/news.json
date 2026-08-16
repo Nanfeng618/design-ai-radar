@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-16T06:59:13.409Z",
-  "previousGeneratedAt": "2026-08-16T01:57:03.519Z",
+  "generatedAt": "2026-08-16T13:00:23.374Z",
+  "previousGeneratedAt": "2026-08-16T06:59:13.409Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
   "itemCount": 33,
@@ -71,34 +71,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmssdsxrc04ksrod05kfkw5xr",
-      "title": "Meta/Oxford 研究：多模态预训练仅需 5% 图像生成数据",
-      "title_en": "The Meta/Oxford study finds， a multimodal model may need surprisingly little image-generation data i…",
-      "url": "https://x.com/rohanpaul_ai/status/2088103654519968190",
-      "permalink": "https://aihot.virxact.com/items/cmssdsxrc04ksrod05kfkw5xr",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-08-14T03:21:20.000Z",
-      "discoveredAt": "2026-08-14T03:22:32.582Z",
-      "summary": "Meta 与牛津大学研究发现，若语言与视觉理解同步训练，多模态模型仅需极少量图像生成数据。1T token 实验中最佳配比为 70% 语言、25% 图像理解、5% 图像生成；13.5B 规模 2T token 测试中，图像生成 token 减少 5 倍，GenEval 仍从 0.467 提升至 0.482。研究还指出过晚引入视觉会导致\"视觉惰性\"，模型倾向依赖语言捷径。",
-      "category": "paper",
-      "score": 36,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmssdsxrc04ksrod05kfkw5xr"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 15,
-      "editorialScore": 18,
-      "tags": [
-        "图像生成",
-        "视觉",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmstjm1yo09x4ro0xc21wfr74",
       "title": "Gemini 3.7 Flash 配 Nano Banana 2 Lite 生成艺术图",
       "title_en": "Gemini 3.7 Flash prompt： > A low-angle minimalist view of a massive aircraft hovering inches above …",
@@ -124,6 +96,33 @@
         "图像",
         "提示词",
         "prompt"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsvptblg05z5rovm5q5664bu",
+      "title": "Grok版视频生成对比Seedance 2.5动作效果",
+      "title_en": "这是@grok 做的版本， 相比seedance 2.5， 动作类效果还是差很多🤣 但非常有Grok特色， 会主动呈现主体人物性感的一面",
+      "url": "https://x.com/AYi_AInotes/status/2088936060784902508",
+      "permalink": "https://aihot.virxact.com/items/cmsvptblg05z5rovm5q5664bu",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-08-16T10:29:02.000Z",
+      "discoveredAt": "2026-08-16T11:22:03.405Z",
+      "summary": "博主对比测试发现，Grok制作的视频版本在动作类效果上仍逊于Seedance 2.5，但极具Grok特色，会主动呈现主体人物性感的一面。此前博主用Seedance 2.5将AIGC美女图转为视频，8段画面动作与运镜全程丝滑不漂移，带来\"迟到二十年的补偿感\"。",
+      "category": "tip",
+      "score": 40,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsvptblg05z5rovm5q5664bu"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -433,6 +432,62 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
+      "id": "cmsvptx2m061frovmjoavsi0l",
+      "title": "新兴多智能体系统的模式与问题",
+      "title_en": null,
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "permalink": "https://aihot.virxact.com/items/cmsvptx2m061frovmjoavsi0l",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-16T11:17:57.393Z",
+      "discoveredAt": "2026-08-16T11:22:31.379Z",
+      "summary": "随着AI智能体在共享代码库、市场等社会系统中承担更多任务，智能体间的真实交互将激增，其交互量可能超过人机交互。Anthropic实验显示，协调式智能体群在2700万token运行中发现266个漏洞，远超独立并行方法的21个，但两者互补性明显。智能体虽擅长工具使用，但在长期协作与协调方面仍面临挑战。",
+      "category": "paper",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsvptx2m061frovmjoavsi0l"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmsvmniq603j8rovmxx1oe7iv",
+      "title": "DeepSeek Harness 3天斩获12.2万星",
+      "title_en": "DeepSeek Harness reached 122K+ GitHub stars in 3 days， one of the fastest to rise in GitHub's histor…",
+      "url": "https://x.com/rohanpaul_ai/status/2088924161959927819",
+      "permalink": "https://aihot.virxact.com/items/cmsvmniq603j8rovmxx1oe7iv",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-08-16T09:41:45.000Z",
+      "discoveredAt": "2026-08-16T09:53:33.486Z",
+      "summary": "DeepSeek Harness 发布3天即获12.2万+ GitHub 星标，成为 GitHub 历史上增长最快的项目之一。该编排层可将模型、工具、存储、调度乃至 UI 全部作为可替换插件，支持将 Claude Code 或 Codex 接入作为子智能体，并采用 MIT 许可。同期 DeepSeek 将缓存命中输入价格提高6至12倍，而缓存输入正是智能体循环的核心消耗。",
+      "category": "ai-products",
+      "score": 51,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsvmniq603j8rovmxx1oe7iv"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "ui",
+        "codex",
+        "claude code",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "cmsuqulw707dbrouhqjb6blkn",
       "title": "DeepSeek Harness：让智能体状态有明确归属",
       "title_en": "https://x.com/i/article/2088681782606536704",
@@ -734,60 +789,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmssi37ln03nfroffepuj2zfn",
-      "title": "Grok 4.6 多模态理解大幅升级",
-      "title_en": "Try Grok 4.6 image &amp； video understanding， it's a major upgrade！",
-      "url": "https://x.com/elonmusk/status/2088127459971522726",
-      "permalink": "https://aihot.virxact.com/items/cmssi37ln03nfroffepuj2zfn",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "publishedAt": "2026-08-14T04:55:56.000Z",
-      "discoveredAt": "2026-08-14T05:22:29.467Z",
-      "summary": "Elon Musk 称 Grok 4.6 的图像与视频理解能力是一次重大升级。引用推文指出，Grok 4.6 多模态相较 4.5 是阶跃式改进，在视频审阅等日常工作中可将生产力提升至少 10 倍，甚至 100 倍。该模型在作者的实际用例中超越了 Gemini 3.5 和 Gemma 4。",
-      "category": "ai-models",
-      "score": 29,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmssi37ln03nfroffepuj2zfn"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmsshe0ey03adroffv3xzdmxe",
-      "title": "ChunUI 开源：iOS 快速开发 UI 质感组件库",
-      "title_en": "iOS 快速开发或迭代现有软件的UI质感。 可选用 ChunUI ，搭配 ChunUI Skill （内置）。 自带一个组件集合 Demo App 开源地址：https://github.com/li...",
-      "url": "https://x.com/chunxiangai/status/2088123773023367480",
-      "permalink": "https://aihot.virxact.com/items/cmsshe0ey03adroffv3xzdmxe",
-      "source": "X：赵纯想 (@chunxiangai)",
-      "publishedAt": "2026-08-14T04:41:17.000Z",
-      "discoveredAt": "2026-08-14T05:02:54.771Z",
-      "summary": "赵纯想发布 ChunUI，一款用于 iOS 快速开发或迭代现有软件 UI 质感的组件库，内置 ChunUI Skill，并附带开源 Demo App（GitHub 地址已提供）。生产级实际应用已上架 TestFlight，订阅不扣钱、为模拟扣款，作者鼓励用户订阅体验。",
-      "category": "ai-products",
-      "score": 55,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsshe0ey03adroffv3xzdmxe"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "ui",
-        "skill"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmsuizf8p01ylro1fvrkdedd8",
       "title": "OpenAI 2026 年已流失 12 位高管，Scott Gray 离职",
       "title_en": "Scott Gray leaves OpenAI. He joined the company in 2016 and helped build the GPU infrastructure behi…",
@@ -810,6 +811,32 @@
       "editorialScore": 9,
       "tags": [
         "sora"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmstzp5iy0nv6ro0xgpfqfg3t",
+      "title": "Runway 上线 Seedance 2.5 1080p 高清版",
+      "title_en": "Seedance 2.5 in 1080p is now live on Runway. Early access starts today， bringing sharper detail at h…",
+      "url": "https://x.com/runwayml/status/2088510581120647272",
+      "permalink": "https://aihot.virxact.com/items/cmstzp5iy0nv6ro0xgpfqfg3t",
+      "source": "X：Runway (@runwayml)",
+      "publishedAt": "2026-08-15T06:18:19.000Z",
+      "discoveredAt": "2026-08-15T06:23:12.940Z",
+      "summary": "Seedance 2.5 1080p 现已上线 Runway。今日起开放抢先体验，以更高分辨率呈现更锐利的细节。\n\n点击下方链接即可开始使用。",
+      "category": "ai-models",
+      "score": 44,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmstzp5iy0nv6ro0xgpfqfg3t"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "runway"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -892,32 +919,6 @@
       "tags": [
         "工作流",
         "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmssdt0sd04m6rod0si1fju7z",
-      "title": "构建推理型 LLM：SupraLabs 推理语料库的流式处理、筛选与微调实用指南",
-      "title_en": "Create a Reasoning-Focused LLM： A Practical Guide to Streaming， Curating， and Fine-Tuning the SupraLabs Reasoning Corpus",
-      "url": "https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus",
-      "permalink": "https://aihot.virxact.com/items/cmssdt0sd04m6rod0si1fju7z",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-08-14T03:09:45.000Z",
-      "discoveredAt": "2026-08-14T03:22:35.660Z",
-      "summary": "本教程构建了处理 SupraLabs 推理语料库的端到端工作流：从 Hugging Face Hub 流式采样 8，000 条数据，分析来源分布、token 长度与推理占比，并应用质量过滤器剔除不合格样本。",
-      "category": "tip",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmssdt0sd04m6rod0si1fju7z"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "工作流"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     }
