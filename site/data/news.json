@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-16T13:00:23.374Z",
-  "previousGeneratedAt": "2026-08-16T06:59:13.409Z",
+  "generatedAt": "2026-08-17T01:55:12.885Z",
+  "previousGeneratedAt": "2026-08-16T13:00:23.374Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
   "itemCount": 33,
   "sourceCounts": {
     "X": 24,
-    "网站": 7,
-    "公众号": 2
+    "网站": 8,
+    "公众号": 1
   },
   "source": {
     "name": "AI HOT",
@@ -71,6 +71,61 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmswj8ec80uqvrovmp252ppxt",
+      "title": "BestBlogs 早报：Qwen 3.8 27B 与 Claude 水印等 10 条",
+      "title_en": "BestBlogs 早报 · 08-17 # OpenAI 设计负责人 / 持久化知识层 / Kalanick 实体自动化 / Qwen 3.8 27B / Claude 文本水印 【1】 ★ 精…",
+      "url": "https://x.com/hongming731/status/2089146558004748635",
+      "permalink": "https://aihot.virxact.com/items/cmswj8ec80uqvrovmp252ppxt",
+      "source": "X：洪明 (@hongming731)",
+      "publishedAt": "2026-08-17T00:25:28.000Z",
+      "discoveredAt": "2026-08-17T01:05:35.543Z",
+      "summary": "BestBlogs 08-17 早报精选 10 条 AI 内容：评测指 Qwen 3.8 27B 性能强大但默认 \"xhigh\" 推理设置致过度思考与生成缓慢；详解 Anthropic 采用 SynthID-Text 文本水印的机制与影响；另有 OpenAI 设计负责人谈设计师焦虑、持久化知识层架构、AI API 成本削减 95% 策略等。",
+      "category": "industry",
+      "score": 37,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmswj8ec80uqvrovmp252ppxt"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 11,
+      "editorialScore": 15,
+      "tags": [
+        "设计师",
+        "设计",
+        "自动化"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmswj8ec80uqwrovmjlphkd7q",
+      "title": "设计师焦虑源于期望不清，RAG 需持久知识层",
+      "title_en": "https://x.com/i/article/2089145885611655168",
+      "url": "https://x.com/hongming731/status/2089146510873366658",
+      "permalink": "https://aihot.virxact.com/items/cmswj8ec80uqwrovmjlphkd7q",
+      "source": "X：洪明 (@hongming731)",
+      "publishedAt": "2026-08-17T00:25:17.000Z",
+      "discoveredAt": "2026-08-17T01:05:35.543Z",
+      "summary": "OpenAI 设计负责人 Ian Silber 在 Lenny's Podcast 指出，设计师焦虑源于角色期望不清而非机会消失，工程师生产力提升 10-100 倍而设计团队未跟上，建议以 do less 和奖励好奇心应对。",
+      "category": "tip",
+      "score": 36,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmswj8ec80uqwrovmjlphkd7q"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 11,
+      "editorialScore": 15,
+      "tags": [
+        "设计师",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "cmstjm1yo09x4ro0xc21wfr74",
       "title": "Gemini 3.7 Flash 配 Nano Banana 2 Lite 生成艺术图",
       "title_en": "Gemini 3.7 Flash prompt： > A low-angle minimalist view of a massive aircraft hovering inches above …",
@@ -98,6 +153,33 @@
         "prompt"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmswdg3g90q4vrovmouqebiik",
+      "title": "Grok 4.6 登顶 VISTA 基准测试",
+      "title_en": "Grok 4.6 is officially #1 on the VISTA benchmark！ 🥇 It earned the highest score for turning Figma …",
+      "url": "https://x.com/cb_doge/status/2089115693770035704",
+      "permalink": "https://aihot.virxact.com/items/cmswdg3g90q4vrovmouqebiik",
+      "source": "X：cb_doge (@cb_doge)",
+      "publishedAt": "2026-08-16T22:22:49.000Z",
+      "discoveredAt": "2026-08-16T22:23:37.453Z",
+      "summary": "Grok 4.6 在 VISTA 基准测试中正式排名第一！🥇\n\n它在将 Figma 设计转化为可运行网页应用方面获得了最高分，超越了 GPT-5.6-sol 和 Claude fable-5。",
+      "category": "tip",
+      "score": 33,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmswdg3g90q4vrovmouqebiik"
+      },
+      "sourceType": "X",
+      "designCategory": "设计工具",
+      "relevanceScore": 9,
+      "editorialScore": 14,
+      "tags": [
+        "figma",
+        "设计"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "cmsvptblg05z5rovm5q5664bu",
@@ -205,34 +287,6 @@
       "tags": [
         "视频生成",
         "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmssu8rif0getroffktizwnng",
-      "title": "玉伯推荐 Anthropic 风格插画 Skill",
-      "title_en": "Anthropic 风格插画 Skill 一枚 很好用 + 喜欢 + 推荐",
-      "url": "https://x.com/lifesinger/status/2088216125549240578",
-      "permalink": "https://aihot.virxact.com/items/cmssu8rif0getroffktizwnng",
-      "source": "X：Frank Wang 玉伯 (@lifesinger)",
-      "publishedAt": "2026-08-14T10:48:16.000Z",
-      "discoveredAt": "2026-08-14T11:02:44.926Z",
-      "summary": "玉伯推荐一款 YouMind 新发布的「Anthropic 风格插画」Skill。输入主题即可生成简单、克制、带手绘感的概念插画，适合做文章配图、封面或抽象概念的视觉隐喻。链接：https://youmind.com/skills/anthropic-paper-cut-illustrations-KRTYyHOBadqVOr",
-      "category": "tip",
-      "score": 32,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmssu8rif0getroffktizwnng"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "配图",
-        "视觉",
-        "skill"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -373,63 +427,6 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmssmdr2n09flroff4mew7dxd",
-      "title": "DeepSeek Harness 实测：灵活切换多模型",
-      "title_en": "We just tested DeepSeek Harness， and it's more flexible than we expected. We initially assumed it wa…",
-      "url": "https://x.com/thexpin/status/2088161448971075965",
-      "permalink": "https://aihot.virxact.com/items/cmssmdr2n09flroff4mew7dxd",
-      "source": "X：X.PIN (@thexpin)",
-      "publishedAt": "2026-08-14T07:11:00.000Z",
-      "discoveredAt": "2026-08-14T07:22:40.605Z",
-      "summary": "我们刚测试了 DeepSeek Harness，它比我们预期的更灵活。我们最初以为它又是一个 Claude Code，但 Harness 可以在多个模型之间即时切换，并连接支持视觉的模型，让 DeepSeek 分析图像。其团队将目标描述为\"时间性\"和\"空间性可组合\"：工具可以动态安装、调整和移除，而不会破坏系统。这将是一个为无限扩展而构建、不会频繁崩溃的平台。",
-      "category": "tip",
-      "score": 40,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmssmdr2n09flroff4mew7dxd"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视觉",
-        "图像",
-        "claude code"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmssmcebr097rroffc79obspy",
-      "title": "Phone Harness 实机教程：让 Codex 控制 iPhone 跑任务",
-      "title_en": "https://x.com/i/article/2088106304552263680",
-      "url": "https://x.com/AYi_AInotes/status/2088151691229123013",
-      "permalink": "https://aihot.virxact.com/items/cmssmcebr097rroffc79obspy",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-08-14T06:32:13.000Z",
-      "discoveredAt": "2026-08-14T07:21:36.169Z",
-      "summary": "阿易 AI Notes 发布 Phone Harness 实机教程，让 Codex、Claude Code 等 Agent 无需越狱即可控制锁屏 iPhone，完成开 APP、点按钮、读屏幕等操作。教程覆盖本地安装、权限避坑、云端异步任务设置，并附岗位早报 Prompt。作者实测合盖睡觉时 Agent 在云端手机自动跑任务，醒来邮箱已收到整理好的 12 个新 AI 岗位。",
-      "category": "tip",
-      "score": 69,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmssmcebr097rroffc79obspy"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 10,
-      "editorialScore": 11,
-      "tags": [
-        "prompt",
-        "codex",
-        "claude code",
-        "agent"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmsvptx2m061frovmjoavsi0l",
@@ -761,30 +758,28 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmssrqigs0dunrofft7lsp2ew",
-      "title": "RedNote 开源 dots3-note 预览版，280B MoE 智能体模型",
-      "title_en": "Nice： RedNote just open-sourced dots3-note Preview， a 280b multimodal MoE built for agents that oper…",
-      "url": "https://x.com/kimmonismus/status/2088194805654323617",
-      "permalink": "https://aihot.virxact.com/items/cmssrqigs0dunrofft7lsp2ew",
-      "source": "X：Kim (@kimmonismus)",
-      "publishedAt": "2026-08-14T09:23:33.000Z",
-      "discoveredAt": "2026-08-14T09:52:33.464Z",
-      "summary": "RedNote 开源 dots3-note Preview，一款 280B MoE 多模态智能体模型，仅 16B 参数同时激活，支持 512K 上下文及文本、图像、视频和音频理解。",
-      "category": "ai-models",
-      "score": 51,
-      "selected": false,
+      "id": "cmswesk6a0r2hrovml2edcl2c",
+      "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
+      "title_en": "Qwen 3.8 27B is excellent， but it defaults to wildly overthinking things",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
+      "permalink": "https://aihot.virxact.com/items/cmswesk6a0r2hrovml2edcl2c",
+      "source": "Simon Willison 博客",
+      "publishedAt": "2026-08-16T22:00:39.000Z",
+      "discoveredAt": "2026-08-16T23:01:19.206Z",
+      "summary": "阿里 Qwen 实验室发布 Apache 2 许可的 27B 参数视觉大模型 Qwen 3.8 27B，官方基准显示其超越前代 Qwen 3.6 27B 及闭源 Qwen 3.7-Plus。",
+      "category": "tip",
+      "score": 73,
+      "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmssrqigs0dunrofft7lsp2ew"
+        "canonical": "https://aihot.virxact.com/items/cmswesk6a0r2hrovml2edcl2c"
       },
-      "sourceType": "X",
+      "sourceType": "网站",
       "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
+      "relevanceScore": 6,
+      "editorialScore": 9,
       "tags": [
-        "视频",
-        "图像",
-        "智能体"
+        "视觉"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -841,30 +836,29 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmssv94cg0h4mroffsb9e7a88",
-      "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-      "title_en": "dots3-note Preview：迈向服务真实生活的长程智能体，坚定的第一步",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
-      "permalink": "https://aihot.virxact.com/items/cmssv94cg0h4mroffsb9e7a88",
-      "source": "公众号：小红书技术（dots.llm）",
-      "publishedAt": "2026-08-14T11:25:29.000Z",
-      "discoveredAt": "2026-08-14T11:31:00.943Z",
-      "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
-      "category": "ai-models",
-      "score": 79,
-      "selected": true,
+      "id": "cmste96kt04gzro0xqjibwawd",
+      "title": "Runway 第二届虚构产品广告大赛揭晓",
+      "title_en": "Congratulations to the second cohort of creatives whose work won big in Runway's Another Big Ad Cont…",
+      "url": "https://x.com/runwayml/status/2088354331540222178",
+      "permalink": "https://aihot.virxact.com/items/cmste96kt04gzro0xqjibwawd",
+      "source": "X：Runway (@runwayml)",
+      "publishedAt": "2026-08-14T19:57:27.000Z",
+      "discoveredAt": "2026-08-14T20:22:56.632Z",
+      "summary": "恭喜第二批创作者，他们的作品在 Runway 的\"Another Big Ad Contest for Products That Don't Exist\"中脱颖而出。在我们收到的数千份涵盖各种类型、简报和格式的广告作品中，仅有 15 位获奖者入选。\n\n以下是最佳 5 支广告。",
+      "category": "industry",
+      "score": 25,
+      "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmssv94cg0h4mroffsb9e7a88"
+        "canonical": "https://aihot.virxact.com/items/cmste96kt04gzro0xqjibwawd"
       },
-      "sourceType": "公众号",
+      "sourceType": "X",
       "designCategory": "图像与视频",
       "relevanceScore": 6,
       "editorialScore": 9,
       "tags": [
-        "视觉",
-        "agent",
-        "智能体"
+        "runway",
+        "广告"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
