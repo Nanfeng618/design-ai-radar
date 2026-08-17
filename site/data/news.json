@@ -1,19 +1,76 @@
 {
-  "generatedAt": "2026-08-17T01:55:12.885Z",
-  "previousGeneratedAt": "2026-08-16T13:00:23.374Z",
+  "generatedAt": "2026-08-17T07:15:49.155Z",
+  "previousGeneratedAt": "2026-08-17T01:55:12.885Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 33,
+  "itemCount": 35,
   "sourceCounts": {
     "X": 24,
-    "网站": 8,
-    "公众号": 1
+    "公众号": 2,
+    "网站": 9
   },
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com"
   },
   "items": [
+    {
+      "id": "cmswo623a020croztlmy1b76f",
+      "title": "MiniMax H3 本地生成水獭视频，质量飞跃",
+      "title_en": "Less than two years later， this is the quality of the video of an otter using a laptop on an airplan…",
+      "url": "https://x.com/emollick/status/2089185499197911391",
+      "permalink": "https://aihot.virxact.com/items/cmswo623a020croztlmy1b76f",
+      "source": "X：Ethan Mollick (@emollick)",
+      "publishedAt": "2026-08-17T03:00:12.000Z",
+      "discoveredAt": "2026-08-17T03:23:43.923Z",
+      "summary": "Ethan Mollick 用开源权重视频生成模型 MiniMax H3 在本地电脑上生成了一段带声音的水獭用笔记本视频，耗时约 3 分钟。他对比两年前指出，虽仍不及 SOTA 文生视频，但完全离线运行是全新能力，进步迅速。",
+      "category": "tip",
+      "score": 49,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmswo623a020croztlmy1b76f"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 18,
+      "editorialScore": 21,
+      "tags": [
+        "视频生成",
+        "文生视频",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmswpgyb60331rozt4jazc0st",
+      "title": "给MiniMax H3烧了5万AI视频积分后，8种最适合它的新玩法分享",
+      "title_en": "给MiniMax H3烧了5万AI视频积分后，是时候分享8种最适合它的新玩法了",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509658&idx=1&sn=682a0d188eb59937a0cb05842fbfcadd",
+      "permalink": "https://aihot.virxact.com/items/cmswpgyb60331rozt4jazc0st",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-08-17T01:04:26.000Z",
+      "discoveredAt": "2026-08-17T04:00:11.044Z",
+      "summary": "MiniMax H3在动漫PV、动态海报、游戏开场等创意视频上表现突出，转场更自然，常能给出提示语之外的惊喜效果。实测覆盖广告、电商、游戏、UI四个商业方向共8种玩法，H3在实拍与二维手绘结合、UI动效设计上尤为擅长。该模型已开源，按MiniMax Design套餐折算2K低至约0.5元每秒、768P约0.23元每秒，且在Artificial Analysis有声视频编辑榜排第一。",
+      "category": "tip",
+      "score": 67,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmswpgyb60331rozt4jazc0st"
+      },
+      "sourceType": "公众号",
+      "designCategory": "产品与体验",
+      "relevanceScore": 15,
+      "editorialScore": 19,
+      "tags": [
+        "海报",
+        "ui",
+        "design",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
     {
       "id": "cmst6r2pq06hgro06wcthv38b",
       "title": "中国为何赢下AI视频竞赛：生态而非模型",
@@ -69,6 +126,34 @@
         "产品经理"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmswn3i3k0xhprovmooexfomk",
+      "title": "PixVerse 展示 MiniMax H3 电影级预告片效果",
+      "title_en": "Great example of what MiniMax H3 can pull off",
+      "url": "https://x.com/PixVerse_/status/2089182609746133178",
+      "permalink": "https://aihot.virxact.com/items/cmswn3i3k0xhprovmooexfomk",
+      "source": "X：PixVerse (@PixVerse_)",
+      "publishedAt": "2026-08-17T02:48:43.000Z",
+      "discoveredAt": "2026-08-17T02:53:46.050Z",
+      "summary": "PixVerse 官方分享了一段用 MiniMax H3 生成的电影预告片《THE DRAGON RIDER》，展示该模型在视频生成上的能力。预告片融合街头时尚、功夫、未来滑板与金龙元素，并包含 3D 字体、霓虹招牌、速度变奏等电影级镜头效果。",
+      "category": "tip",
+      "score": 25,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmswn3i3k0xhprovmooexfomk"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 14,
+      "editorialScore": 17,
+      "tags": [
+        "视频生成",
+        "视频",
+        "3d"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmswj8ec80uqvrovmp252ppxt",
@@ -153,6 +238,64 @@
         "prompt"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmswseh68022yrox7z5lczrhy",
+      "title": "AI 视频生成平台 Higgsfield 融资 4 亿美元，估值达 54 亿美元",
+      "title_en": "AI 视频生成平台 Higgsfield 从高盛、英特尔等处融资 4 亿美元，估值达 54 亿美元",
+      "url": "https://www.ithome.com/0/990/588.htm",
+      "permalink": "https://aihot.virxact.com/items/cmswseh68022yrox7z5lczrhy",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-17T04:27:29.000Z",
+      "discoveredAt": "2026-08-17T05:22:14.027Z",
+      "summary": "AI 视频生成平台 Higgsfield 从 DST Global、高盛、英特尔等投资者处筹集 4 亿美元，估值达 54 亿美元。该公司年化收入已从一年前的 2，000 万美元增至今年 8 月的 7 亿美元，全球用户超 3000 万。本轮融资将用于拓展企业订阅业务、加大算力建设，并帮助品牌利用 AI 每天制作多条营销视频。",
+      "category": "industry",
+      "score": 55,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmswseh68022yrox7z5lczrhy"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频",
+        "品牌",
+        "营销"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmswm0wv00wtjrovmjejv3lrt",
+      "title": "Grok Bot 四大设计决策：极简 UI 与云端持久化",
+      "title_en": "Grok @Bot has made a few simple yet powerful technical decisions that I believe make it easy and enj…",
+      "url": "https://x.com/leerob/status/2089169319099777364",
+      "permalink": "https://aihot.virxact.com/items/cmswm0wv00wtjrovmjejv3lrt",
+      "source": "X：Lee Robinson (@leerob)",
+      "publishedAt": "2026-08-17T01:55:55.000Z",
+      "discoveredAt": "2026-08-17T02:23:46.044Z",
+      "summary": "Grok Bot 通过四项技术决策实现易用性：采用极简 UI 并针对前沿模型能力设计；客户端薄封装、服务端厚封装以提升流畅度。其智能体连接常驻云端电脑，支持持久文件系统，并可调用浏览器自动化完成任务，甚至可将操作录制成可重复流程。",
+      "category": "tip",
+      "score": 47,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmswm0wv00wtjrovmjejv3lrt"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 10,
+      "editorialScore": 14,
+      "tags": [
+        "ui",
+        "设计",
+        "自动化",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmswdg3g90q4vrovmouqebiik",
@@ -396,34 +539,6 @@
       "editorialScore": 11,
       "tags": [
         "视觉",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmst0b9vk01v4rocfany84yh3",
-      "title": "Pomelli 更新：照片一键转动态视频",
-      "title_en": "Pomelli is our Google Labs experiment popular with a growing number of small businesses. Why？ It's o…",
-      "url": "https://x.com/joshwoodward/status/2088261701028503965",
-      "permalink": "https://aihot.virxact.com/items/cmst0b9vk01v4rocfany84yh3",
-      "source": "X：Josh Woodward (@joshwoodward, Google Labs VP)",
-      "publishedAt": "2026-08-14T13:49:22.000Z",
-      "discoveredAt": "2026-08-14T13:52:38.149Z",
-      "summary": "Google Labs 的 Pomelli 推出模板升级，用户可上传图片或使用预设模板生成社媒与广告视觉素材，并通过 Animate 功能将照片转为短视频或 GIF。该实验项目正吸引越来越多小企业用户，主打简单易用，现可免费试用。",
-      "category": "ai-products",
-      "score": 48,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmst0b9vk01v4rocfany84yh3"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视觉",
-        "广告",
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
@@ -730,34 +845,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmst3j14w03l1ro06bsjz8jmt",
-      "title": "Qwen3.8-27B 发布：小模型挑战前沿智能体",
-      "title_en": "Qwen-3.8 27b released！ Significant jump！ Qwen just released Qwen3.8-27B， a compact open-weight mult…",
-      "url": "https://x.com/kimmonismus/status/2088280043759780324",
-      "permalink": "https://aihot.virxact.com/items/cmst3j14w03l1ro06bsjz8jmt",
-      "source": "X：Kim (@kimmonismus)",
-      "publishedAt": "2026-08-14T15:02:15.000Z",
-      "discoveredAt": "2026-08-14T15:22:38.769Z",
-      "summary": "阿里通义千问发布 Qwen3.8-27B，仅 27B 参数的开源多模态模型，宣称在智能体编程、计算机使用、浏览器任务及长周期专业工作中达到 SOTA，多项基准超越 Claude Opus 4.6 Max。支持图像、视频、可配置推理，原生 262K 上下文窗口可扩展至 1M，Apache 2.0 协议可自托管。基准结果为官方自测，尚待独立验证。",
-      "category": "ai-models",
-      "score": 52,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmst3j14w03l1ro06bsjz8jmt"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "视频",
-        "图像",
-        "智能体"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmswesk6a0r2hrovml2edcl2c",
       "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
       "title_en": "Qwen 3.8 27B is excellent， but it defaults to wildly overthinking things",
@@ -832,33 +919,6 @@
       "editorialScore": 9,
       "tags": [
         "runway"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmste96kt04gzro0xqjibwawd",
-      "title": "Runway 第二届虚构产品广告大赛揭晓",
-      "title_en": "Congratulations to the second cohort of creatives whose work won big in Runway's Another Big Ad Cont…",
-      "url": "https://x.com/runwayml/status/2088354331540222178",
-      "permalink": "https://aihot.virxact.com/items/cmste96kt04gzro0xqjibwawd",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-08-14T19:57:27.000Z",
-      "discoveredAt": "2026-08-14T20:22:56.632Z",
-      "summary": "恭喜第二批创作者，他们的作品在 Runway 的\"Another Big Ad Contest for Products That Don't Exist\"中脱颖而出。在我们收到的数千份涵盖各种类型、简报和格式的广告作品中，仅有 15 位获奖者入选。\n\n以下是最佳 5 支广告。",
-      "category": "industry",
-      "score": 25,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmste96kt04gzro0xqjibwawd"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "runway",
-        "广告"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
