@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-18T07:03:59.624Z",
-  "previousGeneratedAt": "2026-08-18T01:50:34.820Z",
+  "generatedAt": "2026-08-18T13:07:12.877Z",
+  "previousGeneratedAt": "2026-08-18T07:03:59.624Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 52,
+  "itemCount": 57,
   "sourceCounts": {
-    "网站": 27,
     "X": 24,
+    "网站": 32,
     "公众号": 1
   },
   "source": {
@@ -14,6 +14,35 @@
     "url": "https://aihot.virxact.com"
   },
   "items": [
+    {
+      "id": "cmsyd9oce0rt1roz0hbvkuwoi",
+      "title": "与Codex相比Anthropic界面体验欠佳",
+      "title_en": "Compared to Codex， Anthropic's UI/UX is just bad unless you're using it through the CLI.",
+      "url": "https://x.com/kimmonismus/status/2089621198665621527",
+      "permalink": "https://aihot.virxact.com/items/cmsyd9oce0rt1roz0hbvkuwoi",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-08-18T07:51:31.000Z",
+      "discoveredAt": "2026-08-18T07:54:09.673Z",
+      "summary": "与 Codex 相比，Anthropic 的 UI/UX 体验不佳，除非你通过 CLI 使用它。",
+      "category": "tip",
+      "score": 23,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsyd9oce0rt1roz0hbvkuwoi"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 23,
+      "editorialScore": 27,
+      "tags": [
+        "ui/ux",
+        "ui",
+        "ux",
+        "界面"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
     {
       "id": "cmsxdu6n401h8roi2iy1elash",
       "title": "字节跳动与美国电影协会签署协议，加强 AI 模型版权保护",
@@ -159,6 +188,34 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmsydo1250sokroz0tdtxx20s",
+      "title": "TRACE-Bench：分解与诊断多参考图像生成",
+      "title_en": "TRACE-Bench： Decomposing and Diagnosing Multi-Reference Image Generation",
+      "url": "https://arxiv.org/abs/2608.16765",
+      "permalink": "https://aihot.virxact.com/items/cmsydo1250sokroz0tdtxx20s",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-17T00:00:00.000Z",
+      "discoveredAt": "2026-08-18T08:05:20.112Z",
+      "summary": "TRACE-Bench 将多参考图像生成任务形式化为 Anchor、Disentangle、Apply、Compose 四种原子操作，并据此构建约 1，600 个评测案例（覆盖 1-8 个操作槽位，源自 631 个公式模板与约 4，000 张参考图）。对 9 个领先模型的评测显示，主要瓶颈在于解耦与属性绑定而非场景级组合，最佳模型属性保真度得分仅 0.74。",
+      "category": "paper",
+      "score": 54,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsydo1250sokroz0tdtxx20s"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 18,
+      "editorialScore": 21,
+      "tags": [
+        "图像生成",
+        "image generation",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmsxqq46m07msroz0jt2la4p6",
       "title": "OpenRouter 图像生成 API：代码优先的接入教程",
       "title_en": "OpenRouter Image Generation： A Code-First API Tutorial",
@@ -241,6 +298,35 @@
         "ui",
         "design",
         "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmsyinad10ww0roz0454qu520",
+      "title": "Claude Code 新增 /design 命令，可在终端直接创建 UI 设计稿",
+      "title_en": "Claude Code gets a /design command that lets developers create UI mockups right in the terminal",
+      "url": "https://the-decoder.com/claude-code-gets-a-design-command-that-lets-developers-create-ui-mockups-right-in-the-terminal",
+      "permalink": "https://aihot.virxact.com/items/cmsyinad10ww0roz0454qu520",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-08-18T10:06:16.000Z",
+      "discoveredAt": "2026-08-18T10:24:42.806Z",
+      "summary": "Anthropic 在 Claude Code 中发布 /design 命令的早期预览版，开发者可在终端或桌面应用中直接创建设计稿。该命令能读取现有代码库、匹配当前 UI 风格，并生成多个可编辑的共享设计稿。相关编辑和提示功能来自 Claude Design，现已内置到 Claude Code 中，可通过运行 \"claude update\" 体验。",
+      "category": "ai-products",
+      "score": 58,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsyinad10ww0roz0454qu520"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 14,
+      "editorialScore": 18,
+      "tags": [
+        "ui",
+        "design",
+        "设计",
+        "claude code"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
@@ -639,60 +725,6 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cmsvptblg05z5rovm5q5664bu",
-      "title": "Grok版视频生成对比Seedance 2.5动作效果",
-      "title_en": "这是@grok 做的版本， 相比seedance 2.5， 动作类效果还是差很多🤣 但非常有Grok特色， 会主动呈现主体人物性感的一面",
-      "url": "https://x.com/AYi_AInotes/status/2088936060784902508",
-      "permalink": "https://aihot.virxact.com/items/cmsvptblg05z5rovm5q5664bu",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-08-16T10:29:02.000Z",
-      "discoveredAt": "2026-08-16T11:22:03.405Z",
-      "summary": "博主对比测试发现，Grok制作的视频版本在动作类效果上仍逊于Seedance 2.5，但极具Grok特色，会主动呈现主体人物性感的一面。此前博主用Seedance 2.5将AIGC美女图转为视频，8段画面动作与运镜全程丝滑不漂移，带来\"迟到二十年的补偿感\"。",
-      "category": "tip",
-      "score": 40,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsvptblg05z5rovm5q5664bu"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视频生成",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmsvcyazl0ecirosapw8sn8mt",
-      "title": "Seedance 2.5 视频生成：迟来二十年的补偿感",
-      "title_en": "趁着周末有空打磨AIGC基本功， 发现用Seedance 2.5做视频 有一种独特的爽感， 最强烈的一个感受已经不是AI好厉害了， 是一种迟到了二十年的补偿感😭😭 那些我们小时候画不出来、长大拍…",
-      "url": "https://x.com/AYi_AInotes/status/2088845636355440754",
-      "permalink": "https://aihot.virxact.com/items/cmsvcyazl0ecirosapw8sn8mt",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-08-16T04:29:43.000Z",
-      "discoveredAt": "2026-08-16T05:22:00.205Z",
-      "summary": "博主用 Seedance 2.5 将 AIGC 美女图转为视频，8 段画面动作与运镜一气呵成，全程不漂移，体验丝滑。其感叹 AI 让儿时想象直接成真，带来\"迟到了二十年的补偿感\"。引用推文称 Seedance 2.5 尺度比 2.0 开放，且能过审。",
-      "category": "tip",
-      "score": 34,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsvcyazl0ecirosapw8sn8mt"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视频生成",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmsy0dger0fu4roz0arxqw7xr",
       "title": "Claude Code 推出 /design 命令预览",
       "title_en": "go into CC and type /design &lt；something you want to design&gt； do it rn",
@@ -805,33 +837,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmsuytkv704a8rosa3fsfjxs0",
-      "title": "Opus 5 新输出风格：代码任务通过率97%",
-      "title_en": "this guy gets it",
-      "url": "https://x.com/dexhorthy/status/2088753878485373102",
-      "permalink": "https://aihot.virxact.com/items/cmsuytkv704a8rosa3fsfjxs0",
-      "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
-      "publishedAt": "2026-08-15T22:25:06.000Z",
-      "discoveredAt": "2026-08-15T22:46:25.069Z",
-      "summary": "有用户发现 Claude Opus 5 采用\"Attention-kind\"输出风格后，代码任务通过率达97%，输出缩短43%，75%的回答首行即出（默认仅3%），88%为纯交付内容。主推文借此提出应建立\"AI-人类交互\"（AHI）研究领域，反向设计AI如何更好与人类互动。",
-      "category": "tip",
-      "score": 21,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsuytkv704a8rosa3fsfjxs0"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "设计",
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmsxkakju0300roz0zx6cvdeu",
       "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
       "title_en": "如何禁用或避免侵入式人工智能",
@@ -883,6 +888,60 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsyd9rtm0rv4roz0nsv24zvf",
+      "title": "面壁智能 MiniCPM-o 4.5 全双工多模态交互解析",
+      "title_en": "Great walkthrough of MiniCPM-o 4.5 by @LearnOpenCV！ Unlike traditional turn-based multimodal system…",
+      "url": "https://x.com/OpenBMB/status/2089615191273300096",
+      "permalink": "https://aihot.virxact.com/items/cmsyd9rtm0rv4roz0nsv24zvf",
+      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "publishedAt": "2026-08-18T07:27:39.000Z",
+      "discoveredAt": "2026-08-18T07:54:14.485Z",
+      "summary": "面壁智能转发 @LearnOpenCV 对 MiniCPM-o 4.5 的深度解析。这款 9B 开源模型支持实时全双工交互，可同时处理实时视频、输入音频并生成语音回复。其统一流水线整合视觉、音频、推理与流式语音生成，实现更自然的 AI 交互体验。",
+      "category": "tip",
+      "score": 28,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsyd9rtm0rv4roz0nsv24zvf"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "交互",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsyc4zwj0r0lroz0cp758uj0",
+      "title": "全球首个独立运营的生物集成服务器机架原型亮相：新加坡国立大学联合 DayOne 与 Cortical Labs 推出",
+      "title_en": "全球首个独立运营的生物集成服务器机架原型亮相",
+      "url": "https://www.ithome.com/0/991/078.htm",
+      "permalink": "https://aihot.virxact.com/items/cmsyc4zwj0r0lroz0cp758uj0",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-18T06:28:29.000Z",
+      "discoveredAt": "2026-08-18T07:22:30.188Z",
+      "summary": "新加坡国立大学医学院携手 DayOne 和 Cortical Labs，推出全球首个独立运营的生物集成服务器机架原型，首批部署 20 个 CL1 生物计算系统。该系统利用人类干细胞培育的活体神经元连接硅基硬件处理信息，每个 CL1 单元仅耗电 30 瓦，神经元在生命维持系统支持下可存活长达六个月。",
+      "category": "ai-products",
+      "score": 46,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsyc4zwj0r0lroz0cp758uj0"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
+      "tags": [
+        "原型"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "cmsy1f3yh0gwaroz0gf9uvks0",
@@ -1046,29 +1105,85 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmsy53c720kikroz0affbixkz",
-      "title": "UI-Mate：用上下文演示推进开源基础 GUI 智能体",
-      "title_en": "UI-Mate： Advancing Open-Weight Foundation GUI Agents with In-Context Demonstrations",
-      "url": "https://arxiv.org/abs/2608.15930",
-      "permalink": "https://aihot.virxact.com/items/cmsy53c720kikroz0affbixkz",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-08-16T00:00:00.000Z",
-      "discoveredAt": "2026-08-16T00:00:00.000Z",
-      "summary": "UI-Mate 是一个开源基础 GUI 智能体，结合环境接地训练栈与上下文演示学习，并推出含 100 个长程办公任务的 OSWorkerBench 基准。",
-      "category": "ai-models",
-      "score": 65,
+      "id": "cmsymc5x111cdroz0rw1idyhi",
+      "title": "Alvys 推出面向货运 TMS 工作流的 AI 智能体平台 Alvys Foundry",
+      "title_en": "Alvys launches AI agents for freight TMS workflows",
+      "url": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms",
+      "permalink": "https://aihot.virxact.com/items/cmsymc5x111cdroz0rw1idyhi",
+      "source": "Artificial Intelligence News（RSS）",
+      "publishedAt": "2026-08-18T12:00:00.000Z",
+      "discoveredAt": "2026-08-18T12:08:01.778Z",
+      "summary": "货运软件商 Alvys 推出智能体 AI 平台 Alvys Foundry，让承运商和经纪商可直接在其运输管理系统（TMS）内自动化运营任务。该平台支持预置及自定义 AI 智能体，可与 TMS 中已有的货运数据和工作流协同，并包含 20 多个预置智能体。",
+      "category": "ai-products",
+      "score": 31,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsy53c720kikroz0affbixkz"
+        "canonical": "https://aihot.virxact.com/items/cmsymc5x111cdroz0rw1idyhi"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 9,
+      "editorialScore": 10,
+      "tags": [
+        "工作流",
+        "自动化",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmsyluxwj0zf0roz0zo88binv",
+      "title": "字节跳动与MPA签约强化AI版权保护",
+      "title_en": "ByteDance has signed an agreement with the Motion Picture Association （MPA） to strengthen copyright …",
+      "url": "https://x.com/thexpin/status/2089678585191907637",
+      "permalink": "https://aihot.virxact.com/items/cmsyluxwj0zf0roz0zo88binv",
+      "source": "X：X.PIN (@thexpin)",
+      "publishedAt": "2026-08-18T11:39:33.000Z",
+      "discoveredAt": "2026-08-18T11:54:39.723Z",
+      "summary": "字节跳动已与美国电影协会（MPA）签署协议，为其AI视频和图像模型Seedance、Seedream加强版权保护，这些模型支撑着TikTok、CapCut和Dreamina等产品。此前好莱坞对AI版权风险表示担忧，MPA今年早些时候也发出警告。字节跳动称新版Seedance和Seedream包含更强的知识产权保护措施，或为其AI生成工具在美国更广泛采用铺平道路。",
+      "category": "industry",
+      "score": 55,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsyluxwj0zf0roz0zo88binv"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "图像",
+        "版权"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsycmgww0rkrroz0nfma0z05",
+      "title": "设计 AI 评测：先求清晰，再谈可视化",
+      "title_en": "Designing AI Evals： Clarity Now and Visualization Next",
+      "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
+      "permalink": "https://aihot.virxact.com/items/cmsycmgww0rkrroz0nfma0z05",
+      "source": "Google AI：DEV 作者专属（RSS）",
+      "publishedAt": "2026-08-18T07:00:00.000Z",
+      "discoveredAt": "2026-08-18T07:36:07.408Z",
+      "summary": "本文演示如何用开源评测框架 Inspect AI 和 Harbor 评估 agent 技能，并借助 Google Sheets 和 Data Studio 进行可视化分析。",
+      "category": "tip",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsycmgww0rkrroz0nfma0z05"
       },
       "sourceType": "网站",
       "designCategory": "产品与体验",
-      "relevanceScore": 7,
-      "editorialScore": 11,
+      "relevanceScore": 6,
+      "editorialScore": 10,
       "tags": [
-        "ui",
-        "智能体"
+        "设计",
+        "agent"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
@@ -1207,31 +1322,58 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmsvptx2m061frovmjoavsi0l",
-      "title": "新兴多智能体系统的模式与问题",
-      "title_en": null,
-      "url": "https://www.anthropic.com/research/multiagent-systems",
-      "permalink": "https://aihot.virxact.com/items/cmsvptx2m061frovmjoavsi0l",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-16T11:17:57.393Z",
-      "discoveredAt": "2026-08-16T11:22:31.379Z",
-      "summary": "随着AI智能体在共享代码库、市场等社会系统中承担更多任务，智能体间的真实交互将激增，其交互量可能超过人机交互。Anthropic实验显示，协调式智能体群在2700万token运行中发现266个漏洞，远超独立并行方法的21个，但两者互补性明显。智能体虽擅长工具使用，但在长期协作与协调方面仍面临挑战。",
+      "id": "cmsyftlas0uieroz0xnkcfiss",
+      "title": "即插即用的2D运动接口：让真实世界运动语言模型无需微调即可工作",
+      "title_en": "A Plug-and-Play 2D Motion Interface for Real-World Motion Language Models",
+      "url": "https://arxiv.org/abs/2608.15984",
+      "permalink": "https://aihot.virxact.com/items/cmsyftlas0uieroz0xnkcfiss",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-17T00:00:00.000Z",
+      "discoveredAt": "2026-08-18T09:05:38.733Z",
+      "summary": "研究团队提出一种即插即用的2D运动接口，使3D预训练的运动语言模型（MoLMs）无需修改或微调即可接受2D运动输入。在公开数据集上，该方法在多个MoLMs上达到与3D运动输入相当的性能，并优于从头训练2D运动的模型。团队还构建了单目真实世界视频运动评估数据集并引入真实视频适配器，证明在单目姿态估计场景下2D运动比3D运动更具实用性。",
       "category": "paper",
-      "score": 73,
-      "selected": true,
+      "score": 44,
+      "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsvptx2m061frovmjoavsi0l"
+        "canonical": "https://aihot.virxact.com/items/cmsyftlas0uieroz0xnkcfiss"
       },
       "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
       "editorialScore": 10,
       "tags": [
-        "交互",
-        "智能体"
+        "视频",
+        "3d"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsygfaps0upzroz0pz0wjre5",
+      "title": "奇瑞全新 QQ3 摩登版预热，8 月 21 日成都车展正式亮相",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/991/175.htm",
+      "permalink": "https://aihot.virxact.com/items/cmsygfaps0upzroz0pz0wjre5",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-18T08:42:12.000Z",
+      "discoveredAt": "2026-08-18T09:22:30.528Z",
+      "summary": "奇瑞官方放出全新 QQ3 摩登版预热海报，该车型将于 8 月 21 日开幕的第二十九届成都国际汽车展览会正式亮相。新车采用\"Neo Retro\"新摩登设计理念，提供\"英伦绿\"和\"奶咖色\"两种专属配色。动力上采用后置后驱布局，提供 58 千瓦和 90 千瓦两种电机，CLTC 续航分别为 310 公里与 420 公里。",
+      "category": "ai-products",
+      "score": 5,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsygfaps0upzroz0pz0wjre5"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "海报",
+        "设计"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmswesk6a0r2hrovml2edcl2c",
@@ -1284,6 +1426,32 @@
         "提示词",
         "agent",
         "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmsylv1qw0zg2roz01an93zi6",
+      "title": "JAMA 评论文章：AI 超越医生时，监管者不应强制人类介入",
+      "title_en": "As AI beats doctors， regulators shouldn't force a human into the loop， JAMA piece says",
+      "url": "https://the-decoder.com/as-ai-beats-doctors-regulators-shouldnt-force-a-human-into-the-loop-jama-piece-says",
+      "permalink": "https://aihot.virxact.com/items/cmsylv1qw0zg2roz01an93zi6",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-08-18T11:43:02.000Z",
+      "discoveredAt": "2026-08-18T11:54:42.918Z",
+      "summary": "《JAMA》发表评论文章预测，自主 AI 在医学推理上将超越任何医生与 AI 的组合，并呼吁监管者不要将人类介入写入规则。作者援引研究称，ChatGPT o3 在 377 个复杂病例中 60% 首先给出正确诊断，而 20 名内科医生仅为 15.9%；GPT-4 单独诊断推理得分 92%，使用同一模型的医生仅 76%。文章预计到 2030 年自主 AI 可胜任部分认知类医疗工作流。",
+      "category": "tip",
+      "score": 64,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsylv1qw0zg2roz01an93zi6"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "工作流"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -1383,33 +1551,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsxf8cmu02slroi2hvfzgfff"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "工作流",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmsvf5k7m0hy2rosaz5umu2wx",
-      "title": "Artificial Analysis 推出 Optima：让用户用自有数据构建定制 AI 基准测试",
-      "title_en": "Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data",
-      "url": "https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data",
-      "permalink": "https://aihot.virxact.com/items/cmsvf5k7m0hy2rosaz5umu2wx",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-08-16T05:50:50.000Z",
-      "discoveredAt": "2026-08-16T06:23:36.815Z",
-      "summary": "Artificial Analysis 发布新平台 Optima，允许用户基于自有数据、工作流或场景描述构建定制 AI 基准测试，并对比模型在质量、单任务成本和单任务耗时上的表现。平台支持上传评估数据集或智能体轨迹，也可通过描述场景生成测试用例，提供基于评分标准或两两对比两种评估方式。Optima 现已上线，基准构建与运行仅按实际 token 成本计费，无加价。",
-      "category": "ai-products",
-      "score": 52,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsvf5k7m0hy2rosaz5umu2wx"
       },
       "sourceType": "网站",
       "designCategory": "工作流与 Agent",
