@@ -1,19 +1,106 @@
 {
-  "generatedAt": "2026-08-17T13:05:36.748Z",
-  "previousGeneratedAt": "2026-08-17T07:15:49.155Z",
+  "generatedAt": "2026-08-18T01:50:34.820Z",
+  "previousGeneratedAt": "2026-08-17T13:05:36.748Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 35,
+  "itemCount": 42,
   "sourceCounts": {
+    "网站": 17,
     "X": 24,
-    "公众号": 2,
-    "网站": 9
+    "公众号": 1
   },
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com"
   },
   "items": [
+    {
+      "id": "cmsxdu6n401h8roi2iy1elash",
+      "title": "字节跳动与美国电影协会签署协议，加强 AI 模型版权保护",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/990/847.htm",
+      "permalink": "https://aihot.virxact.com/items/cmsxdu6n401h8roi2iy1elash",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-17T15:06:14.000Z",
+      "discoveredAt": "2026-08-17T15:22:20.136Z",
+      "summary": "字节跳动与美国电影协会（MPA）签署协议，加强 AI 视频与图像生成模型的版权保护。协议涵盖 Seedance 视频生成模型和 Seedream 图像生成模型，二者通过 TikTok、CapCut 和 Dreamina 等应用提供服务。字节表示，新版本 Seedance 和 Seedream 已加入更强的知识产权保护机制，双方将随 AI 发展继续完善版权防护。",
+      "category": "industry",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsxdu6n401h8roi2iy1elash"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 22,
+      "editorialScore": 25,
+      "tags": [
+        "图像生成",
+        "视频生成",
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsxleatz03qbroz09n0vlyq8",
+      "title": "MiniMax H3 视频模型助力游戏精灵创建",
+      "title_en": "This is super cool！ Sota video generation models like our MiniMax H3 understand the movement of a …",
+      "url": "https://x.com/MiniMax_AI/status/2089420340728610890",
+      "permalink": "https://aihot.virxact.com/items/cmsxleatz03qbroz09n0vlyq8",
+      "source": "X：MiniMax (@MiniMax_AI)",
+      "publishedAt": "2026-08-17T18:33:23.000Z",
+      "discoveredAt": "2026-08-17T18:53:57.488Z",
+      "summary": "MiniMax 称其 SOTA 视频生成模型 H3 能精准理解行走角色动作，而最新图像生成模型仍难保持行走动作一致。引用推文展示了 H3 用于游戏精灵创建的工作流：单张角色设计图配纯品红背景，每个动作生成 5 秒 H3 片段，裁剪至姿态极限并抠像打包成精灵图集，接入状态机即可游玩（8 个动作约 $5）。",
+      "category": "tip",
+      "score": 31,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsxleatz03qbroz09n0vlyq8"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 21,
+      "editorialScore": 24,
+      "tags": [
+        "图像生成",
+        "视频生成",
+        "设计",
+        "工作流"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsxleatz03qaroz0g0679jz5",
+      "title": "MiniMax H3 本地视频生成资源与实测分享",
+      "title_en": "Thank you！ Very useful resources on making videos with the Minimax H3 model on an RTX 4090 （24GB） �…",
+      "url": "https://x.com/MiniMax_AI/status/2089421390374138178",
+      "permalink": "https://aihot.virxact.com/items/cmsxleatz03qaroz0g0679jz5",
+      "source": "X：MiniMax (@MiniMax_AI)",
+      "publishedAt": "2026-08-17T18:37:33.000Z",
+      "discoveredAt": "2026-08-17T18:53:57.488Z",
+      "summary": "MiniMax 官方分享了用 H3 模型在 RTX 4090（24GB）上本地生成视频的实用资源，并引用了 @Lumosous 的实测体验：通过 ComfyUI 实现文生视频、音乐节拍同步和图生视频三种玩法，官方 H3 Prompt Writing Skill 可把想法转为结构化提示词。",
+      "category": "tip",
+      "score": 29,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsxleatz03qaroz0g0679jz5"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 18,
+      "editorialScore": 21,
+      "tags": [
+        "视频生成",
+        "文生视频",
+        "视频",
+        "提示词"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
     {
       "id": "cmswo623a020croztlmy1b76f",
       "title": "MiniMax H3 本地生成水獭视频，质量飞跃",
@@ -41,6 +128,63 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsxqq46m07msroz0jt2la4p6",
+      "title": "OpenRouter 图像生成 API：代码优先的接入教程",
+      "title_en": "OpenRouter Image Generation： A Code-First API Tutorial",
+      "url": "https://openrouter.ai/blog/tutorials/image-generation",
+      "permalink": "https://aihot.virxact.com/items/cmsxqq46m07msroz0jt2la4p6",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-08-17T00:00:00.000Z",
+      "discoveredAt": "2026-08-17T21:23:06.685Z",
+      "summary": "OpenRouter 推出专用图像生成 API，通过统一请求格式和单一密钥即可调用多个提供商的图像模型。开发者向 POST /api/v1/images 发送请求，响应中的 data【0】.b64_json 包含 base64 编码的图像数据，解码后即可保存为本地文件。教程演示了 Python 和 JavaScript 两种实现，并支持通过 input_references 传入参考图像生成变体。",
+      "category": "ai-products",
+      "score": 56,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsxqq46m07msroz0jt2la4p6"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 18,
+      "editorialScore": 21,
+      "tags": [
+        "图像生成",
+        "image generation",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsxswiog0a8croz031jgw1s3",
+      "title": "Claude Code 新技能 /design 支持 UI 设计",
+      "title_en": "Claude Code can design now. The new /design skill （research preview） brings Claude Design's artboard…",
+      "url": "https://x.com/ClaudeDevs/status/2089471692762673408",
+      "permalink": "https://aihot.virxact.com/items/cmsxswiog0a8croz031jgw1s3",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "publishedAt": "2026-08-17T21:57:26.000Z",
+      "discoveredAt": "2026-08-17T22:24:02.940Z",
+      "summary": "Claude Code 现在可以设计了。新的 /design 技能（研究预览）将 Claude Design 的画板工作流带入 CLI 和 Desktop，基于 artifacts 构建。\n\n运行 /design 即可为你的 UI 获得可编辑画板--选择一个，调整它，然后让 Claude 实现它。",
+      "category": "ai-products",
+      "score": 63,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsxswiog0a8croz031jgw1s3"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 15,
+      "editorialScore": 19,
+      "tags": [
+        "ui",
+        "design",
+        "设计",
+        "工作流"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmswpgyb60331rozt4jazc0st",
@@ -72,62 +216,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmst6r2pq06hgro06wcthv38b",
-      "title": "中国为何赢下AI视频竞赛：生态而非模型",
-      "title_en": "https://x.com/i/article/2088305368686546944",
-      "url": "https://x.com/thexpin/status/2088307079853621342",
-      "permalink": "https://aihot.virxact.com/items/cmst6r2pq06hgro06wcthv38b",
-      "source": "X：X.PIN (@thexpin)",
-      "publishedAt": "2026-08-14T16:49:41.000Z",
-      "discoveredAt": "2026-08-14T16:52:53.129Z",
-      "summary": "字节跳动Seedance 2.5与MiniMax H3同日发布，中国厂商占据Artificial Analysis文生视频榜单前十中的九席。OpenAI退出Sora独立视频业务，因缺乏内容平台生态和付费循环，而Sora推理成本曾被估约每日1500万美元。中国创作者通过短视频平台付费生成内容，形成支撑模型迭代的商业闭环。",
-      "category": "tip",
-      "score": 52,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmst6r2pq06hgro06wcthv38b"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 16,
-      "editorialScore": 19,
-      "tags": [
-        "文生视频",
-        "sora",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmst6pn4b06arro06l6bmnri4",
-      "title": "DeepSeek Harness 组杭州热招多岗位",
-      "title_en": "如果你人在杭州或周边，想给 DeepSeek Harness 组投简历看机会，请联系我。 DeepSeek Harness 组招聘深度学习研究员、研发工程师、产品经理、设计师、开发者关系、社区运营、…",
-      "url": "https://x.com/tianyi/status/2088304053193421218",
-      "permalink": "https://aihot.virxact.com/items/cmst6pn4b06arro06l6bmnri4",
-      "source": "X：Tianyi Cui（@tianyi）",
-      "publishedAt": "2026-08-14T16:37:39.000Z",
-      "discoveredAt": "2026-08-14T16:51:46.957Z",
-      "summary": "DeepSeek Harness 组在杭州招聘深度学习研究员、研发工程师、产品经理、设计师、开发者关系、社区运营及项目经理，全职和实习岗位均开放。有意者可联系 Tianyi Cui（@tianyi）投递简历。",
-      "category": "industry",
-      "score": 29,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmst6pn4b06arro06l6bmnri4"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 14,
-      "editorialScore": 18,
-      "tags": [
-        "设计师",
-        "设计",
-        "产品经理"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmswn3i3k0xhprovmooexfomk",
       "title": "PixVerse 展示 MiniMax H3 电影级预告片效果",
       "title_en": "Great example of what MiniMax H3 can pull off",
@@ -152,6 +240,33 @@
         "视频生成",
         "视频",
         "3d"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsxi6ljs02tproswie6yj4cm",
+      "title": "Menlo 旗下 Wispr Flow 与 Higgsfield 双双完成巨额融资",
+      "title_en": "Big day for the Menlo portfolio. - Wispr Flow raises $280M led by us at $2B. ~40x YoY rev growth an…",
+      "url": "https://x.com/deedydas/status/2089398673230938591",
+      "permalink": "https://aihot.virxact.com/items/cmsxi6ljs02tproswie6yj4cm",
+      "source": "X：Deedy Das (@deedydas)",
+      "publishedAt": "2026-08-17T17:07:17.000Z",
+      "discoveredAt": "2026-08-17T17:23:58.349Z",
+      "summary": "Menlo Ventures 宣布旗下两家公司完成巨额融资：语音听写应用 Wispr Flow 融资 2.8 亿美元，估值 20 亿美元，年同比增长约 40 倍，累计听写超 600 亿词；AI 视频生成公司 Higgsfield 融资 4 亿美元，估值 54 亿美元，年化收入 12 个月内从 2000 万美元增至 7 亿美元。Menlo 强调应用层制胜关键在于极致产品力、增长、留存与变现。",
+      "category": "industry",
+      "score": 63,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsxi6ljs02tproswie6yj4cm"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "视频生成",
+        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -240,31 +355,87 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmstjm1yo09x4ro0xc21wfr74",
-      "title": "Gemini 3.7 Flash 配 Nano Banana 2 Lite 生成艺术图",
-      "title_en": "Gemini 3.7 Flash prompt： > A low-angle minimalist view of a massive aircraft hovering inches above …",
-      "url": "https://x.com/fofrAI/status/2088396528469545337",
-      "permalink": "https://aihot.virxact.com/items/cmstjm1yo09x4ro0xc21wfr74",
-      "source": "X：fofr (@fofrAI)",
-      "publishedAt": "2026-08-14T22:45:07.000Z",
-      "discoveredAt": "2026-08-14T22:52:55.402Z",
-      "summary": "fofr 展示了一组由 Gemini 3.7 Flash 配合 Nano Banana 2 Lite 生成的精选艺术作品。示例提示词描绘黄昏时分巨型飞机低空掠过跑道的极简画面，体现该组合在图像生成上的表现力。",
-      "category": "tip",
-      "score": 64,
+      "id": "cmsxw4wt70cfhroz0iq00cuuh",
+      "title": "Claude Code 新增 /design 命令预览",
+      "title_en": "ANTHROPIC 🔥： Claude Code got a new /design command in research preview！ Design in Claude Code add…",
+      "url": "https://x.com/testingcatalog/status/2089499940963643567",
+      "permalink": "https://aihot.virxact.com/items/cmsxw4wt70cfhroz0iq00cuuh",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "publishedAt": "2026-08-17T23:49:41.000Z",
+      "discoveredAt": "2026-08-17T23:54:34.001Z",
+      "summary": "ANTHROPIC 🔥：Claude Code 新增 /design 命令，处于研究预览阶段！\n\nClaude Code 中的 Design 功能引入了来自 Claude Design 的画板工作流，帮助用户构建可编辑的 UI。\n\nCCD 👀",
+      "category": "ai-products",
+      "score": 39,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmstjm1yo09x4ro0xc21wfr74"
+        "canonical": "https://aihot.virxact.com/items/cmsxw4wt70cfhroz0iq00cuuh"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 10,
+      "editorialScore": 14,
+      "tags": [
+        "ui",
+        "design",
+        "工作流",
+        "claude code"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmsxez39u02g5roi2r8tx23mf",
+      "title": "中国科技周报：DeepSeek V4 Pro 发布与机器人维修业兴起",
+      "title_en": "https://x.com/i/article/2089309485936594944",
+      "url": "https://x.com/thexpin/status/2089377433208164477",
+      "permalink": "https://aihot.virxact.com/items/cmsxez39u02g5roi2r8tx23mf",
+      "source": "X：X.PIN (@thexpin)",
+      "publishedAt": "2026-08-17T15:42:53.000Z",
+      "discoveredAt": "2026-08-17T15:54:08.948Z",
+      "summary": "DeepSeek 正式发布 V4 Pro，基准测试较预览版显著提升，同时大幅涨价使旗舰定价接近主要竞品。本周中国科技周报还聚焦人形机器人维修业兴起、AI 视频生成生态（如 Seedance 2.5 和 MiniMax H3）的商业化，以及苹果与阿里合作训练中文 LLM 等动态。",
+      "category": "industry",
+      "score": 40,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsxez39u02g5roi2r8tx23mf"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
+      "relevanceScore": 11,
+      "editorialScore": 14,
       "tags": [
-        "图像生成",
-        "图像",
-        "提示词",
-        "prompt"
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsxeyrbn02dnroi2615gaguj",
+      "title": "五台山海报设计：视觉聚核构图参考",
+      "title_en": "【主题】：五台山 · 清凉佛国 【中文标题】：五台山 【英文标题】：MOUNT WUTAI 【主体器物 / 核心对象】：五台山标志性白塔，以塔身作为绝对视觉核心；辅以五台山古寺建筑局部、青灰色山…",
+      "url": "https://x.com/frxiaobei/status/2089376261659640258",
+      "permalink": "https://aihot.virxact.com/items/cmsxeyrbn02dnroi2615gaguj",
+      "source": "X：小北 (@frxiaobei)",
+      "publishedAt": "2026-08-17T15:38:14.000Z",
+      "discoveredAt": "2026-08-17T15:53:52.333Z",
+      "summary": "小北分享五台山文化海报设计，以白塔为绝对视觉核心，采用\"同心环抱\"构图，让山势、寺院、文字与云雾共同向中心汇聚。整体以藏红、米白、青灰为主色，融合佛教建筑秩序与瑞士编辑设计语言，呈现博物馆展览海报气质。该设计源自@MrLarus提出的\"视觉聚核\"构图法，适合海报、封面及品牌视觉参考。",
+      "category": "tip",
+      "score": 53,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsxeyrbn02dnroi2615gaguj"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "海报",
+        "视觉",
+        "设计",
+        "品牌"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -408,57 +579,59 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmstb170j01ggrov3omxuqurl",
-      "title": "MiniMax 将亮相 ModCon 分享 H3 视频生成",
-      "title_en": "We're excited to have @MorganSuoinMM at ModCon to share how H3 is changing AI video generation. See…",
-      "url": "https://x.com/MiniMax_AI/status/2088332365676580938",
-      "permalink": "https://aihot.virxact.com/items/cmstb170j01ggrov3omxuqurl",
-      "source": "X：MiniMax (@MiniMax_AI)",
-      "publishedAt": "2026-08-14T18:30:09.000Z",
-      "discoveredAt": "2026-08-14T18:52:45.061Z",
-      "summary": "MiniMax 美国业务负责人 Morgan Suo 将于 8 月 18 日在旧金山 ModCon 大会分享 H3 如何改变 AI 视频生成。H3 从设计之初就注重硬件兼容性，并已开源权重，可在多种芯片上运行。",
+      "id": "cmsxrsq2o089kroz06vevrzwx",
+      "title": "AI 自动化初创公司 Relay 关停，员工加入 Google Chrome 团队",
+      "title_en": "AI automation startup Relay shuts down， staff joins Google's Chrome team",
+      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team",
+      "permalink": "https://aihot.virxact.com/items/cmsxrsq2o089kroz06vevrzwx",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-08-17T21:27:05.000Z",
+      "discoveredAt": "2026-08-17T21:53:07.612Z",
+      "summary": "AI 工作流自动化工具 Relay 宣布关停，付费用户访问权限将于 9 月 14 日终止，免费用户已于 8 月 15 日失去访问权限。创始人兼 CEO Jacob Bank 将重返 Google，出任 Chrome 产品副总裁，负责产品与开发者关系团队。Bank 表示 Chrome 是\"与智能体协作的理想场所\"，但具体 AI 整合计划尚未公布。",
       "category": "industry",
-      "score": 22,
+      "score": 41,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmstb170j01ggrov3omxuqurl"
+        "canonical": "https://aihot.virxact.com/items/cmsxrsq2o089kroz06vevrzwx"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 12,
+      "editorialScore": 13,
+      "tags": [
+        "工作流",
+        "自动化",
+        "automation",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmsxaoe2402ywrobnbrmx0fot",
+      "title": "AI 如何重新定义艺术与创作门槛",
+      "title_en": "AI 带来的可能不只是一次创作工具的升级，而是会逼着人类重新定义一次什么叫艺术。 每一次工具革命，其实都在消灭上一代艺术里最昂贵的东西。 纸张和印刷让文字可以大规模传播，摄影让画得像不再稀缺，录音…",
+      "url": "https://x.com/frxiaobei/status/2089349801020457420",
+      "permalink": "https://aihot.virxact.com/items/cmsxaoe2402ywrobnbrmx0fot",
+      "source": "X：小北 (@frxiaobei)",
+      "publishedAt": "2026-08-17T13:53:05.000Z",
+      "discoveredAt": "2026-08-17T13:53:50.758Z",
+      "summary": "AI 同时抹平了文字、绘画、音乐、视频、3D 乃至虚拟世界的生产门槛，把过去属于少数专业创作者的表现能力大规模发给普通人。当画面、文字、声音、角色甚至世界本身都不再稀缺，艺术竞争将从\"谁做得更好\"转向\"谁能提出一种以前不存在的表达\"。AI 真正应催生的，是一种今天还没有名字、甚至不知该如何欣赏的新艺术形态。",
+      "category": "tip",
+      "score": 44,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsxaoe2402ywrobnbrmx0fot"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
+      "relevanceScore": 10,
+      "editorialScore": 13,
       "tags": [
-        "视频生成",
-        "设计",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmst9xgry05tbrodzw92lngkq",
-      "title": "Google Gemini 现可关闭可见水印",
-      "title_en": "You can now turn off Google Gemini&#8217；s visible watermarks",
-      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-      "permalink": "https://aihot.virxact.com/items/cmst9xgry05tbrodzw92lngkq",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-08-14T16:39:32.000Z",
-      "discoveredAt": "2026-08-14T18:21:51.731Z",
-      "summary": "Google 更新 Gemini 与 AI 视频生成器 Flow，新增\"Media watermark\"设置，关闭后生成的图片、视频和音乐将不再带有右下角的\"sparkle\"可见水印。但 AI 内容仍会嵌入不可见的 SynthID 水印和 C2PA 元数据，用户可通过 Gemini 或 Search 验证内容是否由 AI 生成。该设置后续将推广至 Search，但不会在要求可见水印的国家上线。",
-      "category": "ai-products",
-      "score": 38,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmst9xgry05tbrodzw92lngkq"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视频生成",
-        "视频"
+        "视频",
+        "摄影",
+        "3d"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -517,6 +690,302 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmsxkakju0300roz0zx6cvdeu",
+      "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+      "title_en": "如何禁用或避免侵入式人工智能",
+      "url": "https://www.librarian.net/notoai",
+      "permalink": "https://aihot.virxact.com/items/cmsxkakju0300roz0zx6cvdeu",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-17T17:58:12.144Z",
+      "discoveredAt": "2026-08-17T18:23:03.341Z",
+      "summary": "一份面向希望减少技术环境中侵入式 AI 的用户的操作指南，涵盖 Adobe Acrobat、Android/Gemini、Apple Intelligence、Chrome、Edge、Firefox、DuckDuckGo、Google Workspace、Slack、WhatsApp 及 Windows 11/Copilot 等平台。",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsxkakju0300roz0zx6cvdeu"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 7,
+      "editorialScore": 12,
+      "tags": [
+        "adobe"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmsxaov14032orobntjxxuk8r",
+      "title": "AI视频市场已从Sora的失败开局中反弹，形成新产业",
+      "title_en": "AI video market has bounced back from Sora's false start",
+      "url": "https://the-decoder.com/ai-video-market-has-bounced-back-from-soras-false-start",
+      "permalink": "https://aihot.virxact.com/items/cmsxaov14032orobntjxxuk8r",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-08-17T13:29:01.000Z",
+      "discoveredAt": "2026-08-17T13:54:11.957Z",
+      "summary": "AI视频市场已从Sora的失败开局中反弹，形成涵盖投资者、商业模式和发行冲突的新产业。好莱坞AI工作室Promise正拍摄低成本恐怖片《Touch Grass》，使用中国模型Seedance 2.5实时生成背景，其联合创始人称混合制作比传统电影便宜20%至50%；Netflix称到2026年将在1000部作品中的300部使用AI。",
+      "category": "tip",
+      "score": 42,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsxaov14032orobntjxxuk8r"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 9,
+      "editorialScore": 12,
+      "tags": [
+        "sora",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsxqrphl07s1roz0q2q36e3c",
+      "title": "前SpaceX工程师用机器人打造钢铁零件自动化工厂",
+      "title_en": "Former SpaceX engineers are building a robotic factory for making steel parts",
+      "url": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts",
+      "permalink": "https://aihot.virxact.com/items/cmsxqrphl07s1roz0q2q36e3c",
+      "source": "Ars Technica：AI（RSS）",
+      "publishedAt": "2026-08-17T21:18:49.000Z",
+      "discoveredAt": "2026-08-17T21:24:20.462Z",
+      "summary": "三位前SpaceX工程师创立初创公司1872，利用AI驱动软件和机器人实现钢铁零件制造自动化，目标2027年前建成原型工厂。公司7月22日在俄亥俄州辛辛那提Factory One设施启动，初期聚焦自动化生产钢制底座，供应AI数据中心或小型模块化核反应堆客户。CEO Dan Summers表示追求约80%自主运营，而非盲目追求100%全自动化。",
+      "category": "industry",
+      "score": 34,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsxqrphl07s1roz0q2q36e3c"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
+      "tags": [
+        "原型",
+        "自动化"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmsxvgxt60c2oroz03eld604q",
+      "title": "Databricks：原型验证税正在拖垮你的 AI 路线图",
+      "title_en": "The prototyping tax is killing your AI roadmap",
+      "url": "https://www.databricks.com/blog/prototyping-tax-killing-your-ai-roadmap",
+      "permalink": "https://aihot.virxact.com/items/cmsxvgxt60c2oroz03eld604q",
+      "source": "Databricks：Blog（RSS）",
+      "publishedAt": "2026-08-17T19:42:33.000Z",
+      "discoveredAt": "2026-08-17T23:35:56.718Z",
+      "summary": "Databricks 指出，团队在 AI 原型验证阶段投入过多时间与资源，正成为拖累 AI 路线图落地的\"原型验证税\"。文章分析了这一现象的成因与代价，并给出如何通过更高效的工程实践与平台支持，缩短从原型到生产的路径，避免让验证阶段消耗掉真正的创新动力。",
+      "category": "tip",
+      "score": 38,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsxvgxt60c2oroz03eld604q"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
+      "tags": [
+        "原型"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmsxaoijy0314robnnj73nmd3",
+      "title": "中国自研EUV原型机逼近光刻突破",
+      "title_en": "China appears closer to EUV capability without having obtained ASML's production-ready machine. The…",
+      "url": "https://x.com/rohanpaul_ai/status/2089343216642625874",
+      "permalink": "https://aihot.virxact.com/items/cmsxaoijy0314robnnj73nmd3",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-08-17T13:26:55.000Z",
+      "discoveredAt": "2026-08-17T13:53:56.934Z",
+      "summary": "中国在深圳建成自研EUV光刻原型机，可产生EUV光但尚不能制造芯片，精密光学仍是最难瓶颈。该原型机由前ASML工程师参与、部件来自旧设备。ASML称可定位其全部340台EUV机器，但零部件供应链追踪不足。中国现有DUV光刻机配合多重曝光技术，已可绕开EUV制造先进逻辑芯片。",
+      "category": "tip",
+      "score": 34,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsxaoijy0314robnnj73nmd3"
+      },
+      "sourceType": "X",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
+      "tags": [
+        "原型"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmsxrtvy908curoz06xff1zxv",
+      "title": "PixVerse 启动全球 AI 电影人竞赛 PixLight",
+      "title_en": "https://x.com/i/article/2089252281619214336",
+      "url": "https://x.com/PixVerse/status/2089254416931258792",
+      "permalink": "https://aihot.virxact.com/items/cmsxrtvy908curoz06xff1zxv",
+      "source": "X：PixVerse (@PixVerse_)",
+      "publishedAt": "2026-08-17T07:34:04.000Z",
+      "discoveredAt": "2026-08-17T21:54:01.648Z",
+      "summary": "PixVerse 推出面向全球 AI 电影人、编剧和视觉叙事者的竞赛 PixLight，以故事性为首要评审标准，总奖金池 30 万美元、共 33 个奖项。赛事设 Pilot（3-20 分钟成片）与 Script（完整剧本+视频推介）两条赛道，覆盖剧情、科幻、惊悚三大方向，参赛者保留作品全部所有权。报名 2026 年 8 月 7 日开启，10 月 9 日截止，全球免费开放。",
+      "category": "industry",
+      "score": 36,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsxrtvy908curoz06xff1zxv"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsxrtvya08cxroz0y1wznkpp",
+      "title": "MiniMax H3 在 PixVerse 中打造电影级预告片",
+      "title_en": "Great example of what MiniMax H3 can pull off",
+      "url": "https://x.com/PixVerse/status/2089182609746133178",
+      "permalink": "https://aihot.virxact.com/items/cmsxrtvya08cxroz0y1wznkpp",
+      "source": "X：PixVerse (@PixVerse_)",
+      "publishedAt": "2026-08-17T02:48:43.000Z",
+      "discoveredAt": "2026-08-17T21:54:01.648Z",
+      "summary": "PixVerse 展示 MiniMax H3 模型能力，用户 @MonetizationDon 用它制作了《THE DRAGON RIDER》电影级预告片。该片融合街头时尚、功夫、未来滑板与金龙元素，并加入 3D 字体、霓虹广告牌等动态排版效果，凸显 H3 在视觉叙事与特效生成上的表现。",
+      "category": "tip",
+      "score": 31,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsxrtvya08cxroz0y1wznkpp"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "广告",
+        "3d"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsxqr8ws07oyroz0ubh32f6v",
+      "title": "Grok Imagine 荷马史诗短片大赛，头奖 10 万美元",
+      "title_en": "You can win $100，000 by bringing a scene from Homer's The Odyssey to life with Grok Imagine！ SpaceX…",
+      "url": "https://x.com/cb_doge/status/2089458330309980425",
+      "permalink": "https://aihot.virxact.com/items/cmsxqr8ws07oyroz0ubh32f6v",
+      "source": "X：cb_doge (@cb_doge)",
+      "publishedAt": "2026-08-17T21:04:20.000Z",
+      "discoveredAt": "2026-08-17T21:23:58.747Z",
+      "summary": "SpaceXAI 推出电影制作竞赛，要求创作者用 Grok Imagine 将荷马《奥德赛》场景搬上银幕，奖金总额 10 万美元。参赛需提交 3-5 分钟英文视频，至少 1 分钟对白，视频、图像及角色声音须由 Grok Imagine 生成，其他工具可用于剪辑、配乐和音效。面向 18 岁以上美国居民，截止日期为 2026 年 8 月 31 日。",
+      "category": "industry",
+      "score": 28,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsxqr8ws07oyroz0ubh32f6v"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsxny94u05yfroz08hhve55u",
+      "title": "Gemini 3.7 Flash 让表格秒变交互应用",
+      "title_en": "https://x.com/i/article/2089435703486902272",
+      "url": "https://x.com/GoogleAI/status/2089437060310434098",
+      "permalink": "https://aihot.virxact.com/items/cmsxny94u05yfroz08hhve55u",
+      "source": "X：Google AI (@GoogleAI)",
+      "publishedAt": "2026-08-17T19:39:49.000Z",
+      "discoveredAt": "2026-08-17T20:05:27.315Z",
+      "summary": "Google 推出 Sheets canvas，结合 Gemini 3.7 Flash 可将电子表格自动转化为带滑块、仪表盘等功能的实时交互迷你应用，无需编码。该功能支持双向同步，用户在画布上的操作会实时写回表格。Sheets canvas 已面向 Google AI Pro 和 Ultra 订阅用户开放，并逐步推广至 Workspace 商业和教育订阅。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsxny94u05yfroz08hhve55u"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmsxp1l3k06jaroz0sc2th0kf",
+      "title": "你最喜欢的创作者不是真人--这重要吗？",
+      "title_en": "Your Favorite Creator Isn't Real-Does it Matter？",
+      "url": "https://www.a16z.news/p/your-favorite-creator-isnt-realdoes",
+      "permalink": "https://aihot.virxact.com/items/cmsxp1l3k06jaroz0sc2th0kf",
+      "source": "a16z：News（RSS）",
+      "publishedAt": "2026-08-17T19:35:23.000Z",
+      "discoveredAt": "2026-08-17T20:36:02.202Z",
+      "summary": "一位作者用ChatGPT生成图像、Minimax 3和Grok Imagine 1.5生成视频，打造了虚拟女生Janie，并让她参加阿拉巴马大学姐妹会招募。一周内Janie获得1300名粉丝，视频平均观看量达数万次，20条视频中8条被TikTok标记为AI生成，但未影响表现。作者未标注AI身份，认为这违反了TikTok服务条款，但旨在测试平台与观众的识别能力。",
+      "category": "tip",
+      "score": 51,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsxp1l3k06jaroz0sc2th0kf"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "creator",
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsxkale10306roz09mzje37l",
+      "title": "LLM编码模型或优于扩散模型",
+      "title_en": "all of the recent proc gen art， video editing and 3d game demos recently have made me update towards…",
+      "url": "https://x.com/trq212/status/2089415712007938315",
+      "permalink": "https://aihot.virxact.com/items/cmsxkale10306roz09mzje37l",
+      "source": "X：Thariq (@trq212)",
+      "publishedAt": "2026-08-17T18:14:59.000Z",
+      "discoveredAt": "2026-08-17T18:23:03.341Z",
+      "summary": "最近所有的程序化生成艺术、视频编辑和3D游戏演示，让我更新了看法--LLM编码模型在大量创意工作上比扩散模型更出色。",
+      "category": "tip",
+      "score": 31,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsxkale10306roz09mzje37l"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "创意",
+        "视频",
+        "3d"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmsvptx2m061frovmjoavsi0l",
       "title": "新兴多智能体系统的模式与问题",
       "title_en": null,
@@ -540,252 +1009,6 @@
       "tags": [
         "交互",
         "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmsvmniq603j8rovmxx1oe7iv",
-      "title": "DeepSeek Harness 3天斩获12.2万星",
-      "title_en": "DeepSeek Harness reached 122K+ GitHub stars in 3 days， one of the fastest to rise in GitHub's histor…",
-      "url": "https://x.com/rohanpaul_ai/status/2088924161959927819",
-      "permalink": "https://aihot.virxact.com/items/cmsvmniq603j8rovmxx1oe7iv",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-08-16T09:41:45.000Z",
-      "discoveredAt": "2026-08-16T09:53:33.486Z",
-      "summary": "DeepSeek Harness 发布3天即获12.2万+ GitHub 星标，成为 GitHub 历史上增长最快的项目之一。该编排层可将模型、工具、存储、调度乃至 UI 全部作为可替换插件，支持将 Claude Code 或 Codex 接入作为子智能体，并采用 MIT 许可。同期 DeepSeek 将缓存命中输入价格提高6至12倍，而缓存输入正是智能体循环的核心消耗。",
-      "category": "ai-products",
-      "score": 51,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsvmniq603j8rovmxx1oe7iv"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "ui",
-        "codex",
-        "claude code",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmsuqulw707dbrouhqjb6blkn",
-      "title": "DeepSeek Harness：让智能体状态有明确归属",
-      "title_en": "https://x.com/i/article/2088681782606536704",
-      "url": "https://x.com/dongxi_nlp/status/2088696132964941988",
-      "permalink": "https://aihot.virxact.com/items/cmsuqulw707dbrouhqjb6blkn",
-      "source": "X：马东锡 NLP (@dongxi_nlp)",
-      "publishedAt": "2026-08-15T18:35:38.000Z",
-      "discoveredAt": "2026-08-15T19:03:17.910Z",
-      "summary": "DeepSeek Harness 的核心设计是拒绝将\"智能体状态\"视为单一模糊对象，而是让每个关键事实归属于有权验证它的组件。例如文件读取会记录版本号，仅在版本匹配时才允许修改，以消除检查与使用之间的时间差。工具调用则作为事件管道，包含身份验证、模式校验、执行钩子等环节，子智能体也需独立决策上下文、生命周期与权限。",
-      "category": "tip",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsuqulw707dbrouhqjb6blkn"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmsuaevuc05xwroe0q0endzh3",
-      "title": "提示词如何让编程智能体浪费算力：Same Task， Different Work 论文揭示",
-      "title_en": "Really useful revelation on prompting coding agent in this paper. Your coding-agent prompt may be …",
-      "url": "https://x.com/rohanpaul_ai/status/2088581959299870941",
-      "permalink": "https://aihot.virxact.com/items/cmsuaevuc05xwroe0q0endzh3",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-08-15T11:01:57.000Z",
-      "discoveredAt": "2026-08-15T11:23:10.216Z",
-      "summary": "论文发现，提示词要求编程智能体考虑多种方案时，其推理量增加2.4-7.4倍，但成功率无提升；智能体平均展开约三个方案后弃用，仅实现其中一个。\"Be absolutely certain\"指令则触发冗余验证，最高使运行成本达基线18.25倍、工具调用15次对6次、耗时3倍，成功率不变。",
-      "category": "paper",
-      "score": 42,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsuaevuc05xwroe0q0endzh3"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 9,
-      "editorialScore": 10,
-      "tags": [
-        "提示词",
-        "prompt",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmsu1shtt011crof2hdodhliw",
-      "title": "用Fable 5打磨AI生图提示词并开源",
-      "title_en": "我这套用Fable 5 打磨的AI生图焚决的含金量还在上升，直接看片吧， 以下是用@grok 生成的， 原图和所有提示词我全部开源， 你们可以拿去跟seedance对比一下",
-      "url": "https://x.com/AYi_AInotes/status/2088523133472960583",
-      "permalink": "https://aihot.virxact.com/items/cmsu1shtt011crof2hdodhliw",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-08-15T07:08:12.000Z",
-      "discoveredAt": "2026-08-15T07:21:48.451Z",
-      "summary": "博主用Claude Fable 5总结出AI生图\"焚决\"，并开源全部提示词供对比Grok生成效果。核心技法包括以\"成人+气质+材质\"定人设、用服装剪裁与面料质感替代直白描述、以表情瞬间和镜头语言强化质感，并强调\"克制的性感\"与强负面词约束。博主还提醒需使用干净的住宅IP以避免风控。",
-      "category": "tip",
-      "score": 36,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsu1shtt011crof2hdodhliw"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "生图",
-        "提示词"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmsu7ga9u03onroe0eoshkpou",
-      "title": "DeepSeek Harness实测：PTC模式和Cordis插件才是隐藏大招",
-      "title_en": "实测DeepSeek Harness，原来PTC模式和Cordis插件才是隐藏大招",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509609&idx=1&sn=177f208ce6031423db43442a55f6bf46",
-      "permalink": "https://aihot.virxact.com/items/cmsu7ga9u03onroe0eoshkpou",
-      "source": "公众号：卡尔的AI沃茨",
-      "publishedAt": "2026-08-15T05:03:00.000Z",
-      "discoveredAt": "2026-08-15T10:00:16.053Z",
-      "summary": "DeepSeek开源Agent框架DeepSeek Harness（dsh），上线GitHub一多小时破2万星，次日达6万。其核心设计\"everything is a plugin\"，基于Cordis插件系统，模型接入、工具注册表、主循环等全部可替换。",
-      "category": "tip",
-      "score": 66,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsu7ga9u03onroe0eoshkpou"
-      },
-      "sourceType": "公众号",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计",
-        "agent"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmstwhe750je4ro0xkdjr3htq",
-      "title": "OpenClaw 要求 UI 变更 PR 附视频",
-      "title_en": "Added a short instruction to our shared AGENTS MD file to upload videos to each PR that changes UI s…",
-      "url": "https://x.com/steipete/status/2088486859244741020",
-      "permalink": "https://aihot.virxact.com/items/cmstwhe750je4ro0xkdjr3htq",
-      "source": "X：Peter Steinberger (@steipete)",
-      "publishedAt": "2026-08-15T04:44:04.000Z",
-      "discoveredAt": "2026-08-15T04:53:12.836Z",
-      "summary": "我们在共享的 AGENTS MD 文件中添加了一条简短说明，要求每个更改 UI 状态的 PR 上传视频。https://github.com/openclaw/openclaw/pull/124013",
-      "category": "tip",
-      "score": 53,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmstwhe750je4ro0xkdjr3htq"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "ui",
-        "视频"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmstr2njf0fdyro0xf6rp0w0r",
-      "title": "OpenAI 9 位核心高管数月内相继离职",
-      "title_en": "@OpenAI 最近很动荡啊，9位核心人物，从4月到现在陆续离开了， 分别是Sora负责人，科学VP，B2B的CTO，CMO，首席未来学家，安全系统负责人，唯一专职伦理学家，前CFO/COO，首席营收…",
-      "url": "https://x.com/AYi_AInotes/status/2088447219854668203",
-      "permalink": "https://aihot.virxact.com/items/cmstr2njf0fdyro0xf6rp0w0r",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-08-15T02:06:33.000Z",
-      "discoveredAt": "2026-08-15T02:21:46.363Z",
-      "summary": "OpenAI 自 4 月以来已有 9 位核心人物离职，覆盖产品、安全、伦理与商业侧，包括 Sora 负责人 Bill Peebles、安全系统负责人 Johannes Heidecke、唯一专职伦理学家 Chloe Bakalar、前 CFO/COO Brad Lightcap 及上任仅 8 个月的 CRO Denise Dresser。",
-      "category": "tip",
-      "score": 61,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmstr2njf0fdyro0xf6rp0w0r"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "sora"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmstr2ojn0fe8ro0xwyf2oiv9",
-      "title": "谷歌 Gemini 将推 Media Watermark 设置：可关闭 AI 生成图片/视频/音乐的可见水印",
-      "title_en": "谷歌 Gemini 将推新选项：关闭 AI 生成图片 / 视频 / 音乐的可见水印",
-      "url": "https://www.ithome.com/0/989/997.htm",
-      "permalink": "https://aihot.virxact.com/items/cmstr2ojn0fe8ro0xwyf2oiv9",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-15T01:29:18.000Z",
-      "discoveredAt": "2026-08-15T02:21:46.363Z",
-      "summary": "谷歌预告未来几天为 Gemini 新增 Media Watermark 设置，用户可关闭图像、视频和音乐作品的可见水印。该选项位于左侧栏\"设置\"菜单倒数第 3 项，提供\"On\"和\"Off\"两个选项。关闭可见水印后，AI 生成内容仍保留 SynthID 隐形水印与 C2PA 元数据。",
-      "category": "ai-products",
-      "score": 27,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmstr2ojn0fe8ro0xwyf2oiv9"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmst6r2wi06hkro06oj3qvfyb",
-      "title": "OpenAI 的 Computer History 将点击和按键转化为可搜索的 ChatGPT 记忆时间线",
-      "title_en": "OpenAI's Computer History turns your clicks and keystrokes into a searchable ChatGPT memory timeline",
-      "url": "https://the-decoder.com/openais-computer-history-turns-your-clicks-and-keystrokes-into-a-searchable-chatgpt-memory-timeline",
-      "permalink": "https://aihot.virxact.com/items/cmst6r2wi06hkro06oj3qvfyb",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-08-14T16:43:43.000Z",
-      "discoveredAt": "2026-08-14T16:52:51.673Z",
-      "summary": "OpenAI 的 Computer History 功能可跨应用和网站追踪用户活动，将其转化为可搜索的时间线记忆，供 ChatGPT 和 Codex 作为上下文使用。该功能通过 macOS 辅助功能记录点击、按键等交互事件，不捕获屏幕截图或音频，记忆文件以明文 Markdown 本地存储且未加密。管理员和用户需双重选择启用，OpenAI 同时警告了提示注入风险。",
-      "category": "ai-products",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmst6r2wi06hkro06oj3qvfyb"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "交互",
-        "codex"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
@@ -816,128 +1039,21 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmsuizf8p01ylro1fvrkdedd8",
-      "title": "OpenAI 2026 年已流失 12 位高管，Scott Gray 离职",
-      "title_en": "Scott Gray leaves OpenAI. He joined the company in 2016 and helped build the GPU infrastructure behi…",
-      "url": "https://x.com/kimmonismus/status/2088647536684712289",
-      "permalink": "https://aihot.virxact.com/items/cmsuizf8p01ylro1fvrkdedd8",
-      "source": "X：Kim (@kimmonismus)",
-      "publishedAt": "2026-08-15T15:22:32.000Z",
-      "discoveredAt": "2026-08-15T15:23:04.566Z",
-      "summary": "OpenAI 资深 GPU 系统工程师 Scott Gray 离职，他曾参与构建稀疏 Transformer、扩展定律及 GPT-3 的 GPU 基础设施。2026 年至今，OpenAI 已有至少 12 位高管离开，包括前 COO Brad Lightcap、Sora 负责人 Bill Peebles 及硬件与机器人负责人 Caitlin Kalinowski。",
-      "category": "industry",
-      "score": 44,
-      "selected": false,
+      "id": "cmsxv0p3v0bntroz0227a6b3j",
+      "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
+      "title_en": "Build zero-trust AI agents with Google's Agent Development Kit",
+      "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
+      "permalink": "https://aihot.virxact.com/items/cmsxv0p3v0bntroz0227a6b3j",
+      "source": "Google Developers Blog（RSS）",
+      "publishedAt": "2026-08-17T23:22:25.902Z",
+      "discoveredAt": "2026-08-17T23:22:25.902Z",
+      "summary": "Google 开源了基于 ADK 和 Gemini 的零信任客服与退货智能体示例，演示如何防御提示注入等攻击。该架构在 LLM 上下文之外通过三层硬性安全机制保障：硬件支持的加密签名确保数据库写入不可抵赖、gVisor 沙箱隔离动态代码执行、确定性语义网关校验业务逻辑。系统提示词只是软约束，无法作为安全边界。",
+      "category": "tip",
+      "score": 69,
+      "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsuizf8p01ylro1fvrkdedd8"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "sora"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmstzp5iy0nv6ro0xgpfqfg3t",
-      "title": "Runway 上线 Seedance 2.5 1080p 高清版",
-      "title_en": "Seedance 2.5 in 1080p is now live on Runway. Early access starts today， bringing sharper detail at h…",
-      "url": "https://x.com/runwayml/status/2088510581120647272",
-      "permalink": "https://aihot.virxact.com/items/cmstzp5iy0nv6ro0xgpfqfg3t",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-08-15T06:18:19.000Z",
-      "discoveredAt": "2026-08-15T06:23:12.940Z",
-      "summary": "Seedance 2.5 1080p 现已上线 Runway。今日起开放抢先体验，以更高分辨率呈现更锐利的细节。\n\n点击下方链接即可开始使用。",
-      "category": "ai-models",
-      "score": 44,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmstzp5iy0nv6ro0xgpfqfg3t"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "runway"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmste96kt04gzro0xqjibwawd",
-      "title": "Runway 第二届虚构产品广告大赛揭晓",
-      "title_en": "Congratulations to the second cohort of creatives whose work won big in Runway's Another Big Ad Cont…",
-      "url": "https://x.com/runwayml/status/2088354331540222178",
-      "permalink": "https://aihot.virxact.com/items/cmste96kt04gzro0xqjibwawd",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-08-14T19:57:27.000Z",
-      "discoveredAt": "2026-08-14T20:22:56.632Z",
-      "summary": "恭喜第二批创作者，他们的作品在 Runway 的\"Another Big Ad Contest for Products That Don't Exist\"中脱颖而出。在我们收到的数千份涵盖各种类型、简报和格式的广告作品中，仅有 15 位获奖者入选。\n\n以下是最佳 5 支广告。",
-      "category": "industry",
-      "score": 25,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmste96kt04gzro0xqjibwawd"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "runway",
-        "广告"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmsx4dwe100ocrob02mrimn4y",
-      "title": "阿里云 Wan3.0 创作者直播分享会 8 月 19 日举行",
-      "title_en": "Meet the guests joining the Wan3.0 Creator Live Session 🎥 Hear from the Wan team and leading creato…",
-      "url": "https://x.com/alibaba_cloud/status/2089300828393992258",
-      "permalink": "https://aihot.virxact.com/items/cmsx4dwe100ocrob02mrimn4y",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "publishedAt": "2026-08-17T10:38:29.000Z",
-      "discoveredAt": "2026-08-17T10:57:43.317Z",
-      "summary": "阿里云宣布将于 8 月 19 日举办 Wan3.0 创作者直播分享会，Wan 模型团队研究员 Haoyu Chen 将与多位知名创作者共同探讨 Wan3.0 的最新模型升级与实际创作工作流。参与嘉宾包括 Magnific 创意总监 Jesus Plaza、Fal 高级创意工程师 Lovis Odin 等，活动由阿里云 Token Hub 全球产品方案总监 Tianshu Zhu 主持。",
-      "category": "industry",
-      "score": 14,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsx4dwe100ocrob02mrimn4y"
-      },
-      "sourceType": "X",
-      "designCategory": "行业观察",
-      "relevanceScore": 8,
-      "editorialScore": 8,
-      "tags": [
-        "工作流",
-        "创意",
-        "creator"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmsu3zjq301a3roe0o9d212zj",
-      "title": "原告在法庭文件中隐藏不可见AI指令，试图暗中影响自动化审查",
-      "title_en": "Plaintiff hid invisible AI instructions in court filings to secretly influence automated review",
-      "url": "https://the-decoder.com/plaintiff-hid-invisible-ai-instructions-in-court-filings-to-secretly-influence-automated-review",
-      "permalink": "https://aihot.virxact.com/items/cmsu3zjq301a3roe0o9d212zj",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-08-15T08:00:45.000Z",
-      "discoveredAt": "2026-08-15T08:23:14.351Z",
-      "summary": "康涅狄格州一名自辩原告Matthew Elliott在法庭文件中嵌入提示词注入，用白底白色3号字写下指令，人眼不可见但AI可读取，要求系统按提交文件输出并将先前书记员的驳回视为错误。法院因异常空白发现该行为，法官Walter Spader Jr.在14页裁决中将其比作与陪审员秘密沟通，并取消其电子提交权限。法官同时明确欢迎用AI准备文件，但警告语言模型可能强化错误法律推理。",
-      "category": "industry",
-      "score": 56,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsu3zjq301a3roe0o9d212zj"
+        "canonical": "https://aihot.virxact.com/items/cmsxv0p3v0bntroz0227a6b3j"
       },
       "sourceType": "网站",
       "designCategory": "工作流与 Agent",
@@ -945,7 +1061,88 @@
       "editorialScore": 8,
       "tags": [
         "提示词",
-        "自动化"
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmsxj98p3016eroz0da122sc6",
+      "title": "用 docTR 构建端到端文档智能流水线：OCR、版面分析、KIE、基准测试与可搜索 PDF",
+      "title_en": "Developing an End-to-End Document Intelligence Pipeline with docTR for OCR， Layout Analysis， KIE， Benchmarking， and Searchable PDFs",
+      "url": "https://www.marktechpost.com/2026/08/17/end-to-end-document-intelligence-pipeline-with-doctr-for-ocr",
+      "permalink": "https://aihot.virxact.com/items/cmsxj98p3016eroz0da122sc6",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-08-17T17:52:50.000Z",
+      "discoveredAt": "2026-08-17T17:54:00.563Z",
+      "summary": "本教程基于 docTR 构建端到端 OCR 工作流，覆盖文本检测、识别、版面分析、结构化抽取与导出。通过合成发票数据，对比不同检测-识别架构组合的速度与精度，并实现低置信度二次识别、旋转文档处理、KIE 字段抽取及可搜索 PDF 导出。最后讨论微调、批处理与部署，展示从基础 OCR 到生产级文档智能流水线的路径。",
+      "category": "tip",
+      "score": 65,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsxj98p3016eroz0da122sc6"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "工作流"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmsxh2s5p01rprosw204ap68x",
+      "title": "AI 生成的 GitHub Copilot\"自动修复\"功能导致 Snowflake 的 Jira 系统遭到入侵",
+      "title_en": "由 AI 生成的 GitHub Copilot\"自动修复\"功能导致 Snowflake 的 Jira 系统遭到入侵",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "permalink": "https://aihot.virxact.com/items/cmsxh2s5p01rprosw204ap68x",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-17T16:38:11.073Z",
+      "discoveredAt": "2026-08-17T16:53:01.024Z",
+      "summary": "一个由 AI 生成的修复方案在 Snowflake 公共仓库中引入了工作流注入漏洞，并在数天内被 Wiz Red Agent 发现。该漏洞导致 Snowflake 的 Jira 系统遭到入侵。Wiz Red Agent 已发布完整研究分析。",
+      "category": "paper",
+      "score": 59,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsxh2s5p01rprosw204ap68x"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "工作流",
+        "agent"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmsxf8cmu02slroi2hvfzgfff",
+      "title": "GitHub 如何用 canvases 让智能体工作流可见、可控且成本高效",
+      "title_en": "How canvases make agentic workflows visible， steerable， and cost-efficient",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
+      "permalink": "https://aihot.virxact.com/items/cmsxf8cmu02slroi2hvfzgfff",
+      "source": "GitHub Blog",
+      "publishedAt": "2026-08-17T16:00:00.000Z",
+      "discoveredAt": "2026-08-17T16:01:21.778Z",
+      "summary": "GitHub 博客介绍如何用 canvases 让智能体工作流可见、可控且成本高效。作者认为聊天适合表达意图，但智能体工作会淹没在滚动中，而 canvas 能让工作流更清晰。文章分享了作者在智能体工作流中使用 canvases 的实践，并建议其他工作流也值得引入 canvas。",
+      "category": "tip",
+      "score": 28,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsxf8cmu02slroi2hvfzgfff"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "工作流",
+        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
