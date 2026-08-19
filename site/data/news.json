@@ -1,18 +1,48 @@
 {
-  "generatedAt": "2026-08-19T01:53:01.462Z",
-  "previousGeneratedAt": "2026-08-18T13:07:12.877Z",
+  "generatedAt": "2026-08-19T07:05:04.817Z",
+  "previousGeneratedAt": "2026-08-19T01:53:01.462Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 53,
+  "itemCount": 58,
   "sourceCounts": {
+    "网站": 32,
     "X": 24,
-    "网站": 29
+    "公众号": 2
   },
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com"
   },
   "items": [
+    {
+      "id": "cmszj1tvi0fagrodp38da2g3b",
+      "title": "Anthropic 预告 Claude Code 将整合 /design 命令",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/991/488.htm",
+      "permalink": "https://aihot.virxact.com/items/cmszj1tvi0fagrodp38da2g3b",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-19T02:48:24.000Z",
+      "discoveredAt": "2026-08-19T03:23:47.571Z",
+      "summary": "Anthropic 产品设计师 Nate Parrott 预告将在 Claude Code 中整合推出 /design 命令。开发者可在编写代码前于终端或桌面版 Claude Code 中创建设计模型，如输入\"/design a few options for {feature}\"生成多个草稿作为画板，并可选择编辑后构建。",
+      "category": "ai-products",
+      "score": 33,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmszj1tvi0fagrodp38da2g3b"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 23,
+      "editorialScore": 27,
+      "tags": [
+        "产品设计",
+        "设计师",
+        "design",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
     {
       "id": "cmsyd9oce0rt1roz0hbvkuwoi",
       "title": "与Codex相比Anthropic界面体验欠佳",
@@ -41,35 +71,6 @@
         "界面"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmsxdu6n401h8roi2iy1elash",
-      "title": "字节跳动与美国电影协会签署协议，加强 AI 模型版权保护",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/990/847.htm",
-      "permalink": "https://aihot.virxact.com/items/cmsxdu6n401h8roi2iy1elash",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-17T15:06:14.000Z",
-      "discoveredAt": "2026-08-17T15:22:20.136Z",
-      "summary": "字节跳动与美国电影协会（MPA）签署协议，加强 AI 视频与图像生成模型的版权保护。协议涵盖 Seedance 视频生成模型和 Seedream 图像生成模型，二者通过 TikTok、CapCut 和 Dreamina 等应用提供服务。字节表示，新版本 Seedance 和 Seedream 已加入更强的知识产权保护机制，双方将随 AI 发展继续完善版权防护。",
-      "category": "industry",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsxdu6n401h8roi2iy1elash"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 22,
-      "editorialScore": 25,
-      "tags": [
-        "图像生成",
-        "视频生成",
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmsxleatz03qbroz09n0vlyq8",
@@ -101,6 +102,35 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmsziemam0euurodp4w9oyfbg",
+      "title": "面向通用图像生成的能力中心化数据设计：从语料库到协同演进能力",
+      "title_en": "From Corpora to Co-Evolving Capabilities： Capability-Centric Data Design for Generalist Image Generation",
+      "url": "https://arxiv.org/abs/2608.18076",
+      "permalink": "https://aihot.virxact.com/items/cmsziemam0euurodp4w9oyfbg",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "discoveredAt": "2026-08-19T03:05:46.360Z",
+      "summary": "一项研究提出能力驱动的数据基础设施，将能力专属监督构建与能力对齐的课程调度相结合，通过三个数据引擎分别构建文本-图像 grounding、图像间变换和图像-知识关联的互补关系监督。该框架构建了4.4亿图像T2I语料库、1.2亿编辑对和超2700万图像-实体对，并据此从零训练了3B和6B两种规模的多模态扩散模型，在CPI-Bench上进行了定量评估。",
+      "category": "paper",
+      "score": 50,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsziemam0euurodp4w9oyfbg"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 18,
+      "editorialScore": 21,
+      "tags": [
+        "图像生成",
+        "image generation",
+        "design",
+        "设计"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmsxleatz03qaroz0g0679jz5",
       "title": "MiniMax H3 本地视频生成资源与实测分享",
       "title_en": "Thank you！ Very useful resources on making videos with the Minimax H3 model on an RTX 4090 （24GB） �…",
@@ -126,6 +156,34 @@
         "文生视频",
         "视频",
         "提示词"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmszieman0euyrodppheu99i3",
+      "title": "Abra：扩散图像训练的规模化定律研究",
+      "title_en": "Abra： Scaling Diffusion Image Training",
+      "url": "https://arxiv.org/abs/2608.17286",
+      "permalink": "https://aihot.virxact.com/items/cmszieman0euyrodppheu99i3",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "discoveredAt": "2026-08-19T03:05:46.360Z",
+      "summary": "Abra 研究团队对文生图扩散模型进行了系统性规模化定律分析，训练计算量横跨三个数量级（1019 至 1022 FLOPs），远超此前工作。研究发现扩散模型与语言模型一样可预测，但需要约每参数 200 个图像 token 才能达到计算最优，是 LLM 的 Chinchilla 最优配方的十倍。此外，扩散模型对过度训练具有鲁棒性，且预测性可延伸至生成质量、最优 CFG 设置及训练曲线形状。",
+      "category": "paper",
+      "score": 56,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmszieman0euyrodppheu99i3"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 17,
+      "editorialScore": 20,
+      "tags": [
+        "文生图",
+        "生图",
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -246,6 +304,35 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmszieman0ev0rodpj84orfu2",
+      "title": "aDSL：通过智能体与程序联合设计实现智能体3D内容生成",
+      "title_en": "aDSL： Agentic 3D Creation via Joint Agent-Program Design",
+      "url": "https://arxiv.org/abs/2608.17975",
+      "permalink": "https://aihot.virxact.com/items/cmszieman0ev0rodpj84orfu2",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "discoveredAt": "2026-08-19T03:05:46.360Z",
+      "summary": "针对大语言模型编写3D程序时难以将高层意图转化为一致底层几何的问题，研究者联合设计了智能体中心领域特定语言aDSL与角色专业化多智能体系统。aDSL通过关系运算符替代绝对坐标，强调可组合性与空间推理；免训练系统采用Plan-Execute-Critic循环，利用执行反馈迭代修复错误。该方法在文本/图像生成3D形状任务上优于此前LLM基线，并支持铰接物体创建与结构化场景组合，代码已开源。",
+      "category": "paper",
+      "score": 44,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmszieman0ev0rodpj84orfu2"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 14,
+      "editorialScore": 17,
+      "tags": [
+        "图像生成",
+        "design",
+        "设计",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmsyuee7f000irobqbzybcq21",
       "title": "Populous 如何用 Runway 呈现全球标志性场馆设计",
       "title_en": "How Populous Brings the World's Most Iconic Venue Designs to Life with Runway",
@@ -271,33 +358,6 @@
         "runway",
         "视觉",
         "设计"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmsxi6ljs02tproswie6yj4cm",
-      "title": "Menlo 旗下 Wispr Flow 与 Higgsfield 双双完成巨额融资",
-      "title_en": "Big day for the Menlo portfolio. - Wispr Flow raises $280M led by us at $2B. ~40x YoY rev growth an…",
-      "url": "https://x.com/deedydas/status/2089398673230938591",
-      "permalink": "https://aihot.virxact.com/items/cmsxi6ljs02tproswie6yj4cm",
-      "source": "X：Deedy Das (@deedydas)",
-      "publishedAt": "2026-08-17T17:07:17.000Z",
-      "discoveredAt": "2026-08-17T17:23:58.349Z",
-      "summary": "Menlo Ventures 宣布旗下两家公司完成巨额融资：语音听写应用 Wispr Flow 融资 2.8 亿美元，估值 20 亿美元，年同比增长约 40 倍，累计听写超 600 亿词；AI 视频生成公司 Higgsfield 融资 4 亿美元，估值 54 亿美元，年化收入 12 个月内从 2000 万美元增至 7 亿美元。Menlo 强调应用层制胜关键在于极致产品力、增长、留存与变现。",
-      "category": "industry",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsxi6ljs02tproswie6yj4cm"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "视频生成",
-        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -383,62 +443,6 @@
         "claude code"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmsxez39u02g5roi2r8tx23mf",
-      "title": "中国科技周报：DeepSeek V4 Pro 发布与机器人维修业兴起",
-      "title_en": "https://x.com/i/article/2089309485936594944",
-      "url": "https://x.com/thexpin/status/2089377433208164477",
-      "permalink": "https://aihot.virxact.com/items/cmsxez39u02g5roi2r8tx23mf",
-      "source": "X：X.PIN (@thexpin)",
-      "publishedAt": "2026-08-17T15:42:53.000Z",
-      "discoveredAt": "2026-08-17T15:54:08.948Z",
-      "summary": "DeepSeek 正式发布 V4 Pro，基准测试较预览版显著提升，同时大幅涨价使旗舰定价接近主要竞品。本周中国科技周报还聚焦人形机器人维修业兴起、AI 视频生成生态（如 Seedance 2.5 和 MiniMax H3）的商业化，以及苹果与阿里合作训练中文 LLM 等动态。",
-      "category": "industry",
-      "score": 40,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsxez39u02g5roi2r8tx23mf"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视频生成",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmsxeyrbn02dnroi2615gaguj",
-      "title": "五台山海报设计：视觉聚核构图参考",
-      "title_en": "【主题】：五台山 · 清凉佛国 【中文标题】：五台山 【英文标题】：MOUNT WUTAI 【主体器物 / 核心对象】：五台山标志性白塔，以塔身作为绝对视觉核心；辅以五台山古寺建筑局部、青灰色山…",
-      "url": "https://x.com/frxiaobei/status/2089376261659640258",
-      "permalink": "https://aihot.virxact.com/items/cmsxeyrbn02dnroi2615gaguj",
-      "source": "X：小北 (@frxiaobei)",
-      "publishedAt": "2026-08-17T15:38:14.000Z",
-      "discoveredAt": "2026-08-17T15:53:52.333Z",
-      "summary": "小北分享五台山文化海报设计，以白塔为绝对视觉核心，采用\"同心环抱\"构图，让山势、寺院、文字与云雾共同向中心汇聚。整体以藏红、米白、青灰为主色，融合佛教建筑秩序与瑞士编辑设计语言，呈现博物馆展览海报气质。该设计源自@MrLarus提出的\"视觉聚核\"构图法，适合海报、封面及品牌视觉参考。",
-      "category": "tip",
-      "score": 53,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsxeyrbn02dnroi2615gaguj"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "海报",
-        "视觉",
-        "设计",
-        "品牌"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmszcfb6h09gnrodptwvwyvrq",
@@ -610,34 +614,6 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmsxaoe2402ywrobnbrmx0fot",
-      "title": "AI 如何重新定义艺术与创作门槛",
-      "title_en": "AI 带来的可能不只是一次创作工具的升级，而是会逼着人类重新定义一次什么叫艺术。 每一次工具革命，其实都在消灭上一代艺术里最昂贵的东西。 纸张和印刷让文字可以大规模传播，摄影让画得像不再稀缺，录音…",
-      "url": "https://x.com/frxiaobei/status/2089349801020457420",
-      "permalink": "https://aihot.virxact.com/items/cmsxaoe2402ywrobnbrmx0fot",
-      "source": "X：小北 (@frxiaobei)",
-      "publishedAt": "2026-08-17T13:53:05.000Z",
-      "discoveredAt": "2026-08-17T13:53:50.758Z",
-      "summary": "AI 同时抹平了文字、绘画、音乐、视频、3D 乃至虚拟世界的生产门槛，把过去属于少数专业创作者的表现能力大规模发给普通人。当画面、文字、声音、角色甚至世界本身都不再稀缺，艺术竞争将从\"谁做得更好\"转向\"谁能提出一种以前不存在的表达\"。AI 真正应催生的，是一种今天还没有名字、甚至不知该如何欣赏的新艺术形态。",
-      "category": "tip",
-      "score": 44,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsxaoe2402ywrobnbrmx0fot"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
-      "tags": [
-        "视频",
-        "摄影",
-        "3d"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmsxkakju0300roz0zx6cvdeu",
       "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
       "title_en": "如何禁用或避免侵入式人工智能",
@@ -664,33 +640,31 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cmszd2l6n0a4frodpkbr5nvir",
-      "title": "如何用智能体工作流规划意大利之旅",
-      "title_en": "How I Planned an Italy Trip with an Agentic Workflow",
-      "url": "https://dev.to/googleai/how-i-planned-an-italy-trip-with-an-agentic-workflow-4hd2",
-      "permalink": "https://aihot.virxact.com/items/cmszd2l6n0a4frodpkbr5nvir",
-      "source": "Google AI：DEV 作者专属（RSS）",
-      "publishedAt": "2026-08-17T16:12:46.000Z",
-      "discoveredAt": "2026-08-19T00:36:25.512Z",
-      "summary": "作者用 Gemini Notebook 的 Deep Research 和 Audio Overview 功能规划了意大利 10 天三城行程。Antigravity 的 Browser agent 自动访问 Trenitalia 网站查询车次，发现车票有 4 小时有效窗口；Gemini 还建议用赫库兰尼姆替代庞贝以应对高温。",
-      "category": "tip",
-      "score": 57,
+      "id": "cmszgpmpo0d8irodprlp8qddt",
+      "title": "Matic 扫地机器人：20 年计算机视觉终成消费产品",
+      "title_en": "What you're watching looks like a shiny new hardware company. the tech behind it are almost two deca…",
+      "url": "https://x.com/rohanpaul_ai/status/2089894185902203186",
+      "permalink": "https://aihot.virxact.com/items/cmszgpmpo0d8irodprlp8qddt",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-08-19T01:56:16.000Z",
+      "discoveredAt": "2026-08-19T02:18:18.562Z",
+      "summary": "Matic 家用机器人内置 5 摄像头与 NVIDIA 芯片，约 20 分钟完成全屋 3D 建图，可区分充电线、袜子、污渍与宠物并分别应对，全程无 App，支持语音指令与全黑环境清扫。其视觉技术源于创始人 Navneet Dalal 在 INRIA Grenoble 的人类检测研究（被引超 5 万次），该成果在专利局尘封 20 年才迎来消费市场。",
+      "category": "ai-products",
+      "score": 24,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmszd2l6n0a4frodpkbr5nvir"
+        "canonical": "https://aihot.virxact.com/items/cmszgpmpo0d8irodprlp8qddt"
       },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 11,
-      "editorialScore": 12,
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
       "tags": [
-        "工作流",
-        "workflow",
-        "agent",
-        "智能体"
+        "视觉",
+        "3d"
       ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmsz2uhid001irodp5s5l2mmp",
@@ -881,6 +855,33 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
+      "id": "cmszlxk6c0i0erodp05djsuud",
+      "title": "从王昭君到AI：表象如何取代真实",
+      "title_en": "\"Representation/表象 取代了 Reality/真实\" 正回答了当下 AI 对文明的重塑 AI 才让我真正读懂红楼的现代性，卧槽啊🫡 黛玉啊黛玉，曹雪芹啊曹雪芹 《五美吟》显性的…",
+      "url": "https://x.com/ZHO_ZHO_ZHO/status/2089933488166461745",
+      "permalink": "https://aihot.virxact.com/items/cmszlxk6c0i0erodp05djsuud",
+      "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+      "publishedAt": "2026-08-19T04:32:27.000Z",
+      "discoveredAt": "2026-08-19T04:44:26.209Z",
+      "summary": "ZHO借《红楼梦》中《五美吟》咏昭君诗，指出\"一个人的真实价值被媒介、图像、中间人决定\"的现代性，认为这正回答了当下AI对文明的重塑--Representation（表象）取代了Reality（真实），可将\"画工\"替换为摄影、社交媒体、算法、AI等。",
+      "category": "tip",
+      "score": 31,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmszlxk6c0i0erodp05djsuud"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "图像",
+        "摄影"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmsz9kmg307csrodpg1yl1xdu",
       "title": "Claude 从头设计蛋白结合剂命中 14/15 靶点",
       "title_en": "Many drugs work by binding to a specific target in the body and blocking or changing what it does. A…",
@@ -986,6 +987,34 @@
       "tags": [
         "图像",
         "3d"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmszkcgn00goqrodpd02il8sa",
+      "title": "Seedance 2.5 搭配 upsteam 预演台：告别 AI 视频反复抽卡的正确打开方式",
+      "title_en": "告别AI视频反复抽卡，Seedance 2.5 + 3D预演台才是正确的打开方式",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509782&idx=1&sn=911ca46ac365fcd431cb4a68324fdf1a",
+      "permalink": "https://aihot.virxact.com/items/cmszkcgn00goqrodpd02il8sa",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-08-18T12:17:23.000Z",
+      "discoveredAt": "2026-08-19T04:00:01.112Z",
+      "summary": "upsteam 预演台上线，用户无需 3D 建模基础即可用参考图生成粗粒度白模，并搭建场景、人物、机位与运镜轨迹。将录制的白模视频交给 Seedance 2.5 生成，可精准锁定空间关系与运镜方向，避免纯文字提示词导致的误解，减少返工与积分消耗。适合大场面空镜、多人调度及复杂运镜等镜头，简单镜头仍可直接用文字生成。",
+      "category": "tip",
+      "score": 58,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmszkcgn00goqrodpd02il8sa"
+      },
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "3d",
+        "提示词"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -1179,6 +1208,32 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmsxny94u05yfroz08hhve55u",
+      "title": "Gemini 3.7 Flash 让表格秒变交互应用",
+      "title_en": "https://x.com/i/article/2089435703486902272",
+      "url": "https://x.com/GoogleAI/status/2089437060310434098",
+      "permalink": "https://aihot.virxact.com/items/cmsxny94u05yfroz08hhve55u",
+      "source": "X：Google AI (@GoogleAI)",
+      "publishedAt": "2026-08-17T19:39:49.000Z",
+      "discoveredAt": "2026-08-17T20:05:27.315Z",
+      "summary": "Google 推出 Sheets canvas，结合 Gemini 3.7 Flash 可将电子表格自动转化为带滑块、仪表盘等功能的实时交互迷你应用，无需编码。该功能支持双向同步，用户在画布上的操作会实时写回表格。Sheets canvas 已面向 Google AI Pro 和 Ultra 订阅用户开放，并逐步推广至 Workspace 商业和教育订阅。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsxny94u05yfroz08hhve55u"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "cmsxp1l3k06jaroz0sc2th0kf",
       "title": "你最喜欢的创作者不是真人--这重要吗？",
       "title_en": "Your Favorite Creator Isn't Real-Does it Matter？",
@@ -1203,6 +1258,34 @@
         "creator",
         "视频",
         "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmsxkale10306roz09mzje37l",
+      "title": "LLM编码模型或优于扩散模型",
+      "title_en": "all of the recent proc gen art， video editing and 3d game demos recently have made me update towards…",
+      "url": "https://x.com/trq212/status/2089415712007938315",
+      "permalink": "https://aihot.virxact.com/items/cmsxkale10306roz09mzje37l",
+      "source": "X：Thariq (@trq212)",
+      "publishedAt": "2026-08-17T18:14:59.000Z",
+      "discoveredAt": "2026-08-17T18:23:03.341Z",
+      "summary": "最近所有的程序化生成艺术、视频编辑和3D游戏演示，让我更新了看法--LLM编码模型在大量创意工作上比扩散模型更出色。",
+      "category": "tip",
+      "score": 31,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsxkale10306roz09mzje37l"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "创意",
+        "视频",
+        "3d"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -1234,6 +1317,34 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmszmoylu0iplrodpbt2tynjc",
+      "title": "Agent Lightning v1.0：迈向受控智能体强化学习",
+      "title_en": "Agent Lightning v1.0： Towards Harnessed Agentic RL",
+      "url": "https://arxiv.org/abs/2608.17528",
+      "permalink": "https://aihot.virxact.com/items/cmszmoylu0iplrodpbt2tynjc",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "discoveredAt": "2026-08-19T05:05:47.188Z",
+      "summary": "Agent Lightning v1.0 发布，这是一个约 3，500 行代码的轻量级受控智能体强化学习框架，支持任意智能体 harness，并提供了完整的编码智能体 RL 可复现流程。仅用 6K 训练样本和适度算力，RL 将 Qwen3.5-9B 在 SWE-bench Verified 上的成绩从 41.8% 提升至 56.4%，绝对提升 14.6 个百分点。完整工作流与训练脚本已开源。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmszmoylu0iplrodpbt2tynjc"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "工作流",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cmsz9lemi07d0rodpsv1b45kb",
       "title": "NVIDIA 如何借助 ChatGPT Work 规模化专业工作流",
       "title_en": "How NVIDIA scales expertise with ChatGPT Work",
@@ -1262,6 +1373,60 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
+      "id": "cmszj1tvi0fairodpnkffpiy7",
+      "title": "Kromix 用 AI 生成真人色情\"换脸\"内容引争议：Meta 下架广告、苹果移除应用",
+      "title_en": "\"AI 换脸\"色情 App 营销引发争议：Meta 下架广告、苹果移除应用",
+      "url": "https://www.ithome.com/0/991/482.htm",
+      "permalink": "https://aihot.virxact.com/items/cmszj1tvi0fairodpnkffpiy7",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-19T02:46:28.000Z",
+      "discoveredAt": "2026-08-19T03:23:47.571Z",
+      "summary": "一款名为 Kromix 的 App 在 Meta 平台投放 32 则广告，宣称\"没有限制\"，可生成真实人物（包括知名女性政治人物）的色情\"换脸\"内容。经 WIRED 联系后，Meta 下架相关广告，苹果将 Kromix 从 App Store 移除。苹果称该应用可能通过初始审核后才加入违规内容，并强调持续打击规避审核的应用。",
+      "category": "industry",
+      "score": 59,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmszj1tvi0fairodpnkffpiy7"
+      },
+      "sourceType": "网站",
+      "designCategory": "行业观察",
+      "relevanceScore": 8,
+      "editorialScore": 8,
+      "tags": [
+        "广告",
+        "营销"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
+      "id": "cmszieman0euzrodptihyllom",
+      "title": "StartupBench：面向市场验证端到端工作流的通用智能体基准测试",
+      "title_en": "StartupBench： Benchmarking General-Purpose Agents on Market-Validated End-to-End Workflows",
+      "url": "https://arxiv.org/abs/2608.17800",
+      "permalink": "https://aihot.virxact.com/items/cmszieman0euzrodptihyllom",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "discoveredAt": "2026-08-19T03:05:46.360Z",
+      "summary": "StartupBench 是一个基于市场验证的 AI 初创公司产品构建的端到端智能体基准，从真实采用的产品工作流中提炼任务，而非研究者预设任务。在统一智能体框架下，最强模型也仅能完成约 30% 的任务，复杂指令遵循和领域专业知识是主要失败来源。该基准揭示了当前通用智能体在真实用户任务上的能力边界。",
+      "category": "paper",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmszieman0euzrodptihyllom"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "工作流",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cmsxv0p3v0bntroz0227a6b3j",
       "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
       "title_en": "Build zero-trust AI agents with Google's Agent Development Kit",
@@ -1286,6 +1451,33 @@
         "提示词",
         "agent",
         "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmszjb3rd0fhzrodppgi66348",
+      "title": "腾讯混元 Hy3 接入讯兔科技 Alpha派，深化 AI 投研应用实践",
+      "title_en": "Hy3 接入讯兔科技 Alpha派，携手深化AI投研应用实践",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498239&idx=1&sn=ca26e2f91e35cb1043dbd05b0a6448b0",
+      "permalink": "https://aihot.virxact.com/items/cmszjb3rd0fhzrodppgi66348",
+      "source": "公众号：腾讯混元",
+      "publishedAt": "2026-08-19T03:25:44.000Z",
+      "discoveredAt": "2026-08-19T03:31:00.208Z",
+      "summary": "腾讯混元 Hy3 已接入金融 AI 企业讯兔科技旗下 Alpha派，其 AI 投研工作台 PaiWork 可直接使用 Hy3 模型。Hy3 采用 MoE 架构，总参数 295B、激活参数 21B，支持 256K 上下文长度，发布首周 API 调用量较上一代增长 68 倍。此次接入将 Hy3 的复杂推理与 Agent 任务规划能力带入专业投研工作流，并凭借高性价比降低规模化调用门槛。",
+      "category": "industry",
+      "score": 42,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmszjb3rd0fhzrodppgi66348"
+      },
+      "sourceType": "公众号",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "工作流",
+        "agent"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -1392,60 +1584,6 @@
       "editorialScore": 7,
       "tags": [
         "工作流"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmsxh2s5p01rprosw204ap68x",
-      "title": "AI 生成的 GitHub Copilot\"自动修复\"功能导致 Snowflake 的 Jira 系统遭到入侵",
-      "title_en": "由 AI 生成的 GitHub Copilot\"自动修复\"功能导致 Snowflake 的 Jira 系统遭到入侵",
-      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "permalink": "https://aihot.virxact.com/items/cmsxh2s5p01rprosw204ap68x",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-17T16:38:11.073Z",
-      "discoveredAt": "2026-08-17T16:53:01.024Z",
-      "summary": "一个由 AI 生成的修复方案在 Snowflake 公共仓库中引入了工作流注入漏洞，并在数天内被 Wiz Red Agent 发现。该漏洞导致 Snowflake 的 Jira 系统遭到入侵。Wiz Red Agent 已发布完整研究分析。",
-      "category": "paper",
-      "score": 59,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsxh2s5p01rprosw204ap68x"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "工作流",
-        "agent"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmsxf8cmu02slroi2hvfzgfff",
-      "title": "GitHub 如何用 canvases 让智能体工作流可见、可控且成本高效",
-      "title_en": "How canvases make agentic workflows visible， steerable， and cost-efficient",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
-      "permalink": "https://aihot.virxact.com/items/cmsxf8cmu02slroi2hvfzgfff",
-      "source": "GitHub Blog",
-      "publishedAt": "2026-08-17T16:00:00.000Z",
-      "discoveredAt": "2026-08-17T16:01:21.778Z",
-      "summary": "GitHub 博客介绍如何用 canvases 让智能体工作流可见、可控且成本高效。作者认为聊天适合表达意图，但智能体工作会淹没在滚动中，而 canvas 能让工作流更清晰。文章分享了作者在智能体工作流中使用 canvases 的实践，并建议其他工作流也值得引入 canvas。",
-      "category": "tip",
-      "score": 28,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsxf8cmu02slroi2hvfzgfff"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "工作流",
-        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
