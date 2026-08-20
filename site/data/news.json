@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-20T01:51:26.170Z",
-  "previousGeneratedAt": "2026-08-19T13:08:29.861Z",
+  "generatedAt": "2026-08-20T07:05:40.229Z",
+  "previousGeneratedAt": "2026-08-20T01:51:26.170Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 41,
+  "itemCount": 39,
   "sourceCounts": {
-    "网站": 15,
+    "网站": 13,
     "X": 24,
     "公众号": 2
   },
@@ -100,35 +100,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmsytcurx02qeros3g678n1i7",
-      "title": "OJO 设计智能体工作台：品味即护城河",
-      "title_en": "Software is about to have a taste problem. Generating a working app is close to free now， and from …",
-      "url": "https://x.com/kimmonismus/status/2089734075208671427",
-      "permalink": "https://aihot.virxact.com/items/cmsytcurx02qeros3g678n1i7",
-      "source": "X：Kim (@kimmonismus)",
-      "publishedAt": "2026-08-18T15:20:03.000Z",
-      "discoveredAt": "2026-08-18T15:24:29.906Z",
-      "summary": "OJO 推出首个设计智能体团队工作台，可组建负责产品策略、视觉、文案与原型的设计智能体团队，调用 300+ 技能，将自然语言想法转化为 PRD、页面结构、UI 及可编辑原型，并支持导出 Figma 或通过 CLI 接入 Claude Code、Codex。Kim 认为，生成可用应用已近乎免费，未来产品差异取决于判断力与品味，未来两年胜出的是对\"好\"有最强主张的团队。",
-      "category": "ai-products",
-      "score": 34,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsytcurx02qeros3g678n1i7"
-      },
-      "sourceType": "X",
-      "designCategory": "设计工具",
-      "relevanceScore": 14,
-      "editorialScore": 19,
-      "tags": [
-        "figma",
-        "原型",
-        "ui",
-        "视觉"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
       "id": "cmt0cv118192srodpl2t5jlw9",
       "title": "CapCut前负责人打造AI设计团队OJO",
       "title_en": "1/ The former leader of CapCut is now building something interesting @OJOaidesign It is not just an…",
@@ -156,35 +127,6 @@
         "视觉"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "cmsyuee7f000irobqbzybcq21",
-      "title": "Populous 如何用 Runway 呈现全球标志性场馆设计",
-      "title_en": "How Populous Brings the World's Most Iconic Venue Designs to Life with Runway",
-      "url": "https://runwayml.com/news/customers/populous",
-      "permalink": "https://aihot.virxact.com/items/cmsyuee7f000irobqbzybcq21",
-      "source": "Runway：News（网页）",
-      "publishedAt": "2026-08-18T15:53:44.394Z",
-      "discoveredAt": "2026-08-18T15:53:44.394Z",
-      "summary": "全球设计公司 Populous 高级建筑师 Georgina Myers 介绍团队用 Runway 辅助体育场馆概念设计：过去完整视频需外部渲染团队至少三周，且提交前两周须冻结设计模型；如今 Runway 能生成传达尺度感的完整渲染和航拍图，将视觉制作时间缩短，让设计师把时间还给设计本身。该工具已用于利雅得 MBS 体育场等中东项目，支持 9 种不同活动模式的场景迭代。",
-      "category": "tip",
-      "score": 40,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsyuee7f000irobqbzybcq21"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 13,
-      "editorialScore": 16,
-      "tags": [
-        "设计师",
-        "runway",
-        "视觉",
-        "设计"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmt0ln7du07spro2ot5ncshy2",
@@ -410,33 +352,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmsyuhjpx017qrobqtv8un9vr",
-      "title": "Miles v0.1：面向前沿模型的生产级后训练系统",
-      "title_en": "Blog Miles v0.1： Production-level Post-training We present Miles v0.1， a full-stack production-ready system for frontier post-training， the successor to our first Miles release 【1】. Building upon slime's 【16】 clean design， Miles optimizes every sta… Miles Team",
-      "url": "https://www.lmsys.org/blog/2026-08-18-miles-v0-1",
-      "permalink": "https://aihot.virxact.com/items/cmsyuhjpx017qrobqtv8un9vr",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "publishedAt": "2026-08-18T15:56:07.649Z",
-      "discoveredAt": "2026-08-18T15:56:07.649Z",
-      "summary": "Miles v0.1 发布，这是一套面向前沿模型后训练的全栈生产级系统，也是首个 Miles 版本的继任者。该系统基于 slime 的简洁设计，对后训练流程的每个阶段进行了优化，旨在为前沿模型的后训练提供完整、可落地的工程化方案。",
-      "category": "ai-products",
-      "score": 38,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsyuhjpx017qrobqtv8un9vr"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "design",
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmt07x7gd1509rodp5565wtn7",
       "title": "Runway 上线 MiniMax H3 无限量生成",
       "title_en": "MiniMax H3 is now unlimited on Runway. For a limited time， Max plan users can generate as much as t…",
@@ -575,32 +490,56 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cmsyvh6gr024krobqrsvbu5n8",
-      "title": "苹果带摄像头 AirPods 为何可能不像消费者担心的那样\"偷拍\"",
-      "title_en": "Why Apple's camera-equipped AirPods may not be the 'pervert pods' consumers fear",
-      "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear",
-      "permalink": "https://aihot.virxact.com/items/cmsyvh6gr024krobqrsvbu5n8",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-08-18T16:19:10.000Z",
-      "discoveredAt": "2026-08-18T16:23:52.578Z",
-      "summary": "苹果被曝将推出带摄像头的 AirPods，但据 macOS 26.7 RC 泄露视频与代码，其摄像头仅作 Siri 的\"眼睛\"，无法拍照或录像，用于识别书籍、食材等环境信息。设备将配备 LED 指示灯，在共享视觉数据时亮起以示透明。该功能旨在推动用户减少掏出 iPhone，更自然地与升级版 Siri AI 交互。",
-      "category": "tip",
-      "score": 52,
+      "id": "cmt140lha0ntvro2omee06giw",
+      "title": "OpenClaw 新版本功能演示与稳定性说明",
+      "title_en": "Live Demo： OpenClaw's New Web UI， Multiplayer OpenClaw， and Mac Onboarding @hrudolph， @Pat_Erichsen…",
+      "url": "https://x.com/openclaw/status/2090314770893467817",
+      "permalink": "https://aihot.virxact.com/items/cmt140lha0ntvro2omee06giw",
+      "source": "X：OpenClaw (@openclaw)",
+      "publishedAt": "2026-08-20T05:47:32.000Z",
+      "discoveredAt": "2026-08-20T05:58:28.006Z",
+      "summary": "现场演示：OpenClaw 的新 Web UI、多人版 OpenClaw 和 Mac 入门指南\n\n@hrudolph、@Pat_Erichsen 和 @jlehman_ 演示了下一个 OpenClaw 版本将带来的功能，并解释了为什么稳定性需要额外的时间。\n\nThe ClawCast 第 8 集：https://openclaw.ai/podcast/episode-8",
+      "category": "ai-products",
+      "score": 20,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsyvh6gr024krobqrsvbu5n8"
+        "canonical": "https://aihot.virxact.com/items/cmt140lha0ntvro2omee06giw"
       },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
       "tags": [
-        "视觉",
-        "交互",
-        "视频"
+        "ui"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmt10220r0kooro2o1f3xw8k8",
+      "title": "Qwen3.8-Max登顶前端代码榜第四",
+      "title_en": "Great UI starts with good code. Give Qwen3.8-Max a try on Kilo！ 👀 @kilocode",
+      "url": "https://x.com/Alibaba_Qwen/status/2090286602153295885",
+      "permalink": "https://aihot.virxact.com/items/cmt10220r0kooro2o1f3xw8k8",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "publishedAt": "2026-08-20T03:55:36.000Z",
+      "discoveredAt": "2026-08-20T04:07:37.099Z",
+      "summary": "优秀的UI始于良好的代码。在Kilo上试试Qwen3.8-Max吧！👀 @kilocode",
+      "category": "ai-products",
+      "score": 24,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt10220r0kooro2o1f3xw8k8"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "ui"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmt0u7kxd0fd3ro2okfnsdje6",
@@ -957,6 +896,34 @@
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
+      "id": "cmt12t74i0mqzro2os9t9z8b4",
+      "title": "索尔喜欢作弊：GPT-5.6 Sol 在 Terminal Bench 2.1 上达到 94% 后开始作弊",
+      "title_en": "索尔喜欢作弊",
+      "url": "https://jumploops.com/blog/sol-loves-to-cheat",
+      "permalink": "https://aihot.virxact.com/items/cmt12t74i0mqzro2os9t9z8b4",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-20T04:54:00.256Z",
+      "discoveredAt": "2026-08-20T05:24:43.630Z",
+      "summary": "开发者用自建 supervisor 智能体 chum-codex 自动化\"规格驱动\"开发流程，在 Terminal Bench 2.1 上达到 89.9%，超过 vanilla Codex 的 88.8%。",
+      "category": "tip",
+      "score": 55,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt12t74i0mqzro2os9t9z8b4"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "自动化",
+        "codex",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cmt0px8kn0bt6ro2ofybl81iq",
       "title": "OpenAI 扩展零数据留存安全机制，自动化分析跨交互风险",
       "title_en": null,
@@ -981,33 +948,6 @@
         "交互",
         "提示词",
         "自动化"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmt0kd4580712ro2o8cn76pny",
-      "title": "猜猜未发布模型？赛博朋克测试图引热议",
-      "title_en": "Guess the model？ （Unreleased， ofc） 👀 Test prompt： \"Cyberpunk hacker robot working in front of many…",
-      "url": "https://x.com/testingcatalog/status/2090173545590530365",
-      "permalink": "https://aihot.virxact.com/items/cmt0kd4580712ro2o8cn76pny",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-08-19T20:26:21.000Z",
-      "discoveredAt": "2026-08-19T20:48:18.591Z",
-      "summary": "猜猜是哪个模型？（未发布，当然）👀\n\n测试提示词：\"赛博朋克黑客机器人在多台显示器前工作\"",
-      "category": "ai-models",
-      "score": 30,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt0kd4580712ro2o8cn76pny"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "提示词",
-        "prompt"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
