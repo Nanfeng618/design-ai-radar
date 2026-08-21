@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-21T01:57:17.549Z",
-  "previousGeneratedAt": "2026-08-20T13:10:47.052Z",
+  "generatedAt": "2026-08-21T07:07:09.545Z",
+  "previousGeneratedAt": "2026-08-21T01:57:17.549Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 47,
+  "itemCount": 53,
   "sourceCounts": {
     "X": 24,
-    "网站": 23
+    "网站": 29
   },
   "source": {
     "name": "AI HOT",
@@ -99,6 +99,35 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmt2iyfa001qhroy5rl2kg6nj",
+      "title": "AI图像生成为何达不到真正设计标准",
+      "title_en": "设计 长期被错误/简单的理解为 装饰，尽管连现代主义都过去 100 多年了 然而更可怕的是，AI 不仅没有扭转，反而更加深了这种认识，甚至对 装饰 的理解都降级了 就哪怕从完成一次装饰来说，精通绘…",
+      "url": "https://x.com/ZHO_ZHO_ZHO/status/2090671131875524866",
+      "permalink": "https://aihot.virxact.com/items/cmt2iyfa001qhroy5rl2kg6nj",
+      "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+      "publishedAt": "2026-08-21T05:23:35.000Z",
+      "discoveredAt": "2026-08-21T05:44:26.214Z",
+      "summary": "ZHO指出，设计长期被误读为装饰，而AI不仅未扭转这一认知，反而加深了误解。他引用保罗·兰德的观点：将视觉元素赏心悦目地排布不等于好的布局，这正是AI图像生成无法达到真正设计标准的原因。从拼凑到原创设计、风格乃至方法论，每一步都差距巨大。",
+      "category": "tip",
+      "score": 38,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt2iyfa001qhroy5rl2kg6nj"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 15,
+      "editorialScore": 18,
+      "tags": [
+        "图像生成",
+        "视觉",
+        "设计",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmt1w7h4k0aeoroova1jqd2o4",
       "title": "Claude Managed Agents 接入 AG-UI 新指南",
       "title_en": "Claude Managed Agents can power many different UIs. Our new cookbook pairs Claude Managed Agents w…",
@@ -155,6 +184,64 @@
         "视觉"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmt2dy0l302srroc97q9dlpto",
+      "title": "阿里云：GLM-5.3、Deepseek-V4-Pro 等多款模型上线千问 AI 平台",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/992/511.htm",
+      "permalink": "https://aihot.virxact.com/items/cmt2dy0l302srroc97q9dlpto",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-21T03:06:31.000Z",
+      "discoveredAt": "2026-08-21T03:24:09.671Z",
+      "summary": "阿里云MaaS扩充模型服务矩阵，GLM-5.3和DeepSeek-V4-Pro正式版接入千问AI平台，API同步开放。GLM-5.3强化编程、长程任务处理和网络安全能力；DeepSeek-V4-Pro增强智能体能力。平台已接入Qwen3.8-Max、Wan3.0、Kimi K3等模型，覆盖文本、代码、语音、图像及视频生成。",
+      "category": "ai-products",
+      "score": 53,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt2dy0l302srroc97q9dlpto"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 14,
+      "editorialScore": 17,
+      "tags": [
+        "视频生成",
+        "视频",
+        "图像",
+        "智能体"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt2dcr4r02gqroc951bxplat",
+      "title": "GPT-Image-2 支持透明背景图像生成",
+      "title_en": "Yay， you can now make transparent images in ChatGPT and through the API with GPT-Image-2. Here is a …",
+      "url": "https://x.com/thsottiaux/status/2090631723302469995",
+      "permalink": "https://aihot.virxact.com/items/cmt2dcr4r02gqroc951bxplat",
+      "source": "X：Tibo (@thsottiaux)",
+      "publishedAt": "2026-08-21T02:46:59.000Z",
+      "discoveredAt": "2026-08-21T03:07:37.367Z",
+      "summary": "太棒了，现在你可以在 ChatGPT 中以及通过 API 使用 GPT-Image-2 生成透明背景图像了。这是我即将打印并贴到笔记本电脑上的仙人掌图片。\n\n【引用 @OpenAIDevs】：GPT-Image-2 的透明背景功能现已在 API 中提供预览。\n\n生成可放置于任何背景上的可复用素材--适用于产品图像、平面设计、网站模型和营销活动。",
+      "category": "ai-products",
+      "score": 40,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt2dcr4r02gqroc951bxplat"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "图像生成",
+        "设计",
+        "图像",
+        "营销"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmt172m7c0s20ro2o1qcng635",
@@ -267,32 +354,30 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmt1d5e3e04ozro1qamjpemnd",
-      "title": "扩散语言模型驱动的实时交互视频生成公司SigmaZ AI，完成数百万美元融资|蓝驰家族",
+      "id": "cmt2dy0l302svroc9bovab93s",
+      "title": "前摩托罗拉设备总裁 Sergio Buniac 将领导高通移动、计算、个人 AI 业务",
       "title_en": null,
-      "url": "https://elsewhere.news/zh/lanchi/sigmaz-ai",
-      "permalink": "https://aihot.virxact.com/items/cmt1d5e3e04ozro1qamjpemnd",
-      "source": "elsewhere：文章（RSS）",
-      "publishedAt": "2026-08-19T15:00:00.000Z",
-      "discoveredAt": "2026-08-20T10:14:09.045Z",
-      "summary": null,
+      "url": "https://www.ithome.com/0/992/495.htm",
+      "permalink": "https://aihot.virxact.com/items/cmt2dy0l302svroc9bovab93s",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-21T02:53:33.000Z",
+      "discoveredAt": "2026-08-21T03:24:09.671Z",
+      "summary": "高通宣布，自 2018 年起担任联想旗下摩托罗拉设备总裁的 Sergio Buniac 将于 9 月 2 日正式加入，出任执行副总裁及移动、计算、个人人工智能业务集团总经理。他将负责包括新一代 AI 设备的智能手机、个人计算、智能可穿戴设备和扩展现实业务，直接向高通总裁兼 CEO 安蒙汇报。安蒙称其拥有超 30 年移动行业经验，将在代理式人工智能时代拓展骁龙平台驱动的用户体验。",
       "category": "industry",
-      "score": 25,
+      "score": 53,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt1d5e3e04ozro1qamjpemnd"
+        "canonical": "https://aihot.virxact.com/items/cmt2dy0l302svroc9bovab93s"
       },
       "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
       "tags": [
-        "视频生成",
-        "交互",
-        "视频"
+        "用户体验"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmt1hzrpz050urokxrnypoyr0",
@@ -322,31 +407,29 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmt078zvq14e6rodpgdg6ynpb",
-      "title": "马斯克分享Grok Bot设计，社区已建170+机器人目录",
-      "title_en": "Share your Grok @Bot design with others！",
-      "url": "https://x.com/elonmusk/status/2090079706402164857",
-      "permalink": "https://aihot.virxact.com/items/cmt078zvq14e6rodpgdg6ynpb",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "publishedAt": "2026-08-19T14:13:28.000Z",
-      "discoveredAt": "2026-08-19T14:41:11.827Z",
-      "summary": "分享你的 Grok @Bot 设计给其他人！\n\n【引用 @karanC_12】：有人刚刚建立了一个包含 170 多个即用型 Grok Bot 的目录。\n\n营销、销售、生产力、运营……应有尽有。\n\n只需复制提示词 → 粘贴到 Grok → 完成。\n\n而且它完全开源。\n\n人们正在围绕 Grok 极速构建生态。",
-      "category": "tip",
-      "score": 26,
+      "id": "cmt2daxf702egroc9bms467o0",
+      "title": "Repo0：面向零到全量代码生成的设计驱动框架",
+      "title_en": "Repo0： Design-Driven Zero-to-All Code Generation",
+      "url": "https://arxiv.org/abs/2608.19854",
+      "permalink": "https://aihot.virxact.com/items/cmt2daxf702egroc9bms467o0",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-20T00:00:00.000Z",
+      "discoveredAt": "2026-08-21T03:06:14.519Z",
+      "summary": "Repo0提出一种连续结构演化框架，用于从自然语言需求直接构建完整软件项目并全程维持模块化仓库架构。它通过Dual-DAG架构状态和模块化度量引导的结构动作迭代演化组件边界，直至结构收敛后驱动测试驱动开发。",
+      "category": "paper",
+      "score": 45,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt078zvq14e6rodpgdg6ynpb"
+        "canonical": "https://aihot.virxact.com/items/cmt2daxf702egroc9bms467o0"
       },
-      "sourceType": "X",
+      "sourceType": "网站",
       "designCategory": "产品与体验",
       "relevanceScore": 9,
       "editorialScore": 13,
       "tags": [
         "design",
-        "设计",
-        "提示词",
-        "营销"
+        "设计"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
@@ -486,29 +569,29 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmt07x7gd1509rodp5565wtn7",
-      "title": "Runway 上线 MiniMax H3 无限量生成",
-      "title_en": "MiniMax H3 is now unlimited on Runway. For a limited time， Max plan users can generate as much as t…",
-      "url": "https://x.com/runwayml/status/2090090516151243063",
-      "permalink": "https://aihot.virxact.com/items/cmt07x7gd1509rodp5565wtn7",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-08-19T14:56:25.000Z",
-      "discoveredAt": "2026-08-19T15:00:00.919Z",
-      "summary": "MiniMax H3 现已在 Runway 上无限量使用。\n\n限时活动期间，Max 套餐用户可随心所欲地生成内容，无上限、不计数，尽情使用这款目前最优秀的视频模型之一。点击下方链接立即开始。",
-      "category": "ai-products",
-      "score": 40,
+      "id": "cmt2g38l9037wrolx5yyolpq0",
+      "title": "商汤开源 8B 参数多模态大模型 SenseNova U1.5 Lite，原生支持 4K 图像输出",
+      "title_en": "原生支持 4K 图像输出，商汤开源 8B 参数量多模态大模型 SenseNova U1.5 Lite",
+      "url": "https://www.ithome.com/0/992/589.htm",
+      "permalink": "https://aihot.virxact.com/items/cmt2g38l9037wrolx5yyolpq0",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-21T04:20:53.000Z",
+      "discoveredAt": "2026-08-21T04:24:10.588Z",
+      "summary": "商汤科技今日宣布开源轻量级原生统一多模态大模型 SenseNova U1.5 Lite，该模型拥有 8B 参数，原生支持 3-4k 上下文长度和 4K 高分辨率图像输出。模型支持 Bounding Box、Visual Marker 及多图参考等精细视觉控制，在指令遵循与图像编辑保持度上超越同量级模型，文字渲染与复杂布局能力媲美超大规模商业模型。",
+      "category": "ai-models",
+      "score": 48,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt07x7gd1509rodp5565wtn7"
+        "canonical": "https://aihot.virxact.com/items/cmt2g38l9037wrolx5yyolpq0"
       },
-      "sourceType": "X",
+      "sourceType": "网站",
       "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
+      "relevanceScore": 8,
+      "editorialScore": 11,
       "tags": [
-        "runway",
-        "视频"
+        "视觉",
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -705,6 +788,86 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmt2hlace04l7rolxsauurmby",
+      "title": "FlashPrefill V2：面向长上下文 LLM 服务的块稀疏预填充注意力",
+      "title_en": "FlashPrefill V2： Block-Sparse Prefill Attention for Long-Context LLM Serving",
+      "url": "https://arxiv.org/abs/2608.19758",
+      "permalink": "https://aihot.virxact.com/items/cmt2hlace04l7rolxsauurmby",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-20T08:02:55.000Z",
+      "discoveredAt": "2026-08-21T05:06:15.962Z",
+      "summary": "FlashPrefill V2 将稀疏注意力从算法原型推进到实用化长上下文服务，通过均值校正项抑制近似误差，并采用 PackGQA 内存访问、warp 特化和 pingpong 流水线，对齐 FlashAttention-3/4 并支持 FP8 推理。",
+      "category": "paper",
+      "score": 56,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt2hlace04l7rolxsauurmby"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
+      "tags": [
+        "原型"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmt2b5r5c0mjnroovvegud33m",
+      "title": "PolicyGuide：从单步守护到全流程引导的合规 LLM 智能体",
+      "title_en": "PolicyGuide： From Guarding One Action to Guiding the Whole Workflow for Policy-Compliant LLM Agents",
+      "url": "https://arxiv.org/abs/2608.19861",
+      "permalink": "https://aihot.virxact.com/items/cmt2b5r5c0mjnroovvegud33m",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-20T00:00:00.000Z",
+      "discoveredAt": "2026-08-21T02:06:13.883Z",
+      "summary": "PolicyGuide 将领域策略编译为工作流图，并在用户轮次边界调用主动验证器，从持久化图状态协调未决请求、返回合规路径上的分步修复。",
+      "category": "paper",
+      "score": 58,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt2b5r5c0mjnroovvegud33m"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 10,
+      "editorialScore": 11,
+      "tags": [
+        "工作流",
+        "workflow",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmt2b5r5c0mjkroovyu7h3by6",
+      "title": "WithEveryone：面向群像生成的统一规划与身份锚定框架",
+      "title_en": "WithEveryone： Unified Planning and Identity Grounding for Group Image Generation",
+      "url": "https://arxiv.org/abs/2608.20336",
+      "permalink": "https://aihot.virxact.com/items/cmt2b5r5c0mjkroovyu7h3by6",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-20T00:00:00.000Z",
+      "discoveredAt": "2026-08-21T02:06:13.883Z",
+      "summary": "WithEveryone 提出统一框架，支持生成包含至多十个参考身份的群像。其核心目标 Layout-Grounded ID Loss 利用标注人脸区域直接监督目标身份，避免不稳定的嵌入匹配；在身份不相交基准上，目标上下文身份相似度从 GPT-Image-2 的 0.462 提升至 0.499，复制粘贴伪影从 0.169 降至 0.055，身份覆盖率达 97.3%，重复率仅 2.8%。",
+      "category": "paper",
+      "score": 51,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt2b5r5c0mjkroovyu7h3by6"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "image generation"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmt0ppzyf0br1ro2oaj3gyjwk",
       "title": "Grok Build v1.0.7 更新：新增工作流目录与权限选项",
       "title_en": "🚨 NEW GROK BUILD UPDATE 🚨 Grok Build v1.0.7 is now available. Features • Users can now raise th…",
@@ -730,6 +893,34 @@
         "工作流",
         "workflow",
         "mcp"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmt2e5z4o0150rolxr9qhnvd3",
+      "title": "Grok Bot 当 CTO：AI 智能体团队工作流",
+      "title_en": "now you can hire Lauren Bot as a CTO！",
+      "url": "https://x.com/poteto/status/2090589832401891490",
+      "permalink": "https://aihot.virxact.com/items/cmt2e5z4o0150rolxr9qhnvd3",
+      "source": "X：Lauren Tan (@poteto)",
+      "publishedAt": "2026-08-21T00:00:31.000Z",
+      "discoveredAt": "2026-08-21T00:00:31.000Z",
+      "summary": "开发者将 Grok Bot 设为 CTO，让其接管 GitHub 仓库、启动云端智能体并跟踪 PR，任务复杂时启用 poteto-mode。通过第二段提示词，主智能体可招募子智能体分工处理 PR、Convex 后端和认证，开发者仅以只读方式查看线程。该工作流 token 消耗极高，单日可超 20 亿，需将 pstack 插件仅用于困难任务；它不替代工程师，只是让开发者脱离协调角色。",
+      "category": "tip",
+      "score": 27,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt2e5z4o0150rolxr9qhnvd3"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 9,
+      "editorialScore": 10,
+      "tags": [
+        "工作流",
+        "提示词",
+        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -980,58 +1171,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmt07q43614ozrodp6erwh318",
-      "title": "Show HN：modelmap 将任意 HuggingFace 模型可视化为交互式动画架构",
-      "title_en": "Show HN： 任何 HuggingFace 模型的交互式动画化架构",
-      "url": "https://modelmap.cc/",
-      "permalink": "https://aihot.virxact.com/items/cmt07q43614ozrodp6erwh318",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-19T14:46:17.538Z",
-      "discoveredAt": "2026-08-19T14:54:30.605Z",
-      "summary": "modelmap 上线，粘贴 Hugging Face 模型 ID 即可获得网络结构的动态可视化图，无需下载权重。该工具支持 Qwen3.8-27B、DeepSeek-V4-Pro-0813、Kimi-K3 等热门模型，并内置 GPT-2、BERT、DeepSeek-V3.1 等经典参考架构，可即时对比分析。",
-      "category": "ai-products",
-      "score": 64,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt07q43614ozrodp6erwh318"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmt1ru8da065qroovt8s3htoe",
-      "title": "商汤开源 SenseNova U1.5 Lite 轻量多模态模型",
-      "title_en": "SenseNova U1.5 Lite - Sharper. More Controllable. More C…",
-      "url": "https://x.com/SenseTime_AI/status/2090483079412580442",
-      "permalink": "https://aihot.virxact.com/items/cmt1ru8da065qroovt8s3htoe",
-      "source": "X：商汤 SenseTime (@SenseTime_AI)",
-      "publishedAt": "2026-08-20T16:56:20.000Z",
-      "discoveredAt": "2026-08-20T17:05:19.455Z",
-      "summary": "商汤发布开源轻量级原生统一多模态模型 SenseNova U1.5 Lite，仅 8B 参数，支持视觉理解、生成与编辑。该模型主打原生 4K 生成、复杂指令跟随、中英文文本渲染及多图参考编辑，在指令跟随和编辑保持上超越同尺寸模型，文本渲染与复杂布局上比肩大型商业模型。",
-      "category": "ai-models",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt1ru8da065qroovt8s3htoe"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "视觉"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmt0bd90e17xyrodpl457pxr2",
       "title": "Databricks 如何从单一提示词设计高效的 Genie Agents",
       "title_en": "Designing effective Genie Agents from a single prompt",
@@ -1059,6 +1198,33 @@
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmt2btz4a0n23roov1m3o8xdf",
+      "title": "在欧盟，版权不保护由人工智能生成的内容",
+      "title_en": null,
+      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+      "permalink": "https://aihot.virxact.com/items/cmt2btz4a0n23roov1m3o8xdf",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-21T02:13:46.266Z",
+      "discoveredAt": "2026-08-21T02:25:02.863Z",
+      "summary": "欧盟法律明确，由人工智能生成的内容不受版权保护。这一裁定意味着AI生成作品进入公共领域，任何人都可自由使用，无需授权或付费。该立场对依赖AI创作的个人与企业影响深远，可能重塑内容创作与版权归属的边界。",
+      "category": "industry",
+      "score": 47,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt2btz4a0n23roov1m3o8xdf"
+      },
+      "sourceType": "网站",
+      "designCategory": "行业观察",
+      "relevanceScore": 8,
+      "editorialScore": 8,
+      "tags": [
+        "内容创作",
+        "版权"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "cmt1pe86v042rroovpzyjsq7t",
