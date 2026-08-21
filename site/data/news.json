@@ -1,13 +1,12 @@
 {
-  "generatedAt": "2026-08-20T13:10:47.052Z",
-  "previousGeneratedAt": "2026-08-20T07:05:40.229Z",
+  "generatedAt": "2026-08-21T01:57:17.549Z",
+  "previousGeneratedAt": "2026-08-20T13:10:47.052Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
   "itemCount": 47,
   "sourceCounts": {
-    "网站": 21,
     "X": 24,
-    "公众号": 2
+    "网站": 23
   },
   "source": {
     "name": "AI HOT",
@@ -15,33 +14,33 @@
   },
   "items": [
     {
-      "id": "cmszj1tvi0fagrodp38da2g3b",
-      "title": "Anthropic 预告 Claude Code 将整合 /design 命令",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/991/488.htm",
-      "permalink": "https://aihot.virxact.com/items/cmszj1tvi0fagrodp38da2g3b",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-19T02:48:24.000Z",
-      "discoveredAt": "2026-08-19T03:23:47.571Z",
-      "summary": "Anthropic 产品设计师 Nate Parrott 预告将在 Claude Code 中整合推出 /design 命令。开发者可在编写代码前于终端或桌面版 Claude Code 中创建设计模型，如输入\"/design a few options for {feature}\"生成多个草稿作为画板，并可选择编辑后构建。",
-      "category": "ai-products",
-      "score": 33,
+      "id": "cmt225mkp0emdroovljnfycib",
+      "title": "阿里 Qwen-Image-3.0-Pro 登顶图像编辑榜第六",
+      "title_en": "Alibaba's Qwen-Image-3.0-Pro lands at #6 on the Artificial Analysis Image Editing Leaderboard and #9…",
+      "url": "https://x.com/ArtificialAnlys/status/2090553278144860623",
+      "permalink": "https://aihot.virxact.com/items/cmt225mkp0emdroovljnfycib",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "publishedAt": "2026-08-20T21:35:16.000Z",
+      "discoveredAt": "2026-08-20T21:54:09.050Z",
+      "summary": "阿里发布第三代图像模型 Qwen-Image-3.0 系列，旗舰版 Pro 在 Artificial Analysis 图像编辑榜位列第六、文生图榜第九，较上代分别提升 83 和 48 Elo 分。该系列支持 4.5k token 提示词、10 像素级精确文字渲染及 12 种语言，Pro 版定价 $0.04/张（1K 分辨率），已在阿里云 Model Studio 上线。",
+      "category": "ai-models",
+      "score": 63,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmszj1tvi0fagrodp38da2g3b"
+        "canonical": "https://aihot.virxact.com/items/cmt225mkp0emdroovljnfycib"
       },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 23,
-      "editorialScore": 27,
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 18,
+      "editorialScore": 21,
       "tags": [
-        "产品设计",
-        "设计师",
-        "design",
-        "设计"
+        "文生图",
+        "生图",
+        "图像",
+        "提示词"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmt0e45ge01avro2od83ugt7e",
@@ -98,6 +97,35 @@
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt1w7h4k0aeoroova1jqd2o4",
+      "title": "Claude Managed Agents 接入 AG-UI 新指南",
+      "title_en": "Claude Managed Agents can power many different UIs. Our new cookbook pairs Claude Managed Agents w…",
+      "url": "https://x.com/ClaudeDevs/status/2090511582531072265",
+      "permalink": "https://aihot.virxact.com/items/cmt1w7h4k0aeoroova1jqd2o4",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "publishedAt": "2026-08-20T18:49:35.000Z",
+      "discoveredAt": "2026-08-20T19:07:37.456Z",
+      "summary": "Claude Managed Agents 可以驱动多种不同的用户界面。\n\n我们的新 cookbook 将 Claude Managed Agents 与 @CopilotKit 的开源 Agent-用户交互协议 AG-UI 相结合。",
+      "category": "tip",
+      "score": 28,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt1w7h4k0aeoroova1jqd2o4"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 14,
+      "editorialScore": 18,
+      "tags": [
+        "ui",
+        "界面",
+        "交互",
+        "agent"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmt0cv118192srodpl2t5jlw9",
@@ -267,63 +295,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmt04j4qh11t5rodplbqyxhes",
-      "title": "Anthropic 让 Claude 智能体运行完整蛋白质设计流程，药物发现命中率超行业水平",
-      "title_en": "Anthropic says any lab can now let a language model agent run the whole protein design stack",
-      "url": "https://the-decoder.com/anthropic-says-any-lab-can-now-let-a-language-model-agent-run-the-whole-protein-design-stack",
-      "permalink": "https://aihot.virxact.com/items/cmt04j4qh11t5rodplbqyxhes",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-08-19T13:07:56.000Z",
-      "discoveredAt": "2026-08-19T13:25:05.756Z",
-      "summary": "Anthropic 发布两项实验，让 Claude 模型（Mythos Preview 和 Opus 4.8）参与早期药物发现。针对 16 个靶蛋白，Claude 在 15 个中成功 14 个，1，320 个设计中 354 个实际结合靶点，命中率 26.8%，高于行业通常的 10%-15%。",
-      "category": "paper",
-      "score": 62,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt04j4qh11t5rodplbqyxhes"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 10,
-      "editorialScore": 14,
-      "tags": [
-        "design",
-        "设计",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmszsyc1p0pt3rodpq65vcg7t",
-      "title": "Vidu S1 助力 360 打造《甄嬛传》数字人新玩法",
-      "title_en": "技术赋能 IP 新体验，Vidu S1 助力 360 打造《甄嬛传》数字人新玩法",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489072&idx=1&sn=7133cd05a477edeb31417e6545bae14f",
-      "permalink": "https://aihot.virxact.com/items/cmszsyc1p0pt3rodpq65vcg7t",
-      "source": "公众号：生数科技（Vidu·视频）",
-      "publishedAt": "2026-08-19T07:55:31.000Z",
-      "discoveredAt": "2026-08-19T08:01:01.652Z",
-      "summary": "Vidu 与 360 达成技术合作，以自研 Vidu S1 实时交互视频生成模型为底层支撑，落地「甄嬛 360 传粉丝见面会」线上 H5 活动，支持用户与甄嬛、华妃等十位剧中角色进行实时对话。该模型支持 1 分钟至 2 小时持续无损渲染、秒级响应及百余种语言与方言，并提供 SaaS、MaaS 两种轻量化接入方案。",
-      "category": "industry",
-      "score": 43,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmszsyc1p0pt3rodpq65vcg7t"
-      },
-      "sourceType": "公众号",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视频生成",
-        "交互",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmt1hzrpz050urokxrnypoyr0",
       "title": "可灵AI多角度生成，抢占视觉焦点",
       "title_en": "Own every angle. Steal the spotlight. ✨",
@@ -380,60 +351,112 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmszcfb6h09gnrodptwvwyvrq",
-      "title": "Grok Bot 成智能体体验分水岭，终端时代将终结",
-      "title_en": "Expect an explosion of new agent harness experiences in the coming months. Grok Bot is an important …",
-      "url": "https://x.com/omarsar0/status/2089868994182344866",
-      "permalink": "https://aihot.virxact.com/items/cmszcfb6h09gnrodptwvwyvrq",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "publishedAt": "2026-08-19T00:16:10.000Z",
-      "discoveredAt": "2026-08-19T00:18:18.925Z",
-      "summary": "主推文预测未来数月将涌现大量新型智能体（agent）交互体验，Grok Bot 是智能体领域的重要分水岭。作者认为告别终端界面是明显且必要的趋势，呼吁对新的 AI 界面保持开放心态。引用推文称，@hams 已开源其内部使用率第一的工具 berd，支持自带 harness/模型，可将工作与上下文集中管理。",
-      "category": "tip",
-      "score": 38,
+      "id": "cmt26x9ru0j87roovygewdhh0",
+      "title": "OpenRouter 上线 FLUX 视频高清放大",
+      "title_en": "FLUX Video Upscale from @bfl_ai is now available on OpenRouter. Upscale any video in 2K or 4K， with…",
+      "url": "https://x.com/OpenRouter/status/2090591152445796839",
+      "permalink": "https://aihot.virxact.com/items/cmt26x9ru0j87roovygewdhh0",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-08-21T00:05:46.000Z",
+      "discoveredAt": "2026-08-21T00:07:37.518Z",
+      "summary": "@bfl_ai 的 FLUX Video Upscale 现已在 OpenRouter 上线。\n\n可将任意视频放大至 2K 或 4K 分辨率，面部更清晰、纹理更干净、背景细节更丰富，同时保持自然的动态与真实感。",
+      "category": "ai-products",
+      "score": 50,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmszcfb6h09gnrodptwvwyvrq"
+        "canonical": "https://aihot.virxact.com/items/cmt26x9ru0j87roovygewdhh0"
       },
       "sourceType": "X",
-      "designCategory": "产品与体验",
+      "designCategory": "图像与视频",
       "relevanceScore": 9,
-      "editorialScore": 13,
+      "editorialScore": 12,
       "tags": [
-        "界面",
-        "交互",
-        "agent",
-        "智能体"
+        "flux",
+        "视频"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmszaa5fp07t4rodpywqg56mn",
-      "title": "Claude 自主设计蛋白结合剂命中率翻倍",
-      "title_en": "This is interesting： Claude is already achieving roughly twice the protein-design hit rate of conven…",
-      "url": "https://x.com/kimmonismus/status/2089852014331117694",
-      "permalink": "https://aihot.virxact.com/items/cmszaa5fp07t4rodpywqg56mn",
-      "source": "X：Kim (@kimmonismus)",
-      "publishedAt": "2026-08-18T23:08:42.000Z",
-      "discoveredAt": "2026-08-18T23:18:18.849Z",
-      "summary": "Claude 在自主蛋白结合剂设计中命中率达 27%，约为传统人工流程 10-15% 的两倍。基于专家编写的方案，Claude 针对 15 个靶点中的 14 个成功设计结合剂，独立实验室确认 1，320 个设计中 354 个结合成功。不同设置下命中率在 22.6%-35.1% 之间，排名最高的设计在 49% 的实验中成功结合。",
-      "category": "paper",
-      "score": 49,
+      "id": "cmt243gbo0h2lroovglxyzaew",
+      "title": "苹果反击OpenAI：再诉商业秘密窃取",
+      "title_en": "Apple pushes back against OpenAI's attempt to dismiss the lawsuit， again alleging widespread trade s…",
+      "url": "https://x.com/rohanpaul_ai/status/2090568414435926416",
+      "permalink": "https://aihot.virxact.com/items/cmt243gbo0h2lroovglxyzaew",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-08-20T22:35:25.000Z",
+      "discoveredAt": "2026-08-20T22:48:18.796Z",
+      "summary": "苹果8月19日向美国地区法院提交新回应，反驳OpenAI驳回诉讼的动议，重申其存在大规模商业秘密盗用。苹果指控刘畅（Chang Liu）利用认证漏洞下载数十份机密硬件文件，并称OpenAI人员借招聘套取CAD图纸、原型及供应商细节。",
+      "category": "industry",
+      "score": 63,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmszaa5fp07t4rodpywqg56mn"
+        "canonical": "https://aihot.virxact.com/items/cmt243gbo0h2lroovglxyzaew"
       },
       "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
+      "designCategory": "设计工具",
+      "relevanceScore": 7,
+      "editorialScore": 12,
       "tags": [
-        "design",
-        "设计"
+        "原型"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmt1nmtk502s1roov75goiyaz",
+      "title": "OpenAI 浏览器操作智能体发布",
+      "title_en": "OpenAI for anything you can do in your browser：",
+      "url": "https://x.com/gdb/status/2090449916456009972",
+      "permalink": "https://aihot.virxact.com/items/cmt1nmtk502s1roov75goiyaz",
+      "source": "X：Greg Brockman (@gdb)",
+      "publishedAt": "2026-08-20T14:44:33.000Z",
+      "discoveredAt": "2026-08-20T15:07:37.355Z",
+      "summary": "OpenAI 推出可在浏览器中执行任意操作的智能体。用户 @clairevo 列举了其实际用例，包括关闭会计软件账目、管理 Gmail 收件箱、设置 Stripe Radar 规则、在 Midjourney 中迭代图片、完成安全问卷、注册会议及取消订阅等。该智能体还支持通过 iPhone 镜像在桌面端操作移动应用。",
+      "category": "tip",
+      "score": 31,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt1nmtk502s1roov75goiyaz"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 9,
+      "editorialScore": 12,
+      "tags": [
+        "midjourney",
+        "智能体"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt1k19bn06qgrokx1p75h1gv",
+      "title": "Claude Code 初创公司指南：五大规则与创始人洞见",
+      "title_en": "The Claude Code Guide For Startups",
+      "url": "https://claude.com/blog/claude-code-guide-for-startups",
+      "permalink": "https://aihot.virxact.com/items/cmt1k19bn06qgrokx1p75h1gv",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-08-20T13:26:53.704Z",
+      "discoveredAt": "2026-08-20T13:26:53.704Z",
+      "summary": "Anthropic 发布面向初创公司的 Claude Code 使用指南，基于对十余家高增长公司的调研，总结出\"人人皆可交付、自动化繁琐工作、信任但验证、为重构而构建、原型-自用-产品化\"五大规则。",
+      "category": "tip",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt1k19bn06qgrokx1p75h1gv"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 7,
+      "editorialScore": 12,
+      "tags": [
+        "原型",
+        "自动化",
+        "claude code"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "cmt1j0pol05zzrokx537tlmp5",
@@ -485,6 +508,170 @@
       "editorialScore": 12,
       "tags": [
         "runway",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt29noel0l6jroovl4zo6k88",
+      "title": "Adobe Firefly 扩充 AI 音频服务，可生成音乐、配音和音效",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/992/439.htm",
+      "permalink": "https://aihot.virxact.com/items/cmt29noel0l6jroovl4zo6k88",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-21T00:57:18.000Z",
+      "discoveredAt": "2026-08-21T01:24:09.299Z",
+      "summary": "Adobe 宣布 Firefly 新增生成音乐、配音和音效三项音频功能，已面向所有用户开放。生成音乐由 Firefly Music Model 驱动，可按视频时长和氛围创作原创曲目；生成配音可将文本转为可调节语速和情绪的配音；生成音效可按动作、节奏和氛围定制。",
+      "category": "ai-products",
+      "score": 56,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt29noel0l6jroovl4zo6k88"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
+      "tags": [
+        "adobe",
+        "视频"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmt207zo90dbdroovttyiad1s",
+      "title": "GPT-Image-2 API 新增透明背景预览",
+      "title_en": "Transparent backgrounds are now available in preview for GPT-Image-2 in the API. Generate reusable …",
+      "url": "https://x.com/OpenAIDevs/status/2090536933571330440",
+      "permalink": "https://aihot.virxact.com/items/cmt207zo90dbdroovttyiad1s",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "publishedAt": "2026-08-20T20:30:19.000Z",
+      "discoveredAt": "2026-08-20T21:00:00.091Z",
+      "summary": "GPT-Image-2 现已在 API 中提供透明背景预览。\n\n生成可复用的素材，可置于任意背景之上--适用于产品图、平面设计、网站原型和营销活动。",
+      "category": "ai-products",
+      "score": 51,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt207zo90dbdroovttyiad1s"
+      },
+      "sourceType": "X",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
+      "tags": [
+        "原型",
+        "设计",
+        "营销"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmt1xx5uq0bm7roovh35tvh4a",
+      "title": "UPDF 2.5：为智能体时代打造的轻量级 Adobe 替代品",
+      "title_en": "Meet UPDF： A Lightweight Adobe Alternative Built for the Agentic Era",
+      "url": "https://www.marktechpost.com/2026/08/20/meet-updf-a-lightweight-adobe-alternative-built-for-the-agentic-era",
+      "permalink": "https://aihot.virxact.com/items/cmt1xx5uq0bm7roovh35tvh4a",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-08-20T19:34:10.000Z",
+      "discoveredAt": "2026-08-20T19:55:36.649Z",
+      "summary": "UPDF 2.5 发布，定位为轻量级 Adobe 替代品，主打 PDF 直接编辑、14 种格式转换、38 种语言 OCR，并内置 10 个 AI 智能体。该工具针对 AI 能总结长文档却难以直接改写源文件的痛点，补齐了 PDF 编辑与转换环节。",
+      "category": "ai-products",
+      "score": 33,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt1xx5uq0bm7roovh35tvh4a"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
+      "tags": [
+        "adobe",
+        "智能体"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmt1swsb006ugroovbdk5fv9y",
+      "title": "Meta 发布 Muse Spark 1.2 多模态评测与演示",
+      "title_en": "Muse Spark 1.2 supports a broad range of multimodal tasks， from turning visuals into working code to…",
+      "url": "https://x.com/AIatMeta/status/2090485743034716420",
+      "permalink": "https://aihot.virxact.com/items/cmt1swsb006ugroovbdk5fv9y",
+      "source": "X：AI at Meta (@AIatMeta)",
+      "publishedAt": "2026-08-20T17:06:55.000Z",
+      "discoveredAt": "2026-08-20T17:35:19.762Z",
+      "summary": "Meta 发布 Muse Spark 1.2 新评测与演示，展示其多模态能力广度，涵盖视觉转代码、感知转物理动作及音视频理解。演示中，模型解析多模态观察并调用工具，引导机器人在非结构化环境中导航寻找橡皮鸭。",
+      "category": "ai-models",
+      "score": 53,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt1swsb006ugroovbdk5fv9y"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt1tk0d107d4roovmety1hmy",
+      "title": "Muse Spark 1.2 多模态模型能力解析",
+      "title_en": "1/ muse spark 1.2 is a very strong multimodal model-it can do visual coding， robotics planning， and …",
+      "url": "https://x.com/alexandr_wang/status/2090485261629354352",
+      "permalink": "https://aihot.virxact.com/items/cmt1tk0d107d4roovmety1hmy",
+      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+      "publishedAt": "2026-08-20T17:05:00.000Z",
+      "discoveredAt": "2026-08-20T17:53:23.878Z",
+      "summary": "1/ Muse Spark 1.2 是一个非常强大的多模态模型--它能够进行视觉编码、机器人规划以及音视频理解，这些能力通过智能体工具整合在一起。",
+      "category": "ai-models",
+      "score": 28,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt1tk0d107d4roovmety1hmy"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "视频",
+        "智能体"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt1param03zaroova2r4gici",
+      "title": "世界机器人大会BoBo机器狗实测",
+      "title_en": "At the World Robot Conference： Cruella is in Beijing-with her Dalmatian. Meet BoBo， Vbot's $1，930 fa…",
+      "url": "https://x.com/thexpin/status/2090464122341134790",
+      "permalink": "https://aihot.virxact.com/items/cmt1param03zaroova2r4gici",
+      "source": "X：X.PIN (@thexpin)",
+      "publishedAt": "2026-08-20T15:41:00.000Z",
+      "discoveredAt": "2026-08-20T15:54:09.718Z",
+      "summary": "在世界机器人大会上：Cruella 来到了北京--带着她的斑点狗。认识一下 BoBo，Vbot 售价 1，930 美元的家庭机器狗。它能通过视觉跟随，对牵引绳的拉动做出响应，还能携带零食。我们的测试发现它有 5 小时续航、扎实的越野表现、安静的鞋底和实时视频通话功能。",
+      "category": "ai-products",
+      "score": 45,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt1param03zaroova2r4gici"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
@@ -547,86 +734,115 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmt16pvdy0rw2ro2ox0b3xjx5",
-      "title": "扩散语言模型驱动的实时交互视频模型：SigmaZ 完成数百万美元融资",
-      "title_en": null,
-      "url": "https://elsewhere.news/zh/crossing/sigmaz",
-      "permalink": "https://aihot.virxact.com/items/cmt16pvdy0rw2ro2ox0b3xjx5",
-      "source": "elsewhere：文章（RSS）",
-      "publishedAt": "2026-08-19T09:14:00.000Z",
-      "discoveredAt": "2026-08-20T07:14:07.296Z",
-      "summary": "SigmaZ 完成数百万美元融资，其核心产品为扩散语言模型驱动的实时交互视频模型。该模型融合 Pixel 与 Code 两种视觉表达方式，前者擅长呈现外观，后者擅长表达结构，未来将走向 Pixel-Code 联合的视觉表达路径。",
-      "category": "industry",
-      "score": 36,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt16pvdy0rw2ro2ox0b3xjx5"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视觉",
-        "交互",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmszrferk0oderodpn88su6u1",
-      "title": "阿里云发布 ANOLISA：为 AI 智能体打造的 Agent 优先操作系统",
-      "title_en": "ANOLISA （Alibaba Cloud Linux 4 Agentic Edition） is an agent-first operating system designed for AI A…",
-      "url": "https://x.com/alibaba_cloud/status/2089974898353475590",
-      "permalink": "https://aihot.virxact.com/items/cmszrferk0oderodpn88su6u1",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "publishedAt": "2026-08-19T07:17:00.000Z",
-      "discoveredAt": "2026-08-19T07:18:18.064Z",
-      "summary": "阿里云发布 ANOLISA（Alibaba Cloud Linux 4 Agentic Edition），一款面向 AI 智能体的 Agent 优先操作系统。其核心是 Tokenless 上下文效率层，在操作系统层面剥离冗余工具输出，经 Claude Code 测试，可在不改变工作流程的情况下减少 token 消耗。该系统已开源，并支持在阿里云 ECS 上部署。",
+      "id": "cmt21y3pn0eidroovyx1ti183",
+      "title": "Grok Build 1.0.8 发布：修复与性能更新",
+      "title_en": "SpaceXAI just released a new Grok Build update. Version 1.0.8 is now available. Bug Fixes： • Down…",
+      "url": "https://x.com/cb_doge/status/2090553095260663986",
+      "permalink": "https://aihot.virxact.com/items/cmt21y3pn0eidroovyx1ti183",
+      "source": "X：cb_doge (@cb_doge)",
+      "publishedAt": "2026-08-20T21:34:33.000Z",
+      "discoveredAt": "2026-08-20T21:48:18.513Z",
+      "summary": "Grok Build 发布 1.0.8 版本更新。修复了单文件文件夹下载、虚构工具调用报错、状态行刷新等问题；新增 MCP 服务器表单输入/URL 授权弹窗、Ctrl+S 暂存提示词草稿及 /workflow 自动补全功能。同时优化了多子代理并发启动性能，避免界面冻结。",
       "category": "ai-products",
-      "score": 63,
+      "score": 31,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmszrferk0oderodpn88su6u1"
+        "canonical": "https://aihot.virxact.com/items/cmt21y3pn0eidroovyx1ti183"
       },
       "sourceType": "X",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 10,
-      "editorialScore": 11,
+      "relevanceScore": 9,
+      "editorialScore": 10,
       "tags": [
-        "工作流",
-        "claude code",
-        "agent",
-        "智能体"
+        "界面",
+        "workflow",
+        "提示词",
+        "mcp"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmszgpmpo0d8irodprlp8qddt",
-      "title": "Matic 扫地机器人：20 年计算机视觉终成消费产品",
-      "title_en": "What you're watching looks like a shiny new hardware company. the tech behind it are almost two deca…",
-      "url": "https://x.com/rohanpaul_ai/status/2089894185902203186",
-      "permalink": "https://aihot.virxact.com/items/cmszgpmpo0d8irodprlp8qddt",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-08-19T01:56:16.000Z",
-      "discoveredAt": "2026-08-19T02:18:18.562Z",
-      "summary": "Matic 家用机器人内置 5 摄像头与 NVIDIA 芯片，约 20 分钟完成全屋 3D 建图，可区分充电线、袜子、污渍与宠物并分别应对，全程无 App，支持语音指令与全黑环境清扫。其视觉技术源于创始人 Navneet Dalal 在 INRIA Grenoble 的人类检测研究（被引超 5 万次），该成果在专利局尘封 20 年才迎来消费市场。",
-      "category": "ai-products",
-      "score": 24,
+      "id": "cmt20hryj0dikroovfjd5gq6y",
+      "title": "OpenRouter 上线 Ox Alpha 隐身模型",
+      "title_en": "🥷 New stealth model： Ox Alpha Ox Alpha is a frontier model built for efficient coding， sustained a…",
+      "url": "https://x.com/OpenRouter/status/2090544970923184269",
+      "permalink": "https://aihot.virxact.com/items/cmt20hryj0dikroovfjd5gq6y",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-08-20T21:02:16.000Z",
+      "discoveredAt": "2026-08-20T21:07:37.303Z",
+      "summary": "🥷 新隐身模型：Ox Alpha\n\nOx Alpha 是一款前沿模型，专为高效编码、持续智能体工作及实际生产环境使用而构建。\n\n- 1M token 上下文窗口 - 支持文本、图像和视频输入\n\n立即试用并分享反馈以改进模型！https://openrouter.ai/stealth/ox-alpha",
+      "category": "ai-models",
+      "score": 54,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmszgpmpo0d8irodprlp8qddt"
+        "canonical": "https://aihot.virxact.com/items/cmt20hryj0dikroovfjd5gq6y"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "relevanceScore": 7,
+      "editorialScore": 10,
       "tags": [
-        "视觉",
-        "3d"
+        "视频",
+        "图像",
+        "智能体"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt20vizi0dr1roovo8srzhpk",
+      "title": "Meta Muse Spark 1.2 登顶视频转网站评测",
+      "title_en": "Meta's Muse Spark 1.2 now leads Design Arena's Video-to-Website test while placing top-three across …",
+      "url": "https://x.com/rohanpaul_ai/status/2090544401097589109",
+      "permalink": "https://aihot.virxact.com/items/cmt20vizi0dr1roovo8srzhpk",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-08-20T21:00:00.000Z",
+      "discoveredAt": "2026-08-20T21:18:18.246Z",
+      "summary": "Meta 的 Muse Spark 1.2 在 Design Arena 视频转网站基准测试中位列第一，Elo 评分 1279，并在图像转代码任务中均进入前三。该模型在图像转 HTML 和图像转前端任务中分别以 1252 和 1272 的 Elo 评分位居第二和第三。其定价为每百万输入 token 1.25 美元、每百万输出 token 4.25 美元，在三个类别中均处于价格偏好帕累托前沿。",
+      "category": "tip",
+      "score": 35,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt20vizi0dr1roovo8srzhpk"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "design",
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt1xx62g0bm9roovx170bbzg",
+      "title": "Adobe Firefly 新增 AI 音频工具并接入 Google Gemini Omni Flash",
+      "title_en": "Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash",
+      "url": "https://the-decoder.com/adobe-firefly-adds-ai-audio-tools-and-googles-gemini-omni-flash",
+      "permalink": "https://aihot.virxact.com/items/cmt1xx62g0bm9roovx170bbzg",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-08-20T19:29:34.000Z",
+      "discoveredAt": "2026-08-20T19:55:36.649Z",
+      "summary": "Adobe 在 Firefly 平台正式推出三款 AI 音频工具：Generate Music 生成免版税音乐、Generate Speech 将脚本转为配音、Generate Sound Effects 制作场景音效，均宣称可用于商业用途。Firefly AI Assistant 现提供每日免费生成次数，并新增 Gemini Omni Flash 模型，支持视频、音频、图像及文本输入。",
+      "category": "ai-products",
+      "score": 47,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt1xx62g0bm9roovx170bbzg"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "adobe",
+        "视频",
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -790,139 +1006,28 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmszlxk6c0i0erodp05djsuud",
-      "title": "从王昭君到AI：表象如何取代真实",
-      "title_en": "\"Representation/表象 取代了 Reality/真实\" 正回答了当下 AI 对文明的重塑 AI 才让我真正读懂红楼的现代性，卧槽啊🫡 黛玉啊黛玉，曹雪芹啊曹雪芹 《五美吟》显性的…",
-      "url": "https://x.com/ZHO_ZHO_ZHO/status/2089933488166461745",
-      "permalink": "https://aihot.virxact.com/items/cmszlxk6c0i0erodp05djsuud",
-      "source": "X：ZHO (@ZHO_ZHO_ZHO)",
-      "publishedAt": "2026-08-19T04:32:27.000Z",
-      "discoveredAt": "2026-08-19T04:44:26.209Z",
-      "summary": "ZHO借《红楼梦》中《五美吟》咏昭君诗，指出\"一个人的真实价值被媒介、图像、中间人决定\"的现代性，认为这正回答了当下AI对文明的重塑--Representation（表象）取代了Reality（真实），可将\"画工\"替换为摄影、社交媒体、算法、AI等。",
-      "category": "tip",
-      "score": 31,
+      "id": "cmt1ru8da065qroovt8s3htoe",
+      "title": "商汤开源 SenseNova U1.5 Lite 轻量多模态模型",
+      "title_en": "SenseNova U1.5 Lite - Sharper. More Controllable. More C…",
+      "url": "https://x.com/SenseTime_AI/status/2090483079412580442",
+      "permalink": "https://aihot.virxact.com/items/cmt1ru8da065qroovt8s3htoe",
+      "source": "X：商汤 SenseTime (@SenseTime_AI)",
+      "publishedAt": "2026-08-20T16:56:20.000Z",
+      "discoveredAt": "2026-08-20T17:05:19.455Z",
+      "summary": "商汤发布开源轻量级原生统一多模态模型 SenseNova U1.5 Lite，仅 8B 参数，支持视觉理解、生成与编辑。该模型主打原生 4K 生成、复杂指令跟随、中英文文本渲染及多图参考编辑，在指令跟随和编辑保持上超越同尺寸模型，文本渲染与复杂布局上比肩大型商业模型。",
+      "category": "ai-models",
+      "score": 63,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmszlxk6c0i0erodp05djsuud"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "图像",
-        "摄影"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmsz9kmg307csrodpg1yl1xdu",
-      "title": "Claude 从头设计蛋白结合剂命中 14/15 靶点",
-      "title_en": "Many drugs work by binding to a specific target in the body and blocking or changing what it does. A…",
-      "url": "https://x.com/AnthropicAI/status/2089842387845804246",
-      "permalink": "https://aihot.virxact.com/items/cmsz9kmg307csrodpg1yl1xdu",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "publishedAt": "2026-08-18T22:30:27.000Z",
-      "discoveredAt": "2026-08-18T22:58:28.008Z",
-      "summary": "Anthropic 测试 Claude 能否从头设计新型蛋白结合剂：在人类专家编写的蛋白设计提示词下，Claude 自主针对 15 个靶点中的 14 个完成了设计。随后 Adaptyv Bio 与 Twist Bioscience 独立构建并测试了这些蛋白，验证了其可行性。",
-      "category": "paper",
-      "score": 73,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsz9kmg307csrodpg1yl1xdu"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计",
-        "提示词"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmsz84zja069yrodpn7e4c8j2",
-      "title": "Claude 新增 Gmail 与 Google Drive 连接器",
-      "title_en": "Claude can now send emails and manage Google Drive via updated Google connectors with new UI compone…",
-      "url": "https://x.com/testingcatalog/status/2089832813382037634",
-      "permalink": "https://aihot.virxact.com/items/cmsz84zja069yrodpn7e4c8j2",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-08-18T21:52:24.000Z",
-      "discoveredAt": "2026-08-18T22:18:18.719Z",
-      "summary": "Claude 现在可以通过更新的 Google 连接器（含全新 UI 组件）直接在聊天中发送邮件和管理 Google Drive。\n\n超级应用 👀",
-      "category": "ai-products",
-      "score": 38,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsz84zja069yrodpn7e4c8j2"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "ui"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmsz6onhb046xrodp08y266ey",
-      "title": "Gemini 3.7 Flash 一键生成视差动画网页",
-      "title_en": "From a single prompt to a fully animated parallax landing page. 🤯 See how Gemini 3.7 Flash， combin…",
-      "url": "https://x.com/googleaidevs/status/2089825267732849049",
-      "permalink": "https://aihot.virxact.com/items/cmsz6onhb046xrodp08y266ey",
-      "source": "X：Google AI for Developers (@googleaidevs)",
-      "publishedAt": "2026-08-18T21:22:25.000Z",
-      "discoveredAt": "2026-08-18T21:37:37.009Z",
-      "summary": "从一条提示词到完全动画化的视差落地页。🤯\n\n看看 Gemini 3.7 Flash 如何结合 Nano Banana 和 Omni，一次性构建交互式网站。在底层，3.7 Flash 会调用合适的工具来生成文案、图像参考，并渲染支持视差效果的 Omni 视频。",
-      "category": "tip",
-      "score": 31,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsz6onhb046xrodp08y266ey"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "交互",
-        "视频",
-        "图像",
-        "提示词"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmt0immyq05s5ro2ozg9hbcal",
-      "title": "OpenClaw 2026.8.1-beta.2 获赞：响应更快更稳定",
-      "title_en": "Can't wait to show you all what we been cookin'！",
-      "url": "https://x.com/steipete/status/2090162595257102731",
-      "permalink": "https://aihot.virxact.com/items/cmt0immyq05s5ro2ozg9hbcal",
-      "source": "X：Peter Steinberger (@steipete)",
-      "publishedAt": "2026-08-19T19:42:50.000Z",
-      "discoveredAt": "2026-08-19T19:59:44.942Z",
-      "summary": "Peter Steinberger 预告即将展示新成果，并引用 @joncursi 对 OpenClaw 2026.8.1-beta.2 的评测：智能体响应速度显著提升，5.6-Sol 在 codex 订阅下运行流畅，Slack 回复已支持原生图表和组件。该版本稳定性与细节优化出色，为 2026.8.x 正式版奠定良好基础。",
-      "category": "tip",
-      "score": 16,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt0immyq05s5ro2ozg9hbcal"
+        "canonical": "https://aihot.virxact.com/items/cmt1ru8da065qroovt8s3htoe"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
       "relevanceScore": 6,
       "editorialScore": 9,
       "tags": [
-        "生图",
-        "codex",
-        "智能体"
+        "视觉"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -956,30 +1061,33 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmt09ut5y16gfrodpowmndtzd",
-      "title": "MiniMax H3 登陆 Runway 无限量生成",
-      "title_en": "MiniMax H3 just went unlimited on Runway. Generate responsibly. Or don't. It's unlimited 😌",
-      "url": "https://x.com/MiniMax_AI/status/2090098441200517416",
-      "permalink": "https://aihot.virxact.com/items/cmt09ut5y16gfrodpowmndtzd",
-      "source": "X：MiniMax (@MiniMax_AI)",
-      "publishedAt": "2026-08-19T15:27:55.000Z",
-      "discoveredAt": "2026-08-19T15:54:09.732Z",
-      "summary": "MiniMax H3 刚刚在 Runway 上无限量开放了。请负责任地生成。或者不。反正无限量 😌",
-      "category": "industry",
-      "score": 28,
+      "id": "cmt1pe86v042rroovpzyjsq7t",
+      "title": "monday.com 如何将平台重构为人类与智能体协作的 agent-first 产品",
+      "title_en": "How monday.com transformed its platform into an agent-first product where humans and agents collaborate",
+      "url": "https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate",
+      "permalink": "https://aihot.virxact.com/items/cmt1pe86v042rroovpzyjsq7t",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-08-20T15:56:56.457Z",
+      "discoveredAt": "2026-08-20T15:56:56.457Z",
+      "summary": "monday.com 以 Claude 为核心重构平台，转向人类与智能体协作的 agent-first 模式，自 2026 年 5 月上线以来已产生超过 500 万次智能体交互。该公司曾因\"AI dust\"式附加功能触顶，遂将 AI 原生嵌入工作流，为智能体设置名称、头像及权限，并支持通过 monday Agents、BYOA、Pre-built Agents 等四种方式运行 Claude。",
+      "category": "tip",
+      "score": 49,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt09ut5y16gfrodpowmndtzd"
+        "canonical": "https://aihot.virxact.com/items/cmt1pe86v042rroovpzyjsq7t"
       },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
       "tags": [
-        "runway"
+        "交互",
+        "工作流",
+        "agent",
+        "智能体"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmt1ht2l004xlrokxx97ykr3w",
@@ -1007,33 +1115,6 @@
         "营销"
       ],
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmt1f6rpf01v5rokxpr006msj",
-      "title": "Grok Bot 如何成为现实版 Jarvis",
-      "title_en": "Grok @Bot",
-      "url": "https://x.com/elonmusk/status/2090394799228506293",
-      "permalink": "https://aihot.virxact.com/items/cmt1f6rpf01v5rokxpr006msj",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "publishedAt": "2026-08-20T11:05:32.000Z",
-      "discoveredAt": "2026-08-20T11:11:11.248Z",
-      "summary": "Grok Bot 被称最接近现实版 Jarvis，可同时启动业务、交付软件并制造爆款内容。4 分钟即可配置：安装后设为首席幕僚，输入\"Digital Chief of Staff Prompt\"提示词，并接入 X、Stripe 和 GitHub 权限。之后只需粘贴文章即可交给它处理。",
-      "category": "tip",
-      "score": 24,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt1f6rpf01v5rokxpr006msj"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "提示词",
-        "prompt"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmt1cg4di03xqro1qatf5kz8p",
@@ -1093,6 +1174,35 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
+      "id": "cmt1p0bxa03sqroovbmrj8bez",
+      "title": "Stampli 如何用 ChatGPT Work 和 Codex 将创意快速推向市场",
+      "title_en": "How ChatGPT Work helps Stampli move ideas to market",
+      "url": "https://openai.com/index/stampli",
+      "permalink": "https://aihot.virxact.com/items/cmt1p0bxa03sqroovbmrj8bez",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-08-20T00:00:00.000Z",
+      "discoveredAt": "2026-08-20T15:46:07.686Z",
+      "summary": "Stampli 借助 Codex 和 ChatGPT Work，将 Deep Finance 产品从原型到上市压缩至约六周，内容生产耗时从约 243 小时降至约 77 小时，提速 3.16 倍。其营销团队每周用 ChatGPT Work 生成数百条内容，并利用 GPT 驱动的自动化系统保持产品资料更新、在会议中快速检索分析数据。",
+      "category": "tip",
+      "score": 35,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt1p0bxa03sqroovbmrj8bez"
+      },
+      "sourceType": "网站",
+      "designCategory": "行业观察",
+      "relevanceScore": 8,
+      "editorialScore": 8,
+      "tags": [
+        "原型",
+        "创意",
+        "自动化",
+        "营销"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
       "id": "cmt0px8kn0bt6ro2ofybl81iq",
       "title": "OpenAI 扩展零数据留存安全机制，自动化分析跨交互风险",
       "title_en": null,
@@ -1119,88 +1229,6 @@
         "自动化"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmt0kd4580712ro2o8cn76pny",
-      "title": "猜猜未发布模型？赛博朋克测试图引热议",
-      "title_en": "Guess the model？ （Unreleased， ofc） 👀 Test prompt： \"Cyberpunk hacker robot working in front of many…",
-      "url": "https://x.com/testingcatalog/status/2090173545590530365",
-      "permalink": "https://aihot.virxact.com/items/cmt0kd4580712ro2o8cn76pny",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-08-19T20:26:21.000Z",
-      "discoveredAt": "2026-08-19T20:48:18.591Z",
-      "summary": "猜猜是哪个模型？（未发布，当然）👀\n\n测试提示词：\"赛博朋克黑客机器人在多台显示器前工作\"",
-      "category": "ai-models",
-      "score": 30,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt0kd4580712ro2o8cn76pny"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "提示词",
-        "prompt"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmt0jzd0g06tdro2otg4csyma",
-      "title": "OpenAI 预览私有安全处理，兼顾零数据留存",
-      "title_en": "Today we're previewing Private Safety Processing， designed to let us keep offering Zero Data Retenti…",
-      "url": "https://x.com/thsottiaux/status/2090173536010957128",
-      "permalink": "https://aihot.virxact.com/items/cmt0jzd0g06tdro2otg4csyma",
-      "source": "X：Tibo (@thsottiaux)",
-      "publishedAt": "2026-08-19T20:26:19.000Z",
-      "discoveredAt": "2026-08-19T20:37:37.981Z",
-      "summary": "OpenAI 预览 Private Safety Processing，在保持 Zero Data Retention（ZDR）的同时提升安全防护。ZDR 部署中，内容留在客户自有基础设施上，自动化系统跨相关交互识别风险模式，仅返回有限安全信号，OpenAI 员工（包括 CEO）无法访问底层提示词或响应。OpenAI 还正开发客户控制密钥加密的托管选项，已与早期客户测试，计划 9 月推出。",
-      "category": "ai-products",
-      "score": 47,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt0jzd0g06tdro2otg4csyma"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "交互",
-        "提示词",
-        "自动化"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmszj1tvi0fairodpnkffpiy7",
-      "title": "Kromix 用 AI 生成真人色情\"换脸\"内容引争议：Meta 下架广告、苹果移除应用",
-      "title_en": "\"AI 换脸\"色情 App 营销引发争议：Meta 下架广告、苹果移除应用",
-      "url": "https://www.ithome.com/0/991/482.htm",
-      "permalink": "https://aihot.virxact.com/items/cmszj1tvi0fairodpnkffpiy7",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-19T02:46:28.000Z",
-      "discoveredAt": "2026-08-19T03:23:47.571Z",
-      "summary": "一款名为 Kromix 的 App 在 Meta 平台投放 32 则广告，宣称\"没有限制\"，可生成真实人物（包括知名女性政治人物）的色情\"换脸\"内容。经 WIRED 联系后，Meta 下架相关广告，苹果将 Kromix 从 App Store 移除。苹果称该应用可能通过初始审核后才加入违规内容，并强调持续打击规避审核的应用。",
-      "category": "industry",
-      "score": 59,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmszj1tvi0fairodpnkffpiy7"
-      },
-      "sourceType": "网站",
-      "designCategory": "行业观察",
-      "relevanceScore": 8,
-      "editorialScore": 8,
-      "tags": [
-        "广告",
-        "营销"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "cmt0taqbd0eqero2o25htdjwk",
@@ -1258,58 +1286,30 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmszjb3rd0fhzrodppgi66348",
-      "title": "腾讯混元 Hy3 接入讯兔科技 Alpha派，深化 AI 投研应用实践",
-      "title_en": "Hy3 接入讯兔科技 Alpha派，携手深化AI投研应用实践",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498239&idx=1&sn=ca26e2f91e35cb1043dbd05b0a6448b0",
-      "permalink": "https://aihot.virxact.com/items/cmszjb3rd0fhzrodppgi66348",
-      "source": "公众号：腾讯混元",
-      "publishedAt": "2026-08-19T03:25:44.000Z",
-      "discoveredAt": "2026-08-19T03:31:00.208Z",
-      "summary": "腾讯混元 Hy3 已接入金融 AI 企业讯兔科技旗下 Alpha派，其 AI 投研工作台 PaiWork 可直接使用 Hy3 模型。Hy3 采用 MoE 架构，总参数 295B、激活参数 21B，支持 256K 上下文长度，发布首周 API 调用量较上一代增长 68 倍。此次接入将 Hy3 的复杂推理与 Agent 任务规划能力带入专业投研工作流，并凭借高性价比降低规模化调用门槛。",
-      "category": "industry",
-      "score": 42,
+      "id": "cmt2015bg0d3wroovilom2lq8",
+      "title": "用尿液冷却数据中心可行吗？Liquid Death 广告背后确有真实技术",
+      "title_en": "Ok， can we actually cool data centers with our pee？",
+      "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee",
+      "permalink": "https://aihot.virxact.com/items/cmt2015bg0d3wroovilom2lq8",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-08-20T20:53:13.000Z",
+      "discoveredAt": "2026-08-20T20:54:42.895Z",
+      "summary": "Liquid Death 与 Jason Kelce 合作推出恶搞广告，号召人们用尿液冷却 AI 数据中心。专家指出，再生水（经处理的废水和污水）确已被用于数据中心冷却，可部分替代饮用水需求。但该方案依赖大型污水处理设施，弗吉尼亚州劳登县数据中心每日使用约 2 亿加仑再生水，仅占其日用水量的 43%。",
+      "category": "tip",
+      "score": 61,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmszjb3rd0fhzrodppgi66348"
-      },
-      "sourceType": "公众号",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "工作流",
-        "agent"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmsz59wqz030rrodpajpbzfzd",
-      "title": "Claude Code v2.1.235 发布：新增拼写检查与多项修复",
-      "title_en": "v2.1.235",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.235",
-      "permalink": "https://aihot.virxact.com/items/cmsz59wqz030rrodpajpbzfzd",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "publishedAt": "2026-08-18T20:38:54.000Z",
-      "discoveredAt": "2026-08-18T20:58:10.739Z",
-      "summary": "Claude Code v2.1.235 新增可选拼写检查设置，可在输入提示词时使用 aspell、hunspell 或 ispell 为拼写错误的单词添加下划线。该版本修复了整段提示词缓存失效、嵌套列表错位、权限弹窗快捷键误触等问题，并优化了 /ultrareview 等云会话后台运行时的内存与 CPU 占用。",
-      "category": "ai-products",
-      "score": 35,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsz59wqz030rrodpajpbzfzd"
+        "canonical": "https://aihot.virxact.com/items/cmt2015bg0d3wroovilom2lq8"
       },
       "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
+      "designCategory": "行业观察",
       "relevanceScore": 6,
-      "editorialScore": 7,
+      "editorialScore": 6,
       "tags": [
-        "提示词",
-        "claude code"
+        "广告"
       ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     }
   ]
 }
