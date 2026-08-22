@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-22T01:50:17.477Z",
-  "previousGeneratedAt": "2026-08-21T13:10:24.362Z",
+  "generatedAt": "2026-08-22T06:59:17.777Z",
+  "previousGeneratedAt": "2026-08-22T01:50:17.477Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 47,
+  "itemCount": 44,
   "sourceCounts": {
     "X": 24,
-    "网站": 23
+    "网站": 20
   },
   "source": {
     "name": "AI HOT",
@@ -127,6 +127,34 @@
         "agent"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmt3w93gr13ffro6t3fqb0vt7",
+      "title": "GPT Image 2 精准还原 B 站辩论直播场景",
+      "title_en": "Dario 说 AGI 未来一两年内就到，必须提前做好准备； Sam 在旁边从容接招：我们既要追求 AGI，也要确保安全可控。 如果这两位真在 B 站开直播搞一场 AGI 巅峰辩论，大概就是这个场面…",
+      "url": "https://x.com/AYi_AInotes/status/2091023343780495391",
+      "permalink": "https://aihot.virxact.com/items/cmt3w93gr13ffro6t3fqb0vt7",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-08-22T04:43:09.000Z",
+      "discoveredAt": "2026-08-22T04:44:26.399Z",
+      "summary": "GPT Image 2 生成了一张 Dario 与 Sam Altman 在 B 站直播辩论的整活截图，全中文弹幕、字幕及完整网页端 UI 无一处错别字。该模型在中文排版、复杂 UI 拓扑结构还原及人物神态光影上表现精准，显示文生图竞争已转向对真实世界复杂符号系统的理解。",
+      "category": "tip",
+      "score": 41,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt3w93gr13ffro6t3fqb0vt7"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 14,
+      "editorialScore": 17,
+      "tags": [
+        "文生图",
+        "生图",
+        "ui"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmt2dy0l302srroc97q9dlpto",
@@ -382,31 +410,30 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmt1hzrpz050urokxrnypoyr0",
-      "title": "可灵AI多角度生成，抢占视觉焦点",
-      "title_en": "Own every angle. Steal the spotlight. ✨",
-      "url": "https://x.com/Kling_ai/status/2090408971744018837",
-      "permalink": "https://aihot.virxact.com/items/cmt1hzrpz050urokxrnypoyr0",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "publishedAt": "2026-08-20T12:01:51.000Z",
-      "discoveredAt": "2026-08-20T12:29:44.116Z",
-      "summary": "掌控每一个角度。抢占聚光灯。✨",
-      "category": "ai-products",
-      "score": 20,
+      "id": "cmt3t6bru114mro6tzvsh6y56",
+      "title": "评估岗如何更关注用户体验而非虚荣指标",
+      "title_en": "any recommendations for someone in evals that care more about the behavior and experience for the us…",
+      "url": "https://x.com/gabriel1/status/2090998638025793912",
+      "permalink": "https://aihot.virxact.com/items/cmt3t6bru114mro6tzvsh6y56",
+      "source": "X：Gabriel (@gabriel1)",
+      "publishedAt": "2026-08-22T03:04:58.000Z",
+      "discoveredAt": "2026-08-22T03:18:18.091Z",
+      "summary": "有没有给做评估的人的建议？比起虚荣的基准测试，更关心用户的行为和体验。",
+      "category": "tip",
+      "score": 18,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt1hzrpz050urokxrnypoyr0"
+        "canonical": "https://aihot.virxact.com/items/cmt3t6bru114mro6tzvsh6y56"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
+      "designCategory": "产品与体验",
+      "relevanceScore": 8,
+      "editorialScore": 12,
       "tags": [
-        "可灵",
-        "视觉"
+        "用户体验"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmt3ce5qx0nslro6t2f70xbdi",
@@ -599,6 +626,35 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt3ye9wz14y3ro6tw5xtc4n7",
+      "title": "Anthropic 内部 /eli5 技能：HTML 大图解释复杂系统",
+      "title_en": "@AnthropicAI 内部工程师最近高频在用的一个提效神技，整个提示词居然只有一句话，而且我发现这里面还藏着一个特别狠的工程认知：HTML > Markdown。 Claude Code 团队的…",
+      "url": "https://x.com/AYi_AInotes/status/2091034488285417844",
+      "permalink": "https://aihot.virxact.com/items/cmt3ye9wz14y3ro6tw5xtc4n7",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-08-22T05:27:26.000Z",
+      "discoveredAt": "2026-08-22T05:44:26.245Z",
+      "summary": "Anthropic 工程师 @trq212 分享团队常用的极简 Skill：/eli5，在终端输入 `/eli5 <任何问题>`，Claude 即强制生成大图少字的交互式 HTML 页面，核心 Prompt 仅一句话。",
+      "category": "tip",
+      "score": 36,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt3ye9wz14y3ro6tw5xtc4n7"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 10,
+      "editorialScore": 11,
+      "tags": [
+        "交互",
+        "提示词",
+        "prompt",
+        "claude code"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmt2xfmnv0aynro6tp4f1su6m",
@@ -846,32 +902,31 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmt1di48c04vuro1q95i06dby",
-      "title": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/992/239.htm",
-      "permalink": "https://aihot.virxact.com/items/cmt1di48c04vuro1q95i06dby",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-20T09:45:51.000Z",
-      "discoveredAt": "2026-08-20T10:24:01.577Z",
-      "summary": "阿里巴巴正式推出 Qwen-UI-Agent，一个以真实世界为中心的 GUI 智能体基座模型，覆盖移动端、电脑端、网页端及深度搜索（DeepSearch）环境。",
+      "id": "cmt3wllwi13n1ro6tgzskmnsi",
+      "title": "神秘模型Ox Alpha登顶编程榜，@weidai11警告AI接管或已开始",
+      "title_en": "\"The start of an AI takeover could look a lot like this.\" Legendary technologist @weidai11 on the m…",
+      "url": "https://x.com/AISafetyMemes/status/2091025217221275810",
+      "permalink": "https://aihot.virxact.com/items/cmt3wllwi13n1ro6tgzskmnsi",
+      "source": "X：AI Safety Memes (@AISafetyMemes)",
+      "publishedAt": "2026-08-22T04:50:35.000Z",
+      "discoveredAt": "2026-08-22T04:54:09.445Z",
+      "summary": "神秘模型Ox Alpha在OpenRouter上击败Fable和Sol登顶编程榜，却无人知晓其开发者。该模型拥有1M token上下文窗口，支持文本、图像和视频输入，免费一周，日处理能力达100万亿token，在DeepSWE子集上得分80%。",
       "category": "ai-models",
-      "score": 72,
-      "selected": true,
+      "score": 39,
+      "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt1di48c04vuro1q95i06dby"
+        "canonical": "https://aihot.virxact.com/items/cmt3wllwi13n1ro6tgzskmnsi"
       },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
+      "sourceType": "X",
+      "designCategory": "图像与视频",
       "relevanceScore": 7,
-      "editorialScore": 11,
+      "editorialScore": 10,
       "tags": [
-        "ui",
-        "agent",
-        "智能体"
+        "视频",
+        "图像"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmt3ddts40ompro6tyw2hetls",
@@ -983,91 +1038,6 @@
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmt21y3pn0eidroovyx1ti183",
-      "title": "Grok Build 1.0.8 发布：修复与性能更新",
-      "title_en": "SpaceXAI just released a new Grok Build update. Version 1.0.8 is now available. Bug Fixes： • Down…",
-      "url": "https://x.com/cb_doge/status/2090553095260663986",
-      "permalink": "https://aihot.virxact.com/items/cmt21y3pn0eidroovyx1ti183",
-      "source": "X：cb_doge (@cb_doge)",
-      "publishedAt": "2026-08-20T21:34:33.000Z",
-      "discoveredAt": "2026-08-20T21:48:18.513Z",
-      "summary": "Grok Build 发布 1.0.8 版本更新。修复了单文件文件夹下载、虚构工具调用报错、状态行刷新等问题；新增 MCP 服务器表单输入/URL 授权弹窗、Ctrl+S 暂存提示词草稿及 /workflow 自动补全功能。同时优化了多子代理并发启动性能，避免界面冻结。",
-      "category": "ai-products",
-      "score": 31,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt21y3pn0eidroovyx1ti183"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 9,
-      "editorialScore": 10,
-      "tags": [
-        "界面",
-        "workflow",
-        "提示词",
-        "mcp"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmt20hryj0dikroovfjd5gq6y",
-      "title": "OpenRouter 上线 Ox Alpha 隐身模型",
-      "title_en": "🥷 New stealth model： Ox Alpha Ox Alpha is a frontier model built for efficient coding， sustained a…",
-      "url": "https://x.com/OpenRouter/status/2090544970923184269",
-      "permalink": "https://aihot.virxact.com/items/cmt20hryj0dikroovfjd5gq6y",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-08-20T21:02:16.000Z",
-      "discoveredAt": "2026-08-20T21:07:37.303Z",
-      "summary": "🥷 新隐身模型：Ox Alpha\n\nOx Alpha 是一款前沿模型，专为高效编码、持续智能体工作及实际生产环境使用而构建。\n\n- 1M token 上下文窗口 - 支持文本、图像和视频输入\n\n立即试用并分享反馈以改进模型！https://openrouter.ai/stealth/ox-alpha",
-      "category": "ai-models",
-      "score": 54,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt20hryj0dikroovfjd5gq6y"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "视频",
-        "图像",
-        "智能体"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmt20vizi0dr1roovo8srzhpk",
-      "title": "Meta Muse Spark 1.2 登顶视频转网站评测",
-      "title_en": "Meta's Muse Spark 1.2 now leads Design Arena's Video-to-Website test while placing top-three across …",
-      "url": "https://x.com/rohanpaul_ai/status/2090544401097589109",
-      "permalink": "https://aihot.virxact.com/items/cmt20vizi0dr1roovo8srzhpk",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-08-20T21:00:00.000Z",
-      "discoveredAt": "2026-08-20T21:18:18.246Z",
-      "summary": "Meta 的 Muse Spark 1.2 在 Design Arena 视频转网站基准测试中位列第一，Elo 评分 1279，并在图像转代码任务中均进入前三。该模型在图像转 HTML 和图像转前端任务中分别以 1252 和 1272 的 Elo 评分位居第二和第三。其定价为每百万输入 token 1.25 美元、每百万输出 token 4.25 美元，在三个类别中均处于价格偏好帕累托前沿。",
-      "category": "tip",
-      "score": 35,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt20vizi0dr1roovo8srzhpk"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "design",
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmt1xx62g0bm9roovx170bbzg",
@@ -1228,62 +1198,6 @@
       "tags": [
         "交互",
         "工作流",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmt1ht2l004xlrokxx97ykr3w",
-      "title": "Meta AI 推出 Mac 应用，支持系统级听写与屏幕问答",
-      "title_en": "Meta AI's new Mac app wants you to talk to your apps",
-      "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps",
-      "permalink": "https://aihot.virxact.com/items/cmt1ht2l004xlrokxx97ykr3w",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-08-20T12:11:57.000Z",
-      "discoveredAt": "2026-08-20T12:24:32.781Z",
-      "summary": "Meta 今日发布 Meta AI 的 Mac 应用，内置系统级听写功能，可跨应用使用，并能基于当前屏幕内容结合 Muse Spark 模型回答问题。该应用还面向商家开放，支持连接 Instagram、Facebook、Meta 广告及 Google Workspace 账户，获取营销洞察、创建提案和起草文档。",
-      "category": "ai-products",
-      "score": 46,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt1ht2l004xlrokxx97ykr3w"
-      },
-      "sourceType": "网站",
-      "designCategory": "行业观察",
-      "relevanceScore": 8,
-      "editorialScore": 8,
-      "tags": [
-        "广告",
-        "营销"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmt1cg4di03xqro1qatf5kz8p",
-      "title": "Binance 推出 Agent OS，让 AI 智能体代用户交易",
-      "title_en": "Binance now lets AI agents trade， but keeping them in check is largely up to users",
-      "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users",
-      "permalink": "https://aihot.virxact.com/items/cmt1cg4di03xqro1qatf5kz8p",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-08-20T09:30:00.000Z",
-      "discoveredAt": "2026-08-20T09:54:30.692Z",
-      "summary": "Binance 周四推出 Agent OS 平台，让开发者将 AI 应用和智能体接入其金融基础设施，授权智能体分析市场、查看账户信息并执行交易。平台支持 OpenAI ChatGPT 和 Codex、Anthropic Claude Code 及 Cursor 等工具，并通过专用\"子账户\"进行权限控制，默认阻止提现，用户转入子账户的金额即构成交易上限。",
-      "category": "ai-products",
-      "score": 57,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt1cg4di03xqro1qatf5kz8p"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "codex",
-        "claude code",
         "agent",
         "智能体"
       ],
