@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-22T06:59:17.777Z",
-  "previousGeneratedAt": "2026-08-22T01:50:17.477Z",
+  "generatedAt": "2026-08-22T13:01:19.610Z",
+  "previousGeneratedAt": "2026-08-22T06:59:17.777Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 44,
+  "itemCount": 45,
   "sourceCounts": {
     "X": 24,
-    "网站": 20
+    "网站": 21
   },
   "source": {
     "name": "AI HOT",
@@ -184,6 +184,35 @@
         "智能体"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt4340nz19xvro6ts39i85ig",
+      "title": "别再开发TUI了",
+      "title_en": null,
+      "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis",
+      "permalink": "https://aihot.virxact.com/items/cmt4340nz19xvro6ts39i85ig",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-22T07:49:19.170Z",
+      "discoveredAt": "2026-08-22T07:56:26.138Z",
+      "summary": "作者用Claude等前沿模型快速构建了多个原生Mac应用，包括Markdown查看器MDV.app、SageMath计算器前端、Apple Music播放器DJ Roomba、自驱Wiki和菜单栏Apple TV遥控器。这些应用几乎不手写UI代码，而是通过提示词生成SwiftUI界面，并嵌入LLM智能体处理自然语言指令。作者认为，在LLM时代，终端界面已无必要，原生UI开发门槛大幅降低。",
+      "category": "tip",
+      "score": 56,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt4340nz19xvro6ts39i85ig"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 10,
+      "editorialScore": 14,
+      "tags": [
+        "ui",
+        "界面",
+        "提示词",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmt36f07u0iitro6t1qq9p49q",
@@ -573,61 +602,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmt1k19bn06qgrokx1p75h1gv",
-      "title": "Claude Code 初创公司指南：五大规则与创始人洞见",
-      "title_en": "The Claude Code Guide For Startups",
-      "url": "https://claude.com/blog/claude-code-guide-for-startups",
-      "permalink": "https://aihot.virxact.com/items/cmt1k19bn06qgrokx1p75h1gv",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-08-20T13:26:53.704Z",
-      "discoveredAt": "2026-08-20T13:26:53.704Z",
-      "summary": "Anthropic 发布面向初创公司的 Claude Code 使用指南，基于对十余家高增长公司的调研，总结出\"人人皆可交付、自动化繁琐工作、信任但验证、为重构而构建、原型-自用-产品化\"五大规则。",
-      "category": "tip",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt1k19bn06qgrokx1p75h1gv"
-      },
-      "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 7,
-      "editorialScore": 12,
-      "tags": [
-        "原型",
-        "自动化",
-        "claude code"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "cmt1j0pol05zzrokx537tlmp5",
-      "title": "FLUX Upscale 发布：视频可升级至原生 4K",
-      "title_en": "FLUX Upscale： 2K and 4K for Video",
-      "url": "https://bfl.ai/blog/flux-video-upscale",
-      "permalink": "https://aihot.virxact.com/items/cmt1j0pol05zzrokx537tlmp5",
-      "source": "Black Forest Labs：Blog（网页）",
-      "publishedAt": "2026-08-20T12:58:23.125Z",
-      "discoveredAt": "2026-08-20T12:58:23.125Z",
-      "summary": "Black Forest Labs 推出 FLUX Upscale，可将任意视频重新生成至更高分辨率，最高支持原生 4K。该功能现已作为独立的 FLUX Tool 和 API 端点提供。",
-      "category": "ai-products",
-      "score": 42,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt1j0pol05zzrokx537tlmp5"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
-      "tags": [
-        "flux",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmt3ye9wz14y3ro6tw5xtc4n7",
       "title": "Anthropic 内部 /eli5 技能：HTML 大图解释复杂系统",
       "title_en": "@AnthropicAI 内部工程师最近高频在用的一个提效神技，整个提示词居然只有一句话，而且我发现这里面还藏着一个特别狠的工程认知：HTML > Markdown。 Claude Code 团队的…",
@@ -902,6 +876,33 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmt41yv7k192gro6ttevl43mm",
+      "title": "神秘 Ox Alpha AI 模型限免上架：DeepSWE 跑分碾压 Claude Fable 5，线索指向智谱",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/993/003.htm",
+      "permalink": "https://aihot.virxact.com/items/cmt41yv7k192gro6ttevl43mm",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-22T06:54:05.000Z",
+      "discoveredAt": "2026-08-22T07:24:25.059Z",
+      "summary": "OpenRouter 于 8 月 20 日上线匿名 AI 模型 Ox Alpha，免费开放 1 周。该模型在 DeepSWE 十项测试任务中得分约 80%，超过 Claude Fable 5 的 65% 和 GPT-5.6 Sol 的 52%。其上下文窗口达 1，048，576 个 token，支持文本、图像和视频多模态输入，分词器指纹与 GLM-5.3 高度吻合，线索指向智谱。",
+      "category": "ai-models",
+      "score": 50,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt41yv7k192gro6ttevl43mm"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmt3wllwi13n1ro6tgzskmnsi",
       "title": "神秘模型Ox Alpha登顶编程榜，@weidai11警告AI接管或已开始",
       "title_en": "\"The start of an AI takeover could look a lot like this.\" Legendary technologist @weidai11 on the m…",
@@ -1064,6 +1065,32 @@
         "adobe",
         "视频",
         "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt46eooq1caxro6tzp0odehw",
+      "title": "新研究：忽略人类信念的世界模型会预测错误行为",
+      "title_en": "World models that ignore human beliefs predict the wrong actions， new research shows",
+      "url": "https://the-decoder.com/world-models-that-ignore-human-beliefs-predict-the-wrong-actions-new-research-shows",
+      "permalink": "https://aihot.virxact.com/items/cmt46eooq1caxro6tzp0odehw",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-08-22T09:00:20.000Z",
+      "discoveredAt": "2026-08-22T09:28:42.893Z",
+      "summary": "一项新研究指出，Sora、Genie 3 等现有世界模型仅建模物理层，忽略人类信念、意图等心理状态，导致预测错误。研究者提出\"Mental World Modeling\"（MWM）框架及免训练实现 MENTIS，并构建含 448 个场景的 Menti-Bench 评测集。在八款模型测试中，完整 MWM 流程将 F1 分数从直接回答的 63.3 提升至 87.9，人类基准为 98.5。",
+      "category": "paper",
+      "score": 51,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt46eooq1caxro6tzp0odehw"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "sora"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
