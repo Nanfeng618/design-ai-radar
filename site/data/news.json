@@ -1,47 +1,18 @@
 {
-  "generatedAt": "2026-08-23T07:00:48.010Z",
-  "previousGeneratedAt": "2026-08-23T01:59:38.360Z",
+  "generatedAt": "2026-08-23T13:01:57.023Z",
+  "previousGeneratedAt": "2026-08-23T07:00:48.010Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 46,
+  "itemCount": 47,
   "sourceCounts": {
     "X": 24,
-    "网站": 22
+    "网站": 23
   },
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com"
   },
   "items": [
-    {
-      "id": "cmt225mkp0emdroovljnfycib",
-      "title": "阿里 Qwen-Image-3.0-Pro 登顶图像编辑榜第六",
-      "title_en": "Alibaba's Qwen-Image-3.0-Pro lands at #6 on the Artificial Analysis Image Editing Leaderboard and #9…",
-      "url": "https://x.com/ArtificialAnlys/status/2090553278144860623",
-      "permalink": "https://aihot.virxact.com/items/cmt225mkp0emdroovljnfycib",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "publishedAt": "2026-08-20T21:35:16.000Z",
-      "discoveredAt": "2026-08-20T21:54:09.050Z",
-      "summary": "阿里发布第三代图像模型 Qwen-Image-3.0 系列，旗舰版 Pro 在 Artificial Analysis 图像编辑榜位列第六、文生图榜第九，较上代分别提升 83 和 48 Elo 分。该系列支持 4.5k token 提示词、10 像素级精确文字渲染及 12 种语言，Pro 版定价 $0.04/张（1K 分辨率），已在阿里云 Model Studio 上线。",
-      "category": "ai-models",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt225mkp0emdroovljnfycib"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 18,
-      "editorialScore": 21,
-      "tags": [
-        "文生图",
-        "生图",
-        "图像",
-        "提示词"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
     {
       "id": "cmt398dhu0knbro6tvf8546it",
       "title": "Runway Ruby 上线，支持 16-bit EXR 输出",
@@ -547,32 +518,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmt243gbo0h2lroovglxyzaew",
-      "title": "苹果反击OpenAI：再诉商业秘密窃取",
-      "title_en": "Apple pushes back against OpenAI's attempt to dismiss the lawsuit， again alleging widespread trade s…",
-      "url": "https://x.com/rohanpaul_ai/status/2090568414435926416",
-      "permalink": "https://aihot.virxact.com/items/cmt243gbo0h2lroovglxyzaew",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-08-20T22:35:25.000Z",
-      "discoveredAt": "2026-08-20T22:48:18.796Z",
-      "summary": "苹果8月19日向美国地区法院提交新回应，反驳OpenAI驳回诉讼的动议，重申其存在大规模商业秘密盗用。苹果指控刘畅（Chang Liu）利用认证漏洞下载数十份机密硬件文件，并称OpenAI人员借招聘套取CAD图纸、原型及供应商细节。",
-      "category": "industry",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt243gbo0h2lroovglxyzaew"
-      },
-      "sourceType": "X",
-      "designCategory": "设计工具",
-      "relevanceScore": 7,
-      "editorialScore": 12,
-      "tags": [
-        "原型"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
       "id": "cmt3ye9wz14y3ro6tw5xtc4n7",
       "title": "Anthropic 内部 /eli5 技能：HTML 大图解释复杂系统",
       "title_en": "@AnthropicAI 内部工程师最近高频在用的一个提效神技，整个提示词居然只有一句话，而且我发现这里面还藏着一个特别狠的工程认知：HTML > Markdown。 Claude Code 团队的…",
@@ -708,6 +653,58 @@
         "视频"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmt5pzn8n0lz3ro7346e47mof",
+      "title": "诺亦腾机器人发布 HiPHI，开源 617.5 小时高精度人体运动数据",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/993/258.htm",
+      "permalink": "https://aihot.virxact.com/items/cmt5pzn8n0lz3ro7346e47mof",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-23T11:18:50.000Z",
+      "discoveredAt": "2026-08-23T11:24:39.447Z",
+      "summary": "诺亦腾机器人在 2026 世界机器人大会期间发布高精度光学动作捕捉数据集 HiPHI，总长 617.5 小时，含 371.8 小时全身运动数据与 245.7 小时人-物交互数据，数据来自 132 名动捕演员，以 90 Hz 频率、亚毫米级精度采集。该数据集已在 Hugging Face 公开上线，基于 HiPHI 训练的模型已在宇树 G1 人形机器人上实现跑步、坐下、爬行、搬运箱子等动作。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt5pzn8n0lz3ro7346e47mof"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmt5p30800leyro73zkt5jfas",
+      "title": "FreeToken：单工作站 GPU 运行 753B GLM-5.2 的边缘原生 MoE 推理引擎",
+      "title_en": "Meet FreeToken： An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU",
+      "url": "https://www.marktechpost.com/2026/08/23/meet-freetoken-an-edge-native-moe-serving-engine-that-runs-753b-glm-5-2-on-a-single-workstation-gpu",
+      "permalink": "https://aihot.virxact.com/items/cmt5p30800leyro73zkt5jfas",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-08-23T10:44:59.000Z",
+      "discoveredAt": "2026-08-23T10:59:16.715Z",
+      "summary": "UC Berkeley 与 UT Austin 团队提出 FreeToken，将个人电脑视为统一弹性推理平台，在 8 GB 笔记本 GPU 上以交互速度运行 35B 模型，在单张工作站显卡上运行 753B GLM-5.2。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt5p30800leyro73zkt5jfas"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmt41yv7k192gro6ttevl43mm",
@@ -903,91 +900,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmt21y3pn0eidroovyx1ti183",
-      "title": "Grok Build 1.0.8 发布：修复与性能更新",
-      "title_en": "SpaceXAI just released a new Grok Build update. Version 1.0.8 is now available. Bug Fixes： • Down…",
-      "url": "https://x.com/cb_doge/status/2090553095260663986",
-      "permalink": "https://aihot.virxact.com/items/cmt21y3pn0eidroovyx1ti183",
-      "source": "X：cb_doge (@cb_doge)",
-      "publishedAt": "2026-08-20T21:34:33.000Z",
-      "discoveredAt": "2026-08-20T21:48:18.513Z",
-      "summary": "Grok Build 发布 1.0.8 版本更新。修复了单文件文件夹下载、虚构工具调用报错、状态行刷新等问题；新增 MCP 服务器表单输入/URL 授权弹窗、Ctrl+S 暂存提示词草稿及 /workflow 自动补全功能。同时优化了多子代理并发启动性能，避免界面冻结。",
-      "category": "ai-products",
-      "score": 31,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt21y3pn0eidroovyx1ti183"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 9,
-      "editorialScore": 10,
-      "tags": [
-        "界面",
-        "workflow",
-        "提示词",
-        "mcp"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmt20hryj0dikroovfjd5gq6y",
-      "title": "OpenRouter 上线 Ox Alpha 隐身模型",
-      "title_en": "🥷 New stealth model： Ox Alpha Ox Alpha is a frontier model built for efficient coding， sustained a…",
-      "url": "https://x.com/OpenRouter/status/2090544970923184269",
-      "permalink": "https://aihot.virxact.com/items/cmt20hryj0dikroovfjd5gq6y",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-08-20T21:02:16.000Z",
-      "discoveredAt": "2026-08-20T21:07:37.303Z",
-      "summary": "🥷 新隐身模型：Ox Alpha\n\nOx Alpha 是一款前沿模型，专为高效编码、持续智能体工作及实际生产环境使用而构建。\n\n- 1M token 上下文窗口 - 支持文本、图像和视频输入\n\n立即试用并分享反馈以改进模型！https://openrouter.ai/stealth/ox-alpha",
-      "category": "ai-models",
-      "score": 54,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt20hryj0dikroovfjd5gq6y"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "视频",
-        "图像",
-        "智能体"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmt20vizi0dr1roovo8srzhpk",
-      "title": "Meta Muse Spark 1.2 登顶视频转网站评测",
-      "title_en": "Meta's Muse Spark 1.2 now leads Design Arena's Video-to-Website test while placing top-three across …",
-      "url": "https://x.com/rohanpaul_ai/status/2090544401097589109",
-      "permalink": "https://aihot.virxact.com/items/cmt20vizi0dr1roovo8srzhpk",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-08-20T21:00:00.000Z",
-      "discoveredAt": "2026-08-20T21:18:18.246Z",
-      "summary": "Meta 的 Muse Spark 1.2 在 Design Arena 视频转网站基准测试中位列第一，Elo 评分 1279，并在图像转代码任务中均进入前三。该模型在图像转 HTML 和图像转前端任务中分别以 1252 和 1272 的 Elo 评分位居第二和第三。其定价为每百万输入 token 1.25 美元、每百万输出 token 4.25 美元，在三个类别中均处于价格偏好帕累托前沿。",
-      "category": "tip",
-      "score": 35,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt20vizi0dr1roovo8srzhpk"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "design",
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmt4o47ft1q6wro6tmve0fwkf",
       "title": "微软发布Thinkingbox：智能体可靠性基准",
       "title_en": "Banger paper from Microsoft. It's on agent reliability in real business workflows. （bookmark it） …",
@@ -1127,6 +1039,32 @@
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
+      "id": "cmt362kzs0i0yro6t5pmf4qsz",
+      "title": "T-Rex：NVIDIA 与伯克利开源触觉机器人方法",
+      "title_en": "The sense of touch is the most criminally under-explored modality in robotics. Imagine doing sleight…",
+      "url": "https://x.com/DrJimFan/status/2090832821036470626",
+      "permalink": "https://aihot.virxact.com/items/cmt362kzs0i0yro6t5pmf4qsz",
+      "source": "X：Jim Fan (@DrJimFan)",
+      "publishedAt": "2026-08-21T16:06:04.000Z",
+      "discoveredAt": "2026-08-21T16:31:31.466Z",
+      "summary": "NVIDIA 与伯克利联合开源触觉机器人方法 T-Rex，将触觉作为模型一等公民，采用双时钟异步架构，以每视觉 tick 4 次触觉 tick 的高频修正实时优化操作。",
+      "category": "paper",
+      "score": 72,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt362kzs0i0yro6t5pmf4qsz"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "视觉"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmt2qvfnj03zxro6tehwcikx4",
       "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
       "title_en": null,
@@ -1180,6 +1118,35 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmt4sjhmo1u1yro6tf2beid6q",
+      "title": "Inkling 模型上线 DAIR.AI 免费体验",
+      "title_en": "Just made this @thinkymachines Inkling model available in our harness playground. Try it for free w…",
+      "url": "https://x.com/omarsar0/status/2091243634309915116",
+      "permalink": "https://aihot.virxact.com/items/cmt4sjhmo1u1yro6tf2beid6q",
+      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+      "publishedAt": "2026-08-22T19:18:30.000Z",
+      "discoveredAt": "2026-08-22T19:48:18.516Z",
+      "summary": "DAIR.AI 已将 Thinking Machines 的 Inkling 模型上线其 harness playground，用户可免费搭配 Pi 或 Hermes Agent 试用。该模型为开放权重 MoE 推理模型，支持文本、图像和音频输入，拥有 1M 上下文窗口，并已在 OpenRouter 上供 Claude Code、Codex 等智能体框架免费调用。",
+      "category": "ai-products",
+      "score": 41,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt4sjhmo1u1yro6tf2beid6q"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "图像",
+        "codex",
+        "claude code",
+        "agent"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cmt3itnqc0tcoro6t9et8ujb5",
       "title": "用 AutoFigure 构建智能体文档智能流水线：从文本描述生成科学图表",
       "title_en": "Building Agentic Document Intelligence Pipelines： Creating Scientific Figures with AutoFigure",
@@ -1203,6 +1170,62 @@
       "tags": [
         "工作流",
         "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmt3dshn70p0aro6tk67pt85a",
+      "title": "Inkling 系列模型上线 OpenRouter 免费供智能体使用",
+      "title_en": "Inkling and Inkling Small are now served directly by @thinkymachines on OpenRouter， free to use insi…",
+      "url": "https://x.com/OpenRouter/status/2090890180379165160",
+      "permalink": "https://aihot.virxact.com/items/cmt3dshn70p0aro6tk67pt85a",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-08-21T19:54:00.000Z",
+      "discoveredAt": "2026-08-21T20:07:37.768Z",
+      "summary": "Inkling 和 Inkling Small 现已由 @thinkymachines 直接在 OpenRouter 上提供，仅限在智能体框架内免费使用。\n\n将它们接入 Claude Code、Codex、Hermes Agent 等工具即可解锁免费访问。\n\n开放权重 MoE 推理模型，原生支持文本、图像和音频输入，上下文窗口达 1M。更多详情见下文 🧵\n\nhttps://openrouter.ai/provider/thinkingmachines",
+      "category": "ai-products",
+      "score": 56,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt3dshn70p0aro6tk67pt85a"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "图像",
+        "codex",
+        "claude code",
+        "agent"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmt2g380i037urolxfmdudfvp",
+      "title": "Grok 机器人使用情况可视化提示词",
+      "title_en": "try this prompt in grok bot： given all the bots we have， can you visualize how they're being used a…",
+      "url": "https://x.com/ericzakariasson/status/2090649600231379113",
+      "permalink": "https://aihot.virxact.com/items/cmt2g380i037urolxfmdudfvp",
+      "source": "X：Eric Zakariasson (@ericzakariasson)",
+      "publishedAt": "2026-08-21T03:58:01.000Z",
+      "discoveredAt": "2026-08-21T04:24:09.583Z",
+      "summary": "在 grok bot 里试试这个提示词：\n\n考虑到我们拥有的所有机器人，你能可视化它们的使用情况以及哪些被用得最多吗？",
+      "category": "tip",
+      "score": 39,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt2g380i037urolxfmdudfvp"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "提示词",
+        "prompt"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -1234,6 +1257,34 @@
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
+      "id": "cmt26eyop0iparoov5uaxwv82",
+      "title": "Perplexity Agent API 开放 41 个前沿模型",
+      "title_en": "A full-fledged developer platform for AI should provide you with access to various models （frontier …",
+      "url": "https://x.com/AravSrinivas/status/2090577299838267739",
+      "permalink": "https://aihot.virxact.com/items/cmt26eyop0iparoov5uaxwv82",
+      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "publishedAt": "2026-08-20T23:10:43.000Z",
+      "discoveredAt": "2026-08-20T23:53:23.417Z",
+      "summary": "Perplexity Agent API 正式上线，开发者可通过单一端点访问来自 9 家提供商的 41 个前沿模型。该 API 内置网页搜索、金融搜索、抓取及沙盒代码执行等工具，支持构建多模型智能体工作流，面向生产级部署场景。",
+      "category": "ai-products",
+      "score": 38,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt26eyop0iparoov5uaxwv82"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "工作流",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cmt4k9geq1nfqro6ttfcf7b4z",
       "title": "蒙德·迪夫林--用克隆人智能体管理办公室的开源多智能体工具",
       "title_en": "蒙德·迪夫林--特工装备，助你管理由克隆人组成的办公室",
@@ -1260,32 +1311,6 @@
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmt2015bg0d3wroovilom2lq8",
-      "title": "用尿液冷却数据中心可行吗？Liquid Death 广告背后确有真实技术",
-      "title_en": "Ok， can we actually cool data centers with our pee？",
-      "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee",
-      "permalink": "https://aihot.virxact.com/items/cmt2015bg0d3wroovilom2lq8",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-08-20T20:53:13.000Z",
-      "discoveredAt": "2026-08-20T20:54:42.895Z",
-      "summary": "Liquid Death 与 Jason Kelce 合作推出恶搞广告，号召人们用尿液冷却 AI 数据中心。专家指出，再生水（经处理的废水和污水）确已被用于数据中心冷却，可部分替代饮用水需求。但该方案依赖大型污水处理设施，弗吉尼亚州劳登县数据中心每日使用约 2 亿加仑再生水，仅占其日用水量的 43%。",
-      "category": "tip",
-      "score": 61,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt2015bg0d3wroovilom2lq8"
-      },
-      "sourceType": "网站",
-      "designCategory": "行业观察",
-      "relevanceScore": 6,
-      "editorialScore": 6,
-      "tags": [
-        "广告"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     }
   ]
 }
