@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-22T13:01:19.610Z",
-  "previousGeneratedAt": "2026-08-22T06:59:17.777Z",
+  "generatedAt": "2026-08-23T01:59:38.360Z",
+  "previousGeneratedAt": "2026-08-22T13:01:19.610Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 45,
+  "itemCount": 48,
   "sourceCounts": {
     "X": 24,
-    "网站": 21
+    "网站": 24
   },
   "source": {
     "name": "AI HOT",
@@ -98,35 +98,6 @@
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmt1w7h4k0aeoroova1jqd2o4",
-      "title": "Claude Managed Agents 接入 AG-UI 新指南",
-      "title_en": "Claude Managed Agents can power many different UIs. Our new cookbook pairs Claude Managed Agents w…",
-      "url": "https://x.com/ClaudeDevs/status/2090511582531072265",
-      "permalink": "https://aihot.virxact.com/items/cmt1w7h4k0aeoroova1jqd2o4",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "publishedAt": "2026-08-20T18:49:35.000Z",
-      "discoveredAt": "2026-08-20T19:07:37.456Z",
-      "summary": "Claude Managed Agents 可以驱动多种不同的用户界面。\n\n我们的新 cookbook 将 Claude Managed Agents 与 @CopilotKit 的开源 Agent-用户交互协议 AG-UI 相结合。",
-      "category": "tip",
-      "score": 28,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt1w7h4k0aeoroova1jqd2o4"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 14,
-      "editorialScore": 18,
-      "tags": [
-        "ui",
-        "界面",
-        "交互",
-        "agent"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmt3w93gr13ffro6t3fqb0vt7",
@@ -575,33 +546,6 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cmt1nmtk502s1roov75goiyaz",
-      "title": "OpenAI 浏览器操作智能体发布",
-      "title_en": "OpenAI for anything you can do in your browser：",
-      "url": "https://x.com/gdb/status/2090449916456009972",
-      "permalink": "https://aihot.virxact.com/items/cmt1nmtk502s1roov75goiyaz",
-      "source": "X：Greg Brockman (@gdb)",
-      "publishedAt": "2026-08-20T14:44:33.000Z",
-      "discoveredAt": "2026-08-20T15:07:37.355Z",
-      "summary": "OpenAI 推出可在浏览器中执行任意操作的智能体。用户 @clairevo 列举了其实际用例，包括关闭会计软件账目、管理 Gmail 收件箱、设置 Stripe Radar 规则、在 Midjourney 中迭代图片、完成安全问卷、注册会议及取消订阅等。该智能体还支持通过 iPhone 镜像在桌面端操作移动应用。",
-      "category": "tip",
-      "score": 31,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt1nmtk502s1roov75goiyaz"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
-      "tags": [
-        "midjourney",
-        "智能体"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmt3ye9wz14y3ro6tw5xtc4n7",
       "title": "Anthropic 内部 /eli5 技能：HTML 大图解释复杂系统",
       "title_en": "@AnthropicAI 内部工程师最近高频在用的一个提效神技，整个提示词居然只有一句话，而且我发现这里面还藏着一个特别狠的工程认知：HTML > Markdown。 Claude Code 团队的…",
@@ -794,88 +738,6 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cmt1swsb006ugroovbdk5fv9y",
-      "title": "Meta 发布 Muse Spark 1.2 多模态评测与演示",
-      "title_en": "Muse Spark 1.2 supports a broad range of multimodal tasks， from turning visuals into working code to…",
-      "url": "https://x.com/AIatMeta/status/2090485743034716420",
-      "permalink": "https://aihot.virxact.com/items/cmt1swsb006ugroovbdk5fv9y",
-      "source": "X：AI at Meta (@AIatMeta)",
-      "publishedAt": "2026-08-20T17:06:55.000Z",
-      "discoveredAt": "2026-08-20T17:35:19.762Z",
-      "summary": "Meta 发布 Muse Spark 1.2 新评测与演示，展示其多模态能力广度，涵盖视觉转代码、感知转物理动作及音视频理解。演示中，模型解析多模态观察并调用工具，引导机器人在非结构化环境中导航寻找橡皮鸭。",
-      "category": "ai-models",
-      "score": 53,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt1swsb006ugroovbdk5fv9y"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视觉",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmt1tk0d107d4roovmety1hmy",
-      "title": "Muse Spark 1.2 多模态模型能力解析",
-      "title_en": "1/ muse spark 1.2 is a very strong multimodal model-it can do visual coding， robotics planning， and …",
-      "url": "https://x.com/alexandr_wang/status/2090485261629354352",
-      "permalink": "https://aihot.virxact.com/items/cmt1tk0d107d4roovmety1hmy",
-      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-      "publishedAt": "2026-08-20T17:05:00.000Z",
-      "discoveredAt": "2026-08-20T17:53:23.878Z",
-      "summary": "1/ Muse Spark 1.2 是一个非常强大的多模态模型--它能够进行视觉编码、机器人规划以及音视频理解，这些能力通过智能体工具整合在一起。",
-      "category": "ai-models",
-      "score": 28,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt1tk0d107d4roovmety1hmy"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视觉",
-        "视频",
-        "智能体"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmt1param03zaroova2r4gici",
-      "title": "世界机器人大会BoBo机器狗实测",
-      "title_en": "At the World Robot Conference： Cruella is in Beijing-with her Dalmatian. Meet BoBo， Vbot's $1，930 fa…",
-      "url": "https://x.com/thexpin/status/2090464122341134790",
-      "permalink": "https://aihot.virxact.com/items/cmt1param03zaroova2r4gici",
-      "source": "X：X.PIN (@thexpin)",
-      "publishedAt": "2026-08-20T15:41:00.000Z",
-      "discoveredAt": "2026-08-20T15:54:09.718Z",
-      "summary": "在世界机器人大会上：Cruella 来到了北京--带着她的斑点狗。认识一下 BoBo，Vbot 售价 1，930 美元的家庭机器狗。它能通过视觉跟随，对牵引绳的拉动做出响应，还能携带零食。我们的测试发现它有 5 小时续航、扎实的越野表现、安静的鞋底和实时视频通话功能。",
-      "category": "ai-products",
-      "score": 45,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt1param03zaroova2r4gici"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视觉",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmt41yv7k192gro6ttevl43mm",
       "title": "神秘 Ox Alpha AI 模型限免上架：DeepSWE 跑分碾压 Claude Fable 5，线索指向智谱",
       "title_en": null,
@@ -1041,6 +903,119 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
+      "id": "cmt4nh7bh1plrro6tnn7m11zk",
+      "title": "OpenRouter 推出图像基准测试，覆盖全部 39 款图像模型",
+      "title_en": "Image Benchmarks： See the Capabilities of Every Model",
+      "url": "https://openrouter.ai/blog/announcements/image-benchmarks",
+      "permalink": "https://aihot.virxact.com/items/cmt4nh7bh1plrro6tnn7m11zk",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-08-21T00:00:00.000Z",
+      "discoveredAt": "2026-08-22T17:26:34.801Z",
+      "summary": "OpenRouter 发布 Visual Image Benchmarks，帮助用户快速评估其提供的全部 39 款图像模型（截至 2026 年 8 月）的实际能力。基准测试用七类挑战性提示词区分模型差异，包括不可能场景、计数、文本、空间关系、否定指令、编辑和一致性，并以网格形式展示结果，支持按价格和生成时间排序。OpenRouter 计划未来将该工具扩展至视频和音频模态。",
+      "category": "ai-products",
+      "score": 55,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt4nh7bh1plrro6tnn7m11zk"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "图像",
+        "提示词"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt21y3pn0eidroovyx1ti183",
+      "title": "Grok Build 1.0.8 发布：修复与性能更新",
+      "title_en": "SpaceXAI just released a new Grok Build update. Version 1.0.8 is now available. Bug Fixes： • Down…",
+      "url": "https://x.com/cb_doge/status/2090553095260663986",
+      "permalink": "https://aihot.virxact.com/items/cmt21y3pn0eidroovyx1ti183",
+      "source": "X：cb_doge (@cb_doge)",
+      "publishedAt": "2026-08-20T21:34:33.000Z",
+      "discoveredAt": "2026-08-20T21:48:18.513Z",
+      "summary": "Grok Build 发布 1.0.8 版本更新。修复了单文件文件夹下载、虚构工具调用报错、状态行刷新等问题；新增 MCP 服务器表单输入/URL 授权弹窗、Ctrl+S 暂存提示词草稿及 /workflow 自动补全功能。同时优化了多子代理并发启动性能，避免界面冻结。",
+      "category": "ai-products",
+      "score": 31,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt21y3pn0eidroovyx1ti183"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 9,
+      "editorialScore": 10,
+      "tags": [
+        "界面",
+        "workflow",
+        "提示词",
+        "mcp"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmt20hryj0dikroovfjd5gq6y",
+      "title": "OpenRouter 上线 Ox Alpha 隐身模型",
+      "title_en": "🥷 New stealth model： Ox Alpha Ox Alpha is a frontier model built for efficient coding， sustained a…",
+      "url": "https://x.com/OpenRouter/status/2090544970923184269",
+      "permalink": "https://aihot.virxact.com/items/cmt20hryj0dikroovfjd5gq6y",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-08-20T21:02:16.000Z",
+      "discoveredAt": "2026-08-20T21:07:37.303Z",
+      "summary": "🥷 新隐身模型：Ox Alpha\n\nOx Alpha 是一款前沿模型，专为高效编码、持续智能体工作及实际生产环境使用而构建。\n\n- 1M token 上下文窗口 - 支持文本、图像和视频输入\n\n立即试用并分享反馈以改进模型！https://openrouter.ai/stealth/ox-alpha",
+      "category": "ai-models",
+      "score": 54,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt20hryj0dikroovfjd5gq6y"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "图像",
+        "智能体"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt20vizi0dr1roovo8srzhpk",
+      "title": "Meta Muse Spark 1.2 登顶视频转网站评测",
+      "title_en": "Meta's Muse Spark 1.2 now leads Design Arena's Video-to-Website test while placing top-three across …",
+      "url": "https://x.com/rohanpaul_ai/status/2090544401097589109",
+      "permalink": "https://aihot.virxact.com/items/cmt20vizi0dr1roovo8srzhpk",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-08-20T21:00:00.000Z",
+      "discoveredAt": "2026-08-20T21:18:18.246Z",
+      "summary": "Meta 的 Muse Spark 1.2 在 Design Arena 视频转网站基准测试中位列第一，Elo 评分 1279，并在图像转代码任务中均进入前三。该模型在图像转 HTML 和图像转前端任务中分别以 1252 和 1272 的 Elo 评分位居第二和第三。其定价为每百万输入 token 1.25 美元、每百万输出 token 4.25 美元，在三个类别中均处于价格偏好帕累托前沿。",
+      "category": "tip",
+      "score": 35,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt20vizi0dr1roovo8srzhpk"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "design",
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmt1xx62g0bm9roovx170bbzg",
       "title": "Adobe Firefly 新增 AI 音频工具并接入 Google Gemini Omni Flash",
       "title_en": "Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash",
@@ -1069,6 +1044,91 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmt4o47ft1q6wro6tmve0fwkf",
+      "title": "微软发布Thinkingbox：智能体可靠性基准",
+      "title_en": "Banger paper from Microsoft. It's on agent reliability in real business workflows. （bookmark it） …",
+      "url": "https://x.com/dair_ai/status/2091209556122808532",
+      "permalink": "https://aihot.virxact.com/items/cmt4o47ft1q6wro6tmve0fwkf",
+      "source": "X：DAIR.AI (@dair_ai)",
+      "publishedAt": "2026-08-22T17:03:05.000Z",
+      "discoveredAt": "2026-08-22T17:44:26.278Z",
+      "summary": "微软发布Thinkingbox，一个用于真实业务流程中智能体可靠性的沙盒环境，配备MCP兼容工具会话，以及涵盖零售、酒店、汽车保险等领域的507个策略条件工作流基准。每项尝试根据智能体留下的后端状态评分，最强模型pass@1达65.36%，pass^20为25.25%。许多失败尝试以有效的状态变更工具调用干净终止，仅观察响应或工具调用难以判断任务是否真正完成。",
+      "category": "paper",
+      "score": 47,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt4o47ft1q6wro6tmve0fwkf"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "工作流",
+        "agent",
+        "智能体",
+        "mcp"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmt4k9geq1nfsro6t34uo2fhd",
+      "title": "构建一个（几乎）完全自主托管、沙箱化、具有代理能力的软件工厂",
+      "title_en": null,
+      "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
+      "permalink": "https://aihot.virxact.com/items/cmt4k9geq1nfsro6t34uo2fhd",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-22T15:25:36.359Z",
+      "discoveredAt": "2026-08-22T15:56:33.230Z",
+      "summary": "作者用一条提示词让AI智能体自主完成从创建代码库、编写应用与测试、通过CI、配置Postgres到部署上线HTTPS应用的完整软件开发生命周期。整套环境基于Coolify自托管在本地服务器上，通过Tailscale、Pi-hole和DNS-01证书验证实现无公网入口的沙箱化隔离，唯一持续成本是每月£20的Codex订阅。",
+      "category": "tip",
+      "score": 61,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt4k9geq1nfsro6t34uo2fhd"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "提示词",
+        "codex",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmt4i7jfu1m07ro6t91ya6hs3",
+      "title": "Claude Code v2.1.240 发布",
+      "title_en": "v2.1.240",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.240",
+      "permalink": "https://aihot.virxact.com/items/cmt4i7jfu1m07ro6t91ya6hs3",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "publishedAt": "2026-08-22T14:45:30.000Z",
+      "discoveredAt": "2026-08-22T14:59:05.442Z",
+      "summary": "Anthropic 发布 Claude Code v2.1.240。该智能体编码工具运行于终端，能理解代码库，通过自然语言指令执行日常任务、解释复杂代码并处理 git 工作流，帮助开发者更快编码。",
+      "category": "ai-products",
+      "score": 26,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt4i7jfu1m07ro6t91ya6hs3"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "工作流",
+        "claude code",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cmt46eooq1caxro6tzp0odehw",
       "title": "新研究：忽略人类信念的世界模型会预测错误行为",
       "title_en": "World models that ignore human beliefs predict the wrong actions， new research shows",
@@ -1093,6 +1153,34 @@
         "sora"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt385fji0jk8ro6tr9i80291",
+      "title": "Luma Agents 亮相 Summer Signal 大会",
+      "title_en": "Creative agents built for creative professionals. On stage at Summer Signal with GMI Cloud， Septembe…",
+      "url": "https://x.com/LumaLabsAI/status/2090848952195137979",
+      "permalink": "https://aihot.virxact.com/items/cmt385fji0jk8ro6tr9i80291",
+      "source": "X：Luma AI (@LumaLabsAI)",
+      "publishedAt": "2026-08-21T17:10:10.000Z",
+      "discoveredAt": "2026-08-21T17:29:44.618Z",
+      "summary": "为创意专业人士打造的创意智能体。9 月 14 日，与 GMI Cloud 一同登上 Summer Signal 舞台。",
+      "category": "industry",
+      "score": 22,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt385fji0jk8ro6tr9i80291"
+      },
+      "sourceType": "X",
+      "designCategory": "行业观察",
+      "relevanceScore": 9,
+      "editorialScore": 9,
+      "tags": [
+        "创意",
+        "creative",
+        "智能体"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "cmt2qvfnj03zxro6tehwcikx4",
@@ -1202,30 +1290,29 @@
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
-      "id": "cmt1pe86v042rroovpzyjsq7t",
-      "title": "monday.com 如何将平台重构为人类与智能体协作的 agent-first 产品",
-      "title_en": "How monday.com transformed its platform into an agent-first product where humans and agents collaborate",
-      "url": "https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate",
-      "permalink": "https://aihot.virxact.com/items/cmt1pe86v042rroovpzyjsq7t",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-08-20T15:56:56.457Z",
-      "discoveredAt": "2026-08-20T15:56:56.457Z",
-      "summary": "monday.com 以 Claude 为核心重构平台，转向人类与智能体协作的 agent-first 模式，自 2026 年 5 月上线以来已产生超过 500 万次智能体交互。该公司曾因\"AI dust\"式附加功能触顶，遂将 AI 原生嵌入工作流，为智能体设置名称、头像及权限，并支持通过 monday Agents、BYOA、Pre-built Agents 等四种方式运行 Claude。",
-      "category": "tip",
-      "score": 49,
+      "id": "cmt4k9geq1nfqro6ttfcf7b4z",
+      "title": "蒙德·迪夫林--用克隆人智能体管理办公室的开源多智能体工具",
+      "title_en": "蒙德·迪夫林--特工装备，助你管理由克隆人组成的办公室",
+      "url": "https://munderdiffl.in/",
+      "permalink": "https://aihot.virxact.com/items/cmt4k9geq1nfqro6ttfcf7b4z",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-22T15:25:36.366Z",
+      "discoveredAt": "2026-08-22T15:56:33.230Z",
+      "summary": "蒙德·迪夫林是一款免费、开源且高性能的多智能体工具，可配合现有订阅（按小时限额）使用。它封装了Claude Code、Codex、Copilot等11款CLI智能体，在本地机器上运行一个由你的克隆人组成的\"办公室\"来管理任务。",
+      "category": "ai-products",
+      "score": 52,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt1pe86v042rroovpzyjsq7t"
+        "canonical": "https://aihot.virxact.com/items/cmt4k9geq1nfqro6ttfcf7b4z"
       },
       "sourceType": "网站",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
+      "relevanceScore": 6,
+      "editorialScore": 7,
       "tags": [
-        "交互",
-        "工作流",
-        "agent",
+        "codex",
+        "claude code",
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
