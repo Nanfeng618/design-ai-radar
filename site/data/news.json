@@ -1,18 +1,46 @@
 {
-  "generatedAt": "2026-08-24T07:20:38.737Z",
-  "previousGeneratedAt": "2026-08-24T01:57:35.161Z",
+  "generatedAt": "2026-08-24T13:12:50.486Z",
+  "previousGeneratedAt": "2026-08-24T07:20:38.737Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 39,
+  "itemCount": 38,
   "sourceCounts": {
     "X": 24,
-    "网站": 15
+    "网站": 14
   },
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com"
   },
   "items": [
+    {
+      "id": "cmt78f2k91yguro73aygxfnyg",
+      "title": "AI生成图片普及，派对邀请函也AI化",
+      "title_en": "All the kids party invites are made with AI now. It's happened， image generation has gone mainstream…",
+      "url": "https://x.com/fofrAI/status/2091868047166296067",
+      "permalink": "https://aihot.virxact.com/items/cmt78f2k91yguro73aygxfnyg",
+      "source": "X：fofr (@fofrAI)",
+      "publishedAt": "2026-08-24T12:39:42.000Z",
+      "discoveredAt": "2026-08-24T12:48:18.064Z",
+      "summary": "现在所有孩子的派对邀请函都是用AI做的了。这事已经发生了，图像生成已经走向主流。\n\n另外，这是不是Comic Sans字体的末日？",
+      "category": "tip",
+      "score": 24,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt78f2k91yguro73aygxfnyg"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 18,
+      "editorialScore": 21,
+      "tags": [
+        "图像生成",
+        "image generation",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
     {
       "id": "cmt398dhu0knbro6tvf8546it",
       "title": "Runway Ruby 上线，支持 16-bit EXR 输出",
@@ -38,6 +66,62 @@
         "视频生成",
         "runway",
         "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt6yrz6l1nztro73bz4rstd9",
+      "title": "阿里云 Wan3.0 上线 NadouPro，支持 30 秒原生视频",
+      "title_en": "Wan3.0 has arrived on @nadou_pro . Longer takes， more reference formats， closer to real - a serious …",
+      "url": "https://x.com/alibaba_cloud/status/2091796012205756629",
+      "permalink": "https://aihot.virxact.com/items/cmt6yrz6l1nztro73bz4rstd9",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-08-24T07:53:27.000Z",
+      "discoveredAt": "2026-08-24T08:18:18.580Z",
+      "summary": "阿里云 Wan3.0 已上线 NadouPro，升级视频生成的长度、多模态参考与真实感，并开放 Model Studio 与 Qwen Cloud 的 API 接入。新版本支持原生 30 秒视频生成、现实级渲染，以及 Omni-Reference 多模态参考，除文本、图像、音频、视频外，还可输入文档、表格、幻灯片和网页等。",
+      "category": "ai-models",
+      "score": 50,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt6yrz6l1nztro73bz4rstd9"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 14,
+      "editorialScore": 17,
+      "tags": [
+        "视频生成",
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt6yrz6l1nzuro73h1m8czo0",
+      "title": "阿里云 Wan3.0 上线 Segmind，原生生成 30 秒视频",
+      "title_en": "Ideas in， 30 seconds of footage out - no stitching. Wan3.0 is on @Segmind_ai ， via PixelFlow or API …",
+      "url": "https://x.com/alibaba_cloud/status/2091795688187392432",
+      "permalink": "https://aihot.virxact.com/items/cmt6yrz6l1nzuro73h1m8czo0",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-08-24T07:52:10.000Z",
+      "discoveredAt": "2026-08-24T08:18:18.580Z",
+      "summary": "阿里云 Wan3.0 视频生成模型已在 Segmind 平台上线，支持单次生成 2 至 30 秒视频，无需拼接。该模型具备 Omni-Reference 多模态参考能力，可输入文本、图像、音频、视频及文档等素材，并支持最高 1080p 分辨率与精细面部渲染。用户可通过 PixelFlow 或 API 调用，也可在 Model Studio 和 Qwen Cloud 获取更多访问权限。",
+      "category": "ai-models",
+      "score": 44,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt6yrz6l1nzuro73h1m8czo0"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 14,
+      "editorialScore": 17,
+      "tags": [
+        "视频生成",
+        "视频",
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -70,6 +154,60 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmt6zufot1p68ro730v9wohae",
+      "title": "阿里云 Wan 3.0 上线 Runware D0",
+      "title_en": "Wan 3.0 is now live on @runware on D0 🎬 More richer visual details， consistent references， and mor…",
+      "url": "https://x.com/alibaba_cloud/status/2091807371224117597",
+      "permalink": "https://aihot.virxact.com/items/cmt6zufot1p68ro730v9wohae",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-08-24T08:38:35.000Z",
+      "discoveredAt": "2026-08-24T08:48:18.272Z",
+      "summary": "阿里云 Wan 3.0 现已在 Runware D0 上线，支持文生视频、帧与参考模式，可生成 30 秒片段，并支持多达 10 张参考图、5 段参考视频和 5 段参考音频输入，配备复杂多输入提示的思考模式。更多 API 访问可通过 Model Studio 和 Qwen Cloud 获取。",
+      "category": "ai-models",
+      "score": 68,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt6zufot1p68ro730v9wohae"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "文生视频",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt6xp9vi1my7ro73qnpf3bev",
+      "title": "阿里云 Wan3.0 上线 TapNow，支持多格式参考",
+      "title_en": "One take. Up to 30 seconds. Multiple reference formats in. Wan3.0 keeps motion， lighting， and every …",
+      "url": "https://x.com/alibaba_cloud/status/2091787580954304776",
+      "permalink": "https://aihot.virxact.com/items/cmt6xp9vi1my7ro73qnpf3bev",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-08-24T07:19:57.000Z",
+      "discoveredAt": "2026-08-24T07:48:18.052Z",
+      "summary": "阿里云 Wan3.0 多模态视频生成模型上线 TapNow，支持一次生成最长 30 秒视频，并接受多种参考格式输入。模型在场景中保持运动、光照和物理细节的一致性，现可通过 Model Studio 和 Qwen Cloud 获取 API 访问。",
+      "category": "ai-models",
+      "score": 63,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt6xp9vi1my7ro73qnpf3bev"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmt6oaejb1dzyro73jsejfygu",
       "title": "阿里云视频生成模型 Wan3.0 正式上线，支持单次生成 30 秒视频、文档输入",
       "title_en": null,
@@ -90,6 +228,115 @@
       "designCategory": "图像与视频",
       "relevanceScore": 12,
       "editorialScore": 15,
+      "tags": [
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt7326kz1s1rro73et4atn2p",
+      "title": "通义万相 Wan 3.0 上线 RunningHub",
+      "title_en": "Wan 3.0 is now live on @RunningHub_ai Native 30-second generation， multimodal references， and stron…",
+      "url": "https://x.com/alibaba_cloud/status/2091827304498667778",
+      "permalink": "https://aihot.virxact.com/items/cmt7326kz1s1rro73et4atn2p",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-08-24T09:57:48.000Z",
+      "discoveredAt": "2026-08-24T10:18:18.075Z",
+      "summary": "阿里云通义万相 Wan 3.0 已在 RunningHub 上线，支持原生 30 秒视频生成、多模态参考输入和更强的时序一致性。用户可通过 Web UI 和 API 使用，并可通过 Model Studio 与 Qwen Cloud 获取更多 API 接入。",
+      "category": "ai-models",
+      "score": 42,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt7326kz1s1rro73et4atn2p"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "ui",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt7326kz1s1sro731ymn2im9",
+      "title": "阿里云 Wan 3.0 上线 Scenario，支持 30 秒视频生成",
+      "title_en": "Wan 3.0 is now on @Scenario_gg ！ 🚀 30-second generation， synchronized audio， and multimodal inputs…",
+      "url": "https://x.com/alibaba_cloud/status/2091826875689812323",
+      "permalink": "https://aihot.virxact.com/items/cmt7326kz1s1sro731ymn2im9",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-08-24T09:56:06.000Z",
+      "discoveredAt": "2026-08-24T10:18:18.075Z",
+      "summary": "阿里云 Wan 3.0 视频模型上线 Scenario 平台，支持一次生成最长 30 秒片段、原生同步音频及多模态输入（首帧、尾帧、参考图、视频、音频、文档和 URL），并配备面向复杂输入的思考模式。开发者现可通过 Model Studio 和 Qwen Cloud 获取 API 接入。",
+      "category": "ai-models",
+      "score": 54,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt7326kz1s1sro731ymn2im9"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt6xp9vi1my4ro73qwrko4br",
+      "title": "阿里云 Wan 3.0 正式发布，原生 30 秒视频生成",
+      "title_en": "Wan 3.0 officially released on @sousakuai ！ 🚀 Native 30-second generation， high consistency and re…",
+      "url": "https://x.com/alibaba_cloud/status/2091793311887663494",
+      "permalink": "https://aihot.virxact.com/items/cmt6xp9vi1my4ro73qwrko4br",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-08-24T07:42:43.000Z",
+      "discoveredAt": "2026-08-24T07:48:18.052Z",
+      "summary": "阿里云 Wan 3.0 在 SousakuAI 正式发布，支持原生 30 秒长视频生成，具备高一致性与高真实感，并支持从文档和网页生成视频。发布期间 Wan 系列限时 50% OFF，生成速度与等待时间也进一步优化。API 已上线 Model Studio 与 Qwen Cloud。",
+      "category": "ai-models",
+      "score": 54,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt6xp9vi1my4ro73qwrko4br"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt6xp9vi1my5ro73jok0pkez",
+      "title": "通义万相 Wan 3.0 上线 FlovaAI 限时优惠",
+      "title_en": "Wan 3.0 is now live on @Flovaai ！ 🚀 Enjoy a limited-time offer on Wan 3.0 480P and start creating …",
+      "url": "https://x.com/alibaba_cloud/status/2091792947515982247",
+      "permalink": "https://aihot.virxact.com/items/cmt6xp9vi1my5ro73jok0pkez",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-08-24T07:41:16.000Z",
+      "discoveredAt": "2026-08-24T07:48:18.052Z",
+      "summary": "阿里云 Wan 3.0 视频生成模型正式上线 FlovaAI，480P 版本限时低至 $0.013/秒。该版本支持音画同步与自然节奏过渡，带来更沉浸的内容呈现。用户还可通过 Model Studio 和 Qwen Cloud 获取 API 访问。",
+      "category": "ai-models",
+      "score": 40,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt6xp9vi1my5ro73jok0pkez"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
       "tags": [
         "视频生成",
         "视频"
@@ -153,63 +400,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmt36f07u0iitro6t1qq9p49q",
-      "title": "Grok Build 1.0.8 发布，优化子代理与多任务",
-      "title_en": "Improvements to Grok Build almost every day http://X.ai/build",
-      "url": "https://x.com/elonmusk/status/2090839546686767400",
-      "permalink": "https://aihot.virxact.com/items/cmt36f07u0iitro6t1qq9p49q",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "publishedAt": "2026-08-21T16:32:48.000Z",
-      "discoveredAt": "2026-08-21T16:41:11.496Z",
-      "summary": "Grok Build 1.0.8 发布，重点改进子代理、工作流与多任务流畅度。并发子代理启动更快且不再冻结父会话，批量打开子代理时 UI 不再卡顿，Ctrl+S 可暂存提示词草稿，/workflow 支持自动补全，MCP 服务器可通过弹窗请求表单输入或 URL 授权。",
-      "category": "ai-products",
-      "score": 26,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt36f07u0iitro6t1qq9p49q"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 13,
-      "editorialScore": 14,
-      "tags": [
-        "ui",
-        "工作流",
-        "workflow",
-        "提示词"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmt3763ol0j39ro6tuju3idxi",
-      "title": "别再写 TUI 了：Thomas Ptacek 呼吁用原生 UI 替代命令行工具",
-      "title_en": "Stop Making TUIs",
-      "url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis",
-      "permalink": "https://aihot.virxact.com/items/cmt3763ol0j39ro6tuju3idxi",
-      "source": "Simon Willison 博客",
-      "publishedAt": "2026-08-21T16:07:32.000Z",
-      "discoveredAt": "2026-08-21T17:02:16.654Z",
-      "summary": "Thomas Ptacek 主张即便是最小的个人工具也应构建真正的原生用户界面，因为编码智能体已将打造可用 GUI 的成本降至几乎为零。Simon Willison 回应称，他此前用 vibe-coding 开发的 macOS 任务栏带宽与 GPU 监控应用至今仍每日使用，并坦言\"快没有借口不这么做了\"。",
-      "category": "tip",
-      "score": 36,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt3763ol0j39ro6tuju3idxi"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 10,
-      "editorialScore": 14,
-      "tags": [
-        "ui",
-        "界面",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmt59orqt097mro73stab2tkb",
       "title": "消费级AI被低估：生活难题的解决者",
       "title_en": "Life is full of things that， by complexity or design or lack of care or required time， are hard to n…",
@@ -262,33 +452,6 @@
         "图像",
         "3d",
         "prompt"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmt31qc1f0ejoro6teqlanbj5",
-      "title": "Runway Ruby 发布，SDR 视频转 16 位 HDR",
-      "title_en": "Introducing Runway Ruby. A new model that converts SDR video up to 16-bit HDR in ProRes and EXR seq…",
-      "url": "https://x.com/runwayml/status/2090807248402682101",
-      "permalink": "https://aihot.virxact.com/items/cmt31qc1f0ejoro6teqlanbj5",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-08-21T14:24:27.000Z",
-      "discoveredAt": "2026-08-21T14:30:00.730Z",
-      "summary": "推出 Runway Ruby。\n\n一款新模型，可将 SDR 视频转换为 ProRes 和 EXR 序列中的 16 位 HDR。兼容任何已上传的视频或生成的输出，最长 30 秒。",
-      "category": "ai-models",
-      "score": 61,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt31qc1f0ejoro6teqlanbj5"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
-      "tags": [
-        "runway",
-        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -348,32 +511,86 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmt375qcs0j2xro6tj5crn6zj",
-      "title": "Midjourney alpha 网站更新日志：8/20/26 修复与改进",
-      "title_en": "Changelog - 8/20/26",
-      "url": "https://updates.midjourney.com/changelog-8-20-26",
-      "permalink": "https://aihot.virxact.com/items/cmt375qcs0j2xro6tj5crn6zj",
-      "source": "Midjourney：Updates（RSS）",
-      "publishedAt": "2026-08-21T16:48:58.000Z",
-      "discoveredAt": "2026-08-21T17:01:59.093Z",
-      "summary": "Midjourney 发布 alpha.midjourney.com 两周内第二轮更新，修复大量 UX 问题并新增文件夹分组功能。用户可在侧边栏将项目整理为可折叠树状分组，支持双击重命名；Upscale、Zoom、Vary 功能回归，Vary 现在遵循用户设置而非静默运行 HD。设置项不再自动重置，站点卡顿、编辑器遮挡、提示词粘贴损坏等问题均已修复。",
-      "category": "ai-products",
-      "score": 35,
+      "id": "cmt6xp9vi1my3ro73e9lt444y",
+      "title": "阿里云 Wan 3.0 上线 Envato AI 视频工具",
+      "title_en": "Wan 3.0 is now available on @envato ！ 🚀 More consistent references， richer visual details， and more…",
+      "url": "https://x.com/alibaba_cloud/status/2091793675529617765",
+      "permalink": "https://aihot.virxact.com/items/cmt6xp9vi1my3ro73e9lt444y",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-08-24T07:44:10.000Z",
+      "discoveredAt": "2026-08-24T07:48:18.052Z",
+      "summary": "阿里云 Wan 3.0 现已集成至 Envato 的 AI 视频工具，带来更强的参考一致性、更丰富的视觉细节和更多创意可能性。同时开放更多 API 接入渠道，包括 Model Studio 和 Qwen Cloud。",
+      "category": "industry",
+      "score": 33,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt375qcs0j2xro6tj5crn6zj"
+        "canonical": "https://aihot.virxact.com/items/cmt6xp9vi1my3ro73e9lt444y"
       },
-      "sourceType": "网站",
+      "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
+      "relevanceScore": 8,
+      "editorialScore": 11,
       "tags": [
-        "midjourney",
-        "ux",
-        "提示词"
+        "视觉",
+        "创意",
+        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt6xp9vi1my8ro731egsdr1x",
+      "title": "阿里云 Wan3.0 上线 fal，单次生成 30 秒视频",
+      "title_en": "Wan3.0 is now live on @fal . One pass， 30 seconds， no stitching. Feed it text， images， audio， video…",
+      "url": "https://x.com/alibaba_cloud/status/2091787253274329304",
+      "permalink": "https://aihot.virxact.com/items/cmt6xp9vi1my8ro731egsdr1x",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-08-24T07:18:39.000Z",
+      "discoveredAt": "2026-08-24T07:48:18.052Z",
+      "summary": "阿里云 Wan3.0 已上线 fal 平台，单次生成原生 30 秒视频，无需拼接。支持文本、图像、音频、视频、网页和文档等多模态输入，并提升真实世界运动渲染效果。更多 API 接入可通过 Model Studio 和 Qwen Cloud 获取。",
+      "category": "ai-models",
+      "score": 62,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt6xp9vi1my8ro731egsdr1x"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt6wv3171m3uro73mrtup698",
+      "title": "小米玄戒 O100 原型机亮相：采用横向阔折叠设计，支持风冷主动散热",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/993/558.htm",
+      "permalink": "https://aihot.virxact.com/items/cmt6wv3171m3uro73mrtup698",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-24T06:59:45.000Z",
+      "discoveredAt": "2026-08-24T07:24:49.623Z",
+      "summary": "小米在玄戒芯片技术沟通会上展出玄戒 O100 原型机，采用横向阔折叠设计，由玄戒 O3 与玄戒 O100 协同计算，支持风冷主动散热，拥有 10 瓦强解热能力，并内置 Xiaomi MiMo 端侧模型。同场还亮相小米 AI Cube Prototype 迷你主机，以玄戒 O3+、O100、D100 三芯阵容支持大模型本地部署。",
+      "category": "ai-products",
+      "score": 37,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt6wv3171m3uro73mrtup698"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
+      "tags": [
+        "原型",
+        "设计"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "cmt3ye9wz14y3ro6tw5xtc4n7",
@@ -566,58 +783,28 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmt36j6w00ilqro6tbtmidbfh",
-      "title": "四模型同题竞答，猜驱动赢会员",
-      "title_en": "同一段 prompt，四个不同模型，同在 YouMind Harness 里跑，结果如下。 你最喜欢哪一个（1、2、3、4）。猜猜你喜欢的产物背后、是哪个模型在驱动。 生图都是调用的 gpt-im…",
-      "url": "https://x.com/lifesinger/status/2090829897732342057",
-      "permalink": "https://aihot.virxact.com/items/cmt36j6w00ilqro6tbtmidbfh",
-      "source": "X：Frank Wang 玉伯 (@lifesinger)",
-      "publishedAt": "2026-08-21T15:54:28.000Z",
-      "discoveredAt": "2026-08-21T16:44:26.944Z",
-      "summary": "玉伯用同一段故宫亲子游PPT提示词，在YouMind Harness中测试四个不同模型，并公布生成结果供网友竞猜。生图均调用gpt-image-2，其中包含ox和ds-v4-flash-vision-exp模型。猜对驱动模型的用户将获得YouMind会员奖励。",
-      "category": "tip",
-      "score": 24,
+      "id": "cmt78u4rr1ytiro73apml2osj",
+      "title": "Runway Ruby 支持多模型直出专业格式",
+      "title_en": "Generate with any model on Runway， then take it to delivery spec with Ruby. Seedance 2.5， Gen-4.5， M…",
+      "url": "https://x.com/runwayml/status/2091872521318814183",
+      "permalink": "https://aihot.virxact.com/items/cmt78u4rr1ytiro73apml2osj",
+      "source": "X：Runway (@runwayml)",
+      "publishedAt": "2026-08-24T12:57:28.000Z",
+      "discoveredAt": "2026-08-24T13:00:00.919Z",
+      "summary": "在 Runway 上用任意模型生成，然后通过 Ruby 将其提升至交付规格。无论你使用 Seedance 2.5、Gen-4.5 还是 MiniMax H3，都可直接转换为 16-bit EXR 或 10 位和 12 位 ProRes 及 HEVC。\n\n点击下方链接立即体验。",
+      "category": "ai-products",
+      "score": 53,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt36j6w00ilqro6tbtmidbfh"
+        "canonical": "https://aihot.virxact.com/items/cmt78u4rr1ytiro73apml2osj"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
+      "relevanceScore": 6,
+      "editorialScore": 9,
       "tags": [
-        "生图",
-        "提示词",
-        "prompt"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmt31b9gx0eaxro6t21v0ry9c",
-      "title": "DeepSeek-V4-Flash-Vision-Exp 发布，多模态智能体性能逼近 Opus-4.8",
-      "title_en": "Brace yourselves. We just entered a new era of frontier multimodal models. DeepSeek-V4-Flash-Vision…",
-      "url": "https://x.com/omarsar0/status/2090799250502238447",
-      "permalink": "https://aihot.virxact.com/items/cmt31b9gx0eaxro6t21v0ry9c",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "publishedAt": "2026-08-21T13:52:41.000Z",
-      "discoveredAt": "2026-08-21T14:18:18.387Z",
-      "summary": "DeepSeek-V4-Flash-Vision-Exp 已上线 DeepSeek API 平台，文本能力与 V4-Flash 持平，多模态智能体基准测试大幅跃升，性能接近 Opus-4.8。Ox Alpha 支持 1M token 上下文，可处理文本、图像和视频输入，在编码与智能体任务中表现出色。DeepSeek Harness 0.1.1 同步发布，开箱支持新模型。",
-      "category": "ai-models",
-      "score": 49,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt31b9gx0eaxro6t21v0ry9c"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "视频",
-        "图像",
-        "智能体"
+        "runway"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -761,60 +948,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmt385fji0jk8ro6tr9i80291",
-      "title": "Luma Agents 亮相 Summer Signal 大会",
-      "title_en": "Creative agents built for creative professionals. On stage at Summer Signal with GMI Cloud， Septembe…",
-      "url": "https://x.com/LumaLabsAI/status/2090848952195137979",
-      "permalink": "https://aihot.virxact.com/items/cmt385fji0jk8ro6tr9i80291",
-      "source": "X：Luma AI (@LumaLabsAI)",
-      "publishedAt": "2026-08-21T17:10:10.000Z",
-      "discoveredAt": "2026-08-21T17:29:44.618Z",
-      "summary": "为创意专业人士打造的创意智能体。9 月 14 日，与 GMI Cloud 一同登上 Summer Signal 舞台。",
-      "category": "industry",
-      "score": 22,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt385fji0jk8ro6tr9i80291"
-      },
-      "sourceType": "X",
-      "designCategory": "行业观察",
-      "relevanceScore": 9,
-      "editorialScore": 9,
-      "tags": [
-        "创意",
-        "creative",
-        "智能体"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmt362kzs0i0yro6t5pmf4qsz",
-      "title": "T-Rex：NVIDIA 与伯克利开源触觉机器人方法",
-      "title_en": "The sense of touch is the most criminally under-explored modality in robotics. Imagine doing sleight…",
-      "url": "https://x.com/DrJimFan/status/2090832821036470626",
-      "permalink": "https://aihot.virxact.com/items/cmt362kzs0i0yro6t5pmf4qsz",
-      "source": "X：Jim Fan (@DrJimFan)",
-      "publishedAt": "2026-08-21T16:06:04.000Z",
-      "discoveredAt": "2026-08-21T16:31:31.466Z",
-      "summary": "NVIDIA 与伯克利联合开源触觉机器人方法 T-Rex，将触觉作为模型一等公民，采用双时钟异步架构，以每视觉 tick 4 次触觉 tick 的高频修正实时优化操作。",
-      "category": "paper",
-      "score": 72,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt362kzs0i0yro6t5pmf4qsz"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "视觉"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmt5yc4lt0u27ro7368g9zxge",
       "title": "Gemini 应用速度提升，搭配 3.7 Flash 体验佳",
       "title_en": "I love how fast the Gemini app is now. Open， prompt and go. Combo with Gemini 3.7 Flash is 🔥",
@@ -898,118 +1031,6 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmt3dshn70p0aro6tk67pt85a",
-      "title": "Inkling 系列模型上线 OpenRouter 免费供智能体使用",
-      "title_en": "Inkling and Inkling Small are now served directly by @thinkymachines on OpenRouter， free to use insi…",
-      "url": "https://x.com/OpenRouter/status/2090890180379165160",
-      "permalink": "https://aihot.virxact.com/items/cmt3dshn70p0aro6tk67pt85a",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-08-21T19:54:00.000Z",
-      "discoveredAt": "2026-08-21T20:07:37.768Z",
-      "summary": "Inkling 和 Inkling Small 现已由 @thinkymachines 直接在 OpenRouter 上提供，仅限在智能体框架内免费使用。\n\n将它们接入 Claude Code、Codex、Hermes Agent 等工具即可解锁免费访问。\n\n开放权重 MoE 推理模型，原生支持文本、图像和音频输入，上下文窗口达 1M。更多详情见下文 🧵\n\nhttps://openrouter.ai/provider/thinkingmachines",
-      "category": "ai-products",
-      "score": 56,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt3dshn70p0aro6tk67pt85a"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "图像",
-        "codex",
-        "claude code",
-        "agent"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmt6vyu311li3ro73kyojzq96",
-      "title": "今日学习：提示词新手概念解析",
-      "title_en": "TIL： prompt kiddie https://ericpardee.github.io/fire-hd-ownership/",
-      "url": "https://x.com/steipete/status/2091778518531395927",
-      "permalink": "https://aihot.virxact.com/items/cmt6vyu311li3ro73kyojzq96",
-      "source": "X：Peter Steinberger (@steipete)",
-      "publishedAt": "2026-08-24T06:43:56.000Z",
-      "discoveredAt": "2026-08-24T06:59:44.666Z",
-      "summary": "今日学习：提示词新手\nhttps://ericpardee.github.io/fire-hd-ownership/",
-      "category": "tip",
-      "score": 12,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt6vyu311li3ro73kyojzq96"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "提示词",
-        "prompt"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmt5zer9b0uvjro73de75mo3f",
-      "title": "微软 SocialRL 让 4B 模型谈判胜过 GPT-4.1",
-      "title_en": "New Microsoft paper shows an AI agent that negotiates for you will usually lose， because it was trai…",
-      "url": "https://x.com/rohanpaul_ai/status/2091547762898690225",
-      "permalink": "https://aihot.virxact.com/items/cmt5zer9b0uvjro73de75mo3f",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-08-23T15:27:00.000Z",
-      "discoveredAt": "2026-08-23T15:48:18.099Z",
-      "summary": "微软新论文发现，AI 智能体因被训练得过于顺从，替用户谈判时通常会吃亏，甚至会泄露预算并在对方施压时让步。为此提出 SocialRL 训练方法，让模型在六个谈判与调度游戏中以交易结果为导向学习。一个 4B 模型在全部游戏中平均得分 0.627，追平 GPT-4.1 的 0.625，但仅靠提示词反而会恶化表现。",
-      "category": "paper",
-      "score": 36,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt5zer9b0uvjro73de75mo3f"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "提示词",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmt5w6z5o0selro7367o1yjr4",
-      "title": "智能体技能常驻成本：50-280 token/技能",
-      "title_en": "Agents shouldn't pay rent for skills they rarely use. Right now， the only way to give an agent a sk…",
-      "url": "https://x.com/rohanpaul_ai/status/2091525999339139578",
-      "permalink": "https://aihot.virxact.com/items/cmt5w6z5o0selro7367o1yjr4",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-08-23T14:00:31.000Z",
-      "discoveredAt": "2026-08-23T14:18:18.832Z",
-      "summary": "论文指出，智能体安装技能后其描述会永久占用系统提示词，每个技能带来50至280 token的固定成本。研究认为单个智能体可靠触发技能数不足百个，而当前已发布技能达56，804个。建议仅将少数必须自动触发的技能常驻提示词，其余按需调用。",
-      "category": "paper",
-      "score": 37,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt5w6z5o0selro7367o1yjr4"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "提示词",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
       "id": "cmt4k9geq1nfqro6ttfcf7b4z",
       "title": "蒙德·迪夫林--用克隆人智能体管理办公室的开源多智能体工具",
       "title_en": "蒙德·迪夫林--特工装备，助你管理由克隆人组成的办公室",
@@ -1033,63 +1054,6 @@
       "tags": [
         "codex",
         "claude code",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmt3lo9v10vhjro6tfdznqvof",
-      "title": "智能体持续学习：超越模型参数的适配",
-      "title_en": "An agent can improve without retraining the model. Once agents rewrite their own prompts， memory， a…",
-      "url": "https://x.com/rohanpaul_ai/status/2090943348081307932",
-      "permalink": "https://aihot.virxact.com/items/cmt3lo9v10vhjro6tfdznqvof",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-08-21T23:25:16.000Z",
-      "discoveredAt": "2026-08-21T23:48:18.451Z",
-      "summary": "一篇新论文提出\"框架持续学习\"（HCL）框架，指出智能体无需重训模型，仅通过重写自身提示词、记忆和路由即可实现行为更新。论文将模型冻结而周边行为持续变化的现象称为\"框架级遗忘\"，并主张对提示词、记忆、技能和路由的改动应像代码变更一样进行回归测试后再持久化。",
-      "category": "paper",
-      "score": 36,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt3lo9v10vhjro6tfdznqvof"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "提示词",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmt3h4thb0rbyro6trwuwrqon",
-      "title": "X Ads 推出 MCP，AI 智能体可管理广告",
-      "title_en": "Use your AI to manage X ads！",
-      "url": "https://x.com/elonmusk/status/2090911702879772854",
-      "permalink": "https://aihot.virxact.com/items/cmt3h4thb0rbyro6trwuwrqon",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "publishedAt": "2026-08-21T21:19:31.000Z",
-      "discoveredAt": "2026-08-21T21:41:11.115Z",
-      "summary": "X Ads 通过新 MCP 接口实现 agent-native，Grok、Claude Code 等 AI 智能体可直接连接广告账户，用自然语言管理广告系列。该 MCP 提供 23 个工具，支持创建与管理广告、定向设置、推广帖子等全流程操作。新广告系列默认以暂停状态创建，需用户明确激活后才会开始花钱，防止 AI 擅自消耗预算。",
-      "category": "ai-products",
-      "score": 39,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt3h4thb0rbyro6trwuwrqon"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "广告",
-        "claude code",
-        "agent",
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
