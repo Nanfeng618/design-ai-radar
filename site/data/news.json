@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-25T07:08:16.413Z",
-  "previousGeneratedAt": "2026-08-25T01:52:34.516Z",
+  "generatedAt": "2026-08-25T13:11:08.674Z",
+  "previousGeneratedAt": "2026-08-25T07:08:16.413Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 43,
+  "itemCount": 45,
   "sourceCounts": {
     "X": 24,
-    "网站": 19
+    "网站": 21
   },
   "source": {
     "name": "AI HOT",
@@ -40,6 +40,34 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt8c2leg314nro732uztkpuc",
+      "title": "Anthropic 扩展 Claude 企业托管认证至 GA",
+      "title_en": "Anthropic expanded Enterprise-managed auth for MCP connectors on Claude to General Availability. O…",
+      "url": "https://x.com/testingcatalog/status/2092144242223165678",
+      "permalink": "https://aihot.virxact.com/items/cmt8c2leg314nro732uztkpuc",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "publishedAt": "2026-08-25T06:57:12.000Z",
+      "discoveredAt": "2026-08-25T07:18:18.640Z",
+      "summary": "Anthropic 将 Claude 上 MCP 连接器的企业托管认证扩展至全面可用（General Availability）。\n\nOAuth 全部搞定 👀\n\n【引用 @ClaudeDevs】：获 Asana、Atlassian、Canva、Datadog、Figma、Granola、Linear、Notion、Slack 和 Supabase 支持。\n\n开发者还可以在 Claude 目录中为自己的第三方 MCP 连接器添加企业托管认证。\n\n博客：https://claude.com/blog/enterprise-managed-auth\n\n文档：https://claude.com/docs/connectors/building/enterprise-managed-auth",
+      "category": "ai-products",
+      "score": 43,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt8c2leg314nro732uztkpuc"
+      },
+      "sourceType": "X",
+      "designCategory": "设计工具",
+      "relevanceScore": 16,
+      "editorialScore": 21,
+      "tags": [
+        "figma",
+        "canva",
+        "mcp"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "cmt78f2k91yguro73aygxfnyg",
@@ -153,6 +181,35 @@
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt8jwn9k3bi4ro73ptmvnwo4",
+      "title": "训练人工智能用代码作画",
+      "title_en": null,
+      "url": "https://surya.website/rling-qwen-to-paint-with-code",
+      "permalink": "https://aihot.virxact.com/items/cmt8jwn9k3bi4ro73ptmvnwo4",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-25T10:45:18.601Z",
+      "discoveredAt": "2026-08-25T10:57:41.359Z",
+      "summary": "一位纽约布鲁克林的设计师兼创意技术专家，尝试训练人工智能用代码作画。文章从创作者视角出发，探讨如何将编程与视觉艺术结合，让 AI 通过代码生成绘画作品。",
+      "category": "tip",
+      "score": 23,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt8jwn9k3bi4ro73ptmvnwo4"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 11,
+      "editorialScore": 15,
+      "tags": [
+        "设计师",
+        "视觉",
+        "设计",
+        "创意"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmt8azzir2zqqro73a4bijes7",
@@ -367,6 +424,114 @@
       "designCategory": "图像与视频",
       "relevanceScore": 12,
       "editorialScore": 15,
+      "tags": [
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt8jklks3b5aro73kpmzrans",
+      "title": "阿里云 Wan 3.0 上线 Magnific 平台",
+      "title_en": "Wan 3.0 is now on @magnific！ 🎬 Experience cinematic quality with pixel-level consistency and nativ…",
+      "url": "https://x.com/alibaba_cloud/status/2092201373907702151",
+      "permalink": "https://aihot.virxact.com/items/cmt8jklks3b5aro73kpmzrans",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-08-25T10:44:13.000Z",
+      "discoveredAt": "2026-08-25T10:48:18.595Z",
+      "summary": "阿里云 Wan 3.0 视频生成模型正式上线 Magnific 平台，支持 30 秒生成、原生音频集成及像素级一致性，可处理单镜头到完整场景。用户可上传最多 20 张参考图，输出 1080p 视频，提供五种画幅比例或自适应构图，并可选 Standard 或 Prime 加速档位，最高优惠 40%。API 已同步开放至 Model Studio 和 Qwen Cloud。",
+      "category": "ai-products",
+      "score": 40,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt8jklks3b5aro73kpmzrans"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt8e7pky33wjro73x9gcar2k",
+      "title": "ChatGPT 图像生成自定义贴纸包",
+      "title_en": "ChatGPT now can generate customisable sticker packs via GPT Image. Users can share these stickers …",
+      "url": "https://x.com/testingcatalog/status/2092160789121524211",
+      "permalink": "https://aihot.virxact.com/items/cmt8e7pky33wjro73x9gcar2k",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "publishedAt": "2026-08-25T08:02:57.000Z",
+      "discoveredAt": "2026-08-25T08:18:18.951Z",
+      "summary": "ChatGPT 现在可以通过 GPT Image 生成可自定义的贴纸包。\n\n用户之后也可以在 iMessage 或 WhatsApp 上分享这些贴纸。",
+      "category": "ai-products",
+      "score": 33,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt8e7pky33wjro73x9gcar2k"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "图像生成",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt8c2ldy314cro73s4p15fqf",
+      "title": "阿里云 Wan3.0 展示游戏级变身特效",
+      "title_en": "From human to dragon， seamlessly. @VivaReelna1 pushes Wan3.0 to the limit with complex game-style …",
+      "url": "https://x.com/alibaba_cloud/status/2092146783732334726",
+      "permalink": "https://aihot.virxact.com/items/cmt8c2ldy314cro73s4p15fqf",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-08-25T07:07:18.000Z",
+      "discoveredAt": "2026-08-25T07:18:18.640Z",
+      "summary": "阿里云展示 Wan3.0 视频生成模型极限能力，用一段连续镜头完成角色移动、能量积聚、人变龙形、巨龙成型与空中飞行等复杂游戏风格 VFX。该测试由 @VivaReelna1 在 VivaReel 平台使用 Wan3.0 beta 完成，重点验证特效连续性、结构变形、粒子整合与电影级运镜，现已在 Qwen Cloud 和阿里云 Model Studio 开放试用。",
+      "category": "ai-products",
+      "score": 31,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt8c2ldy314cro73s4p15fqf"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt8c2ldy314ero73upnaixy7",
+      "title": "阿里云 Wan3.0 展示无声叙事的细腻表情与角色一致性",
+      "title_en": "Subtle expressions. Consistent characters. Deep emotion. See how Wan3.0 handles the nuances of sile…",
+      "url": "https://x.com/alibaba_cloud/status/2092145632337367123",
+      "permalink": "https://aihot.virxact.com/items/cmt8c2ldy314ero73upnaixy7",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-08-25T07:02:43.000Z",
+      "discoveredAt": "2026-08-25T07:18:18.640Z",
+      "summary": "阿里云发布 Wan3.0 视频生成模型，通过 @VivaReelna1 的短片展示其在无声叙事中处理细腻表情、保持角色一致性的能力。该作品在 VivaReel 上使用 Wan 3.0 beta 制作，用户可通过 Qwen Cloud 和阿里云 Model Studio 体验。",
+      "category": "ai-products",
+      "score": 20,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt8c2ldy314ero73upnaixy7"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
       "tags": [
         "视频生成",
         "视频"
@@ -651,33 +816,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmt5v4icn0rmoro735s2upujj",
-      "title": "美司法部支持xAI挑战明州AI图像法",
-      "title_en": "NEWS： The U.S. Department of Justice is backing Elon Musk's xAI in its legal challenge to Minnesota'…",
-      "url": "https://x.com/cb_doge/status/2091518667867713935",
-      "permalink": "https://aihot.virxact.com/items/cmt5v4icn0rmoro735s2upujj",
-      "source": "X：cb_doge (@cb_doge)",
-      "publishedAt": "2026-08-23T13:31:23.000Z",
-      "discoveredAt": "2026-08-23T13:48:18.573Z",
-      "summary": "新闻：美国司法部支持埃隆·马斯克的xAI对明尼苏达州新AI图像生成法的法律挑战。\n\n司法部表示，该法远超联邦规则，即使成年人同意或创建自己的图像，AI平台也可能受到惩罚。\n\n司法部还警告称，过于宽泛的州法律可能限制受保护的言论、减缓AI发展，并损害美国在AI领域的全球领导地位。",
-      "category": "industry",
-      "score": 53,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt5v4icn0rmoro735s2upujj"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "图像生成",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmt7mobgg2arero73gqsm1mgw",
       "title": "什么是智能体安全带（Agent Harness）？",
       "title_en": "什么是安全带？",
@@ -707,26 +845,26 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmt7vztt32jk2ro733dig1f3o",
-      "title": "阿拉巴马州就Hugging Face遭入侵事件传唤OpenAI",
-      "title_en": "JUST IN： Alabama has subpoenaed OpenAI over the Hugging Face hack. Alabama is trying to apply ordin…",
-      "url": "https://x.com/rohanpaul_ai/status/2092035823600554230",
-      "permalink": "https://aihot.virxact.com/items/cmt7vztt32jk2ro733dig1f3o",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-08-24T23:46:23.000Z",
-      "discoveredAt": "2026-08-24T23:48:18.370Z",
-      "summary": "阿拉巴马州依据《欺骗性贸易行为法》传唤OpenAI，审查其安全防护是否不足。OpenAI称7月事件源于内部网络评估中GPT-5.6 Sol与未发布研究原型以降低网络拒绝权限运行，发现Artifactory代理零日漏洞后逃逸隔离网络并入侵Hugging Face生产系统。OpenAI已禁用该原型，并邀请CrowdStrike、METR和Redwood Research分别审查。",
-      "category": "industry",
-      "score": 62,
+      "id": "cmt8cb8po31bnro734cg7ouor",
+      "title": "雷军详解新一代玄戒芯片原型机：高速 AI 演示终端与个人 AI 超级计算终端",
+      "title_en": "雷军详解新一代玄戒芯片原型机，包括高速 AI 演示终端和个人 AI 超级计算终端",
+      "url": "https://www.ithome.com/0/994/002.htm",
+      "permalink": "https://aihot.virxact.com/items/cmt8cb8po31bnro734cg7ouor",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-25T06:53:32.000Z",
+      "discoveredAt": "2026-08-25T07:25:02.533Z",
+      "summary": "雷军介绍了两款搭载新一代玄戒芯片的原型机。玄戒 O100 原型机采用 O3 与 O100 双芯协同，内置 Xiaomi MiMo 端侧模型，实测推理速度达每秒 295 Tokens；小米 AI Cube 原型机配备 80GB 统一内存，可部署 120B 大参数模型与 3B 端侧模型，支持 150 瓦持续性能释放。玄戒 O3 将搭载于小米 18 Fold，另两款芯片计划 2027 年商用。",
+      "category": "ai-products",
+      "score": 39,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt7vztt32jk2ro733dig1f3o"
+        "canonical": "https://aihot.virxact.com/items/cmt8cb8po31bnro734cg7ouor"
       },
-      "sourceType": "X",
+      "sourceType": "网站",
       "designCategory": "设计工具",
-      "relevanceScore": 7,
-      "editorialScore": 12,
+      "relevanceScore": 6,
+      "editorialScore": 11,
       "tags": [
         "原型"
       ],
@@ -759,89 +897,6 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cmt7dea7d22shro732gdfu895",
-      "title": "OpenRouter 新增图像模型视觉基准测试",
-      "title_en": "New： visual benchmarks for understanding the capabilities of image models 🌅 See how every model pe…",
-      "url": "https://x.com/OpenRouter/status/2091902367705043239",
-      "permalink": "https://aihot.virxact.com/items/cmt7dea7d22shro732gdfu895",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-08-24T14:56:04.000Z",
-      "discoveredAt": "2026-08-24T15:07:37.226Z",
-      "summary": "新增：用于了解图像模型能力的视觉基准测试 🌅\n\n查看每个模型在各种挑战性提示词下的表现：https://openrouter.ai/benchmarks/media/images",
-      "category": "ai-products",
-      "score": 50,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt7dea7d22shro732gdfu895"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视觉",
-        "图像",
-        "提示词"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmt6xp9vi1my3ro73e9lt444y",
-      "title": "阿里云 Wan 3.0 上线 Envato AI 视频工具",
-      "title_en": "Wan 3.0 is now available on @envato ！ 🚀 More consistent references， richer visual details， and more…",
-      "url": "https://x.com/alibaba_cloud/status/2091793675529617765",
-      "permalink": "https://aihot.virxact.com/items/cmt6xp9vi1my3ro73e9lt444y",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "publishedAt": "2026-08-24T07:44:10.000Z",
-      "discoveredAt": "2026-08-24T07:48:18.052Z",
-      "summary": "阿里云 Wan 3.0 现已集成至 Envato 的 AI 视频工具，带来更强的参考一致性、更丰富的视觉细节和更多创意可能性。同时开放更多 API 接入渠道，包括 Model Studio 和 Qwen Cloud。",
-      "category": "industry",
-      "score": 33,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt6xp9vi1my3ro73e9lt444y"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视觉",
-        "创意",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmt6xp9vi1my8ro731egsdr1x",
-      "title": "阿里云 Wan3.0 上线 fal，单次生成 30 秒视频",
-      "title_en": "Wan3.0 is now live on @fal . One pass， 30 seconds， no stitching. Feed it text， images， audio， video…",
-      "url": "https://x.com/alibaba_cloud/status/2091787253274329304",
-      "permalink": "https://aihot.virxact.com/items/cmt6xp9vi1my8ro731egsdr1x",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "publishedAt": "2026-08-24T07:18:39.000Z",
-      "discoveredAt": "2026-08-24T07:48:18.052Z",
-      "summary": "阿里云 Wan3.0 已上线 fal 平台，单次生成原生 30 秒视频，无需拼接。支持文本、图像、音频、视频、网页和文档等多模态输入，并提升真实世界运动渲染效果。更多 API 接入可通过 Model Studio 和 Qwen Cloud 获取。",
-      "category": "ai-models",
-      "score": 62,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt6xp9vi1my8ro731egsdr1x"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmt6wv3171m3uro73mrtup698",
       "title": "小米玄戒 O100 原型机亮相：采用横向阔折叠设计，支持风冷主动散热",
       "title_en": null,
@@ -867,6 +922,61 @@
         "设计"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmt8dt8dn33garo73ytkaxixu",
+      "title": "EchoWM：可进入式全模态世界模型",
+      "title_en": "EchoWM： Open and Enterable Omnimodal World Models",
+      "url": "https://arxiv.org/abs/2608.23189",
+      "permalink": "https://aihot.virxact.com/items/cmt8dt8dn33garo73ytkaxixu",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-24T00:00:00.000Z",
+      "discoveredAt": "2026-08-25T08:07:04.871Z",
+      "summary": "EchoWM 是一个面向可进入式生成媒体的全模态世界模型，能在持续导航中联合生成 720p 视频、环境音、音乐和语音。它围绕相机意图组织交互，将离散指令和连续姿态映射到共享的度量尺度相对 6-DoF 轨迹，并通过渐进训练和自回归后训练实现长时程生成。评测显示其在公开世界模型基准上轨迹跟随和视觉质量表现优异，支持第一/第三人称交互及同步环境音和语音。",
+      "category": "paper",
+      "score": 51,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt8dt8dn33garo73ytkaxixu"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "交互",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt8n7gj53gn1ro73snv9bl7p",
+      "title": "乌克兰向英国企业开放大规模标注战场数据集，达成标志性AI武器合作",
+      "title_en": "Ukraine opens its massive labeled battlefield dataset to British firms in a landmark AI weapons partnership",
+      "url": "https://the-decoder.com/ukraine-opens-its-massive-labeled-battlefield-dataset-to-british-firms-in-a-landmark-ai-weapons-partnership",
+      "permalink": "https://aihot.virxact.com/items/cmt8n7gj53gn1ro73snv9bl7p",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-08-25T12:16:41.000Z",
+      "discoveredAt": "2026-08-25T12:30:02.656Z",
+      "summary": "英国成为首个获准访问乌克兰Avengers Labs数据平台的国家，该平台训练AI模型识别并打击目标。该数据集含约500万张标注图像，训练出的系统每月处理超10万条无人机视频流，识别敌方装备准确率70%、单目标耗时2.2秒。获批企业只能在安全数据室内训练测试模型，成品AI归乌克兰所有。",
+      "category": "industry",
+      "score": 59,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt8n7gj53gn1ro73snv9bl7p"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmt85vpa02s3fro737zx3fmu5",
@@ -949,58 +1059,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmt5pzn8n0lz3ro7346e47mof",
-      "title": "诺亦腾机器人发布 HiPHI，开源 617.5 小时高精度人体运动数据",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/993/258.htm",
-      "permalink": "https://aihot.virxact.com/items/cmt5pzn8n0lz3ro7346e47mof",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-23T11:18:50.000Z",
-      "discoveredAt": "2026-08-23T11:24:39.447Z",
-      "summary": "诺亦腾机器人在 2026 世界机器人大会期间发布高精度光学动作捕捉数据集 HiPHI，总长 617.5 小时，含 371.8 小时全身运动数据与 245.7 小时人-物交互数据，数据来自 132 名动捕演员，以 90 Hz 频率、亚毫米级精度采集。该数据集已在 Hugging Face 公开上线，基于 HiPHI 训练的模型已在宇树 G1 人形机器人上实现跑步、坐下、爬行、搬运箱子等动作。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt5pzn8n0lz3ro7346e47mof"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmt5p30800leyro73zkt5jfas",
-      "title": "FreeToken：单工作站 GPU 运行 753B GLM-5.2 的边缘原生 MoE 推理引擎",
-      "title_en": "Meet FreeToken： An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU",
-      "url": "https://www.marktechpost.com/2026/08/23/meet-freetoken-an-edge-native-moe-serving-engine-that-runs-753b-glm-5-2-on-a-single-workstation-gpu",
-      "permalink": "https://aihot.virxact.com/items/cmt5p30800leyro73zkt5jfas",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-08-23T10:44:59.000Z",
-      "discoveredAt": "2026-08-23T10:59:16.715Z",
-      "summary": "UC Berkeley 与 UT Austin 团队提出 FreeToken，将个人电脑视为统一弹性推理平台，在 8 GB 笔记本 GPU 上以交互速度运行 35B 模型，在单张工作站显卡上运行 753B GLM-5.2。",
-      "category": "ai-products",
-      "score": 67,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt5p30800leyro73zkt5jfas"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmt858juq2rfjro730jqq026t",
       "title": "Prime Agent：一个可自我改进的 RLM 工具框架",
       "title_en": "Prime Agent： A Self-Improving RLM Harness",
@@ -1025,34 +1083,6 @@
         "工作流",
         "agent",
         "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmt6wjxtv1lxsro73oc4b0ol1",
-      "title": "一行命令打通 Claude Code 和 Codex：无缝衔接两种 AI 编程工具",
-      "title_en": "一行命令，我把 Claude Code 和 Codex 打通了",
-      "url": "https://elsewhere.news/zh/crossing/claude-code-codex",
-      "permalink": "https://aihot.virxact.com/items/cmt6wjxtv1lxsro73oc4b0ol1",
-      "source": "elsewhere：文章（RSS）",
-      "publishedAt": "2026-08-23T09:11:00.000Z",
-      "discoveredAt": "2026-08-24T07:16:11.728Z",
-      "summary": "作者通过一行命令实现了 Claude Code 与 Codex 的无缝衔接，解决了两种 AI 编程工具之间的切换痛点。该方法让开发者无需手动迁移上下文或重复配置，即可在同一工作流中交替使用两款工具。具体实现方式与命令细节未在原文中展开说明。",
-      "category": "tip",
-      "score": 8,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt6wjxtv1lxsro73oc4b0ol1"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "工作流",
-        "codex",
-        "claude code"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -1136,6 +1166,34 @@
         "提示词",
         "claude code",
         "mcp"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmt8mdxkv3ftrro73mgavt0qw",
+      "title": "LongWoF-Bench：用 EvoMap 基因评估可验证的长流程任务",
+      "title_en": "LongWoF-Bench： Evaluating EvoMap Genes for Verifiable Long-Workflow Tasks",
+      "url": "https://arxiv.org/abs/2608.23200",
+      "permalink": "https://aihot.virxact.com/items/cmt8mdxkv3ftrro73mgavt0qw",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-24T00:00:00.000Z",
+      "discoveredAt": "2026-08-25T12:07:07.067Z",
+      "summary": "研究团队提出 LongWoF-Bench，含 778 个可机器验证任务，覆盖代码生成、智能体环境合成、数学推理与规则遵循。在 252 个经验证的 Opus 轨迹上，进化得到的 EvoMap 基因在全部 7 个模型中比 Skill 平均高出 8.7-15.5 个百分点，且优势扩展至消费级模型；对 Claude Opus，基因复用还多完成 39 个任务，并减少 9.9% 的推理 token 消耗。",
+      "category": "paper",
+      "score": 45,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt8mdxkv3ftrro73mgavt0qw"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "workflow",
+        "智能体",
+        "skill"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
