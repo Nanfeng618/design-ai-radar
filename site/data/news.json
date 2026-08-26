@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-26T07:08:46.668Z",
-  "previousGeneratedAt": "2026-08-26T01:58:17.355Z",
+  "generatedAt": "2026-08-26T13:16:06.647Z",
+  "previousGeneratedAt": "2026-08-26T07:08:46.668Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 49,
+  "itemCount": 48,
   "sourceCounts": {
     "X": 24,
-    "网站": 25
+    "网站": 24
   },
   "source": {
     "name": "AI HOT",
@@ -125,6 +125,35 @@
         "提示词"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmt9xidoc105sroly9o90e7pz",
+      "title": "loveholidays 如何用 Codex 让全员成为开发者",
+      "title_en": "How loveholidays is making everyone a builder with Codex",
+      "url": "https://openai.com/index/loveholidays",
+      "permalink": "https://aihot.virxact.com/items/cmt9xidoc105sroly9o90e7pz",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "discoveredAt": "2026-08-26T10:06:16.718Z",
+      "summary": "在线旅游公司 loveholidays 借助 Codex 将软件开发能力扩展到产品经理、设计师和商业团队，非工程师也能直接修改代码、部署应用。一年内其 AI 辅助代码变更占比从 7% 升至 79%，部署频率提升 73% 而工程团队规模基本不变；Data Platform 的 AI 辅助变更成功率从 58% 升至 93%，每次支持请求对应的变更量增至 4 倍。",
+      "category": "industry",
+      "score": 36,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt9xidoc105sroly9o90e7pz"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 14,
+      "editorialScore": 18,
+      "tags": [
+        "设计师",
+        "设计",
+        "产品经理",
+        "codex"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmt8qe8m43krcro733w0g56m6",
@@ -435,30 +464,30 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmt7t74to2hdbro73iil928z2",
-      "title": "Runway 上线 WAN 3.0 视频音频生成",
-      "title_en": "WAN 3.0 is now on Runway. Generate state-of-the-art video and audio with multiple image， video and …",
-      "url": "https://x.com/runwayml/status/2092013729940733969",
-      "permalink": "https://aihot.virxact.com/items/cmt7t74to2hdbro73iil928z2",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-08-24T22:18:35.000Z",
-      "discoveredAt": "2026-08-24T22:30:00.575Z",
-      "summary": "WAN 3.0 现已登陆 Runway。\n\n支持多种图像、视频和音频参考输入，生成最先进的视频与音频。点击下方链接立即体验。",
-      "category": "ai-products",
-      "score": 56,
+      "id": "cmt9sl0630vjprolyiiskr0bl",
+      "title": "阿里云 Wan3.0 上线 OpenArt，支持更长视频生成",
+      "title_en": "\"The most exciting thing about Wan3.0 is that I can now generate longer videos. That not only means …",
+      "url": "https://x.com/alibaba_cloud/status/2092514779256746129",
+      "permalink": "https://aihot.virxact.com/items/cmt9sl0630vjprolyiiskr0bl",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-08-26T07:29:35.000Z",
+      "discoveredAt": "2026-08-26T07:48:18.669Z",
+      "summary": "阿里云 Wan3.0 现已在 OpenArt 平台上线，用户可通过 Model Studio 和 Qwen Cloud 获取 API 访问。该版本支持生成更长视频，创作者 @NOSNOWISXVW 展示了从灵感构思到成片的端到端工作流，称长视频生成让叙事节奏更可控。",
+      "category": "ai-models",
+      "score": 49,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt7t74to2hdbro73iil928z2"
+        "canonical": "https://aihot.virxact.com/items/cmt9sl0630vjprolyiiskr0bl"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
+      "relevanceScore": 11,
+      "editorialScore": 14,
       "tags": [
-        "runway",
-        "视频",
-        "图像"
+        "视频生成",
+        "工作流",
+        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -793,87 +822,32 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmt7szlyo2h9yro73ubet1ppt",
-      "title": "MiniMax H3 在 GB200 上推理提速 27.7 倍",
-      "title_en": "The real breakthrough in the NVIDIA SANA team's Sol Engine work on MiniMax H3！ By splitting generat…",
-      "url": "https://x.com/MiniMax_AI/status/2092008802984001919",
-      "permalink": "https://aihot.virxact.com/items/cmt7szlyo2h9yro73ubet1ppt",
-      "source": "X：MiniMax (@MiniMax_AI)",
-      "publishedAt": "2026-08-24T21:59:00.000Z",
-      "discoveredAt": "2026-08-24T22:24:09.314Z",
-      "summary": "NVIDIA SANA 团队的 Sol Engine 将 MiniMax H3 视频生成延迟大幅压缩：单块 GB200 上 10s 768p 视频从 414s 降至 14.93s（27.7 倍加速），5s 视频达 22.2 倍加速。",
+      "id": "cmt9zfhyb11uaroly7ec9iljc",
+      "title": "WorkBuddy 接入 Canva，一句话搞定设计",
+      "title_en": "WorkBuddy now connects with @canva. Need a deck？ Resize a post？ Pull from your brand kit？ Just ask…",
+      "url": "https://x.com/WorkBuddy_AI/status/2092561177918501059",
+      "permalink": "https://aihot.virxact.com/items/cmt9zfhyb11uaroly7ec9iljc",
+      "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+      "publishedAt": "2026-08-26T10:33:57.000Z",
+      "discoveredAt": "2026-08-26T11:00:00.572Z",
+      "summary": "WorkBuddy 现已连接 @canva。\n\n需要做演示文稿？调整帖子尺寸？从品牌素材库调取内容？直接说就行。\n\n将 Canva 连接到 WorkBuddy，就能从\"你能做这个吗？\"直接到\"完成\"--无需在多个标签页之间来回切换。",
       "category": "ai-products",
-      "score": 38,
+      "score": 44,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt7szlyo2h9yro73ubet1ppt"
+        "canonical": "https://aihot.virxact.com/items/cmt9zfhyb11uaroly7ec9iljc"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视频生成",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmt7p84yy2cx7ro73lj3ijkod",
-      "title": "Google Antigravity 智能体技能进阶（一）：交互式 UI 工作流",
-      "title_en": "Elevating Antigravity agent skills， Part 1： Interactive UI workflows",
-      "url": "https://dev.to/googleai/elevating-antigravity-agent-skills-part-1-interactive-ui-workflows-6l2",
-      "permalink": "https://aihot.virxact.com/items/cmt7p84yy2cx7ro73lj3ijkod",
-      "source": "Google AI：DEV 作者专属（RSS）",
-      "publishedAt": "2026-08-24T19:55:23.000Z",
-      "discoveredAt": "2026-08-24T20:38:49.674Z",
-      "summary": "Google Antigravity 通过将原生聊天 UI 组件嵌入 SKILL.md 指令，让智能体从被动文本解析器转变为主动技术面试官。本文详解交互式 UI 技能架构：使用 ask_question 工具渲染原生模态框，通过 user_prefs.json 实现跨会话状态水合与持久化，并介绍内置 /grill-me 命令及 making-forms-demo 参考实现。",
-      "category": "tip",
-      "score": 57,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt7p84yy2cx7ro73lj3ijkod"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 10,
-      "editorialScore": 14,
-      "tags": [
-        "ui",
-        "交互",
-        "工作流",
-        "agent"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmt96t9tn0aukroly24efogy4",
-      "title": "Cube x LangChain：用 LLM 与语义层构建 AI 数据体验",
-      "title_en": "Cube x LangChain： Building AI experiences with LLMs and the semantic layer",
-      "url": "https://www.langchain.com/blog/cube-x-langchain-building-ai-experiences-with-llms-and-the-semantic-layer",
-      "permalink": "https://aihot.virxact.com/items/cmt96t9tn0aukroly24efogy4",
-      "source": "LangChain：Blog（RSS）",
-      "publishedAt": "2026-08-25T21:05:24.000Z",
-      "discoveredAt": "2026-08-25T21:38:55.571Z",
-      "summary": "Cube 与 LangChain 联手，借助 Cube 的语义层为大语言模型提供结构化数据上下文，以降低模型幻觉风险。该方案支持用户以自然语言查询数据，并用于构建对话式交互界面，从而打造由 AI 驱动的数据体验。",
-      "category": "tip",
-      "score": 23,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt96t9tn0aukroly24efogy4"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
+      "designCategory": "设计工具",
+      "relevanceScore": 8,
       "editorialScore": 13,
       "tags": [
-        "界面",
-        "交互"
+        "canva",
+        "设计",
+        "品牌"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "cmt8tjy3e3p01ro73417jgy1j",
