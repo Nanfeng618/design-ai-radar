@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-28T11:23:40.916Z",
-  "previousGeneratedAt": "2026-08-27T22:15:58.359Z",
+  "generatedAt": "2026-08-28T22:19:57.385Z",
+  "previousGeneratedAt": "2026-08-28T11:23:40.916Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 55,
+  "itemCount": 45,
   "sourceCounts": {
     "X": 24,
-    "网站": 26,
-    "公众号": 5
+    "网站": 18,
+    "公众号": 3
   },
   "source": {
     "name": "AI HOT",
@@ -216,59 +216,59 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cmtalznil01qrroamntkdegou",
-      "title": "V-RAE 将视觉基础模型表征用于视频生成",
-      "title_en": "great to see RAE extending to video！",
-      "url": "https://x.com/sainingxie/status/2092720774268301417",
-      "permalink": "https://aihot.virxact.com/items/cmtalznil01qrroamntkdegou",
-      "source": "X：谢赛宁 (@sainingxie)",
-      "publishedAt": "2026-08-26T21:08:08.000Z",
-      "discoveredAt": "2026-08-26T21:31:31.844Z",
-      "summary": "谢赛宁转发介绍 V-RAE，该模型直接采用冻结视觉基础模型（DINOv3、SigLIP2、EUPE、V-JEPA 2.1）的表征作为视频生成潜空间，而非传统 VAE 潜空间。在匹配设置下，V-RAE 在 Kinetics-600 上达 2.13 rFVD，UCF101 上 117.86 gFVD，收敛速度比 VAE 潜空间快 6 倍，并引入 tFVD 评估时序平滑度。",
-      "category": "paper",
-      "score": 33,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtalznil01qrroamntkdegou"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 15,
-      "editorialScore": 18,
-      "tags": [
-        "视频生成",
-        "视觉",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtb7bbbz0n12roamorq0pphz",
-      "title": "关键在于马具：模型商品化后，技能与扩展成为价值所在",
-      "title_en": "关键在于马具",
-      "url": "https://scott-fryxell.github.io/blog/the-harness-is-the-thing",
-      "permalink": "https://aihot.virxact.com/items/cmtb7bbbz0n12roamorq0pphz",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-27T07:17:18.969Z",
-      "discoveredAt": "2026-08-27T07:28:28.800Z",
-      "summary": "大模型正走向商品化，真正的价值与杠杆已转移到\"马具\"层面--即技能、扩展和可脚本化的应用。模型本身不再是竞争核心，围绕模型构建的工具链和交互层才是决定用户体验与效率的关键。",
+      "id": "cmtd818l3012xro669k352p4h",
+      "title": "Grok Bot 模板共享与项目管理功能上线",
+      "title_en": "you can now share grok bots！ here's the projects manager to manage teams of grok bots 1. install bo…",
+      "url": "https://x.com/ericzakariasson/status/2093381689041109349",
+      "permalink": "https://aihot.virxact.com/items/cmtd818l3012xro669k352p4h",
+      "source": "X：Eric Zakariasson (@ericzakariasson)",
+      "publishedAt": "2026-08-28T16:54:22.000Z",
+      "discoveredAt": "2026-08-28T17:24:09.887Z",
+      "summary": "你现在可以分享 Grok bots 了！这是用于管理 Grok bot 团队的项目管理器。\n\n1. 安装 bot：https://x.ai/bot/FU-Ev6_Ju4lFGWwWRD0GD\n2. 让 bot 创建专家--程序员、设计师、研究员、写手\n3. 用项目管理器创建你的第一个项目！",
       "category": "tip",
       "score": 28,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtb7bbbz0n12roamorq0pphz"
+        "canonical": "https://aihot.virxact.com/items/cmtd818l3012xro669k352p4h"
       },
-      "sourceType": "网站",
+      "sourceType": "X",
       "designCategory": "产品与体验",
-      "relevanceScore": 13,
-      "editorialScore": 17,
+      "relevanceScore": 11,
+      "editorialScore": 15,
       "tags": [
-        "用户体验",
-        "交互"
+        "设计师",
+        "设计"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmtd1tadj0b4mroq5f79b2vp9",
+      "title": "Runway 上线 Google Omni 1.1 Flash",
+      "title_en": "Google Omni 1.1 Flash is now on Runway. The newest release， available now alongside the world's bes…",
+      "url": "https://x.com/runwayml/status/2093344307021545601",
+      "permalink": "https://aihot.virxact.com/items/cmtd1tadj0b4mroq5f79b2vp9",
+      "source": "X：Runway (@runwayml)",
+      "publishedAt": "2026-08-28T14:25:49.000Z",
+      "discoveredAt": "2026-08-28T14:30:00.960Z",
+      "summary": "Google Omni 1.1 Flash 现已登陆 Runway。\n\n最新版本现已推出，与全球顶尖的图像和视频模型一同提供。点击下方链接立即体验。",
+      "category": "ai-models",
+      "score": 45,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtd1tadj0b4mroq5f79b2vp9"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "runway",
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmtc7noio01f6rodmpgeqbpne",
@@ -286,33 +286,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmtc7noio01f6rodmpgeqbpne"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "视频生成",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtbtrn8j0222ro2kb7opgppz",
-      "title": "MiniMax-H3 在 8×H200 上基准测试：无损加速 1.95×，最高 6.24×（SSIM 0.76-0.91）",
-      "title_en": "Blog MiniMax-H3 on 8×H200： 1.95× Lossless， Up to 6.24× at 0.76-0.91 SSIM We benchmarked MiniMax-H3 video generation on 8× NVIDIA H200 with SGLang Diffusion， holding prompts， seeds， resolution， frame rate， and denoising steps fixed across six workloads. - SGLang's dense， l… SGLang Diffusion Team， Cache-DiT Team， NVIDIA， Ant Group",
-      "url": "https://www.lmsys.org/blog/2026-08-27-minimax-h3-h200",
-      "permalink": "https://aihot.virxact.com/items/cmtbtrn8j0222ro2kb7opgppz",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "publishedAt": "2026-08-27T17:57:02.062Z",
-      "discoveredAt": "2026-08-27T17:57:02.062Z",
-      "summary": "SGLang Diffusion 团队在 8×NVIDIA H200 上对 MiniMax-H3 视频生成进行基准测试，其密集无损路径较 Diffusers 快 1.85-1.95×，无近似损失。",
-      "category": "paper",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtbtrn8j0222ro2kb7opgppz"
       },
       "sourceType": "网站",
       "designCategory": "图像与视频",
@@ -352,28 +325,110 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtalq63z01ltroam2ze84t8j",
-      "title": "MiniMax H3 Max登顶图生视频榜",
-      "title_en": "MiniMax H3 Max， a post-trained version of MiniMax H3 developed by fal， debuts at #1 in Image to Vide…",
-      "url": "https://x.com/ArtificialAnlys/status/2092717615739494424",
-      "permalink": "https://aihot.virxact.com/items/cmtalq63z01ltroam2ze84t8j",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "publishedAt": "2026-08-26T20:55:35.000Z",
-      "discoveredAt": "2026-08-26T21:24:09.857Z",
-      "summary": "MiniMax H3 Max（fal 后训练版）在 Artificial Analysis 视频榜登顶图生视频（含音频）第 1、文生视频第 3，均超越基础版 H3。该模型由 fal 构建并托管，生成 5-15 秒带原生音频的 768p 视频，定价 $0.04/秒。fal 计划开源权重，若实现将成为两榜最高排名开源模型。",
-      "category": "ai-models",
-      "score": 63,
+      "id": "cmtdd6l7302lgrobxpq3r3d5i",
+      "title": "GLM-5.3 Flash 对比 Claude Opus 4.6 与腾讯 Hy4",
+      "title_en": "GLM-5.3 Flash vs Claude Opus 4.6 vs. Tencent Hy4 This is a nice example of why model routers are go…",
+      "url": "https://x.com/rohanpaul_ai/status/2093421703267536915",
+      "permalink": "https://aihot.virxact.com/items/cmtdd6l7302lgrobxpq3r3d5i",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-08-28T19:33:22.000Z",
+      "discoveredAt": "2026-08-28T19:48:18.202Z",
+      "summary": "AI/ML API 用同一提示词测试 GLM-5.3 Flash、Claude 4.6 Opus 与腾讯 Hy4 的图像生成，成本分别为 $0.03、$0.29 和 $0.13。GLM-5.3 Flash 价格仅为 Claude 的 1/9.7，凸显模型路由的价值--\"最佳模型\"正让位于按需选择。",
+      "category": "tip",
+      "score": 37,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtalq63z01ltroam2ze84t8j"
+        "canonical": "https://aihot.virxact.com/items/cmtdd6l7302lgrobxpq3r3d5i"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
+      "relevanceScore": 11,
+      "editorialScore": 14,
       "tags": [
-        "文生视频",
+        "图像生成",
+        "图像",
+        "提示词"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtd92tmk01jpro5ti7vtoob2",
+      "title": "Meta 模型 API 上线 Muse 图像生成",
+      "title_en": "1/ muse image is live on the meta model api $0.01/image - one of the best price-to-quality ratios f…",
+      "url": "https://x.com/alexandr_wang/status/2093390371875414501",
+      "permalink": "https://aihot.virxact.com/items/cmtd92tmk01jpro5ti7vtoob2",
+      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+      "publishedAt": "2026-08-28T17:28:52.000Z",
+      "discoveredAt": "2026-08-28T17:53:23.402Z",
+      "summary": "1/ Muse 图像已在 Meta 模型 API 上线\n\n$0.01/张--生产级用量中性价比最高的选择之一",
+      "category": "ai-models",
+      "score": 59,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtd92tmk01jpro5ti7vtoob2"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "图像生成",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtd3yfqk0cs7roq5globiv1g",
+      "title": "Gemini 3.5 等多款新品本周发布",
+      "title_en": "Here's what launched this week： - Gemini 3.5 Transcribe， our most precise speech-to-text model yet，…",
+      "url": "https://x.com/GoogleAI/status/2093356767992279503",
+      "permalink": "https://aihot.virxact.com/items/cmtd3yfqk0cs7roq5globiv1g",
+      "source": "X：Google AI (@GoogleAI)",
+      "publishedAt": "2026-08-28T15:15:20.000Z",
+      "discoveredAt": "2026-08-28T15:30:00.544Z",
+      "summary": "Google 本周发布 Gemini 3.5 Transcribe，号称最精准的语音转文字模型；同时推出 Gemini Omni 1.1 Flash，增强视频生成与编辑能力。",
+      "category": "ai-products",
+      "score": 41,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtd3yfqk0cs7roq5globiv1g"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtczpge209fsroq5u8mizlpy",
+      "title": "昆仑万维 SkyProduction 接入 Wan 3.0，本周末限时免费",
+      "title_en": "Wan 3.0本周末限时免费！SkyProduction（天工工作台）再掀价格战",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&mid=2247510180&idx=1&sn=885e26e1fc6561c07c492ce45cfcfe8b",
+      "permalink": "https://aihot.virxact.com/items/cmtczpge209fsroq5u8mizlpy",
+      "source": "公众号：昆仑万维（天工）",
+      "publishedAt": "2026-08-28T13:05:28.000Z",
+      "discoveredAt": "2026-08-28T13:31:04.993Z",
+      "summary": "昆仑万维旗下 SkyProduction（天工工作台）正式接入阿里 Wan 3.0 视频生成模型，8月28日-30日面向所有用户限时免费。8月31日起恢复收费，价格低至0.05元/秒，为全网最低价。Wan 3.0支持原生30秒生成、同时参考10张图片/5个视频/5个音频及文档内容，并强化像素级一致性与精准视频编辑能力。",
+      "category": "ai-products",
+      "score": 44,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtczpge209fsroq5u8mizlpy"
+      },
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
@@ -570,61 +625,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmtb96nb90ovkroamnpm2xtr2",
-      "title": "火山引擎为具身智能打造数据基建，已与TOP20企业中15家深度合作",
-      "title_en": "为具身智能打造数据基建，火山引擎与TOP20企业中15家深度合作",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543735&idx=1&sn=52d4fcb6fd22f4226651e24879f19139",
-      "permalink": "https://aihot.virxact.com/items/cmtb96nb90ovkroamnpm2xtr2",
-      "source": "公众号：火山引擎",
-      "publishedAt": "2026-08-27T08:13:49.000Z",
-      "discoveredAt": "2026-08-27T08:20:51.343Z",
-      "summary": "火山引擎在2026世界机器人大会上发布具身智能解决方案，提供从数据采集、处理、标注、管理、仿真到训练的全链路数据闭环。目前国内估值TOP20的具身智能企业中已有15家与其达成深度合作。方案包括Seedance视频生成用于数据增广、豆包大模型VLM实现90%+准确率的自动化标注，以及多模态AI数据湖底座。",
-      "category": "ai-products",
-      "score": 40,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtb96nb90ovkroamnpm2xtr2"
-      },
-      "sourceType": "公众号",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视频生成",
-        "视频",
-        "自动化"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtce310901tmroi3jk1w6lza",
-      "title": "PAWBench：视频生成模型距离概率对齐的世界建模还有多远？",
-      "title_en": "PAWBench： How Far Are We from Probabilistically Aligned World Modeling？",
-      "url": "https://arxiv.org/abs/2608.27345",
-      "permalink": "https://aihot.virxact.com/items/cmtce310901tmroi3jk1w6lza",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-08-27T00:00:00.000Z",
-      "discoveredAt": "2026-08-28T03:25:46.149Z",
-      "summary": "现有视频生成模型评测多关注单条视频的合理性，未检验重复生成能否恢复正确的行为分布。为此，研究者将概率对齐形式化为世界模型的分布级标准，推出基准 PAWBench 与评估协议 PAWEval，把多次视频生成转化为物理行为的经验分布。在 50 个场景和 11 个当前系统中，没有任何模型能同时匹配参考概率并覆盖有效行为范围。",
-      "category": "paper",
-      "score": 58,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtce310901tmroi3jk1w6lza"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视频生成",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmtbpnljd14veroam2jnvmtqd",
       "title": "从计算到湿实验：评估 AI 蛋白质设计性能",
       "title_en": "From In-Silico to Wet-Lab： Evaluating AI Protein Design Performance",
@@ -680,117 +680,32 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtbkk92810cwroam4dplkbjk",
-      "title": "Lakebase Postgres：面向智能体时代的对象存储与 WAL 架构",
-      "title_en": "Object Storage + WAL： Lakebase Postgres for the agentic era",
-      "url": "https://www.databricks.com/blog/object-storage-wal-lakebase-postgres-agentic-era",
-      "permalink": "https://aihot.virxact.com/items/cmtbkk92810cwroam4dplkbjk",
-      "source": "Databricks：Blog（RSS）",
-      "publishedAt": "2026-08-27T07:18:59.000Z",
-      "discoveredAt": "2026-08-27T13:39:18.349Z",
-      "summary": "Databricks 推出 Lakebase Postgres，将对象存储与 WAL 结合，解决智能体与传统 OLTP 数据库交互时的存储层瓶颈。新架构面向智能体时代设计，旨在提升数据读写效率与扩展性。",
-      "category": "ai-products",
-      "score": 52,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtbkk92810cwroam4dplkbjk"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "设计",
-        "交互",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmtb6y97e0mt7roamq9memmf8",
-      "title": "阿里云Qwen大会预告：智能体云时代来临",
-      "title_en": "The way enterprises use cloud is about to change. Not in five years. Not next quarter. The shift is …",
-      "url": "https://x.com/alibaba_cloud/status/2092869267989414374",
-      "permalink": "https://aihot.virxact.com/items/cmtb6y97e0mt7roamq9memmf8",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "publishedAt": "2026-08-27T06:58:11.000Z",
-      "discoveredAt": "2026-08-27T07:18:18.587Z",
-      "summary": "阿里云在Qwen Conference上发布智能体云愿景，AI智能体将成为企业基础设施的主要交互界面，主动预判需求并跨工作负载、团队和系统自主行动。大会将展示Qwen模型家族、模型即服务、智能体工具及AI基础设施，活动于9月4日在曼谷举行。",
+      "id": "cmtd9bcwe01q4ro5t3qb57n5j",
+      "title": "Runway 发起 HORSE 挑战赛赢百万积分",
+      "title_en": "Let's play a game. A game of HORSE. We'll go first （shot below）. To play， comment \"HORSE\" and quote…",
+      "url": "https://x.com/runwayml/status/2093396193577693366",
+      "permalink": "https://aihot.virxact.com/items/cmtd9bcwe01q4ro5t3qb57n5j",
+      "source": "X：Runway (@runwayml)",
+      "publishedAt": "2026-08-28T17:52:00.000Z",
+      "discoveredAt": "2026-08-28T18:00:00.309Z",
+      "summary": "我们来玩个游戏吧。\n\n一场 HORSE 投篮挑战赛。我们先来（见下方视频）。参与方式：评论\"HORSE\"并引用转发这条推文，附上你最好的应战作品。\n\n→ 获胜者将获得 1，000，000 积分。→ 仅限 24 小时。\n\n提示词和角色都在帖子里 🧵",
       "category": "industry",
-      "score": 26,
+      "score": 22,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtb6y97e0mt7roamq9memmf8"
+        "canonical": "https://aihot.virxact.com/items/cmtd9bcwe01q4ro5t3qb57n5j"
       },
       "sourceType": "X",
-      "designCategory": "产品与体验",
+      "designCategory": "图像与视频",
       "relevanceScore": 9,
-      "editorialScore": 13,
+      "editorialScore": 12,
       "tags": [
-        "界面",
-        "交互",
-        "智能体"
+        "runway",
+        "视频",
+        "提示词"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmtcbxuc3029dro5g35khfbmt",
-      "title": "什么造就优质智能体数据？用 ACE 视角审视 LLM 智能体的数据生成",
-      "title_en": "What Makes Good Agentic Data？ An ACE Lens on Data Generation for LLM Agents",
-      "url": "https://arxiv.org/abs/2608.27260",
-      "permalink": "https://aihot.virxact.com/items/cmtcbxuc3029dro5g35khfbmt",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-08-27T00:00:00.000Z",
-      "discoveredAt": "2026-08-28T02:25:45.567Z",
-      "summary": "该研究提出一个双层框架，将智能体数据表示为包含环境规范、任务信号、交互实现与可选验证器的因子化对象 （E，q，τ，v），并通过 Accuracy-Complexity-divErsity（ACE）视角将生成建模为受约束的分布设计。",
-      "category": "paper",
-      "score": 38,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtcbxuc3029dro5g35khfbmt"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "设计",
-        "交互",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmtcbxuc3029cro5giokcwz5i",
-      "title": "Magpie：面向交互游戏的实时生成式世界渲染系统",
-      "title_en": "Magpie： Real-Time World Renderer for Interactive Games",
-      "url": "https://arxiv.org/abs/2608.27168",
-      "permalink": "https://aihot.virxact.com/items/cmtcbxuc3029cro5giokcwz5i",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-08-27T00:00:00.000Z",
-      "discoveredAt": "2026-08-28T02:25:45.567Z",
-      "summary": "Magpie 提出一种面向交互游戏的实时生成式世界渲染系统，将游戏逻辑执行与视觉生成分离：游戏引擎负责解析玩家动作并维护世界状态，独立的渲染服务器基于引擎生成的白盒帧产出视觉输出。该系统为生成模型应用于实时游戏渲染提供了系统级实现路径，在保留玩法可设计性与可复现性的同时，降低早期游戏原型对完整视觉资产的依赖。",
-      "category": "paper",
-      "score": 35,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtcbxuc3029cro5giokcwz5i"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "原型",
-        "视觉",
-        "设计",
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmtbgliun0vwjroamgsh79l5t",
@@ -818,34 +733,6 @@
         "交互"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmtce310801tiroi3yyitd4pw",
-      "title": "Aphanta：面向多模态推理的图像编辑中间结果诊断框架",
-      "title_en": "Aphanta： Diagnosing Task-Aligned Image-Edited Intermediates for Multimodal Reasoning",
-      "url": "https://arxiv.org/abs/2608.26993",
-      "permalink": "https://aihot.virxact.com/items/cmtce310801tiroi3yyitd4pw",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-08-27T00:00:00.000Z",
-      "discoveredAt": "2026-08-28T03:25:46.149Z",
-      "summary": "Aphanta 提出自动化任务发现与闭环诊断框架，评估\"多模态大模型→图像编辑器→多模态大模型\"流程中图像编辑器的实际效用。在 20 个候选任务中，效用高度依赖任务类型，增益集中在视觉线索注入、接地与反事实状态实现。在正向任务子集上，整合的 Qwen 流程将平均任务分数从 0.343 提升至 0.445（+10.2 分，相对提升 29.7%）。",
-      "category": "paper",
-      "score": 66,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtce310801tiroi3yyitd4pw"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
-      "tags": [
-        "视觉",
-        "图像",
-        "自动化"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmtcrr0bj0295roq51mkgruik",
@@ -929,196 +816,56 @@
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
-      "id": "cmtb7vups0nrrroamq9oyw24w",
-      "title": "微信开源 WeMM-Embedding 的三大落地场景",
-      "title_en": "前一条分享了微信开源的这个多模态模型， 好多兄弟问这模型到底能干嘛， 说三个我最想拿它干的场景， 每一个都是以前想做但做不成的， 说实话：凡是以前因为数据太杂、向量库太贵而做不起混合搜索的地方，现在…",
-      "url": "https://x.com/AYi_AInotes/status/2092877358701174993",
-      "permalink": "https://aihot.virxact.com/items/cmtb7vups0nrrroamq9oyw24w",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-08-27T07:30:20.000Z",
-      "discoveredAt": "2026-08-27T07:44:26.999Z",
-      "summary": "微信开源的多模态模型 WeMM-Embedding 可低成本重做混合搜索，2B 版本跑分超越上一代 8B 开源顶流，256 维截断仍保住近 99% 性能。作者列举三大场景：智能相册与知识库语义搜索、为 Agent 装上视觉长记忆、视频与电商内容低成本打标推荐，均可用一张消费级显卡运行。",
-      "category": "tip",
-      "score": 55,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtb7vups0nrrroamq9oyw24w"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视觉",
-        "视频",
-        "agent"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtazxk9d0ev3roamrbizt8n7",
-      "title": "2026 美团低空经济与具身智能挑战赛报名倒计时，总奖金 55 万元",
-      "title_en": "55 万元大奖等你挑战！2026 美团低空经济与具身智能挑战赛报名倒计时",
-      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA%3D%3D&mid=2651783211&idx=3&sn=61a0e88c38f88d9b529882611b696d3f",
-      "permalink": "https://aihot.virxact.com/items/cmtazxk9d0ev3roamrbizt8n7",
-      "source": "公众号：龙猫LongCat（美团）",
-      "publishedAt": "2026-08-27T02:24:00.000Z",
-      "discoveredAt": "2026-08-27T04:01:50.258Z",
-      "summary": "2026 年第四届美团低空经济与具身智能挑战赛启动报名，面向全球高校在校学生，总奖金池达 55 万元。赛事以无人机换电任务为原型，考察机器人在视觉识别、运动规划、精准操作等方面的综合能力，分初赛与线下硬件决赛，报名时间为 7 月 22 日至 9 月 1 日。表现优异者可获美团无人机实习机会及\"北斗计划\"直通面试权。",
-      "category": "industry",
-      "score": 35,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtazxk9d0ev3roamrbizt8n7"
-      },
-      "sourceType": "公众号",
-      "designCategory": "设计工具",
-      "relevanceScore": 6,
-      "editorialScore": 11,
-      "tags": [
-        "原型",
-        "视觉"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "cmtcidf8003pzrouc3orr8t3a",
-      "title": "多镜头长视频编辑新框架 MMLVE-Agent：用智能体推理实现一致编辑",
-      "title_en": "Thinking on Shots： Consistent Multi-Shot Video Editing with Agentic Reasoning",
-      "url": "https://arxiv.org/abs/2608.26809",
-      "permalink": "https://aihot.virxact.com/items/cmtcidf8003pzrouc3orr8t3a",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-08-27T00:00:00.000Z",
-      "discoveredAt": "2026-08-28T05:25:50.035Z",
-      "summary": "研究团队提出多指令多镜头长视频编辑（MMLVE）任务，并构建智能体编辑框架 MMLVE-Agent，结合大语言模型与视觉语言模型实现镜头级视频解耦和指令解析。配套发布评测数据集 MMLVE-Bench 及三项专用指标。实验显示，MMLVE-Agent 优于 Seedance 2.0 等闭源 SOTA 方法，消除编辑幻觉并保持跨镜头一致性与时空连贯性。",
+      "id": "cmtdbbcmv0181robxlud0fio9",
+      "title": "Google DeepMind 将 AI 科学家 Co-Scientist 扩展为实验室集成研究伙伴",
+      "title_en": "Google Deepmind's AI Co-Scientist now plans experiments， runs lab equipment， and writes scientific papers",
+      "url": "https://the-decoder.com/google-deepminds-ai-co-scientist-now-plans-experiments-runs-lab-equipment-and-writes-scientific-papers",
+      "permalink": "https://aihot.virxact.com/items/cmtdbbcmv0181robxlud0fio9",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-08-28T18:46:27.000Z",
+      "discoveredAt": "2026-08-28T18:56:01.404Z",
+      "summary": "Google DeepMind 将多智能体系统 Co-Scientist 从假设生成器扩展为实验室集成研究伙伴，可规划实验、编写代码、控制设备并生成论文。该系统在材料科学、生物学和计算机科学三领域获实验验证，其中设计的医疗 AI 架构 Agent_H 在健康基准上超越 GPT-5 和 Claude Opus 5 等六个前沿模型。",
       "category": "paper",
-      "score": 49,
+      "score": 63,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtcidf8003pzrouc3orr8t3a"
+        "canonical": "https://aihot.virxact.com/items/cmtdbbcmv0181robxlud0fio9"
       },
       "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
       "tags": [
-        "视觉",
-        "视频",
+        "设计",
         "agent",
         "智能体"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmtce310901tnroi3k3glxipn",
-      "title": "UrbanGround：在真实尺度城市中从局部感知到空间智能体的测试沙箱",
-      "title_en": "UrbanGround： From Local Perception to Spatial Agency in a Real-Scale City",
-      "url": "https://arxiv.org/abs/2608.27456",
-      "permalink": "https://aihot.virxact.com/items/cmtce310901tnroi3k3glxipn",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-08-27T00:00:00.000Z",
-      "discoveredAt": "2026-08-28T03:25:46.149Z",
-      "summary": "UrbanGround 提出首个基于香港全域 3D 地理空间数据构建的物理约束城市沙箱，用于测试多模态大语言模型（MLLM）智能体能否将局部街景感知转化为可靠的城市行动。该沙箱支持第一人称视角闭环交互与交互式导航地图。研究发现，当代 MLLM 智能体在视觉识别和短程空间推理上表现可用，但方向感与行人感知仍不可靠，长程探索中局部能力难以组合为持续目标导向行为。",
-      "category": "paper",
-      "score": 52,
+      "id": "cmtd4lz0h0165rov2gn37sbwf",
+      "title": "AI生成媒体成熟，创意繁荣何时到来",
+      "title_en": "Aside from waiting for economic impact， we are now at the place where AI video， image &amp； music mo…",
+      "url": "https://x.com/emollick/status/2093362761925284279",
+      "permalink": "https://aihot.virxact.com/items/cmtd4lz0h0165rov2gn37sbwf",
+      "source": "X：Ethan Mollick (@emollick)",
+      "publishedAt": "2026-08-28T15:39:09.000Z",
+      "discoveredAt": "2026-08-28T15:48:18.686Z",
+      "summary": "除了等待经济影响显现，我们现在已经处于这样一个阶段：AI视频、图像和音乐模型已经足够好，成为真正的工具，让更多从未能创作新艺术形式的人得以创作。\n\n在垃圾内容洪流之中，我们还要多久才能看到创意繁荣？它正在发生吗？",
+      "category": "tip",
+      "score": 34,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtce310901tnroi3k3glxipn"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视觉",
-        "交互",
-        "3d",
-        "智能体"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtaq9az50671roam00aqv2t9",
-      "title": "智谱发布GLM-5.3-Flash，匿名模型OX Alpha正式亮相",
-      "title_en": "这一次，智谱用GLM-5.3-Flash实现了真正的智能平权。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685603&idx=1&sn=91bbef667086bed84b6f213be79733aa",
-      "permalink": "https://aihot.virxact.com/items/cmtaq9az50671roam00aqv2t9",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-08-26T22:19:23.000Z",
-      "discoveredAt": "2026-08-26T23:30:51.131Z",
-      "summary": "智谱正式发布GLM-5.3-Flash，即此前在OpenRouter和OpenCode上爆火的匿名模型OX Alpha。该模型为总参数320B、激活18B的MoE架构，是GLM-5系列首个原生多模态模型，支持图像、视频和文本输入，原生上下文100万。",
-      "category": "ai-models",
-      "score": 78,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtaq9az50671roam00aqv2t9"
-      },
-      "sourceType": "公众号",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtana2yw0456roamu77whtuh",
-      "title": "通义千问 Qwen3.8 Flash 上线 OpenRouter",
-      "title_en": "Qwen3.8 Flash from @Alibaba_Qwen is now live on OpenRouter. A multimodal reasoning model for coding…",
-      "url": "https://x.com/OpenRouter/status/2092733868319428800",
-      "permalink": "https://aihot.virxact.com/items/cmtana2yw0456roamu77whtuh",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-08-26T22:00:09.000Z",
-      "discoveredAt": "2026-08-26T22:07:37.742Z",
-      "summary": "来自 @Alibaba_Qwen 的 Qwen3.8 Flash 现已上线 OpenRouter。\n\n这是一款多模态推理模型，适用于编程助手、智能体工作流、视觉理解、代码库与文档分析、桌面交互、图表及长视频处理。\n\nhttps://openrouter.ai/qwen/qwen3.8-flash",
-      "category": "ai-models",
-      "score": 50,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtana2yw0456roamu77whtuh"
+        "canonical": "https://aihot.virxact.com/items/cmtd4lz0h0165rov2gn37sbwf"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "relevanceScore": 7,
+      "editorialScore": 10,
       "tags": [
-        "视觉",
-        "交互",
-        "工作流",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtan27gf03wtroamjsuxakvb",
-      "title": "Z.ai 发布 GLM-5.3-Flash：320B-A18B 原生多模态 MoE，支持 100 万 token 上下文",
-      "title_en": "Z.ai Releases GLM-5.3-Flash： A 320B-A18B Natively Multimodal MoE With a 1M-Token Context",
-      "url": "https://www.marktechpost.com/2026/08/26/z-ai-releases-glm-5-3-flash-a-320b-a18b-natively-multimodal-moe-with-a-1m-token-context",
-      "permalink": "https://aihot.virxact.com/items/cmtan27gf03wtroamjsuxakvb",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-08-26T21:33:23.000Z",
-      "discoveredAt": "2026-08-26T22:01:32.300Z",
-      "summary": "Z.ai 发布 GLM-5.3-Flash，这是 GLM-5 系列首款原生多模态模型，320B 总参数、18B 激活参数，支持 100 万 token 上下文和图像/视频输入，权重以 MIT 许可开源在 Hugging Face。",
-      "category": "ai-models",
-      "score": 68,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtan27gf03wtroamjsuxakvb"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
+        "创意",
         "视频",
         "图像"
       ],
@@ -1180,57 +927,32 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtauhzaz09qbroam3te36392",
-      "title": "Lee Robinson：Grok Bot 是未来工作方式",
-      "title_en": "Chat → Code → @Bots I was skeptical at first， but I'm now Bot-pilled. It is hard to give up \"the o…",
-      "url": "https://x.com/leerob/status/2092786147156246906",
-      "permalink": "https://aihot.virxact.com/items/cmtauhzaz09qbroam3te36392",
-      "source": "X：Lee Robinson (@leerob)",
-      "publishedAt": "2026-08-27T01:27:54.000Z",
-      "discoveredAt": "2026-08-27T01:29:44.536Z",
-      "summary": "Lee Robinson 表示自己已成为 Grok Bot 的拥趸，认为常驻后台运行的 Bot 是计算机工作的未来。他提到 Bot 的 UI 极简、采用云端常驻计算机且支持浏览器操作，并称 Bot 已迅速占据其大部分 token 用量，对 3-6 个月内模型能力的指数级提升充满期待。",
+      "id": "cmtcx3x1t07cdroq51sh0nmjq",
+      "title": "开放廉价模型如何推动自动化升级",
+      "title_en": "The more I embrace open and cheaper models， the more automation I can afford. Frontier models for o…",
+      "url": "https://x.com/omarsar0/status/2093309547154649519",
+      "permalink": "https://aihot.virxact.com/items/cmtcx3x1t07cdroq51sh0nmjq",
+      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+      "publishedAt": "2026-08-28T12:07:42.000Z",
+      "discoveredAt": "2026-08-28T12:18:18.960Z",
+      "summary": "我越是拥抱开放且更廉价的模型，就能负担起越多的自动化。\n\n前沿模型负责编排与协调。\n\n开放且更廉价的模型负责执行。这里的 token 使用量正在迅速增长。\n\n这让我比以往任何时候都更能倚重主动型智能体。",
       "category": "tip",
-      "score": 30,
+      "score": 44,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtauhzaz09qbroam3te36392"
+        "canonical": "https://aihot.virxact.com/items/cmtcx3x1t07cdroq51sh0nmjq"
       },
       "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
       "tags": [
-        "ui"
+        "自动化",
+        "automation",
+        "智能体"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmtalq64901lvroam7zbnpta8",
-      "title": "MiniMax H3 亮相 RaySummit 大会",
-      "title_en": "MiniMax H3 is at @anyscalecompute's #RaySummit today in SF. @VictorSuOrtiz will break down our 33B …",
-      "url": "https://x.com/MiniMax_AI/status/2092722804693327873",
-      "permalink": "https://aihot.virxact.com/items/cmtalq64901lvroam7zbnpta8",
-      "source": "X：MiniMax (@MiniMax_AI)",
-      "publishedAt": "2026-08-26T21:16:12.000Z",
-      "discoveredAt": "2026-08-26T21:24:09.857Z",
-      "summary": "MiniMax H3 今天在旧金山参加 @anyscalecompute 的 #RaySummit 大会。\n\n@VictorSuOrtiz 将在 @vllm_project 会议上解析我们的 33B 开源音视频模型，将文本、图像、视频和音频整合到一个上下文中。\n\n@VoidAsuka 将分享开发者如何与 @digitalocean、@nvidia、@inferact 和 @NousResearch 一起微调、评估和服务 H3。\n\n从模型到基于它构建的社区。到时见！👋\n\n🔗 会议详情如下：",
-      "category": "industry",
-      "score": 26,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtalq64901lvroam7zbnpta8"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmtc9sdwa01nnroeeuvla6bvq",
@@ -1395,60 +1117,57 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmtb80tpt0nuyroamzj7o9udb",
-      "title": "阿里云QwenWork零代码自动化工作坊",
-      "title_en": "Most AI answers questions. QwenWork DOES your work. Join our workshop to automate files， browsers &…",
-      "url": "https://x.com/alibaba_cloud/status/2092877203767763284",
-      "permalink": "https://aihot.virxact.com/items/cmtb80tpt0nuyroamzj7o9udb",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "publishedAt": "2026-08-27T07:29:43.000Z",
-      "discoveredAt": "2026-08-27T07:48:18.750Z",
-      "summary": "大多数AI回答问题。QwenWork替你完成工作。加入我们的工作坊，用零代码自动化文件、浏览器和工作流程。🎯 面向：产品经理、市场营销、运营 🎒 携带：你的笔记本电脑 把时间拿回来！👇 https://luma.com/f84wlqeh?utm_source=x #QwenWork #AI",
-      "category": "industry",
-      "score": 34,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtb80tpt0nuyroamzj7o9udb"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "工作流",
-        "产品经理",
-        "自动化",
-        "营销"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmtazb7w70e9troam2x02nx9y",
-      "title": "Memmy 开源：让所有 AI 记住同一个你",
-      "title_en": "扒了 Memmy 这张系统架构全景图， 终于明白他们为什么敢叫记忆操作系统， 而不是又一个套壳向量库。 中间那颗核心飞轮是关键。 绝大多数人做 AI 记忆还在暴力 embedding， 聊天记录全…",
-      "url": "https://x.com/AYi_AInotes/status/2092817713454350772",
-      "permalink": "https://aihot.virxact.com/items/cmtazb7w70e9troam2x02nx9y",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-08-27T03:33:20.000Z",
-      "discoveredAt": "2026-08-27T03:44:26.738Z",
-      "summary": "MemOS 团队开源本地 Agent 记忆工具 Memmy，自动扫描 Cursor、Claude Code、Codex 等本地历史日志，几分钟整理成结构化记忆，通过 Skill、Hook、MCP 注入当前使用的任何 Agent。",
-      "category": "tip",
+      "id": "cmtd8flm801jpro66v8haftmk",
+      "title": "GLM-5.3 成本仅为 FABLE 5 八分之一",
+      "title_en": "💸$15.51 vs. $120.93. Same prompt. Same 3D game challenge. No manual code edits. GLM-5.3 completed t…",
+      "url": "https://x.com/SiliconFlowAI/status/2093384562856632516",
+      "permalink": "https://aihot.virxact.com/items/cmtd8flm801jpro66v8haftmk",
+      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+      "publishedAt": "2026-08-28T17:05:47.000Z",
+      "discoveredAt": "2026-08-28T17:35:19.675Z",
+      "summary": "💸$15.51 对比 $120.93。同一提示词。同一 3D 游戏挑战。无手动代码修改。GLM-5.3 以接近 FABLE 5 八分之一的成本完成了构建！观看并排对比--然后自行判断。👇 GLM-5.3 现已上线 SiliconFlow。",
+      "category": "ai-models",
       "score": 50,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtazb7w70e9troam2x02nx9y"
+        "canonical": "https://aihot.virxact.com/items/cmtd8flm801jpro66v8haftmk"
       },
       "sourceType": "X",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
+      "relevanceScore": 7,
+      "editorialScore": 8,
       "tags": [
-        "codex",
-        "claude code",
-        "agent",
-        "mcp"
+        "3d",
+        "提示词",
+        "prompt"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmtcxdp3f07l3roq5uk6om1aw",
+      "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+      "title_en": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
+      "url": "https://www.terminal-bench-science.ai/announcement",
+      "permalink": "https://aihot.virxact.com/items/cmtcxdp3f07l3roq5uk6om1aw",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-28T12:04:47.737Z",
+      "discoveredAt": "2026-08-28T12:25:55.371Z",
+      "summary": "斯坦福大学研究人员领衔发布 Terminal-Bench-Science 0.1，用来自生命、物理、地球、数学和工程科学的 70 个专家精选任务评估 AI 智能体的科研能力。",
+      "category": "paper",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtcxdp3f07l3roq5uk6om1aw"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "工作流",
+        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -1480,6 +1199,33 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
+      "id": "cmtda8a7u024jrouumbl6tbkm",
+      "title": "Claude Code v2.1.251 发布：新增模型切换钩子与远程控制流式输出",
+      "title_en": "v2.1.251",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.251",
+      "permalink": "https://aihot.virxact.com/items/cmtda8a7u024jrouumbl6tbkm",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "publishedAt": "2026-08-28T18:19:32.000Z",
+      "discoveredAt": "2026-08-28T18:25:38.553Z",
+      "summary": "Claude Code v2.1.251 新增 PreModelSwitch 和 PostModelSwitch 钩子事件，支持拦截、确认或标注模型切换；远程控制客户端现可实时流式查看前台子代理的工具调用与结果。/usage 新增消费限额条，/cost 新增按会话的提示词缓存统计行。本次更新还修复了符号链接路径穿越、插件路径越界、后台会话卡死等多项安全与稳定性问题。",
+      "category": "ai-products",
+      "score": 46,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtda8a7u024jrouumbl6tbkm"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "提示词",
+        "claude code"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cmtcpvj9e04cpro645lmugnew",
       "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
       "title_en": "AI 工程师笔记本--在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
@@ -1502,33 +1248,6 @@
       "editorialScore": 7,
       "tags": [
         "提示词",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmtaympj60ditroamt8y7chuu",
-      "title": "Perplexity AI 推出 Portable Computer 本地智能体应用",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/994/885.htm",
-      "permalink": "https://aihot.virxact.com/items/cmtaympj60ditroamt8y7chuu",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-27T02:36:00.000Z",
-      "discoveredAt": "2026-08-27T03:25:23.112Z",
-      "summary": "Perplexity AI 于 25 日推出 Portable Computer，这是其 Perplexity Computer 多模型编排智能体数字员工的本地化版本，可实现私密工作流，仅在需要时调用云端算力。",
-      "category": "ai-products",
-      "score": 46,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtaympj60ditroamt8y7chuu"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "工作流",
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
