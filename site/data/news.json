@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-28T22:19:57.385Z",
-  "previousGeneratedAt": "2026-08-28T11:23:40.916Z",
+  "generatedAt": "2026-08-29T07:04:46.019Z",
+  "previousGeneratedAt": "2026-08-28T22:19:57.385Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 45,
+  "itemCount": 41,
   "sourceCounts": {
     "X": 24,
-    "网站": 18,
-    "公众号": 3
+    "网站": 16,
+    "公众号": 1
   },
   "source": {
     "name": "AI HOT",
@@ -187,33 +187,58 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cmtbk6drt0zs5roam6y7ss7jj",
-      "title": "Adobe 为 Photoshop 新增 AI 辅助编辑器视图及标记功能",
-      "title_en": "Adobe is adding more AI to Photoshop",
-      "url": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup",
-      "permalink": "https://aihot.virxact.com/items/cmtbk6drt0zs5roam6y7ss7jj",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-08-27T13:00:00.000Z",
-      "discoveredAt": "2026-08-27T13:28:32.991Z",
-      "summary": "Adobe 为 Photoshop 推出 AI 重头更新，新增\"AI Assisted Editor\"可选界面，将提示词图像编辑、背景移除、AI 图像扩展等功能集中到单一工具栏，目前以 beta 版上线。更新还引入\"标记\"功能，用户可直接在图像上绘制以指示修改意图，如圈选区域换色、画箭头调整位置或涂出形状添加新元素，无需依赖文本提示。",
-      "category": "ai-products",
-      "score": 55,
+      "id": "cmtdnnmho023yro2mdnm9iyux",
+      "title": "Midjourney 更新 V8.2 编辑模型以提升图像质量",
+      "title_en": "Edit Image Quality Update",
+      "url": "https://updates.midjourney.com/edit-image-quality-update",
+      "permalink": "https://aihot.virxact.com/items/cmtdnnmho023yro2mdnm9iyux",
+      "source": "Midjourney：Updates（RSS）",
+      "publishedAt": "2026-08-29T00:35:46.000Z",
+      "discoveredAt": "2026-08-29T00:41:29.797Z",
+      "summary": "Midjourney 更新了 V8.2 编辑模型，以提升图像质量。过去 24 小时内遇到问题的用户可重新尝试，官方欢迎继续反馈，并预告更多更新即将到来。",
+      "category": "ai-models",
+      "score": 32,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtbk6drt0zs5roam6y7ss7jj"
+        "canonical": "https://aihot.virxact.com/items/cmtdnnmho023yro2mdnm9iyux"
       },
       "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 13,
-      "editorialScore": 18,
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
       "tags": [
-        "photoshop",
-        "adobe",
-        "界面",
+        "midjourney",
         "图像"
       ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtdne41q01taro2msxx093ib",
+      "title": "Midjourney 更新 V8.2 编辑模型提升画质",
+      "title_en": "We've updated our V8.2 edit model for better image quality. If you've had any issues in the last 24 …",
+      "url": "https://x.com/midjourney/status/2093495563467796751",
+      "permalink": "https://aihot.virxact.com/items/cmtdne41q01taro2msxx093ib",
+      "source": "X：Midjourney (@midjourney)",
+      "publishedAt": "2026-08-29T00:26:52.000Z",
+      "discoveredAt": "2026-08-29T00:34:04.436Z",
+      "summary": "我们已更新 V8.2 编辑模型，以提升图像质量。如果你在过去 24 小时内遇到任何问题，请再试一次，并继续向我们反馈。谢谢！更多更新即将推出。",
+      "category": "ai-models",
+      "score": 35,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtdne41q01taro2msxx093ib"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "midjourney",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmtd818l3012xro669k352p4h",
@@ -318,6 +343,33 @@
       "designCategory": "图像与视频",
       "relevanceScore": 12,
       "editorialScore": 15,
+      "tags": [
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtdpj99b03afro2mx6snuukm",
+      "title": "FastVideo 开源 FastH3 预览版，15 秒生成仅需 13 秒",
+      "title_en": "45% preferred FastVideo FastH3 or are neutral compared with @MiniMax_AI H3. Our open-weight FastH3…",
+      "url": "https://x.com/haoailab/status/2093506470449156193",
+      "permalink": "https://aihot.virxact.com/items/cmtdpj99b03afro2mx6snuukm",
+      "source": "X：Sky Computing Lab (@haoailab)",
+      "publishedAt": "2026-08-29T01:10:12.000Z",
+      "discoveredAt": "2026-08-29T01:34:04.089Z",
+      "summary": "FastVideo 开源预览版 FastH3，15 秒视频生成仅需 13 秒，实现 14 倍加速，45% 用户偏好或认为其与 MiniMax H3 持平。该模型为预览检查点，仅用部分算力和数据训练。引用推文提醒，速度提升需配合质量评估，避免沦为\"随机像素生成器\"。",
+      "category": "ai-models",
+      "score": 57,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtdpj99b03afro2mx6snuukm"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
       "tags": [
         "视频生成",
         "视频"
@@ -653,33 +705,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmtbggn1g0vswroam21208fgl",
-      "title": "网友自制AI葡萄酒管理应用获赞",
-      "title_en": "OMG 全体起立",
-      "url": "https://x.com/chunxiangai/status/2092936759139352925",
-      "permalink": "https://aihot.virxact.com/items/cmtbggn1g0vswroam21208fgl",
-      "source": "X：赵纯想 (@chunxiangai)",
-      "publishedAt": "2026-08-27T11:26:22.000Z",
-      "discoveredAt": "2026-08-27T11:44:26.696Z",
-      "summary": "OMG 全体起立\n\n【引用 @sakinotomiura】：我在慢慢做一个自己用的数字化管理酒柜的应用🍷\n\n即使随便拍瓶子的照片，通过图像生成也能整理得很好，还会从原图的标签上获取品种和产地后保存💭",
-      "category": "ai-products",
-      "score": 19,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtbggn1g0vswroam21208fgl"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
-      "tags": [
-        "图像生成",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmtd9bcwe01q4ro5t3qb57n5j",
       "title": "Runway 发起 HORSE 挑战赛赢百万积分",
       "title_en": "Let's play a game. A game of HORSE. We'll go first （shot below）. To play， comment \"HORSE\" and quote…",
@@ -706,33 +731,6 @@
         "提示词"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtbgliun0vwjroamgsh79l5t",
-      "title": "Grok Bot 或将支持实时语音通话",
-      "title_en": "SPACEXAI 🔥： Grok Bot may soon get voice call support！ Users will be able to chat with Grok bots v…",
-      "url": "https://x.com/testingcatalog/status/2092936279872680017",
-      "permalink": "https://aihot.virxact.com/items/cmtbgliun0vwjroamgsh79l5t",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-08-27T11:24:28.000Z",
-      "discoveredAt": "2026-08-27T11:48:18.743Z",
-      "summary": "SpaceXAI 正为 Grok Bot 开发语音通话功能，用户可通过语音实时与 Grok 机器人对话。该功能将让用户无需紧盯聊天界面，像与随身助理通话一样与 AI 交互，未来或可逐步用 AI 替代人类安排会议。",
-      "category": "ai-products",
-      "score": 17,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtbgliun0vwjroamgsh79l5t"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 8,
-      "editorialScore": 12,
-      "tags": [
-        "界面",
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmtcrr0bj0295roq51mkgruik",
@@ -786,34 +784,6 @@
         "原型"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "cmtbk2gww0zp4roamjej4osl5",
-      "title": "OpenAI 在印度向 ChatGPT Free 及 Go 套餐用户投放广告",
-      "title_en": "OpenAI 将向印度 ChatGPT 免费及 Go 套餐用户投放广告",
-      "url": "https://www.ithome.com/0/995/296.htm",
-      "permalink": "https://aihot.virxact.com/items/cmtbk2gww0zp4roamjej4osl5",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-27T13:19:58.000Z",
-      "discoveredAt": "2026-08-27T13:25:28.158Z",
-      "summary": "OpenAI 即日起在印度向 ChatGPT Free 和 Go 套餐用户投放广告，首批覆盖 50 个品牌，下月将上线广告管理工具，营销人员可自行创建广告活动，最低日预算 725 印度卢比（约合 51.1 元人民币）。ChatGPT 在印度周活跃用户已超 1 亿，其中相当一部分使用免费版或 Go 套餐。OpenAI 今年 2 月已在美国展示广告，本月早些时候将广告业务扩展至欧洲。",
-      "category": "industry",
-      "score": 57,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtbk2gww0zp4roamjej4osl5"
-      },
-      "sourceType": "网站",
-      "designCategory": "行业观察",
-      "relevanceScore": 11,
-      "editorialScore": 11,
-      "tags": [
-        "广告",
-        "品牌",
-        "营销"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "cmtdbbcmv0181robxlud0fio9",
@@ -872,59 +842,31 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtbkk92810cvroametd7fhsa",
-      "title": "Lakebase Postgres 与智能体 AI 如何重塑行业垂直优势",
-      "title_en": "Vertical Advantage： Transforming Industries with Lakebase and Agentic AI",
-      "url": "https://www.databricks.com/blog/vertical-advantage-transforming-industries-lakebase-and-agentic-ai",
-      "permalink": "https://aihot.virxact.com/items/cmtbkk92810cvroametd7fhsa",
-      "source": "Databricks：Blog（RSS）",
-      "publishedAt": "2026-08-27T13:05:00.000Z",
-      "discoveredAt": "2026-08-27T13:39:18.349Z",
-      "summary": "Databricks 推出 Lakebase Postgres，将 Postgres 兼容性与数据湖架构结合，为行业垂直应用提供统一数据平台。该方案通过智能体 AI 与事务性数据协同，帮助企业构建实时分析、自动化工作流等场景，降低数据孤岛成本并加速 AI 落地。Lakebase 支持标准 SQL 与现有生态工具，可直接迁移至 Databricks 平台。",
+      "id": "cmtdn3weg01ivro2mvfejaso0",
+      "title": "Anthropic 员工如何用 Claude Tag 提升工作流程效率",
+      "title_en": "How Anthropic employees use Claude Tag",
+      "url": "https://claude.com/blog/how-anthropic-employees-use-claude-tag",
+      "permalink": "https://aihot.virxact.com/items/cmtdn3weg01ivro2mvfejaso0",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-08-29T00:26:10.178Z",
+      "discoveredAt": "2026-08-29T00:26:10.178Z",
+      "summary": "Anthropic 员工通过 Claude Tag 在 Slack 等聊天工具中标记 @Claude 完成任务，如将 15 条以上的 Slack 线程在 45 分钟内转化为可评审文档，或约 26 分钟内整合分散的客户功能请求并通知对应销售。Anthropic 还分享了十余个用例及提示词，供用户借鉴或调整。",
       "category": "tip",
-      "score": 25,
+      "score": 52,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtbkk92810cvroametd7fhsa"
+        "canonical": "https://aihot.virxact.com/items/cmtdn3weg01ivro2mvfejaso0"
       },
       "sourceType": "网站",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 9,
-      "editorialScore": 10,
+      "relevanceScore": 8,
+      "editorialScore": 9,
       "tags": [
         "工作流",
-        "自动化",
-        "智能体"
+        "提示词"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmtcfdba802z5roi34em9nukt",
-      "title": "秒哒接入支付宝支付Skill，个人开发者无需写代码即可完成收款",
-      "title_en": "秒哒接入支付宝支付Skill，让收款简单到不用开发！",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA5NTQ5MzE5OQ%3D%3D&mid=2653159882&idx=2&sn=ee98d092db8c12349c5bd752cc56f563",
-      "permalink": "https://aihot.virxact.com/items/cmtcfdba802z5roi34em9nukt",
-      "source": "公众号：百度智能云（文心）",
-      "publishedAt": "2026-08-27T12:48:57.000Z",
-      "discoveredAt": "2026-08-28T04:01:46.209Z",
-      "summary": "秒哒正式接入支付宝支付Skill，开发者在搭建网页应用时直接@支付宝支付，支付功能即可自动生成，无需对接复杂接口。个人开发者\"黄啊码\"用秒哒为AI生图网站\"易图\"接入收款能力，一天搞定，该网站已累计注册超3000用户。秒哒提供沙箱环境供测试，从提需求到收款共4步。",
-      "category": "ai-products",
-      "score": 51,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtcfdba802z5roi34em9nukt"
-      },
-      "sourceType": "公众号",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "生图",
-        "skill"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmtcx3x1t07cdroq51sh0nmjq",
@@ -1035,88 +977,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtbgyle60w4kroamewpsv7fs",
-      "title": "OpenAI 将在印度 ChatGPT 免费版和 Go 订阅层级投放广告",
-      "title_en": "OpenAI to start showing ads on ChatGPT's free and Go tiers in India",
-      "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india",
-      "permalink": "https://aihot.virxact.com/items/cmtbgyle60w4kroamewpsv7fs",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-08-27T11:35:59.000Z",
-      "discoveredAt": "2026-08-27T11:58:32.378Z",
-      "summary": "OpenAI 宣布将在印度 ChatGPT 免费版和 Go 订阅层级开始展示广告，此前该公司已于本月修改服务条款。广告将先覆盖 50 个品牌，OpenAI 已与 WPP 和 Omnicom 合作，并计划下月推出广告管理器，要求广告主每日最低预算为 ₹725（7.60 美元）。OpenAI 称 2 月时印度周活跃用户超 1 亿，此举正值其筹备潜在 IPO 之际。",
-      "category": "industry",
-      "score": 62,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtbgyle60w4kroamewpsv7fs"
-      },
-      "sourceType": "网站",
-      "designCategory": "行业观察",
-      "relevanceScore": 9,
-      "editorialScore": 9,
-      "tags": [
-        "广告",
-        "品牌"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmtbcqlyf0s8xroampb7ochn0",
-      "title": "实测智谱GLM-5.3-Flash：把DeepSeek逼进斩杀线",
-      "title_en": "实测智谱GLM-5.3-Flash，稳稳把DeepSeek逼进斩杀线",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510028&idx=1&sn=9ed0cf85af4bf34ee37bc92e16845cf5",
-      "permalink": "https://aihot.virxact.com/items/cmtbcqlyf0s8xroampb7ochn0",
-      "source": "公众号：卡尔的AI沃茨",
-      "publishedAt": "2026-08-27T09:47:00.000Z",
-      "discoveredAt": "2026-08-27T10:00:21.547Z",
-      "summary": "智谱GLM-5.3-Flash与DeepSeek V4 Flash同日发布，输入0.8元/百万Token、输出2.8元/百万Token。Artificial Analysis数据显示，GLM-5.3-Flash以$0.045/57分卡在前沿线，DeepSeek V4 Flash贵一倍还低6分；14项benchmark对打中GLM赢11项，视觉端六项全赢，最大差距约40%。",
-      "category": "tip",
-      "score": 62,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtbcqlyf0s8xroampb7ochn0"
-      },
-      "sourceType": "公众号",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "视觉"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtbc66q60rvlroami5v18mdt",
-      "title": "Memmy 开源：多 Agent 上下文断层成中文圈刚需",
-      "title_en": "早上发的 Memmy 记忆中枢推文， 刚被人一字不差搬到小红书， 连演示视频都原封不动， 数据跑得还挺好。 换别人可能会有点生气， 我反而挺开心， 这直接帮我印证了一个判断： 多 Agent 切换时…",
-      "url": "https://x.com/AYi_AInotes/status/2092899388808958072",
-      "permalink": "https://aihot.virxact.com/items/cmtbc66q60rvlroami5v18mdt",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-08-27T08:57:53.000Z",
-      "discoveredAt": "2026-08-27T09:44:26.456Z",
-      "summary": "MemOS 团队开源本地 Agent 记忆工具 Memmy，自动接管 Cursor、Claude Code、Codex 等工具历史日志，整理为结构化记忆并通过 Skill、Hook、MCP 注入当前 Agent，全量存本地 SQLite、local-first 不上传。",
-      "category": "tip",
-      "score": 39,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtbc66q60rvlroami5v18mdt"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "视频",
-        "codex",
-        "claude code",
-        "agent"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
       "id": "cmtd8flm801jpro66v8haftmk",
       "title": "GLM-5.3 成本仅为 FABLE 5 八分之一",
       "title_en": "💸$15.51 vs. $120.93. Same prompt. Same 3D game challenge. No manual code edits. GLM-5.3 completed t…",
@@ -1141,6 +1001,35 @@
         "3d",
         "提示词",
         "prompt"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmtd63l8801qarowfu52fsr2d",
+      "title": "Krea 发布 Krea 3 与 Krea Agents 两大更新",
+      "title_en": "yesterday， we showcased two major updates coming to Krea： Krea 3 and Krea Agents. Krea 3 is our ne…",
+      "url": "https://x.com/krea_ai/status/2093370990403236158",
+      "permalink": "https://aihot.virxact.com/items/cmtd63l8801qarowfu52fsr2d",
+      "source": "X：Krea AI (@krea_ai)",
+      "publishedAt": "2026-08-28T16:11:51.000Z",
+      "discoveredAt": "2026-08-28T16:30:00.883Z",
+      "summary": "Krea 昨日展示两大更新：Krea 3 新基础模型，在 Krea 2 的美学多样性与个性化基础上强化编辑能力；Krea Agents 是构建于 Krea 之上的全新平台，为智能体工作流优化界面，并支持通过 MCP 或 API 与客户现有工作流及智能体无缝集成。",
+      "category": "ai-models",
+      "score": 38,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtd63l8801qarowfu52fsr2d"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "界面",
+        "工作流",
+        "智能体",
+        "mcp"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
