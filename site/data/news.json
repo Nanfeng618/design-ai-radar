@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-29T16:43:37.425Z",
-  "previousGeneratedAt": "2026-08-29T07:04:46.019Z",
+  "generatedAt": "2026-08-30T05:24:36.874Z",
+  "previousGeneratedAt": "2026-08-29T16:43:37.425Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 40,
+  "itemCount": 39,
   "sourceCounts": {
     "X": 24,
-    "网站": 15,
+    "网站": 14,
     "公众号": 1
   },
   "source": {
@@ -322,6 +322,33 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmterrell023zrovjgurim133",
+      "title": "MiniMax H3 Max 开源模型被 @fal 改造，实现超实时视频生成",
+      "title_en": "Some milestones move a leaderboard. A rare few change how you see the future. MiniMax H3 Max did bo…",
+      "url": "https://x.com/MiniMax_AI/status/2093778769903534294",
+      "permalink": "https://aihot.virxact.com/items/cmterrell023zrovjgurim133",
+      "source": "X：MiniMax (@MiniMax_AI)",
+      "publishedAt": "2026-08-29T19:12:13.000Z",
+      "discoveredAt": "2026-08-29T19:24:09.527Z",
+      "summary": "MiniMax 发布开源权重模型 H3，@fal 通过自研后训练与推理技术将其改造为 H3 Max，在质量和延迟上双双突破，实现超实时（faster-than-real-time）视频生成。MiniMax 称这证明了开放权重让前沿技术不再属于少数人，并希望 H3 Max 成为社区共创突破的开端。",
+      "category": "tip",
+      "score": 31,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmterrell023zrovjgurim133"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmtdpj99b03afro2mx6snuukm",
       "title": "FastVideo 开源 FastH3 预览版，15 秒生成仅需 13 秒",
       "title_en": "45% preferred FastVideo FastH3 or are neutral compared with @MiniMax_AI H3. Our open-weight FastH3…",
@@ -512,88 +539,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtc11idn0022rop20oyrl6g7",
-      "title": "Grok Bot 如何改变智能体协作体验",
-      "title_en": "Grok Bot is a bigger deal than it seems. It's really changed how I work with agents. The biggest …",
-      "url": "https://x.com/omarsar0/status/2093080633509626034",
-      "permalink": "https://aihot.virxact.com/items/cmtc11idn0022rop20oyrl6g7",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "publishedAt": "2026-08-27T20:58:05.000Z",
-      "discoveredAt": "2026-08-27T21:20:39.212Z",
-      "summary": "Grok Bot 的意义比表面看起来更大。\n\n它真正改变了我与智能体协作的方式。\n\n最大的变化：我不再过度思考了。\n\n简化的界面给了我以往常规聊天会话所没有的信心。\n\n我认为还有更多独特的体验和 UI 层有待发掘，以提升对 AI 的信任并增强协作。在我看来，Grok Bot 在这方面处于领先地位。\n\n主动式能力也很出色，而且还在不断改进。这是我最期待的一个方向。",
-      "category": "tip",
-      "score": 33,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtc11idn0022rop20oyrl6g7"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 10,
-      "editorialScore": 14,
-      "tags": [
-        "ui",
-        "界面",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmtc05bnj015srome8fm42xy8",
-      "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
-      "title_en": "Elon Musk's xAI used child porn to train Grok models， lawsuit says",
-      "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
-      "permalink": "https://aihot.virxact.com/items/cmtc05bnj015srome8fm42xy8",
-      "source": "Ars Technica：AI（RSS）",
-      "publishedAt": "2026-08-27T20:52:31.000Z",
-      "discoveredAt": "2026-08-27T20:55:38.426Z",
-      "summary": "一项新诉讼指控 xAI 使用儿童性虐待材料（CSAM）训练 Grok 模型，这是首个此类指控。原告 Jane Doe 称其幼年遭虐待所生成的 CSAM 图像及 AI 生成的衍生图像被用于训练 Grok，且 Grok 默认将公开的 X 帖子和自身输出作为训练数据。诉讼要求 xAI 销毁所有 Grok 生成的 CSAM 并阻止模型再生成此类内容。",
-      "category": "industry",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtc05bnj015srome8fm42xy8"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "生图",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtbsyjj0003oro2kkrmst8eo",
-      "title": "Google 发布 Gemini Omni 1.1 Flash，视频生成更便宜更灵活",
-      "title_en": "Google's Gemini Omni 1.1 Flash makes AI video generation cheaper and more flexible",
-      "url": "https://the-decoder.com/googles-gemini-omni-1-1-flash-makes-ai-video-generation-cheaper-and-more-flexible",
-      "permalink": "https://aihot.virxact.com/items/cmtbsyjj0003oro2kkrmst8eo",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-08-27T17:01:28.000Z",
-      "discoveredAt": "2026-08-27T17:34:24.333Z",
-      "summary": "Google 将 Gemini Omni Flash 视频模型升级至 1.1 版本，场景扩展可分析现有视频最多十秒而非仅最后一秒，并以 10 秒为增量延长至 40 秒。",
-      "category": "ai-models",
-      "score": 54,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtbsyjj0003oro2kkrmst8eo"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视频生成",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmtekgvwj018jrou3a07xqzp3",
       "title": "Runway HORSE挑战赛开启，赢百万积分",
       "title_en": "2 hours left. Rules below. Let's see your best shot.",
@@ -730,6 +675,63 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
+      "id": "cmteurmg204a7rovjqr99p7y9",
+      "title": "视频模型难复现艾姆斯错觉",
+      "title_en": "btw I haven't yet managed to get an Ames Illusion to work from just text prompt or an image prompt w…",
+      "url": "https://x.com/fofrAI/status/2093799576570417384",
+      "permalink": "https://aihot.virxact.com/items/cmteurmg204a7rovjqr99p7y9",
+      "source": "X：fofr (@fofrAI)",
+      "publishedAt": "2026-08-29T20:34:54.000Z",
+      "discoveredAt": "2026-08-29T20:48:18.320Z",
+      "summary": "顺便说一句，到目前为止，我还没能让任何视频模型仅凭文本提示或图像提示就产生艾姆斯错觉效果。",
+      "category": "tip",
+      "score": 30,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmteurmg204a7rovjqr99p7y9"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "图像",
+        "prompt"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmteqhaqw01enrovjg5xoz51v",
+      "title": "腾讯混元Hy4预览版体验：一句话生成过山车视频",
+      "title_en": "Tried Hy4 preview through WorkBuddy and gave it a pretty vague prompt for a first person roller coas…",
+      "url": "https://x.com/kimmonismus/status/2093772055586259362",
+      "permalink": "https://aihot.virxact.com/items/cmteqhaqw01enrovjg5xoz51v",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-08-29T18:45:33.000Z",
+      "discoveredAt": "2026-08-29T18:48:18.820Z",
+      "summary": "腾讯混元Hy4预览版在WorkBuddy中开放试用，仅凭一句模糊提示词即可生成第一视角过山车视频，陡降、倾斜转弯和近景飞驰的速度感表现到位。编码与3D渲染能力明显升级，一次生成即达此效果，未来两周可免费体验。",
+      "category": "tip",
+      "score": 42,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmteqhaqw01enrovjg5xoz51v"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "3d",
+        "提示词",
+        "prompt"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmte89fcb01qmrobgb28fd23p",
       "title": "Lux3D 实测：图像文本生成可编辑 3D 资产",
       "title_en": "1/ Spent the past few days testing Lux3D， a 3D generative model. You give it an image or a text prom…",
@@ -813,6 +815,32 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmtf2n1vh01i0ron8nxicpb3h",
+      "title": "腾讯发布 Hy4 Preview：770B 参数开源权重文本模型，上下文窗口达 1M token",
+      "title_en": "Introducing Hy4 Preview",
+      "url": "https://simonwillison.net/2026/Aug/29/hy4",
+      "permalink": "https://aihot.virxact.com/items/cmtf2n1vh01i0ron8nxicpb3h",
+      "source": "Simon Willison 博客",
+      "publishedAt": "2026-08-29T23:53:13.000Z",
+      "discoveredAt": "2026-08-30T00:28:44.198Z",
+      "summary": "腾讯今日发布 Hy4 Preview，这是一款新的开源权重纯文本输入（无视觉）大语言模型，总参数 770B，激活参数 49B，上下文窗口 1M token，Hugging Face 上体积 1.56TB。相比 7 月的 Hy3（295B 总参数、21B 激活、256k 上下文、598GB），规模大幅提升。Hy4 的推理配置仅支持 \"high\"（默认）和 \"no_think\" 两档。",
+      "category": "ai-models",
+      "score": 66,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtf2n1vh01i0ron8nxicpb3h"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "视觉"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmtcx3x1t07cdroq51sh0nmjq",
       "title": "开放廉价模型如何推动自动化升级",
       "title_en": "The more I embrace open and cheaper models， the more automation I can afford. Frontier models for o…",
@@ -869,6 +897,62 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
+      "id": "cmtevu75604w7rovjepx8ni8q",
+      "title": "OpenAI 重置 Codex 用量并修复计费漏洞",
+      "title_en": "Anthropic： we are reducing your weekly rates by 17%. OpenAI： We are resetting usage for all paid C…",
+      "url": "https://x.com/kimmonismus/status/2093804196319707623",
+      "permalink": "https://aihot.virxact.com/items/cmtevu75604w7rovjepx8ni8q",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-08-29T20:53:16.000Z",
+      "discoveredAt": "2026-08-29T21:18:18.005Z",
+      "summary": "OpenAI 为所有 Codex 和 ChatGPT Work 付费用户重置用量，并修复多项导致配额浪费的 bug，使同等额度可用时长提升 10%-50%。修复涵盖压缩、记忆、目标、自动化、子代理及 MCP 编码等问题，部分案例曾消耗周配额的 15%-70%。对比 Anthropic 仅降费 17%，社区普遍认为 OpenAI 的社区服务更胜一筹。",
+      "category": "tip",
+      "score": 58,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtevu75604w7rovjepx8ni8q"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "自动化",
+        "codex",
+        "mcp"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmtevu75y04warovjorm828o4",
+      "title": "OpenAI 重置 Codex 与 ChatGPT Work 用量限额",
+      "title_en": "OPENAI 🔥： Codex and ChatGPT Work usage limits are being reset once again. Besides that， OpenAI is…",
+      "url": "https://x.com/testingcatalog/status/2093804005382123831",
+      "permalink": "https://aihot.virxact.com/items/cmtevu75y04warovjorm828o4",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "publishedAt": "2026-08-29T20:52:30.000Z",
+      "discoveredAt": "2026-08-29T21:18:18.005Z",
+      "summary": "OpenAI 再次重置 Codex 和 ChatGPT Work 所有付费用户的用量限额，并修复多项用量消耗问题，使整体限额更高。根据使用方式不同，Codex 用量可多跑 10% 至 50%。修复涵盖压缩、内存、目标、自动化、子代理及 MCP 等场景，部分问题曾消耗周配额的 15% 至 70%。",
+      "category": "ai-products",
+      "score": 57,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtevu75y04warovjorm828o4"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "自动化",
+        "codex",
+        "mcp"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cmtd8flm801jpro66v8haftmk",
       "title": "GLM-5.3 成本仅为 FABLE 5 八分之一",
       "title_en": "💸$15.51 vs. $120.93. Same prompt. Same 3D game challenge. No manual code edits. GLM-5.3 completed t…",
@@ -893,64 +977,6 @@
         "3d",
         "提示词",
         "prompt"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmtd63l8801qarowfu52fsr2d",
-      "title": "Krea 发布 Krea 3 与 Krea Agents 两大更新",
-      "title_en": "yesterday， we showcased two major updates coming to Krea： Krea 3 and Krea Agents. Krea 3 is our ne…",
-      "url": "https://x.com/krea_ai/status/2093370990403236158",
-      "permalink": "https://aihot.virxact.com/items/cmtd63l8801qarowfu52fsr2d",
-      "source": "X：Krea AI (@krea_ai)",
-      "publishedAt": "2026-08-28T16:11:51.000Z",
-      "discoveredAt": "2026-08-28T16:30:00.883Z",
-      "summary": "Krea 昨日展示两大更新：Krea 3 新基础模型，在 Krea 2 的美学多样性与个性化基础上强化编辑能力；Krea Agents 是构建于 Krea 之上的全新平台，为智能体工作流优化界面，并支持通过 MCP 或 API 与客户现有工作流及智能体无缝集成。",
-      "category": "ai-models",
-      "score": 38,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtd63l8801qarowfu52fsr2d"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "界面",
-        "工作流",
-        "智能体",
-        "mcp"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmtd4lz0p0166rov2qklrs607",
-      "title": "AgentConnect：开源多智能体协作新方案",
-      "title_en": "I think the harder multi-agent problem is shared context， not parallel execution. What makes AgentC…",
-      "url": "https://x.com/rohanpaul_ai/status/2093357975822061920",
-      "permalink": "https://aihot.virxact.com/items/cmtd4lz0p0166rov2qklrs607",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-08-28T15:20:08.000Z",
-      "discoveredAt": "2026-08-28T15:48:18.686Z",
-      "summary": "AgentConnect 发布，定位为开源、自托管的 Claude Tag 多智能体替代方案，核心解决多智能体共享上下文难题而非并行执行。它保持供应商中立，支持 Claude Code、Codex、DeepSeek 等 ACP 兼容智能体，可跨 Slack、Telegram、Discord、GitHub 和 GitLab 协作。",
-      "category": "tip",
-      "score": 31,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtd4lz0p0166rov2qklrs607"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "codex",
-        "claude code",
-        "agent",
-        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -1005,61 +1031,6 @@
       "tags": [
         "工作流",
         "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmtbwo5o001zprolsrw1kf8lo",
-      "title": "智能体行为更多由部署框架而非模型决定",
-      "title_en": "Another good paper. Interesting finding on the benefits of the agent harness.",
-      "url": "https://x.com/omarsar0/status/2093051230197043245",
-      "permalink": "https://aihot.virxact.com/items/cmtbwo5o001zprolsrw1kf8lo",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "publishedAt": "2026-08-27T19:01:14.000Z",
-      "discoveredAt": "2026-08-27T19:18:18.067Z",
-      "summary": "新研究将智能体轨迹压缩为紧凑有限状态机，在12个公开数据集上仅用7-43个状态，以0.997的适应度重放留出数据，毫秒级构建。FSM状态上下文在下一步预测上全面优于Agent Workflow Memory，失败预测AUROC达0.94。作者认为行为拓扑更多由部署框架而非底层LLM塑造。",
-      "category": "paper",
-      "score": 32,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtbwo5o001zprolsrw1kf8lo"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "workflow",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmtbvwo1y003grolsn76b8byl",
-      "title": "论文：模型自动化与人类增强能力未必相关",
-      "title_en": "Neat paper suggesting that human augmentation and task automation are not necessarily related. Model…",
-      "url": "https://x.com/emollick/status/2093045682785378666",
-      "permalink": "https://aihot.virxact.com/items/cmtbvwo1y003grolsn76b8byl",
-      "source": "X：Ethan Mollick (@emollick)",
-      "publishedAt": "2026-08-27T18:39:12.000Z",
-      "discoveredAt": "2026-08-27T18:56:54.808Z",
-      "summary": "Ethan Mollick 分享论文，指出模型的任务自动化能力与辅助人类工作的增强能力并不必然相关。擅长独立执行任务的模型，未必擅长帮助人类更好地工作。例如 Opus 和 Sonnet 擅长自主执行任务，但辅助表现不佳；GPT-5-Mini 两方面均佳，Gemini 模型则更擅长作为助手而非自动化执行者。",
-      "category": "paper",
-      "score": 40,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtbvwo1y003grolsn76b8byl"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "自动化",
-        "automation"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
