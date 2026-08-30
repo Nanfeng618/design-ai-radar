@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-30T05:24:36.874Z",
-  "previousGeneratedAt": "2026-08-29T16:43:37.425Z",
+  "generatedAt": "2026-08-30T11:54:51.471Z",
+  "previousGeneratedAt": "2026-08-30T05:24:36.874Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 39,
+  "itemCount": 37,
   "sourceCounts": {
     "X": 24,
-    "网站": 14,
+    "网站": 12,
     "公众号": 1
   },
   "source": {
@@ -72,35 +72,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtc61ej101lqrojqto587wu9",
-      "title": "Midjourney 开放 V8.2 图像编辑模型测试",
-      "title_en": "Edit Model for V8",
-      "url": "https://updates.midjourney.com/edit-model-for-v8",
-      "permalink": "https://aihot.virxact.com/items/cmtc61ej101lqrojqto587wu9",
-      "source": "Midjourney：Updates（RSS）",
-      "publishedAt": "2026-08-27T23:32:15.000Z",
-      "discoveredAt": "2026-08-27T23:40:33.688Z",
-      "summary": "Midjourney 开始向所有用户开放其首个 V8.2 图像编辑模型的测试。该模型支持指令编辑、以图生图（最多同时引用 4 张参考图）、局部重绘与扩画，并兼容个性化、moodboards 和 srefs 功能。用户可通过网页端或 Discord 的 `--edit` 命令使用，官方同步更新了 midjourney.com 与 alpha.midjourney.com 的界面。",
-      "category": "ai-models",
-      "score": 64,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtc61ej101lqrojqto587wu9"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 19,
-      "editorialScore": 22,
-      "tags": [
-        "midjourney",
-        "生图",
-        "界面",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmtct8mwu03eproq5l4kt351k",
       "title": "腾讯混元 Hy4 预览版上线 WorkBuddy，限时免费",
       "title_en": "Hy4 preview from @TencentHunyuan is here-and it's now available on WorkBuddy. We tested it inside r…",
@@ -156,34 +127,6 @@
         "runway"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "cmtcb0eyh02s5roeeft6wubqm",
-      "title": "VGI-Bench：探针视频生成模型视觉智能",
-      "title_en": "VGI-Bench Probing Visual Intelligence in Video Generation Models paper： https://huggingface.co/pap...",
-      "url": "https://x.com/_akhaliq/status/2093154284095295685",
-      "permalink": "https://aihot.virxact.com/items/cmtcb0eyh02s5roeeft6wubqm",
-      "source": "X：AK (@_akhaliq)",
-      "publishedAt": "2026-08-28T01:50:44.000Z",
-      "discoveredAt": "2026-08-28T01:59:44.566Z",
-      "summary": "VGI-Bench\n\n探针视频生成模型中的视觉智能\n\n论文：https://huggingface.co/papers/2608.19583",
-      "category": "paper",
-      "score": 30,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtcb0eyh02s5roeeft6wubqm"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 15,
-      "editorialScore": 18,
-      "tags": [
-        "视频生成",
-        "视觉",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmtdnnmho023yro2mdnm9iyux",
@@ -295,29 +238,29 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtc7noio01f6rodmpgeqbpne",
-      "title": "谷歌推出 Gemini Omni 1.1 Flash 视频生成 AI 模型，最高 4K 分辨率",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/995/352.htm",
-      "permalink": "https://aihot.virxact.com/items/cmtc7noio01f6rodmpgeqbpne",
+      "id": "cmtfly2mt019yrovijojps4a9",
+      "title": "网传微软 Win11 偷偷后台跑 AI？实为权限管理列表",
+      "title_en": "网传微软 Win11 偷偷后台跑 AI，页面实为权限管理列表",
+      "url": "https://www.ithome.com/0/996/194.htm",
+      "permalink": "https://aihot.virxact.com/items/cmtfly2mt019yrovijojps4a9",
       "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-27T23:49:58.000Z",
-      "discoveredAt": "2026-08-28T00:25:51.912Z",
-      "summary": "谷歌推出 Gemini Omni 1.1 Flash 视频生成 AI 模型，最高可生成 4K 视频。新模型支持场景扩展（每次 10 秒步长，单条最长 40 秒）、指定首尾帧及最长 3 秒视频参考。360p 预览生成速度较标准 720p 最高提升 60%，成本仅为三分之一；价格从 360p 每秒 0.03 美元到 4K 每秒 0.3 美元不等。",
-      "category": "ai-models",
-      "score": 66,
+      "publishedAt": "2026-08-30T09:00:56.000Z",
+      "discoveredAt": "2026-08-30T09:29:09.048Z",
+      "summary": "网传 Windows 11 在后台偷偷运行 AI 并拖累性能的截图实为误读。该\"文本和图像生成\"页面仅记录哪些应用拥有使用设备端生成式 AI 模型的权限，并非实际运行记录，且\"最近活动\"显示请求数为 0。相关功能在 Copilot+ PC 的 NPU 上运行，不会占用 CPU、GPU 或普通系统内存。",
+      "category": "tip",
+      "score": 50,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtc7noio01f6rodmpgeqbpne"
+        "canonical": "https://aihot.virxact.com/items/cmtfly2mt019yrovijojps4a9"
       },
       "sourceType": "网站",
       "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
+      "relevanceScore": 11,
+      "editorialScore": 14,
       "tags": [
-        "视频生成",
-        "视频"
+        "图像生成",
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -539,6 +482,35 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmtfmhq3401nmrovir9k9utzr",
+      "title": "GPT-5.6 Sol 电影级网页制作技巧拆解",
+      "title_en": "Damn， 21 分钟，这老哥把用 GPT-5.6 Sol 做电影级网页彻底讲透了！！！ 很多人让 AI 写网页，吐出来的全是一股塑料味的 Bootstrap 蓝白模板，总觉得是 AI 审美不行，其…",
+      "url": "https://x.com/AYi_AInotes/status/2093988094198321226",
+      "permalink": "https://aihot.virxact.com/items/cmtfmhq3401nmrovir9k9utzr",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-08-30T09:04:00.000Z",
+      "discoveredAt": "2026-08-30T09:44:26.415Z",
+      "summary": "一条视频拆解如何用 GPT-5.6 Sol 生成苹果发布会级前端质感的网页，核心技巧包括：先喂设计公理（Bento Grid 栅格、暗黑毛玻璃等）注入审美，按英雄区、交互动效、数据卡片分层生成模块以快速修 bug，以及用一句提示词让 Sol 自动补齐 CSS 平滑过渡和光影跟随效果。完整精要与核心 Prompt 已整理发布。",
+      "category": "tip",
+      "score": 49,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtfmhq3401nmrovir9k9utzr"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "设计",
+        "交互",
+        "视频",
+        "提示词"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "cmtekgvwj018jrou3a07xqzp3",
       "title": "Runway HORSE挑战赛开启，赢百万积分",
       "title_en": "2 hours left. Rules below. Let's see your best shot.",
@@ -649,30 +621,33 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtcrhjfm024kroq508u3zyg5",
-      "title": "OpenAI 与泰国高教部推出八周加速器，支持泰国 AI 初创企业",
-      "title_en": "Supporting Thailand's next generation of AI startups",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "permalink": "https://aihot.virxact.com/items/cmtcrhjfm024kroq508u3zyg5",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-08-28T02:00:00.000Z",
-      "discoveredAt": "2026-08-28T09:40:57.894Z",
-      "summary": "OpenAI 与泰国高等教育、科研与创新部（MHESI）在曼谷宣布启动 OpenAI x MHESI AI Accelerator，为期八周，首批遴选 10 家聚焦医疗、健康与教育的初创公司。每家团队将获得 2，000 美元 API 额度、一对一技术指导及 OpenAI 最新前沿模型访问权。这是 OpenAI 与泰国政府的首个公私合作项目，旨在帮助初创企业将原型推进至可部署产品。",
-      "category": "industry",
-      "score": 42,
+      "id": "cmtfeh4zr05kqrou8pacnuoza",
+      "title": "Hy4 预览版经 WorkBuddy 单次生成过山车视频",
+      "title_en": "One loose prompt. One pass. One roller coaster. Pretty fun to see Hy4 preview turn a rough idea into…",
+      "url": "https://x.com/WorkBuddy_AI/status/2093939223300849910",
+      "permalink": "https://aihot.virxact.com/items/cmtfeh4zr05kqrou8pacnuoza",
+      "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+      "publishedAt": "2026-08-30T05:49:49.000Z",
+      "discoveredAt": "2026-08-30T06:00:00.913Z",
+      "summary": "用户通过腾讯 WorkBuddy 试用 Hy4 预览版，仅凭一句模糊提示词（第一视角过山车、前排、要快）即一次生成逼真视频，陡降与倾斜弯道手感到位。Hy4 在代码与 3D 渲染能力上明显升级，未来两周可在 WorkBuddy 免费体验。",
+      "category": "ai-products",
+      "score": 35,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtcrhjfm024kroq508u3zyg5"
+        "canonical": "https://aihot.virxact.com/items/cmtfeh4zr05kqrou8pacnuoza"
       },
-      "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 6,
-      "editorialScore": 11,
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
       "tags": [
-        "原型"
+        "视频",
+        "3d",
+        "提示词",
+        "prompt"
       ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmteurmg204a7rovjqr99p7y9",
@@ -869,34 +844,6 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmtc9sdwa01nnroeeuvla6bvq",
-      "title": "Claude Code v2.1.250 发布",
-      "title_en": "v2.1.250",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.250",
-      "permalink": "https://aihot.virxact.com/items/cmtc9sdwa01nnroeeuvla6bvq",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "publishedAt": "2026-08-28T00:49:16.000Z",
-      "discoveredAt": "2026-08-28T01:25:30.814Z",
-      "summary": "Anthropic 发布 Claude Code v2.1.250。该智能体编码工具运行于终端，能理解代码库，通过自然语言命令执行日常任务、解释复杂代码并处理 git 工作流，帮助开发者更快编码。",
-      "category": "ai-products",
-      "score": 24,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtc9sdwa01nnroeeuvla6bvq"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "工作流",
-        "claude code",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
       "id": "cmtevu75604w7rovjepx8ni8q",
       "title": "OpenAI 重置 Codex 用量并修复计费漏洞",
       "title_en": "Anthropic： we are reducing your weekly rates by 17%. OpenAI： We are resetting usage for all paid C…",
@@ -953,34 +900,6 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmtd8flm801jpro66v8haftmk",
-      "title": "GLM-5.3 成本仅为 FABLE 5 八分之一",
-      "title_en": "💸$15.51 vs. $120.93. Same prompt. Same 3D game challenge. No manual code edits. GLM-5.3 completed t…",
-      "url": "https://x.com/SiliconFlowAI/status/2093384562856632516",
-      "permalink": "https://aihot.virxact.com/items/cmtd8flm801jpro66v8haftmk",
-      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-      "publishedAt": "2026-08-28T17:05:47.000Z",
-      "discoveredAt": "2026-08-28T17:35:19.675Z",
-      "summary": "💸$15.51 对比 $120.93。同一提示词。同一 3D 游戏挑战。无手动代码修改。GLM-5.3 以接近 FABLE 5 八分之一的成本完成了构建！观看并排对比--然后自行判断。👇 GLM-5.3 现已上线 SiliconFlow。",
-      "category": "ai-models",
-      "score": 50,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtd8flm801jpro66v8haftmk"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "3d",
-        "提示词",
-        "prompt"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
       "id": "cmtcxdp3f07l3roq5uk6om1aw",
       "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
       "title_en": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
@@ -1008,26 +927,54 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmtcav6vr02oxroeevea7nv9r",
-      "title": "Show HN：Experiential--开源智能体工作流网关与路由器",
-      "title_en": "Show HN： 我们开发了开源的 OpenRouter，它将使用情况转化为更完善的模型",
-      "url": "https://github.com/experientiallabs/experiential",
-      "permalink": "https://aihot.virxact.com/items/cmtcav6vr02oxroeevea7nv9r",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-28T01:41:19.996Z",
-      "discoveredAt": "2026-08-28T01:55:41.755Z",
-      "summary": "Experiential 是一个面向智能体工作流的开源网关与路由器，通过一个 OpenAI 兼容 API 统一托管、BYOK 和本地模型，并支持按用户、智能体、用例及预算控制模型访问。它可将生产流量转化为针对质量、速度和成本优化的自定义路由器或模型。项目支持本地部署（pip install experiential）及托管平台，并默认启用匿名聚合遥测。",
-      "category": "ai-products",
-      "score": 66,
+      "id": "cmtfp5vl903lurovibikl9a9t",
+      "title": "研究：Claude Code 和 Codex 等 AI 智能体没有时间感知能力",
+      "title_en": "AI agents have no sense of time and are not aware of it",
+      "url": "https://the-decoder.com/ai-agents-have-no-sense-of-time-and-are-not-aware-of-it",
+      "permalink": "https://aihot.virxact.com/items/cmtfp5vl903lurovibikl9a9t",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-08-30T10:41:36.000Z",
+      "discoveredAt": "2026-08-30T10:59:12.879Z",
+      "summary": "一项新研究发现，Anthropic 的 Claude Code 和 OpenAI 的 Codex 等编程智能体无法准确预测任务耗时，也无法可靠判断自己已工作了多久。",
+      "category": "tip",
+      "score": 57,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtcav6vr02oxroeevea7nv9r"
+        "canonical": "https://aihot.virxact.com/items/cmtfp5vl903lurovibikl9a9t"
       },
       "sourceType": "网站",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "codex",
+        "claude code",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmtfjsvuh0b1krou8fmfz8vqk",
+      "title": "特斯拉车机系统有望接入 Grok Bot，打造移动 AI 工作站",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/996/169.htm",
+      "permalink": "https://aihot.virxact.com/items/cmtfjsvuh0b1krou8fmfz8vqk",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-30T07:31:11.000Z",
+      "discoveredAt": "2026-08-30T08:29:08.379Z",
+      "summary": "特斯拉正筹备将 SpaceXAI 的自主智能体平台 Grok Bot 整合进车内系统，相关工程师已给出\"敬请期待\"的预告。Grok Bot 于本月初开启早期 Beta 测试，是运行在云端虚拟机上的始终在线 AI 智能体，可执行多步骤工作流程。若整合落地，司机可通过语音指令管理项目、获取业务数据或安排研究任务。",
+      "category": "industry",
+      "score": 28,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtfjsvuh0b1krou8fmfz8vqk"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
       "tags": [
         "工作流",
         "智能体"
