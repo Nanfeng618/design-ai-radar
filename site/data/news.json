@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-01T11:39:19.290Z",
-  "previousGeneratedAt": "2026-09-01T05:08:37.423Z",
+  "generatedAt": "2026-09-01T16:40:38.151Z",
+  "previousGeneratedAt": "2026-09-01T11:39:19.290Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 51,
+  "itemCount": 50,
   "sourceCounts": {
+    "网站": 21,
     "X": 24,
-    "网站": 22,
     "公众号": 5
   },
   "source": {
@@ -14,6 +14,35 @@
     "url": "https://aihot.virxact.com"
   },
   "items": [
+    {
+      "id": "cmtivv9ke06e9ro9yp1dzgaat",
+      "title": "Google 推出 AI 图像生成与编辑应用 Google Pics，集成 Workspace",
+      "title_en": "Google Pics is like Canva， but with even more AI",
+      "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+      "permalink": "https://aihot.virxact.com/items/cmtivv9ke06e9ro9yp1dzgaat",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-09-01T16:00:00.000Z",
+      "discoveredAt": "2026-09-01T16:30:14.788Z",
+      "summary": "Google 面向 Workspace 用户推出创意设计工具 Google Pics，基于 Gemini 和 Nano Banana 模型，支持点击图片中特定对象或文字后用提示词编辑，可从零生成图像、改写和翻译文字、放大到 2K 或 4K 分辨率，并快速裁剪为网页、社交媒体、印刷等格式。",
+      "category": "ai-products",
+      "score": 64,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtivv9ke06e9ro9yp1dzgaat"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 16,
+      "editorialScore": 21,
+      "tags": [
+        "canva",
+        "设计工具",
+        "图像生成",
+        "设计"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
     {
       "id": "cmti2ia4q08ivrofqxs1pps4k",
       "title": "阿里云将在 Qwen Conference 泰国站演示 Qwen-Image 3.0、Wan 3.0 与 WonderClip 视觉 AI 流水线",
@@ -44,64 +73,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtg1hv0e01jyroa7nxcazbpb",
-      "title": "开源 DESIGN.md 终结 AI 前端廉价模板感",
-      "title_en": "Damn，独立开发者写前端最大的痛点被彻底终结了！ 有人把全球 2，000+ 顶级产品（包括 Linear、Notion、ElevenLabs 甚至兰博基尼）的设计语言，全部提炼成了 Coding A…",
-      "url": "https://x.com/AYi_AInotes/status/2094103020841631880",
-      "permalink": "https://aihot.virxact.com/items/cmtg1hv0e01jyroa7nxcazbpb",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-08-30T16:40:41.000Z",
-      "discoveredAt": "2026-08-30T16:44:26.967Z",
-      "summary": "有人将 Linear、Notion、ElevenLabs 等全球 2，000+ 顶级产品的设计语言提炼为 Coding Agent 专用的 DESIGN.md 文件，完全免费开源。该库覆盖颜色变量、字体层级等底层令牌及组件级约束，零配置即插即用，让 Claude Code 或 Cursor 生成 UI 时自动读取并像素级对齐，解决反复调 CSS 仍带廉价模板感的问题。",
-      "category": "tip",
-      "score": 64,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtg1hv0e01jyroa7nxcazbpb"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 15,
-      "editorialScore": 19,
-      "tags": [
-        "ui",
-        "design",
-        "设计",
-        "claude code"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmthhmoi10e71rodmx6wngoz1",
-      "title": "Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面",
-      "title_en": "Introducing Solaris",
-      "url": "https://runwayml.com/news/research/introducing-solaris",
-      "permalink": "https://aihot.virxact.com/items/cmthhmoi10e71rodmx6wngoz1",
-      "source": "Runway：News（网页）",
-      "publishedAt": "2026-08-31T17:03:47.031Z",
-      "discoveredAt": "2026-08-31T17:03:47.031Z",
-      "summary": "Runway 推出 Solaris，这是其全新界面世界模型（Interface World Models）系列的首个模型。Solaris 能实时逐帧生成应用和网站界面，无需中间代码表示，直接以图像作为交互层，支持视觉化、动态响应和开放式交互。它还可用于训练智能体，使其适应不断变化的界面布局，而非局限于特定训练环境。",
-      "category": "ai-models",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmthhmoi10e71rodmx6wngoz1"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 14,
-      "editorialScore": 17,
-      "tags": [
-        "runway",
-        "视觉",
-        "界面",
-        "交互"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmth5pwow03n5rodm0s415jad",
       "title": "2496万次调用背后，他们用可灵做出了这些",
       "title_en": null,
@@ -127,6 +98,35 @@
         "视觉",
         "视频",
         "agent"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtitat55049dro9yyih9kp8s",
+      "title": "fal 发布 fal.live 实时交互 AI 直播平台，Ethan Mollick 评价其为重要技术尝试",
+      "title_en": "Worth a few minutes to play with for 3 reasons： 1） Big technical achievement， in terms of continuous…",
+      "url": "https://x.com/emollick/status/2094801560291213733",
+      "permalink": "https://aihot.virxact.com/items/cmtitat55049dro9yyih9kp8s",
+      "source": "X：Ethan Mollick (@emollick)",
+      "publishedAt": "2026-09-01T14:56:26.000Z",
+      "discoveredAt": "2026-09-01T15:18:18.402Z",
+      "summary": "fal 推出 https://fal.live，一个无限、交互式 AI 直播平台，用户选择频道并用提示词决定接下来的内容，实时生成画面，从观众变成导演。Ethan Mollick 转发并给出三点评价：连续视频生成与上下文是重大技术成就；目前明显有瑕疵但比预期少，且趋势向好；它展示了 AI 带来的一种新型群体验乐。",
+      "category": "ai-products",
+      "score": 64,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtitat55049dro9yyih9kp8s"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "视频生成",
+        "交互",
+        "视频",
+        "提示词"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -329,33 +329,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmtfly2mt019yrovijojps4a9",
-      "title": "网传微软 Win11 偷偷后台跑 AI？实为权限管理列表",
-      "title_en": "网传微软 Win11 偷偷后台跑 AI，页面实为权限管理列表",
-      "url": "https://www.ithome.com/0/996/194.htm",
-      "permalink": "https://aihot.virxact.com/items/cmtfly2mt019yrovijojps4a9",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-30T09:00:56.000Z",
-      "discoveredAt": "2026-08-30T09:29:09.048Z",
-      "summary": "网传 Windows 11 在后台偷偷运行 AI 并拖累性能的截图实为误读。该\"文本和图像生成\"页面仅记录哪些应用拥有使用设备端生成式 AI 模型的权限，并非实际运行记录，且\"最近活动\"显示请求数为 0。相关功能在 Copilot+ PC 的 NPU 上运行，不会占用 CPU、GPU 或普通系统内存。",
-      "category": "tip",
-      "score": 50,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtfly2mt019yrovijojps4a9"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "图像生成",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmthhhqjy0e4frodmwglqnkbu",
       "title": "Runway 发布首个界面世界模型 Solaris",
       "title_en": "Today， we're sharing new research on Solaris， our first Interface World Model. Solaris is a new kin…",
@@ -440,89 +413,31 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cmtg5nzoh03zaroj7z0zbcy65",
-      "title": "Grok Bot 模板分享指南",
-      "title_en": "How to share your Grok @Bot design with others",
-      "url": "https://x.com/elonmusk/status/2094129094673735922",
-      "permalink": "https://aihot.virxact.com/items/cmtg5nzoh03zaroj7z0zbcy65",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "publishedAt": "2026-08-30T18:24:17.000Z",
-      "discoveredAt": "2026-08-30T18:41:11.101Z",
-      "summary": "如何与他人分享你的 Grok @Bot 设计\n\n【引用 @mattyp】：Grok Bot 模板是首个广泛可用的知识工作分享方式。\n\n模板是技能、记忆和插件的集合--你也可以称之为\"蓝图\"或\"工作流\"。\n\n你可以教会一个机器人你的领域知识，然后以链接形式发送给别人。这将从根本上改变我们的协作方式。\n\n以下是你如何开始：",
+      "id": "cmtismwsk03vlro9yo7xec0p4",
+      "title": "Luma AI 推出 FLUX Video Upscale，可将视频上采样至 2K 和 4K",
+      "title_en": "Some faces deserve 4K. Even the six-eyed ones. FLUX Video Upscale brings video to 2K and 4K.",
+      "url": "https://x.com/LumaLabsAI/status/2094802207119909059",
+      "permalink": "https://aihot.virxact.com/items/cmtismwsk03vlro9yo7xec0p4",
+      "source": "X：Luma AI (@LumaLabsAI)",
+      "publishedAt": "2026-09-01T14:59:00.000Z",
+      "discoveredAt": "2026-09-01T14:59:44.838Z",
+      "summary": "Luma AI 官方宣布推出 FLUX Video Upscale，将视频分辨率提升至 2K 和 4K。推文配有一段演示视频，并称有些面孔值得 4K 分辨率，即使是六只眼睛的面孔。",
       "category": "ai-products",
-      "score": 47,
+      "score": 46,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtg5nzoh03zaroj7z0zbcy65"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "design",
-        "设计",
-        "工作流"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmtg1hv0e01jzroa7li8n64p2",
-      "title": "Codex 插件不到 1 元生成高清 AI 视频",
-      "title_en": "Codex不到1块钱就能生成高清AI视频的插件， 这是我免费能看的吗？！ 不愧是我的兄弟Codex之神Sac！",
-      "url": "https://x.com/AYi_AInotes/status/2094093204790325554",
-      "permalink": "https://aihot.virxact.com/items/cmtg1hv0e01jzroa7li8n64p2",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-08-30T16:01:41.000Z",
-      "discoveredAt": "2026-08-30T16:44:26.967Z",
-      "summary": "开发者 Saccc_c 发布了一款 Codex 插件，宣称生成高清 AI 视频成本不到 1 块钱。该插件通过 Codex 调用视频生成能力，大幅降低创作门槛，引发社区关注。目前具体模型与生成参数未披露，实际效果有待验证。",
-      "category": "tip",
-      "score": 19,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtg1hv0e01jzroa7li8n64p2"
+        "canonical": "https://aihot.virxact.com/items/cmtismwsk03vlro9yo7xec0p4"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
+      "relevanceScore": 9,
+      "editorialScore": 12,
       "tags": [
-        "视频生成",
-        "视频",
-        "codex"
+        "flux",
+        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtfmhq3401nmrovir9k9utzr",
-      "title": "GPT-5.6 Sol 电影级网页制作技巧拆解",
-      "title_en": "Damn， 21 分钟，这老哥把用 GPT-5.6 Sol 做电影级网页彻底讲透了！！！ 很多人让 AI 写网页，吐出来的全是一股塑料味的 Bootstrap 蓝白模板，总觉得是 AI 审美不行，其…",
-      "url": "https://x.com/AYi_AInotes/status/2093988094198321226",
-      "permalink": "https://aihot.virxact.com/items/cmtfmhq3401nmrovir9k9utzr",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-08-30T09:04:00.000Z",
-      "discoveredAt": "2026-08-30T09:44:26.415Z",
-      "summary": "一条视频拆解如何用 GPT-5.6 Sol 生成苹果发布会级前端质感的网页，核心技巧包括：先喂设计公理（Bento Grid 栅格、暗黑毛玻璃等）注入审美，按英雄区、交互动效、数据卡片分层生成模块以快速修 bug，以及用一句提示词让 Sol 自动补齐 CSS 平滑过渡和光影跟随效果。完整精要与核心 Prompt 已整理发布。",
-      "category": "tip",
-      "score": 49,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtfmhq3401nmrovir9k9utzr"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "设计",
-        "交互",
-        "视频",
-        "提示词"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmti8k0pj0d9lrofqhl43hxlu",
@@ -718,6 +633,86 @@
         "codex"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmtiv6srj05y7ro9ynvtt2sfp",
+      "title": "Elon Musk 称 Grok @Bot 在云端 24/7 常驻运行，笔记本关机也不受影响",
+      "title_en": "Grok @Bot runs on its own computer in the cloud 24/7， so it doesn't matter if you turn off your lapt…",
+      "url": "https://x.com/elonmusk/status/2094815195516350754",
+      "permalink": "https://aihot.virxact.com/items/cmtiv6srj05y7ro9ynvtt2sfp",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "publishedAt": "2026-09-01T15:50:37.000Z",
+      "discoveredAt": "2026-09-01T16:11:11.927Z",
+      "summary": "Elon Musk 表示 Grok @Bot 运行在云端自己的计算机上，全天候 24/7 常驻，因此用户关掉笔记本也不影响任务运行。他是在引用 Sriram Krishnan 的观点时做出回应，后者指出当前各家 Agent 面临代码在哪里运行的共同问题，例如是否需要访问本地文件系统、能否从手机发起任务、是否依赖 Mac mini 开机同步，并认为现有的 UX 隐喻仍需改进。",
+      "category": "tip",
+      "score": 45,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtiv6srj05y7ro9ynvtt2sfp"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "ux",
+        "agent"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmtiodf9e04pzrovqcv3n706m",
+      "title": "Runway 发布 Solaris：实时生成软件界面的 Interface World Model",
+      "title_en": "Runway's Solaris is an AI system that generates software interfaces in real time",
+      "url": "https://the-decoder.com/runways-solaris-is-an-ai-system-that-generates-software-interfaces-in-real-time",
+      "permalink": "https://aihot.virxact.com/items/cmtiodf9e04pzrovqcv3n706m",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-09-01T12:53:46.000Z",
+      "discoveredAt": "2026-09-01T13:00:20.702Z",
+      "summary": "Runway 发布 Solaris，称其为 Interface World Model 类别下的首个模型，不运行代码，而是以 720p 逐帧实时渲染界面，并响应点击、拖拽或语音指令。",
+      "category": "ai-products",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtiodf9e04pzrovqcv3n706m"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "runway",
+        "界面"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtilrbrz07w6ropb6ib4szrt",
+      "title": "MicroDuck 4 天订单超 10，500 台，或成史上最大消费机器人首发",
+      "title_en": "seems like it",
+      "url": "https://x.com/Thom_Wolf/status/2094740928019783788",
+      "permalink": "https://aihot.virxact.com/items/cmtilrbrz07w6ropb6ib4szrt",
+      "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+      "publishedAt": "2026-09-01T10:55:30.000Z",
+      "discoveredAt": "2026-09-01T11:47:13.899Z",
+      "summary": "引用内容称 MicroDuck 4 天内获得 10，500 台订单和 454 万美元销售额，可能是史上最大的新消费机器人首发。配图对比显示 MicroDuck 首日售出 4，635 台（净价 $399），高于 Aibo ERS-110 的 3，000 台、Anki Vector 的约 2，300 台、Reachy Mini 的 1，078 台和 Pepper 的 1，000 台；首周 10，520 台，超过 1X NEO 的 10，000 台。作者 Thomas Wolf 回应称 seems like it。",
+      "category": "tip",
+      "score": 32,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtilrbrz07w6ropb6ib4szrt"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "配图"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmtijin04066kropb6odvtmny",
@@ -1126,30 +1121,60 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtg0k8ow016qrosxnhqwxvi5",
-      "title": "Redwood：AI 两周自主设计验证部署芯片",
-      "title_en": "An AI system can now take a chip from a written spec to working hardware on its own， and this paper …",
-      "url": "https://x.com/rohanpaul_ai/status/2094091776483082655",
-      "permalink": "https://aihot.virxact.com/items/cmtg0k8ow016qrosxnhqwxvi5",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-08-30T15:56:00.000Z",
-      "discoveredAt": "2026-08-30T16:18:18.048Z",
-      "summary": "Redwood 芯片由 AI 系统从规格说明自主完成设计、测试、固件与内核，2 位人类架构师仅编写规格，规格变更后 48 小时内即可在真实硬件上运行。",
-      "category": "paper",
-      "score": 60,
+      "id": "cmtiv27rt05u7ro9ywxxx9pvw",
+      "title": "OpenRouter 提示：在基准浏览器中浏览图像模型并在 Agent 或 Chatroom 中快速编辑提示词",
+      "title_en": "Tip 💡 browse image models in our benchmark explorer and quickly edit the prompt in your agent， or i…",
+      "url": "https://x.com/OpenRouter/status/2094813339381621225",
+      "permalink": "https://aihot.virxact.com/items/cmtiv27rt05u7ro9ywxxx9pvw",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-09-01T15:43:14.000Z",
+      "discoveredAt": "2026-09-01T16:07:37.633Z",
+      "summary": "OpenRouter 官方分享一条使用技巧：可在其基准浏览器（benchmark explorer）中浏览图像模型，并在 Agent 或 Chatroom 中快速编辑提示词。",
+      "category": "tip",
+      "score": 25,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtg0k8ow016qrosxnhqwxvi5"
+        "canonical": "https://aihot.virxact.com/items/cmtiv27rt05u7ro9ywxxx9pvw"
       },
       "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
       "tags": [
-        "设计"
+        "图像",
+        "提示词",
+        "prompt",
+        "agent"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmtitpiz604m2ro9ym05ow29p",
+      "title": "可灵官方教程：如何用 Kling MCP 的 Elements 跨镜头保持角色一致性",
+      "title_en": "In this tutorial， learn how to use Elements in Kling MCP to maintain character identity across diffe…",
+      "url": "https://x.com/Kling_ai/status/2094802469771477218",
+      "permalink": "https://aihot.virxact.com/items/cmtitpiz604m2ro9ym05ow29p",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-09-01T15:00:02.000Z",
+      "discoveredAt": "2026-09-01T15:29:44.619Z",
+      "summary": "可灵（Kling AI）发布官方教程，讲解如何使用 Kling MCP 中的 Elements 功能在不同镜头之间保持角色身份一致，从而创作更具连贯性的 AI 生成故事。",
+      "category": "tip",
+      "score": 47,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtitpiz604m2ro9ym05ow29p"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "可灵",
+        "mcp"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmtijv2wc06niropb4l446rho",
@@ -1207,34 +1232,6 @@
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
-      "id": "cmtgp7ky705k8rochwx0itwwy",
-      "title": "Picsart 视频产品负责人分享 Wan3.0 提示词技巧",
-      "title_en": "Prompting Wan3.0 like a pro - from the Head of Video Product at @Picsart. Narek Hayrapetyan shares …",
-      "url": "https://x.com/alibaba_cloud/status/2094269265675423910",
-      "permalink": "https://aihot.virxact.com/items/cmtgp7ky705k8rochwx0itwwy",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "publishedAt": "2026-08-31T03:41:17.000Z",
-      "discoveredAt": "2026-08-31T03:48:18.190Z",
-      "summary": "像专家一样使用 Wan3.0 -- 来自 @Picsart 视频产品负责人。\n\nNarek Hayrapetyan 分享了他的团队实际使用的提示词手册：结构化提示词、分层音频、充分利用 Omni-Reference。还有他对该模型在真实工作流中定位的坦诚看法。\n\n完整对话 ↓",
-      "category": "tip",
-      "score": 44,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtgp7ky705k8rochwx0itwwy"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "工作流",
-        "视频",
-        "提示词"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
       "id": "cmth6r9fi04fvrodmgzauc6vx",
       "title": "OpenShot 4.0 发布：新增录制、调色与本地 AI 遮罩功能",
       "title_en": "OpenShot 4.0：前所未有的录制、编辑和调色体验",
@@ -1285,34 +1282,6 @@
       "tags": [
         "prompt",
         "agent"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmtfp5vl903lurovibikl9a9t",
-      "title": "研究：Claude Code 和 Codex 等 AI 智能体没有时间感知能力",
-      "title_en": "AI agents have no sense of time and are not aware of it",
-      "url": "https://the-decoder.com/ai-agents-have-no-sense-of-time-and-are-not-aware-of-it",
-      "permalink": "https://aihot.virxact.com/items/cmtfp5vl903lurovibikl9a9t",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-08-30T10:41:36.000Z",
-      "discoveredAt": "2026-08-30T10:59:12.879Z",
-      "summary": "一项新研究发现，Anthropic 的 Claude Code 和 OpenAI 的 Codex 等编程智能体无法准确预测任务耗时，也无法可靠判断自己已工作了多久。",
-      "category": "tip",
-      "score": 57,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtfp5vl903lurovibikl9a9t"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "codex",
-        "claude code",
-        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
