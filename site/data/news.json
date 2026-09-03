@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-03T04:33:33.687Z",
-  "previousGeneratedAt": "2026-09-02T16:34:52.538Z",
+  "generatedAt": "2026-09-03T11:14:41.070Z",
+  "previousGeneratedAt": "2026-09-03T04:33:33.687Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
   "itemCount": 47,
@@ -101,6 +101,34 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmtl3iceo0fhgroal3ru0ntih",
+      "title": "开源视频生成方法 Video Delta Net （VDN） 发布：混合注意力实现近无损实时文生视频",
+      "title_en": "非常厉害！ Video Delta Net （VDN）： hybrid attention for live text-to-video with near-lossless quality.",
+      "url": "https://x.com/dongxi_nlp/status/2095382936769991110",
+      "permalink": "https://aihot.virxact.com/items/cmtl3iceo0fhgroal3ru0ntih",
+      "source": "X：马东锡 NLP (@dongxi_nlp)",
+      "publishedAt": "2026-09-03T05:26:37.000Z",
+      "discoveredAt": "2026-09-03T05:39:39.792Z",
+      "summary": "Video Delta Net （VDN） 发布，采用混合注意力实现近无损质量的实时文本生成视频，称开源视频生成速度已超过播放速度。VDN 将 Minimax-H3 加速 75-90 倍，在 8× NVIDIA B200 GPU 上 11 秒生成 14 秒 768p 视频，并开源 checkpoint、训练/推理代码和技术博客。",
+      "category": "ai-models",
+      "score": 56,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtl3iceo0fhgroal3ru0ntih"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 18,
+      "editorialScore": 21,
+      "tags": [
+        "视频生成",
+        "文生视频",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmtkz8z7o0b8groal5lesws1t",
       "title": "Gabriel 谈 OpenAI 与 Cerebras 式极速模型将改变工作方式",
       "title_en": "openai cerebras will change how we work， or at least some model that's extremely fast will parallel…",
@@ -128,35 +156,6 @@
         "智能体"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmtj8q8zo09s4roh9reojcl1n",
-      "title": "World Labs 发布世界模型 Atlas：面向空间智能的多模态自回归扩散 Transformer",
-      "title_en": "Atlas：一个用于空间智能的世界模型",
-      "url": "https://www.worldlabs.ai/blog/atlas",
-      "permalink": "https://aihot.virxact.com/items/cmtj8q8zo09s4roh9reojcl1n",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-09-01T22:09:44.724Z",
-      "discoveredAt": "2026-09-01T22:30:14.955Z",
-      "summary": "World Labs 发布新一代世界模型 Atlas，从零预训练，原生处理文本、图像、视频和 3D，架构为多模态自回归扩散 Transformer，输入以 3D 姿态形成空间上下文。模型支持相机控制生成（最长 1 分钟 1440p 视频）、稀疏视图 3D 重建、时空仿真和图像生成，在相机控制生成与 3D 重建任务上优于更专用的模型；现已开放早期访问申请，未来将驱动 Marble 等产品。",
-      "category": "ai-models",
-      "score": 69,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtj8q8zo09s4roh9reojcl1n"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 18,
-      "editorialScore": 21,
-      "tags": [
-        "图像生成",
-        "视频",
-        "图像",
-        "3d"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmtkdyk5f0176robqsz7prz97",
@@ -217,6 +216,34 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmtle856e04rrrow5okt3y64u",
+      "title": "玉伯分享两例用户反馈：YouMind 靠一站式创作与一致性生成吸引用户迁移",
+      "title_en": "今天收到两例反馈，证实了 YouMind 的差异化特色： 特色一：All-in-One 的创作工作室，让不少用户感受到了便捷性。能用一个工具搞定的，比用多个工具方便很多。方便，是非常大的竞争力。 …",
+      "url": "https://x.com/lifesinger/status/2095455177390395641",
+      "permalink": "https://aihot.virxact.com/items/cmtle856e04rrrow5okt3y64u",
+      "source": "X：Frank Wang 玉伯 (@lifesinger)",
+      "publishedAt": "2026-09-03T10:13:40.000Z",
+      "discoveredAt": "2026-09-03T10:39:39.717Z",
+      "summary": "YouMind 负责人玉伯称收到两例用户反馈，印证产品差异化：一是 All-in-One 创作工作室带来便捷，用户认为单工具比多工具方便；二是生图、生 PPT、生视频功能持续解决人物、风格等一致性问题，让 Lovart、LibTV 用户愿意迁移到 YouMind。附图为一封用户来信，称赞无需切换标签页即可完成研究、写作和生成视觉素材。作者表示打磨过程辛苦，但看到用户反馈和付款感到开心。",
+      "category": "tip",
+      "score": 23,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtle856e04rrrow5okt3y64u"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 14,
+      "editorialScore": 17,
+      "tags": [
+        "生图",
+        "视觉",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmtl00atu0bylroal5g9486zz",
       "title": "赵昊与百度百舸团队对谈：世界模型如何走向规模化训练",
       "title_en": "Infra进化论：世界模型如何走向规模化？",
@@ -241,6 +268,62 @@
         "视频生成",
         "视频",
         "3d"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtl9xtve0n30roalrydjbk8l",
+      "title": "World Labs 发布从零训练的多模态世界模型 Atlas，李飞飞称其为相机条件世界模型新标杆",
+      "title_en": "Why is Spatial Intelligence considered the lifeline for Embodied AI？ Because the biggest Achilles' h…",
+      "url": "https://x.com/AYi_AInotes/status/2095430712073847088",
+      "permalink": "https://aihot.virxact.com/items/cmtl9xtve0n30roalrydjbk8l",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-09-03T08:36:27.000Z",
+      "discoveredAt": "2026-09-03T08:39:39.614Z",
+      "summary": "World Labs 宣布发布 Atlas，一个从零训练的多模态世界模型，李飞飞称其为同类中首个，并称之为有史以来最好的相机条件世界模型。Atlas 支持像素级精确的相机控制生成画面、从单张输入图像重建大场景、通过重切视频模拟时空、从一张或多张图像原生输出 3D 空间，以及将多张带位姿图像合成为一致的 3D 世界，应用场景覆盖 VFX 到机器人。",
+      "category": "ai-models",
+      "score": 65,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtl9xtve0n30roalrydjbk8l"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频",
+        "图像",
+        "3d"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtl9xtve0n31roalnu4cqhu7",
+      "title": "阿易评李飞飞团队 Atlas：几段手机视频生成可交互三维世界，降低机器人训练数据成本",
+      "title_en": "感觉训练机器人的团队今晚可以集体开香槟了， 以前为了让机械臂学会抓杯子，换个房间、改个光线就得花几十万重新搞实拍采集， Atlas 这一刀直接把数据成本砍到了脚脖子： 几段随手拍的录像，直接自动裂变成…",
+      "url": "https://x.com/AYi_AInotes/status/2095429574293361122",
+      "permalink": "https://aihot.virxact.com/items/cmtl9xtve0n31roalnu4cqhu7",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-09-03T08:31:56.000Z",
+      "discoveredAt": "2026-09-03T08:39:39.614Z",
+      "summary": "阿易转发并解读李飞飞团队的 Atlas，称它能把几段普通手机视频生成带物理引擎的三维交互世界，可自由调整运镜、光照材质，物体碰撞按真实物理法则展开。作者认为这等于为具身智能机器人提供了低成本、可无限扩充的虚拟训练场，把机器人换环境需重新实拍采集的数据成本大幅降低，并提出了家庭保洁和工厂流水线哪个先落地的问题。",
+      "category": "tip",
+      "score": 56,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtl9xtve0n31roalnu4cqhu7"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "交互",
+        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -551,31 +634,29 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmtj8nyx809lmroh93wqih3my",
-      "title": "OpenClaw Nodes 让智能体远程访问任意设备",
-      "title_en": "OpenClaw Nodes let your agent reach devices anywhere.",
-      "url": "https://x.com/openclaw/status/2094911616441876729",
-      "permalink": "https://aihot.virxact.com/items/cmtj8nyx809lmroh93wqih3my",
-      "source": "X：OpenClaw (@openclaw)",
-      "publishedAt": "2026-09-01T22:13:45.000Z",
-      "discoveredAt": "2026-09-01T22:28:28.305Z",
-      "summary": "OpenClaw 官方宣布 Nodes 功能，让用户的智能体可以连接并操作任意位置的设备。配图聊天演示显示，智能体通过 MacBook node 访问本地 Brother MFC-L2690DW 打印机，报告其状态为闲置、队列 0、黑色墨粉约 40%，并调用 imagegen skill 为用户生成适合打印的 \"I love you\" 图像。",
-      "category": "ai-products",
-      "score": 50,
+      "id": "cmtlf0ppe05n4row57epe9c9p",
+      "title": "机器人技术为何如此困难：一项系统性挑战清单",
+      "title_en": "机器人技术为何如此困难",
+      "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+      "permalink": "https://aihot.virxact.com/items/cmtlf0ppe05n4row57epe9c9p",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-03T10:41:16.699Z",
+      "discoveredAt": "2026-09-03T11:01:53.762Z",
+      "summary": "作者指出当前 AI 进展几乎全在知识工作领域，物理侧的通用机器人仍停留在测试设施和演示视频，且 demo 视频难以评估真实水平，可能只展示百次尝试中的一次成功。文章列出从手部灵巧性、视觉理解、规划反应、速度、力量、安全、续航散热、泛化边界情况到算力、规模化供应链和社会监管等十余项待克服的挑战，认为物理世界的 demo 与现实差距会比 LLM 基准与实际工作的差距更大。",
+      "category": "tip",
+      "score": 60,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtj8nyx809lmroh93wqih3my"
+        "canonical": "https://aihot.virxact.com/items/cmtlf0ppe05n4row57epe9c9p"
       },
-      "sourceType": "X",
+      "sourceType": "网站",
       "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
+      "relevanceScore": 9,
+      "editorialScore": 12,
       "tags": [
-        "配图",
-        "图像",
-        "agent",
-        "智能体"
+        "视觉",
+        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -743,6 +824,111 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmtlb1cra01fprow5g33b4du6",
+      "title": "KIM 称 OpenAI 帮助文档更新显示 GPT-Astra 临近发布，或即 GPT-6",
+      "title_en": "More evidence that GPT-Astra is super close An OpenAI help article updated just a few hours ago. Lo…",
+      "url": "https://x.com/kimmonismus/status/2095434176346431895",
+      "permalink": "https://aihot.virxact.com/items/cmtlb1cra01fprow5g33b4du6",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-09-03T08:50:13.000Z",
+      "discoveredAt": "2026-09-03T09:10:23.745Z",
+      "summary": "作者 Kim 称 OpenAI 几小时前更新了帮助文章，似乎已在为 GPT-Astra 发布做准备。其引用的内容提到 OpenAI 暴露了一个公开分支，包含明确标注为 gpt6 的新 JavaScript 和 Python computer-use 环境，进一步支持 GPT-Astra 就是 GPT-6 的猜测。配图为 OpenAI FAQ 页面，提及 Daybreak Blue 使用 GPT-5.6 Sol、Daybreak Red 使用 GPT-5.6 Cyber，并说明 Astra 对多数 Daybreak 客户不提供 reduced refusals，登录 Codex 时可用 Daybreak 开关。",
+      "category": "tip",
+      "score": 36,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtlb1cra01fprow5g33b4du6"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "配图",
+        "codex"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtl9l9mx0mmlroal958gqkcp",
+      "title": "小米澎湃 HyperOS 4 超级小爱升级跨设备协作，支持手机、电脑对话同步",
+      "title_en": "小米澎湃 HyperOS 4 超级小爱跨设备协作升级，支持手机、电脑对话同步",
+      "url": "https://www.ithome.com/0/997/970.htm",
+      "permalink": "https://aihot.virxact.com/items/cmtl9l9mx0mmlroal958gqkcp",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-03T07:39:29.000Z",
+      "discoveredAt": "2026-09-03T08:29:53.371Z",
+      "summary": "小米介绍澎湃 HyperOS 4 超级小爱跨设备协作升级，支持手机、电脑对话同步，换台设备还能接着聊，也可用手机一句话找到电脑文件、跨设备接续任务。海报显示 Windows 和 macOS 也可使用超级小爱 2.0，需电脑或平板下载最新版小米互联服务应用并登录同一小米账号，超级小爱需升级至 8.1 版本及以上并开启专家模式。",
+      "category": "ai-products",
+      "score": 34,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtl9l9mx0mmlroal958gqkcp"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "海报"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtl6q4790jsfroal7c9w8t6i",
+      "title": "YouMind 团队开始正式给 AI Agents 发薪",
+      "title_en": "YouMind 团队开始正式给 Agents 发薪 所有 Agents 的 tokens 费用直接报销 同时正式上岗的 Agents 已领取 6000 RMB 额外奖金 YouMind 其实不是 …",
+      "url": "https://x.com/lifesinger/status/2095406976872362377",
+      "permalink": "https://aihot.virxact.com/items/cmtl6q4790jsfroal7c9w8t6i",
+      "source": "X：Frank Wang 玉伯 (@lifesinger)",
+      "publishedAt": "2026-09-03T07:02:08.000Z",
+      "discoveredAt": "2026-09-03T07:09:39.689Z",
+      "summary": "YouMind 团队宣布开始正式给 Agents 发薪，所有 Agents 的 tokens 费用直接报销，同时正式上岗的 Agents 已领取 6000 RMB 额外奖金。作者称 YouMind 其实不是 20 多人的团队，而是很快要近 60 人了；配图为 YouMind AI 发薪执行方案，包含 AI 招聘岗位与发薪编制及一张 6000 元到账记录截图。",
+      "category": "tip",
+      "score": 33,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtl6q4790jsfroal7c9w8t6i"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "配图"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtl4kx3s0hp2roal7b74qmp5",
+      "title": "《财经》封面报道解读宇树低成本密码与王兴兴的个人化管理局",
+      "title_en": "「财经」杂志的这期封面报道挺精彩的，直接把王兴兴称作「宇树的王」，虽然这家公司已经作为人形机器人赛道的领跑者在A股上市了，但从内部管理来看，它还保留着相当早期的作风，基本都围绕着王兴兴一个人的想法行进…",
+      "url": "https://x.com/foxshuo/status/2095389564592623644",
+      "permalink": "https://aihot.virxact.com/items/cmtl4kx3s0hp2roal7b74qmp5",
+      "source": "X：阑夕 (@foxshuo)",
+      "publishedAt": "2026-09-03T05:52:57.000Z",
+      "discoveredAt": "2026-09-03T06:09:39.243Z",
+      "summary": "《财经》杂志封面报道把宇树称为「宇树的王」，指其上市后内部管理仍围绕王兴兴一人：超100元的报销都由他签字，供应商签保密协议、违者罚500万，员工举报泄密最高奖50万。报道还提到2025年春晚机器人竞价传言抬到1亿元、宇树四足和双足机器人毛利率分别保持50%和60%以上、期权只发给14名员工、171人自掏2.72亿按150元发行价认购新股，以及王兴兴认为好的设计而非大规模量产才是降本根本路径。",
+      "category": "tip",
+      "score": 69,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtl4kx3s0hp2roal7b74qmp5"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "cmtl10i8l0cxwroalbjbym3wx",
       "title": "Anthropic 升级 Claude Cowork 和 Claude Code，支持在后台操控用户 Mac",
       "title_en": "Anthropic 升级 Claude Code / Cowork，可后台操控用户 Mac",
@@ -878,33 +1064,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtjyev1x07asroiygzb6acj7",
-      "title": "阿里云推出一体化 AI 生产力平台 QwenWork",
-      "title_en": "QwenWork is now live - the all-in-one AI productivity platform built for global teams. It turns br…",
-      "url": "https://x.com/alibaba_cloud/status/2095091618793554321",
-      "permalink": "https://aihot.virxact.com/items/cmtjyev1x07asroiygzb6acj7",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "publishedAt": "2026-09-02T10:09:01.000Z",
-      "discoveredAt": "2026-09-02T10:29:13.134Z",
-      "summary": "阿里云宣布 QwenWork 正式上线，这是一款面向全球团队的一体化 AI 生产力平台。它可将简报转化为成品文档、幻灯片和网页，并在同一平台内生成图像、音频和视频，还支持分析数据报告和处理复杂电子表格，减少团队在多个 AI 工具之间的切换。入口：https://click.alibabacloud.com/m/20000003003/",
-      "category": "ai-products",
-      "score": 55,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtjyev1x07asroiygzb6acj7"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmtjjt7360180roe43ggo0t09",
       "title": "UU远程新版本上线：完整 TUI 渲染与多终端会话管理，强化远程 Vibe Coding 体验",
       "title_en": "UU远程史诗级升级，这就是如今远程Vibe Coding的第一神器。",
@@ -930,140 +1089,6 @@
         "vibe coding"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmtjhy5ze07gmrobv264tc3no",
-      "title": "WSJ：数据中心建设速度正成为 AI 竞赛新瓶颈",
-      "title_en": "WSJ published an interesting piece. The AI race is no longer limited by GPUs and power； how fast y…",
-      "url": "https://x.com/rohanpaul_ai/status/2094980595910889519",
-      "permalink": "https://aihot.virxact.com/items/cmtjhy5ze07gmrobv264tc3no",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-02T02:47:51.000Z",
-      "discoveredAt": "2026-09-02T02:48:18.699Z",
-      "summary": "WSJ 发布文章称，AI 竞争的瓶颈正从 GPU 和电力转向数据中心建筑的物理施工速度。文中提到，建筑商正借助 AI 文档检查、可预测混凝土、预制模块、钻孔机器人和可秒级安装的连接件，把工期缩短数周至数月；配图显示预制等工艺可分别节省数月和六个月工期。",
-      "category": "tip",
-      "score": 46,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtjhy5ze07gmrobv264tc3no"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "配图"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtjbdpl00277robv24hjd0x1",
-      "title": "HumanLayer 推出 /show-me 技能，让 agent 写的 PR 更容易被审查",
-      "title_en": "With the /show-me skill in @humanlayer_dev， we're making agent-authored PRs as easy to review as pos…",
-      "url": "https://x.com/dexhorthy/status/2094923474426900687",
-      "permalink": "https://aihot.virxact.com/items/cmtjbdpl00277robv24hjd0x1",
-      "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
-      "publishedAt": "2026-09-01T23:00:52.000Z",
-      "discoveredAt": "2026-09-01T23:44:26.622Z",
-      "summary": "Dex Horthy 介绍 HumanLayer 中的 /show-me 技能，目标是让 agent 撰写的 PR 尽可能容易被审查。其引用 @notgiorgi 指出 agent 虽然 know what acquire-use-release 是什么，但会按仓库现有方式实现，配图伪代码展示了一段 runQuery 资源清理逻辑改动前后可能掩盖的错误捕获差异。",
-      "category": "tip",
-      "score": 37,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtjbdpl00277robv24hjd0x1"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "配图",
-        "agent",
-        "skill"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtkgyqcx026rro8x65mlnfso",
-      "title": "KIM 盼 Astra 发布，称 Fable 5.1 配额耗尽无法完成工作",
-      "title_en": "I dont want to start the debate over again but boy do I hope they release Astra tomorrow. Im not abl…",
-      "url": "https://x.com/kimmonismus/status/2095227269148987555",
-      "permalink": "https://aihot.virxact.com/items/cmtkgyqcx026rro8x65mlnfso",
-      "source": "X：Kim (@kimmonismus)",
-      "publishedAt": "2026-09-02T19:08:03.000Z",
-      "discoveredAt": "2026-09-02T19:08:23.876Z",
-      "summary": "作者 KIM 表示不想重新挑起争论，但非常希望明天就发布 Astra，并称自己用 Fable 5.1 已无法完成任何工作。配图显示 5-hour limit 已用满 100%，Weekly · all models 已用 53%，Weekly · Fable 已用满 100%，前者将在 4 小时 13 分后重置，周配额于周五下午 5：00 重置。",
-      "category": "tip",
-      "score": 15,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtkgyqcx026rro8x65mlnfso"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "配图"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtkaj1hp025qromp2r167h40",
-      "title": "实测可减少 Claude Fable 5.1 \"claudese\" 文风的提示词",
-      "title_en": "I tested this prompt. It actually works. It should help reduce \"claudese\" from Fable 5.1. https：…",
-      "url": "https://x.com/omarsar0/status/2095181235588874635",
-      "permalink": "https://aihot.virxact.com/items/cmtkaj1hp025qromp2r167h40",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "publishedAt": "2026-09-02T16:05:07.000Z",
-      "discoveredAt": "2026-09-02T16:08:23.286Z",
-      "summary": "Elvis Saravia 分享一条经他实测有效的提示词，用于减少 Claude Fable 5.1 的 \"claudese\" 文风。提示词来自 Claude 官方文档的 writing density 部分，通过定义 mannered prose 反模式来让文风更直接，官方也给出了简短版本 \"Please remove all mannered prose.\"，建议加入用户消息或系统提示词。原文链接：https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-1#writing-density",
-      "category": "tip",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtkaj1hp025qromp2r167h40"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "提示词",
-        "prompt"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmtkai3id025drompdlvy7284",
-      "title": "Replit 推出 Free Mode，展示可免费构建的游戏、电商与应用案例",
-      "title_en": "What used to be impossible is now actually very possible. That's the power of Free Mode.",
-      "url": "https://x.com/Replit/status/2095180744272248978",
-      "permalink": "https://aihot.virxact.com/items/cmtkai3id025drompdlvy7284",
-      "source": "X：Replit (@Replit)",
-      "publishedAt": "2026-09-02T16:03:10.000Z",
-      "discoveredAt": "2026-09-02T16:07:37.701Z",
-      "summary": "Replit 宣布 Free Mode，称过去不可能做到的事现在变得可行。配图展示了在 Free Mode 下构建的多个项目示例，包括 Rigid 浏览器游戏、Morph apparel 电商商店、Bloomy 移动应用和 Monolith logo 设计，并引用用户 Andrew B. 的评价称免费模式下构建了大量网站和应用。",
-      "category": "ai-products",
-      "score": 11,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtkai3id025drompdlvy7284"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "配图",
-        "设计"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmtk88ynu01rorovglwv5d75j",
@@ -1092,33 +1117,6 @@
         "mcp"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtjavi880bgoroh964uyxers",
-      "title": "分析：Google 积极接触好莱坞片厂洽谈 AI 版权授权，但片厂风险更高",
-      "title_en": "Google needs Hollywood more than the studios need AI",
-      "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
-      "permalink": "https://aihot.virxact.com/items/cmtjavi880bgoroh964uyxers",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-09-01T22:50:29.000Z",
-      "discoveredAt": "2026-09-01T23:30:20.335Z",
-      "summary": "据 The Los Angeles Times 报道，Google 正接触多家好莱坞大型片厂，希望以巨额费用换取用版权内容训练 AI 模型，单个版权角色的生成权报价可达约 $40 million，总额可能达数十亿美元，还可能附广告收入分成。",
-      "category": "tip",
-      "score": 61,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtjavi880bgoroh964uyxers"
-      },
-      "sourceType": "网站",
-      "designCategory": "行业观察",
-      "relevanceScore": 9,
-      "editorialScore": 9,
-      "tags": [
-        "广告",
-        "版权"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "cmtkqamim023hroal3ieb6bdz",
