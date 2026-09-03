@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-02T16:34:52.538Z",
-  "previousGeneratedAt": "2026-09-02T11:18:42.284Z",
+  "generatedAt": "2026-09-03T04:33:33.687Z",
+  "previousGeneratedAt": "2026-09-02T16:34:52.538Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 51,
+  "itemCount": 47,
   "sourceCounts": {
-    "网站": 23,
     "X": 24,
+    "网站": 19,
     "公众号": 4
   },
   "source": {
@@ -15,33 +15,33 @@
   },
   "items": [
     {
-      "id": "cmtiyodib01zuroelumvkcmcj",
-      "title": "Google Antigravity 系列教程 Part 2：用 generate_image 工具自动化图像生成",
-      "title_en": "Elevating Antigravity agent skills， Part 2： Image generation",
-      "url": "https://dev.to/googleai/elevating-antigravity-agent-skills-part-2-image-generation-2jno",
-      "permalink": "https://aihot.virxact.com/items/cmtiyodib01zuroelumvkcmcj",
-      "source": "Google AI：DEV 作者专属（RSS）",
-      "publishedAt": "2026-09-01T16:51:26.000Z",
-      "discoveredAt": "2026-09-01T17:48:52.856Z",
-      "summary": "这篇是 Google 团队 Elevating Antigravity Agent Skills 五部曲的第二部分，讲解如何在 agent skill 中使用 generate_image 工具，把结构化提示词合成与原生图像生成结合，让 agent 产出符合开发者规范的图像。",
-      "category": "tip",
-      "score": 51,
+      "id": "cmtkjrt0f03nkrollzfp36qzk",
+      "title": "Artificial Analysis 更新 Image Editing Arena 榜单，MAI-Image-2.6-Preview 居首",
+      "title_en": "We have updated the Artificial Analysis Image Editing Arena to expand the range of editing tasks we …",
+      "url": "https://x.com/ArtificialAnlys/status/2095245450899239072",
+      "permalink": "https://aihot.virxact.com/items/cmtkjrt0f03nkrollzfp36qzk",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "publishedAt": "2026-09-02T20:20:17.000Z",
+      "discoveredAt": "2026-09-02T20:27:09.085Z",
+      "summary": "Artificial Analysis 更新其 Image Editing Arena，新增 Identity-Preserving Edits、UI/UX Design 等编辑任务测试范围，按 7 类编辑动作和 10 个真实用例基于人类偏好排名，新榜单已上线并开放投票。",
+      "category": "ai-products",
+      "score": 52,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtiyodib01zuroelumvkcmcj"
+        "canonical": "https://aihot.virxact.com/items/cmtkjrt0f03nkrollzfp36qzk"
       },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 24,
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 23,
       "editorialScore": 27,
       "tags": [
-        "图像生成",
-        "image generation",
-        "生图",
-        "图像"
+        "ui/ux",
+        "ui",
+        "ux",
+        "design"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmtk95chs02bnrovg34g4k5jc",
@@ -73,6 +73,63 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
+      "id": "cmtkyrxw90agproal1t6qj5mg",
+      "title": "Wan 3.0 登顶 Artificial Analysis 视频编辑榜单，文生视频带音频位列第二",
+      "title_en": "Wan 3.0 debuts at #1 on the Artificial Analysis Video Editing Leaderboard， and is a close #2 in Text…",
+      "url": "https://x.com/ArtificialAnlys/status/2095349174799888760",
+      "permalink": "https://aihot.virxact.com/items/cmtkyrxw90agproal1t6qj5mg",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "publishedAt": "2026-09-03T03:12:27.000Z",
+      "discoveredAt": "2026-09-03T03:27:09.527Z",
+      "summary": "Artificial Analysis 评测显示，阿里巴巴 Wan 3.0 在视频编辑带音频榜单首次登顶第一，文生视频带音频位列第二，图生视频带音频排名第五。该模型为一体化视频生成与编辑模型，支持最长 30 秒 1080p 原生音频输出，可接受文本、图片、视频、音频、文档和网页作为创作参考，并支持指令式编辑画面、剧情、对话和声音。",
+      "category": "tip",
+      "score": 69,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtkyrxw90agproal1t6qj5mg"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 19,
+      "editorialScore": 22,
+      "tags": [
+        "视频生成",
+        "文生视频",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtkz8z7o0b8groal5lesws1t",
+      "title": "Gabriel 谈 OpenAI 与 Cerebras 式极速模型将改变工作方式",
+      "title_en": "openai cerebras will change how we work， or at least some model that's extremely fast will parallel…",
+      "url": "https://x.com/gabriel1/status/2095355322970038533",
+      "permalink": "https://aihot.virxact.com/items/cmtkz8z7o0b8groal5lesws1t",
+      "source": "X：Gabriel (@gabriel1)",
+      "publishedAt": "2026-09-03T03:36:53.000Z",
+      "discoveredAt": "2026-09-03T03:40:23.829Z",
+      "summary": "Gabriel 发文称 OpenAI、Cerebras 或某种极快的模型将改变人们的工作方式。他认为与智能体并行工作目前痛点很多，一旦用户体验到高质量的同步工作就会愿意付钱，届时人与计算机的所有交互都将通过文本界面完成。",
+      "category": "tip",
+      "score": 27,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtkz8z7o0b8groal5lesws1t"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 17,
+      "editorialScore": 21,
+      "tags": [
+        "用户体验",
+        "界面",
+        "交互",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "cmtj8q8zo09s4roh9reojcl1n",
       "title": "World Labs 发布世界模型 Atlas：面向空间智能的多模态自回归扩散 Transformer",
       "title_en": "Atlas：一个用于空间智能的世界模型",
@@ -102,33 +159,33 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtivv9ke06e9ro9yp1dzgaat",
-      "title": "Google 推出 AI 图像生成与编辑应用 Google Pics，集成 Workspace",
-      "title_en": "Google Pics is like Canva， but with even more AI",
-      "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
-      "permalink": "https://aihot.virxact.com/items/cmtivv9ke06e9ro9yp1dzgaat",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-09-01T16:00:00.000Z",
-      "discoveredAt": "2026-09-01T16:30:14.788Z",
-      "summary": "Google 面向 Workspace 用户推出创意设计工具 Google Pics，基于 Gemini 和 Nano Banana 模型，支持点击图片中特定对象或文字后用提示词编辑，可从零生成图像、改写和翻译文字、放大到 2K 或 4K 分辨率，并快速裁剪为网页、社交媒体、印刷等格式。",
-      "category": "ai-products",
-      "score": 64,
+      "id": "cmtkdyk5f0176robqsz7prz97",
+      "title": "李飞飞 World Labs 发布多模态世界模型 Atlas",
+      "title_en": "holy shit😭 李飞飞这个 Atlas 多模态世界模型简直是在对所有 2D 文生视频降维打击！ 不仅是生成画面，是直接在像素级生成一个可交互的 3D 真实物理世界， 三维建模和游戏行业今…",
+      "url": "https://x.com/AYi_AInotes/status/2095204264729817235",
+      "permalink": "https://aihot.virxact.com/items/cmtkdyk5f0176robqsz7prz97",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-09-02T17:36:38.000Z",
+      "discoveredAt": "2026-09-02T17:44:26.240Z",
+      "summary": "World Labs 发布多模态世界模型 Atlas，官方称其可生成具有像素级精确相机控制的图像和视频帧，并在 3D 中重建。作者评价其可生成可交互的 3D 世界，认为对 2D 文生视频和三维建模、游戏行业有冲击。",
+      "category": "ai-models",
+      "score": 55,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtivv9ke06e9ro9yp1dzgaat"
+        "canonical": "https://aihot.virxact.com/items/cmtkdyk5f0176robqsz7prz97"
       },
-      "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 16,
-      "editorialScore": 21,
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 17,
+      "editorialScore": 20,
       "tags": [
-        "canva",
-        "设计工具",
-        "图像生成",
-        "设计"
+        "文生视频",
+        "交互",
+        "视频",
+        "图像"
       ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmtjyffeh07egroiym8ij19fh",
@@ -160,87 +217,86 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtiz3056045uroel36auhtis",
-      "title": "Google 推出提示词驱动的图像创作工具 Google Pics，将集成进 Workspace",
-      "title_en": "Google's answer to Canva is an AI tool where you prompt instead of design",
-      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design",
-      "permalink": "https://aihot.virxact.com/items/cmtiz3056045uroel36auhtis",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-09-01T17:35:37.000Z",
-      "discoveredAt": "2026-09-01T18:00:14.803Z",
-      "summary": "Google 发布图像创作与编辑工具 Google Pics，由 Nano Banana 图像生成模型驱动，将在未来几周内面向大多数 Workspace 客户及 Google AI Pro 或 Ultra 订阅用户推出。",
-      "category": "ai-products",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtiz3056045uroel36auhtis"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "canva",
-        "图像生成",
-        "design",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtitat55049dro9yyih9kp8s",
-      "title": "fal 发布 fal.live 实时交互 AI 直播平台，Ethan Mollick 评价其为重要技术尝试",
-      "title_en": "Worth a few minutes to play with for 3 reasons： 1） Big technical achievement， in terms of continuous…",
-      "url": "https://x.com/emollick/status/2094801560291213733",
-      "permalink": "https://aihot.virxact.com/items/cmtitat55049dro9yyih9kp8s",
-      "source": "X：Ethan Mollick (@emollick)",
-      "publishedAt": "2026-09-01T14:56:26.000Z",
-      "discoveredAt": "2026-09-01T15:18:18.402Z",
-      "summary": "fal 推出 https://fal.live，一个无限、交互式 AI 直播平台，用户选择频道并用提示词决定接下来的内容，实时生成画面，从观众变成导演。Ethan Mollick 转发并给出三点评价：连续视频生成与上下文是重大技术成就；目前明显有瑕疵但比预期少，且趋势向好；它展示了 AI 带来的一种新型群体验乐。",
-      "category": "ai-products",
-      "score": 64,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtitat55049dro9yyih9kp8s"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "视频生成",
-        "交互",
-        "视频",
-        "提示词"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtjkijp302dmrori4hmwwqu6",
-      "title": "告别视频抽卡：用深度视频过滤参考视频无用信息的实操技巧",
-      "title_en": "为了告别视频抽卡，我决定公开我过滤参考视频里无用信息的新技巧",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510308&idx=1&sn=346558a075eeb80efc7a1644172d5fbf",
-      "permalink": "https://aihot.virxact.com/items/cmtjkijp302dmrori4hmwwqu6",
-      "source": "公众号：卡尔的AI沃茨",
-      "publishedAt": "2026-09-01T13:16:17.000Z",
-      "discoveredAt": "2026-09-02T04:00:10.806Z",
-      "summary": "作者分享一个 AI 视频技巧：先把参考视频转成深度视频，再用深度视频驱动视频生成，可保留动作、运镜、人物站位和空间关系，同时减少原片人脸、服装、背景和画风的干扰。",
+      "id": "cmtl00atu0bylroal5g9486zz",
+      "title": "赵昊与百度百舸团队对谈：世界模型如何走向规模化训练",
+      "title_en": "Infra进化论：世界模型如何走向规模化？",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA5NTQ5MzE5OQ%3D%3D&mid=2653159969&idx=2&sn=30a906a05a4fc100263038d1ffa4f687",
+      "permalink": "https://aihot.virxact.com/items/cmtl00atu0bylroal5g9486zz",
+      "source": "公众号：百度智能云（文心）",
+      "publishedAt": "2026-09-02T15:52:36.000Z",
+      "discoveredAt": "2026-09-03T04:01:40.413Z",
+      "summary": "百度智能云具身智能前沿讲堂上，清华大学AIR助理教授赵昊与百度智能云AI计算首席科学家王雁鹏等对谈世界模型规模化问题。赵昊提出以3D/4D Token为核心的世界模型路线，认为世界模型不等于视频生成，需表达空间结构、光学属性和速度、加速度等动态信息；其OmniNWM通过动作编码与相机参数解耦，实现200帧稳定生成，并与精锋医疗、极智嘉分别合作手术预演和仓库机器人场景。",
       "category": "tip",
-      "score": 66,
+      "score": 35,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtjkijp302dmrori4hmwwqu6"
+        "canonical": "https://aihot.virxact.com/items/cmtl00atu0bylroal5g9486zz"
       },
       "sourceType": "公众号",
       "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
+      "relevanceScore": 14,
+      "editorialScore": 17,
+      "tags": [
+        "视频生成",
+        "视频",
+        "3d"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtkhmnzv01jnrollgd5016u0",
+      "title": "FastH3 支持 NVIDIA DGX Spark 与 Apple Silicon，本地视频生成提速 8x",
+      "title_en": "Fast H3 on a local device！ Good news for the localhost community： open， fast， high quality video gen…",
+      "url": "https://x.com/MiniMax_AI/status/2095229744463954064",
+      "permalink": "https://aihot.virxact.com/items/cmtkhmnzv01jnrollgd5016u0",
+      "source": "X：MiniMax (@MiniMax_AI)",
+      "publishedAt": "2026-09-02T19:17:53.000Z",
+      "discoveredAt": "2026-09-02T19:27:09.993Z",
+      "summary": "FastVideo 发布的 FastH3 现已支持 NVIDIA DGX Spark，并通过 MLX 支持 Apple Silicon，较 MiniMax H3 基础版本地生成提速 8x。文中展示了一段 15 秒 1344×768 的视频，由两台 NVIDIA DGX Spark 完全本地生成。",
+      "category": "ai-products",
+      "score": 58,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtkhmnzv01jnrollgd5016u0"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
       "tags": [
         "视频生成",
         "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtkhmnzv01jorollqcr8mlm3",
+      "title": "MiniMax H3 据提示词将角色参考图生成 15 秒创作过程视频",
+      "title_en": "Have you ever felt scared by how powerful your model is？ This really makes me wonder： are we livin…",
+      "url": "https://x.com/MiniMax_AI/status/2095228354211594543",
+      "permalink": "https://aihot.virxact.com/items/cmtkhmnzv01jorollqcr8mlm3",
+      "source": "X：MiniMax (@MiniMax_AI)",
+      "publishedAt": "2026-09-02T19:12:21.000Z",
+      "discoveredAt": "2026-09-02T19:27:09.993Z",
+      "summary": "MiniMax 官方转发用户 @aimikoda 的演示：用一段提示词可把角色参考图变成 15 秒创作过程视频，从草图到最终渲染在绘图 UI 中逐步完成，提示词已附在原文。MiniMax 官方感叹模型能力强大，并调侃世界可能只是一个视频生成模型的模拟。",
+      "category": "ai-products",
+      "score": 31,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtkhmnzv01jorollqcr8mlm3"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "ui",
+        "视频",
+        "提示词"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -386,89 +442,59 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtj1hp7f034iroh98xvjl28p",
-      "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
-      "title_en": "Fable 5.1 is our best model yet for coding， data analysis， computer use， design， presentations， Tag，…",
-      "url": "https://x.com/bcherny/status/2094864060609376748",
-      "permalink": "https://aihot.virxact.com/items/cmtj1hp7f034iroh98xvjl28p",
-      "source": "X：Boris Cherny (@bcherny)",
-      "publishedAt": "2026-09-01T19:04:47.000Z",
-      "discoveredAt": "2026-09-01T19:07:37.688Z",
-      "summary": "Anthropic 发布 Claude Fable 5.1 和 Claude Mythos 5.1，称其为最先进的编码与知识工作模型。Boris Cherny 表示 Fable 5.1 是其迄今最强的模型，涵盖编码、数据分析、computer use、设计、演示文稿、Tag 以及最难的长时间智能体工作，并称自己一直在各方面使用它。",
-      "category": "ai-models",
-      "score": 61,
+      "id": "cmtkrqw6b03kgroalpww4m7vm",
+      "title": "arXiv 论文提出运行时无关的持久智能体架构，可跨模型、harness 和主机迁移",
+      "title_en": "What a super interesting paper this one is. They propose an architecture for agents that outlive th…",
+      "url": "https://x.com/omarsar0/status/2095300793561931948",
+      "permalink": "https://aihot.virxact.com/items/cmtkrqw6b03kgroalpww4m7vm",
+      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+      "publishedAt": "2026-09-03T00:00:12.000Z",
+      "discoveredAt": "2026-09-03T00:10:23.022Z",
+      "summary": "一篇 arXiv 论文（https://arxiv.org/abs/2609.00546）提出一种运行时无关的持久智能体架构，把智能体拆为持久的身份、私有记忆和带版本历史的代码，以及可替换的模型、harness、宿主服务器和交互界面。",
+      "category": "paper",
+      "score": 45,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtj1hp7f034iroh98xvjl28p"
+        "canonical": "https://aihot.virxact.com/items/cmtkrqw6b03kgroalpww4m7vm"
       },
       "sourceType": "X",
       "designCategory": "产品与体验",
-      "relevanceScore": 10,
-      "editorialScore": 14,
+      "relevanceScore": 9,
+      "editorialScore": 13,
       "tags": [
-        "design",
-        "设计",
+        "界面",
+        "交互",
         "智能体"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmtixlal307plro9ycpqdp1n5",
-      "title": "Visko 发布 Orbis 1.0 实时可引导视频生成模型",
-      "title_en": "A new kind of video generator model just dropped. Orbis 1.0 from Visko， a real-time， steerable vide…",
-      "url": "https://x.com/rohanpaul_ai/status/2094834163438526629",
-      "permalink": "https://aihot.virxact.com/items/cmtixlal307plro9ycpqdp1n5",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-01T17:05:59.000Z",
-      "discoveredAt": "2026-09-01T17:18:18.132Z",
-      "summary": "Visko 发布首个 Live Model「Orbis 1.0」，一个实时、可引导的视频生成模型，可实时流式生成持续进行的世界，具备持久记忆、交互性和基于物理的无限长度生成。",
-      "category": "ai-models",
-      "score": 57,
+      "id": "cmtkirwu402vlrollcrdoyzg4",
+      "title": "Grok Imagine 推出 Draw 功能，涂鸦几秒内生成图像",
+      "title_en": "Your kids are going to love Grok Imagine's new Draw feature！ Select \"Draw\" from the menu， sketch a…",
+      "url": "https://x.com/cb_doge/status/2095233525939368356",
+      "permalink": "https://aihot.virxact.com/items/cmtkirwu402vlrollcrdoyzg4",
+      "source": "X：cb_doge (@cb_doge)",
+      "publishedAt": "2026-09-02T19:32:54.000Z",
+      "discoveredAt": "2026-09-02T19:59:13.750Z",
+      "summary": "Grok Imagine 新增 Draw 功能，用户在菜单中选择 Draw 后画出任意内容，Grok 可在几秒内将其生成图像。作者称该功能适合儿童使用，并形容创造力因此成为超能力。",
+      "category": "ai-products",
+      "score": 42,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtixlal307plro9ycpqdp1n5"
+        "canonical": "https://aihot.virxact.com/items/cmtkirwu402vlrollcrdoyzg4"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
+      "designCategory": "设计工具",
+      "relevanceScore": 8,
+      "editorialScore": 13,
       "tags": [
-        "视频生成",
-        "交互",
-        "视频"
+        "sketch",
+        "图像"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtiwij9e06x2ro9yyl0rgc9u",
-      "title": "小北解读 Vercel 用 design.md 让 Agent 生成品牌风格网页的方法",
-      "title_en": "Vercel 发了一篇挺有意思的文章。 他们一直在尝试让 Agent 帮忙做网页。 一开始遇到的问题其实很典型： 同样一句\"按照 Vercel 的设计风格做\"，不同模型做出来的东西完全不一样。 …",
-      "url": "https://x.com/frxiaobei/status/2094827533871251474",
-      "permalink": "https://aihot.virxact.com/items/cmtiwij9e06x2ro9yyl0rgc9u",
-      "source": "X：小北 (@frxiaobei)",
-      "publishedAt": "2026-09-01T16:39:38.000Z",
-      "discoveredAt": "2026-09-01T16:48:18.218Z",
-      "summary": "小北转述 Vercel 博客：其 Agent 通过 vercel.com/design.md 生成符合品牌风格的页面。",
-      "category": "tip",
-      "score": 70,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtiwij9e06x2ro9yyl0rgc9u"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 10,
-      "editorialScore": 14,
-      "tags": [
-        "design",
-        "设计",
-        "品牌",
-        "agent"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "cmtkai3i7025crompurprs91g",
@@ -554,142 +580,56 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtj1vfc203csroh9u3xc5bg0",
-      "title": "World Labs 发布多模态世界模型 Atlas，支持像素级相机控制与 3D 重建",
-      "title_en": "Omni models are the next frontier. Simply put it， this is the most exciting release I've seen this …",
-      "url": "https://x.com/omarsar0/status/2094861594782040077",
-      "permalink": "https://aihot.virxact.com/items/cmtj1vfc203csroh9u3xc5bg0",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "publishedAt": "2026-09-01T18:54:59.000Z",
-      "discoveredAt": "2026-09-01T19:18:18.169Z",
-      "summary": "World Labs 发布 Atlas，称其为首个多模态世界模型，能以像素级相机控制生成图像和视频帧，并重建为 3D。作者 Elvis Saravia 转发并评价 omni 类世界模型是下一个前沿方向，认为其领先到目前还没有可衡量其通用能力的基准，且扩展性似乎也已打开。",
+      "id": "cmtkwt6hg08r0roal6vcv3wj4",
+      "title": "Qwen 发布 Qwen-Drive-1.0：面向自动驾驶的视觉语言基础模型",
+      "title_en": "Qwen-Drive-1.0： An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving",
+      "url": "https://qwen.ai/blog?id=qwen-drive-1.0",
+      "permalink": "https://aihot.virxact.com/items/cmtkwt6hg08r0roal6vcv3wj4",
+      "source": "Qwen：Blog Retrieval（API）",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "discoveredAt": "2026-09-03T02:32:07.775Z",
+      "summary": "Qwen 团队发布 Qwen-Drive-1.0，称其为首个在预训练阶段统一 3D 感知与视觉问答、并延伸到运动规划的自动驾驶视觉语言基础模型，基于原生多模态 Qwen3.5-4B 且不改动预训练架构。",
       "category": "ai-models",
-      "score": 55,
+      "score": 45,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtj1vfc203csroh9u3xc5bg0"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
-      "tags": [
-        "视频",
-        "图像",
-        "3d"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtiy6zvl01karoelywqs1u9l",
-      "title": "World Labs 发布多模态世界模型 Atlas",
-      "title_en": "I'm so excited that our @theworldlabs team has achieved a major milestone today！ Introducing Atlas -…",
-      "url": "https://x.com/drfeifei/status/2094840371675283673",
-      "permalink": "https://aihot.virxact.com/items/cmtiy6zvl01karoelywqs1u9l",
-      "source": "X：Fei-Fei Li (@drfeifei, World Labs)",
-      "publishedAt": "2026-09-01T17:30:39.000Z",
-      "discoveredAt": "2026-09-01T17:35:19.450Z",
-      "summary": "World Labs 发布从零训练的多模态世界模型 Atlas。模型可生成具有像素级相机控制能力的图像和视频帧，从单张输入图像重建大型场景，通过重帧视频模拟时空，并从一张或多张输入图像原生输出 3D 空间，还能将多张带位姿的图像合成一致的三维世界。作者称其为迄今最好的相机条件世界模型，可能应用于 VFX 到机器人等多个方向。",
-      "category": "ai-models",
-      "score": 57,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtiy6zvl01karoelywqs1u9l"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
-      "tags": [
-        "视频",
-        "图像",
-        "3d"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtiwj88v070uro9y27rlys4c",
-      "title": "Google 员工分享如何设计可信的 AI 评测的五条规则",
-      "title_en": "How to Design AI Evaluations You Can Actually Trust",
-      "url": "https://dev.to/googleai/how-to-design-ai-evaluations-you-can-actually-trust-41c3",
-      "permalink": "https://aihot.virxact.com/items/cmtiwj88v070uro9y27rlys4c",
-      "source": "Google AI：DEV 作者专属（RSS）",
-      "publishedAt": "2026-09-01T16:35:00.000Z",
-      "discoveredAt": "2026-09-01T16:48:52.174Z",
-      "summary": "Google Developer Relations 团队的 Jan-Felix Schmakeit 介绍为 Google 产品的 Agent Skills 设计评测的方法，主张像写单元测试一样建立结构化、自动化的评测流程，而非在终端做 vibe testing。",
-      "category": "tip",
-      "score": 57,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtiwj88v070uro9y27rlys4c"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "design",
-        "设计",
-        "自动化",
-        "agent"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmtjyffeg07ecroiy44nwm3li",
-      "title": "谷歌为 Gemini Flash 系列模型推出智能体视频理解功能，成本最高降 66%、Token 消耗最高降 88%",
-      "title_en": "谷歌推出智能体视频理解功能：提升 Gemini 模型视频分析准确率，大幅降本减耗",
-      "url": "https://www.ithome.com/0/997/190.htm",
-      "permalink": "https://aihot.virxact.com/items/cmtjyffeg07ecroiy44nwm3li",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-01T17:16:45.000Z",
-      "discoveredAt": "2026-09-02T10:29:39.979Z",
-      "summary": "谷歌在 Gemini 3.7 Flash、3.6 Flash 和 3.5 Flash-Lite 模型中推出智能体视频理解（agentic video understanding）功能，替代按固定帧率读取视频的静态处理方式，让模型在视觉帧、音频和转录文本中动态搜索和检查目标片段。",
-      "category": "ai-products",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtjyffeg07ecroiy44nwm3li"
+        "canonical": "https://aihot.virxact.com/items/cmtkwt6hg08r0roal6vcv3wj4"
       },
       "sourceType": "网站",
       "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
+      "relevanceScore": 8,
+      "editorialScore": 11,
       "tags": [
         "视觉",
-        "视频",
-        "智能体"
+        "3d"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtismwsk03vlro9yo7xec0p4",
-      "title": "Luma AI 推出 FLUX Video Upscale，可将视频上采样至 2K 和 4K",
-      "title_en": "Some faces deserve 4K. Even the six-eyed ones. FLUX Video Upscale brings video to 2K and 4K.",
-      "url": "https://x.com/LumaLabsAI/status/2094802207119909059",
-      "permalink": "https://aihot.virxact.com/items/cmtismwsk03vlro9yo7xec0p4",
-      "source": "X：Luma AI (@LumaLabsAI)",
-      "publishedAt": "2026-09-01T14:59:00.000Z",
-      "discoveredAt": "2026-09-01T14:59:44.838Z",
-      "summary": "Luma AI 官方宣布推出 FLUX Video Upscale，将视频分辨率提升至 2K 和 4K。推文配有一段演示视频，并称有些面孔值得 4K 分辨率，即使是六只眼睛的面孔。",
-      "category": "ai-products",
-      "score": 46,
+      "id": "cmtkrujdw03lxroalnmfcygoi",
+      "title": "Meta Muse Spark 从 1.1 迭代到 1.3，55 天内 3D 生成保真度显著提升",
+      "title_en": "this is a cool way to show progress",
+      "url": "https://x.com/alexandr_wang/status/2095299414235676948",
+      "permalink": "https://aihot.virxact.com/items/cmtkrujdw03lxroalnmfcygoi",
+      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+      "publishedAt": "2026-09-02T23:54:43.000Z",
+      "discoveredAt": "2026-09-03T00:13:13.408Z",
+      "summary": "Alexandr Wang 转发 @EnactraAI 对 Meta Muse Spark 1.1 → 1.2 → 1.3 的对比：同一建筑、仅凭照片生成 3D 仿真的任务中，几何、结构和视觉保真度显著提升，总成本保持在 $0.60，从 1.1 到 1.3 仅用 55 天。",
+      "category": "ai-models",
+      "score": 28,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtismwsk03vlro9yo7xec0p4"
+        "canonical": "https://aihot.virxact.com/items/cmtkrujdw03lxroalnmfcygoi"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
+      "relevanceScore": 8,
+      "editorialScore": 11,
       "tags": [
-        "flux",
-        "视频"
+        "视觉",
+        "3d"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -803,33 +743,86 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtiwij9r06x5ro9yyekfby69",
-      "title": "Visko 发布实时直播视频模型 Orbis 1.0",
-      "title_en": "Visko launched Orbis， a video model that can generate a scene in real time and keep updating it live…",
-      "url": "https://x.com/testingcatalog/status/2094824376189239532",
-      "permalink": "https://aihot.virxact.com/items/cmtiwij9r06x5ro9yyekfby69",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-09-01T16:27:05.000Z",
-      "discoveredAt": "2026-09-01T16:48:18.218Z",
-      "summary": "Visko 推出首个 Live Model「Orbis 1.0」，可实时生成场景并随新提示词持续更新，无需重启。模型支持持久记忆、交互性和物理约束的无限制时长生成；输入可用文本、图像或现有视频，输出 4K 24 FPS。现已在 https://www.visko.ai/models#orbis 开放体验，并通过 reactor 提供动态版与稳定版沙盒及 API。",
+      "id": "cmtl10i8l0cxwroalbjbym3wx",
+      "title": "Anthropic 升级 Claude Cowork 和 Claude Code，支持在后台操控用户 Mac",
+      "title_en": "Anthropic 升级 Claude Code / Cowork，可后台操控用户 Mac",
+      "url": "https://www.ithome.com/0/997/852.htm",
+      "permalink": "https://aihot.virxact.com/items/cmtl10i8l0cxwroalbjbym3wx",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-03T03:49:55.000Z",
+      "discoveredAt": "2026-09-03T04:29:47.113Z",
+      "summary": "Anthropic 于 9 月 3 日宣布升级 Claude Cowork 和 Claude Code 的电脑控制功能，Claude 可在 macOS 上于后台通过屏幕交互完成点击、输入和导航，用户可同时处理其他工作，也可在设置中开启完全控制模式让 Claude 接管全屏。",
       "category": "ai-products",
-      "score": 60,
+      "score": 64,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtiwij9r06x5ro9yyekfby69"
+        "canonical": "https://aihot.virxact.com/items/cmtl10i8l0cxwroalbjbym3wx"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互",
+        "claude code"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmtkyuld60airroalebk34e6z",
+      "title": "Ethan Mollick 用一段提示词让 Fable 5.1 生成《伊利亚特》船目 3D 交互地图",
+      "title_en": "Fable 5.1： \"Create the Catalog of Ships from the Iliad with a map， etc. i should be able to explore …",
+      "url": "https://x.com/emollick/status/2095352019498447090",
+      "permalink": "https://aihot.virxact.com/items/cmtkyuld60airroalebk34e6z",
+      "source": "X：Ethan Mollick (@emollick)",
+      "publishedAt": "2026-09-03T03:23:45.000Z",
+      "discoveredAt": "2026-09-03T03:29:13.278Z",
+      "summary": "Ethan Mollick 公开一段用于 Fable 5.1 的提示词，要求生成《伊利亚特》船目（Catalog of Ships）的可探索 3D 船只地图，结合真实图像与考古数据，并用智能体测试和修订，成品见 https://homer-catalogue-of-ships.netlify.app/。",
+      "category": "tip",
+      "score": 37,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtkyuld60airroalebk34e6z"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "relevanceScore": 7,
+      "editorialScore": 10,
       "tags": [
         "交互",
-        "视频",
         "图像",
+        "3d",
         "提示词"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtkytn9z0aheroalaejs9bri",
+      "title": "OpenClaw 播客第九期：创始人团队解读 OpenClaw 2.0",
+      "title_en": "Inside OpenClaw 2.0 🦞 OpenClaw founder @steipete joins @Pat_Erichsen， @hrudolph and @jlehman_ to d…",
+      "url": "https://x.com/openclaw/status/2095349641005170953",
+      "permalink": "https://aihot.virxact.com/items/cmtkytn9z0aheroalaejs9bri",
+      "source": "X：OpenClaw (@openclaw)",
+      "publishedAt": "2026-09-03T03:14:18.000Z",
+      "discoveredAt": "2026-09-03T03:28:28.566Z",
+      "summary": "OpenClaw 发布播客第九期，创始人 @steipete 与 @Pat_Erichsen、@hrudolph、@jlehman_ 讨论 OpenClaw 2.0。内容涉及重构的 Control UI、多人协作、稳定性工作、仪表盘、记忆、技能和 worker 节点。",
+      "category": "tip",
+      "score": 49,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtkytn9z0aheroalaejs9bri"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "ui"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmtka0qke01p4rompm3rt97m6",
@@ -993,163 +986,26 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtj0su5x02emroh96oq2i1m2",
-      "title": "SemiAnalysis 称 AMD MI355X 智能体负载性能数周内快速改善",
-      "title_en": "Shoutout to @AMD team for quick improvements to MI355X performance on agentic workloads！ In just a …",
-      "url": "https://x.com/SemiAnalysis_/status/2094858827023667514",
-      "permalink": "https://aihot.virxact.com/items/cmtj0su5x02emroh96oq2i1m2",
-      "source": "X：SemiAnalysis (@SemiAnalysis_)",
-      "publishedAt": "2026-09-01T18:43:59.000Z",
-      "discoveredAt": "2026-09-01T18:48:18.039Z",
-      "summary": "SemiAnalysis 致谢 AMD 团队在几周内快速提升了 MI355X 在智能体工作负载上的性能，测试基于 Qwen3.5 397B 和 MiniMax M3 等前沿模型的真实生产负载。配图为 SemiAnalysis InMaxM3 数据：在 Qwen3.5 397B FP4 智能体场景下，MI355X（SGLang）2026-08-31 的每 $1 TCO 总 token 产出与 P90 交互速度曲线较 2026-08-12 明显改善，图中 B300 TCO 为 $2.26/chip/hr，MI355X 为 $1.5/chip/hr。",
+      "id": "cmtkgyqcx026rro8x65mlnfso",
+      "title": "KIM 盼 Astra 发布，称 Fable 5.1 配额耗尽无法完成工作",
+      "title_en": "I dont want to start the debate over again but boy do I hope they release Astra tomorrow. Im not abl…",
+      "url": "https://x.com/kimmonismus/status/2095227269148987555",
+      "permalink": "https://aihot.virxact.com/items/cmtkgyqcx026rro8x65mlnfso",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-09-02T19:08:03.000Z",
+      "discoveredAt": "2026-09-02T19:08:23.876Z",
+      "summary": "作者 KIM 表示不想重新挑起争论，但非常希望明天就发布 Astra，并称自己用 Fable 5.1 已无法完成任何工作。配图显示 5-hour limit 已用满 100%，Weekly · all models 已用 53%，Weekly · Fable 已用满 100%，前者将在 4 小时 13 分后重置，周配额于周五下午 5：00 重置。",
       "category": "tip",
-      "score": 28,
+      "score": 15,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtj0su5x02emroh96oq2i1m2"
+        "canonical": "https://aihot.virxact.com/items/cmtkgyqcx026rro8x65mlnfso"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "配图",
-        "交互",
-        "智能体"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtiy69lu01jaroelzfvq7cd9",
-      "title": "OpenAI 解析 Basis、Clay、Exa 如何把工作流变成 AI 原生运营能力",
-      "title_en": "How AI-native companies turn workflows into operating capability",
-      "url": "https://openai.com/index/ai-native-company-workflows",
-      "permalink": "https://aihot.virxact.com/items/cmtiy69lu01jaroelzfvq7cd9",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-09-01T17:00:00.000Z",
-      "discoveredAt": "2026-09-01T17:34:45.946Z",
-      "summary": "OpenAI 发布文章，介绍 Basis、Clay 和 Exa Labs 用 Agent 承接员工入职、账户管理和开发者集成的工作流。Basis 把入职从 2 小时缩短到 30 分钟，Clay 的子智能体每天夜间更新各账户上下文，为销售省下约 1 小时邮件分拣，Exa 用 Codex 监控集成机会并创建 PR、跑测试。文章还给出企业从试点到规模化的六步方法。",
-      "category": "tip",
-      "score": 45,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtiy69lu01jaroelzfvq7cd9"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 9,
-      "editorialScore": 10,
-      "tags": [
-        "工作流",
-        "codex",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmtiv6srj05y7ro9ynvtt2sfp",
-      "title": "Elon Musk 称 Grok @Bot 在云端 24/7 常驻运行，笔记本关机也不受影响",
-      "title_en": "Grok @Bot runs on its own computer in the cloud 24/7， so it doesn't matter if you turn off your lapt…",
-      "url": "https://x.com/elonmusk/status/2094815195516350754",
-      "permalink": "https://aihot.virxact.com/items/cmtiv6srj05y7ro9ynvtt2sfp",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "publishedAt": "2026-09-01T15:50:37.000Z",
-      "discoveredAt": "2026-09-01T16:11:11.927Z",
-      "summary": "Elon Musk 表示 Grok @Bot 运行在云端自己的计算机上，全天候 24/7 常驻，因此用户关掉笔记本也不影响任务运行。他是在引用 Sriram Krishnan 的观点时做出回应，后者指出当前各家 Agent 面临代码在哪里运行的共同问题，例如是否需要访问本地文件系统、能否从手机发起任务、是否依赖 Mac mini 开机同步，并认为现有的 UX 隐喻仍需改进。",
-      "category": "tip",
-      "score": 45,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtiv6srj05y7ro9ynvtt2sfp"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
       "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "ux",
-        "agent"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmtiodf9e04pzrovqcv3n706m",
-      "title": "Runway 发布 Solaris：实时生成软件界面的 Interface World Model",
-      "title_en": "Runway's Solaris is an AI system that generates software interfaces in real time",
-      "url": "https://the-decoder.com/runways-solaris-is-an-ai-system-that-generates-software-interfaces-in-real-time",
-      "permalink": "https://aihot.virxact.com/items/cmtiodf9e04pzrovqcv3n706m",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-09-01T12:53:46.000Z",
-      "discoveredAt": "2026-09-01T13:00:20.702Z",
-      "summary": "Runway 发布 Solaris，称其为 Interface World Model 类别下的首个模型，不运行代码，而是以 720p 逐帧实时渲染界面，并响应点击、拖拽或语音指令。",
-      "category": "ai-products",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtiodf9e04pzrovqcv3n706m"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "runway",
-        "界面"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtilrbrz07w6ropb6ib4szrt",
-      "title": "MicroDuck 4 天订单超 10，500 台，或成史上最大消费机器人首发",
-      "title_en": "seems like it",
-      "url": "https://x.com/Thom_Wolf/status/2094740928019783788",
-      "permalink": "https://aihot.virxact.com/items/cmtilrbrz07w6ropb6ib4szrt",
-      "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-      "publishedAt": "2026-09-01T10:55:30.000Z",
-      "discoveredAt": "2026-09-01T11:47:13.899Z",
-      "summary": "引用内容称 MicroDuck 4 天内获得 10，500 台订单和 454 万美元销售额，可能是史上最大的新消费机器人首发。配图对比显示 MicroDuck 首日售出 4，635 台（净价 $399），高于 Aibo ERS-110 的 3，000 台、Anki Vector 的约 2，300 台、Reachy Mini 的 1，078 台和 Pepper 的 1，000 台；首周 10，520 台，超过 1X NEO 的 10，000 台。作者 Thomas Wolf 回应称 seems like it。",
-      "category": "tip",
-      "score": 32,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtilrbrz07w6ropb6ib4szrt"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "配图"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtijin04066kropb6odvtmny",
-      "title": "YouMind 启动大促，Pro 首月五折、Max 全年五折，Auto 模型享 DeepSeek V4 Flash 波谷低价",
-      "title_en": "悄悄说下 YouMind 正在搞大促 Pro 套餐首月五折 Max 套餐全年五折 同时从明天开始 所有用户使用 Auto 模型时 将享受 DeepSeek V4 Flash 波谷时的低价 同时内置了…",
-      "url": "https://x.com/lifesinger/status/2094733241429479829",
-      "permalink": "https://aihot.virxact.com/items/cmtijin04066kropb6odvtmny",
-      "source": "X：Frank Wang 玉伯 (@lifesinger)",
-      "publishedAt": "2026-09-01T10:24:57.000Z",
-      "discoveredAt": "2026-09-01T10:44:26.309Z",
-      "summary": "YouMind 宣布大促已开始，Pro 套餐首月五折，Max 套餐全年五折，不用等黑五。从明天开始所有用户使用 Auto 模型时将享受 DeepSeek V4 Flash 波谷时的低价，同时内置了比 V4 Flash Vision 好很多的图片理解功能。配图显示 Pro 首月 $20（原价 $40），优惠 24 小时内有效。",
-      "category": "ai-products",
-      "score": 29,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtijin04066kropb6odvtmny"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
+      "editorialScore": 9,
       "tags": [
         "配图"
       ],
@@ -1263,6 +1119,34 @@
         "版权"
       ],
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
+      "id": "cmtkqamim023hroal3ieb6bdz",
+      "title": "Meta 发布 Muse Spark 1.3，主打编码与长周期智能体任务",
+      "title_en": "Meta 发布最强 AI 模型 Muse Spark 1.3，编码能力超 GPT-5.6 Sol",
+      "url": "https://www.ithome.com/0/997/728.htm",
+      "permalink": "https://aihot.virxact.com/items/cmtkqamim023hroal3ieb6bdz",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-02T23:29:36.000Z",
+      "discoveredAt": "2026-09-02T23:29:45.006Z",
+      "summary": "Meta 于 2026 年 9 月 2 日发布 AI 模型 Muse Spark 1.3，专为延长智能体工作流与增强编码能力设计，Meta 首席 AI 官 Alexandr Wang 称其编码能力超越 GPT-5.6 Sol、与 Claude Fable 5.1 持平。",
+      "category": "ai-models",
+      "score": 66,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtkqamim023hroal3ieb6bdz"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "设计",
+        "工作流",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmtk6zqoi01nlroqr8sj3535y",
