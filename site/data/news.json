@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-04T04:33:47.509Z",
-  "previousGeneratedAt": "2026-09-03T16:25:27.286Z",
+  "generatedAt": "2026-09-04T11:18:04.425Z",
+  "previousGeneratedAt": "2026-09-04T04:33:47.509Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 43,
+  "itemCount": 41,
   "sourceCounts": {
     "X": 24,
-    "网站": 17,
+    "网站": 15,
     "公众号": 2
   },
   "source": {
@@ -14,34 +14,6 @@
     "url": "https://aihot.virxact.com"
   },
   "items": [
-    {
-      "id": "cmtkyrxw90agproal1t6qj5mg",
-      "title": "Wan 3.0 登顶 Artificial Analysis 视频编辑榜单，文生视频带音频位列第二",
-      "title_en": "Wan 3.0 debuts at #1 on the Artificial Analysis Video Editing Leaderboard， and is a close #2 in Text…",
-      "url": "https://x.com/ArtificialAnlys/status/2095349174799888760",
-      "permalink": "https://aihot.virxact.com/items/cmtkyrxw90agproal1t6qj5mg",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "publishedAt": "2026-09-03T03:12:27.000Z",
-      "discoveredAt": "2026-09-03T03:27:09.527Z",
-      "summary": "Artificial Analysis 评测显示，阿里巴巴 Wan 3.0 在视频编辑带音频榜单首次登顶第一，文生视频带音频位列第二，图生视频带音频排名第五。该模型为一体化视频生成与编辑模型，支持最长 30 秒 1080p 原生音频输出，可接受文本、图片、视频、音频、文档和网页作为创作参考，并支持指令式编辑画面、剧情、对话和声音。",
-      "category": "tip",
-      "score": 69,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtkyrxw90agproal1t6qj5mg"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 19,
-      "editorialScore": 22,
-      "tags": [
-        "视频生成",
-        "文生视频",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
     {
       "id": "cmtm7sbjy02mhrocwpn8ugl5i",
       "title": "Meta Muse Image 登上 Artificial Analysis 图像编辑榜第 4 名、文生图第 5 名",
@@ -97,35 +69,6 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtkz8z7o0b8groal5lesws1t",
-      "title": "Gabriel 谈 OpenAI 与 Cerebras 式极速模型将改变工作方式",
-      "title_en": "openai cerebras will change how we work， or at least some model that's extremely fast will parallel…",
-      "url": "https://x.com/gabriel1/status/2095355322970038533",
-      "permalink": "https://aihot.virxact.com/items/cmtkz8z7o0b8groal5lesws1t",
-      "source": "X：Gabriel (@gabriel1)",
-      "publishedAt": "2026-09-03T03:36:53.000Z",
-      "discoveredAt": "2026-09-03T03:40:23.829Z",
-      "summary": "Gabriel 发文称 OpenAI、Cerebras 或某种极快的模型将改变人们的工作方式。他认为与智能体并行工作目前痛点很多，一旦用户体验到高质量的同步工作就会愿意付钱，届时人与计算机的所有交互都将通过文本界面完成。",
-      "category": "tip",
-      "score": 27,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtkz8z7o0b8groal5lesws1t"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 17,
-      "editorialScore": 21,
-      "tags": [
-        "用户体验",
-        "界面",
-        "交互",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmtlv002w0o35row5z5urfsft",
@@ -242,6 +185,87 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmtmm6w7702k3romybv8wmmiu",
+      "title": "论文《Do LLMs Capture the Diversity in their Training Data？》发现 LLM 输出多样性低于训练数据",
+      "title_en": "LLMs learn a narrower set of answers than their training data， even when you sample instead of using…",
+      "url": "https://x.com/rohanpaul_ai/status/2095768574245884058",
+      "permalink": "https://aihot.virxact.com/items/cmtmm6w7702k3romybv8wmmiu",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-04T06:59:00.000Z",
+      "discoveredAt": "2026-09-04T07:10:23.992Z",
+      "summary": "论文比较模型与训练数据在同一前缀下的条件熵，发现 OLMo、Pythia、GPT-Neo 的输出条件多样性均低于训练数据，图像生成器也存在类似差距。OLMo 20K 样本上训练数据得分 338.58，贪心解码为 218.88，nucleus 采样 287.31，ancestral 采样 297.31；调高温度到 T=1.9 虽匹配训练熵但精度和外部条件 NLL 变差。",
+      "category": "paper",
+      "score": 47,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtmm6w7702k3romybv8wmmiu"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "图像生成",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtmkpxm203oarosecgl54d83",
+      "title": "阿里云展示 Qwen 视频生成效果并开放 API 访问入口",
+      "title_en": "POV： You heard music deep in the woods and followed the sound to this 🍂 BGM Support： HappyShrimpAI …",
+      "url": "https://x.com/alibaba_cloud/status/2095757811347026383",
+      "permalink": "https://aihot.virxact.com/items/cmtmkpxm203oarosecgl54d83",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-09-04T06:16:14.000Z",
+      "discoveredAt": "2026-09-04T06:29:13.811Z",
+      "summary": "阿里云发布一段 POV 风格视频，展示跟随林中音乐声找到场景的生成效果，BGM 支持来自 HappyShrimpAI。文中提供 Qwen Cloud 和 Model Studio 的 API 访问链接。",
+      "category": "ai-products",
+      "score": 24,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtmkpxm203oarosecgl54d83"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtmikrmm025protwdtxczfkw",
+      "title": "阿里云 Wan3.0 正式全面开放",
+      "title_en": "Wan3.0 is now generally available on Alibaba Cloud. • 30-sec generation • 1-click doc-to-video • Pro…",
+      "url": "https://x.com/alibaba_cloud/status/2095742228320711149",
+      "permalink": "https://aihot.virxact.com/items/cmtmikrmm025protwdtxczfkw",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-09-04T05:14:18.000Z",
+      "discoveredAt": "2026-09-04T05:29:13.412Z",
+      "summary": "阿里云宣布 Wan3.0 正式全面开放（generally available），支持 30 秒视频生成和一键文档转视频，定位生产可用，详细指南见 https://click.alibabacloud.com/m/20000003076/",
+      "category": "ai-products",
+      "score": 55,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtmikrmm025protwdtxczfkw"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmtl9xtve0n30roalrydjbk8l",
       "title": "World Labs 发布从零训练的多模态世界模型 Atlas，李飞飞称其为相机条件世界模型新标杆",
       "title_en": "Why is Spatial Intelligence considered the lifeline for Embodied AI？ Because the biggest Achilles' h…",
@@ -352,6 +376,33 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmtml3cpt015bromy2fw12x9a",
+      "title": "YouMind 个人 IP 配图 skills 引发关注，作者转发称风格迷幻又好看",
+      "title_en": "这个风格有点迷幻又好看 拿走了",
+      "url": "https://x.com/lifesinger/status/2095762148391862722",
+      "permalink": "https://aihot.virxact.com/items/cmtml3cpt015bromy2fw12x9a",
+      "source": "X：Frank Wang 玉伯 (@lifesinger)",
+      "publishedAt": "2026-09-04T06:33:28.000Z",
+      "discoveredAt": "2026-09-04T06:39:39.691Z",
+      "summary": "Frank Wang 玉伯转发 @Jackywine 的分享，称这个风格有点迷幻又好看，表示拿走了。@Jackywine 介绍在 YouMind 写文章过程中沉淀了一套个人 IP 配图 skills，会询问个人 IP 三视图并根据三视图进行图像延展，效果更生动、更可爱，并附上小卡皮的打样链接 https://youmind.com/skills/HNdHlg2jW1B1FO。",
+      "category": "tip",
+      "score": 43,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtml3cpt015bromy2fw12x9a"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 10,
+      "editorialScore": 13,
+      "tags": [
+        "配图",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmtlr34xz0javrow5r7osar7i",
       "title": "Hugging Face 宣布将以约 129.3 亿美元并入 NVIDIA，承诺保持平台开放独立",
       "title_en": "Without Hugging Face the launch and scaling of stable diffusion &amp； the models that followed would…",
@@ -376,34 +427,6 @@
         "stable diffusion"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtkrqw6b03kgroalpww4m7vm",
-      "title": "arXiv 论文提出运行时无关的持久智能体架构，可跨模型、harness 和主机迁移",
-      "title_en": "What a super interesting paper this one is. They propose an architecture for agents that outlive th…",
-      "url": "https://x.com/omarsar0/status/2095300793561931948",
-      "permalink": "https://aihot.virxact.com/items/cmtkrqw6b03kgroalpww4m7vm",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "publishedAt": "2026-09-03T00:00:12.000Z",
-      "discoveredAt": "2026-09-03T00:10:23.022Z",
-      "summary": "一篇 arXiv 论文（https://arxiv.org/abs/2609.00546）提出一种运行时无关的持久智能体架构，把智能体拆为持久的身份、私有记忆和带版本历史的代码，以及可替换的模型、harness、宿主服务器和交互界面。",
-      "category": "paper",
-      "score": 45,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtkrqw6b03kgroalpww4m7vm"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "界面",
-        "交互",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmtm7w21v0016robn2510559h",
@@ -986,86 +1009,6 @@
       "editorialScore": 10,
       "tags": [
         "配图"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtl4kx3s0hp2roal7b74qmp5",
-      "title": "《财经》封面报道解读宇树低成本密码与王兴兴的个人化管理局",
-      "title_en": "「财经」杂志的这期封面报道挺精彩的，直接把王兴兴称作「宇树的王」，虽然这家公司已经作为人形机器人赛道的领跑者在A股上市了，但从内部管理来看，它还保留着相当早期的作风，基本都围绕着王兴兴一个人的想法行进…",
-      "url": "https://x.com/foxshuo/status/2095389564592623644",
-      "permalink": "https://aihot.virxact.com/items/cmtl4kx3s0hp2roal7b74qmp5",
-      "source": "X：阑夕 (@foxshuo)",
-      "publishedAt": "2026-09-03T05:52:57.000Z",
-      "discoveredAt": "2026-09-03T06:09:39.243Z",
-      "summary": "《财经》杂志封面报道把宇树称为「宇树的王」，指其上市后内部管理仍围绕王兴兴一人：超100元的报销都由他签字，供应商签保密协议、违者罚500万，员工举报泄密最高奖50万。报道还提到2025年春晚机器人竞价传言抬到1亿元、宇树四足和双足机器人毛利率分别保持50%和60%以上、期权只发给14名员工、171人自掏2.72亿按150元发行价认购新股，以及王兴兴认为好的设计而非大规模量产才是降本根本路径。",
-      "category": "tip",
-      "score": 69,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtl4kx3s0hp2roal7b74qmp5"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmtl10i8l0cxwroalbjbym3wx",
-      "title": "Anthropic 升级 Claude Cowork 和 Claude Code，支持在后台操控用户 Mac",
-      "title_en": "Anthropic 升级 Claude Code / Cowork，可后台操控用户 Mac",
-      "url": "https://www.ithome.com/0/997/852.htm",
-      "permalink": "https://aihot.virxact.com/items/cmtl10i8l0cxwroalbjbym3wx",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-03T03:49:55.000Z",
-      "discoveredAt": "2026-09-03T04:29:47.113Z",
-      "summary": "Anthropic 于 9 月 3 日宣布升级 Claude Cowork 和 Claude Code 的电脑控制功能，Claude 可在 macOS 上于后台通过屏幕交互完成点击、输入和导航，用户可同时处理其他工作，也可在设置中开启完全控制模式让 Claude 接管全屏。",
-      "category": "ai-products",
-      "score": 64,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtl10i8l0cxwroalbjbym3wx"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "交互",
-        "claude code"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmtmggdqp012rrolu7p1pdc1a",
-      "title": "Puffin-World 提出原生 3D 世界状态的统一多模态世界模型并开源",
-      "title_en": "Puffin-World： Scaling a Unified Multimodal Model with Native 3D World States",
-      "url": "https://arxiv.org/abs/2609.04196",
-      "permalink": "https://aihot.virxact.com/items/cmtmggdqp012rrolu7p1pdc1a",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-09-03T00:00:00.000Z",
-      "discoveredAt": "2026-09-04T04:29:50.355Z",
-      "summary": "Puffin-World 是一个统一多模态架构，不依赖外部离线模块即可实现物理理解、空间模拟和 3D 世界生成与重建。该框架联合建模物理（重力场与纬度）、几何（深度）和外观（图像）三种原生世界状态，并引入统一 Omni-Camera 表示与跨未来帧传播物理动态的策略，在单一生成过程中同时合成未来视图并重建底层几何。",
-      "category": "paper",
-      "score": 41,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtmggdqp012rrolu7p1pdc1a"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "图像",
-        "3d"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
