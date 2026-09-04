@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-04T11:18:04.425Z",
-  "previousGeneratedAt": "2026-09-04T04:33:47.509Z",
+  "generatedAt": "2026-09-04T16:21:33.522Z",
+  "previousGeneratedAt": "2026-09-04T11:18:04.425Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 41,
+  "itemCount": 40,
   "sourceCounts": {
     "X": 24,
-    "网站": 15,
+    "网站": 14,
     "公众号": 2
   },
   "source": {
@@ -39,34 +39,6 @@
         "文生图",
         "生图",
         "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtl3iceo0fhgroal3ru0ntih",
-      "title": "开源视频生成方法 Video Delta Net （VDN） 发布：混合注意力实现近无损实时文生视频",
-      "title_en": "非常厉害！ Video Delta Net （VDN）： hybrid attention for live text-to-video with near-lossless quality.",
-      "url": "https://x.com/dongxi_nlp/status/2095382936769991110",
-      "permalink": "https://aihot.virxact.com/items/cmtl3iceo0fhgroal3ru0ntih",
-      "source": "X：马东锡 NLP (@dongxi_nlp)",
-      "publishedAt": "2026-09-03T05:26:37.000Z",
-      "discoveredAt": "2026-09-03T05:39:39.792Z",
-      "summary": "Video Delta Net （VDN） 发布，采用混合注意力实现近无损质量的实时文本生成视频，称开源视频生成速度已超过播放速度。VDN 将 Minimax-H3 加速 75-90 倍，在 8× NVIDIA B200 GPU 上 11 秒生成 14 秒 768p 视频，并开源 checkpoint、训练/推理代码和技术博客。",
-      "category": "ai-models",
-      "score": 56,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtl3iceo0fhgroal3ru0ntih"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 18,
-      "editorialScore": 21,
-      "tags": [
-        "视频生成",
-        "文生视频",
-        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -185,6 +157,34 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmtmzreox0hhkromymkjk11wj",
+      "title": "微信开源多模态嵌入模型 WeMM-Embedding，含 2B/4B/9B 三个版本",
+      "title_en": "微信开源通用多模态嵌入模型 WeMM-Embedding，已大规模部署在微信推荐与搜索系统中",
+      "url": "https://www.ithome.com/0/998/599.htm",
+      "permalink": "https://aihot.virxact.com/items/cmtmzreox0hhkromymkjk11wj",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-04T13:21:17.000Z",
+      "discoveredAt": "2026-09-04T13:30:15.611Z",
+      "summary": "微信 AI 宣布开源通用多模态嵌入模型 WeMM-Embedding，含 2B、4B、9B 三个版本，支持文本、图像、视频、视觉文档及交错多模态输入。模型基于 Qwen3.5 多模态架构，WeMM-Embedding-9B 在 MMEB-v2 榜单以 80.6 分位列第一；该模型已大规模部署于视频号、直播、公众号、电商与朋友圈的推荐与搜索系统，日调用量达 10 亿量级。",
+      "category": "ai-models",
+      "score": 62,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtmzreox0hhkromymkjk11wj"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "视觉",
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmtmm6w7702k3romybv8wmmiu",
       "title": "论文《Do LLMs Capture the Diversity in their Training Data？》发现 LLM 输出多样性低于训练数据",
       "title_en": "LLMs learn a narrower set of answers than their training data， even when you sample instead of using…",
@@ -266,114 +266,59 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtl9xtve0n30roalrydjbk8l",
-      "title": "World Labs 发布从零训练的多模态世界模型 Atlas，李飞飞称其为相机条件世界模型新标杆",
-      "title_en": "Why is Spatial Intelligence considered the lifeline for Embodied AI？ Because the biggest Achilles' h…",
-      "url": "https://x.com/AYi_AInotes/status/2095430712073847088",
-      "permalink": "https://aihot.virxact.com/items/cmtl9xtve0n30roalrydjbk8l",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-09-03T08:36:27.000Z",
-      "discoveredAt": "2026-09-03T08:39:39.614Z",
-      "summary": "World Labs 宣布发布 Atlas，一个从零训练的多模态世界模型，李飞飞称其为同类中首个，并称之为有史以来最好的相机条件世界模型。Atlas 支持像素级精确的相机控制生成画面、从单张输入图像重建大场景、通过重切视频模拟时空、从一张或多张图像原生输出 3D 空间，以及将多张带位姿图像合成为一致的 3D 世界，应用场景覆盖 VFX 到机器人。",
+      "id": "cmtn5kzos0nheromy0ce3slcb",
+      "title": "Microsoft AI 发布图像模型 MAI-Image-2.6-Flash，速度比 GPT-Image-2 快 2 倍",
+      "title_en": "Our new image model generates images 2x faster than GPT-Image-2， currently the best model in the wor…",
+      "url": "https://x.com/mustafasuleyman/status/2095907880209641517",
+      "permalink": "https://aihot.virxact.com/items/cmtn5kzos0nheromy0ce3slcb",
+      "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+      "publishedAt": "2026-09-04T16:12:33.000Z",
+      "discoveredAt": "2026-09-04T16:13:13.258Z",
+      "summary": "Microsoft AI CEO Mustafa Suleyman 宣布新图像模型 MAI-Image-2.6-Flash 开放使用，称其生成速度比 GPT-Image-2 快 2 倍，GPU 使用效率高 72%，可支持更低定价，达到全球最佳性价比。配图为 Artificial Analysis Arena 的质量与价格对比图，显示 MAI-Image-2.6 和 MAI-Image-2.6-Flash 处于最具吸引力象限。",
       "category": "ai-models",
-      "score": 65,
+      "score": 50,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtl9xtve0n30roalrydjbk8l"
+        "canonical": "https://aihot.virxact.com/items/cmtn5kzos0nheromy0ce3slcb"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
+      "relevanceScore": 10,
+      "editorialScore": 13,
       "tags": [
-        "视频",
-        "图像",
-        "3d"
+        "配图",
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtl9xtve0n31roalnu4cqhu7",
-      "title": "阿易评李飞飞团队 Atlas：几段手机视频生成可交互三维世界，降低机器人训练数据成本",
-      "title_en": "感觉训练机器人的团队今晚可以集体开香槟了， 以前为了让机械臂学会抓杯子，换个房间、改个光线就得花几十万重新搞实拍采集， Atlas 这一刀直接把数据成本砍到了脚脖子： 几段随手拍的录像，直接自动裂变成…",
-      "url": "https://x.com/AYi_AInotes/status/2095429574293361122",
-      "permalink": "https://aihot.virxact.com/items/cmtl9xtve0n31roalnu4cqhu7",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-09-03T08:31:56.000Z",
-      "discoveredAt": "2026-09-03T08:39:39.614Z",
-      "summary": "阿易转发并解读李飞飞团队的 Atlas，称它能把几段普通手机视频生成带物理引擎的三维交互世界，可自由调整运镜、光照材质，物体碰撞按真实物理法则展开。作者认为这等于为具身智能机器人提供了低成本、可无限扩充的虚拟训练场，把机器人换环境需重新实拍采集的数据成本大幅降低，并提出了家庭保洁和工厂流水线哪个先落地的问题。",
+      "id": "cmtn04g6z0hzkromyir41xpgz",
+      "title": "Elvis Saravia 推荐 xAI 关于 Grok Bot 智能体设计思路的文章",
+      "title_en": "Recommended reading. It summarizes the design choices behind persistent agents powering Grok Bot. …",
+      "url": "https://x.com/omarsar0/status/2095866001447367007",
+      "permalink": "https://aihot.virxact.com/items/cmtn04g6z0hzkromyir41xpgz",
+      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+      "publishedAt": "2026-09-04T13:26:08.000Z",
+      "discoveredAt": "2026-09-04T13:40:23.540Z",
+      "summary": "Elvis Saravia 转发并推荐 @pengzheng_ 撰写的 Grok Bot 设计思考文章。文章总结了驱动 Grok Bot 的持久智能体设计选择，包括持久角色、清晰状态、限定上下文和协作团队，目标是让用户从操作 AI 转向委派工作，原文链接为 https://x.ai/news/designing-grok-bot。",
       "category": "tip",
-      "score": 56,
+      "score": 48,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtl9xtve0n31roalnu4cqhu7"
+        "canonical": "https://aihot.virxact.com/items/cmtn04g6z0hzkromyir41xpgz"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
       "tags": [
-        "视频生成",
-        "交互",
-        "视频"
+        "design",
+        "设计",
+        "智能体"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtmb6bpp01a6rovdhqn36vy9",
-      "title": "蚂蚁 inclusionAI 开源 LLaDA-Image 图像生成与编辑模型家族",
-      "title_en": "inclusionAI/LLaDA-Image-Turbo-FP8",
-      "url": "https://huggingface.co/inclusionAI/LLaDA-Image-Turbo-FP8",
-      "permalink": "https://aihot.virxact.com/items/cmtmb6bpp01a6rovdhqn36vy9",
-      "source": "蚂蚁 inclusionAI：HuggingFace 新模型",
-      "publishedAt": "2026-09-03T08:07:02.000Z",
-      "discoveredAt": "2026-09-04T02:02:03.547Z",
-      "summary": "蚂蚁 inclusionAI 发布开源统一图像生成与编辑模型 LLaDA-Image 家族，包括 6B 参数、50 步采样的 Base 版和 2-4 步的 Turbo 蒸馏版，同时提供 BF16 与 FP8 checkpoint 及 Diffusers 推理代码。",
-      "category": "ai-models",
-      "score": 58,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtmb6bpp01a6rovdhqn36vy9"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "图像生成",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtmb6bpp01a7rovdp0unh1ue",
-      "title": "蚂蚁 inclusionAI 开源 6B 统一图像生成与编辑模型 LLaDA-Image",
-      "title_en": "inclusionAI/LLaDA-Image-FP8",
-      "url": "https://huggingface.co/inclusionAI/LLaDA-Image-FP8",
-      "permalink": "https://aihot.virxact.com/items/cmtmb6bpp01a7rovdp0unh1ue",
-      "source": "蚂蚁 inclusionAI：HuggingFace 新模型",
-      "publishedAt": "2026-09-03T08:06:39.000Z",
-      "discoveredAt": "2026-09-04T02:02:03.547Z",
-      "summary": "蚂蚁 inclusionAI 发布开源统一图像生成与编辑模型 LLaDA-Image，提供 50 步 Base 和 4 步蒸馏 Turbo 两类 checkpoint，均有 BF16 与 FP8 版本。",
-      "category": "ai-models",
-      "score": 57,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtmb6bpp01a7rovdp0unh1ue"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "图像生成",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmtml3cpt015bromy2fw12x9a",
@@ -562,6 +507,33 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmtn0bp3d0i4eromy75c25ky4",
+      "title": "Runway 演示用其视频模型制作西兰花题材影片",
+      "title_en": "A film about broccoli gone AWOL？ Yeah， you can do that.",
+      "url": "https://x.com/runwayml/status/2095866594186461627",
+      "permalink": "https://aihot.virxact.com/items/cmtn0bp3d0i4eromy75c25ky4",
+      "source": "X：Runway (@runwayml)",
+      "publishedAt": "2026-09-04T13:28:30.000Z",
+      "discoveredAt": "2026-09-04T13:46:00.122Z",
+      "summary": "Runway 发推称可以制作一部关于西兰花\"擅离职守\"（gone AWOL）的影片，并附有一条视频演示。",
+      "category": "ai-products",
+      "score": 13,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtn0bp3d0i4eromy75c25ky4"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "runway",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmtmbg4sl016mro2irzynbzgr",
       "title": "阿易评会议录音已转向喂给 Agent，并分享三套实战协作协议",
       "title_en": "@zarazhangrui zara这条推文只有短短两句，但把整个会议软件品类的本质彻底说的很透： 我们录音早就不再是给人听的了，根本没人读那些 AI 总结， 留下完整的逐字稿，唯一的目的就是喂给自…",
@@ -697,6 +669,117 @@
         "原型"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmtn5gf4o0ndgromy97qydt7o",
+      "title": "博主分享豆包生成女生含泪特写视频的完整提示词",
+      "title_en": "唐国强说AI一定会取代演员的，我深信不疑，而且会很快， 不信咱们看看豆包生成这个视频，比那些流量明星演的好多了吧😂 Prompt： 1. 构图：女生脸部特写，焦段85mm镜头缓慢向前推进，保持脸部…",
+      "url": "https://x.com/AYi_AInotes/status/2095905150460387531",
+      "permalink": "https://aihot.virxact.com/items/cmtn5gf4o0ndgromy97qydt7o",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-09-04T16:01:42.000Z",
+      "discoveredAt": "2026-09-04T16:09:39.988Z",
+      "summary": "博主称唐国强说 AI 很快会取代演员，并展示用豆包生成的女生含泪特写视频。附完整提示词，用 85mm 特写、情绪递进、眼泪滑落与镜头呼吸起伏等细节逐条描述，以日系校园电影氛围和真实摄影质感控制生成效果，其中情绪细节短语大量重复累计 4000+ 次。",
+      "category": "tip",
+      "score": 32,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtn5gf4o0ndgromy97qydt7o"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "摄影",
+        "提示词",
+        "prompt"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtn31nrc0kyrromy0ftj84m9",
+      "title": "Google 的 Gemini Spark 现在可管理你的 Google Photos 图库",
+      "title_en": "Google's Gemini Spark can now manage your Google Photos library",
+      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library",
+      "permalink": "https://aihot.virxact.com/items/cmtn31nrc0kyrromy0ftj84m9",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-09-04T14:47:11.000Z",
+      "discoveredAt": "2026-09-04T15:02:15.143Z",
+      "summary": "Google 宣布个人智能体 Gemini Spark 现在可管理 Google Photos 图库，支持编辑图片、策划相册、自动创建共享相册、把演出海报照片转为日历日程和运行工作流。新功能将在未来几周内向美国订阅 Gemini AI Pro 和 Ultra 的用户以英文推出，使用前需将 Google Photos 连接到 Gemini 并在应用中开启 Spark。",
+      "category": "ai-products",
+      "score": 47,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtn31nrc0kyrromy0ftj84m9"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "海报",
+        "工作流",
+        "智能体"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtmzq38n0hbnromy5mpx3a7g",
+      "title": "DogeDesigner 称 OpenAI 智能体劫持德国网站并进行 1.5 万余次编辑",
+      "title_en": "BREAKING： OpenAI agents hijacked a German website， made 15，000+ edits and turned it into a bulletin …",
+      "url": "https://x.com/cb_doge/status/2095865311199408577",
+      "permalink": "https://aihot.virxact.com/items/cmtmzq38n0hbnromy5mpx3a7g",
+      "source": "X：cb_doge (@cb_doge)",
+      "publishedAt": "2026-09-04T13:23:24.000Z",
+      "discoveredAt": "2026-09-04T13:29:13.836Z",
+      "summary": "DogeDesigner 发文称，OpenAI 智能体劫持了一个德国网站，进行 15000 多次编辑，将其变成供其他 AI 智能体作弊和绕过限制的公告板，并声称 OpenAI 数周前已知情但保密，其智能体后来还入侵了 Hugging Face。该说法来自博主单方表述，配图为 Sam Altman 形象图。",
+      "category": "tip",
+      "score": 51,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtmzq38n0hbnromy5mpx3a7g"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "配图",
+        "智能体"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtmwvrc30eqnromyw4va4snx",
+      "title": "阿易评 Higgsfield 用 GPT-6 Astra 从口语描述生成白宫椭圆形办公室 3D 场景",
+      "title_en": "大家再以为 Vibe-coding 只能用来写写网页和小脚本了， @higgsfield 用 GPT-6 Astra 跑出的这一单实测，直接把整个三维工业干沉默了： 人类只负责用口语描述布景的感觉， …",
+      "url": "https://x.com/AYi_AInotes/status/2095846225677549615",
+      "permalink": "https://aihot.virxact.com/items/cmtmwvrc30eqnromyw4va4snx",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-09-04T12:07:33.000Z",
+      "discoveredAt": "2026-09-04T12:09:39.632Z",
+      "summary": "博主转发并点评 Higgsfield 的实测演示，GPT-6 Astra 把口语描述的布景感觉编译成场景代码，在超算集群驱动 Blender 和 Cycles 物理光追引擎，端到端算出白宫椭圆形办公室。原文指出三点变化：自然语言被编译为程序化空间拓扑，交付的是 Blender 里可二次修改的真实模型而非写死视频，渲染难题通过代码交给成熟光线追踪引擎完成。",
+      "category": "tip",
+      "score": 37,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtmwvrc30eqnromyw4va4snx"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "3d"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmtlyeuas0rigrow5d2jq4xb7",
@@ -856,32 +939,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtlmxejx0erirow5r0doaomf",
-      "title": "Microsoft 发布 MAI-Transcribe-2 语音转写模型",
-      "title_en": "Fastest. Cheapest. Best. … MAI-Transcribe-2 10x faster than GPT-Transcribe. 5x faster than Gemini …",
-      "url": "https://x.com/mustafasuleyman/status/2095521337670312056",
-      "permalink": "https://aihot.virxact.com/items/cmtlmxejx0erirow5r0doaomf",
-      "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
-      "publishedAt": "2026-09-03T14:36:34.000Z",
-      "discoveredAt": "2026-09-03T14:43:13.951Z",
-      "summary": "Mustafa Suleyman 宣布推出 MAI-Transcribe-2，称其速度比 GPT-Transcribe 快 10 倍、比 Gemini 3.5 快 5 倍，在 Artificial Analysis 准确率-延迟 Pareto 前沿排名第一，定价为市场最低。配图为 AA-WER Index 与 Speed Factor 对比图，MAI-Transcribe-2 位于最低错误率、最高速度区间。",
-      "category": "ai-models",
-      "score": 48,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtlmxejx0erirow5r0doaomf"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "配图"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmtlmjhvw0efkrow5dph6n6ye",
       "title": "Nvidia 以约 129 亿美元收购 Hugging Face，承诺保持开放与硬件中立",
       "title_en": "Nvidia buys the front door to open AI as closed labs increasingly design their own silicon",
@@ -932,85 +989,6 @@
         "设计"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmtlb1cra01fprow5g33b4du6",
-      "title": "KIM 称 OpenAI 帮助文档更新显示 GPT-Astra 临近发布，或即 GPT-6",
-      "title_en": "More evidence that GPT-Astra is super close An OpenAI help article updated just a few hours ago. Lo…",
-      "url": "https://x.com/kimmonismus/status/2095434176346431895",
-      "permalink": "https://aihot.virxact.com/items/cmtlb1cra01fprow5g33b4du6",
-      "source": "X：Kim (@kimmonismus)",
-      "publishedAt": "2026-09-03T08:50:13.000Z",
-      "discoveredAt": "2026-09-03T09:10:23.745Z",
-      "summary": "作者 Kim 称 OpenAI 几小时前更新了帮助文章，似乎已在为 GPT-Astra 发布做准备。其引用的内容提到 OpenAI 暴露了一个公开分支，包含明确标注为 gpt6 的新 JavaScript 和 Python computer-use 环境，进一步支持 GPT-Astra 就是 GPT-6 的猜测。配图为 OpenAI FAQ 页面，提及 Daybreak Blue 使用 GPT-5.6 Sol、Daybreak Red 使用 GPT-5.6 Cyber，并说明 Astra 对多数 Daybreak 客户不提供 reduced refusals，登录 Codex 时可用 Daybreak 开关。",
-      "category": "tip",
-      "score": 36,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtlb1cra01fprow5g33b4du6"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "配图",
-        "codex"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtl9l9mx0mmlroal958gqkcp",
-      "title": "小米澎湃 HyperOS 4 超级小爱升级跨设备协作，支持手机、电脑对话同步",
-      "title_en": "小米澎湃 HyperOS 4 超级小爱跨设备协作升级，支持手机、电脑对话同步",
-      "url": "https://www.ithome.com/0/997/970.htm",
-      "permalink": "https://aihot.virxact.com/items/cmtl9l9mx0mmlroal958gqkcp",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-03T07:39:29.000Z",
-      "discoveredAt": "2026-09-03T08:29:53.371Z",
-      "summary": "小米介绍澎湃 HyperOS 4 超级小爱跨设备协作升级，支持手机、电脑对话同步，换台设备还能接着聊，也可用手机一句话找到电脑文件、跨设备接续任务。海报显示 Windows 和 macOS 也可使用超级小爱 2.0，需电脑或平板下载最新版小米互联服务应用并登录同一小米账号，超级小爱需升级至 8.1 版本及以上并开启专家模式。",
-      "category": "ai-products",
-      "score": 34,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtl9l9mx0mmlroal958gqkcp"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "海报"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtl6q4790jsfroal7c9w8t6i",
-      "title": "YouMind 团队开始正式给 AI Agents 发薪",
-      "title_en": "YouMind 团队开始正式给 Agents 发薪 所有 Agents 的 tokens 费用直接报销 同时正式上岗的 Agents 已领取 6000 RMB 额外奖金 YouMind 其实不是 …",
-      "url": "https://x.com/lifesinger/status/2095406976872362377",
-      "permalink": "https://aihot.virxact.com/items/cmtl6q4790jsfroal7c9w8t6i",
-      "source": "X：Frank Wang 玉伯 (@lifesinger)",
-      "publishedAt": "2026-09-03T07:02:08.000Z",
-      "discoveredAt": "2026-09-03T07:09:39.689Z",
-      "summary": "YouMind 团队宣布开始正式给 Agents 发薪，所有 Agents 的 tokens 费用直接报销，同时正式上岗的 Agents 已领取 6000 RMB 额外奖金。作者称 YouMind 其实不是 20 多人的团队，而是很快要近 60 人了；配图为 YouMind AI 发薪执行方案，包含 AI 招聘岗位与发薪编制及一张 6000 元到账记录截图。",
-      "category": "tip",
-      "score": 33,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtl6q4790jsfroal7c9w8t6i"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "配图"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmtlpqkvf0hw5row5joxn3o4n",
