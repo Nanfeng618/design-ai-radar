@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-05T10:35:34.920Z",
-  "previousGeneratedAt": "2026-09-05T04:29:27.304Z",
+  "generatedAt": "2026-09-05T15:14:07.210Z",
+  "previousGeneratedAt": "2026-09-05T10:35:34.920Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 41,
+  "itemCount": 42,
   "sourceCounts": {
-    "网站": 14,
+    "网站": 15,
     "X": 24,
     "公众号": 3
   },
@@ -319,6 +319,35 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtoglwtx021yroe8i0vv9rtk",
+      "title": "OpenAI Codex 架构师谈新一代 Coding Agent 如何给 AGENTS.md 和 Skill 瘦身",
+      "title_en": "当所有人还在疯狂给 AI 堆长提示词、狂塞 Skill，OpenAI Codex 架构师这篇文章直接把全网干沉默了： 别再洋洋得意你的 AGENTS.md 写得有多厚了。 新一代 Coding Ag…",
+      "url": "https://x.com/AYi_AInotes/status/2096236132812116025",
+      "permalink": "https://aihot.virxact.com/items/cmtoglwtx021yroe8i0vv9rtk",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-09-05T13:56:54.000Z",
+      "discoveredAt": "2026-09-05T14:09:39.400Z",
+      "summary": "作者转发 OpenAI Codex 架构师 @pvncher 的文章，指出新一代 Coding Agent 时代，为弱模型搭建的长提示词和 Skill 脚手架正在烧 Token 并引发早停。官方给出 5 条规则：Skill 描述只写触发条件、删掉 AGENTS.md 里的每次必读文档、对安全测试环境彻底放权、开工只锁完成标准不写细步骤，并附上可直接复制的仓库自检审计 Prompt 和放权模板。",
+      "category": "tip",
+      "score": 72,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtoglwtx021yroe8i0vv9rtk"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 12,
+      "editorialScore": 13,
+      "tags": [
+        "提示词",
+        "prompt",
+        "codex",
+        "agent"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmtnv6dcz0d9hroqsbi8v3kj7",
@@ -655,33 +684,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmtlyman80rnwrow52qwov5di",
-      "title": "OpenAI 发布 GPT-6 Astra，宣称可代用户在电脑上完成任务",
-      "title_en": "openai is back， @danielfradin spotted",
-      "url": "https://x.com/gabriel1/status/2095605066116055060",
-      "permalink": "https://aihot.virxact.com/items/cmtlyman80rnwrow52qwov5di",
-      "source": "X：Gabriel (@gabriel1)",
-      "publishedAt": "2026-09-03T20:09:16.000Z",
-      "discoveredAt": "2026-09-03T20:10:23.892Z",
-      "summary": "OpenAI 发布 GPT-6 Astra，官方称你在电脑上能做的任何事，Astra 都能快速替你完成。作者转发该消息并提到 @danielfradin 被发现，配图为界面选中 /daniel.fradin/Downloads/orange-table-dent.png 文件路径的截图。",
-      "category": "ai-models",
-      "score": 67,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtlyman80rnwrow52qwov5di"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "配图",
-        "界面"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmtnryjxn0a87roqslycuqhj0",
       "title": "YouMind 上线 GPT-6 Astra 模型",
       "title_en": "GPT-6 Astra 已上线 YouMind 确实非常强大 非常值得体验",
@@ -873,6 +875,33 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmtob9041046wroxhsbn7ule2",
+      "title": "ZHO 实测 GPT-6 Astra 连续运行 8 小时完成建筑全流程任务",
+      "title_en": "GPT-6 Astra 连续运行 8h 的成果（还在继续制作影片中…… 🤡我已经没耐心了（疯了 输入：一张建筑照片 提示词：见原贴 成果： 1）Rhino 建筑模型 2）Grasshopper…",
+      "url": "https://x.com/ZHO_ZHO_ZHO/status/2096195128927093076",
+      "permalink": "https://aihot.virxact.com/items/cmtob9041046wroxhsbn7ule2",
+      "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+      "publishedAt": "2026-09-05T11:13:58.000Z",
+      "discoveredAt": "2026-09-05T11:39:39.527Z",
+      "summary": "ZHO 实测 GPT-6 Astra（ChatGPT Work，Ultra 档），输入一张建筑照片和一条地狱难度提示词，让模型基于传统工作流重建建筑。",
+      "category": "tip",
+      "score": 51,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtob9041046wroxhsbn7ule2"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "工作流",
+        "提示词"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cmto5thno01buroaing3fovaf",
       "title": "Greg Brockman 转发 9 个 GPT 6 Astra 实用提示词",
       "title_en": "Astra for helping in your personal and work life",
@@ -924,33 +953,6 @@
       "tags": [
         "视频",
         "3d"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtne97cm058vrog1gcbcov2x",
-      "title": "OpenAI 发布 GPT-6 Astra，开放 API 并上线 ChatGPT Work 与 Codex",
-      "title_en": "GPT-6 Astra is now available in the API. It's also available in ChatGPT Work and Codex for all Pro，…",
-      "url": "https://x.com/OpenAIDevs/status/2095968506244460673",
-      "permalink": "https://aihot.virxact.com/items/cmtne97cm058vrog1gcbcov2x",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "publishedAt": "2026-09-04T20:13:27.000Z",
-      "discoveredAt": "2026-09-04T20:16:00.579Z",
-      "summary": "GPT-6 Astra 现已在 API 中开放，并面向所有 Pro、Enterprise 和 Business Premium 用户登陆 ChatGPT Work 和 Codex。OpenAI 称其为迄今在计算机使用、软件工程和视觉理解方面表现最好的模型。",
-      "category": "ai-models",
-      "score": 81,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtne97cm058vrog1gcbcov2x"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "视觉",
-        "codex"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -1032,6 +1034,33 @@
       "tags": [
         "提示词",
         "prompt"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmtofayvo02uoroht238ucfjw",
+      "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+      "title_en": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+      "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+      "permalink": "https://aihot.virxact.com/items/cmtofayvo02uoroht238ucfjw",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-09-05T13:31:04.000Z",
+      "discoveredAt": "2026-09-05T13:33:09.146Z",
+      "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
+      "category": "tip",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtofayvo02uoroht238ucfjw"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "提示词",
+        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
