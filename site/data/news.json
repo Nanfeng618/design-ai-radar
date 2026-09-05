@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-05T04:29:27.304Z",
-  "previousGeneratedAt": "2026-09-04T16:21:33.522Z",
+  "generatedAt": "2026-09-05T10:35:34.920Z",
+  "previousGeneratedAt": "2026-09-05T04:29:27.304Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 42,
+  "itemCount": 41,
   "sourceCounts": {
+    "网站": 14,
     "X": 24,
-    "网站": 15,
     "公众号": 3
   },
   "source": {
@@ -14,6 +14,35 @@
     "url": "https://aihot.virxact.com"
   },
   "items": [
+    {
+      "id": "cmto2cffz0kz8roqsiwp86srs",
+      "title": "微软发布 MAI-Image-2.6-Flash：生图速度是 GPT Image 2 的 2 倍",
+      "title_en": "微软发布 MAI-Image-2.6-Flash：生图速度是全球最佳 AI 模型的 2 倍",
+      "url": "https://www.ithome.com/0/998/747.htm",
+      "permalink": "https://aihot.virxact.com/items/cmto2cffz0kz8roqsiwp86srs",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-05T06:58:19.000Z",
+      "discoveredAt": "2026-09-05T07:30:20.703Z",
+      "summary": "微软于 9 月 4 日发布自研图像生成模型 MAI-Image-2.6-Flash，并通过 Microsoft Foundry 开放公开预览。该模型与旗舰版 MAI-Image-2.6 共享文生图和图像编辑核心能力，重点优化速度与成本；微软 AI 负责人 Mustafa Suleyman 称其生图速度是 GPT Image 2 的 2 倍，GPU 效率提高 72%。",
+      "category": "ai-models",
+      "score": 50,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmto2cffz0kz8roqsiwp86srs"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 24,
+      "editorialScore": 27,
+      "tags": [
+        "图像生成",
+        "文生图",
+        "生图",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
     {
       "id": "cmtn8p2hk0qliromypq87phm6",
       "title": "Microsoft 发布 MAI-Image-2.6-Flash 图像模型，速度与价格性能领先",
@@ -125,6 +154,33 @@
         "视觉",
         "视频",
         "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmto0exnu0j9uroqsrij6tskp",
+      "title": "@t_mux 的视频重拍摄模型即将开源，可从单段视频生成冻结时间环绕镜头",
+      "title_en": "We're open-sourcing this model soon. Stay tuned！",
+      "url": "https://x.com/ViggleAI/status/2096122559771148370",
+      "permalink": "https://aihot.virxact.com/items/cmto0exnu0j9uroqsrij6tskp",
+      "source": "X：Viggle AI (@ViggleAI)",
+      "publishedAt": "2026-09-05T06:25:36.000Z",
+      "discoveredAt": "2026-09-05T06:36:19.859Z",
+      "summary": "@t_mux 受 The World Labs 发布的 Atlas 启发，展示了一个可将已有视频从不存在的新相机视角重新拍摄的视频模型，演示了从单段视频围绕猫做冻结时间环绕拍摄。作者称模型仍处于早期粗糙阶段，但权重和代码即将开源，ViggleAI 转发并预告开源消息，同时征集想重拍的视频。",
+      "category": "ai-models",
+      "score": 33,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmto0exnu0j9uroqsrij6tskp"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -486,86 +542,6 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cmtlxxna40r36row50vpma7vn",
-      "title": "Midjourney 开放征集产品改进想法并将于近期发起投票",
-      "title_en": "Collecting ideas to improve Midjourney",
-      "url": "https://updates.midjourney.com/collecting-ideas-to-improve-midjourney",
-      "permalink": "https://aihot.virxact.com/items/cmtlxxna40r36row50vpma7vn",
-      "source": "Midjourney：Updates（RSS）",
-      "publishedAt": "2026-09-03T19:44:24.000Z",
-      "discoveredAt": "2026-09-03T19:51:22.720Z",
-      "summary": "Midjourney 员工 Caleb 宣布开始征集用户对后续优先事项的反馈和想法，提交入口为 midjourney.com/ideas，官方将在未来一两周内组织正式投票。",
-      "category": "ai-products",
-      "score": 30,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtlxxna40r36row50vpma7vn"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
-      "tags": [
-        "midjourney"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtlxxna40r37row5x18maivo",
-      "title": "Midjourney alpha 站发布大型更新，v8.2 编辑模型上线 lightbox 编辑器",
-      "title_en": "Alpha Changelog - 9/2/26",
-      "url": "https://updates.midjourney.com/alpha-changelog-9-2-26",
-      "permalink": "https://aihot.virxact.com/items/cmtlxxna40r37row5x18maivo",
-      "source": "Midjourney：Updates（RSS）",
-      "publishedAt": "2026-09-03T19:43:14.000Z",
-      "discoveredAt": "2026-09-03T19:51:22.720Z",
-      "summary": "Midjourney 向 alpha.midjourney.com 推送大型更新，新的 v8.2 编辑模型上线，lightbox 内置编辑器支持自然语言指令编辑、最多附 4 张参考图并集中查看会话编辑记录。同时测试 Change Style 风格探索功能，修复大量 bug，Niji 7 加 inpainting 已正常工作；下一步将设置默认参数和用提示词预览 sref。",
-      "category": "ai-products",
-      "score": 50,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtlxxna40r37row5x18maivo"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
-      "tags": [
-        "midjourney",
-        "提示词"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtlxph3v0qosrow507jlc4uq",
-      "title": "OpenAI 发布 GPT-6 Astra 主攻电脑操作、软件工程与视觉理解",
-      "title_en": "GPT-6 Astra is our best model yet for computer use， software engineering， and visual understanding t…",
-      "url": "https://x.com/OpenAIDevs/status/2095596020638036311",
-      "permalink": "https://aihot.virxact.com/items/cmtlxph3v0qosrow507jlc4uq",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "publishedAt": "2026-09-03T19:33:20.000Z",
-      "discoveredAt": "2026-09-03T19:45:00.869Z",
-      "summary": "OpenAI Developers 宣布 GPT-6 Astra 是其在电脑使用、软件工程和视觉理解方面迄今最好的模型，并附上正在使用该模型的开发者的视频分享。",
-      "category": "ai-models",
-      "score": 62,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtlxph3v0qosrow507jlc4uq"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
-      "tags": [
-        "视觉",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmtneqpuj05rrrog10z9clwzj",
       "title": "Claude Code v2.1.261 发布：新增 /skill-doctor 与输出上限配置，修复大量问题",
       "title_en": "v2.1.261",
@@ -897,54 +873,57 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtlyeuas0rigrow5d2jq4xb7",
-      "title": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现",
-      "title_en": "GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
-      "url": "https://x.com/fchollet/status/2095598451115614371",
-      "permalink": "https://aihot.virxact.com/items/cmtlyeuas0rigrow5d2jq4xb7",
-      "source": "X：Francois Chollet (@fchollet)",
-      "publishedAt": "2026-09-03T19:42:59.000Z",
-      "discoveredAt": "2026-09-03T20:04:44.581Z",
-      "summary": "François Chollet 发文称 GPT-6 Astra 在交互式推理任务上带来阶跃式能力提升，使用标准 harness 在 ARC-AGI-3 上得 66%，配合持续对话 harness 和自定义 compaction 接近 100%，每局成本约 $360。",
+      "id": "cmto5thno01buroaing3fovaf",
+      "title": "Greg Brockman 转发 9 个 GPT 6 Astra 实用提示词",
+      "title_en": "Astra for helping in your personal and work life",
+      "url": "https://x.com/gdb/status/2096159589771485299",
+      "permalink": "https://aihot.virxact.com/items/cmto5thno01buroaing3fovaf",
+      "source": "X：Greg Brockman (@gdb)",
+      "publishedAt": "2026-09-05T08:52:45.000Z",
+      "discoveredAt": "2026-09-05T09:07:37.592Z",
+      "summary": "Greg Brockman 转发 Greg Isenberg 整理的 9 个 GPT 6 Astra 提示词，定位为个人和工作生活助手。提示词涵盖谈判账单、把服务商业务转化为 AI 软件产品、监控二手市场低价商品、生成一人公司周度经营仪表盘、审计公司智能体机会、浏览器操作并输出 SOP、夜间自动化 QA 截图、订阅竞品并出月报、以及构建带获客入口的浏览器小游戏等场景。",
       "category": "tip",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtlyeuas0rigrow5d2jq4xb7"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmtlxjimb0ql0row5f7o9fz9c",
-      "title": "KIM 评价 OpenAI GPT-6 Astra 全面能力出色，称其为通用智能",
-      "title_en": "I think I understand why they call it AGI. It really is general intelligence. Its abilities are trul…",
-      "url": "https://x.com/kimmonismus/status/2095595063069843731",
-      "permalink": "https://aihot.virxact.com/items/cmtlxjimb0ql0row5f7o9fz9c",
-      "source": "X：Kim (@kimmonismus)",
-      "publishedAt": "2026-09-03T19:29:31.000Z",
-      "discoveredAt": "2026-09-03T19:40:23.062Z",
-      "summary": "作者转发 OpenAI 网站上线的消息，并称 GPT-6 Astra 各方面能力都很突出，配图显示其在内部数据科学任务评测中取得 40.9% 的高分。引用内容还提到 Claude Fable 5.1 当日表现强劲，且 GPT-6 Astra 并非 OpenAI 今年将发布的最后一款模型。",
-      "category": "ai-models",
-      "score": 21,
+      "score": 53,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtlxjimb0ql0row5f7o9fz9c"
+        "canonical": "https://aihot.virxact.com/items/cmto5thno01buroaing3fovaf"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "提示词",
+        "自动化",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmtnwy0yn0f0broqs7ev01tni",
+      "title": "Ethan Mollick 转发调侃：Astra 用 VBA 在电子表格里做出了 Space Invaders",
+      "title_en": "Fine. （Astra did this in VBA）",
+      "url": "https://x.com/emollick/status/2096096763153105214",
+      "permalink": "https://aihot.virxact.com/items/cmtnwy0yn0f0broqs7ev01tni",
+      "source": "X：Ethan Mollick (@emollick)",
+      "publishedAt": "2026-09-05T04:43:06.000Z",
+      "discoveredAt": "2026-09-05T04:59:13.096Z",
+      "summary": "Ethan Mollick 引用网友关于 zork 转 3D、Fortnite 转文本的玩笑帖，称已有人把 Space Invaders 做成电子表格，由 Astra 用 VBA 实现，并附上视频。",
+      "category": "tip",
+      "score": 18,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtnwy0yn0f0broqs7ev01tni"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
+      "relevanceScore": 6,
+      "editorialScore": 9,
       "tags": [
-        "配图"
+        "视频",
+        "3d"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
