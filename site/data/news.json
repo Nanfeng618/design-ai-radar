@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-05T15:14:07.210Z",
-  "previousGeneratedAt": "2026-09-05T10:35:34.920Z",
+  "generatedAt": "2026-09-06T04:39:05.139Z",
+  "previousGeneratedAt": "2026-09-05T15:14:07.210Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 42,
+  "itemCount": 43,
   "sourceCounts": {
-    "网站": 15,
+    "网站": 16,
     "X": 24,
     "公众号": 3
   },
@@ -571,6 +571,33 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
+      "id": "cmtot7w8j01corobssabwv15h",
+      "title": "GitHub 推出 Project HydraFusion 研究预览，在 Copilot CLI 中按编码任务动态编排多模型工作流",
+      "title_en": "GitHub Introduces Project HydraFusion： Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI",
+      "url": "https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli",
+      "permalink": "https://aihot.virxact.com/items/cmtot7w8j01corobssabwv15h",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-09-05T19:40:11.000Z",
+      "discoveredAt": "2026-09-05T20:02:41.586Z",
+      "summary": "GitHub 发布研究预览版 Project HydraFusion，为每个请求动态选择执行工作流而非单一模型，提供 Single、Cascade 和 Critique 三种模式，支持多供应商模型，现已向所有 Copilot 订阅用户开放于 Copilot CLI，按各模型标准费率计费。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtot7w8j01corobssabwv15h"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 10,
+      "editorialScore": 11,
+      "tags": [
+        "工作流",
+        "workflow"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cmtneqpuj05rrrog10z9clwzj",
       "title": "Claude Code v2.1.261 发布：新增 /skill-doctor 与输出上限配置，修复大量问题",
       "title_en": "v2.1.261",
@@ -682,6 +709,35 @@
         "codex"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmtopynul01qtro4mjuurqc3w",
+      "title": "Grok Imagine Video 1.5 agent 上线，由 Image 2.0 模型驱动",
+      "title_en": "Try our new Imagine Video 1.5 agent - it combines the best parts of a coding agent with powerful ima…",
+      "url": "https://x.com/milichab/status/2096298464632299599",
+      "permalink": "https://aihot.virxact.com/items/cmtopynul01qtro4mjuurqc3w",
+      "source": "X：Andrew Milich (@milichab)",
+      "publishedAt": "2026-09-05T18:04:35.000Z",
+      "discoveredAt": "2026-09-05T18:31:31.001Z",
+      "summary": "Grok Imagine Video 1.5 agent 现已可用，由最新的 Image 2.0 模型驱动。作者称它结合了编码智能体与图像、视频模型的能力，用于智能化的创意叙事，画质更高，更擅长以更强的连贯性衔接多个镜头。",
+      "category": "ai-products",
+      "score": 57,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtopynul01qtro4mjuurqc3w"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "创意",
+        "视频",
+        "图像",
+        "agent"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmtnryjxn0a87roqslycuqhj0",
@@ -930,33 +986,6 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmtnwy0yn0f0broqs7ev01tni",
-      "title": "Ethan Mollick 转发调侃：Astra 用 VBA 在电子表格里做出了 Space Invaders",
-      "title_en": "Fine. （Astra did this in VBA）",
-      "url": "https://x.com/emollick/status/2096096763153105214",
-      "permalink": "https://aihot.virxact.com/items/cmtnwy0yn0f0broqs7ev01tni",
-      "source": "X：Ethan Mollick (@emollick)",
-      "publishedAt": "2026-09-05T04:43:06.000Z",
-      "discoveredAt": "2026-09-05T04:59:13.096Z",
-      "summary": "Ethan Mollick 引用网友关于 zork 转 3D、Fortnite 转文本的玩笑帖，称已有人把 Space Invaders 做成电子表格，由 Astra 用 VBA 实现，并附上视频。",
-      "category": "tip",
-      "score": 18,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtnwy0yn0f0broqs7ev01tni"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "视频",
-        "3d"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmtn8fc1w0qb4romyobllbzv9",
       "title": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击",
       "title_en": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
@@ -984,31 +1013,32 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmtn7iqnt0phhromykb2t9i41",
-      "title": "Runway 推出面向创意团队的 Team Plan",
-      "title_en": "Introducing Team Plan",
-      "url": "https://runwayml.com/news/company-news/introducing-team-plan",
-      "permalink": "https://aihot.virxact.com/items/cmtn7iqnt0phhromykb2t9i41",
-      "source": "Runway：News（网页）",
-      "publishedAt": "2026-09-04T17:07:27.019Z",
-      "discoveredAt": "2026-09-04T17:07:27.019Z",
-      "summary": "Runway 推出面向创意团队的协作计划 Team Plan，提供共享项目、共享额度和 Brand Kits。该计划支持 2 至 9 个席位，每席位起价 $55。",
-      "category": "ai-products",
-      "score": 39,
+      "id": "cmtolmpa90366rocxyp9ln2tz",
+      "title": "Simon Willison 演示如何在 macOS 上用 coding agent 驱动 Blender 渲染",
+      "title_en": "Using Blender with coding agents on macOS",
+      "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos",
+      "permalink": "https://aihot.virxact.com/items/cmtolmpa90366rocxyp9ln2tz",
+      "source": "Simon Willison 博客",
+      "publishedAt": "2026-09-05T15:51:09.000Z",
+      "discoveredAt": "2026-09-05T16:30:15.692Z",
+      "summary": "Simon Willison 分享在 Mac 上用 ChatGPT Codex 搭配 Blender 的玩法：从 blender.org 安装完整 Mac 应用后，用提示词让 agent 调用 /Applications/Blender 渲染一只骑自行车的鹈鹕场景。他随后用两条追加提示词添加背景和装饰，最终图片由 Blender 的 Python API 生成。",
+      "category": "tip",
+      "score": 58,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtn7iqnt0phhromykb2t9i41"
+        "canonical": "https://aihot.virxact.com/items/cmtolmpa90366rocxyp9ln2tz"
       },
       "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
       "tags": [
-        "runway",
-        "创意"
+        "提示词",
+        "codex",
+        "agent"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmtn8lad40qijromyy5t24iko",
