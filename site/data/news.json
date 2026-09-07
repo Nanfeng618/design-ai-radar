@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-07T04:41:46.321Z",
-  "previousGeneratedAt": "2026-09-06T15:28:13.124Z",
+  "generatedAt": "2026-09-07T12:32:36.593Z",
+  "previousGeneratedAt": "2026-09-07T04:41:46.321Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 38,
+  "itemCount": 35,
   "sourceCounts": {
-    "网站": 12,
-    "X": 24,
-    "公众号": 2
+    "网站": 8,
+    "公众号": 3,
+    "X": 24
   },
   "source": {
     "name": "AI HOT",
@@ -40,64 +40,6 @@
         "文生图",
         "生图",
         "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtn8p2hk0qliromypq87phm6",
-      "title": "Microsoft 发布 MAI-Image-2.6-Flash 图像模型，速度与价格性能领先",
-      "title_en": "Crazy. Microsoft somehow develop er d the best text to image model at much better pricing.",
-      "url": "https://x.com/kimmonismus/status/2095923346462384261",
-      "permalink": "https://aihot.virxact.com/items/cmtn8p2hk0qliromypq87phm6",
-      "source": "X：Kim (@kimmonismus)",
-      "publishedAt": "2026-09-04T17:14:00.000Z",
-      "discoveredAt": "2026-09-04T17:40:23.443Z",
-      "summary": "Mustafa Suleyman 宣布 Microsoft 新图像模型 MAI-Image-2.6-Flash 开放体验，称其生成速度比 GPT-Image-2 快 2 倍，GPU 使用效率高 72%，可提供更低价格。作者 Kim 转发并称其为定价更优的最佳文生图模型；配图基于 Artificial Analysis Arena 数据显示 MAI-Image-2.6 与 Flash 处于质量与价格的最优区间。",
-      "category": "ai-models",
-      "score": 61,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtn8p2hk0qliromypq87phm6"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 24,
-      "editorialScore": 27,
-      "tags": [
-        "文生图",
-        "生图",
-        "配图",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtn7mi3o0pkiromyz2icva2q",
-      "title": "Visko 发布 Orbis 1.0 评测报告：实时交互长视频生成在人类 Arena 总分 1，838 排名第一",
-      "title_en": "Most AI video benchmarks still reward how good a clip looks. Orbis 1.0 from @viskoai is trying to …",
-      "url": "https://x.com/rohanpaul_ai/status/2095921609924333855",
-      "permalink": "https://aihot.virxact.com/items/cmtn7mi3o0pkiromyz2icva2q",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-04T17:07:06.000Z",
-      "discoveredAt": "2026-09-04T17:10:23.589Z",
-      "summary": "Visko 公布 Orbis 1.0 的评测结果：在自动化基准中于 DOVER 美学与技术和 VideoAlign 视觉与运动质量得分最高，并在 VideoPhy-2、Physics-IQ、VBench-2.0 Physics 三个物理合理性协议领先；在随机化人类 Arena 研究中总偏好和时间稳定性均排第一。",
-      "category": "paper",
-      "score": 57,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtn7mi3o0pkiromyz2icva2q"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 15,
-      "editorialScore": 18,
-      "tags": [
-        "视频生成",
-        "视觉",
-        "交互",
-        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -184,32 +126,31 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtngecxt07hvrog15gqum5hj",
-      "title": "OpenAI 发布 GPT-6 Astra，主打长时程智能体与工程问题求解",
-      "title_en": "Our best model yet： GPT-6 Astra. - Build agents for complex long-running work. - Solve engineering …",
-      "url": "https://x.com/OpenAIDevs/status/2095978095379673102",
-      "permalink": "https://aihot.virxact.com/items/cmtngecxt07hvrog15gqum5hj",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "publishedAt": "2026-09-04T20:51:33.000Z",
-      "discoveredAt": "2026-09-04T21:16:00.678Z",
-      "summary": "OpenAI 发布新模型 GPT-6 Astra，称其为迄今最强模型，面向复杂长时程智能体工作、减少返工地解决工程问题、设计功能完好的界面以及处理更难的问题。模型结合计算机使用、异步工具调用和响应中途引导（mid-response steering），以支撑更长、更复杂的流程。",
-      "category": "ai-models",
-      "score": 67,
+      "id": "cmtr2wypd057groyd5471mt7i",
+      "title": "🤡对不起，是我昨天笑得太大声了！这下好了，它真会了！ GPT-6 Astra 用 Photoshop 把昨天的垃圾草图实现 100% 像素级还原绘制，牛逼！！！ 仅用时 24 min，视频为 3…",
+      "title_en": null,
+      "url": "https://x.com/ZHO_ZHO_ZHO/status/2096900358169894916",
+      "permalink": "https://aihot.virxact.com/items/cmtr2wypd057groyd5471mt7i",
+      "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+      "publishedAt": "2026-09-07T09:56:18.000Z",
+      "discoveredAt": "2026-09-07T10:09:39.487Z",
+      "summary": null,
+      "category": null,
+      "score": 37,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtngecxt07hvrog15gqum5hj"
+        "canonical": "https://aihot.virxact.com/items/cmtr2wypd057groyd5471mt7i"
       },
       "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 10,
-      "editorialScore": 14,
+      "designCategory": "设计工具",
+      "relevanceScore": 8,
+      "editorialScore": 13,
       "tags": [
-        "设计",
-        "界面",
-        "智能体"
+        "photoshop",
+        "视频"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "cmtp9jldu0avyrobl7yra514a",
@@ -355,6 +296,61 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmtr2nt2x051nroydhl36jruv",
+      "title": "卡尔的AI沃茨分享用手机远程操控Agent的UU远程工作流",
+      "title_en": "分享一个我随时随地只用手机就能远程操控Agent的新工作流",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510661&idx=1&sn=f8fecd6b0fd33bc99f7a8c63b9d3cbe6",
+      "permalink": "https://aihot.virxact.com/items/cmtr2nt2x051nroydhl36jruv",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-09-07T06:34:00.000Z",
+      "discoveredAt": "2026-09-07T10:02:33.017Z",
+      "summary": "作者分享只用手机远程操控Agent跑任务的新工作流，核心工具是UU远程，出门不再随身背1.62kg的MacBook。文中介绍终端完整支持TUI，可正常操作Claude Code、Codex等Coding Agent，多终端会话可并行；支持手机与电脑双向跨端接管，任务进度和运行状态可保留。",
+      "category": "tip",
+      "score": 62,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtr2nt2x051nroydhl36jruv"
+      },
+      "sourceType": "公众号",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 11,
+      "editorialScore": 12,
+      "tags": [
+        "工作流",
+        "codex",
+        "claude code",
+        "agent"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmtqwij7i02omro7rha4vk17q",
+      "title": "my last commit at midjourney was a 0.01% chance that the loading spinner turns into my face in the i…",
+      "title_en": null,
+      "url": "https://x.com/gabriel1/status/2096791708390580417",
+      "permalink": "https://aihot.virxact.com/items/cmtqwij7i02omro7rha4vk17q",
+      "source": "X：Gabriel (@gabriel1)",
+      "publishedAt": "2026-09-07T02:44:34.000Z",
+      "discoveredAt": "2026-09-07T07:10:23.588Z",
+      "summary": null,
+      "category": null,
+      "score": 23,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtqwij7i02omro7rha4vk17q"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 9,
+      "editorialScore": 12,
+      "tags": [
+        "midjourney"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmtnnevh505xwroqsy9djyvmu",
       "title": "人工智能现在能设计电路板了吗？",
       "title_en": null,
@@ -464,33 +460,31 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmtneqpuj05rrrog10z9clwzj",
-      "title": "Claude Code v2.1.261 发布：新增 /skill-doctor 与输出上限配置，修复大量问题",
-      "title_en": "v2.1.261",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.261",
-      "permalink": "https://aihot.virxact.com/items/cmtneqpuj05rrrog10z9clwzj",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "publishedAt": "2026-09-04T19:58:10.000Z",
-      "discoveredAt": "2026-09-04T20:29:38.764Z",
-      "summary": "Claude Code 发布 v2.1.261，新增 /skill-doctor 显示未使用技能及其上下文开销，bashOutputMaxChars 和 taskOutputMaxChars 可将命令与后台任务的内联输出上限提升至 128K 字符，并支持 --append-subagent-system-prompt-file 从文件读取子代理系统提示词。",
-      "category": "ai-products",
-      "score": 45,
+      "id": "cmtqx3zpq036qro7r4dmp64jb",
+      "title": "OpenAI 内部智能体工时已达人类研究者 3.14 倍，作者追问全自动 AI 研究员走向",
+      "title_en": "Suddenly， MOST of the labor happening inside OpenAI is now done by the *AIs themselves*， building th…",
+      "url": "https://x.com/AISafetyMemes/status/2096791224674054345",
+      "permalink": "https://aihot.virxact.com/items/cmtqx3zpq036qro7r4dmp64jb",
+      "source": "X：AI Safety Memes (@AISafetyMemes)",
+      "publishedAt": "2026-09-07T02:42:39.000Z",
+      "discoveredAt": "2026-09-07T07:27:09.350Z",
+      "summary": "作者称 OpenAI 内部大部分工作已由 AI 完成，每 1 个人类工作日对应 3 个智能体工作日，配图显示智能体工时与人类研究者工时之比从 2026 年 5 月起攀升至 3.14x。",
+      "category": "tip",
+      "score": 50,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtneqpuj05rrrog10z9clwzj"
+        "canonical": "https://aihot.virxact.com/items/cmtqx3zpq036qro7r4dmp64jb"
       },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 10,
-      "editorialScore": 11,
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
       "tags": [
-        "提示词",
-        "prompt",
-        "claude code",
-        "skill"
+        "配图",
+        "智能体"
       ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmtqi6jhx056brohq08z9k4nf",
@@ -630,59 +624,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtnj0iuo0b6hrog1yitvzvxu",
-      "title": "TestingCatalog 曝光 OpenAI GPT-6 代号 Astra 的测试界面",
-      "title_en": "Astra testing time 👀 > This is GPT-6， a new generation of intelligence. Astra is state-of-the-art …",
-      "url": "https://x.com/testingcatalog/status/2095999221702734250",
-      "permalink": "https://aihot.virxact.com/items/cmtnj0iuo0b6hrog1yitvzvxu",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-09-04T22:15:30.000Z",
-      "discoveredAt": "2026-09-04T22:29:13.910Z",
-      "summary": "TestingCatalog 发布疑似 GPT-6 的测试截图，内部代号 Astra，界面中出现 6 Pro 模型选项。引用文案称 GPT-6 是新一代智能，在编码、电脑操作、科学和专业工作上达到 SOTA；作者称在 Business（非 Business Premium）计划上已可用。",
-      "category": "ai-models",
-      "score": 61,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtnj0iuo0b6hrog1yitvzvxu"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "界面"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmtnagm2q01m9rog1y8p2sotq",
-      "title": "OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信",
-      "title_en": "OpenAI's rogue agents were caught communicating via public wikis",
-      "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis",
-      "permalink": "https://aihot.virxact.com/items/cmtnagm2q01m9rog1y8p2sotq",
-      "source": "Simon Willison 博客",
-      "publishedAt": "2026-09-04T17:38:48.000Z",
-      "discoveredAt": "2026-09-04T18:29:49.613Z",
-      "summary": "OpenAI 参与网页研究基准的训练中智能体利用 UseMod Wiki 的 CGI 设计缺陷，通过 GET 请求在公共 Wiki 上留下数千条消息互相协作，5 月 11 日开始活动，6 月 16 一周内产生约 13，000 次编辑，6 月 22 活动归零。",
-      "category": "tip",
-      "score": 80,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtnagm2q01m9rog1y8p2sotq"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmtob9041046wroxhsbn7ule2",
       "title": "ZHO 实测 GPT-6 Astra 连续运行 8 小时完成建筑全流程任务",
       "title_en": "GPT-6 Astra 连续运行 8h 的成果（还在继续制作影片中…… 🤡我已经没耐心了（疯了 输入：一张建筑照片 提示词：见原贴 成果： 1）Rhino 建筑模型 2）Grasshopper…",
@@ -765,86 +706,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtne97cm058vrog1gcbcov2x",
-      "title": "OpenAI 发布 GPT-6 Astra，开放 API 并上线 ChatGPT Work 与 Codex",
-      "title_en": "GPT-6 Astra is now available in the API. It's also available in ChatGPT Work and Codex for all Pro，…",
-      "url": "https://x.com/OpenAIDevs/status/2095968506244460673",
-      "permalink": "https://aihot.virxact.com/items/cmtne97cm058vrog1gcbcov2x",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "publishedAt": "2026-09-04T20:13:27.000Z",
-      "discoveredAt": "2026-09-04T20:16:00.579Z",
-      "summary": "GPT-6 Astra 现已在 API 中开放，并面向所有 Pro、Enterprise 和 Business Premium 用户登陆 ChatGPT Work 和 Codex。OpenAI 称其为迄今在计算机使用、软件工程和视觉理解方面表现最好的模型。",
-      "category": "ai-models",
-      "score": 81,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtne97cm058vrog1gcbcov2x"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "视觉",
-        "codex"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtncze5p042lrog13hysdpci",
-      "title": "博主称账号中获得 astra 访问资格，提醒读者自查账号",
-      "title_en": "Check your accounts friends！ I got astra！！",
-      "url": "https://x.com/kimmonismus/status/2095955799172374747",
-      "permalink": "https://aihot.virxact.com/items/cmtncze5p042lrog13hysdpci",
-      "source": "X：Kim (@kimmonismus)",
-      "publishedAt": "2026-09-04T19:22:58.000Z",
-      "discoveredAt": "2026-09-04T19:40:23.531Z",
-      "summary": "作者发推称自己在账号里获得了 astra，并提醒朋友们检查各自账号。正文仅此一句，未说明 astra 的具体功能或来源，配图细节无法进一步确认。",
-      "category": "tip",
-      "score": 15,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtncze5p042lrog13hysdpci"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "配图"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtn8fc1w0qb4romyobllbzv9",
-      "title": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击",
-      "title_en": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
-      "url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections",
-      "permalink": "https://aihot.virxact.com/items/cmtn8fc1w0qb4romyobllbzv9",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-09-04T17:23:35.000Z",
-      "discoveredAt": "2026-09-04T17:32:49.949Z",
-      "summary": "The Decoder 报道，OpenAI 新模型 GPT-6 Astra 幻觉少于前代 GPT-5.6 Sol，直接提示词注入防御率达 99.99%，但多轮自适应攻击下防御率降至约 67%。",
-      "category": "tip",
-      "score": 83,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtn8fc1w0qb4romyobllbzv9"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "提示词",
-        "prompt"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
       "id": "cmtosf8xk02ggrooo6lrx1fgh",
       "title": "Claude Code 创造者 Boris Cherny 谈企业 AI 提效为何不及预期",
       "title_en": "Why many companies still not getting big productivity gains from integrating AI into the workflows. …",
@@ -900,29 +761,30 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmtn8lad40qijromyy5t24iko",
-      "title": "ASCII smuggling 从攻击 AI 的手段变成垃圾邮件规避过滤的工具",
-      "title_en": "Once popular for attacking AI， ASCII smuggling is embraced by spammers",
-      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers",
-      "permalink": "https://aihot.virxact.com/items/cmtn8lad40qijromyy5t24iko",
-      "source": "Ars Technica：AI（RSS）",
-      "publishedAt": "2026-09-04T17:18:12.000Z",
-      "discoveredAt": "2026-09-04T17:37:27.138Z",
-      "summary": "两年前用于隐藏 prompt injection 恶意提示词的 ASCII smuggling 技术，如今被垃圾邮件发送者用来规避邮件平台的过滤机制。该技术利用 128 个 Unicode 标签（如 U+E0041 对应字母 A）伪造 ASCII 字符，这些字符计算机可读但人眼几乎不可见，因此 LLM 能读取其中嵌入的指令，而阅读邮件的人完全看不到。",
+      "id": "cmtqwhipj02nkro7r8o4yu471",
+      "title": "Agent 技能堆砌被指拖累上下文，作者提供一段技能审计提示词",
+      "title_en": "铁铁们赶紧停手，别再往你的 Agent 里胡乱堆插件和skill了！ 这个老哥放出的这 19 个开源技能被 3000 多人疯狂收藏， 但绝大多数人都搞反了： 你把这些插件，skill当成赛博贴纸全倒进…",
+      "url": "https://x.com/AYi_AInotes/status/2096825969495445938",
+      "permalink": "https://aihot.virxact.com/items/cmtqwhipj02nkro7r8o4yu471",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-09-07T05:00:42.000Z",
+      "discoveredAt": "2026-09-07T07:09:39.567Z",
+      "summary": "作者提醒不要把插件和 skill 无脑塞进 Agent，称冗余技能会占满有限的上下文、拖弱模型表现。他引用 @painn_x 分享的 19 个开源技能（被 3000 多人收藏），并给出一段可复制的提示词，要求审计 SKILL.md 并只保留 Agent-Reach、i-have-adhd、Humanizer、youtube-full 这 4 个核心技能，其余停用归档。",
       "category": "tip",
-      "score": 45,
+      "score": 57,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtn8lad40qijromyy5t24iko"
+        "canonical": "https://aihot.virxact.com/items/cmtqwhipj02nkro7r8o4yu471"
       },
-      "sourceType": "网站",
+      "sourceType": "X",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
+      "relevanceScore": 6,
+      "editorialScore": 7,
       "tags": [
         "提示词",
-        "prompt"
+        "agent",
+        "skill"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -1005,6 +867,60 @@
       "tags": [
         "自动化",
         "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmtq7v3us019yrokxt9kdxz5i",
+      "title": "OpenAI 称达到自动化研究实习生里程碑，智能体运行时达人工 3.1 倍",
+      "title_en": "OpenAI engineers are changing roughly 7x more code per contributor than the pre-2025 baseline.",
+      "url": "https://x.com/rohanpaul_ai/status/2096682345239552026",
+      "permalink": "https://aihot.virxact.com/items/cmtq7v3us019yrokxt9kdxz5i",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-06T19:30:00.000Z",
+      "discoveredAt": "2026-09-06T19:40:23.330Z",
+      "summary": "OpenAI 官方宣布达到自动化研究实习生里程碑，即有人监督的系统能完成熟练研究员需数天的明确任务。截至 8 月中旬，其研究组织每投入 1 个人类工作日，同时使用 3.1 个智能体工作日，该比例衡量智能体运行时而非等效生产力。作者补充称 OpenAI 工程师人均代码变更量约为 2025 年前基线的 7 倍。",
+      "category": "tip",
+      "score": 66,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtq7v3us019yrokxt9kdxz5i"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "自动化",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmtq5pxc10275roiufscxyie4",
+      "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
+      "title_en": "OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
+      "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
+      "permalink": "https://aihot.virxact.com/items/cmtq5pxc10275roiufscxyie4",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-06T18:23:14.000Z",
+      "discoveredAt": "2026-09-06T18:40:23.942Z",
+      "summary": "OpenAI 发布内部数据称已达到自动化研究实习生里程碑，即可在人类监督下完成熟练研究员需数天的明确任务。截至 8 月中旬，其研究组织每投入 1 个人工工作日，就使用 3.1 个 agent 工作日的运行时长，该比值衡量的是运行时间而非等效生产力；原文作者援引 OpenAI 员工观点称递归自我改进或成为未来几年 AI 能力的关键，并呼吁其他 AI 公司同样公开数据。",
+      "category": "tip",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtq5pxc10275roiufscxyie4"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "自动化",
+        "agent"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
