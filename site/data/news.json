@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-07T12:32:36.593Z",
-  "previousGeneratedAt": "2026-09-07T04:41:46.321Z",
+  "generatedAt": "2026-09-08T04:36:17.602Z",
+  "previousGeneratedAt": "2026-09-07T12:32:36.593Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 35,
+  "itemCount": 37,
   "sourceCounts": {
-    "网站": 8,
-    "公众号": 3,
-    "X": 24
+    "X": 24,
+    "网站": 10,
+    "公众号": 3
   },
   "source": {
     "name": "AI HOT",
@@ -15,31 +15,85 @@
   },
   "items": [
     {
-      "id": "cmto2cffz0kz8roqsiwp86srs",
-      "title": "微软发布 MAI-Image-2.6-Flash：生图速度是 GPT Image 2 的 2 倍",
-      "title_en": "微软发布 MAI-Image-2.6-Flash：生图速度是全球最佳 AI 模型的 2 倍",
-      "url": "https://www.ithome.com/0/998/747.htm",
-      "permalink": "https://aihot.virxact.com/items/cmto2cffz0kz8roqsiwp86srs",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-05T06:58:19.000Z",
-      "discoveredAt": "2026-09-05T07:30:20.703Z",
-      "summary": "微软于 9 月 4 日发布自研图像生成模型 MAI-Image-2.6-Flash，并通过 Microsoft Foundry 开放公开预览。该模型与旗舰版 MAI-Image-2.6 共享文生图和图像编辑核心能力，重点优化速度与成本；微软 AI 负责人 Mustafa Suleyman 称其生图速度是 GPT Image 2 的 2 倍，GPU 效率提高 72%。",
-      "category": "ai-models",
-      "score": 50,
+      "id": "cmtrmtx2r09dwrotn3v1rfbim",
+      "title": "今天的一个想法， 文本大模型与视频大模型定位的拐点到来了， 这两种模型之前看上去不存在上下游关系， 但是现在变成了\"显式符号/几何模拟（3D引擎 + 符号逻辑）\" →\"隐式统计生成（像素级视频生成扩散…",
+      "title_en": null,
+      "url": "https://x.com/karminski3/status/2097043972640420167",
+      "permalink": "https://aihot.virxact.com/items/cmtrmtx2r09dwrotn3v1rfbim",
+      "source": "X：karminski (@karminski3)",
+      "publishedAt": "2026-09-07T19:26:58.000Z",
+      "discoveredAt": "2026-09-07T19:27:09.428Z",
+      "summary": null,
+      "category": null,
+      "score": 37,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmto2cffz0kz8roqsiwp86srs"
+        "canonical": "https://aihot.virxact.com/items/cmtrmtx2r09dwrotn3v1rfbim"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 14,
+      "editorialScore": 17,
+      "tags": [
+        "视频生成",
+        "视频",
+        "3d"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmts0tgsd05j3roft1pq187b4",
+      "title": "微信开源多模态嵌入模型 WeMM-Embedding，已在微信大规模使用且日调用量达 10 亿次",
+      "title_en": "微信 WeMM-Embedding 多模态模型已在微信大规模使用：覆盖朋友圈搜索等，每天调用量 10 亿次",
+      "url": "https://www.ithome.com/0/999/527.htm",
+      "permalink": "https://aihot.virxact.com/items/cmts0tgsd05j3roft1pq187b4",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-08T01:02:16.000Z",
+      "discoveredAt": "2026-09-08T01:58:43.545Z",
+      "summary": "微信 AI 于 9 月 4 日宣布开源通用多模态嵌入模型 WeMM-Embedding，包含 2B、4B、9B 三个版本，支持文本、图像、视频、视觉文档及任意交错的多模态输入。",
+      "category": "ai-models",
+      "score": 62,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmts0tgsd05j3roft1pq187b4"
       },
       "sourceType": "网站",
       "designCategory": "图像与视频",
-      "relevanceScore": 24,
-      "editorialScore": 27,
+      "relevanceScore": 12,
+      "editorialScore": 15,
       "tags": [
-        "图像生成",
-        "文生图",
-        "生图",
+        "视觉",
+        "视频",
         "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtrijlt004ktrotnp9tu7zhd",
+      "title": "NVIDIA Sol 团队发布 Sol-H3，MiniMax-H3 视频生成速度超过播放速度",
+      "title_en": "New video generation acceleration for MiniMax-H3 from the NVIDIA Sol team！ Faster than playback， f…",
+      "url": "https://x.com/MiniMax_AI/status/2097006566696444363",
+      "permalink": "https://aihot.virxact.com/items/cmtrijlt004ktrotnp9tu7zhd",
+      "source": "X：MiniMax (@MiniMax_AI)",
+      "publishedAt": "2026-09-07T16:58:20.000Z",
+      "discoveredAt": "2026-09-07T17:27:09.291Z",
+      "summary": "NVIDIA Sol 团队与 MiniMax 合作发布 Sol-H3 端到端推理加速栈，在 8× NVIDIA B300 Blackwell 上生成 5 秒 1344×768 立体声视频仅需 1.653 秒，相比 50 步 Base H3 最高提速 15.54×，且在 1×、4×、8× B300 上均可扩展。",
+      "category": "ai-models",
+      "score": 63,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtrijlt004ktrotnp9tu7zhd"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "视频生成",
+        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -73,6 +127,92 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmtrb2yxe000froa4mi1cx1lc",
+      "title": "消息称字节跳动开发实时空间视频生成 AI 模型，张一鸣亲自督导，最快下月发布",
+      "title_en": "消息称字节正开发实时空间视频生成 AI 模型：张一鸣亲自督导，最快下个月发布",
+      "url": "https://www.ithome.com/0/999/478.htm",
+      "permalink": "https://aihot.virxact.com/items/cmtrb2yxe000froa4mi1cx1lc",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-07T13:51:53.000Z",
+      "discoveredAt": "2026-09-07T13:58:15.493Z",
+      "summary": "据彭博社报道，字节跳动正开发实时空间视频生成 AI 模型，创始人张一鸣亲自督导研发，计划最早下月发布，发布时间尚未最终确定。该模型基于电影级视频生成模型 Seedance 构建，面向直播、短剧和游戏创建交互式虚拟世界，可在每秒 20 帧帧率下以约 50 毫秒延迟按需生成视频流，响应 Pico 头显用户的语音或动作。",
+      "category": "industry",
+      "score": 53,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtrb2yxe000froa4mi1cx1lc"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "交互",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtqi6jhx056brohq08z9k4nf",
+      "title": "Meta Muse 智能体 UI 抢先看",
+      "title_en": "META 🔥： Early look at the UI of the upcoming Muse agent from Meta. > According to the App Store l…",
+      "url": "https://x.com/testingcatalog/status/2096753152926122300",
+      "permalink": "https://aihot.virxact.com/items/cmtqi6jhx056brohq08z9k4nf",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "publishedAt": "2026-09-07T00:11:22.000Z",
+      "discoveredAt": "2026-09-07T00:29:13.021Z",
+      "summary": "META 🔥：Meta 即将推出的 Muse 智能体界面早期预览。\n\n> 根据 App Store 列表信息，Muse 智能体可能充当主动式助手，帮助用户追踪目标并掌握日程与任务。\n\n> Muse 智能体已从内部测试转入封闭/限量 alpha 测试阶段。\n\n> 新增了邀请码相关功能。\n\n敬请期待 👀",
+      "category": null,
+      "score": 27,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtqi6jhx056brohq08z9k4nf"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 10,
+      "editorialScore": 14,
+      "tags": [
+        "ui",
+        "界面",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmtq3diul01e4rocb56a8pe05",
+      "title": "GPT-6 Astra 百款演示分类盘点",
+      "title_en": "I've looked through 100s of GPT-6 Astra demos and compiled and categorized the best ones. There's s…",
+      "url": "https://x.com/deedydas/status/2096652977952202922",
+      "permalink": "https://aihot.virxact.com/items/cmtq3diul01e4rocb56a8pe05",
+      "source": "X：Deedy Das (@deedydas)",
+      "publishedAt": "2026-09-06T17:33:18.000Z",
+      "discoveredAt": "2026-09-06T17:34:45.061Z",
+      "summary": "我浏览了数百个 GPT-6 Astra 演示，并将最佳案例进行了整理和分类。\n\n远不止那些 3D Blender 演示，还包括：\n- 3D（三维建模、教育、游戏）\n- 机器人控制\n- 音乐生成\n- 纯视觉\n- 生物\n- UI\n- 计算机操作（绘画、游戏、Figma）\n- 金融\n\n在视觉、计算机操作、空间推理和原始智能方面，这确实是一款非常强大的模型。\n\n1/22",
+      "category": null,
+      "score": 36,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtq3diul01e4rocb56a8pe05"
+      },
+      "sourceType": "X",
+      "designCategory": "设计工具",
+      "relevanceScore": 9,
+      "editorialScore": 14,
+      "tags": [
+        "figma",
+        "ui",
+        "视觉",
+        "3d"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
       "id": "cmtpfz2ok01gtrodgta8odcmw",
       "title": "GPT-6 Astra ➡ Figma 实现【任意图片的矢量重绘】，这下创作方便太多了！再也不用担心矢量素材不够用了！ figma 插件代码 或者 computer use 都可以，这次测试的是co…",
       "title_en": null,
@@ -99,21 +239,21 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cmto0exnu0j9uroqsrij6tskp",
-      "title": "@t_mux 的视频重拍摄模型即将开源，可从单段视频生成冻结时间环绕镜头",
-      "title_en": "We're open-sourcing this model soon. Stay tuned！",
-      "url": "https://x.com/ViggleAI/status/2096122559771148370",
-      "permalink": "https://aihot.virxact.com/items/cmto0exnu0j9uroqsrij6tskp",
-      "source": "X：Viggle AI (@ViggleAI)",
-      "publishedAt": "2026-09-05T06:25:36.000Z",
-      "discoveredAt": "2026-09-05T06:36:19.859Z",
-      "summary": "@t_mux 受 The World Labs 发布的 Atlas 启发，展示了一个可将已有视频从不存在的新相机视角重新拍摄的视频模型，演示了从单段视频围绕猫做冻结时间环绕拍摄。作者称模型仍处于早期粗糙阶段，但权重和代码即将开源，ViggleAI 转发并预告开源消息，同时征集想重拍的视频。",
-      "category": "ai-models",
-      "score": 33,
+      "id": "cmtoqa3i1022kro4me7n5pl50",
+      "title": "OnSolo 年付计划上线，Seedance 2.0 视频低至 $0.066/秒",
+      "title_en": "AI video gets much more useful when failure becomes cheap. Because， generative video is still stoch…",
+      "url": "https://x.com/rohanpaul_ai/status/2096300727279005837",
+      "permalink": "https://aihot.virxact.com/items/cmtoqa3i1022kro4me7n5pl50",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-05T18:13:35.000Z",
+      "discoveredAt": "2026-09-05T18:40:23.874Z",
+      "summary": "OnSolo 推出年付计划，Seedance 2.0 720p 视频生成价格降至 $0.066/秒，5 秒片段仅需 $0.33，较原价节省 9%-45%。低成本让 AI 视频试错更划算，用户可大量探索运镜、节奏与种子等变量。",
+      "category": null,
+      "score": 30,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmto0exnu0j9uroqsrij6tskp"
+        "canonical": "https://aihot.virxact.com/items/cmtoqa3i1022kro4me7n5pl50"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
@@ -124,6 +264,60 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtrlu0o508ggrotn4j27h7qw",
+      "title": "克劳德与ChatGPT工作追踪困境",
+      "title_en": "It is now getting very hard to track where your work and conversations are in Claude and ChatGPT： Lo…",
+      "url": "https://x.com/emollick/status/2097030869609263166",
+      "permalink": "https://aihot.virxact.com/items/cmtrlu0o508ggrotn4j27h7qw",
+      "source": "X：Ethan Mollick (@emollick)",
+      "publishedAt": "2026-09-07T18:34:54.000Z",
+      "discoveredAt": "2026-09-07T18:59:14.624Z",
+      "summary": "如今在Claude和ChatGPT中，要追踪你的工作和对话所在位置已经变得非常困难：是在本地电脑？云端？哪台电脑？手机？通过Dispatch或Remote连接的电脑？还是你在Tag中对话的那台？那是否在某个项目中？当前的用户体验几乎帮不上忙。",
+      "category": null,
+      "score": 35,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtrlu0o508ggrotn4j27h7qw"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "用户体验"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmtreqaiq01u0ro8dglk70p6c",
+      "title": "Google DeepMind 与 MIT 等发布 SMART 论文：设计文档取代代码作为 ML 性能建模库的核心产物",
+      "title_en": "// Design Docs Are All You Need // Banger paper from Google DeepMind， MIT， and colleagues. What a …",
+      "url": "https://x.com/omarsar0/status/2096983084956852537",
+      "permalink": "https://aihot.virxact.com/items/cmtreqaiq01u0ro8dglk70p6c",
+      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+      "publishedAt": "2026-09-07T15:25:02.000Z",
+      "discoveredAt": "2026-09-07T15:40:23.439Z",
+      "summary": "Google DeepMind、MIT、Stanford 等机构提出 SMART，一个 ML 性能建模库，其 main 分支几乎不含代码，仓库是自然语言设计文档的有向图，编码子智能体在版本更新时从文档重新生成全部实现。",
+      "category": "paper",
+      "score": 57,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtreqaiq01u0ro8dglk70p6c"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "design",
+        "设计",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmtr2wypd057groyd5471mt7i",
@@ -181,119 +375,31 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmtoglwtx021yroe8i0vv9rtk",
-      "title": "OpenAI Codex 架构师谈新一代 Coding Agent 如何给 AGENTS.md 和 Skill 瘦身",
-      "title_en": "当所有人还在疯狂给 AI 堆长提示词、狂塞 Skill，OpenAI Codex 架构师这篇文章直接把全网干沉默了： 别再洋洋得意你的 AGENTS.md 写得有多厚了。 新一代 Coding Ag…",
-      "url": "https://x.com/AYi_AInotes/status/2096236132812116025",
-      "permalink": "https://aihot.virxact.com/items/cmtoglwtx021yroe8i0vv9rtk",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-09-05T13:56:54.000Z",
-      "discoveredAt": "2026-09-05T14:09:39.400Z",
-      "summary": "作者转发 OpenAI Codex 架构师 @pvncher 的文章，指出新一代 Coding Agent 时代，为弱模型搭建的长提示词和 Skill 脚手架正在烧 Token 并引发早停。官方给出 5 条规则：Skill 描述只写触发条件、删掉 AGENTS.md 里的每次必读文档、对安全测试环境彻底放权、开工只锁完成标准不写细步骤，并附上可直接复制的仓库自检审计 Prompt 和放权模板。",
-      "category": "tip",
-      "score": 72,
+      "id": "cmts39grh019iro46dlr37si7",
+      "title": "可灵AI官宣亮相2026多伦多国际电影节市场",
+      "title_en": "可灵AI官宣亮相2026多伦多国际电影节市场！",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5NTkwNDU2OA%3D%3D&mid=2247496783&idx=1&sn=7207ea50730de9e26f1e5c9f09d6ea22",
+      "permalink": "https://aihot.virxact.com/items/cmts39grh019iro46dlr37si7",
+      "source": "公众号：可灵AI（快手·视频）",
+      "publishedAt": "2026-09-08T03:00:00.000Z",
+      "discoveredAt": "2026-09-08T03:07:09.501Z",
+      "summary": "可灵AI将于9月10日至16日亮相2026多伦多国际电影节市场（TIFF Market），与全球影视创作者及行业伙伴探讨AI进入电影制作的真实现场。期间将举办产业论坛、行业交流酒会，并设置展位（A20， Metro Toronto Convention Centre），展示可灵AI驱动连贯、可控的电影级AI视频创作。",
+      "category": null,
+      "score": 28,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtoglwtx021yroe8i0vv9rtk"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 12,
-      "editorialScore": 13,
-      "tags": [
-        "提示词",
-        "prompt",
-        "codex",
-        "agent"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmtnv6dcz0d9hroqsbi8v3kj7",
-      "title": "ZHO 感叹 GPT-6 Astra 用 Rhino/Grasshopper 建模",
-      "title_en": "卧槽了老铁，GPT-6 Astra 已经开始用 Rhino/Grasshopper 建模了 真 tm 要给我看哭了，那当年我们熬的夜/背的指令/写的电池组算什么，你告我算什么😭😭😭 看着他用…",
-      "url": "https://x.com/ZHO_ZHO_ZHO/status/2096082364833407102",
-      "permalink": "https://aihot.virxact.com/items/cmtnv6dcz0d9hroqsbi8v3kj7",
-      "source": "X：ZHO (@ZHO_ZHO_ZHO)",
-      "publishedAt": "2026-09-05T03:45:53.000Z",
-      "discoveredAt": "2026-09-05T04:09:39.673Z",
-      "summary": "ZHO 感叹 GPT-6 Astra 已能使用 Rhino/Grasshopper 建模，并转发其此前发起的地狱难度测试，测试先基于传统工作流程和软件进行，达标后再做创新流程与建构测试。附图显示其提示词要求 BIM 级建筑重建、3min 建筑微电影、初步设计施工图、竞赛图纸及 2min 悬疑短片，界面显示 ChatGPT Work 与 GPT-6 Astra Ultra。",
-      "category": "tip",
-      "score": 24,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtnv6dcz0d9hroqsbi8v3kj7"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "设计",
-        "界面",
-        "工作流",
-        "提示词"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmtnuw2g90d0croqskse9qabg",
-      "title": "百度智能云发布百度搭子教学套件，围绕教学场景提供四大核心能力",
-      "title_en": "百度搭子教学套件重磅上新：AI造课，惊艳交付！",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA5NTQ5MzE5OQ%3D%3D&mid=2653160075&idx=1&sn=5cce58a2bdfb187adf8e7d2f45efce0e",
-      "permalink": "https://aihot.virxact.com/items/cmtnuw2g90d0croqskse9qabg",
-      "source": "公众号：百度智能云（文心）",
-      "publishedAt": "2026-09-05T02:00:00.000Z",
-      "discoveredAt": "2026-09-05T04:01:41.804Z",
-      "summary": "百度智能云推出百度搭子教学套件，围绕教学场景提供教学方案设计、公开课设计、AI课程改造和知识图谱构建四项核心能力。老师提交课程资料后可唤起秒哒生成可交互的3D课件；AI课程改造从内容适配性、学生受益度等五个维度评估课程并提供16课时标准课程骨架；知识图谱支持六种概念关系识别，可输出交互式HTML和PNG。",
-      "category": "ai-products",
-      "score": 27,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtnuw2g90d0croqskse9qabg"
+        "canonical": "https://aihot.virxact.com/items/cmts39grh019iro46dlr37si7"
       },
       "sourceType": "公众号",
-      "designCategory": "产品与体验",
+      "designCategory": "图像与视频",
       "relevanceScore": 9,
-      "editorialScore": 13,
+      "editorialScore": 12,
       "tags": [
-        "设计",
-        "交互",
-        "3d"
+        "可灵",
+        "视频"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmtnorrej078zroqs7avo3pr3",
-      "title": "Elvis Saravia 更新个人 harness，结合 Grok Bot 与 Hermes Agent 打造持久自我改进智能体",
-      "title_en": "Updated my harness to combine the best of Grok Bot and Hermes Agent. Woah！！！ Persistent self-impr…",
-      "url": "https://x.com/omarsar0/status/2096042211272003947",
-      "permalink": "https://aihot.virxact.com/items/cmtnorrej078zroqs7avo3pr3",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "publishedAt": "2026-09-05T01:06:20.000Z",
-      "discoveredAt": "2026-09-05T01:10:23.292Z",
-      "summary": "作者更新了自己的 harness，将 Grok Bot 与 Hermes Agent 的优点结合起来。他表示带有精心设计 UI 的持久自我改进智能体体验令人震撼，更接近其一年多来构建个人智能体的目标，后续将分享更多进展。",
-      "category": "tip",
-      "score": 19,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtnorrej078zroqs7avo3pr3"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "ui",
-        "设计",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmtr2nt2x051nroydhl36jruv",
@@ -326,14 +432,14 @@
     },
     {
       "id": "cmtqwij7i02omro7rha4vk17q",
-      "title": "my last commit at midjourney was a 0.01% chance that the loading spinner turns into my face in the i…",
-      "title_en": null,
+      "title": "Midjourney离职前埋彩蛋：加载圈变脸",
+      "title_en": "my last commit at midjourney was a 0.01% chance that the loading spinner turns into my face in the i…",
       "url": "https://x.com/gabriel1/status/2096791708390580417",
       "permalink": "https://aihot.virxact.com/items/cmtqwij7i02omro7rha4vk17q",
       "source": "X：Gabriel (@gabriel1)",
       "publishedAt": "2026-09-07T02:44:34.000Z",
       "discoveredAt": "2026-09-07T07:10:23.588Z",
-      "summary": null,
+      "summary": "我在 Midjourney 的最后一次提交，是给内部工具加了一个 0.01% 概率的加载动画--会变成我的脸。也许没那么高尚。",
       "category": null,
       "score": 23,
       "selected": false,
@@ -351,31 +457,58 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtnnevh505xwroqsy9djyvmu",
-      "title": "人工智能现在能设计电路板了吗？",
-      "title_en": null,
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
-      "permalink": "https://aihot.virxact.com/items/cmtnnevh505xwroqsy9djyvmu",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-09-04T23:59:17.240Z",
-      "discoveredAt": "2026-09-05T00:32:23.730Z",
-      "summary": "eebench.org 发布文章探讨 AI 目前能否设计电路板，原文链接为 https://eebench.org/blog/can-ai-design-circuit-boards-yet。该内容在 Hacker News 获得 134 分热度，feed 未提供完整正文。",
-      "category": "tip",
-      "score": 19,
+      "id": "cmtrgh34a02qxrotn69xbzkvz",
+      "title": "Astra 视觉优势助其社交媒体胜出",
+      "title_en": "I don't think this was the goal， but the fact that Astra is incredibly good at visually pleasing 3D …",
+      "url": "https://x.com/emollick/status/2096997239281385549",
+      "permalink": "https://aihot.virxact.com/items/cmtrgh34a02qxrotn69xbzkvz",
+      "source": "X：Ethan Mollick (@emollick)",
+      "publishedAt": "2026-09-07T16:21:16.000Z",
+      "discoveredAt": "2026-09-07T16:29:13.709Z",
+      "summary": "我认为这不是最初的目标，但 Astra 在视觉美观的 3D 作品（如 Blender 等）方面表现出色，这使它在社交媒体注意力之争中比 Fable 更具感知优势。其他类型的输出更难评判，但视觉内容的效果一目了然。",
+      "category": null,
+      "score": 21,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtnnevh505xwroqsy9djyvmu"
+        "canonical": "https://aihot.virxact.com/items/cmtrgh34a02qxrotn69xbzkvz"
       },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
+      "sourceType": "X",
+      "designCategory": "图像与视频",
       "relevanceScore": 8,
-      "editorialScore": 12,
+      "editorialScore": 11,
       "tags": [
-        "design",
-        "设计"
+        "视觉",
+        "3d"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtqwij7402okro7rkogugbyu",
+      "title": "DeepMind 主动式写作智能体研究发布",
+      "title_en": "Super interesting paper on proactive agents from Google DeepMind. （bookmark it） Proactive assistan…",
+      "url": "https://x.com/omarsar0/status/2096780509540139364",
+      "permalink": "https://aihot.virxact.com/items/cmtqwij7402okro7rkogugbyu",
+      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+      "publishedAt": "2026-09-07T02:00:04.000Z",
+      "discoveredAt": "2026-09-07T07:10:23.588Z",
+      "summary": "Google DeepMind 发布关于主动式智能体的研究论文，探讨智能体在写作中提供高阶认知支持并自主选择发言时机的形态。研究团队构建原型并让 16 名参与者使用一周，发现用户会前瞻性配置支持、将建议用于自我监控，且对打扰程度的判断主要取决于呈现方式而非时机。",
+      "category": null,
+      "score": 46,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtqwij7402okro7rkogugbyu"
+      },
+      "sourceType": "X",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
+      "tags": [
+        "原型",
+        "智能体"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "cmtqbwylr01x4roq0ssgeqck7",
@@ -460,6 +593,87 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
+      "id": "cmts2ynbb029hro7zg6jcbz1i",
+      "title": "Arm 发布第二代移动计算子系统 CSS for Mobile 2，搭载双 SME2 引擎与神经加速 GPU",
+      "title_en": "Arm 发布第二代移动终端计算子系统 CSS for Mobile 2，支持双 SME2 引擎，神经加速 GPU",
+      "url": "https://www.ithome.com/0/999/590.htm",
+      "permalink": "https://aihot.virxact.com/items/cmts2ynbb029hro7zg6jcbz1i",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-08T02:28:45.000Z",
+      "discoveredAt": "2026-09-08T02:58:44.102Z",
+      "summary": "Arm 在上海 Arm Everywhere China 活动上发布第二代移动终端计算子系统 CSS for Mobile 2，集成 Arm C2 CPU 集群、Mali G2-Ultra NX GPU 和 SI L2 系统互连，面向智能体 AI 与 AI 原生图形。",
+      "category": "ai-products",
+      "score": 56,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmts2ynbb029hro7zg6jcbz1i"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "生图",
+        "智能体"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtrhgyk503d6rotnoe987ndk",
+      "title": "AI 设计的药物 rentosertib 在早期试验中显示可降低预测生物学年龄",
+      "title_en": "AI-designed drug appears to turn back the body's biological clock in early trial",
+      "url": "https://the-decoder.com/ai-designed-drug-appears-to-turn-back-the-bodys-biological-clock-in-early-trial",
+      "permalink": "https://aihot.virxact.com/items/cmtrhgyk503d6rotnoe987ndk",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-09-07T16:34:20.000Z",
+      "discoveredAt": "2026-09-07T16:57:07.192Z",
+      "summary": "Insilico Medicine 用生成式 AI 开发的肺纤维化候选药 rentosertib，在 42 人试验数据的新分析中显示可降低预测生物学年龄，结果发表于 Nature Biotechnology。",
+      "category": "paper",
+      "score": 63,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtrhgyk503d6rotnoe987ndk"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmtrgrwx202xxrotnu1pa9o5g",
+      "title": "GPT 6 Astra 实测解决真实世界问题",
+      "title_en": "Astra for solving real-world problems：",
+      "url": "https://x.com/gdb/status/2096998038443348263",
+      "permalink": "https://aihot.virxact.com/items/cmtrgrwx202xxrotnu1pa9o5g",
+      "source": "X：Greg Brockman (@gdb)",
+      "publishedAt": "2026-09-07T16:24:27.000Z",
+      "discoveredAt": "2026-09-07T16:37:37.633Z",
+      "summary": "GPT 6 Astra （Ultra） 通过约4分钟视频理解用户描述的浴室排水管缠发问题，提取语音并匹配测量画面，提出改进方案。它使用计算机操作在 Fusion 360 中实时设计出全参数化零件，用户 3D 打印后首次尝试即完美适配，称其为\"接触 AGI 的时刻\"。",
+      "category": null,
+      "score": 41,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtrgrwx202xxrotnu1pa9o5g"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "设计",
+        "视频",
+        "3d"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmtqx3zpq036qro7r4dmp64jb",
       "title": "OpenAI 内部智能体工时已达人类研究者 3.14 倍，作者追问全自动 AI 研究员走向",
       "title_en": "Suddenly， MOST of the labor happening inside OpenAI is now done by the *AIs themselves*， building th…",
@@ -485,33 +699,6 @@
         "智能体"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtqi6jhx056brohq08z9k4nf",
-      "title": "META 🔥： Early look at the UI of the upcoming Muse agent from Meta. > According to the App Store l…",
-      "title_en": null,
-      "url": "https://x.com/testingcatalog/status/2096753152926122300",
-      "permalink": "https://aihot.virxact.com/items/cmtqi6jhx056brohq08z9k4nf",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-09-07T00:11:22.000Z",
-      "discoveredAt": "2026-09-07T00:29:13.021Z",
-      "summary": null,
-      "category": null,
-      "score": 27,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtqi6jhx056brohq08z9k4nf"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "ui",
-        "agent"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmtpcrbl60dsbrobli538uw2r",
@@ -597,194 +784,198 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtnryjxn0a87roqslycuqhj0",
-      "title": "YouMind 上线 GPT-6 Astra 模型",
-      "title_en": "GPT-6 Astra 已上线 YouMind 确实非常强大 非常值得体验",
-      "url": "https://x.com/lifesinger/status/2096060824322560274",
-      "permalink": "https://aihot.virxact.com/items/cmtnryjxn0a87roqslycuqhj0",
-      "source": "X：Frank Wang 玉伯 (@lifesinger)",
-      "publishedAt": "2026-09-05T02:20:18.000Z",
-      "discoveredAt": "2026-09-05T02:39:39.253Z",
-      "summary": "作者称 GPT-6 Astra 已上线 YouMind，认为其非常强大、值得体验。配图显示 YouMind 界面弹出提示，称可试用新的 GPT-6 Astra 以在复杂任务上获得更高质量的结果，并提供 Try now 入口。",
-      "category": "ai-products",
-      "score": 25,
+      "id": "cmts36e1t000wro4664ittoch",
+      "title": "可灵 AI 将亮相 2026 多伦多国际电影节市场",
+      "title_en": "Kling AI is coming to TIFF： The Market 2026！ Great filmmaking begins with a point of view. A charac…",
+      "url": "https://x.com/Kling_ai/status/2097157989925027894",
+      "permalink": "https://aihot.virxact.com/items/cmts36e1t000wro4664ittoch",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-09-08T03:00:02.000Z",
+      "discoveredAt": "2026-09-08T03:04:44.969Z",
+      "summary": "可灵 AI（Kling AI）将于今年 9 月参加 TIFF Market 2026，与全球电影人及创作者探讨 AI 在电影制作中的实际应用。其将举办行业论坛、鸡尾酒会并设立展位，活动时间为 9 月 10 日至 16 日。",
+      "category": null,
+      "score": 23,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtnryjxn0a87roqslycuqhj0"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "配图",
-        "界面"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtob9041046wroxhsbn7ule2",
-      "title": "ZHO 实测 GPT-6 Astra 连续运行 8 小时完成建筑全流程任务",
-      "title_en": "GPT-6 Astra 连续运行 8h 的成果（还在继续制作影片中…… 🤡我已经没耐心了（疯了 输入：一张建筑照片 提示词：见原贴 成果： 1）Rhino 建筑模型 2）Grasshopper…",
-      "url": "https://x.com/ZHO_ZHO_ZHO/status/2096195128927093076",
-      "permalink": "https://aihot.virxact.com/items/cmtob9041046wroxhsbn7ule2",
-      "source": "X：ZHO (@ZHO_ZHO_ZHO)",
-      "publishedAt": "2026-09-05T11:13:58.000Z",
-      "discoveredAt": "2026-09-05T11:39:39.527Z",
-      "summary": "ZHO 实测 GPT-6 Astra（ChatGPT Work，Ultra 档），输入一张建筑照片和一条地狱难度提示词，让模型基于传统工作流重建建筑。",
-      "category": "tip",
-      "score": 51,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtob9041046wroxhsbn7ule2"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "工作流",
-        "提示词"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmto5thno01buroaing3fovaf",
-      "title": "Greg Brockman 转发 9 个 GPT 6 Astra 实用提示词",
-      "title_en": "Astra for helping in your personal and work life",
-      "url": "https://x.com/gdb/status/2096159589771485299",
-      "permalink": "https://aihot.virxact.com/items/cmto5thno01buroaing3fovaf",
-      "source": "X：Greg Brockman (@gdb)",
-      "publishedAt": "2026-09-05T08:52:45.000Z",
-      "discoveredAt": "2026-09-05T09:07:37.592Z",
-      "summary": "Greg Brockman 转发 Greg Isenberg 整理的 9 个 GPT 6 Astra 提示词，定位为个人和工作生活助手。提示词涵盖谈判账单、把服务商业务转化为 AI 软件产品、监控二手市场低价商品、生成一人公司周度经营仪表盘、审计公司智能体机会、浏览器操作并输出 SOP、夜间自动化 QA 截图、订阅竞品并出月报、以及构建带获客入口的浏览器小游戏等场景。",
-      "category": "tip",
-      "score": 53,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmto5thno01buroaing3fovaf"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "提示词",
-        "自动化",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmtnwy0yn0f0broqs7ev01tni",
-      "title": "Ethan Mollick 转发调侃：Astra 用 VBA 在电子表格里做出了 Space Invaders",
-      "title_en": "Fine. （Astra did this in VBA）",
-      "url": "https://x.com/emollick/status/2096096763153105214",
-      "permalink": "https://aihot.virxact.com/items/cmtnwy0yn0f0broqs7ev01tni",
-      "source": "X：Ethan Mollick (@emollick)",
-      "publishedAt": "2026-09-05T04:43:06.000Z",
-      "discoveredAt": "2026-09-05T04:59:13.096Z",
-      "summary": "Ethan Mollick 引用网友关于 zork 转 3D、Fortnite 转文本的玩笑帖，称已有人把 Space Invaders 做成电子表格，由 Astra 用 VBA 实现，并附上视频。",
-      "category": "tip",
-      "score": 18,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtnwy0yn0f0broqs7ev01tni"
+        "canonical": "https://aihot.virxact.com/items/cmts36e1t000wro4664ittoch"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
       "relevanceScore": 6,
       "editorialScore": 9,
       "tags": [
-        "视频",
-        "3d"
+        "可灵"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtosf8xk02ggrooo6lrx1fgh",
-      "title": "Claude Code 创造者 Boris Cherny 谈企业 AI 提效为何不及预期",
-      "title_en": "Why many companies still not getting big productivity gains from integrating AI into the workflows. …",
-      "url": "https://x.com/rohanpaul_ai/status/2096321310259585428",
-      "permalink": "https://aihot.virxact.com/items/cmtosf8xk02ggrooo6lrx1fgh",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-05T19:35:22.000Z",
-      "discoveredAt": "2026-09-05T19:40:23.073Z",
-      "summary": "Claude Code 创造者 Boris Cherny 解释了许多公司把 AI 融入工作流却未获得大幅生产率提升的原因。他引用 1996 年哈佛商业评论一项研究：当年把电脑放在角落、只安排一人使用的公司没有收益，而把电脑置于业务流程中心、逐个瓶颈做数字化的公司则获得回报。",
-      "category": "tip",
-      "score": 52,
+      "id": "cmtrulqed0i9orotnnzbd6zot",
+      "title": "上游项目PR流程引发开发者质疑",
+      "title_en": "Did a PR to one of our upstream projects and they requested some minor changes. What's even the poi…",
+      "url": "https://x.com/steipete/status/2097091456234111377",
+      "permalink": "https://aihot.virxact.com/items/cmtrulqed0i9orotnnzbd6zot",
+      "source": "X：Peter Steinberger (@steipete)",
+      "publishedAt": "2026-09-07T22:35:39.000Z",
+      "discoveredAt": "2026-09-07T23:04:44.171Z",
+      "summary": "给我们上游项目之一提交了一个PR，他们要求做一些小改动。\n\n这种工作流到底有什么意义？你已经写了提示词，为什么还要让我再去联系我的智能体，然后让你的智能体去合并？",
+      "category": null,
+      "score": 16,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtosf8xk02ggrooo6lrx1fgh"
+        "canonical": "https://aihot.virxact.com/items/cmtrulqed0i9orotnnzbd6zot"
       },
       "sourceType": "X",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
+      "relevanceScore": 8,
+      "editorialScore": 9,
       "tags": [
         "工作流",
-        "claude code"
+        "提示词",
+        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmtolmpa90366rocxyp9ln2tz",
-      "title": "Simon Willison 演示如何在 macOS 上用 coding agent 驱动 Blender 渲染",
-      "title_en": "Using Blender with coding agents on macOS",
-      "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos",
-      "permalink": "https://aihot.virxact.com/items/cmtolmpa90366rocxyp9ln2tz",
-      "source": "Simon Willison 博客",
-      "publishedAt": "2026-09-05T15:51:09.000Z",
-      "discoveredAt": "2026-09-05T16:30:15.692Z",
-      "summary": "Simon Willison 分享在 Mac 上用 ChatGPT Codex 搭配 Blender 的玩法：从 blender.org 安装完整 Mac 应用后，用提示词让 agent 调用 /Applications/Blender 渲染一只骑自行车的鹈鹕场景。他随后用两条追加提示词添加背景和装饰，最终图片由 Blender 的 Python API 生成。",
-      "category": "tip",
-      "score": 58,
+      "id": "cmtrrl8zr0dcvrotnt2tlgri5",
+      "title": "技能优于工作流记忆：蒸馏经验是关键",
+      "title_en": "Agent skills work for a very specific reason： they turn messy past experience into a clean procedure…",
+      "url": "https://x.com/rohanpaul_ai/status/2097072461561131091",
+      "permalink": "https://aihot.virxact.com/items/cmtrrl8zr0dcvrotnt2tlgri5",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-07T21:20:11.000Z",
+      "discoveredAt": "2026-09-07T21:40:23.161Z",
+      "summary": "研究对比两种智能体记忆形式：保留更多执行细节的工作流记忆与蒸馏后的SKILL.md技能，后者性能高出6.06个百分点。轨迹分析显示，65.7%的技能案例通过程序锚定生效，仅4.5%靠补充缺失知识。结论：自我改进智能体需要更好的经验蒸馏与应用，而非更大的记忆库。",
+      "category": null,
+      "score": 50,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtolmpa90366rocxyp9ln2tz"
+        "canonical": "https://aihot.virxact.com/items/cmtrrl8zr0dcvrotnt2tlgri5"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "工作流",
+        "agent",
+        "智能体",
+        "skill"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmtrm8dg808zqrotn4m8vonzm",
+      "title": "提示词高手迎来短暂创作红利期",
+      "title_en": "now starts a short period of time when creative people who are extremely good at prompting are so mu…",
+      "url": "https://x.com/gabriel1/status/2097032513684418620",
+      "permalink": "https://aihot.virxact.com/items/cmtrm8dg808zqrotn4m8vonzm",
+      "source": "X：Gabriel (@gabriel1)",
+      "publishedAt": "2026-09-07T18:41:26.000Z",
+      "discoveredAt": "2026-09-07T19:10:23.023Z",
+      "summary": "现在开启了一段短暂时期：极其擅长提示词的创意人士在制作游戏、短视频、电影和其他内容时效率大幅提升，以至于他们可以从零起步竞争，缔造新的帝国。大约一年后，其他人就会迎头赶上。",
+      "category": null,
+      "score": 26,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtrm8dg808zqrotn4m8vonzm"
+      },
+      "sourceType": "X",
+      "designCategory": "行业观察",
+      "relevanceScore": 9,
+      "editorialScore": 9,
+      "tags": [
+        "创意",
+        "creative",
+        "视频",
+        "提示词"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
+      "id": "cmtrlczk707yqrotnp55msvko",
+      "title": "Krea 打造最强创意智能体深度解析",
+      "title_en": "we built the most powerful agents for creative work. here's a deep dive explaining what we built a…",
+      "url": "https://x.com/krea_ai/status/2097031701801431308",
+      "permalink": "https://aihot.virxact.com/items/cmtrlczk707yqrotnp55msvko",
+      "source": "X：Krea AI (@krea_ai)",
+      "publishedAt": "2026-09-07T18:38:13.000Z",
+      "discoveredAt": "2026-09-07T18:46:00.233Z",
+      "summary": "我们构建了用于创意工作的最强大智能体。\n\n这里有一篇深度解析，说明我们构建了什么，以及为什么我们相信这是媒体生成的未来。\n\n由 @TitusTeatus 呈现，他是 Krea 背后大部分界面的创始工程师和创造者。",
+      "category": null,
+      "score": 28,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtrlczk707yqrotnp55msvko"
+      },
+      "sourceType": "X",
+      "designCategory": "行业观察",
+      "relevanceScore": 9,
+      "editorialScore": 9,
+      "tags": [
+        "界面",
+        "创意",
+        "creative",
+        "智能体"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
+      "id": "cmtp9723f0aceroblcndqlxva",
+      "title": "Claude Code v2.1.263 发布",
+      "title_en": "v2.1.263",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.263",
+      "permalink": "https://aihot.virxact.com/items/cmtp9723f0aceroblcndqlxva",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "publishedAt": "2026-09-06T02:54:20.000Z",
+      "discoveredAt": "2026-09-06T03:29:55.917Z",
+      "summary": "Anthropic 发布 Claude Code v2.1.263。Claude Code 是一款运行在终端中的智能体编程工具，能理解代码库，通过自然语言指令执行日常任务、解释复杂代码并处理 git 工作流，帮助开发者更快编码。",
+      "category": null,
+      "score": 18,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtp9723f0aceroblcndqlxva"
       },
       "sourceType": "网站",
       "designCategory": "工作流与 Agent",
       "relevanceScore": 7,
       "editorialScore": 8,
       "tags": [
-        "提示词",
-        "codex",
-        "agent"
+        "工作流",
+        "claude code",
+        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmtqwhipj02nkro7r8o4yu471",
-      "title": "Agent 技能堆砌被指拖累上下文，作者提供一段技能审计提示词",
-      "title_en": "铁铁们赶紧停手，别再往你的 Agent 里胡乱堆插件和skill了！ 这个老哥放出的这 19 个开源技能被 3000 多人疯狂收藏， 但绝大多数人都搞反了： 你把这些插件，skill当成赛博贴纸全倒进…",
-      "url": "https://x.com/AYi_AInotes/status/2096825969495445938",
-      "permalink": "https://aihot.virxact.com/items/cmtqwhipj02nkro7r8o4yu471",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-09-07T05:00:42.000Z",
-      "discoveredAt": "2026-09-07T07:09:39.567Z",
-      "summary": "作者提醒不要把插件和 skill 无脑塞进 Agent，称冗余技能会占满有限的上下文、拖弱模型表现。他引用 @painn_x 分享的 19 个开源技能（被 3000 多人收藏），并给出一段可复制的提示词，要求审计 SKILL.md 并只保留 Agent-Reach、i-have-adhd、Humanizer、youtube-full 这 4 个核心技能，其余停用归档。",
+      "id": "cmtr9x6kd06hmro45jemhv2ce",
+      "title": "OpenAI 发布自动化研究内部数据，Pachocki 撰文警告无实验室已解决对齐与监控",
+      "title_en": "OpenAI reports AI \"research interns\" and warns about its own pace at the same time",
+      "url": "https://the-decoder.com/openai-reports-ai-research-interns-and-warns-about-its-own-pace-at-the-same-time",
+      "permalink": "https://aihot.virxact.com/items/cmtr9x6kd06hmro45jemhv2ce",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-09-07T13:05:22.000Z",
+      "discoveredAt": "2026-09-07T13:25:46.865Z",
+      "summary": "OpenAI 发布博客文章称已达成去年秋天设定的「自动化研究实习生」目标，计划 2028 年 3 月前建成全自动 AI 研究员；数据显示截至 8 月中旬研究部门每 1 个人类工作日运行 3.1 个智能体工作日，中位研究员每天推理花费超 600 美元，90 分位超 7000 美元，token 产出自 2025 年 12 月以来增长 124 倍。",
       "category": "tip",
-      "score": 57,
+      "score": 75,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtqwhipj02nkro7r8o4yu471"
+        "canonical": "https://aihot.virxact.com/items/cmtr9x6kd06hmro45jemhv2ce"
       },
-      "sourceType": "X",
+      "sourceType": "网站",
       "designCategory": "工作流与 Agent",
       "relevanceScore": 6,
       "editorialScore": 7,
       "tags": [
-        "提示词",
-        "agent",
-        "skill"
+        "自动化",
+        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -811,142 +1002,6 @@
       "editorialScore": 7,
       "tags": [
         "自动化",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmtqd7zn1045troq0r6bx9q2f",
-      "title": "Rohan Paul 谈用时间跨度衡量智能体能力，并引用 OpenAI 自动化研究实习生里程碑",
-      "title_en": "I think \"time horizon\" is becoming one of the more useful ways to talk about agent capability. At O…",
-      "url": "https://x.com/rohanpaul_ai/status/2096720216466342334",
-      "permalink": "https://aihot.virxact.com/items/cmtqd7zn1045troq0r6bx9q2f",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-06T22:00:29.000Z",
-      "discoveredAt": "2026-09-06T22:10:23.348Z",
-      "summary": "Rohan Paul 认为「时间跨度」正成为谈论智能体能力更有用的指标，任务越长无干预成功率越低，OpenAI 数据从 15 分钟内任务的 86% 降到 64-128 小时档的约 16%。",
-      "category": "tip",
-      "score": 59,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtqd7zn1045troq0r6bx9q2f"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "自动化",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmtq8xosd0283rokxh8nbqppb",
-      "title": "OpenAI 宣布达成自动化研究实习生里程碑，实验速度升至 2025 基线的 1.6 倍",
-      "title_en": "One of AI's biggest effects on research， researchers can test far more ideas. OpenAI's experiment v…",
-      "url": "https://x.com/rohanpaul_ai/status/2096685113287557259",
-      "permalink": "https://aihot.virxact.com/items/cmtq8xosd0283rokxh8nbqppb",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-06T19:41:00.000Z",
-      "discoveredAt": "2026-09-06T20:10:23.053Z",
-      "summary": "OpenAI 官方宣布达成自动化研究实习生里程碑，即人类监督下能完成熟练研究者需数天的明确任务的系统。其研究组织内部智能体运行时长已达 3.1 比 1 的人类工作量比例（以标准 8 小时工作日计，截至 8 月中），作者提醒该比例衡量的是智能体运行时长而非等效生产力；同期每位活跃研究者的实验速度较 2025 年基线升至 1.6 倍。",
-      "category": "tip",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtq8xosd0283rokxh8nbqppb"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "自动化",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmtq7v3us019yrokxt9kdxz5i",
-      "title": "OpenAI 称达到自动化研究实习生里程碑，智能体运行时达人工 3.1 倍",
-      "title_en": "OpenAI engineers are changing roughly 7x more code per contributor than the pre-2025 baseline.",
-      "url": "https://x.com/rohanpaul_ai/status/2096682345239552026",
-      "permalink": "https://aihot.virxact.com/items/cmtq7v3us019yrokxt9kdxz5i",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-06T19:30:00.000Z",
-      "discoveredAt": "2026-09-06T19:40:23.330Z",
-      "summary": "OpenAI 官方宣布达到自动化研究实习生里程碑，即有人监督的系统能完成熟练研究员需数天的明确任务。截至 8 月中旬，其研究组织每投入 1 个人类工作日，同时使用 3.1 个智能体工作日，该比例衡量智能体运行时而非等效生产力。作者补充称 OpenAI 工程师人均代码变更量约为 2025 年前基线的 7 倍。",
-      "category": "tip",
-      "score": 66,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtq7v3us019yrokxt9kdxz5i"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "自动化",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmtq5pxc10275roiufscxyie4",
-      "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-      "title_en": "OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
-      "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-      "permalink": "https://aihot.virxact.com/items/cmtq5pxc10275roiufscxyie4",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-06T18:23:14.000Z",
-      "discoveredAt": "2026-09-06T18:40:23.942Z",
-      "summary": "OpenAI 发布内部数据称已达到自动化研究实习生里程碑，即可在人类监督下完成熟练研究员需数天的明确任务。截至 8 月中旬，其研究组织每投入 1 个人工工作日，就使用 3.1 个 agent 工作日的运行时长，该比值衡量的是运行时间而非等效生产力；原文作者援引 OpenAI 员工观点称递归自我改进或成为未来几年 AI 能力的关键，并呼吁其他 AI 公司同样公开数据。",
-      "category": "tip",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtq5pxc10275roiufscxyie4"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "自动化",
-        "agent"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmtofayvo02uoroht238ucfjw",
-      "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-      "title_en": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-      "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-      "permalink": "https://aihot.virxact.com/items/cmtofayvo02uoroht238ucfjw",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-09-05T13:31:04.000Z",
-      "discoveredAt": "2026-09-05T13:33:09.146Z",
-      "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
-      "category": "tip",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtofayvo02uoroht238ucfjw"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "提示词",
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
