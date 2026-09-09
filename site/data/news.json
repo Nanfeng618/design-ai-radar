@@ -1,19 +1,48 @@
 {
-  "generatedAt": "2026-09-09T04:42:31.139Z",
-  "previousGeneratedAt": "2026-09-08T16:38:15.186Z",
+  "generatedAt": "2026-09-09T11:23:29.300Z",
+  "previousGeneratedAt": "2026-09-09T04:42:31.139Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 44,
+  "itemCount": 46,
   "sourceCounts": {
-    "网站": 16,
-    "公众号": 4,
-    "X": 24
+    "X": 24,
+    "网站": 19,
+    "公众号": 3
   },
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com"
   },
   "items": [
+    {
+      "id": "cmttvnioi0p67rofpx2avlff2",
+      "title": "阿易分享把 Apple HIG 喂给 Agent 学习的 System Prompt",
+      "title_en": "大家可能需要UI设计和人机交互的最佳实践，可以喂给你的Agent学习， https://developer.apple.com/design/human-interface-guidelines …",
+      "url": "https://x.com/AYi_AInotes/status/2097611379834319001",
+      "permalink": "https://aihot.news/items/cmttvnioi0p67rofpx2avlff2",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-09-09T09:01:39.000Z",
+      "discoveredAt": "2026-09-09T09:09:39.103Z",
+      "summary": "阿易分享一套 System Prompt，让 Agent 学习 Apple Human Interface Guidelines 并转化为可执行的 UI 设计决策。",
+      "category": "tip",
+      "score": 65,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmttvnioi0p67rofpx2avlff2"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 19,
+      "editorialScore": 23,
+      "tags": [
+        "ui",
+        "design",
+        "设计",
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
     {
       "id": "cmttbziow03myrofp5mcvflkp",
       "title": "OpenAI 发布 ChatGPT Images 2.5，延迟降低 50% 并新增 Sketch 草图",
@@ -130,6 +159,33 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmttxf8n80qorrofpo39d38hv",
+      "title": "吉卜力制作人铃木敏夫谈\"吉卜力风\"AI 图：如我所料，大家很快就看腻了",
+      "title_en": "吉卜力工作室制作人铃木敏夫谈\"吉卜力风\"AI 图：如我所料，大家很快就看腻了",
+      "url": "https://www.ithome.com/1/000/360.htm",
+      "permalink": "https://aihot.news/items/cmttxf8n80qorrofpo39d38hv",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-09T09:47:16.000Z",
+      "discoveredAt": "2026-09-09T09:59:12.629Z",
+      "summary": "吉卜力工作室制作人铃木敏夫回应\"吉卜力风\"AI 生成图片热潮，称当时未回应采访邀请是因预判大家会很快看腻，结果果然如此。他认为此类 AI 作品\"没什么意义，也不好玩\"，并断言宫崎骏的表现方式\"无法通过 AI 或 CG 再现\"。此前 ChatGPT 文生图升级 GPT-4o 后曾引发该风格图片潮流。",
+      "category": null,
+      "score": 46,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmttxf8n80qorrofpo39d38hv"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 14,
+      "editorialScore": 17,
+      "tags": [
+        "文生图",
+        "生图"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmttjvryo0bogrofpe03ucbiz",
       "title": "SkyProduction 限免活动第二期：MiniMax H3 会员限时免费无限用",
       "title_en": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
@@ -158,30 +214,30 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtrmtx2r09dwrotn3v1rfbim",
-      "title": "今天的一个想法， 文本大模型与视频大模型定位的拐点到来了， 这两种模型之前看上去不存在上下游关系， 但是现在变成了\"显式符号/几何模拟（3D引擎 + 符号逻辑）\" →\"隐式统计生成（像素级视频生成扩散…",
-      "title_en": null,
-      "url": "https://x.com/karminski3/status/2097043972640420167",
-      "permalink": "https://aihot.news/items/cmtrmtx2r09dwrotn3v1rfbim",
-      "source": "X：karminski (@karminski3)",
-      "publishedAt": "2026-09-07T19:26:58.000Z",
-      "discoveredAt": "2026-09-07T19:27:09.428Z",
-      "summary": null,
-      "category": null,
-      "score": 37,
+      "id": "cmttrld750kqlrofprefmlyf5",
+      "title": "蚂蚁百灵发布 Ling-3.0-flash-VL 多模态模型，SGLang 提供 Day-0 支持",
+      "title_en": "Thanks @sgl_project community！ The Ling series finally have eyes and we appreciate our day0 partners…",
+      "url": "https://x.com/AntLingAGI/status/2097583669926109550",
+      "permalink": "https://aihot.news/items/cmttrld750kqlrofprefmlyf5",
+      "source": "X：蚂蚁百灵 (@AntLingAGI)",
+      "publishedAt": "2026-09-09T07:11:32.000Z",
+      "discoveredAt": "2026-09-09T07:16:00.778Z",
+      "summary": "蚂蚁百灵发布 Ling-3.0-flash-VL（124B/5.5B MoE），具备原生图像和视频理解与 1M 上下文窗口，SGLang 上线 Day-0 支持。模型采用 ViT 编码器加 MLP projector 的原生多模态方案、用于时空编码的 VideoRoPE，以及 42 层 KDA 加 Gated MLA 按 5：1 组成的混合骨干网络以支持 1M token 长上下文。",
+      "category": "ai-models",
+      "score": 54,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtrmtx2r09dwrotn3v1rfbim"
+        "canonical": "https://aihot.news/items/cmttrld750kqlrofprefmlyf5"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 14,
-      "editorialScore": 17,
+      "relevanceScore": 13,
+      "editorialScore": 16,
       "tags": [
-        "视频生成",
+        "生图",
         "视频",
-        "3d"
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -322,34 +378,6 @@
       "editorialScore": 15,
       "tags": [
         "图像生成",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmts0tgsd05j3roft1pq187b4",
-      "title": "微信开源多模态嵌入模型 WeMM-Embedding，已在微信大规模使用且日调用量达 10 亿次",
-      "title_en": "微信 WeMM-Embedding 多模态模型已在微信大规模使用：覆盖朋友圈搜索等，每天调用量 10 亿次",
-      "url": "https://www.ithome.com/0/999/527.htm",
-      "permalink": "https://aihot.news/items/cmts0tgsd05j3roft1pq187b4",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-08T01:02:16.000Z",
-      "discoveredAt": "2026-09-08T01:58:43.545Z",
-      "summary": "微信 AI 于 9 月 4 日宣布开源通用多模态嵌入模型 WeMM-Embedding，包含 2B、4B、9B 三个版本，支持文本、图像、视频、视觉文档及任意交错的多模态输入。",
-      "category": "ai-models",
-      "score": 62,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmts0tgsd05j3roft1pq187b4"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "视觉",
-        "视频",
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
@@ -601,6 +629,143 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmttt4y0n0m4brofpsb4v2ugw",
+      "title": "DAILY AI BRIEF：Muse 个人智能体上线，OpenAI 发布 ChatGPT Images 2.5",
+      "title_en": "DAILY AI BRIEF 🗞 - Sept 9 META 🔥： > Muse is live. Internal name was Hatch. US-only personal agent…",
+      "url": "https://x.com/testingcatalog/status/2097591597978341535",
+      "permalink": "https://aihot.news/items/cmttt4y0n0m4brofpsb4v2ugw",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "publishedAt": "2026-09-09T07:43:02.000Z",
+      "discoveredAt": "2026-09-09T07:59:13.251Z",
+      "summary": "Muse 在美国上线，支持 iOS、Android、网页及 WhatsApp，提供免费版及每月 20/100 美元方案。OpenAI 推出 ChatGPT Images 2.5，速度提升最高 50%，并新增 Sketch 工具。Anthropic 对齐负责人称个人认为 AI 十年内杀死所有人的概率超 10%。",
+      "category": null,
+      "score": 45,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmttt4y0n0m4brofpsb4v2ugw"
+      },
+      "sourceType": "X",
+      "designCategory": "设计工具",
+      "relevanceScore": 8,
+      "editorialScore": 13,
+      "tags": [
+        "sketch",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmttqzsyq0jxlrofpkivoipcj",
+      "title": "QwenWork 上线多模态创作功能",
+      "title_en": "🎬 Multimodal creation is now live on QwenWork. Drop in a few product images and tell QwenWork what …",
+      "url": "https://x.com/alibaba_cloud/status/2097577314338918747",
+      "permalink": "https://aihot.news/items/cmttqzsyq0jxlrofpkivoipcj",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-09-09T06:46:17.000Z",
+      "discoveredAt": "2026-09-09T06:59:14.816Z",
+      "summary": "🎬 多模态创作现已在 QwenWork 上线。放入几张产品图片并告诉 QwenWork 你想要什么--它可以在一次对话中将其转化为可用于营销活动的产品视频、营销海报和原创配乐。无需切换工具，无需拼接工作流。只需带来创意，让 QwenWork 从原始素材到成品创意一气呵成。\n\n👉 立即尝试：http://qwenwork.ai 了解更多：https://click.alibabacloud.com/m/20000000892/\n\n#QwenWork #AI #Multimodal",
+      "category": null,
+      "score": 46,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmttqzsyq0jxlrofpkivoipcj"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 10,
+      "editorialScore": 13,
+      "tags": [
+        "海报",
+        "工作流",
+        "创意",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmttqzqw30jwsrofphwzfhiw0",
+      "title": "中国联通与魅族合作发布\"小魔方\"AI 手机：4 英寸小方屏，主打全语音交互与端云协同",
+      "title_en": null,
+      "url": "https://www.ithome.com/1/000/174.htm",
+      "permalink": "https://aihot.news/items/cmttqzqw30jwsrofphwzfhiw0",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-09T06:04:00.000Z",
+      "discoveredAt": "2026-09-09T06:59:12.167Z",
+      "summary": "中国联通今日发布与魅族合作研发的\"小魔方\"AI 原生终端，搭载云智 OS，采用 4 英寸小方屏设计，整机重量 99 克，主打全语音操控与端云协同。该产品支持点咖啡、智能家居控制等场景任务，并可通过端侧摄像头实现\"AI 看世界\"。小魔方深度融合联通智能新通话服务，提供 AI 翻译、AI 速记、通话摘要及无障碍接听等功能，支持本地与云端双身份切换及 2TB 云端存储。",
+      "category": null,
+      "score": 40,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmttqzqw30jwsrofphwzfhiw0"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "设计",
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmtto6dyi0g2irofpnmm1zbc7",
+      "title": "OpenAI 因 Astra 需求空前高涨或暂停新 Pro 订阅",
+      "title_en": "The definition of suffering from success. Having to pause new Pro subscriptions because demand is …",
+      "url": "https://x.com/kimmonismus/status/2097560637983359322",
+      "permalink": "https://aihot.news/items/cmtto6dyi0g2irofpnmm1zbc7",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-09-09T05:40:01.000Z",
+      "discoveredAt": "2026-09-09T05:40:23.189Z",
+      "summary": "OpenAI 或因 Astra 需求空前高涨而暂停新 Pro 订阅，以优先保障现有用户体验。高管称需求\"前所未见\"，正全力维持服务。此举被视为其 IPO 前的最佳公关。",
+      "category": null,
+      "score": 47,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtto6dyi0g2irofpnmm1zbc7"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "用户体验"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmttwq6pa0pydrofpaymyi8ck",
+      "title": "用 GPT Images 2.5 的手画板加参考图风格迁移出图",
+      "title_en": "全新 GPT Images 2.5 直达优雅！手绘 + 参考美滋滋！ EleganCat|ZHGO|测试系列|GPT Images 2.5 配合 ChatGPT 内置手画板功能 + 参考图的风格迁…",
+      "url": "https://x.com/ZHO_ZHO_ZHO/status/2097522787422535831",
+      "permalink": "https://aihot.news/items/cmttwq6pa0pydrofpaymyi8ck",
+      "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+      "publishedAt": "2026-09-09T03:09:37.000Z",
+      "discoveredAt": "2026-09-09T09:39:39.832Z",
+      "summary": "Zho 测试 GPT Images 2.5，配合 ChatGPT 内置手画板功能和参考图的风格迁移能力生成插画，图中展示手绘猫草图加参考海报生成风格化猫图的效果。作者转发 OpenAI 的说明，在 ChatGPT 输入 \"@ Sketch\" 即可使用手画板，中文用户通过 @绘图 打开。",
+      "category": "tip",
+      "score": 56,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmttwq6pa0pydrofpaymyi8ck"
+      },
+      "sourceType": "X",
+      "designCategory": "设计工具",
+      "relevanceScore": 8,
+      "editorialScore": 13,
+      "tags": [
+        "sketch",
+        "海报"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
       "id": "cmtt2cf9q01qtrowahi8n2rft",
       "title": "OpenAI 宣布 ChatGPT Images 2.5 升级，同时推出 Sketch 画图功能",
       "title_en": "OPENAI 🔥： ChatGPT Images 2.5 upgrade has been announced！ It comes with faster outputs， improved f…",
@@ -764,29 +929,55 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cmts39grh019iro46dlr37si7",
-      "title": "可灵AI官宣亮相2026多伦多国际电影节市场",
-      "title_en": "可灵AI官宣亮相2026多伦多国际电影节市场！",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzU5NTkwNDU2OA%3D%3D&mid=2247496783&idx=1&sn=7207ea50730de9e26f1e5c9f09d6ea22",
-      "permalink": "https://aihot.news/items/cmts39grh019iro46dlr37si7",
-      "source": "公众号：可灵AI（快手·视频）",
-      "publishedAt": "2026-09-08T03:00:00.000Z",
-      "discoveredAt": "2026-09-08T03:07:09.501Z",
-      "summary": "可灵AI将于9月10日至16日亮相2026多伦多国际电影节市场（TIFF Market），与全球影视创作者及行业伙伴探讨AI进入电影制作的真实现场。期间将举办产业论坛、行业交流酒会，并设置展位（A20， Metro Toronto Convention Centre），展示可灵AI驱动连贯、可控的电影级AI视频创作。",
+      "id": "cmttvky9r0p48rofpiuckebug",
+      "title": "面壁智能点赞 Whisper Town：2B 模型驱动小镇居民",
+      "title_en": "Very cool project. Right job for the 2B. Eight residents on Spark 1， events on the 27B， private memo…",
+      "url": "https://x.com/OpenBMB/status/2097612492889632987",
+      "permalink": "https://aihot.news/items/cmttvky9r0p48rofpiuckebug",
+      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "publishedAt": "2026-09-09T09:06:04.000Z",
+      "discoveredAt": "2026-09-09T09:07:37.323Z",
+      "summary": "面壁智能 OpenBMB 点赞 Whisper Town 项目：MiniCPM5-2B 在 Spark 1 上驱动 8 位居民，Qwen 3.8-27B 在 Spark 2 上决定小镇事件。每位居民拥有独立记忆，模型生成对话并决定分享哪些信息。该项目仍是原型，是本地 AI 与游戏结合的有趣实验。",
       "category": null,
-      "score": 28,
+      "score": 34,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmts39grh019iro46dlr37si7"
+        "canonical": "https://aihot.news/items/cmttvky9r0p48rofpiuckebug"
       },
-      "sourceType": "公众号",
-      "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
+      "sourceType": "X",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
       "tags": [
-        "可灵",
-        "视频"
+        "原型"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmttsnyas0ljhrofpbpklx53b",
+      "title": "蚂蚁百灵 Ling 3.0 flash 获视觉升级",
+      "title_en": "Thanks to our day0 partner @atomic_chat_hq to bring the visual intelligence to more users and creato…",
+      "url": "https://x.com/AntLingAGI/status/2097584809862394134",
+      "permalink": "https://aihot.news/items/cmttsnyas0ljhrofpbpklx53b",
+      "source": "X：蚂蚁百灵 (@AntLingAGI)",
+      "publishedAt": "2026-09-09T07:16:04.000Z",
+      "discoveredAt": "2026-09-09T07:46:00.964Z",
+      "summary": "蚂蚁百灵（AntLingAGI）为 Ling 3.0 flash 加入视觉能力，可查看并分析图像。合作方 Atomic Chat 已推出 Ling 3.0 flash VL 的 GGUF 量化版本，支持本地运行，更多量化版本将陆续登陆边缘与终端设备。",
+      "category": null,
+      "score": 46,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmttsnyas0ljhrofpbpklx53b"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -842,6 +1033,59 @@
         "runway"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmttt4x4e0m3zrofph1y28r86",
+      "title": "OpenAI CFO：自研 AI 加速 Jalapeno 芯片设计，Luna 部署成本低于开源方案",
+      "title_en": "OpenAI CFO：自研 AI 助力芯片设计，Luna 模型部署成本低于开源方案",
+      "url": "https://www.ithome.com/1/000/257.htm",
+      "permalink": "https://aihot.news/items/cmttt4x4e0m3zrofph1y28r86",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-09T07:33:55.000Z",
+      "discoveredAt": "2026-09-09T07:59:12.173Z",
+      "summary": "据路透社报道，OpenAI CFO Sarah Friar 在高盛会议上表示，OpenAI 用自研模型参与 Jalapeno 芯片开发并在 9 个月内完成流片，且部署 Luna 模型的成本低于云端运行开源方案，如智谱 AI 的 GLM 5.3。",
+      "category": "tip",
+      "score": 64,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmttt4x4e0m3zrofph1y28r86"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmtts42qy0l51rofp2l51yxoh",
+      "title": "Gradium 发布 Voice Design：写一段描述文字，几秒生成全新合成语音",
+      "title_en": "Gradium Launches Voice Design： Write a Prompt， Get a Brand New Synthetic Voice in Seconds",
+      "url": "https://www.marktechpost.com/2026/09/09/gradium-launches-voice-design-write-a-prompt-get-a-brand-new-synthetic-voice-in-seconds",
+      "permalink": "https://aihot.news/items/cmtts42qy0l51rofp2l51yxoh",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-09-09T07:29:13.000Z",
+      "discoveredAt": "2026-09-09T07:30:34.198Z",
+      "summary": "巴黎语音 AI 公司 Gradium（从 Kyutai 研究实验室分拆）推出 Voice Design，输入 1 到 500 字符的描述即可在 3 到 5 秒内生成 1 到 5 个候选语音，无需参考音频，支持英法西葡德 5 种语言，已在 Gradium API 和 Studio 全部套餐免费开放。",
+      "category": "ai-products",
+      "score": 69,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtts42qy0l51rofp2l51yxoh"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "design",
+        "prompt"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmttm0b2y0dxirofpj6dy8wmn",
@@ -900,33 +1144,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmttchnc104jvrofp05adlcv6",
-      "title": "Meta 智能体产品 Muse 开放体验，官方回应用户好评",
-      "title_en": "the team poured their heart and souls into it， and it warms our hearts to see the response ❤️ we ar…",
-      "url": "https://x.com/alexandr_wang/status/2097472059077202339",
-      "permalink": "https://aihot.news/items/cmttchnc104jvrofp05adlcv6",
-      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-      "publishedAt": "2026-09-08T23:48:02.000Z",
-      "discoveredAt": "2026-09-09T00:13:13.197Z",
-      "summary": "Meta 的 Muse 智能体产品开放更多用户试用，入口为 https://muse.ai/join，Meta 首席 AI 官 Alexandr Wang 称团队为产品倾注心血并感谢用户反响。引用的评价称其设计、速度和浏览器等智能体流程表现出色，具备 Instagram 等 Meta 产品原生集成优势，但也指出 soul.md 等命名对普通用户不直观、feed 内容相关性不足等问题。",
-      "category": "ai-products",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmttchnc104jvrofp05adlcv6"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmtsuu67b01xrrob5bphmvjw6",
       "title": "达芬奇 DaVinci Resolve 21.1 发布，接入 Claude Code、ChatGPT Codex 等 AI 助手",
       "title_en": null,
@@ -952,116 +1169,6 @@
         "工作流",
         "codex",
         "claude code"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmtsrjzrh02vkrokaszbm8rpa",
-      "title": "字节跳动拟推Seedance空间视频模型",
-      "title_en": "ByteDance is preparing a Seedance-based spatial-video model for launch as soon as next month， Bloomb…",
-      "url": "https://x.com/thexpin/status/2097330053944377546",
-      "permalink": "https://aihot.news/items/cmtsrjzrh02vkrokaszbm8rpa",
-      "source": "X：X.PIN (@thexpin)",
-      "publishedAt": "2026-09-08T14:23:46.000Z",
-      "discoveredAt": "2026-09-08T14:27:09.540Z",
-      "summary": "据彭博社报道，字节跳动正准备最快于下月推出一款基于Seedance的空间视频模型。创始人张一鸣亲自督办该项目，不过计划仍可能有变。该模型将创建可交互的3D世界，能够响应Pico用户的语音和动作。据称输出可达20fps，延迟0.05秒。云端生成可降低头显设备要求，将与Google、Meta和Apple的竞争转向AI模型、算力和内容层面。",
-      "category": null,
-      "score": 46,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtsrjzrh02vkrokaszbm8rpa"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "交互",
-        "视频",
-        "3d"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtscmi8001jorow68jq1k9g9",
-      "title": "9月8日AI简报：Meta Muse、OpenAI新功能、Mistral融资",
-      "title_en": "DAILY AI BRIEF 🗞 - Sept 8 META 🔥： > First look at Muse （Hatch） mobile UI： proactive agent for goa…",
-      "url": "https://x.com/testingcatalog/status/2097224188100493588",
-      "permalink": "https://aihot.news/items/cmtscmi8001jorow68jq1k9g9",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-09-08T07:23:05.000Z",
-      "discoveredAt": "2026-09-08T07:29:13.500Z",
-      "summary": "9月8日AI日报：Meta展示Muse（Hatch）移动端UI，支持目标、日历、邮件等主动式智能体，已进入封闭alpha测试。OpenAI为ChatGPT Work推出写作风格学习功能，可学习Gmail、Drive等来源的语音。Mistral完成超210亿欧元估值、30亿欧元D轮融资，由Samsung领投，为欧洲最大科技股权融资。",
-      "category": null,
-      "score": 37,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtscmi8001jorow68jq1k9g9"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "ui",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmts2ynbb029hro7zg6jcbz1i",
-      "title": "Arm 发布第二代移动计算子系统 CSS for Mobile 2，搭载双 SME2 引擎与神经加速 GPU",
-      "title_en": "Arm 发布第二代移动终端计算子系统 CSS for Mobile 2，支持双 SME2 引擎，神经加速 GPU",
-      "url": "https://www.ithome.com/0/999/590.htm",
-      "permalink": "https://aihot.news/items/cmts2ynbb029hro7zg6jcbz1i",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-08T02:28:45.000Z",
-      "discoveredAt": "2026-09-08T02:58:44.102Z",
-      "summary": "Arm 在上海 Arm Everywhere China 活动上发布第二代移动终端计算子系统 CSS for Mobile 2，集成 Arm C2 CPU 集群、Mali G2-Ultra NX GPU 和 SI L2 系统互连，面向智能体 AI 与 AI 原生图形。",
-      "category": "ai-products",
-      "score": 56,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmts2ynbb029hro7zg6jcbz1i"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "生图",
-        "智能体"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtsxacbf04jkrob5fu5sp5ti",
-      "title": "Anthropic 讲解用 Claude Platform 降低成本并提升性能的三个方法",
-      "title_en": "https://x.com/i/article/2095208140753317888",
-      "url": "https://x.com/ClaudeDevs/status/2097369738968195513",
-      "permalink": "https://aihot.news/items/cmtsxacbf04jkrob5fu5sp5ti",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "publishedAt": "2026-09-08T17:01:27.000Z",
-      "discoveredAt": "2026-09-08T17:07:37.974Z",
-      "summary": "Anthropic 团队文章指出，优化 prompt cache 命中率、清除升级到前沿 Claude 模型后的提示词反模式、校准 effort 三个手段可在不牺牲性能的情况下降低成本。",
-      "category": "tip",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtsxacbf04jkrob5fu5sp5ti"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "提示词",
-        "prompt"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -1095,84 +1202,32 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmtss8a4l03dgroka7glpo75g",
-      "title": "Runway 收编巴黎研究实验室 Kinetix 团队 加码机器人研究",
-      "title_en": "The team from Kinetix， a Paris-based research lab， is joining Runway as we accelerate our investment…",
-      "url": "https://x.com/runwayml/status/2097330512113098866",
-      "permalink": "https://aihot.news/items/cmtss8a4l03dgroka7glpo75g",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-09-08T14:25:35.000Z",
-      "discoveredAt": "2026-09-08T14:46:00.553Z",
-      "summary": "Runway 宣布巴黎研究实验室 Kinetix 团队加入公司，借此加速机器人研究投入并扩大商业化部署。官方同时开放巴黎及全球的职位招聘，详情见其发布链接。",
-      "category": "industry",
-      "score": 50,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtss8a4l03dgroka7glpo75g"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "runway"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtsquxrt02fjrokal5cxw6lx",
-      "title": "MiniCPM5-2B本地运行获社区好评",
-      "title_en": "Huge thanks for trying it out and sharing the results 🙌 Can't wait to see what other creative workf…",
-      "url": "https://x.com/OpenBMB/status/2097325471193252285",
-      "permalink": "https://aihot.news/items/cmtsquxrt02fjrokal5cxw6lx",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "publishedAt": "2026-09-08T14:05:33.000Z",
-      "discoveredAt": "2026-09-08T14:07:37.171Z",
-      "summary": "非常感谢大家的试用和反馈分享🙌 很期待看到社区用它构建出更多创意工作流。欢迎告诉我们你接下来会做出什么！\n\n（引用推文：在16GB MacBook上本地运行MiniCPM5-2B 💻 它在基准测试中超越Qwen3.5-4B，我们让它查找近期AI新闻，它调用了网页搜索，抓取10条结果并在Atomic Chat内总结了关键动态。通过 https://atomic.chat 运行本地模型）",
+      "id": "cmttxf8n90qowrofpaqn78ea2",
+      "title": "A16z 合伙人：AI 不会制造\"永久底层阶级\"，大家不必过度担忧",
+      "title_en": "硅谷知名风投 A16z 合伙人：AI 不会制造\"永久底层阶级\"，大家不必过度担忧",
+      "url": "https://www.ithome.com/1/000/352.htm",
+      "permalink": "https://aihot.news/items/cmttxf8n90qowrofpaqn78ea2",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-09T09:34:10.000Z",
+      "discoveredAt": "2026-09-09T09:59:12.629Z",
+      "summary": "硅谷知名风投 A16z 合伙人阿尼什·阿查里亚认为，AI 并不会制造所谓的\"永久底层阶级\"，人们无需为此过度担忧。他指出，AI 技术栈的每一层都有约 20 家具有影响力的参与者，编程智能体领域已涌现 Claude Code、Codex、Lovable、Replit 和 Wabi 等成功产品，机会分布远比过去几轮科技繁荣更广泛。",
       "category": null,
-      "score": 27,
+      "score": 44,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtsquxrt02fjrokal5cxw6lx"
+        "canonical": "https://aihot.news/items/cmttxf8n90qowrofpaqn78ea2"
       },
-      "sourceType": "X",
-      "designCategory": "行业观察",
-      "relevanceScore": 9,
-      "editorialScore": 9,
-      "tags": [
-        "工作流",
-        "创意",
-        "creative"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmts36e1t000wro4664ittoch",
-      "title": "可灵 AI 将亮相 2026 多伦多国际电影节市场",
-      "title_en": "Kling AI is coming to TIFF： The Market 2026！ Great filmmaking begins with a point of view. A charac…",
-      "url": "https://x.com/Kling_ai/status/2097157989925027894",
-      "permalink": "https://aihot.news/items/cmts36e1t000wro4664ittoch",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "publishedAt": "2026-09-08T03:00:02.000Z",
-      "discoveredAt": "2026-09-08T03:04:44.969Z",
-      "summary": "可灵 AI（Kling AI）将于今年 9 月参加 TIFF Market 2026，与全球电影人及创作者探讨 AI 在电影制作中的实际应用。其将举办行业论坛、鸡尾酒会并设立展位，活动时间为 9 月 10 日至 16 日。",
-      "category": null,
-      "score": 23,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmts36e1t000wro4664ittoch"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
       "relevanceScore": 6,
-      "editorialScore": 9,
+      "editorialScore": 7,
       "tags": [
-        "可灵"
+        "codex",
+        "claude code",
+        "智能体"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmtspf1bu024xroou4hxsgbwc",
