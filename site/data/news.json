@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-10T11:19:50.340Z",
-  "previousGeneratedAt": "2026-09-10T04:42:53.984Z",
+  "generatedAt": "2026-09-10T16:24:34.255Z",
+  "previousGeneratedAt": "2026-09-10T11:19:50.340Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
   "itemCount": 44,
   "sourceCounts": {
-    "X": 24,
     "网站": 19,
+    "X": 24,
     "公众号": 1
   },
   "source": {
@@ -14,35 +14,6 @@
     "url": "https://aihot.virxact.com"
   },
   "items": [
-    {
-      "id": "cmttvnioi0p67rofpx2avlff2",
-      "title": "阿易分享把 Apple HIG 喂给 Agent 学习的 System Prompt",
-      "title_en": "大家可能需要UI设计和人机交互的最佳实践，可以喂给你的Agent学习， https://developer.apple.com/design/human-interface-guidelines …",
-      "url": "https://x.com/AYi_AInotes/status/2097611379834319001",
-      "permalink": "https://aihot.news/items/cmttvnioi0p67rofpx2avlff2",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-09-09T09:01:39.000Z",
-      "discoveredAt": "2026-09-09T09:09:39.103Z",
-      "summary": "阿易分享一套 System Prompt，让 Agent 学习 Apple Human Interface Guidelines 并转化为可执行的 UI 设计决策。",
-      "category": "tip",
-      "score": 65,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmttvnioi0p67rofpx2avlff2"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 19,
-      "editorialScore": 23,
-      "tags": [
-        "ui",
-        "design",
-        "设计",
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
     {
       "id": "cmtutl1fl0e7lrorpa5vowqqa",
       "title": "OpenAI 收紧 ChatGPT 广告政策，禁止图像与音频生成类竞品广告",
@@ -129,57 +100,59 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmttxf8n80qorrofpo39d38hv",
-      "title": "吉卜力制作人铃木敏夫谈\"吉卜力风\"AI 图：如我所料，大家很快就看腻了",
-      "title_en": "吉卜力工作室制作人铃木敏夫谈\"吉卜力风\"AI 图：如我所料，大家很快就看腻了",
-      "url": "https://www.ithome.com/1/000/360.htm",
-      "permalink": "https://aihot.news/items/cmttxf8n80qorrofpo39d38hv",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-09T09:47:16.000Z",
-      "discoveredAt": "2026-09-09T09:59:12.629Z",
-      "summary": "吉卜力工作室制作人铃木敏夫回应\"吉卜力风\"AI 生成图片热潮，称当时未回应采访邀请是因预判大家会很快看腻，结果果然如此。他认为此类 AI 作品\"没什么意义，也不好玩\"，并断言宫崎骏的表现方式\"无法通过 AI 或 CG 再现\"。此前 ChatGPT 文生图升级 GPT-4o 后曾引发该风格图片潮流。",
-      "category": null,
-      "score": 46,
-      "selected": false,
+      "id": "cmtvh5qcn05vfronbsu51vfic",
+      "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能",
+      "title_en": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "permalink": "https://aihot.news/items/cmtvh5qcn05vfronbsu51vfic",
+      "source": "Hugging Face：Blog（RSS）",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "discoveredAt": "2026-09-10T11:59:27.962Z",
+      "summary": "Hugging Face 发布 Workflow1111，用 gr.Workflow 以 73 个节点、11 条媒体管线重建 AUTOMATIC1111 的大部分功能，覆盖文本生成图像、高清修复、图生图、prompt matrix、VLM 反推提示词、检测生成 inpaint 蒙版、ControlNet 式预处理器、背景移除、PNG Info 和图生视频。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmttxf8n80qorrofpo39d38hv"
+        "canonical": "https://aihot.news/items/cmtvh5qcn05vfronbsu51vfic"
       },
       "sourceType": "网站",
       "designCategory": "图像与视频",
       "relevanceScore": 14,
       "editorialScore": 17,
       "tags": [
-        "文生图",
-        "生图"
+        "生图",
+        "workflow",
+        "视频",
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmttrld750kqlrofprefmlyf5",
-      "title": "蚂蚁百灵发布 Ling-3.0-flash-VL 多模态模型，SGLang 提供 Day-0 支持",
-      "title_en": "Thanks @sgl_project community！ The Ling series finally have eyes and we appreciate our day0 partners…",
-      "url": "https://x.com/AntLingAGI/status/2097583669926109550",
-      "permalink": "https://aihot.news/items/cmttrld750kqlrofprefmlyf5",
-      "source": "X：蚂蚁百灵 (@AntLingAGI)",
-      "publishedAt": "2026-09-09T07:11:32.000Z",
-      "discoveredAt": "2026-09-09T07:16:00.778Z",
-      "summary": "蚂蚁百灵发布 Ling-3.0-flash-VL（124B/5.5B MoE），具备原生图像和视频理解与 1M 上下文窗口，SGLang 上线 Day-0 支持。模型采用 ViT 编码器加 MLP projector 的原生多模态方案、用于时空编码的 VideoRoPE，以及 42 层 KDA 加 Gated MLA 按 5：1 组成的混合骨干网络以支持 1M token 长上下文。",
-      "category": "ai-models",
-      "score": 54,
-      "selected": false,
+      "id": "cmtvp95oo0h1yronb8scij5jx",
+      "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
+      "title_en": "Bring your imagination to life with Google Pics. Built with Nano Banana， Pics makes it easy to gene…",
+      "url": "https://x.com/GoogleAI/status/2098072879480947085",
+      "permalink": "https://aihot.news/items/cmtvp95oo0h1yronb8scij5jx",
+      "source": "X：Google AI (@GoogleAI)",
+      "publishedAt": "2026-09-10T15:35:29.000Z",
+      "discoveredAt": "2026-09-10T15:46:00.255Z",
+      "summary": "Google 发布图像生成工具 Google Pics，基于 Nano Banana 构建，现已上线 pics.new。支持局部对象编辑、图内文字修改与翻译、多人协作创作和单提示词生成多个选项。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmttrld750kqlrofprefmlyf5"
+        "canonical": "https://aihot.news/items/cmtvp95oo0h1yronb8scij5jx"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 13,
-      "editorialScore": 16,
+      "relevanceScore": 12,
+      "editorialScore": 15,
       "tags": [
-        "生图",
-        "视频",
-        "图像"
+        "图像生成",
+        "图像",
+        "提示词"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -211,6 +184,61 @@
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtvns12d0fx7ronbu15fasuj",
+      "title": "Luma AI Layers 提取图中文字",
+      "title_en": "Baked-in text is the reason you still open Photoshop. Layers now extracts it. Select the layer， hit…",
+      "url": "https://x.com/LumaLabsAI/status/2098063953754775937",
+      "permalink": "https://aihot.news/items/cmtvns12d0fx7ronbu15fasuj",
+      "source": "X：Luma AI (@LumaLabsAI)",
+      "publishedAt": "2026-09-10T15:00:01.000Z",
+      "discoveredAt": "2026-09-10T15:04:44.717Z",
+      "summary": "内嵌文字正是你还要打开 Photoshop 的原因。\n\nLayers 现在能把它提取出来。选中图层，点击 Extract，文案就变成实时文本，并已套上最接近的字体库字体。重新输入。换字体。重新排版。\n\n改一句文案只需两次点击，而不是重新生成。\n\nLayers，由 Uni-1 驱动。",
+      "category": null,
+      "score": 41,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtvns12d0fx7ronbu15fasuj"
+      },
+      "sourceType": "X",
+      "designCategory": "设计工具",
+      "relevanceScore": 8,
+      "editorialScore": 13,
+      "tags": [
+        "photoshop"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmtvkql9a0ci4ronb9vbn9c6s",
+      "title": "ChatGPT Astra 把医学影像空间直觉做成开箱即用工具",
+      "title_en": "看一张医学影像，人脑需要同时并行维持三套立体的心理模型。 这其实并不是死记硬背能解决的问题，本质上是一套设计反人类的认知缺陷。@OpenAI 的最强模型ChatGPT Astra 最近把它们在一个界面…",
+      "url": "https://x.com/AYi_AInotes/status/2098038199700410667",
+      "permalink": "https://aihot.news/items/cmtvkql9a0ci4ronb9vbn9c6s",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-09-10T13:17:41.000Z",
+      "discoveredAt": "2026-09-10T13:39:39.458Z",
+      "summary": "开发者用 OpenAI 的 ChatGPT Astra 搭建原型，把 2D 解剖挂图、真实 CT 断层切片与 3D 空间解剖模型联动在同一界面：拖拽任意横截面，3D 模型切面同步亮起、系统图谱实时标亮。该工具针对医学教育中平面图缺乏空间深度、CT 断层与全局解剖脱节、医生需同时维持体位/切面角度/器官三维形变三套心理模型的认知过载问题。",
+      "category": null,
+      "score": 29,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtvkql9a0ci4ronb9vbn9c6s"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "原型",
+        "设计",
+        "界面",
+        "3d"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmtuledox1hhkrofp7wkugx78",
@@ -295,63 +323,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmttt4y0n0m4brofpsb4v2ugw",
-      "title": "DAILY AI BRIEF：Muse 个人智能体上线，OpenAI 发布 ChatGPT Images 2.5",
-      "title_en": "DAILY AI BRIEF 🗞 - Sept 9 META 🔥： > Muse is live. Internal name was Hatch. US-only personal agent…",
-      "url": "https://x.com/testingcatalog/status/2097591597978341535",
-      "permalink": "https://aihot.news/items/cmttt4y0n0m4brofpsb4v2ugw",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-09-09T07:43:02.000Z",
-      "discoveredAt": "2026-09-09T07:59:13.251Z",
-      "summary": "Muse 在美国上线，支持 iOS、Android、网页及 WhatsApp，提供免费版及每月 20/100 美元方案。OpenAI 推出 ChatGPT Images 2.5，速度提升最高 50%，并新增 Sketch 工具。Anthropic 对齐负责人称个人认为 AI 十年内杀死所有人的概率超 10%。",
-      "category": null,
-      "score": 45,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmttt4y0n0m4brofpsb4v2ugw"
-      },
-      "sourceType": "X",
-      "designCategory": "设计工具",
-      "relevanceScore": 8,
-      "editorialScore": 13,
-      "tags": [
-        "sketch",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "cmttqzsyq0jxlrofpkivoipcj",
-      "title": "QwenWork 上线多模态创作功能",
-      "title_en": "🎬 Multimodal creation is now live on QwenWork. Drop in a few product images and tell QwenWork what …",
-      "url": "https://x.com/alibaba_cloud/status/2097577314338918747",
-      "permalink": "https://aihot.news/items/cmttqzsyq0jxlrofpkivoipcj",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "publishedAt": "2026-09-09T06:46:17.000Z",
-      "discoveredAt": "2026-09-09T06:59:14.816Z",
-      "summary": "🎬 多模态创作现已在 QwenWork 上线。放入几张产品图片并告诉 QwenWork 你想要什么--它可以在一次对话中将其转化为可用于营销活动的产品视频、营销海报和原创配乐。无需切换工具，无需拼接工作流。只需带来创意，让 QwenWork 从原始素材到成品创意一气呵成。\n\n👉 立即尝试：http://qwenwork.ai 了解更多：https://click.alibabacloud.com/m/20000000892/\n\n#QwenWork #AI #Multimodal",
-      "category": null,
-      "score": 46,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmttqzsyq0jxlrofpkivoipcj"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
-      "tags": [
-        "海报",
-        "工作流",
-        "创意",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmtuhzsmm1dwrrofpktofn3oy",
       "title": "Midjourney 每周办公时间 9/9 开启",
       "title_en": "Midjourney Weekly Office Hours 9/9 https://x.com/i/spaces/1PKqrNRjREbGb",
@@ -402,6 +373,32 @@
         "midjourney"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtvjbbbc0ayyronbqxba8az1",
+      "title": "德军评估 30 款 AI 工具，计划 2027 年起用于加快战场决策",
+      "title_en": "德军正评估 30 款 AI 工具，计划 2027 年起用于加快战场决策",
+      "url": "https://www.ithome.com/1/000/981.htm",
+      "permalink": "https://aihot.news/items/cmtvjbbbc0ayyronbqxba8az1",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-10T12:07:19.000Z",
+      "discoveredAt": "2026-09-10T12:59:47.796Z",
+      "summary": "德军正评估 30 款 AI 工具用于加快战场决策，网络司令部司令多姆称乐观预计 2027 年第二季度拿出原型系统，2028 年全面投入使用。这批工具大多由德国本土企业开发，法国 ChapsVision 是少数国外竞争者之一；多姆 4 月表示不打算采购 Palantir 的 Maven 系统，欧洲部分国家担心依赖美国技术损害数据主权。",
+      "category": "industry",
+      "score": 56,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtvjbbbc0ayyronbqxba8az1"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
+      "tags": [
+        "原型"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "cmtuhzdpg1dw2rofpeoqauqds",
@@ -457,57 +454,139 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cmttvky9r0p48rofpiuckebug",
-      "title": "面壁智能点赞 Whisper Town：2B 模型驱动小镇居民",
-      "title_en": "Very cool project. Right job for the 2B. Eight residents on Spark 1， events on the 27B， private memo…",
-      "url": "https://x.com/OpenBMB/status/2097612492889632987",
-      "permalink": "https://aihot.news/items/cmttvky9r0p48rofpiuckebug",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "publishedAt": "2026-09-09T09:06:04.000Z",
-      "discoveredAt": "2026-09-09T09:07:37.323Z",
-      "summary": "面壁智能 OpenBMB 点赞 Whisper Town 项目：MiniCPM5-2B 在 Spark 1 上驱动 8 位居民，Qwen 3.8-27B 在 Spark 2 上决定小镇事件。每位居民拥有独立记忆，模型生成对话并决定分享哪些信息。该项目仍是原型，是本地 AI 与游戏结合的有趣实验。",
+      "id": "cmtvonjl40glcronbpa6apbv4",
+      "title": "RobustSGPO：为 Agent Harness 进化补上搜索空间控制",
+      "title_en": "If you run automated prompt or harness evolution， this one is worth your time. （bookmark it） Seman…",
+      "url": "https://x.com/dair_ai/status/2098067735389593926",
+      "permalink": "https://aihot.news/items/cmtvonjl40glcronbpa6apbv4",
+      "source": "X：DAIR.AI (@dair_ai)",
+      "publishedAt": "2026-09-10T15:15:02.000Z",
+      "discoveredAt": "2026-09-10T15:29:13.530Z",
+      "summary": "RobustSGPO 为语义梯度提示优化补上了编辑控制机制：明确请求的编辑内容、在接受前构建并检查补丁，并从当前方案或保留快照继续搜索。在 AgentX 头脑风暴工作流中，120 个任务、95 次运行、7350 次候选尝试的测试显示，30 个留出任务的完成率从 60.0% 升至 80.0%，测试质量从 3.77 升至 4.14（2000 万 token 预算）。",
       "category": null,
-      "score": 34,
+      "score": 41,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmttvky9r0p48rofpiuckebug"
+        "canonical": "https://aihot.news/items/cmtvonjl40glcronbpa6apbv4"
       },
       "sourceType": "X",
-      "designCategory": "设计工具",
-      "relevanceScore": 6,
-      "editorialScore": 11,
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 9,
+      "editorialScore": 10,
       "tags": [
-        "原型"
+        "工作流",
+        "prompt",
+        "agent"
       ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmttsnyas0ljhrofpbpklx53b",
-      "title": "蚂蚁百灵 Ling 3.0 flash 获视觉升级",
-      "title_en": "Thanks to our day0 partner @atomic_chat_hq to bring the visual intelligence to more users and creato…",
-      "url": "https://x.com/AntLingAGI/status/2097584809862394134",
-      "permalink": "https://aihot.news/items/cmttsnyas0ljhrofpbpklx53b",
-      "source": "X：蚂蚁百灵 (@AntLingAGI)",
-      "publishedAt": "2026-09-09T07:16:04.000Z",
-      "discoveredAt": "2026-09-09T07:46:00.964Z",
-      "summary": "蚂蚁百灵（AntLingAGI）为 Ling 3.0 flash 加入视觉能力，可查看并分析图像。合作方 Atomic Chat 已推出 Ling 3.0 flash VL 的 GGUF 量化版本，支持本地运行，更多量化版本将陆续登陆边缘与终端设备。",
-      "category": null,
-      "score": 46,
+      "id": "cmtvopug40gnbronbmfh6c077",
+      "title": "OpenAI 在 ChatGPT Work 中推出 Data agent",
+      "title_en": "Now everyone can put data to work",
+      "url": "https://openai.com/index/put-data-to-work",
+      "permalink": "https://aihot.news/items/cmtvopug40gnbronbmfh6c077",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-09-10T15:00:00.000Z",
+      "discoveredAt": "2026-09-10T15:31:01.410Z",
+      "summary": "OpenAI 在 ChatGPT Work 中推出新的 Data agent，用户用自然语言即可连接公司数据、分析变化并生成可分享的交互式仪表盘。",
+      "category": "ai-products",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtvopug40gnbronbmfh6c077"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互",
+        "agent"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmtvlu4n10dxcronb7wypn68m",
+      "title": "SemiAnalysis 称 NVIDIA 因 Groq LPU 交易面临 DOJ 反垄断调查",
+      "title_en": "BREAKING NEWS🚨： NVIDIA IS BEING INVESTIGATED BY THE DOJ FOR ANTITRUST CONCERNS OVER THE GROQ LPU DE…",
+      "url": "https://x.com/SemiAnalysis_/status/2098046327154258390",
+      "permalink": "https://aihot.news/items/cmtvlu4n10dxcronb7wypn68m",
+      "source": "X：SemiAnalysis (@SemiAnalysis_)",
+      "publishedAt": "2026-09-10T13:49:58.000Z",
+      "discoveredAt": "2026-09-10T14:10:23.091Z",
+      "summary": "SemiAnalysis 发推称，NVIDIA 正因 Groq LPU 交易受到美国司法部（DOJ）的反垄断调查。去年 NVIDIA 签署了非独占授权并聘用了 Groq 的大部分核心人员，以补足其在超快交互加速器市场的空缺，此后借助 draft disagg、AFD 和常规 PD disagg 等技术将 LPU 与现有 Rubin GPU 形成互补。",
+      "category": "industry",
+      "score": 60,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmttsnyas0ljhrofpbpklx53b"
+        "canonical": "https://aihot.news/items/cmtvlu4n10dxcronb7wypn68m"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
       "tags": [
-        "视觉",
-        "图像"
+        "交互"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmtvlepvs0cxlronb4yp0h278",
+      "title": "GPT-6 Astra 登顶 ErdosBench，OpenAI 称未刻意优化数学能力",
+      "title_en": "GPT-6 Astra gives mathematicians a breather， and OpenAI says that's by design",
+      "url": "https://the-decoder.com/gpt-6-astra-gives-mathematicians-a-breather-and-openai-says-thats-by-design",
+      "permalink": "https://aihot.news/items/cmtvlepvs0cxlronb4yp0h278",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-09-10T13:45:32.000Z",
+      "discoveredAt": "2026-09-10T13:58:25.751Z",
+      "summary": "GPT-6 Astra 在 ulam.ai 的 ErdosBench 上以 3.23 分、解决 106 题（43 题完全解出、推翻 27 题）排名第一，超过 GPT-5.6 Sol 的 3.12 分和 78 题。",
+      "category": "tip",
+      "score": 63,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtvlepvs0cxlronb4yp0h278"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "design"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmtvggab50517ronbl7t9ndqz",
+      "title": "阿易实测豆包工作搭建飞书内容生产线，全套提示词与写作 Skill 开源",
+      "title_en": "https://x.com/i/article/2097985960323534857",
+      "url": "https://x.com/AYi_AInotes/status/2098006991163490674",
+      "permalink": "https://aihot.news/items/cmtvggab50517ronbl7t9ndqz",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-09-10T11:13:40.000Z",
+      "discoveredAt": "2026-09-10T11:39:39.941Z",
+      "summary": "作者将豆包工作接入飞书多维表格与云文档，搭建从选题快判、云电脑定时巡检到长文初稿与 PPT/Excel 落盘的内容自动化流水线，文内公开建表提示词、快判规则和自定义写作 Skill 协议。流程包含人工确认闸门与 【F】/【W】/【I】/【？】 四类事实打标，并指出浏览器录制灰度、闸门不可删、企业飞书权限受限三个局限。",
+      "category": "tip",
+      "score": 65,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtvggab50517ronbl7t9ndqz"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 9,
+      "editorialScore": 10,
+      "tags": [
+        "提示词",
+        "自动化",
+        "skill"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmtvcvjkk0ac3rok9t8n3lmh0",
@@ -752,57 +831,86 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmttt4x4e0m3zrofph1y28r86",
-      "title": "OpenAI CFO：自研 AI 加速 Jalapeno 芯片设计，Luna 部署成本低于开源方案",
-      "title_en": "OpenAI CFO：自研 AI 助力芯片设计，Luna 模型部署成本低于开源方案",
-      "url": "https://www.ithome.com/1/000/257.htm",
-      "permalink": "https://aihot.news/items/cmttt4x4e0m3zrofph1y28r86",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-09T07:33:55.000Z",
-      "discoveredAt": "2026-09-09T07:59:12.173Z",
-      "summary": "据路透社报道，OpenAI CFO Sarah Friar 在高盛会议上表示，OpenAI 用自研模型参与 Jalapeno 芯片开发并在 9 个月内完成流片，且部署 Luna 模型的成本低于云端运行开源方案，如智谱 AI 的 GLM 5.3。",
-      "category": "tip",
-      "score": 64,
+      "id": "cmtvo6i8j0g7hronbshsa4y5o",
+      "title": "Krea AI 发布 Krea Agents",
+      "title_en": "today， we release Krea Agents. the world's best agents for creative work， with deep expertise about…",
+      "url": "https://x.com/krea_ai/status/2098067731765710930",
+      "permalink": "https://aihot.news/items/cmtvo6i8j0g7hronbshsa4y5o",
+      "source": "X：Krea AI (@krea_ai)",
+      "publishedAt": "2026-09-10T15:15:02.000Z",
+      "discoveredAt": "2026-09-10T15:16:00.763Z",
+      "summary": "今天，我们发布 Krea Agents。\n\n全球最出色的创意工作智能体，具备对创意工作流的深度专业知识，以及一个强大的上下文管理器，拥有自我改进的记忆。\n\n下方是推广和教程 👇",
+      "category": null,
+      "score": 47,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmttt4x4e0m3zrofph1y28r86"
+        "canonical": "https://aihot.news/items/cmtvo6i8j0g7hronbshsa4y5o"
       },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
+      "sourceType": "X",
+      "designCategory": "行业观察",
+      "relevanceScore": 9,
+      "editorialScore": 9,
       "tags": [
-        "设计"
+        "工作流",
+        "创意",
+        "creative",
+        "智能体"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
-      "id": "cmtts42qy0l51rofp2l51yxoh",
-      "title": "Gradium 发布 Voice Design：写一段描述文字，几秒生成全新合成语音",
-      "title_en": "Gradium Launches Voice Design： Write a Prompt， Get a Brand New Synthetic Voice in Seconds",
-      "url": "https://www.marktechpost.com/2026/09/09/gradium-launches-voice-design-write-a-prompt-get-a-brand-new-synthetic-voice-in-seconds",
-      "permalink": "https://aihot.news/items/cmtts42qy0l51rofp2l51yxoh",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-09-09T07:29:13.000Z",
-      "discoveredAt": "2026-09-09T07:30:34.198Z",
-      "summary": "巴黎语音 AI 公司 Gradium（从 Kyutai 研究实验室分拆）推出 Voice Design，输入 1 到 500 字符的描述即可在 3 到 5 秒内生成 1 到 5 个候选语音，无需参考音频，支持英法西葡德 5 种语言，已在 Gradium API 和 Studio 全部套餐免费开放。",
-      "category": "ai-products",
-      "score": 69,
+      "id": "cmtvnzazv0g3cronbyaxwc5jo",
+      "title": "DeepSeek 发布 DeepSeek-V4.1-Flash：新架构家族最小模型，开放权重",
+      "title_en": "Another goated release by DeepSeek. Open weight， btw. Outperforms Opus 5 on key benchmarks， btw. L…",
+      "url": "https://x.com/omarsar0/status/2098064464536818141",
+      "permalink": "https://aihot.news/items/cmtvnzazv0g3cronbyaxwc5jo",
+      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+      "publishedAt": "2026-09-10T15:02:03.000Z",
+      "discoveredAt": "2026-09-10T15:10:23.951Z",
+      "summary": "DeepSeek 发布 DeepSeek-V4.1-Flash，定位为新架构家族中最小的模型，具备原生视觉理解，为更高能力、更快推理、更高吞吐和向更大模型扩展而设计。作者指出该模型为开放权重，在关键基准上超过 Opus 5，且价格更低。",
+      "category": "ai-models",
+      "score": 65,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtts42qy0l51rofp2l51yxoh"
+        "canonical": "https://aihot.news/items/cmtvnzazv0g3cronbyaxwc5jo"
       },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
+      "sourceType": "X",
+      "designCategory": "图像与视频",
       "relevanceScore": 6,
-      "editorialScore": 10,
+      "editorialScore": 9,
       "tags": [
-        "design",
-        "prompt"
+        "视觉",
+        "设计"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtvmrh9v0emuronbigbkvant",
+      "title": "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文",
+      "title_en": "@deepseek_ai just made Flash the new Pro. 🤯 DeepSeek-V4.1-Flash is live on SiliconFlow - Day 0. 55…",
+      "url": "https://x.com/SiliconFlowAI/status/2098054160176545821",
+      "permalink": "https://aihot.news/items/cmtvmrh9v0emuronbigbkvant",
+      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+      "publishedAt": "2026-09-10T14:21:06.000Z",
+      "discoveredAt": "2026-09-10T14:36:19.457Z",
+      "summary": "硅基流动宣布 DeepSeek-V4.1-Flash 于 Day 0 上线其平台。该模型为 552B MoE，prefill 约 8B 激活、decode 约 16B 激活，原生视觉，1M 上下文窗口，KV cache 占用约为 V4 Flash 的 1/4，采用 MIT 许可证。",
+      "category": "ai-models",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtvmrh9v0emuronbigbkvant"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "视觉"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmtvb4b5s085erok9gose1mcf",
@@ -880,34 +988,6 @@
       "editorialScore": 9,
       "tags": [
         "视觉"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtv5v2fh03rero3qtzl0mx3o",
-      "title": "DeepSeek 发布 DeepSeek-V4.1-Flash，新架构家族最小模型并支持原生视觉理解",
-      "title_en": "Wow！",
-      "url": "https://x.com/AravSrinivas/status/2097933713619169497",
-      "permalink": "https://aihot.news/items/cmtv5v2fh03rero3qtzl0mx3o",
-      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "publishedAt": "2026-09-10T06:22:29.000Z",
-      "discoveredAt": "2026-09-10T06:43:13.982Z",
-      "summary": "DeepSeek 发布 DeepSeek-V4.1-Flash，称其更聪明、更快、更高效，是新架构家族中最小的模型，具备原生视觉理解。官方称其设计面向更强能力、更快推理、更高吞吐以及向更大模型扩展。附图显示其在 Terminal-Bench 3.0 得分 30.0、DeepSWE v1.1 得分 74.2、CyberGym 得分 88.1、Automation-Bench 得分 54.8。",
-      "category": "ai-models",
-      "score": 61,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtv5v2fh03rero3qtzl0mx3o"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "视觉",
-        "设计",
-        "automation"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -1042,33 +1122,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtuv1m9b0fo4rorp72d4ryrz",
-      "title": "ETH Zürich 研究：CS 成绩比写作能力更能预测 vibe coding 水平",
-      "title_en": "If you think vibe coding makes computer science fundamentals irrelevant， this study points the other…",
-      "url": "https://x.com/rohanpaul_ai/status/2097859979269345464",
-      "permalink": "https://aihot.news/items/cmtuv1m9b0fo4rorp72d4ryrz",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-10T01:29:30.000Z",
-      "discoveredAt": "2026-09-10T01:40:23.721Z",
-      "summary": "ETH Zürich 论文测试 100 名大学生在 3 个无代码应用构建任务上的表现，参与者只能通过对话驱动 AI 并检查结果，不能查看源代码。CS 成绩与 vibe coding 表现相关性为 0.39，写作能力为 0.29，两者都显著但 CS 的独立预测价值约为写作的 2 倍；写作能力通过产出更清晰的提示词间接起作用。论文：arxiv.org/abs/2603.14133。",
-      "category": "paper",
-      "score": 51,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtuv1m9b0fo4rorp72d4ryrz"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "vibe coding",
-        "提示词"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
       "id": "cmtu5xzdz10cdrofp58i4ynj1",
       "title": "OpenAI 案例：MIT 研究者用 GPT-5.6 Sol 加 Codex 自动化量子比特校准实验",
       "title_en": "GPT-5.6 Sol 如何助力开展量子计算实验",
@@ -1094,35 +1147,6 @@
         "自动化",
         "codex",
         "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmtu5bpl10zxwrofpxyq9j856",
-      "title": "Qodo 发布 Agentic Toolbox，为 Claude Code、Codex、Kiro 和 Cursor 提供独立审查能力",
-      "title_en": "Qodo just launched the Agentic Toolbox. It gives Claude Code， Codex， Kiro， and Cursor direct access…",
-      "url": "https://x.com/omarsar0/status/2097675900531732624",
-      "permalink": "https://aihot.news/items/cmtu5bpl10zxwrofpxyq9j856",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "publishedAt": "2026-09-09T13:18:02.000Z",
-      "discoveredAt": "2026-09-09T13:40:23.453Z",
-      "summary": "Qodo 发布 Agentic Toolbox，让 Claude Code、Codex、Kiro 和 Cursor 直接访问 Qodo 的审查引擎、代码库知识和团队规则。该工具箱含 4 个技能并通过 MCP 提供，包括 codebase-wisdom、review、get-rules 和 review-resolver，背后依托关系图、PR 历史、工作区规则和 Live Git 状态等上下文；只有两个智能体无法达成一致的结论才交给人工，人工审查和 PR 关卡仍然保留。",
-      "category": "ai-products",
-      "score": 51,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtu5bpl10zxwrofpxyq9j856"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "codex",
-        "claude code",
-        "智能体",
-        "mcp"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -1177,34 +1201,6 @@
       "tags": [
         "prompt",
         "claude code"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmttxf8n90qowrofpaqn78ea2",
-      "title": "A16z 合伙人：AI 不会制造\"永久底层阶级\"，大家不必过度担忧",
-      "title_en": "硅谷知名风投 A16z 合伙人：AI 不会制造\"永久底层阶级\"，大家不必过度担忧",
-      "url": "https://www.ithome.com/1/000/352.htm",
-      "permalink": "https://aihot.news/items/cmttxf8n90qowrofpaqn78ea2",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-09T09:34:10.000Z",
-      "discoveredAt": "2026-09-09T09:59:12.629Z",
-      "summary": "硅谷知名风投 A16z 合伙人阿尼什·阿查里亚认为，AI 并不会制造所谓的\"永久底层阶级\"，人们无需为此过度担忧。他指出，AI 技术栈的每一层都有约 20 家具有影响力的参与者，编程智能体领域已涌现 Claude Code、Codex、Lovable、Replit 和 Wabi 等成功产品，机会分布远比过去几轮科技繁荣更广泛。",
-      "category": null,
-      "score": 44,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmttxf8n90qowrofpaqn78ea2"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "codex",
-        "claude code",
-        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     }
