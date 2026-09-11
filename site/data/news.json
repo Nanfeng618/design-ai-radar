@@ -1,48 +1,19 @@
 {
-  "generatedAt": "2026-09-11T04:40:45.581Z",
-  "previousGeneratedAt": "2026-09-10T16:24:34.255Z",
+  "generatedAt": "2026-09-11T11:21:28.497Z",
+  "previousGeneratedAt": "2026-09-11T04:40:45.581Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 47,
+  "itemCount": 45,
   "sourceCounts": {
-    "网站": 22,
     "X": 24,
-    "公众号": 1
+    "网站": 19,
+    "公众号": 2
   },
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com"
   },
   "items": [
-    {
-      "id": "cmtutl1fl0e7lrorpa5vowqqa",
-      "title": "OpenAI 收紧 ChatGPT 广告政策，禁止图像与音频生成类竞品广告",
-      "title_en": "OpenAI 悄然收紧 ChatGPT 广告政策，禁止 Adobe 等竞品投放 AI 生图与音频广告",
-      "url": "https://www.ithome.com/1/000/568.htm",
-      "permalink": "https://aihot.news/items/cmtutl1fl0e7lrorpa5vowqqa",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-10T00:09:39.000Z",
-      "discoveredAt": "2026-09-10T00:59:30.819Z",
-      "summary": "据 The Information 报道，OpenAI 近期悄然更新广告政策，不再接受仅图像生成和语音生成类产品的广告审批，Adobe 美洲媒体高级总监 Doug Wyatt 证实了这一消息。",
-      "category": "industry",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtutl1fl0e7lrorpa5vowqqa"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 18,
-      "editorialScore": 21,
-      "tags": [
-        "图像生成",
-        "生图",
-        "adobe",
-        "广告"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
     {
       "id": "cmtv4nx6b0sfyrorptomhzqmu",
       "title": "AI 时代的交互设计，更应如此：因用户的舞步而移动。",
@@ -130,35 +101,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtvh5qcn05vfronbsu51vfic",
-      "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能",
-      "title_en": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "permalink": "https://aihot.news/items/cmtvh5qcn05vfronbsu51vfic",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
-      "discoveredAt": "2026-09-10T11:59:27.962Z",
-      "summary": "Hugging Face 发布 Workflow1111，用 gr.Workflow 以 73 个节点、11 条媒体管线重建 AUTOMATIC1111 的大部分功能，覆盖文本生成图像、高清修复、图生图、prompt matrix、VLM 反推提示词、检测生成 inpaint 蒙版、ControlNet 式预处理器、背景移除、PNG Info 和图生视频。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtvh5qcn05vfronbsu51vfic"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 14,
-      "editorialScore": 17,
-      "tags": [
-        "生图",
-        "workflow",
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmtvp95oo0h1yronb8scij5jx",
       "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
       "title_en": "Bring your imagination to life with Google Pics. Built with Nano Banana， Pics makes it easy to gene…",
@@ -187,31 +129,31 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtuotczi09otrorp7vuj2ztm",
-      "title": "Runway 上线 GPT-Image 2.5 及两款新模型",
-      "title_en": "GPT-Image 2.5 is now on Runway. Flare is faster and built for everyday iteration and exploration. S…",
-      "url": "https://x.com/runwayml/status/2097814431912574991",
-      "permalink": "https://aihot.news/items/cmtuotczi09otrorp7vuj2ztm",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-09-09T22:28:30.000Z",
-      "discoveredAt": "2026-09-09T22:46:00.244Z",
-      "summary": "GPT-Image 2.5 现已登陆 Runway。\n\nFlare 速度更快，专为日常迭代与探索而打造。Sunburst 则面向精准编辑与最高保真度而设计。两者今日起与全球顶尖的图像和视频模型一同上线。\n\n点击下方链接立即体验。",
+      "id": "cmtwlwk50030rrow7f98bbojg",
+      "title": "阿里云 Token Plan 个人版升级：Standard、Pro 套餐新增 12 类 Agent Harness 工具",
+      "title_en": null,
+      "url": "https://www.ithome.com/1/001/257.htm",
+      "permalink": "https://aihot.news/items/cmtwlwk50030rrow7f98bbojg",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-11T06:41:45.000Z",
+      "discoveredAt": "2026-09-11T07:00:03.895Z",
+      "summary": "阿里云 9 月 11 日宣布 Token Plan 个人版升级，Standard 和 Pro 套餐在价格与 Credit 额度不变的前提下新增 12 项 Agent Harness 工具权益，覆盖搜索、网页解析、图像生成、语音处理、代码执行等能力，均通过 MCP 协议开放。",
       "category": null,
-      "score": 42,
+      "score": 43,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtuotczi09otrorp7vuj2ztm"
+        "canonical": "https://aihot.news/items/cmtwlwk50030rrow7f98bbojg"
       },
-      "sourceType": "X",
+      "sourceType": "网站",
       "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
+      "relevanceScore": 11,
+      "editorialScore": 14,
       "tags": [
-        "runway",
-        "设计",
-        "视频",
-        "图像"
+        "图像生成",
+        "图像",
+        "agent",
+        "mcp"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -595,57 +537,29 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cmtwdbmb00ccxrolkzbx7tn7j",
-      "title": "SenseNova-U1.5 发布：8B-MoT 原生统一多模态模型，支持 4K 生成与图像编辑",
-      "title_en": "SenseNova-U1.5： Towards Native Unified Visual Intelligence",
-      "url": "https://arxiv.org/abs/2609.11929",
-      "permalink": "https://aihot.news/items/cmtwdbmb00ccxrolkzbx7tn7j",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
-      "discoveredAt": "2026-09-11T02:59:52.162Z",
-      "summary": "SenseNova 团队发布 SenseNova-U1.5，一个 8B-MoT 原生统一多模态模型，在无编码器、无 VAE 架构内实现视觉理解、推理、生成和编辑。",
-      "category": "ai-models",
-      "score": 58,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtwdbmb00ccxrolkzbx7tn7j"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视觉",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtwdbmb00ccwrolksjxmvtrg",
-      "title": "World in World：用世界模型探索视频中的世界",
-      "title_en": "World in World： Explore the World with World Models",
-      "url": "https://arxiv.org/abs/2609.11548",
-      "permalink": "https://aihot.news/items/cmtwdbmb00ccwrolksjxmvtrg",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
-      "discoveredAt": "2026-09-11T02:59:52.162Z",
-      "summary": "研究者提出 World in World（WiW），一种无需训练的可控视频世界模型接口，将源视频观测、目标视角投影、渲染几何与生成历史统一转换为带相机、时间和空间有效性标注的干净视觉状态，通过模型原生 self-attention 直接注入冻结的因果视频世界模型。该方法无需更新预训练模型或增加控制专用模块，即可支持相机位姿、视角方向等多样化控制下的长时程交互式探索。",
+      "id": "cmtwsa0t809jnrow7nw45mgj5",
+      "title": "开源相机 Proof of Capture：用隐写术在像素中嵌入签名，成本不到 100 美元",
+      "title_en": "捕获证明：苹果参考图像，但属于开源且采用了隐写术",
+      "url": "https://merybenavente.me/blog/proof-of-capture",
+      "permalink": "https://aihot.news/items/cmtwsa0t809jnrow7nw45mgj5",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-11T09:33:53.337Z",
+      "discoveredAt": "2026-09-11T09:58:30.849Z",
+      "summary": "两位开发者在 Recurse Center 用 Raspberry Pi Zero、ATECC608 加密芯片和 3D 打印外壳做出开源相机 Proof of Capture，在拍摄瞬间把签名后的感知哈希以 DWT + DCT 频域水印嵌入像素，可扛住 WhatsApp 级压缩并检测内容篡改。",
       "category": null,
-      "score": 41,
+      "score": 46,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtwdbmb00ccwrolksjxmvtrg"
+        "canonical": "https://aihot.news/items/cmtwsa0t809jnrow7nw45mgj5"
       },
       "sourceType": "网站",
       "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "relevanceScore": 7,
+      "editorialScore": 10,
       "tags": [
-        "视觉",
-        "交互",
-        "视频"
+        "图像",
+        "3d"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -1053,30 +967,30 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtutkbkd0e59rorp1zhwl9pn",
-      "title": "Calif Research 展示 WeChat 零点击蠕虫 WeWorm",
-      "title_en": "Quoting Calif Research",
-      "url": "https://simonwillison.net/2026/Sep/10/calif-research",
-      "permalink": "https://aihot.news/items/cmtutkbkd0e59rorp1zhwl9pn",
-      "source": "Simon Willison 博客",
-      "publishedAt": "2026-09-10T00:56:41.000Z",
-      "discoveredAt": "2026-09-10T00:58:58.975Z",
-      "summary": "Calif Research 发布 WeWorm 演示，称其为首个通过微信通话在 iOS 和 Android 间传播的零点击蠕虫，受害者无需接听或与手机交互，即使接听也听不到任何声音。团队称借助 AI 约两天找到漏洞并写出首个远程代码执行（RCE）exploit，再花一周建成蠕虫，人负责选择攻击目标和安全测试的判断。",
-      "category": "paper",
-      "score": 67,
-      "selected": false,
+      "id": "cmtwsc5gt09uarow7n2r2jrz3",
+      "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
+      "title_en": "实测DeepSeek V4.1 Flash，降价后熟悉的梁圣又回来了",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
+      "permalink": "https://aihot.news/items/cmtwsc5gt09uarow7n2r2jrz3",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-09-11T04:24:28.000Z",
+      "discoveredAt": "2026-09-11T10:00:10.584Z",
+      "summary": "作者实测 DeepSeek V4.1 Flash，缓存命中输入降价 7 倍多、输出砍三分之二，9 月 14 日中午 12 点起所有发往 v4-pro 的请求将被强制路由到 4.1 Flash 并按其低价计费。",
+      "category": "tip",
+      "score": 76,
+      "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtutkbkd0e59rorp1zhwl9pn"
+        "canonical": "https://aihot.news/items/cmtwsc5gt09uarow7n2r2jrz3"
       },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
       "relevanceScore": 6,
-      "editorialScore": 10,
+      "editorialScore": 9,
       "tags": [
-        "交互"
+        "视觉"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmtw6vcxo05o7rolk25wx3y1c",
@@ -1104,6 +1018,32 @@
         "自动化"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmtw241w503rero4vcyaag853",
+      "title": "Runway AI 峰会新增演讲嘉宾",
+      "title_en": "The Runway AI Summit speaker list is growing. We've just added a new group of voices to the lineup， …",
+      "url": "https://x.com/runwayml/status/2098165164713636283",
+      "permalink": "https://aihot.news/items/cmtw241w503rero4vcyaag853",
+      "source": "X：Runway (@runwayml)",
+      "publishedAt": "2026-09-10T21:42:11.000Z",
+      "discoveredAt": "2026-09-10T21:46:00.942Z",
+      "summary": "Runway AI 峰会的演讲嘉宾名单正在扩大。我们刚刚新增了一批声音加入阵容，今年九月将在旧金山与我们共度一整天。直接聆听构建者们讲述 AI 下一步走向。请通过下方链接注册。",
+      "category": null,
+      "score": 25,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtw241w503rero4vcyaag853"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "runway"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmtv48yni0oq5rorpf4o74549",
@@ -1184,32 +1124,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtuxvduy0ii7rorpk376u103",
-      "title": "DeepSeek 合并快速、专家、识图模式为统一智能模式，V4.1 Flash 最快今日发布",
-      "title_en": "DeepSeek 快速、专家、识图模式合并升级，V4.1 Flash 最快今日发布",
-      "url": "https://www.ithome.com/1/000/602.htm",
-      "permalink": "https://aihot.news/items/cmtuxvduy0ii7rorpk376u103",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-10T02:11:13.000Z",
-      "discoveredAt": "2026-09-10T02:59:31.857Z",
-      "summary": "DeepSeek 宣布将快速模式、专家模式和识图模式合并为统一的智能模式，模型可自动检测查询复杂度、在检测到图片输入时激活视觉能力并按任务难度调整处理能力。",
-      "category": "ai-models",
-      "score": 69,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtuxvduy0ii7rorpk376u103"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "视觉"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmtw91ijp080srolk7m6u8wao",
       "title": "SpaceXAI 团队将直播用 Grok Bot 从零建立一家公司",
       "title_en": "马斯克 SpaceXAI 团队将直播用 Grok Bot 从零开始建立一家公司，从创意构思、产品开发到实际工作部署",
@@ -1262,6 +1176,32 @@
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmtwo1qfj05agrow7pakazh2e",
+      "title": "亚马逊 Amazon Ads 与 OpenAI 合作，支持在 ChatGPT 投放广告",
+      "title_en": "亚马逊与 OpenAI 合作，客户可在 ChatGPT 投放广告",
+      "url": "https://www.ithome.com/1/001/284.htm",
+      "permalink": "https://aihot.news/items/cmtwo1qfj05agrow7pakazh2e",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-11T07:49:33.000Z",
+      "discoveredAt": "2026-09-11T08:00:04.003Z",
+      "summary": "亚马逊旗下广告业务 Amazon Ads 于当地时间 9 月 10 日宣布与 OpenAI 建立合作伙伴关系，支持在 ChatGPT 中投放广告。",
+      "category": "industry",
+      "score": 69,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtwo1qfj05agrow7pakazh2e"
+      },
+      "sourceType": "网站",
+      "designCategory": "行业观察",
+      "relevanceScore": 6,
+      "editorialScore": 6,
+      "tags": [
+        "广告"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "cmtw6wcv905rirolkt4xwb5pn",
