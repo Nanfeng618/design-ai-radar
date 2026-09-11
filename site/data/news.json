@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-11T11:21:28.497Z",
-  "previousGeneratedAt": "2026-09-11T04:40:45.581Z",
+  "generatedAt": "2026-09-11T16:28:36.761Z",
+  "previousGeneratedAt": "2026-09-11T11:21:28.497Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 45,
+  "itemCount": 40,
   "sourceCounts": {
     "X": 24,
-    "网站": 19,
-    "公众号": 2
+    "网站": 15,
+    "公众号": 1
   },
   "source": {
     "name": "AI HOT",
@@ -15,59 +15,31 @@
   },
   "items": [
     {
-      "id": "cmtv4nx6b0sfyrorptomhzqmu",
-      "title": "AI 时代的交互设计，更应如此：因用户的舞步而移动。",
-      "title_en": null,
-      "url": "https://x.com/lijigang/status/2097923192241426693",
-      "permalink": "https://aihot.news/items/cmtv4nx6b0sfyrorptomhzqmu",
-      "source": "X：李继刚 (@lijigang)",
-      "publishedAt": "2026-09-10T05:40:41.000Z",
-      "discoveredAt": "2026-09-10T06:09:39.925Z",
-      "summary": "AI 时代的交互设计，更应如此：因用户的舞步而移动。",
-      "category": null,
-      "score": 14,
+      "id": "cmtwz19bj0b6jrouaa521setu",
+      "title": "Ling 3.0 Flash VL 上线 OpenRouter，由 Novita Labs 提供服务",
+      "title_en": "Ling 3.0 Flash VL is live on OpenRouter， served by @novita_labs. A 124B MoE with 5.5B active params…",
+      "url": "https://x.com/OpenRouter/status/2098397350528172506",
+      "permalink": "https://aihot.news/items/cmtwz19bj0b6jrouaa521setu",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-09-11T13:04:49.000Z",
+      "discoveredAt": "2026-09-11T13:07:37.294Z",
+      "summary": "Ling 3.0 Flash VL 上线 OpenRouter，由 Novita Labs 提供服务，是一个 124B MoE、激活参数 5.5B 的模型。新增原生图像和视频输入及视觉智能体能力，支持即时与推理混合模式以及工具调用，提供免费入口 https://openrouter.ai/inclusionai/ling-3.0-flash-vl:free。",
+      "category": "ai-products",
+      "score": 55,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtv4nx6b0sfyrorptomhzqmu"
+        "canonical": "https://aihot.news/items/cmtwz19bj0b6jrouaa521setu"
       },
       "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 16,
+      "designCategory": "图像与视频",
+      "relevanceScore": 17,
       "editorialScore": 20,
       "tags": [
-        "交互设计",
-        "设计",
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmtvx8cxj043rrojqqx9ulq0i",
-      "title": "Runway 分享实时视频生成研究：从 Gen-4.5 后训练到流式输出",
-      "title_en": "Towards Instant Video Generation",
-      "url": "https://runwayml.com/news/research/towards-instant-video-generation",
-      "permalink": "https://aihot.news/items/cmtvx8cxj043rrojqqx9ulq0i",
-      "source": "Runway：News（网页）",
-      "publishedAt": "2026-09-10T19:29:22.992Z",
-      "discoveredAt": "2026-09-10T19:29:22.992Z",
-      "summary": "Runway 公布其实时视频生成研究思路：对 Gen-4.5 等基础模型做后训练，先转为时间因果的逐帧自回归生成，再用分布匹配蒸馏把每帧压缩到几步，实现边输入提示词边流式输出视频与音频。该方法以首帧时间和整体生成时长为优化目标，官方称可降低 GPU 占用与单条输出成本。",
-      "category": null,
-      "score": 45,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtvx8cxj043rrojqqx9ulq0i"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 16,
-      "editorialScore": 19,
-      "tags": [
-        "视频生成",
-        "runway",
+        "生图",
+        "视觉",
         "视频",
-        "提示词"
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -320,6 +292,62 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmtx5gqdy07zmroed99uil4r1",
+      "title": "Black Forest Labs 的 FLUX Video Edit 上线 OpenRouter",
+      "title_en": "FLUX Video Edit from @bfl_ai is live on OpenRouter. Send a clip and a sentence： remove or replace o…",
+      "url": "https://x.com/OpenRouter/status/2098441690801656232",
+      "permalink": "https://aihot.news/items/cmtx5gqdy07zmroed99uil4r1",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-09-11T16:01:00.000Z",
+      "discoveredAt": "2026-09-11T16:07:37.025Z",
+      "summary": "OpenRouter 宣布 Black Forest Labs 的 FLUX Video Edit 上线 OpenRouter。用户发送一段视频加一句话即可移除或替换物体和角色、更换场景、重绘风格，或翻译对白并匹配口型，无需遮罩或逐帧控制。地址：https://openrouter.ai/black-forest-labs/flux-video-edit",
+      "category": "ai-products",
+      "score": 54,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtx5gqdy07zmroed99uil4r1"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 9,
+      "editorialScore": 12,
+      "tags": [
+        "flux",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtx06gbq0c19rouax8ea9etd",
+      "title": "谷歌官方 120 分钟 Agent 架构课讲解图与循环工程",
+      "title_en": "1 个提示词 → 100 个代理 → 循环容错 → 状态图工程。 谷歌官方的这 120 分钟课程没有一句废话，把价值几千块的 Agent 架构课直接拆到了骨头里， 为什么你搭的 Agent 跑三步就…",
+      "url": "https://x.com/AYi_AInotes/status/2098403405886566824",
+      "permalink": "https://aihot.news/items/cmtx06gbq0c19rouax8ea9etd",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-09-11T13:28:53.000Z",
+      "discoveredAt": "2026-09-11T13:39:39.898Z",
+      "summary": "谷歌官方放出约 120 分钟免费 Agent 架构课程，主推「图与循环工程（Graph & Loop Engineering）」，用带状态的节点与条件边替代单向流水线。课程分五个节点，涵盖构建第一个代理图表、数百个智能体高并发调度、路由/检查/重复的循环容错，以及执行中记录断点并自动重构工作流的自愈图。",
+      "category": "tip",
+      "score": 63,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtx06gbq0c19rouax8ea9etd"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 11,
+      "editorialScore": 12,
+      "tags": [
+        "工作流",
+        "提示词",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cmtw4976r08a7ro4v8e5148lu",
       "title": "Krea AI 推出 Flux Video Edit 视频编辑功能",
       "title_en": "introducing Flux Video Edit replace anything with precision at super fast speed. try it now 👇",
@@ -342,6 +370,33 @@
       "editorialScore": 12,
       "tags": [
         "flux",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtx0vwxc0339roediam8uv1f",
+      "title": "用多项选择题问答评估视频描述质量：Apple 提出信息保真度新指标",
+      "title_en": "Putting Captions to the Test： Evaluating Video Caption Quality through Multiple-Choice Question Answering",
+      "url": "https://machinelearning.apple.com/research/video-caption-quality",
+      "permalink": "https://aihot.news/items/cmtx0vwxc0339roediam8uv1f",
+      "source": "Apple Machine Learning Research（RSS）",
+      "publishedAt": "2026-09-11T00:00:00.000Z",
+      "discoveredAt": "2026-09-11T13:59:25.617Z",
+      "summary": "Apple 提出以信息保真度重新定义视频描述质量，认为描述需最大化对视频内容的覆盖。现有指标依赖生成文本与参考文本的匹配，因视频描述存在\"一对多\"特性，高质量描述常因用词差异或视觉重点合理偏移而被扣分，且评估维度单一，无法细粒度分析描述质量。",
+      "category": null,
+      "score": 31,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtx0vwxc0339roediam8uv1f"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
@@ -911,58 +966,28 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmtvcvjkk0ac3rok9t8n3lmh0",
-      "title": "高德发布 3D 原生城市世界模型 ABot-Earth 0.7，支持从星球到街景全尺寸生成",
-      "title_en": "高德发布全球首个 3D 原生城市世界模型 ABot-Earth 0.7，实现从星球到街景的全尺寸 AI 生成",
-      "url": "https://www.ithome.com/1/000/890.htm",
-      "permalink": "https://aihot.news/items/cmtvcvjkk0ac3rok9t8n3lmh0",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-10T09:02:24.000Z",
-      "discoveredAt": "2026-09-10T09:59:34.184Z",
-      "summary": "高德发布 3D 原生城市世界模型 ABot-Earth 0.7，称其为全球首个全模态、可预测的 3D 原生城市世界模型，覆盖超过 196 个国家和地区。模型可从卫星图像或文字描述出发，10 分钟内在一块消费级 GPU 上生成公里级 3DGS 格式城市场景，效率较传统模式提升 1000 倍，已应用于飞行街景 2.0，体验官网同步上线。",
-      "category": "ai-models",
-      "score": 55,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtvcvjkk0ac3rok9t8n3lmh0"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "图像",
-        "3d"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtv1gafe0m5erorpvxtrxa4v",
-      "title": "Dev Ed 实测用 MCP 把 Claude 接入 Blender，一句话 One-shot 完成可编辑建模",
-      "title_en": "别再去网页端玩那些生成 3D 模型的抽卡玩具了，吐出来的死模型全是破面，在工程里根本没法二改。 油管顶级创意导师 Dev Ed 刚发布的这段实测视频，直接把 3D 行业的生产力门槛给砸穿了： 他用 …",
-      "url": "https://x.com/AYi_AInotes/status/2097902768946028979",
-      "permalink": "https://aihot.news/items/cmtv1gafe0m5erorpvxtrxa4v",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-09-10T04:19:31.000Z",
-      "discoveredAt": "2026-09-10T04:39:39.403Z",
-      "summary": "Dev Ed 实测通过 Anthropic 的 MCP 协议把 Claude 接入 Blender，自然语言一句话即可 One-shot 完成建模。Claude 经 MCP 向 Blender 发送原生 Python 脚本，直接执行添加几何体、布尔运算、挂细分修改器、调整 Shader Node 等操作，生成可继续手动拖拽或对话微调的可编辑工程文件。",
+      "id": "cmtx1h7gs040troedw33odq29",
+      "title": "Runway 开放前沿模型权重授权",
+      "title_en": "Enterprises can now create their own bespoke frontier models by licensing state of the art Runway mo…",
+      "url": "https://x.com/runwayml/status/2098409679974228275",
+      "permalink": "https://aihot.news/items/cmtx1h7gs040troedw33odq29",
+      "source": "X：Runway (@runwayml)",
+      "publishedAt": "2026-09-11T13:53:48.000Z",
+      "discoveredAt": "2026-09-11T14:16:00.992Z",
+      "summary": "企业现在可以通过授权 Runway 最先进的模型权重，创建自己的定制前沿模型。用自己的数据微调，在自己的基础设施上自托管，并将所创建的任何成果商业化。全程享有白手套服务，并配备 Forward Deployed Researchers，让模型真正为你所用。点击下方链接，了解更多关于 Runway Model Licensing 的信息。",
       "category": null,
-      "score": 48,
+      "score": 41,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtv1gafe0m5erorpvxtrxa4v"
+        "canonical": "https://aihot.news/items/cmtx1h7gs040troedw33odq29"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
+      "relevanceScore": 6,
+      "editorialScore": 9,
       "tags": [
-        "创意",
-        "视频",
-        "3d",
-        "mcp"
+        "runway"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -982,137 +1007,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtwsc5gt09uarow7n2r2jrz3"
-      },
-      "sourceType": "公众号",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "视觉"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtw6vcxo05o7rolk25wx3y1c",
-      "title": "Perplexity 为 Computer 开发 Automations 功能",
-      "title_en": "Perplexity is working on new Automations feature for Perplexity Computer. Users will be able to sch…",
-      "url": "https://x.com/testingcatalog/status/2098193576689647674",
-      "permalink": "https://aihot.news/items/cmtw6vcxo05o7rolk25wx3y1c",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-09-10T23:35:05.000Z",
-      "discoveredAt": "2026-09-10T23:59:13.675Z",
-      "summary": "Perplexity 正在为 Perplexity Computer 开发新的 Automations 功能。\n\n用户将能够按计划调度工作流，或基于特定触发器来调用它们。\n\n> \"用 Computer 自动化一切--按自定义计划运行工作流，或在满足特定条件时运行，并自动获取结果\"",
-      "category": null,
-      "score": 31,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtw6vcxo05o7rolk25wx3y1c"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "工作流",
-        "自动化"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmtw241w503rero4vcyaag853",
-      "title": "Runway AI 峰会新增演讲嘉宾",
-      "title_en": "The Runway AI Summit speaker list is growing. We've just added a new group of voices to the lineup， …",
-      "url": "https://x.com/runwayml/status/2098165164713636283",
-      "permalink": "https://aihot.news/items/cmtw241w503rero4vcyaag853",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-09-10T21:42:11.000Z",
-      "discoveredAt": "2026-09-10T21:46:00.942Z",
-      "summary": "Runway AI 峰会的演讲嘉宾名单正在扩大。我们刚刚新增了一批声音加入阵容，今年九月将在旧金山与我们共度一整天。直接聆听构建者们讲述 AI 下一步走向。请通过下方链接注册。",
-      "category": null,
-      "score": 25,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtw241w503rero4vcyaag853"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "runway"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtv48yni0oq5rorpf4o74549",
-      "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
-      "title_en": "DeepSeek-V4.1-Flash 发布",
-      "url": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-09-10",
-      "permalink": "https://aihot.news/items/cmtv48yni0oq5rorpf4o74549",
-      "source": "DeepSeek：API 更新日志",
-      "publishedAt": "2026-09-10T05:58:04.695Z",
-      "discoveredAt": "2026-09-10T05:58:04.695Z",
-      "summary": "DeepSeek 发布 DeepSeek-V4.1-Flash，是全新模型结构系列中最小尺寸的模型，具备原生多模态视觉理解能力，评测包括 GPQA Diamond 90.9、HLE 36.8、Codeforces Rating 3471、Terminal-Bench 2.1 90.6 等。",
-      "category": "ai-models",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtv48yni0oq5rorpf4o74549"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "视觉"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtv4awp30ozprorpivlqnu1p",
-      "title": "DeepSeek 发布 V4.1 Flash 模型，基准超越 V4 Pro 并下调 API 定价",
-      "title_en": "DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调",
-      "url": "https://www.ithome.com/1/000/719.htm",
-      "permalink": "https://aihot.news/items/cmtv4awp30ozprorpivlqnu1p",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-10T05:50:17.000Z",
-      "discoveredAt": "2026-09-10T05:59:33.289Z",
-      "summary": "深度求索正式发布 DeepSeek V4.1 Flash，为 552B 参数 MoE 模型，采用全新 Causal-Encoder-Decoder 结构，原生支持多模态，基准测试超越包括 DeepSeek V4 Pro 在内的旗舰模型。",
-      "category": "ai-models",
-      "score": 86,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtv4awp30ozprorpivlqnu1p"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "视觉"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtv3ytai0ogsrorpfaevhzlt",
-      "title": "DeepSeek 发布 V4.1 Flash：552B MoE 多模态模型，同步开源并下调 API 定价",
-      "title_en": "DeepSeek V4.1 Flash：更强、更快、更普惠",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485817&idx=1&sn=627dd80114901f3fd8717e2c13feaf6a",
-      "permalink": "https://aihot.news/items/cmtv3ytai0ogsrorpfaevhzlt",
-      "source": "公众号：DeepSeek（深度求索）",
-      "publishedAt": "2026-09-10T05:44:15.000Z",
-      "discoveredAt": "2026-09-10T05:50:10.959Z",
-      "summary": "DeepSeek 正式发布 V4.1 Flash，全新 Causal-Encoder-Decoder 结构的 552B 参数 MoE 模型，输入激活 8B、输出激活 16B，具备原生多模态视觉理解，基准测试超越包括 DeepSeek V4 Pro 在内的旗舰模型。",
-      "category": "ai-models",
-      "score": 85,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtv3ytai0ogsrorpfaevhzlt"
       },
       "sourceType": "公众号",
       "designCategory": "图像与视频",
@@ -1149,33 +1043,6 @@
         "营销"
       ],
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmtvaqdg30785rok9o88tyywv",
-      "title": "李开复：AI 没有办法承担责任",
-      "title_en": null,
-      "url": "https://www.ithome.com/1/000/882.htm",
-      "permalink": "https://aihot.news/items/cmtvaqdg30785rok9o88tyywv",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-10T08:45:54.000Z",
-      "discoveredAt": "2026-09-10T08:59:33.874Z",
-      "summary": "零一万物 CEO 李开复在第二十六届投洽会指出，AI 正从提供答案走向执行任务、协调工作流程和辅助决策，对企业的影响将延伸至组织和管理体系。他以企业管理和投资分析中的智能体应用为例，称 AI 可帮助管理者识别风险、梳理证据、提高决策质量，但最终判断与责任仍需由人承担，并强调\"AI 没有办法承担责任\"。",
-      "category": null,
-      "score": 28,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtvaqdg30785rok9o88tyywv"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "工作流",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmtwo1qfj05agrow7pakazh2e",
