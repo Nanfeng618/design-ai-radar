@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-12T04:34:41.945Z",
-  "previousGeneratedAt": "2026-09-11T16:28:36.761Z",
+  "generatedAt": "2026-09-12T10:47:02.008Z",
+  "previousGeneratedAt": "2026-09-12T04:34:41.945Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 41,
+  "itemCount": 40,
   "sourceCounts": {
-    "X": 24,
-    "网站": 16,
+    "X": 22,
+    "网站": 17,
     "公众号": 1
   },
   "source": {
@@ -131,28 +131,31 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtvyp2mb04bpro7eigfhk7aj",
-      "title": "OpenAI 因 Astra 需求挤压服务能力暂停新 $200 ChatGPT Pro 订阅",
-      "title_en": "OpenAI has paused new $200 ChatGPT Pro subscriptions， as Astra demand has strained serving capacity.",
-      "url": "https://x.com/rohanpaul_ai/status/2098141990722691362",
-      "permalink": "https://aihot.news/items/cmtvyp2mb04bpro7eigfhk7aj",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-10T20:10:06.000Z",
-      "discoveredAt": "2026-09-10T20:10:23.179Z",
-      "summary": "OpenAI 宣布暂停新的 $200 ChatGPT Pro 订阅，原因是 Astra 的需求对服务能力造成压力，该档位用户对系统负担最大。官方称此举是保证现有用户体验的最小调整，现有账户不受影响，其他套餐和 API 仍可用，正在尽快增加容量。",
-      "category": "industry",
-      "score": 70,
+      "id": "cmty7sstv02y5rojh3qbayu4u",
+      "title": "鸿蒙版腾讯视频首发端侧 A2A 能力，小艺可一句指令唤醒跨应用智能服务",
+      "title_en": "鸿蒙版腾讯视频首发端侧 A2A 能力，一句指令唤醒跨应用智能服务",
+      "url": "https://www.ithome.com/1/001/606.htm",
+      "permalink": "https://aihot.news/items/cmty7sstv02y5rojh3qbayu4u",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-12T09:52:15.000Z",
+      "discoveredAt": "2026-09-12T10:00:45.255Z",
+      "summary": "鸿蒙版腾讯视频率先落地 A2A 能力，通过 openJiuwen A2A 让小艺与 App 内智能体协同，用户在播放页即可直接调用\"腾讯视频 AI 小助理\"查剧情、人物和背景，无需退出播放器或跳转页面。该能力依托 OnApp Chips 前台感知推荐剧集，交互数据尽可能在设备本地闭环流转，并借助卡片能力复用应用已有界面，保持 App 内外体验一致。",
+      "category": null,
+      "score": 44,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtvyp2mb04bpro7eigfhk7aj"
+        "canonical": "https://aihot.news/items/cmty7sstv02y5rojh3qbayu4u"
       },
-      "sourceType": "X",
+      "sourceType": "网站",
       "designCategory": "产品与体验",
-      "relevanceScore": 10,
-      "editorialScore": 14,
+      "relevanceScore": 9,
+      "editorialScore": 13,
       "tags": [
-        "用户体验"
+        "界面",
+        "交互",
+        "视频",
+        "智能体"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
@@ -350,6 +353,33 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmty1otbd02nurojipc38pc9r",
+      "title": "GPT-6 Astra 驱动 Hugging Face SO-101 机械臂画出金门大桥，转发者解读视觉闭环与具身智能趋势",
+      "title_en": "不愧是才20 岁的斯坦福天才少年， 这 1 分钟的延时摄影，撕开了一条让整个机器人行业都为之震动的历史缝隙： 通用大模型 GPT-6 Astra正在用纯视觉闭环，接管物理世界粗糙肉身的控制权。 T…",
+      "url": "https://x.com/AYi_AInotes/status/2098669390635860068",
+      "permalink": "https://aihot.news/items/cmty1otbd02nurojipc38pc9r",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-09-12T07:05:48.000Z",
+      "discoveredAt": "2026-09-12T07:09:39.807Z",
+      "summary": "开发者 Thijs 给 GPT-6 Astra 一只不到 200 美元的 Hugging Face SO-101 开源机械臂、一支胶带固定的毛笔和一台俯拍摄像头，让它画金门大桥，模型经多次尝试逐步改进，期间仅被人问 What can you do better。",
+      "category": "tip",
+      "score": 59,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmty1otbd02nurojipc38pc9r"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "摄影"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmtx0vwxc0339roediam8uv1f",
       "title": "用多项选择题问答评估视频描述质量：Apple 提出信息保真度新指标",
       "title_en": "Putting Captions to the Test： Evaluating Video Caption Quality through Multiple-Choice Question Answering",
@@ -377,100 +407,21 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtvyi8oi046zro7e8s64af2t",
-      "title": "Midjourney 全身超声扫描频率调查",
-      "title_en": "In an ideal world - how often would you like to get a full-body ultrasound scan from our Midjourney …",
-      "url": "https://x.com/midjourney/status/2098140094955921647",
-      "permalink": "https://aihot.news/items/cmtvyi8oi046zro7e8s64af2t",
-      "source": "X：Midjourney (@midjourney)",
-      "publishedAt": "2026-09-10T20:02:34.000Z",
-      "discoveredAt": "2026-09-10T20:05:04.392Z",
-      "summary": "在理想情况下--你希望多久从我们的 Midjourney Scanner 做一次全身超声扫描？",
-      "category": null,
-      "score": 11,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtvyi8oi046zro7e8s64af2t"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "midjourney"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtvy82dh036tro7e5qs0d5mx",
-      "title": "Gemini 应用登陆 Windows，Alt + Space 快捷键随时调用",
-      "title_en": "Gemini， now on Windows！ Get it： https://gemini.google/desktop",
-      "url": "https://x.com/joshwoodward/status/2098131750660772342",
-      "permalink": "https://aihot.news/items/cmtvy82dh036tro7e5qs0d5mx",
-      "source": "X：Josh Woodward (@joshwoodward, Google Labs VP)",
-      "publishedAt": "2026-09-10T19:29:25.000Z",
-      "discoveredAt": "2026-09-10T19:57:09.661Z",
-      "summary": "Google 宣布 Gemini 应用正式登陆 Windows，下载地址为 https://gemini.google/desktop。按 Alt + Space 即可在日常应用旁润色草稿、总结长文档、头脑风暴以及生成自定义图像和视频。",
-      "category": "ai-products",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtvy82dh036tro7e5qs0d5mx"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtvwd2880cbjrofbiqrpwto3",
-      "title": "Midjourney Scanner 全身超声扫描",
-      "title_en": "Where would you most like to get a full-body ultrasound scan from a Midjourney Scanner？",
-      "url": "https://x.com/midjourney/status/2098123442885472456",
-      "permalink": "https://aihot.news/items/cmtvwd2880cbjrofbiqrpwto3",
-      "source": "X：Midjourney (@midjourney)",
-      "publishedAt": "2026-09-10T18:56:24.000Z",
-      "discoveredAt": "2026-09-10T19:05:04.076Z",
-      "summary": "你最想在哪里接受 Midjourney Scanner 的全身超声扫描？",
-      "category": null,
-      "score": 14,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtvwd2880cbjrofbiqrpwto3"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "midjourney"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtxvt03h068vrous6ilk8ds7",
-      "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-      "title_en": "Google stole open source code without crediting the authors （Artemis/Minitap）",
+      "id": "cmtxz5q4r091frous4s8547rc",
+      "title": "Minitap 团队指控 Google Artemis 使用其开源项目 mobile-use 代码却未注明出处",
+      "title_en": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
       "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-      "permalink": "https://aihot.news/items/cmtxvt03h068vrous6ilk8ds7",
-      "source": "Hacker News：AI 热帖",
-      "publishedAt": "2026-09-12T02:39:39.000Z",
-      "discoveredAt": "2026-09-12T04:25:01.481Z",
-      "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
-      "category": "industry",
-      "score": 76,
-      "selected": true,
+      "permalink": "https://aihot.news/items/cmtxz5q4r091frous4s8547rc",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-12T05:37:39.339Z",
+      "discoveredAt": "2026-09-12T05:58:52.821Z",
+      "summary": "Minitap 团队发布长文，指控 Google 开源的移动设备自动化项目 Artemis 使用了其开源项目 mobile-use 的代码却未注明出处：Android 设备连接代码完全一致、Hopper 智能体的提示词逐字相同，连 WhatsApp 新年消息示例和同一 bug 都能对应。",
+      "category": "tip",
+      "score": 66,
+      "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtxvt03h068vrous6ilk8ds7"
+        "canonical": "https://aihot.news/items/cmtxz5q4r091frous4s8547rc"
       },
       "sourceType": "网站",
       "designCategory": "工作流与 Agent",
@@ -479,9 +430,36 @@
       "tags": [
         "提示词",
         "自动化",
-        "agent"
+        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmtxxefb207uqrouscs3855mh",
+      "title": "赵纯想质疑果蝇玩魔方炒股是3D噱头还是真在芯片上运行大脑",
+      "title_en": "有没有懂行大哥告诉我，果蝇玩儿魔方、炒股、玩游戏，到底是用 3D 网页搞的噱头吸引眼球的。还是真他妈的把这个脑子在芯片上\"运行\"起来了？？？ 如果是真的，那也太恐怖了吧。scaling law 在脑…",
+      "url": "https://x.com/chunxiangai/status/2098637969704009853",
+      "permalink": "https://aihot.news/items/cmtxxefb207uqrouscs3855mh",
+      "source": "X：赵纯想 (@chunxiangai)",
+      "publishedAt": "2026-09-12T05:00:57.000Z",
+      "discoveredAt": "2026-09-12T05:09:39.036Z",
+      "summary": "赵纯想质疑果蝇玩魔方、炒股、玩游戏是3D网页噱头，还是真把果蝇大脑在芯片上\"运行\"起来。引用推文指出，果蝇大脑仅16.7万个神经元，类比AI约是0.026B级超稀疏连接网络，多模态、低功耗、支持flash模式但几乎不支持thinking模式，与Transformer、MoE、Dense等结构固定的主流LLM差异巨大。目前已有人用它玩游戏、开车、刷视频、解魔方。",
+      "category": null,
+      "score": 35,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtxxefb207uqrouscs3855mh"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "3d"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmtxj3h9902xqroi3vorjmuhw",
@@ -644,58 +622,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmtw0ejbx03jdro8s0ve1llhi",
-      "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
-      "title_en": "Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
-      "permalink": "https://aihot.news/items/cmtw0ejbx03jdro8s0ve1llhi",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-09-10T20:57:30.000Z",
-      "discoveredAt": "2026-09-10T20:58:12.921Z",
-      "summary": "Anthropic 发布报告，指控多家中国 AI 公司对 Claude 持续发起蒸馏攻击，累计发现近 2 亿次相关交互，涉及五个活动。",
-      "category": "industry",
-      "score": 80,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtw0ejbx03jdro8s0ve1llhi"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmtvwgdv60ce9rofb9lde1ema",
-      "title": "Claude Managed Agents 新增会话查看器",
-      "title_en": "Two fresh updates to Claude Managed Agents： First， we've added a session viewer to the ant CLI. `a…",
-      "url": "https://x.com/ClaudeDevs/status/2098120133549895978",
-      "permalink": "https://aihot.news/items/cmtvwgdv60ce9rofb9lde1ema",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "publishedAt": "2026-09-10T18:43:15.000Z",
-      "discoveredAt": "2026-09-10T19:07:37.486Z",
-      "summary": "Claude Managed Agents 迎来两项新更新：\n\n首先，我们为 ant CLI 添加了会话查看器。\n\n`ant beta：sessions connect` 可将你的终端连接到正在运行的会话，而 `--web` 则会打开一个由 localhost 提供的 Web UI。",
-      "category": null,
-      "score": 37,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtvwgdv60ce9rofb9lde1ema"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "ui"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmtxqnb7w09z3roi306quw1l3",
       "title": "微信测试图片 AI 处理功能，支持美化、修改与信息提取",
       "title_en": "微信 AI 功能密集测试：图片发送界面新增\"AI 处理\"，支持美化、修改与信息提取",
@@ -854,6 +780,33 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmty5nlsy02yaro8qq657xart",
+      "title": "Minitap 指控谷歌 Artemis 盗用其开源项目 mobile-use 代码且未注明出处",
+      "title_en": "开源 AI 移动自动化项目 Minitap 指控谷歌盗用自家代码，且起初未注明出处",
+      "url": "https://www.ithome.com/1/001/590.htm",
+      "permalink": "https://aihot.news/items/cmty5nlsy02yaro8qq657xart",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-12T08:07:48.000Z",
+      "discoveredAt": "2026-09-12T09:00:44.230Z",
+      "summary": "Minitap 联合创始人兼 CEO 尼古拉·德汉舒韦克公开指控谷歌在 Artemis 移动自动化代码库中未经署名使用其开源项目 mobile-use 的代码、提示词和测试用例，部分代码逐字一致，列有 Minitap 作者姓名的文件在 8 月被强制推送替换。",
+      "category": "industry",
+      "score": 52,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmty5nlsy02yaro8qq657xart"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "提示词",
+        "自动化"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cmtx8r3ab0ayuroedhlef4eo2",
       "title": "Claude Code 负责人 Boris Cherny 公开答复架构师来信：AI 时代生产代码标准应更高而非放水",
       "title_en": "面对满天飞的 AI 垃圾代码（Slop），软件工程的准入标准到底该放宽、还是该更严？ 一位干了 12 年的老架构师忍不住给 Anthropic 写信求救： 公司新人用 Vibe Coding 一天提交…",
@@ -906,33 +859,6 @@
         "营销"
       ],
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmtw1t9tu03lrro4vnp8pe3ws",
-      "title": "可让 Claude 深度访谈你并存入记忆的提示词",
-      "title_en": "Try this prompt in Claude chat to give it more context about yourself： Interview me in depth using …",
-      "url": "https://x.com/trq212/status/2098157600361861579",
-      "permalink": "https://aihot.news/items/cmtw1t9tu03lrro4vnp8pe3ws",
-      "source": "X：Thariq (@trq212)",
-      "publishedAt": "2026-09-10T21:12:08.000Z",
-      "discoveredAt": "2026-09-10T21:37:37.636Z",
-      "summary": "Thariq 分享了一条在 Claude chat 中使用的提示词，让 Claude 用自由文本或多选题工具深度访谈用户，了解其生活中 Claude 尚不知道的部分，并把结果保存到记忆。该提示词呼应了被引用者让 AI 花 20 分钟深度了解用户以提升实用性的想法。",
-      "category": "tip",
-      "score": 56,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtw1t9tu03lrro4vnp8pe3ws"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "提示词",
-        "prompt"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmtxhf8ln06w7ro6p8gzlita5",
@@ -1068,6 +994,61 @@
         "自动化",
         "智能体",
         "mcp"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmtwgikew0fyvrolk5y0r2ig3",
+      "title": "阿里云 QwenWork 职场 AI 智能体",
+      "title_en": "The latest #AISpotlight explores @qwenwork International and how it takes workplace AI beyond answer…",
+      "url": "https://x.com/alibaba_cloud/status/2098261860768493787",
+      "permalink": "https://aihot.news/items/cmtwgikew0fyvrolk5y0r2ig3",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-09-11T04:06:26.000Z",
+      "discoveredAt": "2026-09-11T04:29:13.304Z",
+      "summary": "最新一期 #AISpotlight 聚焦 @qwenwork International，探讨它如何让职场 AI 不止于回答问题，而是通过规划、执行并在研究、文档、应用和工作流中交付成果。\n\n探索 QwenWork：https://click.alibabacloud.com/m/20000002764/\n\n#AlibabaCloud #AgenticAI",
+      "category": null,
+      "score": 34,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtwgikew0fyvrolk5y0r2ig3"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "工作流",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmtw2vu1607bwro4va72c9cs2",
+      "title": "Replit 推出 Routines 定时自动化",
+      "title_en": "Agents can now automate most repetitive tasks. But running them 24/7 burns countless tokens. Introd…",
+      "url": "https://x.com/Replit/status/2098169655013863740",
+      "permalink": "https://aihot.news/items/cmtw2vu1607bwro4va72c9cs2",
+      "source": "X：Replit (@Replit)",
+      "publishedAt": "2026-09-10T22:00:02.000Z",
+      "discoveredAt": "2026-09-10T22:07:37.185Z",
+      "summary": "智能体现在可以自动化大多数重复性任务。但 24/7 运行它们会消耗无数 token。\n\n推出 Routines：用 AI 实现自动化周期性工作。\n\n可选择每小时、每天或每周的计划。每次运行都从确定性代码开始，仅在需要推理时调用 Agent。",
+      "category": null,
+      "score": 42,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtw2vu1607bwro4va72c9cs2"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "自动化",
+        "agent",
+        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
