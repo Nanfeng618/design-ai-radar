@@ -1,47 +1,19 @@
 {
-  "generatedAt": "2026-09-13T04:48:15.250Z",
-  "previousGeneratedAt": "2026-09-12T15:32:08.971Z",
+  "generatedAt": "2026-09-13T11:52:25.101Z",
+  "previousGeneratedAt": "2026-09-13T04:48:15.250Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
   "itemCount": 31,
   "sourceCounts": {
-    "X": 22,
-    "网站": 9
+    "X": 20,
+    "网站": 10,
+    "公众号": 1
   },
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com"
   },
   "items": [
-    {
-      "id": "cmtwz19bj0b6jrouaa521setu",
-      "title": "Ling 3.0 Flash VL 上线 OpenRouter，由 Novita Labs 提供服务",
-      "title_en": "Ling 3.0 Flash VL is live on OpenRouter， served by @novita_labs. A 124B MoE with 5.5B active params…",
-      "url": "https://x.com/OpenRouter/status/2098397350528172506",
-      "permalink": "https://aihot.news/items/cmtwz19bj0b6jrouaa521setu",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-09-11T13:04:49.000Z",
-      "discoveredAt": "2026-09-11T13:07:37.294Z",
-      "summary": "Ling 3.0 Flash VL 上线 OpenRouter，由 Novita Labs 提供服务，是一个 124B MoE、激活参数 5.5B 的模型。新增原生图像和视频输入及视觉智能体能力，支持即时与推理混合模式以及工具调用，提供免费入口 https://openrouter.ai/inclusionai/ling-3.0-flash-vl:free。",
-      "category": "ai-products",
-      "score": 55,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtwz19bj0b6jrouaa521setu"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 17,
-      "editorialScore": 20,
-      "tags": [
-        "生图",
-        "视觉",
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
     {
       "id": "cmtx9x6360fo5roedhxmrdeua",
       "title": "Google DeepMind 等机构论文：通往 AGI 的路径可能是构建世界模型的视觉 AI",
@@ -70,6 +42,33 @@
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtznk3ta02zoro5ebx6vczaa",
+      "title": "Meta 个人 AI 助手 Muse 官方接入 Tailscale，云端 AI 可进入用户家庭内网",
+      "title_en": "Garry一语中的，Notion 知名设计师 @mschoening 截图爆料 ，Meta 竟然破天荒地给自家的云端 AI，官方接入了虚拟组网工具 Tailscale。 铁汁们别以为这只是个普通的小…",
+      "url": "https://x.com/AYi_AInotes/status/2099076449109975471",
+      "permalink": "https://aihot.news/items/cmtznk3ta02zoro5ebx6vczaa",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-09-13T10:03:19.000Z",
+      "discoveredAt": "2026-09-13T10:09:39.817Z",
+      "summary": "Meta 刚发布的个人 AI 助手 Muse 在官方连接器列表中接入虚拟组网工具 Tailscale，该截图由 Notion 设计师 @mschoening 爆料。",
+      "category": "ai-products",
+      "score": 57,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtznk3ta02zoro5ebx6vczaa"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 11,
+      "editorialScore": 15,
+      "tags": [
+        "设计师",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmtyf8kwz0cf2rojhqcmpvt4j",
@@ -266,6 +265,33 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmtznczul0051ro5ehrb5sh20",
+      "title": "从4秒到两小时，AI视频长叙事正在走向完整故事",
+      "title_en": "从4秒到两小时/480p到4k，我在RunningHub重新认识了能认真讲故事的AI视频们",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511178&idx=1&sn=dbe6cac1ba3e97a828838ff1bcf6791a",
+      "permalink": "https://aihot.news/items/cmtznczul0051ro5ehrb5sh20",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-09-13T09:08:00.000Z",
+      "discoveredAt": "2026-09-13T10:04:09.096Z",
+      "summary": "作者梳理AI视频从Runway Gen-2单次4秒到Seedance 2.5单次30秒、再到《出马仙镇东北》113分钟和《山》94分钟AI真人电影的演进，指出观众对AI长篇叙事接受度明显提高。文中还提到RunningHub于9月8日联合华语科幻星云奖和金瞳奖发起AIGC长片创作大赛，总奖池550万，开放10部科幻作品免费改编授权，并提供RHTV无限画布和RHSTORY剧本拆解等创作工具。",
+      "category": "tip",
+      "score": 54,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtznczul0051ro5ehrb5sh20"
+      },
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
+      "relevanceScore": 9,
+      "editorialScore": 12,
+      "tags": [
+        "runway",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmtxh2iyx06ohro6p9zfkjilu",
       "title": "Anthropic 为 Claude Code 推出插件评测流程：6 种 grader、无插件基线与 CI 门禁",
       "title_en": "Anthropic Adds Plugin Evals to Claude Code： 6 Grader Types， a No-Plugin Baseline， and a CI Gate for Skills",
@@ -319,35 +345,6 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtx06gbq0c19rouax8ea9etd",
-      "title": "谷歌官方 120 分钟 Agent 架构课讲解图与循环工程",
-      "title_en": "1 个提示词 → 100 个代理 → 循环容错 → 状态图工程。 谷歌官方的这 120 分钟课程没有一句废话，把价值几千块的 Agent 架构课直接拆到了骨头里， 为什么你搭的 Agent 跑三步就…",
-      "url": "https://x.com/AYi_AInotes/status/2098403405886566824",
-      "permalink": "https://aihot.news/items/cmtx06gbq0c19rouax8ea9etd",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-09-11T13:28:53.000Z",
-      "discoveredAt": "2026-09-11T13:39:39.898Z",
-      "summary": "谷歌官方放出约 120 分钟免费 Agent 架构课程，主推「图与循环工程（Graph & Loop Engineering）」，用带状态的节点与条件边替代单向流水线。课程分五个节点，涵盖构建第一个代理图表、数百个智能体高并发调度、路由/检查/重复的循环容错，以及执行中记录断点并自动重构工作流的自愈图。",
-      "category": "tip",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtx06gbq0c19rouax8ea9etd"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 11,
-      "editorialScore": 12,
-      "tags": [
-        "工作流",
-        "提示词",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmty1otbd02nurojipc38pc9r",
@@ -648,32 +645,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtx1h7gs040troedw33odq29",
-      "title": "Runway 开放前沿模型权重授权",
-      "title_en": "Enterprises can now create their own bespoke frontier models by licensing state of the art Runway mo…",
-      "url": "https://x.com/runwayml/status/2098409679974228275",
-      "permalink": "https://aihot.news/items/cmtx1h7gs040troedw33odq29",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-09-11T13:53:48.000Z",
-      "discoveredAt": "2026-09-11T14:16:00.992Z",
-      "summary": "企业现在可以通过授权 Runway 最先进的模型权重，创建自己的定制前沿模型。用自己的数据微调，在自己的基础设施上自托管，并将所创建的任何成果商业化。全程享有白手套服务，并配备 Forward Deployed Researchers，让模型真正为你所用。点击下方链接，了解更多关于 Runway Model Licensing 的信息。",
-      "category": null,
-      "score": 41,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtx1h7gs040troedw33odq29"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "runway"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmtz6tjeq0wgkroup6tqxaq1g",
       "title": "Tripo Codex 插件实现全自动 3D 建模流程",
       "title_en": "The power of the Tripo Codex plugin in action. A fully functional 3D customization studio where the …",
@@ -698,6 +669,34 @@
         "工作流",
         "3d",
         "codex"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmtzmhkpx02s6rodg82d1cxf2",
+      "title": "AgentsDock 发布：面向智能体 AI 研究的跨平台 IDE，支持 Claude Code、Codex 和 Cursor",
+      "title_en": "AgentsDock： An IDE designed for agentic AI research",
+      "url": "https://agentsdock.net/",
+      "permalink": "https://aihot.news/items/cmtzmhkpx02s6rodg82d1cxf2",
+      "source": "Hacker News：AI 热帖",
+      "publishedAt": "2026-09-12T23:45:58.000Z",
+      "discoveredAt": "2026-09-13T09:39:43.674Z",
+      "summary": "AgentsDock 发布，这是一款面向智能体 AI 研究的 IDE，在同一个桌面和移动工作区中支持 Claude Code、Codex 和 Cursor。",
+      "category": "ai-products",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtzmhkpx02s6rodg82d1cxf2"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "codex",
+        "claude code",
+        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
