@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-13T11:52:25.101Z",
-  "previousGeneratedAt": "2026-09-13T04:48:15.250Z",
+  "generatedAt": "2026-09-13T16:17:01.760Z",
+  "previousGeneratedAt": "2026-09-13T11:52:25.101Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 31,
+  "itemCount": 33,
   "sourceCounts": {
-    "X": 20,
+    "X": 22,
     "网站": 10,
     "公众号": 1
   },
@@ -124,6 +124,62 @@
         "创意"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtzw8ank02qcroym71be82qr",
+      "title": "开源AI比以往更重要：一位独立研究者的AI发展立场",
+      "title_en": "This is all I will say on the matter： It's alarming to see the constant effort to try to tell me ho…",
+      "url": "https://x.com/omarsar0/status/2099133736310731250",
+      "permalink": "https://aihot.news/items/cmtzw8ank02qcroym71be82qr",
+      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+      "publishedAt": "2026-09-13T13:50:57.000Z",
+      "discoveredAt": "2026-09-13T14:12:23.553Z",
+      "summary": "独立研究者Elvis Saravia公开反对对AI使用、构建与节奏的过度控制，强调开源AI比以往更重要，认为AI不应被少数人掌控。他列举了仍需解决的问题，包括更好的评测、消除偏见、可靠性、代码质量、OOD问题、自动化工作流生成、自动提示词工程、成本、多模态、延迟、长上下文理解、检索、工具调用与智能体协调等。他呼吁对AI安全保持科学严谨、减少拟人化，并对人类潜力保持乐观。",
+      "category": null,
+      "score": 34,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtzw8ank02qcroym71be82qr"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 12,
+      "editorialScore": 13,
+      "tags": [
+        "工作流",
+        "提示词",
+        "自动化",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmtzrux4z05liro1br07c30v0",
+      "title": "DAIR.AI 创始人：为垂直领域构建专属 Harness",
+      "title_en": "\"学会构建一个属于你自己的 Harness，朋友们。\" http://DAIR.AI 创始人 @omarsar0 这句大白话，直接把今年硅谷一线构建者心照不宣的最大底牌，彻底摊在了桌面上。 为什么今…",
+      "url": "https://x.com/AYi_AInotes/status/2099107617264066755",
+      "permalink": "https://aihot.news/items/cmtzrux4z05liro1br07c30v0",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-09-13T12:07:10.000Z",
+      "discoveredAt": "2026-09-13T12:09:40.339Z",
+      "summary": "DAIR.AI 创始人 @omarsar0 呼吁构建者学会为垂直领域打造专属 Harness，并称 YC 大量团队正涌入这一方向。他认为模型单点智力正被拉平并商品化，真正能建立定价权的是包在模型外的 Harness：产品侧封装行业业务逻辑与交互界面，技术侧把领域最佳实践与安全红线固化为可回滚、可审批的工程框架。他同时给出 DAIR.AI Academy 的 harness 论文合集供上手学习。",
+      "category": null,
+      "score": 46,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtzrux4z05liro1br07c30v0"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "界面",
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmtyme1rk02msronvivpl8p7t",
@@ -320,33 +376,6 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmtx5gqdy07zmroed99uil4r1",
-      "title": "Black Forest Labs 的 FLUX Video Edit 上线 OpenRouter",
-      "title_en": "FLUX Video Edit from @bfl_ai is live on OpenRouter. Send a clip and a sentence： remove or replace o…",
-      "url": "https://x.com/OpenRouter/status/2098441690801656232",
-      "permalink": "https://aihot.news/items/cmtx5gqdy07zmroed99uil4r1",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-09-11T16:01:00.000Z",
-      "discoveredAt": "2026-09-11T16:07:37.025Z",
-      "summary": "OpenRouter 宣布 Black Forest Labs 的 FLUX Video Edit 上线 OpenRouter。用户发送一段视频加一句话即可移除或替换物体和角色、更换场景、重绘风格，或翻译对白并匹配口型，无需遮罩或逐帧控制。地址：https://openrouter.ai/black-forest-labs/flux-video-edit",
-      "category": "ai-products",
-      "score": 54,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtx5gqdy07zmroed99uil4r1"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
-      "tags": [
-        "flux",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmty1otbd02nurojipc38pc9r",
       "title": "GPT-6 Astra 驱动 Hugging Face SO-101 机械臂画出金门大桥，转发者解读视觉闭环与具身智能趋势",
       "title_en": "不愧是才20 岁的斯坦福天才少年， 这 1 分钟的延时摄影，撕开了一条让整个机器人行业都为之震动的历史缝隙： 通用大模型 GPT-6 Astra正在用纯视觉闭环，接管物理世界粗糙肉身的控制权。 T…",
@@ -372,6 +401,61 @@
         "摄影"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmu00ikwl07s2roymu6nj8zqg",
+      "title": "把截图拼成 contact sheet 让 Agent 省上下文的提示词技巧",
+      "title_en": "The first time I saw fable do this unprompted I was super impressed and started asking for it. It's …",
+      "url": "https://x.com/dexhorthy/status/2099169149780181036",
+      "permalink": "https://aihot.news/items/cmu00ikwl07s2roymu6nj8zqg",
+      "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+      "publishedAt": "2026-09-13T16:11:40.000Z",
+      "discoveredAt": "2026-09-13T16:12:23.312Z",
+      "summary": "@pvncher 分享技巧：让 Astra 把应用截图拼成 contact sheet，减少图像读取调用次数，节省大量上下文用量。Dex Horthy 转发补充该技巧对 fable 同样有效，他最早见 fable 主动这样做，且拼图也适用于从视频中提取时间线。",
+      "category": "tip",
+      "score": 53,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu00ikwl07s2roymu6nj8zqg"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "图像",
+        "提示词",
+        "agent"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmtzy0bd904l4roym4l9j372k",
+      "title": "蚂蚁灵波开源三款 LingBot-World 2.0 世界模型：Small 参数 1.3B 面向消费级单卡 GPU 设计",
+      "title_en": null,
+      "url": "https://www.ithome.com/1/001/863.htm",
+      "permalink": "https://aihot.news/items/cmtzy0bd904l4roym4l9j372k",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-13T14:34:46.000Z",
+      "discoveredAt": "2026-09-13T15:02:12.635Z",
+      "summary": "蚂蚁灵波科技继 7 月开源 14B 模型后，本周开源 LingBot-World 2.0 Small（1.3B）、Bidirectional 和 Causal Pretrain 三款模型。",
+      "category": "ai-models",
+      "score": 61,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtzy0bd904l4roym4l9j372k"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmtyn4fvz002yro7fl7tj5ivr",
@@ -619,30 +703,31 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtx6u4u10907roedg48j41uy",
-      "title": "Runway Astra 登陆 ChatGPT",
-      "title_en": "Create with Runway inside ChatGPT using Astra. From one product image to a finished animation： styl…",
-      "url": "https://x.com/runwayml/status/2098451477308067875",
-      "permalink": "https://aihot.news/items/cmtx6u4u10907roedg48j41uy",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-09-11T16:39:54.000Z",
-      "discoveredAt": "2026-09-11T16:46:00.155Z",
-      "summary": "在 ChatGPT 内用 Astra 创作 Runway 内容。\n\n从一张产品图到完成动画：在 Runway 做风格帧，在 Blender 做动画，用 Seedance 2.5 做最终渲染。见下方。",
+      "id": "cmtzzh2o306f9roymkx97vfi8",
+      "title": "Muse 帮用户刷算法薅免费产品赚礼品卡",
+      "title_en": "this is a pretty creative way for muse to make you money！ #musemoneychallenge 💵",
+      "url": "https://x.com/alexandr_wang/status/2099158971982729397",
+      "permalink": "https://aihot.news/items/cmtzzh2o306f9roymkx97vfi8",
+      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+      "publishedAt": "2026-09-13T15:31:14.000Z",
+      "discoveredAt": "2026-09-13T15:43:13.285Z",
+      "summary": "有用户把 Muse 接入自己的 Instagram，让它把算法改成只展示提供免费产品和礼品卡的产品演示帖，Muse 自动完成报名并把日程加入日历。该用户称已拿到 3 副 AirPods 和一张 $200 礼品卡，Muse 还为他找到了下周的更多演示。Alexandr Wang 转发称这是 Muse 帮人赚钱的创意玩法，并带上 #musemoneychallenge 话题。",
       "category": null,
-      "score": 42,
+      "score": 19,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtx6u4u10907roedg48j41uy"
+        "canonical": "https://aihot.news/items/cmtzzh2o306f9roymkx97vfi8"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
+      "designCategory": "行业观察",
+      "relevanceScore": 8,
+      "editorialScore": 8,
       "tags": [
-        "runway"
+        "创意",
+        "creative"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "cmtz6tjeq0wgkroup6tqxaq1g",
@@ -833,34 +918,6 @@
       "tags": [
         "工作流",
         "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmtxada0g02qdroukprqr5ffg",
-      "title": "基于 Godot 和 Rust 的终端复用器 gPTY 发布，内置 MCP 控制接口",
-      "title_en": "Show HN： Godot and Rust based multiplexer （terminal panes and more）",
-      "url": "https://github.com/godot-pty/gpty",
-      "permalink": "https://aihot.news/items/cmtxada0g02qdroukprqr5ffg",
-      "source": "Hacker News：AI 热帖",
-      "publishedAt": "2026-09-11T16:03:05.000Z",
-      "discoveredAt": "2026-09-11T18:24:55.619Z",
-      "summary": "gPTY 是一款基于 Godot 和 Rust 构建的 PTY 终端复用器，提供可调整的平铺窗格网格，并通过 JSON-RPC IPC、CLI 和 MCP server 让 AI 智能体与自动化工具创建窗格、注入文本并观察终端输出，无需抓取 TUI。",
-      "category": null,
-      "score": 50,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtxada0g02qdroukprqr5ffg"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "自动化",
-        "智能体",
-        "mcp"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     }
