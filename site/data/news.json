@@ -1,19 +1,47 @@
 {
-  "generatedAt": "2026-09-14T04:57:01.060Z",
-  "previousGeneratedAt": "2026-09-13T16:17:01.760Z",
+  "generatedAt": "2026-09-14T12:47:19.160Z",
+  "previousGeneratedAt": "2026-09-14T04:57:01.060Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
   "itemCount": 34,
   "sourceCounts": {
-    "X": 22,
-    "网站": 9,
-    "公众号": 3
+    "公众号": 5,
+    "X": 23,
+    "网站": 6
   },
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com"
   },
   "items": [
+    {
+      "id": "cmu1819y3034gro7zdrzpjtma",
+      "title": "腾讯元宝谈 AI 辅导作业：家长如何用 AI 精讲陪孩子学习",
+      "title_en": "辅导作业这件事，这些家长找到搭子了",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzY4MjM5MA%3D%3D&mid=2247522186&idx=1&sn=56a128f39640a28c4c0ba277cfe47eef",
+      "permalink": "https://aihot.news/items/cmu1819y3034gro7zdrzpjtma",
+      "source": "公众号：腾讯元宝",
+      "publishedAt": "2026-09-14T12:00:00.000Z",
+      "discoveredAt": "2026-09-14T12:30:37.825Z",
+      "summary": "腾讯元宝邀请多位家长分享使用 AI 精讲辅导孩子作业的经验，涵盖从二年级到初三的不同家庭。元宝 AI 精讲支持拍照或提问知识点，像板书一样逐步展开解题过程，可随时打断追问，并弹出互动测验检验理解。元宝教育产品经理祁老师提出 AI 辅导应遵循\"先想、再问、会讲、能变\"四步，产品设计强调克制，不代替思考、不接管学习主导权。",
+      "category": null,
+      "score": 43,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu1819y3034gro7zdrzpjtma"
+      },
+      "sourceType": "公众号",
+      "designCategory": "产品与体验",
+      "relevanceScore": 16,
+      "editorialScore": 20,
+      "tags": [
+        "产品设计",
+        "设计",
+        "产品经理"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
     {
       "id": "cmu0r7vit07onrox21r87nba6",
       "title": "GPT Images 2.5 直接生成视频，121 帧仅 15 分钟",
@@ -68,6 +96,60 @@
         "设计"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmu0v1sd70b0grouc6311o4q9",
+      "title": "MiniMax 盘点 H3 视频生成模型开源生态进展",
+      "title_en": "Open weights. Shared progress. MiniMax H3 is moving fast. We built H3 for video generation with nat…",
+      "url": "https://x.com/MiniMax_AI/status/2099381310733328784",
+      "permalink": "https://aihot.news/items/cmu0v1sd70b0grouc6311o4q9",
+      "source": "X：MiniMax (@MiniMax_AI)",
+      "publishedAt": "2026-09-14T06:14:43.000Z",
+      "discoveredAt": "2026-09-14T06:27:09.101Z",
+      "summary": "MiniMax 盘点其开源视频生成模型 H3（支持原生立体声音频和多模态参考控制）的社区优化成果，并附生态汇总仓库 https://github.com/MiniMax-AI/awesome-minimax-h3-integration。",
+      "category": "ai-models",
+      "score": 61,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu0v1sd70b0grouc6311o4q9"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmu0tzxje06zlroucoi471k8i",
+      "title": "MiniMax H3 开源生态盘点：FastH3、Sol-H3、VDN 等社区加速项目进展",
+      "title_en": "Open weights. Shared progress. MiniMax H3 is moving fast. We built MiniMax H3 for video generation …",
+      "url": "https://x.com/MiniMax_AI/status/2099375858364690576",
+      "permalink": "https://aihot.news/items/cmu0tzxje06zlroucoi471k8i",
+      "source": "X：MiniMax (@MiniMax_AI)",
+      "publishedAt": "2026-09-14T05:53:03.000Z",
+      "discoveredAt": "2026-09-14T05:57:09.116Z",
+      "summary": "MiniMax 盘点其开源视频生成模型 MiniMax H3 的社区生态进展，该模型支持原生立体声音频和多模态参考控制。",
+      "category": "ai-models",
+      "score": 61,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu0tzxje06zlroucoi471k8i"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmtznk3ta02zoro5ebx6vczaa",
@@ -291,35 +373,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmty7sstv02y5rojh3qbayu4u",
-      "title": "鸿蒙版腾讯视频首发端侧 A2A 能力，小艺可一句指令唤醒跨应用智能服务",
-      "title_en": "鸿蒙版腾讯视频首发端侧 A2A 能力，一句指令唤醒跨应用智能服务",
-      "url": "https://www.ithome.com/1/001/606.htm",
-      "permalink": "https://aihot.news/items/cmty7sstv02y5rojh3qbayu4u",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-12T09:52:15.000Z",
-      "discoveredAt": "2026-09-12T10:00:45.255Z",
-      "summary": "鸿蒙版腾讯视频率先落地 A2A 能力，通过 openJiuwen A2A 让小艺与 App 内智能体协同，用户在播放页即可直接调用\"腾讯视频 AI 小助理\"查剧情、人物和背景，无需退出播放器或跳转页面。该能力依托 OnApp Chips 前台感知推荐剧集，交互数据尽可能在设备本地闭环流转，并借助卡片能力复用应用已有界面，保持 App 内外体验一致。",
-      "category": null,
-      "score": 44,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmty7sstv02y5rojh3qbayu4u"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "界面",
-        "交互",
-        "视频",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmtznczul0051ro5ehrb5sh20",
       "title": "从4秒到两小时，AI视频长叙事正在走向完整故事",
       "title_en": "从4秒到两小时/480p到4k，我在RunningHub重新认识了能认真讲故事的AI视频们",
@@ -342,6 +395,33 @@
       "editorialScore": 12,
       "tags": [
         "runway",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmu0yyz3l06kwro2n1431xiev",
+      "title": "从视频到数据：AI 如何改变多媒体内容处理",
+      "title_en": "From Video to Data： How AI Is Transforming Multimedia Content Processing",
+      "url": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing",
+      "permalink": "https://aihot.news/items/cmu0yyz3l06kwro2n1431xiev",
+      "source": "Artificial Intelligence News（网页）",
+      "publishedAt": "2026-09-14T08:16:56.552Z",
+      "discoveredAt": "2026-09-14T08:16:56.552Z",
+      "summary": "AI 正把视频、音频等多媒体内容转成可搜索的结构化数据，流程涵盖文件准备、音频提取、视觉处理、语言处理与结构化输出。OpenAI 音频转录 API 支持 MP3、MP4、M4A、WAV、FLAC、WebM 等格式，Google Cloud 则推荐 FLAC 或 LINEAR16 等无损音频。转录文本可进一步摘要、翻译、分说话人、生成字幕或改写成文章，应用于会议、教育、客服和媒体归档等场景。",
+      "category": null,
+      "score": 31,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu0yyz3l06kwro2n1431xiev"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
@@ -404,31 +484,32 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmty1otbd02nurojipc38pc9r",
-      "title": "GPT-6 Astra 驱动 Hugging Face SO-101 机械臂画出金门大桥，转发者解读视觉闭环与具身智能趋势",
-      "title_en": "不愧是才20 岁的斯坦福天才少年， 这 1 分钟的延时摄影，撕开了一条让整个机器人行业都为之震动的历史缝隙： 通用大模型 GPT-6 Astra正在用纯视觉闭环，接管物理世界粗糙肉身的控制权。 T…",
-      "url": "https://x.com/AYi_AInotes/status/2098669390635860068",
-      "permalink": "https://aihot.news/items/cmty1otbd02nurojipc38pc9r",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-09-12T07:05:48.000Z",
-      "discoveredAt": "2026-09-12T07:09:39.807Z",
-      "summary": "开发者 Thijs 给 GPT-6 Astra 一只不到 200 美元的 Hugging Face SO-101 开源机械臂、一支胶带固定的毛笔和一台俯拍摄像头，让它画金门大桥，模型经多次尝试逐步改进，期间仅被人问 What can you do better。",
-      "category": "tip",
-      "score": 59,
+      "id": "cmu15jtmf03fero9gttd42iuc",
+      "title": "Tripo x Astra 3D 工作流挑战赛开启",
+      "title_en": "The Tripo x Astra 3D Workflow Challenge is officially live. Turn a single character reference into …",
+      "url": "https://x.com/tripoai/status/2099451942691074337",
+      "permalink": "https://aihot.news/items/cmu15jtmf03fero9gttd42iuc",
+      "source": "Tripo（官方 X）",
+      "publishedAt": "2026-09-14T10:55:23.000Z",
+      "discoveredAt": "2026-09-14T11:21:06.104Z",
+      "summary": "Tripo x Astra 3D 工作流挑战赛正式上线。\n\n使用 Tripo 和 Astra，将单张角色参考图变成带骨骼绑定的动画 3D 资产，赢取免费 API 额度。\n\n挑战详情与规则见下方。",
+      "category": null,
+      "score": 24,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmty1otbd02nurojipc38pc9r"
+        "canonical": "https://aihot.news/items/cmu15jtmf03fero9gttd42iuc"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 9,
+      "editorialScore": 10,
       "tags": [
-        "视觉",
-        "摄影"
+        "工作流",
+        "workflow",
+        "3d"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmu0iow520q50rorykrqq21uu",
@@ -541,85 +622,61 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmtybbzqc068irojhjl0ik3ef",
-      "title": "3 天实测 GPT Images 2.5：730 张生成数据统计与 5 大问题总结",
-      "title_en": "3 天高强度 GPT Images 2.5 ➡️ 数据统计 + 5 大问题总结： 【总体感分】82/100 【核心问题总结】单次生成很强，多轮/复杂创作无法稳定地保持设计状态，成本不再是生成而是对齐…",
-      "url": "https://x.com/ZHO_ZHO_ZHO/status/2098730777987129371",
-      "permalink": "https://aihot.news/items/cmtybbzqc068irojhjl0ik3ef",
-      "source": "X：ZHO (@ZHO_ZHO_ZHO)",
-      "publishedAt": "2026-09-12T11:09:44.000Z",
-      "discoveredAt": "2026-09-12T11:39:39.641Z",
-      "summary": "作者 Zho 发布 3 天高强度实测 GPT Images 2.5 的数据统计与问题总结，总计 730 张、日均 243 张，总体感分 82/100，生成成功率 96.6%，一次到位体感 75-80%，专业连续编辑能力 74/100。",
-      "category": "tip",
-      "score": 66,
+      "id": "cmu11kn0l09yero2nefod24dq",
+      "title": "阿里云 WonderClip 全流程 AI 视频平台",
+      "title_en": "Most AI video tools stop at generation. WonderClip goes further. It's a full-cycle platform that con…",
+      "url": "https://x.com/alibaba_cloud/status/2099425362585227612",
+      "permalink": "https://aihot.news/items/cmu11kn0l09yero2nefod24dq",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-09-14T09:09:46.000Z",
+      "discoveredAt": "2026-09-14T09:29:13.220Z",
+      "summary": "大多数 AI 视频工具止步于生成。WonderClip 走得更远。它是一个全周期平台，连接视频制作的每个阶段，从脚本分析和分镜拆解到最终剪辑和团队协作。借助 Storyboard、Infinite Canvas 和 Agent 模式，它能规模化处理微短剧、广告创意和电商短视频。立即注册，免费获得 200 credits。了解更多 → https://click.alibabacloud.com/m/20000003329/ #AIVideo #VideoProduction #GenerativeAI #WonderClip",
+      "category": null,
+      "score": 26,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtybbzqc068irojhjl0ik3ef"
+        "canonical": "https://aihot.news/items/cmu11kn0l09yero2nefod24dq"
       },
       "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
+      "designCategory": "行业观察",
+      "relevanceScore": 9,
+      "editorialScore": 9,
       "tags": [
-        "设计"
+        "广告",
+        "创意",
+        "视频",
+        "agent"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
-      "id": "cmtxz5q4r091frous4s8547rc",
-      "title": "Minitap 团队指控 Google Artemis 使用其开源项目 mobile-use 代码却未注明出处",
-      "title_en": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
-      "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-      "permalink": "https://aihot.news/items/cmtxz5q4r091frous4s8547rc",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-09-12T05:37:39.339Z",
-      "discoveredAt": "2026-09-12T05:58:52.821Z",
-      "summary": "Minitap 团队发布长文，指控 Google 开源的移动设备自动化项目 Artemis 使用了其开源项目 mobile-use 的代码却未注明出处：Android 设备连接代码完全一致、Hopper 智能体的提示词逐字相同，连 WhatsApp 新年消息示例和同一 bug 都能对应。",
+      "id": "cmu10wt0w096yro2nap2zhona",
+      "title": "AI导演DiDi_OK解密用Seedance 2.5制作科幻短片《Candy》的工作流",
+      "title_en": "DiDi_OK新作解密：AI正在把科幻电影从\"重工业\"变成\"个人表达\"",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247544091&idx=1&sn=c81df556301898ed37cdce7886d72779",
+      "permalink": "https://aihot.news/items/cmu10wt0w096yro2nap2zhona",
+      "source": "公众号：火山引擎",
+      "publishedAt": "2026-09-14T09:05:10.000Z",
+      "discoveredAt": "2026-09-14T09:11:15.096Z",
+      "summary": "火山引擎采访AI导演DiDi_OK，介绍其完全用Seedance 2.5 720P制作的9分钟科幻短片《Candy》背后的制作过程。他称模型在精细定制化、运动规律理解和超长镜头一次生成上有突破，部分效果连续性超过传统CG；其工作流随之改变，提示词取代关键帧成为决定视觉上限的首要条件，世界观类叙事中分镜不再是必需。",
       "category": "tip",
-      "score": 66,
+      "score": 56,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtxz5q4r091frous4s8547rc"
+        "canonical": "https://aihot.news/items/cmu10wt0w096yro2nap2zhona"
       },
-      "sourceType": "网站",
+      "sourceType": "公众号",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 9,
-      "editorialScore": 10,
+      "relevanceScore": 8,
+      "editorialScore": 9,
       "tags": [
-        "提示词",
-        "自动化",
-        "智能体"
+        "视觉",
+        "工作流",
+        "提示词"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmtyjehwl0003ropbyunq4t5c",
-      "title": "Meshy 团队发布游戏 Mora 1",
-      "title_en": "New project from Meshy team， same mission： AI for Fun. After playing every world model demo on the …",
-      "url": "https://x.com/MeshyAI/status/2098603630735798688",
-      "permalink": "https://aihot.news/items/cmtyjehwl0003ropbyunq4t5c",
-      "source": "X：Meshy (@MeshyAI)",
-      "publishedAt": "2026-09-12T02:44:30.000Z",
-      "discoveredAt": "2026-09-12T02:44:30.000Z",
-      "summary": "Meshy 团队推出新游戏 Mora 1，现已上线 https://mora.fun。游戏包含空间解谜、多人平台跳跃、物理、建造和风格切换，由代码、3D 生成和实时视频驱动，团队称这是让 AI 编写游戏获得真实画面与音效的早期一步。",
-      "category": "ai-products",
-      "score": 53,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtyjehwl0003ropbyunq4t5c"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "视频",
-        "3d"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmu0hln0i0p3crory2rhuv090",
@@ -704,61 +761,6 @@
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmtyjehwl0002ropbh3zqpgdr",
-      "title": "Meshy 京都 AI 3D 工作坊活动回顾",
-      "title_en": "Meshy Creative Hub， stop 2： Kyoto！ 🇯🇵 From ideas to 3D-thanks to the students and professionals at…",
-      "url": "https://x.com/MeshyAI/status/2098720777411662004",
-      "permalink": "https://aihot.news/items/cmtyjehwl0002ropbh3zqpgdr",
-      "source": "X：Meshy (@MeshyAI)",
-      "publishedAt": "2026-09-12T10:30:00.000Z",
-      "discoveredAt": "2026-09-12T10:30:00.000Z",
-      "summary": "Meshy Creative Hub，第二站：京都！🇯🇵 从创意到 3D--感谢 KCG 的学生和专业人士参加我们的 AI 3D 工作坊、创意挑战赛和学生 Game Jam！更多站点即将到来。敬请期待！",
-      "category": null,
-      "score": 24,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtyjehwl0002ropbh3zqpgdr"
-      },
-      "sourceType": "X",
-      "designCategory": "行业观察",
-      "relevanceScore": 9,
-      "editorialScore": 9,
-      "tags": [
-        "创意",
-        "creative",
-        "3d"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmtxqnb7w09z3roi306quw1l3",
-      "title": "微信测试图片 AI 处理功能，支持美化、修改与信息提取",
-      "title_en": "微信 AI 功能密集测试：图片发送界面新增\"AI 处理\"，支持美化、修改与信息提取",
-      "url": "https://www.ithome.com/1/001/514.htm",
-      "permalink": "https://aihot.news/items/cmtxqnb7w09z3roi306quw1l3",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-12T01:28:27.000Z",
-      "discoveredAt": "2026-09-12T02:00:37.492Z",
-      "summary": "微信在发送图片界面新增 AI 处理功能，点击后提供美化图片、修改图片、提取信息三类菜单，涵盖生成写真、消除杂物、扩图、变高清、提取文字、翻译图片等选项。此前微信已基于小微灰度上线至少 16 个 AI 功能，覆盖公众号 AI 总结、朋友圈 AI 点评与 AI 帮写、扫一扫视觉识别及聊天语音指令等场景，目前均处灰度测试阶段，仅部分用户可体验。",
-      "category": "ai-products",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtxqnb7w09z3roi306quw1l3"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "视觉",
-        "界面"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmu0lt2cz02whrocu8etqz4ih",
@@ -873,29 +875,29 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmty5nlsy02yaro8qq657xart",
-      "title": "Minitap 指控谷歌 Artemis 盗用其开源项目 mobile-use 代码且未注明出处",
-      "title_en": "开源 AI 移动自动化项目 Minitap 指控谷歌盗用自家代码，且起初未注明出处",
-      "url": "https://www.ithome.com/1/001/590.htm",
-      "permalink": "https://aihot.news/items/cmty5nlsy02yaro8qq657xart",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-12T08:07:48.000Z",
-      "discoveredAt": "2026-09-12T09:00:44.230Z",
-      "summary": "Minitap 联合创始人兼 CEO 尼古拉·德汉舒韦克公开指控谷歌在 Artemis 移动自动化代码库中未经署名使用其开源项目 mobile-use 的代码、提示词和测试用例，部分代码逐字一致，列有 Minitap 作者姓名的文件在 8 月被强制推送替换。",
-      "category": "industry",
-      "score": 52,
+      "id": "cmu0wkgu803j3ro2nbbtkxe6b",
+      "title": "Emad Mostaque 谈 METR API key 泄露事件与评测机构的安全挑战",
+      "title_en": "Can you even imagine the nation state level attacks METR &amp； other eval orgs will come under？ Eva…",
+      "url": "https://x.com/EMostaque/status/2099394171291255177",
+      "permalink": "https://aihot.news/items/cmu0wkgu803j3ro2nbbtkxe6b",
+      "source": "X：Emad Mostaque (@EMostaque)",
+      "publishedAt": "2026-09-14T07:05:49.000Z",
+      "discoveredAt": "2026-09-14T07:09:39.790Z",
+      "summary": "攻击者窃取 METR 的 API key 并使用三周，消耗约 $600，000 额度；一个 fail-open bug 使公共 agent 仪表盘的 Google 认证失效，攻击者通过提示词让 agent 交出 key 并添加了 SSH 持久化。",
+      "category": "tip",
+      "score": 69,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmty5nlsy02yaro8qq657xart"
+        "canonical": "https://aihot.news/items/cmu0wkgu803j3ro2nbbtkxe6b"
       },
-      "sourceType": "网站",
+      "sourceType": "X",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
+      "relevanceScore": 6,
+      "editorialScore": 7,
       "tags": [
         "提示词",
-        "自动化"
+        "agent"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
