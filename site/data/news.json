@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-13T16:17:01.760Z",
-  "previousGeneratedAt": "2026-09-13T11:52:25.101Z",
+  "generatedAt": "2026-09-14T04:57:01.060Z",
+  "previousGeneratedAt": "2026-09-13T16:17:01.760Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 33,
+  "itemCount": 34,
   "sourceCounts": {
     "X": 22,
-    "网站": 10,
-    "公众号": 1
+    "网站": 9,
+    "公众号": 3
   },
   "source": {
     "name": "AI HOT",
@@ -15,33 +15,59 @@
   },
   "items": [
     {
-      "id": "cmtx9x6360fo5roedhxmrdeua",
-      "title": "Google DeepMind 等机构论文：通往 AGI 的路径可能是构建世界模型的视觉 AI",
-      "title_en": "Google DeepMind + Harvard + Stanford and many other top labs paper argues that a path to AGI may be …",
-      "url": "https://x.com/rohanpaul_ai/status/2098472341164728483",
-      "permalink": "https://aihot.news/items/cmtx9x6360fo5roedhxmrdeua",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-11T18:02:48.000Z",
-      "discoveredAt": "2026-09-11T18:12:23.119Z",
-      "summary": "Google DeepMind 联合哈佛、斯坦福等机构发表论文，主张通往 AGI 的路径可能是能记忆变化、预测结果并采取行动的视觉 AI。论文认为视觉系统应直接从图像、视频、3D 结构和交互中学习，理解存在什么、变化了什么、隐藏了什么及下一步可能发生什么，而非仅将视觉输入语言模型。作者呼吁停止主要用图像问答、字幕或逼真视频来评判视觉 AI。",
+      "id": "cmu0r7vit07onrox21r87nba6",
+      "title": "GPT Images 2.5 直接生成视频，121 帧仅 15 分钟",
+      "title_en": "好好好，GPT Imagse 2.5 你这么整是吧！ 这下图像模型也能直接生成视频了，还懂得参考风格和视频节奏，难道这是视频生成模型新道路？！ 121 帧|1080*1920|4.03s|用时 1…",
+      "url": "https://x.com/ZHO_ZHO_ZHO/status/2099355677198324024",
+      "permalink": "https://aihot.news/items/cmu0r7vit07onrox21r87nba6",
+      "source": "X：ZHO (@ZHO_ZHO_ZHO)",
+      "publishedAt": "2026-09-14T04:32:52.000Z",
+      "discoveredAt": "2026-09-14T04:39:44.280Z",
+      "summary": "用户测试显示，GPT Images 2.5 搭配 GPT-6 可直接生成视频，并参考风格与视频节奏，输出 121 帧、1080*1920、4.03s 的片段，用时 15 min。此前同一组合做风格逐帧转绘时，121 帧需 GPT-6 反复修正、耗时 40 min，且仍存在变形。",
       "category": null,
-      "score": 43,
+      "score": 46,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtx9x6360fo5roedhxmrdeua"
+        "canonical": "https://aihot.news/items/cmu0r7vit07onrox21r87nba6"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
       "relevanceScore": 14,
       "editorialScore": 17,
       "tags": [
-        "视觉",
-        "交互",
+        "视频生成",
         "视频",
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmu0o4kcb0405rox2zgvk08bp",
+      "title": "Meta 的 Muse 产品设计获好评",
+      "title_en": "we sweat every detail to make it easy for everyone to use muse！",
+      "url": "https://x.com/alexandr_wang/status/2099334215733264895",
+      "permalink": "https://aihot.news/items/cmu0o4kcb0405rox2zgvk08bp",
+      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+      "publishedAt": "2026-09-14T03:07:35.000Z",
+      "discoveredAt": "2026-09-14T03:13:18.967Z",
+      "summary": "我们死磕每一个细节，只为让每个人都能轻松使用 muse！\n\n【引用 @sarthakgh】：Muse 真的很棒--它的产品设计是我目前见过最用心的，能让那些根本不关心 AI 圈子的普通人轻松上手。",
+      "category": null,
+      "score": 18,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu0o4kcb0405rox2zgvk08bp"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 12,
+      "editorialScore": 16,
+      "tags": [
+        "产品设计",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmtznk3ta02zoro5ebx6vczaa",
@@ -96,6 +122,34 @@
         "设计"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmu0p3nbq04y3rox24qa2191i",
+      "title": "京东发布JoyAI-Echo 1.5并开源可交互视听世界模型EchoWM",
+      "title_en": "京东重磅发布可交互视听世界模型，长视频生成同步升级",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU0MjU0MDMzMw%3D%3D&mid=2247487500&idx=1&sn=087776698b96985eabb57999701fa3f0",
+      "permalink": "https://aihot.news/items/cmu0p3nbq04y3rox24qa2191i",
+      "source": "公众号：京东JoyAI",
+      "publishedAt": "2026-09-14T03:37:41.000Z",
+      "discoveredAt": "2026-09-14T03:40:39.512Z",
+      "summary": "京东探索研究院在9月9日JDD大会上发布JoyAI-Echo系列两项进展：超长音视频生成模型升级至JoyAI-Echo 1.5，同时发布并开源可交互视听世界模型EchoWM。",
+      "category": "ai-products",
+      "score": 54,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu0p3nbq04y3rox24qa2191i"
+      },
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "交互",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmtyejvhx0byprojh4esoa2ng",
@@ -266,61 +320,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmtxmom2c06d9roi3zz2i6k20",
-      "title": "Minara Harness 实测：多 Agent 投研圆桌与强制纸交易的散户交易工作区",
-      "title_en": "这绝对是今年对散户最友好的设计，没有之一！ Minara Harness 把规则替你焊死了：出完策略必须先用真实行情跑假钱纸交易，再小资金设回撤逐笔确认，绝不让你一步冲动上实盘--它不仅帮你找机会，还…",
-      "url": "https://x.com/AYi_AInotes/status/2098561644783644887",
-      "permalink": "https://aihot.news/items/cmtxmom2c06d9roi3zz2i6k20",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-09-11T23:57:40.000Z",
-      "discoveredAt": "2026-09-12T00:09:39.038Z",
-      "summary": "作者实测金融 AI 工作区 Minara Harness（获 Circle Ventures 投资），输入一句 AAPL 买卖问题后，4 个 Agent 走 7 阶段流程，18 分钟输出 Hold 结论和 317KB 交互式 HTML 报告。",
-      "category": "ai-products",
-      "score": 53,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtxmom2c06d9roi3zz2i6k20"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "设计",
-        "交互",
-        "agent"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmtxmd06905q4roi3tde83y96",
-      "title": "Meta 轻量化高端头显 Phoenix 外观渲染图现身系统固件，采用外置计算模块方案",
-      "title_en": "Meta 首款轻量化 VR 高端头显 Phoenix 外观渲染图现身系统固件，使用外置计算模块方案",
-      "url": "https://www.ithome.com/1/001/490.htm",
-      "permalink": "https://aihot.news/items/cmtxmd06905q4roi3tde83y96",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-11T23:30:17.000Z",
-      "discoveredAt": "2026-09-12T00:00:37.059Z",
-      "summary": "外媒 UploadVR 在 Meta Horizon OS 固件中发现 Meta 下一代高端混合现实头显 Phoenix 的外观素材，该机主打轻量化开放式设计，采用外置计算模块方案。素材展示了处方镜片的二维码扫描配对流程，以及连接线从头显左侧镜腿末端引出的背面结构。随着 Meta Connect 2026 临近，Meta 日程中出现\"无控制器交互实用指南\"专题会议。",
-      "category": null,
-      "score": 34,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtxmd06905q4roi3tde83y96"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "设计",
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmtznczul0051ro5ehrb5sh20",
       "title": "从4秒到两小时，AI视频长叙事正在走向完整故事",
       "title_en": "从4秒到两小时/480p到4k，我在RunningHub重新认识了能认真讲故事的AI视频们",
@@ -348,30 +347,59 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtxh2iyx06ohro6p9zfkjilu",
-      "title": "Anthropic 为 Claude Code 推出插件评测流程：6 种 grader、无插件基线与 CI 门禁",
-      "title_en": "Anthropic Adds Plugin Evals to Claude Code： 6 Grader Types， a No-Plugin Baseline， and a CI Gate for Skills",
-      "url": "https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills",
-      "permalink": "https://aihot.news/items/cmtxh2iyx06ohro6p9zfkjilu",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-09-11T21:05:55.000Z",
-      "discoveredAt": "2026-09-11T21:32:31.425Z",
-      "summary": "Anthropic 为 Claude Code 发布 plugin evals 工作流，claude plugin eval 命令用真实提示词运行插件、评分并与未加载插件的运行对比。",
-      "category": "ai-products",
-      "score": 65,
+      "id": "cmu0cb00k0g60roryhymk3ezb",
+      "title": "递归自我改进路线图论文：完整 RSI 尚未到来",
+      "title_en": "Beautiful roadmap paper on Recursive self-improvement. Concludes， we are already seeing pieces of R…",
+      "url": "https://x.com/rohanpaul_ai/status/2099246355785056273",
+      "permalink": "https://aihot.news/items/cmu0cb00k0g60roryhymk3ezb",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-13T21:18:27.000Z",
+      "discoveredAt": "2026-09-13T21:42:23.526Z",
+      "summary": "一篇递归自我改进（RSI）路线图论文指出，我们已看到 RSI 的零散雏形，但完整的递归自我改进尚未到来，多数所谓\"自我改进 AI\"只自动化了改进流程的部分环节。论文将进展划分为 5 个层级，从执行人类设计的改进到改变改进器、评估器或研究策略；低层级证据广泛，端到端 L5 证据仍局限于有界原型。",
+      "category": null,
+      "score": 39,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtxh2iyx06ohro6p9zfkjilu"
+        "canonical": "https://aihot.news/items/cmu0cb00k0g60roryhymk3ezb"
       },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 11,
-      "editorialScore": 12,
+      "sourceType": "X",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
       "tags": [
-        "工作流",
+        "原型",
+        "设计",
+        "自动化"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmu01bbqi08h8roymjs3dbqzj",
+      "title": "Peter Steinberger 谈用智能体玩转 Linux",
+      "title_en": "If you haven't given Linux a go lately， try with agents. You can fix anything with a prompt now. Go…",
+      "url": "https://x.com/steipete/status/2099172248213225791",
+      "permalink": "https://aihot.news/items/cmu01bbqi08h8roymjs3dbqzj",
+      "source": "X：Peter Steinberger (@steipete)",
+      "publishedAt": "2026-09-13T16:23:59.000Z",
+      "discoveredAt": "2026-09-13T16:34:44.886Z",
+      "summary": "如果你最近还没试过 Linux，不妨配合智能体试试。现在什么问题都能用一个提示词搞定。\n\n搞了台 Dell XPS。摄像头不工作，告诉 codex，它重启了一下，现在能用了。",
+      "category": null,
+      "score": 31,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu01bbqi08h8roymjs3dbqzj"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 10,
+      "editorialScore": 11,
+      "tags": [
         "提示词",
-        "claude code"
+        "prompt",
+        "codex",
+        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -399,6 +427,35 @@
       "tags": [
         "视觉",
         "摄影"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmu0iow520q50rorykrqq21uu",
+      "title": "马斯克推荐 Grok Build 图像视频编辑工具",
+      "title_en": "Try Grok Build https://x.ai/build",
+      "url": "https://x.com/elonmusk/status/2099290373046599959",
+      "permalink": "https://aihot.news/items/cmu0iow520q50rorykrqq21uu",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "publishedAt": "2026-09-14T00:13:22.000Z",
+      "discoveredAt": "2026-09-14T00:41:11.328Z",
+      "summary": "马斯克发推推荐 Grok Build（x.ai/build），引用用户 @XFreeze 的使用体验称其能实际编辑图像和视频，而非仅生成内容。该用户表示可让 Grok Build 查找素材、剪辑片段、完成重复性编辑工作，还能将偏好的设计和工作流保存为技能（skills），大幅节省时间。",
+      "category": null,
+      "score": 48,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu0iow520q50rorykrqq21uu"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "设计",
+        "工作流",
+        "视频",
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -565,30 +622,31 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtxj3h9902xqroi3vorjmuhw",
-      "title": "Grok Bot 面向 Grok Heavy 用户推出",
-      "title_en": "Seems like Grok Bot is rolling out on Grok web for Grok Heavy users. &gt； When available， users ca…",
-      "url": "https://x.com/testingcatalog/status/2098533001403515368",
-      "permalink": "https://aihot.news/items/cmtxj3h9902xqroi3vorjmuhw",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-09-11T22:03:51.000Z",
-      "discoveredAt": "2026-09-11T22:29:13.696Z",
-      "summary": "看起来 Grok Bot 正在 Grok 网页端面向 Grok Heavy 用户推出。\n\n> 可用后，用户可以直接在网页 UI 中创建并与自己的 bot 互动。\n\n> 目前尚无官方公告。此次推出可能仍是渐进的，或暂时有地区限制。",
-      "category": null,
-      "score": 30,
+      "id": "cmu0hln0i0p3crory2rhuv090",
+      "title": "AI导演DiDi_OK专访：用Seedance 2.5打造新作《糖果》，聊聊模型如何吞掉工作流",
+      "title_en": "那个拍出神作《牌子》的AI导演，带着他的巅峰之作回来了。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686222&idx=1&sn=2b570842f213cc90ddaa3603ab7746ab",
+      "permalink": "https://aihot.news/items/cmu0hln0i0p3crory2rhuv090",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-09-14T00:08:00.000Z",
+      "discoveredAt": "2026-09-14T00:10:41.029Z",
+      "summary": "自媒体作者专访AI影像创作者DiDi_OK，聊其用Seedance 2.5制作的新片《糖果》及此前B站播放2000万的《牌子》。DiDi_OK认为Seedance 2.5在运动规律和高度定制化上跨时代升级，让他做出几乎百分百纯AI的片子，省掉约60%叙事成本，参考图重要性下降、提示词作用上升；他还谈到AI时代创作本质在于取舍判断，模型变强后自己反而更痛苦，表达成本越低，平庸越没有借口。",
+      "category": "tip",
+      "score": 58,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtxj3h9902xqroi3vorjmuhw"
+        "canonical": "https://aihot.news/items/cmu0hln0i0p3crory2rhuv090"
       },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
+      "sourceType": "公众号",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
       "tags": [
-        "ui"
+        "工作流",
+        "提示词"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmtz49q8v0tf9roupdg4xh0ho",
@@ -703,6 +761,35 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmu0lt2cz02whrocu8etqz4ih",
+      "title": "LangChain 如何构建付费媒体智能体",
+      "title_en": "How We Built LangChain's Paid Media Agent",
+      "url": "https://www.langchain.com/blog/paid-media-agent",
+      "permalink": "https://aihot.news/items/cmu0lt2cz02whrocu8etqz4ih",
+      "source": "LangChain：Blog（RSS）",
+      "publishedAt": "2026-09-14T02:05:46.000Z",
+      "discoveredAt": "2026-09-14T02:08:26.644Z",
+      "summary": "LangChain 构建了一个付费媒体智能体，用于分析广告投放表现、优化广告、提出调整建议，并把营销数据转化为可执行动作。该智能体面向广告投放场景，覆盖从数据分析到行动建议的完整链路。",
+      "category": null,
+      "score": 25,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu0lt2cz02whrocu8etqz4ih"
+      },
+      "sourceType": "网站",
+      "designCategory": "行业观察",
+      "relevanceScore": 8,
+      "editorialScore": 8,
+      "tags": [
+        "广告",
+        "营销",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
       "id": "cmtzzh2o306f9roymkx97vfi8",
       "title": "Muse 帮用户刷算法薅免费产品赚礼品卡",
       "title_en": "this is a pretty creative way for muse to make you money！ #musemoneychallenge 💵",
@@ -813,110 +900,55 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmtx8r3ab0ayuroedhlef4eo2",
-      "title": "Claude Code 负责人 Boris Cherny 公开答复架构师来信：AI 时代生产代码标准应更高而非放水",
-      "title_en": "面对满天飞的 AI 垃圾代码（Slop），软件工程的准入标准到底该放宽、还是该更严？ 一位干了 12 年的老架构师忍不住给 Anthropic 写信求救： 公司新人用 Vibe Coding 一天提交…",
-      "url": "https://x.com/AYi_AInotes/status/2098462221378494736",
-      "permalink": "https://aihot.news/items/cmtx8r3ab0ayuroedhlef4eo2",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-09-11T17:22:35.000Z",
-      "discoveredAt": "2026-09-11T17:39:39.578Z",
-      "summary": "Claude Code 负责人 Boris Cherny 公开一封有 12 年经验架构师的求助信及自己的答复，认为面对 AI 生成代码，生产环境代码的及格线必须比人类手写时定得更高。",
+      "id": "cmu0km70g0sjyrory1ix2f1cz",
+      "title": "微软 Foundry 让长时运行智能体企业级落地",
+      "title_en": "Great example from @jeffhollan showing how Foundry makes long-running agents enterprise-ready， start…",
+      "url": "https://x.com/satyanadella/status/2099309030816813378",
+      "permalink": "https://aihot.news/items/cmu0km70g0sjyrory1ix2f1cz",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "publishedAt": "2026-09-14T01:27:30.000Z",
+      "discoveredAt": "2026-09-14T01:35:04.547Z",
+      "summary": "Satya Nadella 转发 Jeff Hollan 的演示，展示 Microsoft Foundry 如何让长时运行智能体具备企业级能力，从业务成果出发，将安全、安全护栏、可审计性和 FinOps 从一开始就构建进整个多智能体、多模型工作流。引用推文指出，Foundry 的可观测性与治理功能可回答智能体能访问什么、影响什么、数据流向何处、能否重建其行为以及能否控制与预算成本等问题。",
+      "category": null,
+      "score": 26,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu0km70g0sjyrory1ix2f1cz"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "工作流",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmu05vgt708rlrorybwmyjnqw",
+      "title": "AI That Works 分享用 post-mortem 复盘改进智能体技能与提示词的方法",
+      "title_en": "on this week's 🦄 AI That Works， @tbrownio shares their \"compounding\" process to generate post-morte…",
+      "url": "https://x.com/dexhorthy/status/2099200185956172103",
+      "permalink": "https://aihot.news/items/cmu05vgt708rlrorybwmyjnqw",
+      "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+      "publishedAt": "2026-09-13T18:15:00.000Z",
+      "discoveredAt": "2026-09-13T18:42:23.214Z",
+      "summary": "Dex Horthy 介绍本期 AI That Works 节目中 @tbrownio 分享的 \"compounding\" 复盘流程：每当智能体 pull request 需要人工引导时生成 post-mortem。每周末回顾这些 post-mortem，逐步改进技能、任务提示词和智能体记忆文件，以避免问题再次出现。",
       "category": "tip",
-      "score": 66,
+      "score": 60,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtx8r3ab0ayuroedhlef4eo2"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "vibe coding",
-        "claude code"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmtxhf8ln06w7ro6p8gzlita5",
-      "title": "OpenAI 发布 Agents API，以托管的 Codex harness 在云端构建 Agent",
-      "title_en": "Agents API is a bigger deal than it seems. OpenAI's bet on making the Codex harness open-source co…",
-      "url": "https://x.com/omarsar0/status/2098524621439914375",
-      "permalink": "https://aihot.news/items/cmtxhf8ln06w7ro6p8gzlita5",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "publishedAt": "2026-09-11T21:30:33.000Z",
-      "discoveredAt": "2026-09-11T21:42:23.336Z",
-      "summary": "OpenAI 推出 Agents API，一种基于 Codex harness、在云端构建 Agent 的新方式，支持自带工具与连接器并连接任意 sandbox。作者 Elvis Saravia 认为其影响被低估，Codex 开源使各类模型对其 harness 已很熟悉，更多服务采用该智能体架构时可获得开放性带来的复利效应。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtxhf8ln06w7ro6p8gzlita5"
+        "canonical": "https://aihot.news/items/cmu05vgt708rlrorybwmyjnqw"
       },
       "sourceType": "X",
       "designCategory": "工作流与 Agent",
       "relevanceScore": 6,
       "editorialScore": 7,
       "tags": [
-        "codex",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmtxazvi102p7rouucq5xwx3m",
-      "title": "OpenAI CFO 如何用 AI 智能体加速日常工作流",
-      "title_en": "AI is doing for all knowledge workers what tools like Excel once did for finance professionals. Sar…",
-      "url": "https://x.com/rohanpaul_ai/status/2098477725564723660",
-      "permalink": "https://aihot.news/items/cmtxazvi102p7rouucq5xwx3m",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-11T18:24:12.000Z",
-      "discoveredAt": "2026-09-11T18:42:23.654Z",
-      "summary": "OpenAI CFO Sarah Friar 分享了她用 AI 加速日常工作流的方式：每天早上 AI 智能体自动审阅她的收件箱、Slack、文档和表格，梳理出优先事项并给出下一步建议。她还用 AI 把华尔街分析师的邮件和报告转成个性化 5 分钟播客，在晨间准备时收听。",
-      "category": null,
-      "score": 30,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtxazvi102p7rouucq5xwx3m"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "工作流",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmtx9x6370fo6roedcqtq4jaj",
-      "title": "红杉：AI 智能体冲击中层工作流应用",
-      "title_en": "Sequoia partner Grady Buchanan says systems of record SAAS like Workday， Salesforce， and ServiceNow …",
-      "url": "https://x.com/rohanpaul_ai/status/2098469967037661431",
-      "permalink": "https://aihot.news/items/cmtx9x6370fo6roedcqtq4jaj",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-11T17:53:22.000Z",
-      "discoveredAt": "2026-09-11T18:12:23.119Z",
-      "summary": "红杉合伙人 Grady Buchanan 表示，Workday、Salesforce 和 ServiceNow 这类记录系统型 SaaS 受 AI 冲击更小。风险在于中间层的工作流应用，因为 AI 智能体正成为在核心数据之上执行工作的新一层。",
-      "category": null,
-      "score": 36,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtx9x6370fo6roedcqtq4jaj"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "工作流",
+        "提示词",
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
