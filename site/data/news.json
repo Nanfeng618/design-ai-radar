@@ -1,47 +1,19 @@
 {
-  "generatedAt": "2026-09-15T11:44:54.333Z",
-  "previousGeneratedAt": "2026-09-15T04:55:08.136Z",
+  "generatedAt": "2026-09-15T16:59:27.484Z",
+  "previousGeneratedAt": "2026-09-15T11:44:54.333Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
   "itemCount": 34,
   "sourceCounts": {
-    "公众号": 3,
     "X": 24,
-    "网站": 7
+    "公众号": 1,
+    "网站": 9
   },
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com"
   },
   "items": [
-    {
-      "id": "cmu1819y3034gro7zdrzpjtma",
-      "title": "腾讯元宝谈 AI 辅导作业：家长如何用 AI 精讲陪孩子学习",
-      "title_en": "辅导作业这件事，这些家长找到搭子了",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzY4MjM5MA%3D%3D&mid=2247522186&idx=1&sn=56a128f39640a28c4c0ba277cfe47eef",
-      "permalink": "https://aihot.news/items/cmu1819y3034gro7zdrzpjtma",
-      "source": "公众号：腾讯元宝",
-      "publishedAt": "2026-09-14T12:00:00.000Z",
-      "discoveredAt": "2026-09-14T12:30:37.825Z",
-      "summary": "腾讯元宝邀请多位家长分享使用 AI 精讲辅导孩子作业的经验，涵盖从二年级到初三的不同家庭。元宝 AI 精讲支持拍照或提问知识点，像板书一样逐步展开解题过程，可随时打断追问，并弹出互动测验检验理解。元宝教育产品经理祁老师提出 AI 辅导应遵循\"先想、再问、会讲、能变\"四步，产品设计强调克制，不代替思考、不接管学习主导权。",
-      "category": null,
-      "score": 43,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu1819y3034gro7zdrzpjtma"
-      },
-      "sourceType": "公众号",
-      "designCategory": "产品与体验",
-      "relevanceScore": 16,
-      "editorialScore": 20,
-      "tags": [
-        "产品设计",
-        "设计",
-        "产品经理"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
     {
       "id": "cmu1w18ls0320rorbkl6uksks",
       "title": "ElevenLabs MCP 推出语音、音乐、图像和视频生成，ElevenCreative 带来 50 多个模型",
@@ -101,83 +73,86 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmu0r7vit07onrox21r87nba6",
-      "title": "GPT Images 2.5 直接生成视频，121 帧仅 15 分钟",
-      "title_en": "好好好，GPT Imagse 2.5 你这么整是吧！ 这下图像模型也能直接生成视频了，还懂得参考风格和视频节奏，难道这是视频生成模型新道路？！ 121 帧|1080*1920|4.03s|用时 1…",
-      "url": "https://x.com/ZHO_ZHO_ZHO/status/2099355677198324024",
-      "permalink": "https://aihot.news/items/cmu0r7vit07onrox21r87nba6",
-      "source": "X：ZHO (@ZHO_ZHO_ZHO)",
-      "publishedAt": "2026-09-14T04:32:52.000Z",
-      "discoveredAt": "2026-09-14T04:39:44.280Z",
-      "summary": "用户测试显示，GPT Images 2.5 搭配 GPT-6 可直接生成视频，并参考风格与视频节奏，输出 121 帧、1080*1920、4.03s 的片段，用时 15 min。此前同一组合做风格逐帧转绘时，121 帧需 GPT-6 反复修正、耗时 40 min，且仍存在变形。",
+      "id": "cmu2uxc8302x1rowkujqcfhtw",
+      "title": "PixVerse Growth Studio 上线 Creative Variations",
+      "title_en": "One product. More stories. Creative Variations is live in Growth Studio",
+      "url": "https://x.com/PixVerse/status/2099888221035331690",
+      "permalink": "https://aihot.news/items/cmu2uxc8302x1rowkujqcfhtw",
+      "source": "X：PixVerse (@PixVerse)",
+      "publishedAt": "2026-09-15T15:49:00.000Z",
+      "discoveredAt": "2026-09-15T15:59:13.511Z",
+      "summary": "PixVerse 在 Growth Studio 中上线 Creative Variations，可将同一产品转化为多个不同的视频创意，用于制作差异化广告素材并跨受众和营销目标测试。",
       "category": null,
-      "score": 46,
+      "score": 37,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu0r7vit07onrox21r87nba6"
+        "canonical": "https://aihot.news/items/cmu2uxc8302x1rowkujqcfhtw"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 14,
-      "editorialScore": 17,
+      "designCategory": "行业观察",
+      "relevanceScore": 16,
+      "editorialScore": 16,
       "tags": [
-        "视频生成",
-        "视频",
-        "图像"
+        "广告",
+        "创意",
+        "creative",
+        "视频"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
-      "id": "cmu0v1sd70b0grouc6311o4q9",
-      "title": "MiniMax 盘点 H3 视频生成模型开源生态进展",
-      "title_en": "Open weights. Shared progress. MiniMax H3 is moving fast. We built H3 for video generation with nat…",
-      "url": "https://x.com/MiniMax_AI/status/2099381310733328784",
-      "permalink": "https://aihot.news/items/cmu0v1sd70b0grouc6311o4q9",
-      "source": "X：MiniMax (@MiniMax_AI)",
-      "publishedAt": "2026-09-14T06:14:43.000Z",
-      "discoveredAt": "2026-09-14T06:27:09.101Z",
-      "summary": "MiniMax 盘点其开源视频生成模型 H3（支持原生立体声音频和多模态参考控制）的社区优化成果，并附生态汇总仓库 https://github.com/MiniMax-AI/awesome-minimax-h3-integration。",
+      "id": "cmu2t7e9005xhro3xi5oq27e7",
+      "title": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
+      "title_en": "Vidu S2技术解析：实时编辑、实时交互、探索空间视频",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489246&idx=2&sn=b23b39da69f6c75594eccac11854111f",
+      "permalink": "https://aihot.news/items/cmu2t7e9005xhro3xi5oq27e7",
+      "source": "公众号：生数科技（Vidu·视频）",
+      "publishedAt": "2026-09-15T14:30:59.000Z",
+      "discoveredAt": "2026-09-15T15:11:04.702Z",
+      "summary": "生数科技正式发布 Vidu S2，包含面向数字角色实时交互的 Vidu S2-Avatar 和面向视频流实时编辑的 Vidu S2-Editing，并探索面向 VR 头显的实时空间视频生成与编辑。",
       "category": "ai-models",
-      "score": 61,
-      "selected": false,
+      "score": 66,
+      "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu0v1sd70b0grouc6311o4q9"
+        "canonical": "https://aihot.news/items/cmu2t7e9005xhro3xi5oq27e7"
       },
-      "sourceType": "X",
+      "sourceType": "公众号",
       "designCategory": "图像与视频",
       "relevanceScore": 12,
       "editorialScore": 15,
       "tags": [
         "视频生成",
+        "交互",
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmu0tzxje06zlroucoi471k8i",
-      "title": "MiniMax H3 开源生态盘点：FastH3、Sol-H3、VDN 等社区加速项目进展",
-      "title_en": "Open weights. Shared progress. MiniMax H3 is moving fast. We built MiniMax H3 for video generation …",
-      "url": "https://x.com/MiniMax_AI/status/2099375858364690576",
-      "permalink": "https://aihot.news/items/cmu0tzxje06zlroucoi471k8i",
-      "source": "X：MiniMax (@MiniMax_AI)",
-      "publishedAt": "2026-09-14T05:53:03.000Z",
-      "discoveredAt": "2026-09-14T05:57:09.116Z",
-      "summary": "MiniMax 盘点其开源视频生成模型 MiniMax H3 的社区生态进展，该模型支持原生立体声音频和多模态参考控制。",
-      "category": "ai-models",
-      "score": 61,
+      "id": "cmu2u1vq706z1ro3xvsy4y2az",
+      "title": "Vidu S2 论文：实时交互、可编辑与空间视频生成",
+      "title_en": "Vidu S2 Real-Time Interactive， Editable， and Spatial Video Generation paper： https://huggingface.c...",
+      "url": "https://x.com/_akhaliq/status/2099883001840828920",
+      "permalink": "https://aihot.news/items/cmu2u1vq706z1ro3xvsy4y2az",
+      "source": "X：AK (@_akhaliq)",
+      "publishedAt": "2026-09-15T15:28:16.000Z",
+      "discoveredAt": "2026-09-15T15:34:44.801Z",
+      "summary": "Vidu S2 论文发布，提出实时交互、可编辑和空间视频生成，包含实时交互数字人模型 Vidu S2-Avatar 和实时视频编辑模型 Vidu S2-Editing。Vidu S2-Avatar 相比 Vidu S1 支持实时 720p 生成、可随时更新的动态参考和更强的指令遵循；Vidu S2-Editing 支持对视频流实时编辑，包括风格渲染、服装、角色和背景替换。论文链接 https://huggingface.co/papers/2609.11638，在线演示 https://vidu.com/vidu-stream。",
+      "category": "paper",
+      "score": 52,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu0tzxje06zlroucoi471k8i"
+        "canonical": "https://aihot.news/items/cmu2u1vq706z1ro3xvsy4y2az"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
+      "relevanceScore": 11,
+      "editorialScore": 14,
       "tags": [
         "视频生成",
+        "交互",
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
@@ -239,32 +214,32 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmu0p3nbq04y3rox24qa2191i",
-      "title": "京东发布JoyAI-Echo 1.5并开源可交互视听世界模型EchoWM",
-      "title_en": "京东重磅发布可交互视听世界模型，长视频生成同步升级",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzU0MjU0MDMzMw%3D%3D&mid=2247487500&idx=1&sn=087776698b96985eabb57999701fa3f0",
-      "permalink": "https://aihot.news/items/cmu0p3nbq04y3rox24qa2191i",
-      "source": "公众号：京东JoyAI",
-      "publishedAt": "2026-09-14T03:37:41.000Z",
-      "discoveredAt": "2026-09-14T03:40:39.512Z",
-      "summary": "京东探索研究院在9月9日JDD大会上发布JoyAI-Echo系列两项进展：超长音视频生成模型升级至JoyAI-Echo 1.5，同时发布并开源可交互视听世界模型EchoWM。",
-      "category": "ai-products",
-      "score": 54,
+      "id": "cmu2rsk7604dhro3xpxbvrdp2",
+      "title": "GPT-6 Astra 可自动化办公工作流",
+      "title_en": "GPT-6 Astra is absurdly powerful the things i can do with it， and how easy it makes workflow automa…",
+      "url": "https://x.com/haider1/status/2099862721114313200",
+      "permalink": "https://aihot.news/items/cmu2rsk7604dhro3xpxbvrdp2",
+      "source": "X：Haider (@haider1)",
+      "publishedAt": "2026-09-15T14:07:40.000Z",
+      "discoveredAt": "2026-09-15T14:31:31.665Z",
+      "summary": "GPT-6 Astra 强大得离谱\n\n我能用它做的事，以及它让工作流自动化变得如此简单，让我觉得它可以自动化普通办公室员工的大部分工作\n\n你不需要特殊工具或不同的软件。只需向 Astra 解释流程，剩下的它来做",
+      "category": null,
+      "score": 24,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu0p3nbq04y3rox24qa2191i"
+        "canonical": "https://aihot.news/items/cmu2rsk7604dhro3xpxbvrdp2"
       },
-      "sourceType": "公众号",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 12,
+      "editorialScore": 13,
       "tags": [
-        "视频生成",
-        "交互",
-        "视频"
+        "工作流",
+        "workflow",
+        "自动化"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmu1mwwth03hjroxjp3ry5ayv",
@@ -292,6 +267,33 @@
         "设计"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmu2mjt920bknrovqqf5fwr7n",
+      "title": "可灵 AI 亮相 TIFF 市场 2026",
+      "title_en": "On September 10， Kling AI joined TIFF： The Market 2026， connecting with the global film community th…",
+      "url": "https://x.com/Kling_ai/status/2099830602304249900",
+      "permalink": "https://aihot.news/items/cmu2mjt920bknrovqqf5fwr7n",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-09-15T12:00:03.000Z",
+      "discoveredAt": "2026-09-15T12:04:44.210Z",
+      "summary": "9 月 10 日，可灵 AI 参加了 TIFF： The Market 2026，通过行业座谈、交流酒会和现场展示，与全球电影社群建立联系。\n\n从长篇动画到真实制作流程，我们探讨了 AI 视频如何成为专业电影制作的一部分。\n\n从戛纳到多伦多乃至更多地方，可灵 AI 持续参与各大电影节，助力推动 AI 视频在制作中的作用。",
+      "category": null,
+      "score": 30,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu2mjt920bknrovqqf5fwr7n"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 9,
+      "editorialScore": 12,
+      "tags": [
+        "可灵",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmu29hqe303nkrooy4jppxfnu",
@@ -352,6 +354,58 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmu2ucrl702czrowkp3eh8bi9",
+      "title": "Muse 帮用户揪出 Chase 账户里的盗刷订阅",
+      "title_en": "muse can track down credit card fraud on your behalf！",
+      "url": "https://x.com/alexandr_wang/status/2099879368659230886",
+      "permalink": "https://aihot.news/items/cmu2ucrl702czrowkp3eh8bi9",
+      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+      "publishedAt": "2026-09-15T15:13:50.000Z",
+      "discoveredAt": "2026-09-15T15:43:13.247Z",
+      "summary": "Alexandr Wang 称 Muse 能替用户追查信用卡盗刷。引用推文显示，用户通过 Plaid 将 Muse 接入 Chase 账户后，Muse 发现一笔自己不认识、由 Adobe 扣款的循环订阅；Adobe 账户并不属于该用户，Chase 也未标记该笔扣款，Muse 却识别了出来。",
+      "category": null,
+      "score": 42,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu2ucrl702czrowkp3eh8bi9"
+      },
+      "sourceType": "X",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
+      "tags": [
+        "adobe"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmu2se78w04zcro3xewn0vlja",
+      "title": "TechCrunch Disrupt 2026 专场：初创公司如何从原型走向量产",
+      "title_en": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026",
+      "permalink": "https://aihot.news/items/cmu2se78w04zcro3xewn0vlja",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-09-15T14:30:00.000Z",
+      "discoveredAt": "2026-09-15T14:48:23.043Z",
+      "summary": "TechCrunch Disrupt 2026 将于 10 月 13-15 日在旧金山 Moscone West 举办，其中 Real World AI Stage 设\"From Prototype to Production： Can It Scale in Reality？",
+      "category": null,
+      "score": 21,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu2se78w04zcro3xewn0vlja"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
+      "tags": [
+        "原型"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
       "id": "cmu2blxra0450ro25ecasijya",
       "title": "腾讯混元发布 EvolveScaler 信息演化基准",
       "title_en": "🚀 EvolveScaler is here. Read a 40-day RPG log. Now answer one question： if you skip the mini-boss …",
@@ -405,31 +459,138 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmu0yyz3l06kwro2n1431xiev",
-      "title": "从视频到数据：AI 如何改变多媒体内容处理",
-      "title_en": "From Video to Data： How AI Is Transforming Multimedia Content Processing",
-      "url": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing",
-      "permalink": "https://aihot.news/items/cmu0yyz3l06kwro2n1431xiev",
-      "source": "Artificial Intelligence News（网页）",
-      "publishedAt": "2026-09-14T08:16:56.552Z",
-      "discoveredAt": "2026-09-14T08:16:56.552Z",
-      "summary": "AI 正把视频、音频等多媒体内容转成可搜索的结构化数据，流程涵盖文件准备、音频提取、视觉处理、语言处理与结构化输出。OpenAI 音频转录 API 支持 MP3、MP4、M4A、WAV、FLAC、WebM 等格式，Google Cloud 则推荐 FLAC 或 LINEAR16 等无损音频。转录文本可进一步摘要、翻译、分说话人、生成字幕或改写成文章，应用于会议、教育、客服和媒体归档等场景。",
-      "category": null,
-      "score": 31,
+      "id": "cmu2waq8q04j2rowkpzjhtjr9",
+      "title": "OpenRouter 上 OpenAI 模型周消费额 2.5 年来首次超过 Anthropic",
+      "title_en": "OpenRouter users spent more on OpenAI models than on Anthropic models last week. This hasn't happen…",
+      "url": "https://x.com/OpenRouter/status/2099898254905549220",
+      "permalink": "https://aihot.news/items/cmu2waq8q04j2rowkpzjhtjr9",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-09-15T16:28:52.000Z",
+      "discoveredAt": "2026-09-15T16:37:37.712Z",
+      "summary": "OpenRouter 称上周用户在 OpenAI 模型上的支出首次超过 Anthropic 模型，这是 2.5 年多来的第一次。配图显示这是自 2024 年 2 月 26 日那周以来未出现过的情况，图表为 2026 年两家模型在 OpenRouter 上的每周钱包份额对比。",
+      "category": "tip",
+      "score": 54,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu0yyz3l06kwro2n1431xiev"
+        "canonical": "https://aihot.news/items/cmu2waq8q04j2rowkpzjhtjr9"
       },
-      "sourceType": "网站",
+      "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "relevanceScore": 7,
+      "editorialScore": 10,
       "tags": [
-        "视觉",
-        "视频"
+        "配图"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmu2wnqm504x3rowkmawyq7b0",
+      "title": "Capsule 发布：用 AI 把应用连同 SQLite 数据打包成单个 .capsule 文件",
+      "title_en": "Show HN： Capsule--将数据存储在 SQLite 中的单文件 Web 应用程序",
+      "url": "https://withcapsule.app/",
+      "permalink": "https://aihot.news/items/cmu2wnqm504x3rowkmawyq7b0",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-15T16:14:23.882Z",
+      "discoveredAt": "2026-09-15T16:47:46.122Z",
+      "summary": "Capsule 发布，可将 UI、媒体和本地 SQLite 数据打包为单个可移植的 .capsule 文件，应用无需云端、账号或网络即可运行，并支持用提示词或 ChatGPT、Claude 等 AI 助手生成和实时修改应用。",
+      "category": "ai-products",
+      "score": 59,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu2wnqm504x3rowkmawyq7b0"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "ui",
+        "提示词"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmu2varzq03dlrowkob04ivb8",
+      "title": "Garry Tan 连续力荐 Aside AI 浏览器，博主拆解其带登录态的 MCP 浏览器 Harness 架构",
+      "title_en": "YC 掌门人 Garry Tan 过去两周像着了魔一样连续发推力荐@AsideAI ，我相信Garry绝不是在夸又一个好看的AI 浏览器， 咱们把他推文配图里那张通过 REPL 逆向出来的控制台截图放…",
+      "url": "https://x.com/AYi_AInotes/status/2099887062824481204",
+      "permalink": "https://aihot.news/items/cmu2varzq03dlrowkob04ivb8",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-09-15T15:44:24.000Z",
+      "discoveredAt": "2026-09-15T16:09:39.710Z",
+      "summary": "YC 掌门人 Garry Tan 连续发推力荐 @AsideAI，称 Aside AI 浏览器/Harness 是可与任意 Agent 配合使用的最强消费级 AI 工具之一，Aside MCP 暴露带凭证的深度浏览器工具。",
+      "category": "tip",
+      "score": 56,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu2varzq03dlrowkob04ivb8"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "配图",
+        "agent",
+        "mcp"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmu2toatw06ktro3x5lte18lk",
+      "title": "Meta 计划明年上半年部署新一代自研 AI 芯片，12 个月内目标部署超 1GW",
+      "title_en": "将降本增效进行到底，Meta 计划明年上半年部署新一代自研 AI 芯片",
+      "url": "https://www.ithome.com/1/002/790.htm",
+      "permalink": "https://aihot.news/items/cmu2toatw06ktro3x5lte18lk",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-15T14:26:01.000Z",
+      "discoveredAt": "2026-09-15T15:24:11.620Z",
+      "summary": "据彭博社报道，Meta 计划明年上半年在数据中心部署新一代自研 AI 芯片，以降低运行 AI 模型的成本和能耗。目前正测试第三代产品 MTIA 450（代号 Arke），下一代 MTIA 500（代号 Astrid）预计约一个月后完成设计，2027 年底进入数据中心；Meta 计划 12 个月内部署超 1GW 规模自研芯片。",
+      "category": "industry",
+      "score": 61,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu2toatw06ktro3x5lte18lk"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmu2r0gmo03gqro3xw6yrkv5g",
+      "title": "微信团队开源 WeKnora 知识框架，GitHub 星标破 2.3 万",
+      "title_en": "腾讯有点牛逼啊，微信团队低调开源的这个项目（Tencent/WeKnora，GitHub已破 2.3 万星，MIT 协议），这是把RAG行业的桌子掀了的节奏，给国内所有还在死磕普通 RAG 的团队，都…",
+      "url": "https://x.com/AYi_AInotes/status/2099858387928244547",
+      "permalink": "https://aihot.news/items/cmu2r0gmo03gqro3xw6yrkv5g",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-09-15T13:50:27.000Z",
+      "discoveredAt": "2026-09-15T14:09:39.129Z",
+      "summary": "腾讯微信团队开源 WeKnora 知识框架，MIT 协议，GitHub 星标已破 2.3 万，面向企业级文档理解、语义检索与自主推理。作者分析称其架构包含多模态文档进料、面向 Agent 的长期上下文、Docker/E2B 沙箱执行环境与 Auto-Wiki 自动知识维护四层设计，长期记忆需人工确认后才入库，并已为 DeepSeek Harness 提供插件。",
+      "category": "tip",
+      "score": 68,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu2r0gmo03gqro3xw6yrkv5g"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计",
+        "agent"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmu21t3h7054brow2g6bbr4w6",
@@ -536,34 +697,6 @@
         "交互"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmu15jtmf03fero9gttd42iuc",
-      "title": "Tripo x Astra 3D 工作流挑战赛开启",
-      "title_en": "The Tripo x Astra 3D Workflow Challenge is officially live. Turn a single character reference into …",
-      "url": "https://x.com/tripoai/status/2099451942691074337",
-      "permalink": "https://aihot.news/items/cmu15jtmf03fero9gttd42iuc",
-      "source": "Tripo（官方 X）",
-      "publishedAt": "2026-09-14T10:55:23.000Z",
-      "discoveredAt": "2026-09-14T11:21:06.104Z",
-      "summary": "Tripo x Astra 3D 工作流挑战赛正式上线。\n\n使用 Tripo 和 Astra，将单张角色参考图变成带骨骼绑定的动画 3D 资产，赢取免费 API 额度。\n\n挑战详情与规则见下方。",
-      "category": null,
-      "score": 24,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu15jtmf03fero9gttd42iuc"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 9,
-      "editorialScore": 10,
-      "tags": [
-        "工作流",
-        "workflow",
-        "3d"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmu2k7igp06vxrovqvwys716r",
@@ -676,59 +809,31 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmu11kn0l09yero2nefod24dq",
-      "title": "阿里云 WonderClip 全流程 AI 视频平台",
-      "title_en": "Most AI video tools stop at generation. WonderClip goes further. It's a full-cycle platform that con…",
-      "url": "https://x.com/alibaba_cloud/status/2099425362585227612",
-      "permalink": "https://aihot.news/items/cmu11kn0l09yero2nefod24dq",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "publishedAt": "2026-09-14T09:09:46.000Z",
-      "discoveredAt": "2026-09-14T09:29:13.220Z",
-      "summary": "大多数 AI 视频工具止步于生成。WonderClip 走得更远。它是一个全周期平台，连接视频制作的每个阶段，从脚本分析和分镜拆解到最终剪辑和团队协作。借助 Storyboard、Infinite Canvas 和 Agent 模式，它能规模化处理微短剧、广告创意和电商短视频。立即注册，免费获得 200 credits。了解更多 → https://click.alibabacloud.com/m/20000003329/ #AIVideo #VideoProduction #GenerativeAI #WonderClip",
-      "category": null,
-      "score": 26,
+      "id": "cmu2ubpib02bcrowkssbtwn0x",
+      "title": "Plasma 发布 Radio，用共享频道让多个编码智能体实时协作",
+      "title_en": "The future is clearly agent teams. I run several agent harnesses at once， but the hard part is keep…",
+      "url": "https://x.com/omarsar0/status/2099880259210412282",
+      "permalink": "https://aihot.news/items/cmu2ubpib02bcrowkssbtwn0x",
+      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+      "publishedAt": "2026-09-15T15:17:22.000Z",
+      "discoveredAt": "2026-09-15T15:42:23.587Z",
+      "summary": "Plasma 推出 Radio，一个让多个编码智能体互相协调的共享聊天室，类似 Slack 或 Microsoft Teams。用户创建频道后把链接粘贴给各智能体即可，无需注册；支持 Claude Code、Codex、Cursor、OpenCode、Grok 等任何能抓取 URL 的智能体，可跨本地与云端、跨机器、多人使用，频道保留完整对话以便多个智能体共同审查 PR、拆分任务或讨论 bug。",
+      "category": "ai-products",
+      "score": 58,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu11kn0l09yero2nefod24dq"
+        "canonical": "https://aihot.news/items/cmu2ubpib02bcrowkssbtwn0x"
       },
       "sourceType": "X",
-      "designCategory": "行业观察",
-      "relevanceScore": 9,
-      "editorialScore": 9,
-      "tags": [
-        "广告",
-        "创意",
-        "视频",
-        "agent"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmu10wt0w096yro2nap2zhona",
-      "title": "AI导演DiDi_OK解密用Seedance 2.5制作科幻短片《Candy》的工作流",
-      "title_en": "DiDi_OK新作解密：AI正在把科幻电影从\"重工业\"变成\"个人表达\"",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247544091&idx=1&sn=c81df556301898ed37cdce7886d72779",
-      "permalink": "https://aihot.news/items/cmu10wt0w096yro2nap2zhona",
-      "source": "公众号：火山引擎",
-      "publishedAt": "2026-09-14T09:05:10.000Z",
-      "discoveredAt": "2026-09-14T09:11:15.096Z",
-      "summary": "火山引擎采访AI导演DiDi_OK，介绍其完全用Seedance 2.5 720P制作的9分钟科幻短片《Candy》背后的制作过程。他称模型在精细定制化、运动规律理解和超长镜头一次生成上有突破，部分效果连续性超过传统CG；其工作流随之改变，提示词取代关键帧成为决定视觉上限的首要条件，世界观类叙事中分镜不再是必需。",
-      "category": "tip",
-      "score": 56,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu10wt0w096yro2nap2zhona"
-      },
-      "sourceType": "公众号",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
+      "relevanceScore": 7,
+      "editorialScore": 8,
       "tags": [
-        "视觉",
-        "工作流",
-        "提示词"
+        "codex",
+        "claude code",
+        "agent",
+        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -819,138 +924,29 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmu1guebm09dlrocnvh4wu536",
-      "title": "Tessl 撰文探讨智能体转型中的 context 所有权应归谁",
-      "title_en": "Who Owns your/the Context？",
-      "url": "https://tessl.io/blog/who-owns-yourthe-context",
-      "permalink": "https://aihot.news/items/cmu1guebm09dlrocnvh4wu536",
-      "source": "Tessl：产品与工程博客",
-      "publishedAt": "2026-09-14T16:37:16.124Z",
-      "discoveredAt": "2026-09-14T16:37:16.124Z",
-      "summary": "Tessl 博客发文提出，智能体转型的难点不在 agent 本身，而在 context、工作流、流程和产物的所有权归属。文章给出核心规则：所有权跟随组织单元，个人和团队 context 归领域专家，全组织 context 由平台团队托管但不占有；赋能团队的职责是提供工具而非掌管 context，并借鉴 DevOps、SRE 转型经验，建议按组织既有文化选择集中或放权的路线。",
-      "category": "tip",
-      "score": 59,
+      "id": "cmu2v58td0365rowku99l9yfz",
+      "title": "你可能低估了 Computer Use：AI 智能体已能代做的电脑杂活实测",
+      "title_en": "You're Probably Sleeping On Computer Use",
+      "url": "https://every.to/context-window/you-re-probably-sleeping-on-computer-use",
+      "permalink": "https://aihot.news/items/cmu2v58td0365rowku99l9yfz",
+      "source": "Every：最新文章（网页）",
+      "publishedAt": "2026-09-15T16:05:17.864Z",
+      "discoveredAt": "2026-09-15T16:05:17.864Z",
+      "summary": "对一款以概率形式作答的模型进行 Vibe Check，并实测 AI 智能体目前能替用户完成哪些电脑杂活，同时给出一套用 AI 做出靠谱演示文稿的工作流。",
+      "category": null,
+      "score": 24,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu1guebm09dlrocnvh4wu536"
+        "canonical": "https://aihot.news/items/cmu2v58td0365rowku99l9yfz"
       },
       "sourceType": "网站",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
+      "relevanceScore": 6,
+      "editorialScore": 7,
       "tags": [
         "工作流",
-        "agent",
         "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmu2j4xyl05v8rovq1utaa5q1",
-      "title": "PixVerse 涩谷十字路口护友演示",
-      "title_en": "Just defended my girl from a drunk salaryman at Shibuya Crossing Full prompt ↓",
-      "url": "https://x.com/PixVerse/status/2099804381977976927",
-      "permalink": "https://aihot.news/items/cmu2j4xyl05v8rovq1utaa5q1",
-      "source": "X：PixVerse (@PixVerse)",
-      "publishedAt": "2026-09-15T10:15:51.000Z",
-      "discoveredAt": "2026-09-15T10:29:13.183Z",
-      "summary": "刚在涩谷十字路口从醉汉上班族手里护住了我的女孩 完整提示词 ↓",
-      "category": null,
-      "score": 7,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu2j4xyl05v8rovq1utaa5q1"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "提示词",
-        "prompt"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmu1k8rhj0urfrocnx97iy141",
-      "title": "SpaceX 首席工程师的 PStack AI 技能栈拆解",
-      "title_en": "Really nice overview of pstack！",
-      "url": "https://x.com/poteto/status/2099558917282181186",
-      "permalink": "https://aihot.news/items/cmu1k8rhj0urfrocnx97iy141",
-      "source": "X：Lauren Tan (@poteto)",
-      "publishedAt": "2026-09-14T18:00:28.000Z",
-      "discoveredAt": "2026-09-14T18:12:23.735Z",
-      "summary": "PStack 的介绍写得很棒！\n\n每月 1，000+ 个 PR。这样的 Agent 工作流是什么样的？一篇关于 PStack 的拆解--@SpaceXAI 和 @cursor_ai 首席工程师 @poteto 的 AI 技能栈。",
-      "category": null,
-      "score": 29,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu1k8rhj0urfrocnx97iy141"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "工作流",
-        "agent"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmu1gt8gn097trocnxxvdhxli",
-      "title": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文",
-      "title_en": "The hottest open-source models on OpenRouter. Now live on SiliconFlow. 🔥 Meet Hy4 preview： 770B tot…",
-      "url": "https://x.com/SiliconFlowAI/status/2099536759168352634",
-      "permalink": "https://aihot.news/items/cmu1gt8gn097trocnxxvdhxli",
-      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-      "publishedAt": "2026-09-14T16:32:25.000Z",
-      "discoveredAt": "2026-09-14T16:36:19.273Z",
-      "summary": "硅基流动（SiliconFlow）宣布开源模型 Hy4 preview 上线其平台。该模型总参数 770B、每 token 激活 49B、支持 1M 上下文，采用 Apache 2.0 协议，面向编码、分析、研究和复杂实际工作。用户可将其接入 Claude Code、Codex、Cursor 等已有工具；图片显示定价为每 1M tokens 输入 $0.834、输出 $2.501、缓存 $0.042。",
-      "category": "ai-models",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu1gt8gn097trocnxxvdhxli"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "codex",
-        "claude code"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmu0wkgu803j3ro2nbbtkxe6b",
-      "title": "Emad Mostaque 谈 METR API key 泄露事件与评测机构的安全挑战",
-      "title_en": "Can you even imagine the nation state level attacks METR &amp； other eval orgs will come under？ Eva…",
-      "url": "https://x.com/EMostaque/status/2099394171291255177",
-      "permalink": "https://aihot.news/items/cmu0wkgu803j3ro2nbbtkxe6b",
-      "source": "X：Emad Mostaque (@EMostaque)",
-      "publishedAt": "2026-09-14T07:05:49.000Z",
-      "discoveredAt": "2026-09-14T07:09:39.790Z",
-      "summary": "攻击者窃取 METR 的 API key 并使用三周，消耗约 $600，000 额度；一个 fail-open bug 使公共 agent 仪表盘的 Google 认证失效，攻击者通过提示词让 agent 交出 key 并添加了 SSH 持久化。",
-      "category": "tip",
-      "score": 69,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu0wkgu803j3ro2nbbtkxe6b"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "提示词",
-        "agent"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     }
