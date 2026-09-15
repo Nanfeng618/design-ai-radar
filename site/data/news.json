@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-15T04:55:08.136Z",
-  "previousGeneratedAt": "2026-09-14T12:47:19.160Z",
+  "generatedAt": "2026-09-15T11:44:54.333Z",
+  "previousGeneratedAt": "2026-09-15T04:55:08.136Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 37,
+  "itemCount": 34,
   "sourceCounts": {
-    "公众号": 4,
-    "X": 23,
-    "网站": 10
+    "公众号": 3,
+    "X": 24,
+    "网站": 7
   },
   "source": {
     "name": "AI HOT",
@@ -127,33 +127,6 @@
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmu0o4kcb0405rox2zgvk08bp",
-      "title": "Meta 的 Muse 产品设计获好评",
-      "title_en": "we sweat every detail to make it easy for everyone to use muse！",
-      "url": "https://x.com/alexandr_wang/status/2099334215733264895",
-      "permalink": "https://aihot.news/items/cmu0o4kcb0405rox2zgvk08bp",
-      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-      "publishedAt": "2026-09-14T03:07:35.000Z",
-      "discoveredAt": "2026-09-14T03:13:18.967Z",
-      "summary": "我们死磕每一个细节，只为让每个人都能轻松使用 muse！\n\n【引用 @sarthakgh】：Muse 真的很棒--它的产品设计是我目前见过最用心的，能让那些根本不关心 AI 圈子的普通人轻松上手。",
-      "category": null,
-      "score": 18,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu0o4kcb0405rox2zgvk08bp"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 12,
-      "editorialScore": 16,
-      "tags": [
-        "产品设计",
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmu0v1sd70b0grouc6311o4q9",
@@ -321,33 +294,33 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmu25i26g04gpro9vg0eskdkn",
-      "title": "Vibe Design Agents 如何通过结构化设计规范实现创意探索",
-      "title_en": "Enabling Creative Exploration for Vibe Design Agents",
-      "url": "https://arxiv.org/abs/2609.15078",
-      "permalink": "https://aihot.news/items/cmu25i26g04gpro9vg0eskdkn",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-09-14T00:00:00.000Z",
-      "discoveredAt": "2026-09-15T04:07:29.370Z",
-      "summary": "研究提出一种推理架构，将设计方向作为显式中间决策，通过预生成带典型性评分的结构化设计规范、外部选择器采样、下游生成器在固定设置下实现所选规范，从而把探索与实现分离。",
+      "id": "cmu29hqe303nkrooy4jppxfnu",
+      "title": "阿里云谈 Wan3.0：AI 视频创作是迭代流程而非完美提示词",
+      "title_en": "The \"perfect prompt\" is mostly a myth. Real AI video workflows look much more like prototyping： 360p…",
+      "url": "https://x.com/alibaba_cloud/status/2099739260912091418",
+      "permalink": "https://aihot.news/items/cmu29hqe303nkrooy4jppxfnu",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-09-15T05:57:05.000Z",
+      "discoveredAt": "2026-09-15T05:59:13.752Z",
+      "summary": "阿里云 Johnny Mai 与 Venice AI 的 Jordan Urus 讨论 Wan3.0 如何进入真实创作流程，指出 AI 视频工作流更像原型迭代：360p → 480p → 720p → 1080p 逐步精修，而非依赖\"完美提示词\"。Wan3.0 已开放 API 访问，可通过 Model Studio 和 Qwen Cloud 接入。",
       "category": null,
-      "score": 43,
+      "score": 29,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu25i26g04gpro9vg0eskdkn"
+        "canonical": "https://aihot.news/items/cmu29hqe303nkrooy4jppxfnu"
       },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 11,
+      "editorialScore": 12,
       "tags": [
-        "vibe design",
-        "design",
-        "设计",
-        "创意"
+        "原型",
+        "工作流",
+        "视频",
+        "提示词"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmu1minli1546rocnj6lpzvsj",
@@ -377,6 +350,32 @@
         "skill"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmu2blxra0450ro25ecasijya",
+      "title": "腾讯混元发布 EvolveScaler 信息演化基准",
+      "title_en": "🚀 EvolveScaler is here. Read a 40-day RPG log. Now answer one question： if you skip the mini-boss …",
+      "url": "https://x.com/TencentHunyuan/status/2099748549281939558",
+      "permalink": "https://aihot.news/items/cmu2blxra0450ro25ecasijya",
+      "source": "X：腾讯混元 (@TencentHunyuan)",
+      "publishedAt": "2026-09-15T06:34:00.000Z",
+      "discoveredAt": "2026-09-15T06:58:28.735Z",
+      "summary": "腾讯混元推出 EvolveScaler，将世界定义为可执行状态机再渲染成自然语言，模拟记录被撤回、修正、回填的信息演化场景。该基准含 117 个原型、159 个问题算子、5 个难度层级，单样本最多约 1200 个事件；14 个前沿模型在最难层级上 avg@5 中位数降至 11.3，而用它训练可在 8 个分布外基准上平均提升 5.25。",
+      "category": null,
+      "score": 45,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu2blxra0450ro25ecasijya"
+      },
+      "sourceType": "X",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
+      "tags": [
+        "原型"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "cmu1jzgkl0t0drocnqv7t0tgg",
@@ -431,62 +430,6 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmu23cu0507ejrow2n99sdu9z",
-      "title": "BVB：用 Blender 程序化重建评测智能体视频理解能力",
-      "title_en": "BVB： Benchmarking Agentic Video Understanding via Programmatic Reconstruction in Blender",
-      "url": "https://arxiv.org/abs/2609.15478",
-      "permalink": "https://aihot.news/items/cmu23cu0507ejrow2n99sdu9z",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-09-14T00:00:00.000Z",
-      "discoveredAt": "2026-09-15T03:07:28.944Z",
-      "summary": "研究者推出 BVB（Blender-VideoBench）基准，要求智能体把真实视频重建为 Blender 动画场景，以程序化重建检验视频理解能力。评测覆盖 10 个模型家族的 51 种配置，最佳模型 Latent Similarity 达 88.6，但仅保留 53.7% 的源视频时空问答事实，增加推理能提升视觉相似度却无法缩小事实准确率差距。",
-      "category": null,
-      "score": 40,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu23cu0507ejrow2n99sdu9z"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视觉",
-        "视频",
-        "智能体"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmu0cb00k0g60roryhymk3ezb",
-      "title": "递归自我改进路线图论文：完整 RSI 尚未到来",
-      "title_en": "Beautiful roadmap paper on Recursive self-improvement. Concludes， we are already seeing pieces of R…",
-      "url": "https://x.com/rohanpaul_ai/status/2099246355785056273",
-      "permalink": "https://aihot.news/items/cmu0cb00k0g60roryhymk3ezb",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-13T21:18:27.000Z",
-      "discoveredAt": "2026-09-13T21:42:23.526Z",
-      "summary": "一篇递归自我改进（RSI）路线图论文指出，我们已看到 RSI 的零散雏形，但完整的递归自我改进尚未到来，多数所谓\"自我改进 AI\"只自动化了改进流程的部分环节。论文将进展划分为 5 个层级，从执行人类设计的改进到改变改进器、评估器或研究策略；低层级证据广泛，端到端 L5 证据仍局限于有界原型。",
-      "category": null,
-      "score": 39,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu0cb00k0g60roryhymk3ezb"
-      },
-      "sourceType": "X",
-      "designCategory": "设计工具",
-      "relevanceScore": 6,
-      "editorialScore": 11,
-      "tags": [
-        "原型",
-        "设计",
-        "自动化"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "cmu21t3h7054brow2g6bbr4w6",
@@ -623,33 +566,62 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmu0iow520q50rorykrqq21uu",
-      "title": "马斯克推荐 Grok Build 图像视频编辑工具",
-      "title_en": "Try Grok Build https://x.ai/build",
-      "url": "https://x.com/elonmusk/status/2099290373046599959",
-      "permalink": "https://aihot.news/items/cmu0iow520q50rorykrqq21uu",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "publishedAt": "2026-09-14T00:13:22.000Z",
-      "discoveredAt": "2026-09-14T00:41:11.328Z",
-      "summary": "马斯克发推推荐 Grok Build（x.ai/build），引用用户 @XFreeze 的使用体验称其能实际编辑图像和视频，而非仅生成内容。该用户表示可让 Grok Build 查找素材、剪辑片段、完成重复性编辑工作，还能将偏好的设计和工作流保存为技能（skills），大幅节省时间。",
+      "id": "cmu2k7igp06vxrovqvwys716r",
+      "title": "Showly 支持连接编程智能体并生成分享链接",
+      "title_en": "Showly now allows users to connect coding agents and give the agent-built work a shareable link. > …",
+      "url": "https://x.com/testingcatalog/status/2099812620895175119",
+      "permalink": "https://aihot.news/items/cmu2k7igp06vxrovqvwys716r",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "publishedAt": "2026-09-15T10:48:36.000Z",
+      "discoveredAt": "2026-09-15T10:59:13.020Z",
+      "summary": "Showly 现在允许用户连接编程智能体，并为智能体构建的作品生成可分享的链接。\n\n> 页面在公开并可被爬取之前，包含一个私密预览步骤。\n\n> 用户可将其连接至 Claude Code、Codex、Cursor、OpenClaw、Hermes 及其他兼容 MCP 的智能体。\n\n> 智能体发布任何内容都需请求人类许可。",
       "category": null,
-      "score": 48,
+      "score": 45,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu0iow520q50rorykrqq21uu"
+        "canonical": "https://aihot.news/items/cmu2k7igp06vxrovqvwys716r"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
       "tags": [
-        "设计",
-        "工作流",
-        "视频",
-        "图像"
+        "codex",
+        "claude code",
+        "agent",
+        "智能体"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmu2c3xe804qmro25lsfef9wi",
+      "title": "Glasser 推出 40+ 数据源统一 API，按调用付费",
+      "title_en": "An agent may need five data sources for a single task. Paying five monthly subscriptions for that ge…",
+      "url": "https://x.com/kimmonismus/status/2099751820575101429",
+      "permalink": "https://aihot.news/items/cmu2c3xe804qmro25lsfef9wi",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-09-15T06:47:00.000Z",
+      "discoveredAt": "2026-09-15T07:12:23.658Z",
+      "summary": "Glasser 通过一个 API key 提供 40+ 数据供应商、1，900+ 端点，按调用计费，替代多个月度订阅。它面向数据需求随任务变化的 AI 智能体，可接入 Claude Code、Codex、Grok Bot 或 Muse，只需发送一行 SKILL.md 配置指令。",
+      "category": null,
+      "score": 36,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu2c3xe804qmro25lsfef9wi"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "codex",
+        "claude code",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmu239byo077urow2fcr1ua0u",
@@ -761,29 +733,31 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmu0hln0i0p3crory2rhuv090",
-      "title": "AI导演DiDi_OK专访：用Seedance 2.5打造新作《糖果》，聊聊模型如何吞掉工作流",
-      "title_en": "那个拍出神作《牌子》的AI导演，带着他的巅峰之作回来了。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686222&idx=1&sn=2b570842f213cc90ddaa3603ab7746ab",
-      "permalink": "https://aihot.news/items/cmu0hln0i0p3crory2rhuv090",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-09-14T00:08:00.000Z",
-      "discoveredAt": "2026-09-14T00:10:41.029Z",
-      "summary": "自媒体作者专访AI影像创作者DiDi_OK，聊其用Seedance 2.5制作的新片《糖果》及此前B站播放2000万的《牌子》。DiDi_OK认为Seedance 2.5在运动规律和高度定制化上跨时代升级，让他做出几乎百分百纯AI的片子，省掉约60%叙事成本，参考图重要性下降、提示词作用上升；他还谈到AI时代创作本质在于取舍判断，模型变强后自己反而更痛苦，表达成本越低，平庸越没有借口。",
+      "id": "cmu2lqodj08k0rovqocv9r3z3",
+      "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能",
+      "title_en": "1Password's AI patching benchmark is misleading",
+      "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
+      "permalink": "https://aihot.news/items/cmu2lqodj08k0rovqocv9r3z3",
+      "source": "Trail of Bits：AI安全研究",
+      "publishedAt": "2026-09-15T11:00:00.000Z",
+      "discoveredAt": "2026-09-15T11:42:07.572Z",
+      "summary": "Trail of Bits 发文批评 1Password 8月6日发布的 FLAWED 报告，称其 26% 的 AI 干净修复率受四项实验设计选择影响而失真，包括刻意指示智能体应用错误修复的提示词占 22% 数据、36% 的试验禁止编译测试，以及不同推理档位设置。",
       "category": "tip",
-      "score": 58,
-      "selected": false,
+      "score": 60,
+      "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu0hln0i0p3crory2rhuv090"
+        "canonical": "https://aihot.news/items/cmu2lqodj08k0rovqocv9r3z3"
       },
-      "sourceType": "公众号",
+      "sourceType": "网站",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
+      "relevanceScore": 7,
+      "editorialScore": 8,
       "tags": [
-        "工作流",
-        "提示词"
+        "设计",
+        "提示词",
+        "agent",
+        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -873,55 +847,26 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmu0lt2cz02whrocu8etqz4ih",
-      "title": "LangChain 如何构建付费媒体智能体",
-      "title_en": "How We Built LangChain's Paid Media Agent",
-      "url": "https://www.langchain.com/blog/paid-media-agent",
-      "permalink": "https://aihot.news/items/cmu0lt2cz02whrocu8etqz4ih",
-      "source": "LangChain：Blog（RSS）",
-      "publishedAt": "2026-09-14T02:05:46.000Z",
-      "discoveredAt": "2026-09-14T02:08:26.644Z",
-      "summary": "LangChain 构建了一个付费媒体智能体，用于分析广告投放表现、优化广告、提出调整建议，并把营销数据转化为可执行动作。该智能体面向广告投放场景，覆盖从数据分析到行动建议的完整链路。",
+      "id": "cmu2j4xyl05v8rovq1utaa5q1",
+      "title": "PixVerse 涩谷十字路口护友演示",
+      "title_en": "Just defended my girl from a drunk salaryman at Shibuya Crossing Full prompt ↓",
+      "url": "https://x.com/PixVerse/status/2099804381977976927",
+      "permalink": "https://aihot.news/items/cmu2j4xyl05v8rovq1utaa5q1",
+      "source": "X：PixVerse (@PixVerse)",
+      "publishedAt": "2026-09-15T10:15:51.000Z",
+      "discoveredAt": "2026-09-15T10:29:13.183Z",
+      "summary": "刚在涩谷十字路口从醉汉上班族手里护住了我的女孩 完整提示词 ↓",
       "category": null,
-      "score": 25,
+      "score": 7,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu0lt2cz02whrocu8etqz4ih"
+        "canonical": "https://aihot.news/items/cmu2j4xyl05v8rovq1utaa5q1"
       },
-      "sourceType": "网站",
-      "designCategory": "行业观察",
-      "relevanceScore": 8,
-      "editorialScore": 8,
-      "tags": [
-        "广告",
-        "营销",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmu23cu0407efrow29kbt6eil",
-      "title": "并非所有提示词都等价：面向多模态强化学习后训练的探索引导提示词脚手架",
-      "title_en": "Not All Prompts Are Equal： Exploration-Guided Prompt Scaffolding for Multimodal Reinforcement Post-Training",
-      "url": "https://arxiv.org/abs/2609.15051",
-      "permalink": "https://aihot.news/items/cmu23cu0407efrow29kbt6eil",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-09-14T00:00:00.000Z",
-      "discoveredAt": "2026-09-15T03:07:28.944Z",
-      "summary": "研究者提出探索引导的提示词脚手架框架，用于多模态大模型（MLLM）的在线强化学习后训练，其核心 Exploration Potential Score（EPS）可直接由 on-policy rollout 统计计算，无需额外开销。",
-      "category": null,
-      "score": 43,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu23cu0407efrow29kbt6eil"
-      },
-      "sourceType": "网站",
+      "sourceType": "X",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
+      "relevanceScore": 6,
+      "editorialScore": 7,
       "tags": [
         "提示词",
         "prompt"
@@ -1006,33 +951,6 @@
       "tags": [
         "提示词",
         "agent"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmu0km70g0sjyrory1ix2f1cz",
-      "title": "微软 Foundry 让长时运行智能体企业级落地",
-      "title_en": "Great example from @jeffhollan showing how Foundry makes long-running agents enterprise-ready， start…",
-      "url": "https://x.com/satyanadella/status/2099309030816813378",
-      "permalink": "https://aihot.news/items/cmu0km70g0sjyrory1ix2f1cz",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "publishedAt": "2026-09-14T01:27:30.000Z",
-      "discoveredAt": "2026-09-14T01:35:04.547Z",
-      "summary": "Satya Nadella 转发 Jeff Hollan 的演示，展示 Microsoft Foundry 如何让长时运行智能体具备企业级能力，从业务成果出发，将安全、安全护栏、可审计性和 FinOps 从一开始就构建进整个多智能体、多模型工作流。引用推文指出，Foundry 的可观测性与治理功能可回答智能体能访问什么、影响什么、数据流向何处、能否重建其行为以及能否控制与预算成本等问题。",
-      "category": null,
-      "score": 26,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu0km70g0sjyrory1ix2f1cz"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "工作流",
-        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     }
