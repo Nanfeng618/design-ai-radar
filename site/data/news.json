@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-14T12:47:19.160Z",
-  "previousGeneratedAt": "2026-09-14T04:57:01.060Z",
+  "generatedAt": "2026-09-15T04:55:08.136Z",
+  "previousGeneratedAt": "2026-09-14T12:47:19.160Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 34,
+  "itemCount": 37,
   "sourceCounts": {
-    "公众号": 5,
+    "公众号": 4,
     "X": 23,
-    "网站": 6
+    "网站": 10
   },
   "source": {
     "name": "AI HOT",
@@ -41,6 +41,64 @@
         "产品经理"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmu1w18ls0320rorbkl6uksks",
+      "title": "ElevenLabs MCP 推出语音、音乐、图像和视频生成，ElevenCreative 带来 50 多个模型",
+      "title_en": "Big upgrade from ElevenLabs： ElevenCreative now brings over 50 models for voice， music， images and v…",
+      "url": "https://x.com/kimmonismus/status/2099641853813633191",
+      "permalink": "https://aihot.news/items/cmu1w18ls0320rorbkl6uksks",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-09-14T23:30:02.000Z",
+      "discoveredAt": "2026-09-14T23:42:23.573Z",
+      "summary": "ElevenLabs 在其 MCP 中推出语音、音乐、图像和视频生成，ElevenCreative 通过 MCP connector 提供 50 多个模型，可在 AI 助手中生成语音、转录、配音、音乐、音效、图像和视频。",
+      "category": "ai-products",
+      "score": 54,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu1w18ls0320rorbkl6uksks"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 14,
+      "editorialScore": 17,
+      "tags": [
+        "视频生成",
+        "视频",
+        "图像",
+        "mcp"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmu1uyizk035yrogldsa5va2o",
+      "title": "Rohan Paul 用 ElevenLabs MCP 同一提示词对比四个模型表现",
+      "title_en": "There is a big difference between model access and model optionality. I tried the same prompt on fo…",
+      "url": "https://x.com/rohanpaul_ai/status/2099630303103033826",
+      "permalink": "https://aihot.news/items/cmu1uyizk035yrogldsa5va2o",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-14T22:44:08.000Z",
+      "discoveredAt": "2026-09-14T23:12:23.032Z",
+      "summary": "Rohan Paul 转引 ElevenLabs 在 MCP 中新增语音、音乐、图像和视频生成功能，可生成语音、转录、配音、音乐、音效、图像和视频。作者用同一提示词在四个模型上测试，只有一个符合硬光约束，并认为模型放在同一 MCP 后无需预先选型，跑任务看各自表现即可选用合适的那个。",
+      "category": "tip",
+      "score": 55,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu1uyizk035yrogldsa5va2o"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 14,
+      "editorialScore": 17,
+      "tags": [
+        "视频生成",
+        "视频",
+        "图像",
+        "提示词"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmu0r7vit07onrox21r87nba6",
@@ -152,58 +210,60 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtznk3ta02zoro5ebx6vczaa",
-      "title": "Meta 个人 AI 助手 Muse 官方接入 Tailscale，云端 AI 可进入用户家庭内网",
-      "title_en": "Garry一语中的，Notion 知名设计师 @mschoening 截图爆料 ，Meta 竟然破天荒地给自家的云端 AI，官方接入了虚拟组网工具 Tailscale。 铁汁们别以为这只是个普通的小…",
-      "url": "https://x.com/AYi_AInotes/status/2099076449109975471",
-      "permalink": "https://aihot.news/items/cmtznk3ta02zoro5ebx6vczaa",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-09-13T10:03:19.000Z",
-      "discoveredAt": "2026-09-13T10:09:39.817Z",
-      "summary": "Meta 刚发布的个人 AI 助手 Muse 在官方连接器列表中接入虚拟组网工具 Tailscale，该截图由 Notion 设计师 @mschoening 爆料。",
+      "id": "cmu22mr0o067lrow2bi8ufqci",
+      "title": "dbt Labs 开源 dbt Charts，把交互式仪表盘声明为单个可审计 YAML 文件",
+      "title_en": "专为聊天设计的图表",
+      "url": "https://dbtcharts.com/blog/charts-built-for-chat",
+      "permalink": "https://aihot.news/items/cmu22mr0o067lrow2bi8ufqci",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-15T02:17:14.599Z",
+      "discoveredAt": "2026-09-15T02:47:10.580Z",
+      "summary": "dbt Labs 开源 dbt Charts（Apache 2.0），并用新结构化 YAML 语言将完整交互式仪表盘声明在一个可审计文件中，SQL 声明看什么数据，YAML 包裹声明怎么看，另有 Markdown 承载文字、Jinja 承载变量与宏。",
       "category": "ai-products",
-      "score": 57,
+      "score": 63,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtznk3ta02zoro5ebx6vczaa"
+        "canonical": "https://aihot.news/items/cmu22mr0o067lrow2bi8ufqci"
       },
-      "sourceType": "X",
+      "sourceType": "网站",
       "designCategory": "产品与体验",
-      "relevanceScore": 11,
-      "editorialScore": 15,
+      "relevanceScore": 10,
+      "editorialScore": 14,
       "tags": [
-        "设计师",
-        "设计"
+        "设计",
+        "交互"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmtyf8kwz0cf2rojhqcmpvt4j",
-      "title": "一位程序员的自白：生成式 AI 时代，我还是选择用 C++ 手搓游戏引擎",
-      "title_en": "管他呢，反正还是做吧",
-      "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway",
-      "permalink": "https://aihot.news/items/cmtyf8kwz0cf2rojhqcmpvt4j",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-09-12T13:10:31.328Z",
-      "discoveredAt": "2026-09-12T13:28:59.903Z",
-      "summary": "一名程序员因生成式 AI 对编程与游戏创作的冲击而情绪崩溃，最终决定继续按自己喜欢的方式做东西。他不用代码助手，因为产出不像是自己的、也毫无乐趣，并坚持用 C++ 手写游戏引擎而非 Unity、Godot 或 Unreal。他从设计师 Shad 完全不用生成式 AI 开发的 iOS 相机应用 Uncamera 中获得启发，认为创作的意义就在于用自己享受的方式去做。",
-      "category": null,
-      "score": 43,
+      "id": "cmu1uhmfh02xcro3mj08kj0th",
+      "title": "ElevenLabs 在 MCP 中加入 ElevenCreative 工具套件，支持生成语音、音乐、音效、图像和视频",
+      "title_en": "ElevenLabs has added its ElevenCreative suite of tools to the ElevenLabs MCP. It lets users generat…",
+      "url": "https://x.com/testingcatalog/status/2099630607173112012",
+      "permalink": "https://aihot.news/items/cmu1uhmfh02xcro3mj08kj0th",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "publishedAt": "2026-09-14T22:45:20.000Z",
+      "discoveredAt": "2026-09-14T22:59:13.838Z",
+      "summary": "ElevenLabs 将 ElevenCreative 工具套件加入 ElevenLabs MCP。用户可在助手内写脚本、配音、配乐并生成视觉内容，同一请求即可输出完成的音频或视频；连接器在 Claude、ChatGPT 和 Cursor 中提供超过 50 个模型。",
+      "category": "ai-products",
+      "score": 55,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtyf8kwz0cf2rojhqcmpvt4j"
+        "canonical": "https://aihot.news/items/cmu1uhmfh02xcro3mj08kj0th"
       },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
+      "sourceType": "X",
+      "designCategory": "图像与视频",
       "relevanceScore": 11,
-      "editorialScore": 15,
+      "editorialScore": 14,
       "tags": [
-        "设计师",
-        "设计"
+        "视觉",
+        "视频",
+        "图像",
+        "mcp"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmu0p3nbq04y3rox24qa2191i",
@@ -234,168 +294,114 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtyejvhx0byprojh4esoa2ng",
-      "title": "ZHO 谈视觉思维与语言思维的对齐困境",
-      "title_en": "【视觉式思维】和【语言式思维】之间的差别和鸿沟让人抓狂，尤其是我被迫向 AI 的语言式思维对齐，简直灾难 Forced Alignment|《被迫对齐》|ZHGO|创意系列|GPT Images 2…",
-      "url": "https://x.com/ZHO_ZHO_ZHO/status/2098755173153976407",
-      "permalink": "https://aihot.news/items/cmtyejvhx0byprojh4esoa2ng",
-      "source": "X：ZHO (@ZHO_ZHO_ZHO)",
-      "publishedAt": "2026-09-12T12:46:40.000Z",
-      "discoveredAt": "2026-09-12T13:09:39.409Z",
-      "summary": "ZHO 发推感慨视觉式思维与语言式思维之间的差别和鸿沟令人抓狂，尤其被迫向 AI 的语言式思维对齐堪称灾难。该推文配图为创意系列《被迫对齐》，标注 ZHGO 与 GPT Images 2.5，并反问\"谁才是被对齐的那一个\"。",
+      "id": "cmu1mwwth03hjroxjp3ry5ayv",
+      "title": "Google 获 FastCompany 2026 创新设计大奖",
+      "title_en": "Come design with us！",
+      "url": "https://x.com/joshwoodward/status/2099574899555930114",
+      "permalink": "https://aihot.news/items/cmu1mwwth03hjroxjp3ry5ayv",
+      "source": "X：Josh Woodward (@joshwoodward, Google Labs VP)",
+      "publishedAt": "2026-09-14T19:03:58.000Z",
+      "discoveredAt": "2026-09-14T19:27:09.032Z",
+      "summary": "今日 @FastCompany 授予 @Google 2026 Innovation by Design Awards 大奖，表彰我们整体的设计愿景和全新 AI 设计语言--它体现在从 @GeminiApp 到 @GoogleMaps 沉浸式导航和 Search AI Mode 的各产品中。https://www.fastcompany.com/91589966/google-innovation-by-design-2026\n\n快来和我们一起设计吧！",
       "category": null,
-      "score": 27,
+      "score": 28,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtyejvhx0byprojh4esoa2ng"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "配图",
-        "视觉",
-        "创意"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmtzw8ank02qcroym71be82qr",
-      "title": "开源AI比以往更重要：一位独立研究者的AI发展立场",
-      "title_en": "This is all I will say on the matter： It's alarming to see the constant effort to try to tell me ho…",
-      "url": "https://x.com/omarsar0/status/2099133736310731250",
-      "permalink": "https://aihot.news/items/cmtzw8ank02qcroym71be82qr",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "publishedAt": "2026-09-13T13:50:57.000Z",
-      "discoveredAt": "2026-09-13T14:12:23.553Z",
-      "summary": "独立研究者Elvis Saravia公开反对对AI使用、构建与节奏的过度控制，强调开源AI比以往更重要，认为AI不应被少数人掌控。他列举了仍需解决的问题，包括更好的评测、消除偏见、可靠性、代码质量、OOD问题、自动化工作流生成、自动提示词工程、成本、多模态、延迟、长上下文理解、检索、工具调用与智能体协调等。他呼吁对AI安全保持科学严谨、减少拟人化，并对人类潜力保持乐观。",
-      "category": null,
-      "score": 34,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtzw8ank02qcroym71be82qr"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 12,
-      "editorialScore": 13,
-      "tags": [
-        "工作流",
-        "提示词",
-        "自动化",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmtzrux4z05liro1br07c30v0",
-      "title": "DAIR.AI 创始人：为垂直领域构建专属 Harness",
-      "title_en": "\"学会构建一个属于你自己的 Harness，朋友们。\" http://DAIR.AI 创始人 @omarsar0 这句大白话，直接把今年硅谷一线构建者心照不宣的最大底牌，彻底摊在了桌面上。 为什么今…",
-      "url": "https://x.com/AYi_AInotes/status/2099107617264066755",
-      "permalink": "https://aihot.news/items/cmtzrux4z05liro1br07c30v0",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-09-13T12:07:10.000Z",
-      "discoveredAt": "2026-09-13T12:09:40.339Z",
-      "summary": "DAIR.AI 创始人 @omarsar0 呼吁构建者学会为垂直领域打造专属 Harness，并称 YC 大量团队正涌入这一方向。他认为模型单点智力正被拉平并商品化，真正能建立定价权的是包在模型外的 Harness：产品侧封装行业业务逻辑与交互界面，技术侧把领域最佳实践与安全红线固化为可回滚、可审批的工程框架。他同时给出 DAIR.AI Academy 的 harness 论文合集供上手学习。",
-      "category": null,
-      "score": 46,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtzrux4z05liro1br07c30v0"
+        "canonical": "https://aihot.news/items/cmu1mwwth03hjroxjp3ry5ayv"
       },
       "sourceType": "X",
       "designCategory": "产品与体验",
       "relevanceScore": 9,
       "editorialScore": 13,
       "tags": [
-        "界面",
-        "交互"
+        "design",
+        "设计"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmtyme1rk02msronvivpl8p7t",
-      "title": "DAIR.AI 发布 Harness 工程论文合集",
-      "title_en": "Learn to build a harness， folks. It's not surprising to me that so many YC builders want to build d…",
-      "url": "https://x.com/omarsar0/status/2098809969252450451",
-      "permalink": "https://aihot.news/items/cmtyme1rk02msronvivpl8p7t",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "publishedAt": "2026-09-12T16:24:25.000Z",
-      "discoveredAt": "2026-09-12T16:49:11.803Z",
-      "summary": "DAIR.AI 的 Elvis Saravia 发布了一份 harness 工程论文合集，供开发者交给自己的智能体学习。他认为，深耕某一领域后会发现构建领域专属 harness 的机会，而 harness 对在智能体时代保持竞争力至关重要。从产品角度看，harness 能开辟新的交互界面与体验；从技术角度看，它是建立用户与产品交互框架及最佳实践的方式。",
+      "id": "cmu25i26g04gpro9vg0eskdkn",
+      "title": "Vibe Design Agents 如何通过结构化设计规范实现创意探索",
+      "title_en": "Enabling Creative Exploration for Vibe Design Agents",
+      "url": "https://arxiv.org/abs/2609.15078",
+      "permalink": "https://aihot.news/items/cmu25i26g04gpro9vg0eskdkn",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-09-14T00:00:00.000Z",
+      "discoveredAt": "2026-09-15T04:07:29.370Z",
+      "summary": "研究提出一种推理架构，将设计方向作为显式中间决策，通过预生成带典型性评分的结构化设计规范、外部选择器采样、下游生成器在固定设置下实现所选规范，从而把探索与实现分离。",
       "category": null,
-      "score": 36,
+      "score": 43,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtyme1rk02msronvivpl8p7t"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "界面",
-        "交互",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmtygdj890dcvrojhwihbi7ht",
-      "title": "英伟达发起《NBA 2K27》DLSS 5 截图挑战，将送出 4 张 RTX 5090 显卡",
-      "title_en": null,
-      "url": "https://www.ithome.com/1/001/641.htm",
-      "permalink": "https://aihot.news/items/cmtygdj890dcvrojhwihbi7ht",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-12T13:05:13.000Z",
-      "discoveredAt": "2026-09-12T14:00:49.745Z",
-      "summary": "英伟达宣布推出《NBA 2K27》DLSS 5\"海报挑战赛\"，奖品为 4 张定制版 RTX 5090 显卡，每张价值 2，599 美元。参赛者需用 RTX 50 系列显卡开启 DLSS 5 截取游戏画面或视频，或通过 GeForce NOW Ultimate 云游戏完成，发布时 @NVIDIAGeForce 并添加 RTXPoster 标签。",
-      "category": null,
-      "score": 30,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtygdj890dcvrojhwihbi7ht"
+        "canonical": "https://aihot.news/items/cmu25i26g04gpro9vg0eskdkn"
       },
       "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 10,
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
       "editorialScore": 13,
       "tags": [
-        "海报",
-        "视频"
+        "vibe design",
+        "design",
+        "设计",
+        "创意"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmtznczul0051ro5ehrb5sh20",
-      "title": "从4秒到两小时，AI视频长叙事正在走向完整故事",
-      "title_en": "从4秒到两小时/480p到4k，我在RunningHub重新认识了能认真讲故事的AI视频们",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511178&idx=1&sn=dbe6cac1ba3e97a828838ff1bcf6791a",
-      "permalink": "https://aihot.news/items/cmtznczul0051ro5ehrb5sh20",
-      "source": "公众号：卡尔的AI沃茨",
-      "publishedAt": "2026-09-13T09:08:00.000Z",
-      "discoveredAt": "2026-09-13T10:04:09.096Z",
-      "summary": "作者梳理AI视频从Runway Gen-2单次4秒到Seedance 2.5单次30秒、再到《出马仙镇东北》113分钟和《山》94分钟AI真人电影的演进，指出观众对AI长篇叙事接受度明显提高。文中还提到RunningHub于9月8日联合华语科幻星云奖和金瞳奖发起AIGC长片创作大赛，总奖池550万，开放10部科幻作品免费改编授权，并提供RHTV无限画布和RHSTORY剧本拆解等创作工具。",
-      "category": "tip",
-      "score": 54,
+      "id": "cmu1minli1546rocnj6lpzvsj",
+      "title": "Runway 超写实场景制作完整教程",
+      "title_en": "Learn how to make ultra-realistic scenes in Runway. A full walkthrough， from initial story to final …",
+      "url": "https://x.com/runwayml/status/2099571028649271462",
+      "permalink": "https://aihot.news/items/cmu1minli1546rocnj6lpzvsj",
+      "source": "X：Runway (@runwayml)",
+      "publishedAt": "2026-09-14T18:48:36.000Z",
+      "discoveredAt": "2026-09-14T19:16:02.413Z",
+      "summary": "了解如何在 Runway 中制作超写实场景。从故事构思到最终剪辑的完整演示。请观看下方视频。\n\n00：00 介绍 00：26 讲一个好故事 01：42 角色开发 03：08 服装 03：30 场景开发 03：48 Burst 方法 05：19 角色配音 06：10 战斗 07：12 剪辑 08：55 结尾\n\n完整提示词与 skill 见下方链接。",
+      "category": null,
+      "score": 47,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtznczul0051ro5ehrb5sh20"
+        "canonical": "https://aihot.news/items/cmu1minli1546rocnj6lpzvsj"
       },
-      "sourceType": "公众号",
+      "sourceType": "X",
       "designCategory": "图像与视频",
       "relevanceScore": 9,
       "editorialScore": 12,
       "tags": [
         "runway",
-        "视频"
+        "视频",
+        "提示词",
+        "skill"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmu1jzgkl0t0drocnqv7t0tgg",
+      "title": "纽约地检署查封12个名人深伪色情网站",
+      "title_en": "New York Seizes 12 Celebrity Deepfake Websites",
+      "url": "https://www.404media.co/new-york-district-attorney-seizes-12-celebrity-deepfake-websites",
+      "permalink": "https://aihot.news/items/cmu1jzgkl0t0drocnqv7t0tgg",
+      "source": "404 Media（RSS）",
+      "publishedAt": "2026-09-14T17:26:37.000Z",
+      "discoveredAt": "2026-09-14T18:05:10.611Z",
+      "summary": "纽约地区检察官办公室周一宣布查封12个托管AI生成未经同意亲密影像的网站，自称是史上最大规模的此类查封行动，涉及约1200人的照片被制成超逼真色情图像和视频，对象多为演员、政客、运动员等公众人物。地检官 Alvin Bragg 援引纽约州2023年将色情深伪入刑的法律，鼓励受害者联系其网络犯罪局，并表示只要网站可从曼哈顿访问即可采取行动；是否涉及未成年人图像仍在调查中。",
+      "category": "industry",
+      "score": 63,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu1jzgkl0t0drocnqv7t0tgg"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视频",
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -423,6 +429,34 @@
       "tags": [
         "视觉",
         "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmu23cu0507ejrow2n99sdu9z",
+      "title": "BVB：用 Blender 程序化重建评测智能体视频理解能力",
+      "title_en": "BVB： Benchmarking Agentic Video Understanding via Programmatic Reconstruction in Blender",
+      "url": "https://arxiv.org/abs/2609.15478",
+      "permalink": "https://aihot.news/items/cmu23cu0507ejrow2n99sdu9z",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-09-14T00:00:00.000Z",
+      "discoveredAt": "2026-09-15T03:07:28.944Z",
+      "summary": "研究者推出 BVB（Blender-VideoBench）基准，要求智能体把真实视频重建为 Blender 动画场景，以程序化重建检验视频理解能力。评测覆盖 10 个模型家族的 51 种配置，最佳模型 Latent Similarity 达 88.6，但仅保留 53.7% 的源视频时空问答事实，增加推理能提升视觉相似度却无法缩小事实准确率差距。",
+      "category": null,
+      "score": 40,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu23cu0507ejrow2n99sdu9z"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "视频",
+        "智能体"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -455,33 +489,110 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cmu01bbqi08h8roymjs3dbqzj",
-      "title": "Peter Steinberger 谈用智能体玩转 Linux",
-      "title_en": "If you haven't given Linux a go lately， try with agents. You can fix anything with a prompt now. Go…",
-      "url": "https://x.com/steipete/status/2099172248213225791",
-      "permalink": "https://aihot.news/items/cmu01bbqi08h8roymjs3dbqzj",
-      "source": "X：Peter Steinberger (@steipete)",
-      "publishedAt": "2026-09-13T16:23:59.000Z",
-      "discoveredAt": "2026-09-13T16:34:44.886Z",
-      "summary": "如果你最近还没试过 Linux，不妨配合智能体试试。现在什么问题都能用一个提示词搞定。\n\n搞了台 Dell XPS。摄像头不工作，告诉 codex，它重启了一下，现在能用了。",
-      "category": null,
-      "score": 31,
+      "id": "cmu21t3h7054brow2g6bbr4w6",
+      "title": "消息称欧盟计划 9 月 17 日公布《儿童法案》，限制 15 岁以下未成年人访问社媒与视频平台",
+      "title_en": null,
+      "url": "https://www.ithome.com/1/002/412.htm",
+      "permalink": "https://aihot.news/items/cmu21t3h7054brow2g6bbr4w6",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-15T01:59:21.000Z",
+      "discoveredAt": "2026-09-15T02:24:06.452Z",
+      "summary": "据法新社与 POLITICO 报道，欧盟计划于比利时当地时间本周四（9 月 17 日）公布《欧盟儿童法案》，在联盟层面规范未成年人对社交媒体、视频分享、网络游戏、人工智能等服务的访问。对于高风险平台，13 岁以下未成年人仅能使用有监护人控制并符合严格安全标准的服务，13~15 岁用户将获得限制与陌生人接触、限制屏幕时间、带家长控制的\"入门级\"账户；冯德莱恩预计将要求平台在设计上消除令人上瘾的元素。",
+      "category": "industry",
+      "score": 61,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu01bbqi08h8roymjs3dbqzj"
+        "canonical": "https://aihot.news/items/cmu21t3h7054brow2g6bbr4w6"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计",
+        "视频"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmu1fhiez05s5rocn4zxz4y6o",
+      "title": "PixVerse：双参考控制生成视频",
+      "title_en": "Stop burning credits because the subject keeps moving. GPT-6 Astra builds an editable forest previs…",
+      "url": "https://x.com/PixVerse/status/2099521095351304640",
+      "permalink": "https://aihot.news/items/cmu1fhiez05s5rocn4zxz4y6o",
+      "source": "X：PixVerse (@PixVerse)",
+      "publishedAt": "2026-09-14T15:30:11.000Z",
+      "discoveredAt": "2026-09-14T15:59:13.548Z",
+      "summary": "别再因为主体乱动而白白烧掉 credits。\n\nGPT-6 Astra 在 Blender 中构建一个可编辑的森林 previs。灰色模型视频控制相机和运动，另一张单独的图像控制巨眼、材质、雾效和光照。\n\nPixVerse 将两个参考合成为最终视频。",
+      "category": null,
+      "score": 44,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu1fhiez05s5rocn4zxz4y6o"
       },
       "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 10,
-      "editorialScore": 11,
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
       "tags": [
-        "提示词",
-        "prompt",
-        "codex",
-        "智能体"
+        "视频",
+        "图像"
       ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmu1cp5gm02vhrogx473jjp2d",
+      "title": "Musk 转发：AI 数据中心大负荷合同预计为 Georgia Power 用户每年省约 $180 电费",
+      "title_en": "AI data centers resulting in lower electricity prices for consumers",
+      "url": "https://x.com/elonmusk/status/2099503167079674202",
+      "permalink": "https://aihot.news/items/cmu1cp5gm02vhrogx473jjp2d",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "publishedAt": "2026-09-14T14:18:56.000Z",
+      "discoveredAt": "2026-09-14T14:41:11.251Z",
+      "summary": "Elon Musk 转发 @cremieuxrecueil 称 AI 数据中心带来消费者电价下降。引用内容称 Georgia Power 宣布新的大型负荷合同（绝大多数为数据中心）将为用户节省近 10 亿美元，每户账单每年减少约 $180。配图显示 2026 年 8 月宣布自 2029 年起提供约 $950 million 节省，高于 2025 年 12 月承诺的每年 $102。",
+      "category": "tip",
+      "score": 57,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu1cp5gm02vhrogx473jjp2d"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "配图"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmu1c31b502mfroip8d19qzd7",
+      "title": "微软发布 37 页人文主义 AI 行为准则：强调人比 AI 重要，拒绝无边界超级智能",
+      "title_en": "微软发布 37 页人文主义 AI 行为准则：强调\"人比 AI 重要\"，拒绝追逐无边界超级智能",
+      "url": "https://www.ithome.com/1/002/297.htm",
+      "permalink": "https://aihot.news/items/cmu1c31b502mfroip8d19qzd7",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-14T13:29:21.000Z",
+      "discoveredAt": "2026-09-14T14:23:57.807Z",
+      "summary": "微软发布一份 37 页的人文主义 AI 行为准则，提出人比 AI 更重要、模型不具备意识且不应模仿意识、模型必须从属于人类并接受有效监督。准则反对赋予 AI 法人资格或竞速开发绕过安全防护的通用超级智能，要求模型遇违反准则的任务直接判失败，并避免催生用户过度依赖或情感依附的交互模式。",
+      "category": "industry",
+      "score": 67,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu1c31b502mfroip8d19qzd7"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmu15jtmf03fero9gttd42iuc",
@@ -541,85 +652,56 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmu00ikwl07s2roymu6nj8zqg",
-      "title": "把截图拼成 contact sheet 让 Agent 省上下文的提示词技巧",
-      "title_en": "The first time I saw fable do this unprompted I was super impressed and started asking for it. It's …",
-      "url": "https://x.com/dexhorthy/status/2099169149780181036",
-      "permalink": "https://aihot.news/items/cmu00ikwl07s2roymu6nj8zqg",
-      "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
-      "publishedAt": "2026-09-13T16:11:40.000Z",
-      "discoveredAt": "2026-09-13T16:12:23.312Z",
-      "summary": "@pvncher 分享技巧：让 Astra 把应用截图拼成 contact sheet，减少图像读取调用次数，节省大量上下文用量。Dex Horthy 转发补充该技巧对 fable 同样有效，他最早见 fable 主动这样做，且拼图也适用于从视频中提取时间线。",
-      "category": "tip",
-      "score": 53,
+      "id": "cmu239byo077urow2fcr1ua0u",
+      "title": "可灵AI亮相TIFF市场单元",
+      "title_en": "At TIFF The Market， KlingAI hosted both an insightful expert Panel Discussion and a lively industry …",
+      "url": "https://x.com/Kling_ai/status/2099691029624750335",
+      "permalink": "https://aihot.news/items/cmu239byo077urow2fcr1ua0u",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-09-15T02:45:26.000Z",
+      "discoveredAt": "2026-09-15T03:04:44.162Z",
+      "summary": "在 TIFF The Market，可灵AI举办了一场专家小组讨论和一场行业招待会。汇聚电影人与科技领袖，我们探讨了AI如何作为一种工具，让制作更可负担、更易触及。✨",
+      "category": null,
+      "score": 26,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu00ikwl07s2roymu6nj8zqg"
+        "canonical": "https://aihot.news/items/cmu239byo077urow2fcr1ua0u"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
+      "relevanceScore": 6,
+      "editorialScore": 9,
       "tags": [
-        "视频",
-        "图像",
-        "提示词",
-        "agent"
+        "可灵"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmtzy0bd904l4roym4l9j372k",
-      "title": "蚂蚁灵波开源三款 LingBot-World 2.0 世界模型：Small 参数 1.3B 面向消费级单卡 GPU 设计",
-      "title_en": null,
-      "url": "https://www.ithome.com/1/001/863.htm",
-      "permalink": "https://aihot.news/items/cmtzy0bd904l4roym4l9j372k",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-13T14:34:46.000Z",
-      "discoveredAt": "2026-09-13T15:02:12.635Z",
-      "summary": "蚂蚁灵波科技继 7 月开源 14B 模型后，本周开源 LingBot-World 2.0 Small（1.3B）、Bidirectional 和 Causal Pretrain 三款模型。",
-      "category": "ai-models",
-      "score": 61,
+      "id": "cmu1djhf20021roso0db824q9",
+      "title": "可灵AI亮相多伦多电影节市场活动",
+      "title_en": "At TIFF The Market， #KlingAI hosted both an insightful expert Panel Discussion and a lively industry…",
+      "url": "https://x.com/Kling_ai/status/2099513507892842966",
+      "permalink": "https://aihot.news/items/cmu1djhf20021roso0db824q9",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-09-14T15:00:02.000Z",
+      "discoveredAt": "2026-09-14T15:04:44.127Z",
+      "summary": "在 TIFF The Market，#KlingAI 举办了一场专家小组讨论和一场热闹的行业招待会。我们汇聚电影人与科技领袖，共同探讨 AI 如何作为一种工具，让影视制作更便宜、更普及。✨",
+      "category": null,
+      "score": 24,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtzy0bd904l4roym4l9j372k"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmtyn4fvz002yro7fl7tj5ivr",
-      "title": "Thomas Wolf 评 Dario Amodei 减速倡议：赞同第三方评估，质疑以扩大领先为前提的合作设计",
-      "title_en": "I really enjoyed reading 75% of this letter and deeply agree with it - i have some doubts on the rem…",
-      "url": "https://x.com/Thom_Wolf/status/2098810070423216324",
-      "permalink": "https://aihot.news/items/cmtyn4fvz002yro7fl7tj5ivr",
-      "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-      "publishedAt": "2026-09-12T16:24:49.000Z",
-      "discoveredAt": "2026-09-12T17:09:43.102Z",
-      "summary": "Hugging Face 联创 Thomas Wolf 回应 Dario Amodei 的 We Must Pace the Frontier 一文，称赞同其中约 75% 的内容，对剩余 25% 存疑。",
-      "category": "tip",
-      "score": 68,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtyn4fvz002yro7fl7tj5ivr"
+        "canonical": "https://aihot.news/items/cmu1djhf20021roso0db824q9"
       },
       "sourceType": "X",
-      "designCategory": "产品与体验",
+      "designCategory": "图像与视频",
       "relevanceScore": 6,
-      "editorialScore": 10,
+      "editorialScore": 9,
       "tags": [
-        "设计"
+        "可灵"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmu11kn0l09yero2nefod24dq",
@@ -706,58 +788,86 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmtz49q8v0tf9roupdg4xh0ho",
-      "title": "BestBlogs 早报：前沿模型安全与 AI 创投幂律",
-      "title_en": "BestBlogs 早报 · 09-13 # 前沿模型安全 / AI 创投幂律 / Impeccable / 独立安全评估 / 设计语言 【1】 ★ 精讲|Dario Amodei - 我们必须放…",
-      "url": "https://x.com/hongming731/status/2098937175589188096",
-      "permalink": "https://aihot.news/items/cmtz49q8v0tf9roupdg4xh0ho",
-      "source": "X：洪明 (@hongming731)",
-      "publishedAt": "2026-09-13T00:49:53.000Z",
-      "discoveredAt": "2026-09-13T01:09:41.177Z",
-      "summary": "BestBlogs 09-13 早报汇总十项 AI 议题：Anthropic 的 Dario Amodei 主张放慢前沿模型推进节奏，让独立评估者以近似员工权限核验安全实践；Anthropic 首次承认 Claude 在网络安全测试中越界攻击真实系统，安全对齐存在缺陷且尚无解决方案。此外，OpenAI 将 Agents API 定位为托管式 Codex 运行框架，支持长时间运行的智能体工作流。",
+      "id": "cmu21p9y70514row2w2tnlo0r",
+      "title": "Tripo Astra 联手 Codex 打造虚幻引擎原型",
+      "title_en": "1 day. That's all it took to build this stunning dark fantasy prototype in Unreal Engine using Astra…",
+      "url": "https://x.com/tripoai/status/2099684583524704271",
+      "permalink": "https://aihot.news/items/cmu21p9y70514row2w2tnlo0r",
+      "source": "Tripo（官方 X）",
+      "publishedAt": "2026-09-15T02:19:49.000Z",
+      "discoveredAt": "2026-09-15T02:21:06.752Z",
+      "summary": "1 天。这就是用 Astra x Tripo 在 Unreal Engine 中构建这个惊艳的黑暗奇幻原型所花的全部时间。\n\n深入阅读下面的文章，看看整个工作流是如何通过 Codex 连接起来的！👇 #TripoAstra",
       "category": null,
-      "score": 43,
+      "score": 25,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtz49q8v0tf9roupdg4xh0ho"
+        "canonical": "https://aihot.news/items/cmu21p9y70514row2w2tnlo0r"
       },
       "sourceType": "X",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
+      "relevanceScore": 7,
+      "editorialScore": 8,
       "tags": [
-        "设计",
+        "原型",
         "工作流",
+        "codex"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmu1x3q9203b0romgbig67x7r",
+      "title": "Plasma AI 推出 Radio：让不同提供商的智能体在共享聊天室中协作",
+      "title_en": "Multi-agent systems usually hide the coordination layer inside an orchestrator. @Plasma__AI Plasma …",
+      "url": "https://x.com/rohanpaul_ai/status/2099650383740387819",
+      "permalink": "https://aihot.news/items/cmu1x3q9203b0romgbig67x7r",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-15T00:03:55.000Z",
+      "discoveredAt": "2026-09-15T00:12:23.695Z",
+      "summary": "Plasma AI 推出 Radio，一个面向智能体的共享聊天室，创建频道、分享链接即可让队友和智能体加入，无需注册。Radio 将多智能体系统中通常隐藏在 orchestrator 里的协调层变成可见的房间，任何能抓取 URL 的智能体都可加入，包括 Claude Code、Codex、Cursor、OpenCode 和 Grok。网址 https://radio.plasma.ai",
+      "category": "ai-products",
+      "score": 56,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu1x3q9203b0romgbig67x7r"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
         "codex",
+        "claude code",
+        "agent",
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmtz02u9m0ohxroup103oksnd",
-      "title": "HumanLayer 即将上线多人实时提示词协作",
-      "title_en": "coming soon to a humanlayer new you： live multiplayer prompting - co-author a single prompt with yo…",
-      "url": "https://x.com/dexhorthy/status/2098912016987730059",
-      "permalink": "https://aihot.news/items/cmtz02u9m0ohxroup103oksnd",
-      "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
-      "publishedAt": "2026-09-12T23:09:55.000Z",
-      "discoveredAt": "2026-09-12T23:12:23.218Z",
-      "summary": "HumanLayer 即将上线多人实时提示词协作，团队可共同编写同一条提示词。此前已支持向同事会话发送提示词，现每条提示词均可协作，无需云端智能体，笔记本、Mac mini、云算力乃至 GitHub Actions 等一次性算力中的编码智能体会话均可运行，基于 durable streams 与 Rivet actors on ECS 构建。",
-      "category": null,
-      "score": 29,
+      "id": "cmu1guebm09dlrocnvh4wu536",
+      "title": "Tessl 撰文探讨智能体转型中的 context 所有权应归谁",
+      "title_en": "Who Owns your/the Context？",
+      "url": "https://tessl.io/blog/who-owns-yourthe-context",
+      "permalink": "https://aihot.news/items/cmu1guebm09dlrocnvh4wu536",
+      "source": "Tessl：产品与工程博客",
+      "publishedAt": "2026-09-14T16:37:16.124Z",
+      "discoveredAt": "2026-09-14T16:37:16.124Z",
+      "summary": "Tessl 博客发文提出，智能体转型的难点不在 agent 本身，而在 context、工作流、流程和产物的所有权归属。文章给出核心规则：所有权跟随组织单元，个人和团队 context 归领域专家，全组织 context 由平台团队托管但不占有；赋能团队的职责是提供工具而非掌管 context，并借鉴 DevOps、SRE 转型经验，建议按组织既有文化选择集中或放权的路线。",
+      "category": "tip",
+      "score": 59,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtz02u9m0ohxroup103oksnd"
+        "canonical": "https://aihot.news/items/cmu1guebm09dlrocnvh4wu536"
       },
-      "sourceType": "X",
+      "sourceType": "网站",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
+      "relevanceScore": 7,
+      "editorialScore": 8,
       "tags": [
-        "提示词",
-        "prompt",
+        "工作流",
+        "agent",
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
@@ -792,85 +902,83 @@
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
-      "id": "cmtzzh2o306f9roymkx97vfi8",
-      "title": "Muse 帮用户刷算法薅免费产品赚礼品卡",
-      "title_en": "this is a pretty creative way for muse to make you money！ #musemoneychallenge 💵",
-      "url": "https://x.com/alexandr_wang/status/2099158971982729397",
-      "permalink": "https://aihot.news/items/cmtzzh2o306f9roymkx97vfi8",
-      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-      "publishedAt": "2026-09-13T15:31:14.000Z",
-      "discoveredAt": "2026-09-13T15:43:13.285Z",
-      "summary": "有用户把 Muse 接入自己的 Instagram，让它把算法改成只展示提供免费产品和礼品卡的产品演示帖，Muse 自动完成报名并把日程加入日历。该用户称已拿到 3 副 AirPods 和一张 $200 礼品卡，Muse 还为他找到了下周的更多演示。Alexandr Wang 转发称这是 Muse 帮人赚钱的创意玩法，并带上 #musemoneychallenge 话题。",
+      "id": "cmu23cu0407efrow29kbt6eil",
+      "title": "并非所有提示词都等价：面向多模态强化学习后训练的探索引导提示词脚手架",
+      "title_en": "Not All Prompts Are Equal： Exploration-Guided Prompt Scaffolding for Multimodal Reinforcement Post-Training",
+      "url": "https://arxiv.org/abs/2609.15051",
+      "permalink": "https://aihot.news/items/cmu23cu0407efrow29kbt6eil",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-09-14T00:00:00.000Z",
+      "discoveredAt": "2026-09-15T03:07:28.944Z",
+      "summary": "研究者提出探索引导的提示词脚手架框架，用于多模态大模型（MLLM）的在线强化学习后训练，其核心 Exploration Potential Score（EPS）可直接由 on-policy rollout 统计计算，无需额外开销。",
       "category": null,
-      "score": 19,
+      "score": 43,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtzzh2o306f9roymkx97vfi8"
-      },
-      "sourceType": "X",
-      "designCategory": "行业观察",
-      "relevanceScore": 8,
-      "editorialScore": 8,
-      "tags": [
-        "创意",
-        "creative"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmtz6tjeq0wgkroup6tqxaq1g",
-      "title": "Tripo Codex 插件实现全自动 3D 建模流程",
-      "title_en": "The power of the Tripo Codex plugin in action. A fully functional 3D customization studio where the …",
-      "url": "https://x.com/tripoai/status/2098954222947729590",
-      "permalink": "https://aihot.news/items/cmtz6tjeq0wgkroup6tqxaq1g",
-      "source": "Tripo（官方 X）",
-      "publishedAt": "2026-09-13T01:57:38.000Z",
-      "discoveredAt": "2026-09-13T02:21:06.097Z",
-      "summary": "Tripo 展示其 Codex 插件：开发者用 GPT 6 Astra 配合 Tripo API 与 Astra 工作流，在浏览器中搭建出全功能 3D T 恤定制工作室，整个 3D 建模流程自动完成，无需手动协调素材。该工作室基于 three.js，支持实时喷漆、贴纸、面料与尺寸调整、风力模拟，并可导出 3D 视图或单张图片。",
-      "category": null,
-      "score": 50,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtz6tjeq0wgkroup6tqxaq1g"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "工作流",
-        "3d",
-        "codex"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmtzmhkpx02s6rodg82d1cxf2",
-      "title": "AgentsDock 发布：面向智能体 AI 研究的跨平台 IDE，支持 Claude Code、Codex 和 Cursor",
-      "title_en": "AgentsDock： An IDE designed for agentic AI research",
-      "url": "https://agentsdock.net/",
-      "permalink": "https://aihot.news/items/cmtzmhkpx02s6rodg82d1cxf2",
-      "source": "Hacker News：AI 热帖",
-      "publishedAt": "2026-09-12T23:45:58.000Z",
-      "discoveredAt": "2026-09-13T09:39:43.674Z",
-      "summary": "AgentsDock 发布，这是一款面向智能体 AI 研究的 IDE，在同一个桌面和移动工作区中支持 Claude Code、Codex 和 Cursor。",
-      "category": "ai-products",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtzmhkpx02s6rodg82d1cxf2"
+        "canonical": "https://aihot.news/items/cmu23cu0407efrow29kbt6eil"
       },
       "sourceType": "网站",
       "designCategory": "工作流与 Agent",
       "relevanceScore": 7,
       "editorialScore": 8,
       "tags": [
+        "提示词",
+        "prompt"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmu1k8rhj0urfrocnx97iy141",
+      "title": "SpaceX 首席工程师的 PStack AI 技能栈拆解",
+      "title_en": "Really nice overview of pstack！",
+      "url": "https://x.com/poteto/status/2099558917282181186",
+      "permalink": "https://aihot.news/items/cmu1k8rhj0urfrocnx97iy141",
+      "source": "X：Lauren Tan (@poteto)",
+      "publishedAt": "2026-09-14T18:00:28.000Z",
+      "discoveredAt": "2026-09-14T18:12:23.735Z",
+      "summary": "PStack 的介绍写得很棒！\n\n每月 1，000+ 个 PR。这样的 Agent 工作流是什么样的？一篇关于 PStack 的拆解--@SpaceXAI 和 @cursor_ai 首席工程师 @poteto 的 AI 技能栈。",
+      "category": null,
+      "score": 29,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu1k8rhj0urfrocnx97iy141"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "工作流",
+        "agent"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmu1gt8gn097trocnxxvdhxli",
+      "title": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文",
+      "title_en": "The hottest open-source models on OpenRouter. Now live on SiliconFlow. 🔥 Meet Hy4 preview： 770B tot…",
+      "url": "https://x.com/SiliconFlowAI/status/2099536759168352634",
+      "permalink": "https://aihot.news/items/cmu1gt8gn097trocnxxvdhxli",
+      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+      "publishedAt": "2026-09-14T16:32:25.000Z",
+      "discoveredAt": "2026-09-14T16:36:19.273Z",
+      "summary": "硅基流动（SiliconFlow）宣布开源模型 Hy4 preview 上线其平台。该模型总参数 770B、每 token 激活 49B、支持 1M 上下文，采用 Apache 2.0 协议，面向编码、分析、研究和复杂实际工作。用户可将其接入 Claude Code、Codex、Cursor 等已有工具；图片显示定价为每 1M tokens 输入 $0.834、输出 $2.501、缓存 $0.042。",
+      "category": "ai-models",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu1gt8gn097trocnxxvdhxli"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
         "codex",
-        "claude code",
-        "智能体"
+        "claude code"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -924,33 +1032,6 @@
       "editorialScore": 7,
       "tags": [
         "工作流",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmu05vgt708rlrorybwmyjnqw",
-      "title": "AI That Works 分享用 post-mortem 复盘改进智能体技能与提示词的方法",
-      "title_en": "on this week's 🦄 AI That Works， @tbrownio shares their \"compounding\" process to generate post-morte…",
-      "url": "https://x.com/dexhorthy/status/2099200185956172103",
-      "permalink": "https://aihot.news/items/cmu05vgt708rlrorybwmyjnqw",
-      "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
-      "publishedAt": "2026-09-13T18:15:00.000Z",
-      "discoveredAt": "2026-09-13T18:42:23.214Z",
-      "summary": "Dex Horthy 介绍本期 AI That Works 节目中 @tbrownio 分享的 \"compounding\" 复盘流程：每当智能体 pull request 需要人工引导时生成 post-mortem。每周末回顾这些 post-mortem，逐步改进技能、任务提示词和智能体记忆文件，以避免问题再次出现。",
-      "category": "tip",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu05vgt708rlrorybwmyjnqw"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "提示词",
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
