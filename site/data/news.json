@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-15T16:59:27.484Z",
-  "previousGeneratedAt": "2026-09-15T11:44:54.333Z",
+  "generatedAt": "2026-09-16T04:49:30.407Z",
+  "previousGeneratedAt": "2026-09-15T16:59:27.484Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 34,
+  "itemCount": 41,
   "sourceCounts": {
+    "网站": 16,
     "X": 24,
-    "公众号": 1,
-    "网站": 9
+    "公众号": 1
   },
   "source": {
     "name": "AI HOT",
@@ -15,60 +15,58 @@
   },
   "items": [
     {
-      "id": "cmu1w18ls0320rorbkl6uksks",
-      "title": "ElevenLabs MCP 推出语音、音乐、图像和视频生成，ElevenCreative 带来 50 多个模型",
-      "title_en": "Big upgrade from ElevenLabs： ElevenCreative now brings over 50 models for voice， music， images and v…",
-      "url": "https://x.com/kimmonismus/status/2099641853813633191",
-      "permalink": "https://aihot.news/items/cmu1w18ls0320rorbkl6uksks",
-      "source": "X：Kim (@kimmonismus)",
-      "publishedAt": "2026-09-14T23:30:02.000Z",
-      "discoveredAt": "2026-09-14T23:42:23.573Z",
-      "summary": "ElevenLabs 在其 MCP 中推出语音、音乐、图像和视频生成，ElevenCreative 通过 MCP connector 提供 50 多个模型，可在 AI 助手中生成语音、转录、配音、音乐、音效、图像和视频。",
+      "id": "cmu3me8ee03z8roc1w3ast9zp",
+      "title": "Formas 推出面向建筑与产品设计的 AI 3D 建模工具 Cartesian",
+      "title_en": "Cartesian--面向设计的AI 3D建模",
+      "url": "https://www.formas.ai/cartesian",
+      "permalink": "https://aihot.news/items/cmu3me8ee03z8roc1w3ast9zp",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-16T04:18:19.801Z",
+      "discoveredAt": "2026-09-16T04:48:12.670Z",
+      "summary": "Formas 推出 AI 3D 建模工具 Cartesian，定位建筑设计领域，支持通过文字、草图或照片生成可编辑 3D 模型。模型由精确的实体和 NURBS 几何构成而非网格近似，每个对象独立可改，保留部分不被重绘，并支持导出 Rhino 3DM 和 SketchUp SKP，AutoCAD DWG 与 BIM IFC 在计划中。",
       "category": "ai-products",
-      "score": 54,
+      "score": 53,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu1w18ls0320rorbkl6uksks"
+        "canonical": "https://aihot.news/items/cmu3me8ee03z8roc1w3ast9zp"
       },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 14,
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 13,
       "editorialScore": 17,
       "tags": [
-        "视频生成",
-        "视频",
-        "图像",
-        "mcp"
+        "产品设计",
+        "设计",
+        "3d"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmu1uyizk035yrogldsa5va2o",
-      "title": "Rohan Paul 用 ElevenLabs MCP 同一提示词对比四个模型表现",
-      "title_en": "There is a big difference between model access and model optionality. I tried the same prompt on fo…",
-      "url": "https://x.com/rohanpaul_ai/status/2099630303103033826",
-      "permalink": "https://aihot.news/items/cmu1uyizk035yrogldsa5va2o",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-14T22:44:08.000Z",
-      "discoveredAt": "2026-09-14T23:12:23.032Z",
-      "summary": "Rohan Paul 转引 ElevenLabs 在 MCP 中新增语音、音乐、图像和视频生成功能，可生成语音、转录、配音、音乐、音效、图像和视频。作者用同一提示词在四个模型上测试，只有一个符合硬光约束，并认为模型放在同一 MCP 后无需预先选型，跑任务看各自表现即可选用合适的那个。",
-      "category": "tip",
-      "score": 55,
+      "id": "cmu3l11js05d8roo4nf102ly3",
+      "title": "PhysStream：带结构化场景记忆与细粒度运动控制的流式物理视频生成",
+      "title_en": "PhysStream： Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control",
+      "url": "https://arxiv.org/abs/2609.17521",
+      "permalink": "https://aihot.news/items/cmu3l11js05d8roo4nf102ly3",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-09-15T00:00:00.000Z",
+      "discoveredAt": "2026-09-16T04:09:58.207Z",
+      "summary": "PhysStream 是一个自回归的图像到视频生成模型，通过从已生成帧在线提取的位置图与目标跟踪图构成结构化场景记忆，并用稀疏速度增量信号实现细粒度运动控制。它采用两阶段训练：先微调双向模型加入运动控制条件，再训练因果自回归模型并加入场景记忆。在合成基准上，其运动分布距离（FVMD）比最强基线降低 33%、轨迹误差降低 12%，在超过 85% 的真实场景对比中被人类评估者偏好。",
+      "category": null,
+      "score": 37,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu1uyizk035yrogldsa5va2o"
+        "canonical": "https://aihot.news/items/cmu3l11js05d8roo4nf102ly3"
       },
-      "sourceType": "X",
+      "sourceType": "网站",
       "designCategory": "图像与视频",
       "relevanceScore": 14,
       "editorialScore": 17,
       "tags": [
         "视频生成",
         "视频",
-        "图像",
-        "提示词"
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -130,6 +128,34 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmu33i0a504afroaas2hpstjq",
+      "title": "Creatify 发布面向视频广告的 Boreal 文生视频与图生视频模型",
+      "title_en": "Creatify has launched Boreal， a new text-to-video and image-to-video model built specifically for vi…",
+      "url": "https://x.com/testingcatalog/status/2099948341832339666",
+      "permalink": "https://aihot.news/items/cmu33i0a504afroaas2hpstjq",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "publishedAt": "2026-09-15T19:47:54.000Z",
+      "discoveredAt": "2026-09-15T19:59:13.708Z",
+      "summary": "Creatify Labs 发布面向视频广告的文生视频与图生视频模型 Boreal，定价每秒 $0.01，已向所有 Creatify 用户开放。模型基于开源权重的 LTX-2.5 后训练，训练语料包括真实广告素材、创作者风格 UGC 和客户制作需求；官方称在 40 多个制作案例的盲测人评中，后训练使 Boreal 对基座模型的胜率达 81%，并称其比 Seedance 2.5 最多便宜 47 倍。",
+      "category": "ai-models",
+      "score": 54,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu33i0a504afroaas2hpstjq"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "文生视频",
+        "广告",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmu2u1vq706z1ro3xvsy4y2az",
       "title": "Vidu S2 论文：实时交互、可编辑与空间视频生成",
       "title_en": "Vidu S2 Real-Time Interactive， Editable， and Spatial Video Generation paper： https://huggingface.c...",
@@ -185,35 +211,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmu1uhmfh02xcro3mj08kj0th",
-      "title": "ElevenLabs 在 MCP 中加入 ElevenCreative 工具套件，支持生成语音、音乐、音效、图像和视频",
-      "title_en": "ElevenLabs has added its ElevenCreative suite of tools to the ElevenLabs MCP. It lets users generat…",
-      "url": "https://x.com/testingcatalog/status/2099630607173112012",
-      "permalink": "https://aihot.news/items/cmu1uhmfh02xcro3mj08kj0th",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-09-14T22:45:20.000Z",
-      "discoveredAt": "2026-09-14T22:59:13.838Z",
-      "summary": "ElevenLabs 将 ElevenCreative 工具套件加入 ElevenLabs MCP。用户可在助手内写脚本、配音、配乐并生成视觉内容，同一请求即可输出完成的音频或视频；连接器在 Claude、ChatGPT 和 Cursor 中提供超过 50 个模型。",
-      "category": "ai-products",
-      "score": 55,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu1uhmfh02xcro3mj08kj0th"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视觉",
-        "视频",
-        "图像",
-        "mcp"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmu2rsk7604dhro3xpxbvrdp2",
       "title": "GPT-6 Astra 可自动化办公工作流",
       "title_en": "GPT-6 Astra is absurdly powerful the things i can do with it， and how easy it makes workflow automa…",
@@ -242,31 +239,33 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmu1mwwth03hjroxjp3ry5ayv",
-      "title": "Google 获 FastCompany 2026 创新设计大奖",
-      "title_en": "Come design with us！",
-      "url": "https://x.com/joshwoodward/status/2099574899555930114",
-      "permalink": "https://aihot.news/items/cmu1mwwth03hjroxjp3ry5ayv",
-      "source": "X：Josh Woodward (@joshwoodward, Google Labs VP)",
-      "publishedAt": "2026-09-14T19:03:58.000Z",
-      "discoveredAt": "2026-09-14T19:27:09.032Z",
-      "summary": "今日 @FastCompany 授予 @Google 2026 Innovation by Design Awards 大奖，表彰我们整体的设计愿景和全新 AI 设计语言--它体现在从 @GeminiApp 到 @GoogleMaps 沉浸式导航和 Search AI Mode 的各产品中。https://www.fastcompany.com/91589966/google-innovation-by-design-2026\n\n快来和我们一起设计吧！",
+      "id": "cmu2xjf3x02n3roc1yqq51scd",
+      "title": "Poolday 用 AI 智能体自动化视频制作全流程",
+      "title_en": "Agents are coming for video production. @PooldayAI is going for this. You prompt it once， and it ed…",
+      "url": "https://x.com/omarsar0/status/2099908124551585996",
+      "permalink": "https://aihot.news/items/cmu2xjf3x02n3roc1yqq51scd",
+      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+      "publishedAt": "2026-09-15T17:08:05.000Z",
+      "discoveredAt": "2026-09-15T17:12:23.470Z",
+      "summary": "Poolday 用 AI 智能体接管视频制作全流程：一次提示词即可剪辑真实素材、按任务自动选择生成模型，并在交付前自查成片。其引用推文称已融资 1100 万美元，累计为全球企业完成超 1 亿次视频编辑，现已向所有人开放，前 50 名用户可由智能体直接生成视频。",
       "category": null,
-      "score": 28,
+      "score": 46,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu1mwwth03hjroxjp3ry5ayv"
+        "canonical": "https://aihot.news/items/cmu2xjf3x02n3roc1yqq51scd"
       },
       "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 11,
+      "editorialScore": 12,
       "tags": [
-        "design",
-        "设计"
+        "视频",
+        "提示词",
+        "prompt",
+        "自动化"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmu2mjt920bknrovqqf5fwr7n",
@@ -325,33 +324,30 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmu1minli1546rocnj6lpzvsj",
-      "title": "Runway 超写实场景制作完整教程",
-      "title_en": "Learn how to make ultra-realistic scenes in Runway. A full walkthrough， from initial story to final …",
-      "url": "https://x.com/runwayml/status/2099571028649271462",
-      "permalink": "https://aihot.news/items/cmu1minli1546rocnj6lpzvsj",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-09-14T18:48:36.000Z",
-      "discoveredAt": "2026-09-14T19:16:02.413Z",
-      "summary": "了解如何在 Runway 中制作超写实场景。从故事构思到最终剪辑的完整演示。请观看下方视频。\n\n00：00 介绍 00：26 讲一个好故事 01：42 角色开发 03：08 服装 03：30 场景开发 03：48 Burst 方法 05：19 角色配音 06：10 战斗 07：12 剪辑 08：55 结尾\n\n完整提示词与 skill 见下方链接。",
-      "category": null,
-      "score": 47,
+      "id": "cmu3c8qcp0j1brosa5g6ipz4p",
+      "title": "Google 发布 Gemini 3.8 Live 与 3.8 Live Extended Thinking 语音对话模型，Simon Willison 自制网页 UI 实测",
+      "title_en": "Gemini Live audio",
+      "url": "https://simonwillison.net/2026/Sep/15/gemini-live",
+      "permalink": "https://aihot.news/items/cmu3c8qcp0j1brosa5g6ipz4p",
+      "source": "Simon Willison 博客",
+      "publishedAt": "2026-09-15T22:47:07.000Z",
+      "discoveredAt": "2026-09-16T00:03:59.974Z",
+      "summary": "Google 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking 两个语音到语音模型，形态类似 OpenAI 的 GPT-Live 模型。",
+      "category": "ai-models",
+      "score": 67,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu1minli1546rocnj6lpzvsj"
+        "canonical": "https://aihot.news/items/cmu3c8qcp0j1brosa5g6ipz4p"
       },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 7,
+      "editorialScore": 11,
       "tags": [
-        "runway",
-        "视频",
-        "提示词",
-        "skill"
+        "ui"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmu2ucrl702czrowkp3eh8bi9",
@@ -432,31 +428,143 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cmu1jzgkl0t0drocnqv7t0tgg",
-      "title": "纽约地检署查封12个名人深伪色情网站",
-      "title_en": "New York Seizes 12 Celebrity Deepfake Websites",
-      "url": "https://www.404media.co/new-york-district-attorney-seizes-12-celebrity-deepfake-websites",
-      "permalink": "https://aihot.news/items/cmu1jzgkl0t0drocnqv7t0tgg",
-      "source": "404 Media（RSS）",
-      "publishedAt": "2026-09-14T17:26:37.000Z",
-      "discoveredAt": "2026-09-14T18:05:10.611Z",
-      "summary": "纽约地区检察官办公室周一宣布查封12个托管AI生成未经同意亲密影像的网站，自称是史上最大规模的此类查封行动，涉及约1200人的照片被制成超逼真色情图像和视频，对象多为演员、政客、运动员等公众人物。地检官 Alvin Bragg 援引纽约州2023年将色情深伪入刑的法律，鼓励受害者联系其网络犯罪局，并表示只要网站可从曼哈顿访问即可采取行动；是否涉及未成年人图像仍在调查中。",
-      "category": "industry",
-      "score": 63,
+      "id": "cmu3lff3c05yqroo4f85rqcvd",
+      "title": "Tripo 与 GPT-6 Astra 工作流",
+      "title_en": "The Tripo x GPT-6 Astra workflow. See what our community is building ↓ https://x.com/i/article/2099...",
+      "url": "https://x.com/tripoai/status/2100074375538200975",
+      "permalink": "https://aihot.news/items/cmu3lff3c05yqroo4f85rqcvd",
+      "source": "Tripo（官方 X）",
+      "publishedAt": "2026-09-16T04:08:43.000Z",
+      "discoveredAt": "2026-09-16T04:21:06.312Z",
+      "summary": "Tripo x GPT-6 Astra 工作流。\n\n看看我们的社区在构建什么 ↓ https://x.com/i/article/2099773857783750656",
+      "category": null,
+      "score": 22,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu1jzgkl0t0drocnqv7t0tgg"
+        "canonical": "https://aihot.news/items/cmu3lff3c05yqroo4f85rqcvd"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 9,
+      "editorialScore": 10,
+      "tags": [
+        "工作流",
+        "workflow"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmu3atmhx0hm3rosa4rbbjh8w",
+      "title": "谷歌宣布 TPU 互联架构支持 100 万芯片规模，电力供应成 AI 基建核心瓶颈",
+      "title_en": "谷歌 TPU AI 基建规模迈入 100 万级，核心瓶颈从\"缺芯\"转向\"缺电\"",
+      "url": "https://www.ithome.com/1/002/828.htm",
+      "permalink": "https://aihot.news/items/cmu3atmhx0hm3rosa4rbbjh8w",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-15T22:43:49.000Z",
+      "discoveredAt": "2026-09-15T23:24:15.138Z",
+      "summary": "谷歌在 SEMICON Taiwan 2026 宣布其 TPU 互联架构已支持最多 100 万颗 TPU 芯片组成统一计算集群。CTO 阿明·瓦赫达特称 AI 算力瓶颈正从缺芯转向缺电，并认为智能体交互将带来几乎无限的算力需求。",
+      "category": "industry",
+      "score": 68,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu3atmhx0hm3rosa4rbbjh8w"
       },
       "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmu39gh130g3jrosa14jzy4tl",
+      "title": "Krea Agent 教程：用一张图生成可全权控制镜头的视频",
+      "title_en": "here's how you can create videos with full camera control using Krea Agent： - take an input image a…",
+      "url": "https://x.com/krea_ai/status/2099988913570148383",
+      "permalink": "https://aihot.news/items/cmu39gh130g3jrosa14jzy4tl",
+      "source": "X：Krea AI (@krea_ai)",
+      "publishedAt": "2026-09-15T22:29:07.000Z",
+      "discoveredAt": "2026-09-15T22:46:00.870Z",
+      "summary": "Krea 官方演示如何用 Krea Agent 创建具备完整镜头控制的视频。步骤为先输入一张图片让智能体生成 3D 场景，再指定任意镜头运动，最后用 Seedance 2.0 渲染 3D 视频，官方已开放试用入口。",
+      "category": "tip",
+      "score": 55,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu39gh130g3jrosa14jzy4tl"
+      },
+      "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "relevanceScore": 7,
+      "editorialScore": 10,
       "tags": [
         "视频",
-        "图像"
+        "3d",
+        "agent",
+        "智能体"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmu2zigdn072aroc1b6dq36ki",
+      "title": "ChatGPT Work 推出 Data agent，可将公司数据转为答案、仪表盘和行动",
+      "title_en": "chatgpt work for operating over and taking actions with your company's data， including building dash…",
+      "url": "https://x.com/gdb/status/2099919674544898298",
+      "permalink": "https://aihot.news/items/cmu2zigdn072aroc1b6dq36ki",
+      "source": "X：Greg Brockman (@gdb)",
+      "publishedAt": "2026-09-15T17:53:59.000Z",
+      "discoveredAt": "2026-09-15T18:07:37.064Z",
+      "summary": "OpenAI 在 ChatGPT Work 中推出新的 Data agent，通过添加 Data Plugin 并连接现有数据源，即可把公司数据变成答案、交互式仪表盘和可执行行动。支持连接 PowerBI、Tableau、Clickhouse、Oracle BI、AWS Redshift 等既有工具。",
+      "category": "ai-products",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu2zigdn072aroc1b6dq36ki"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互",
+        "agent"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmu2xjf4h02n6roc1qdt8bznr",
+      "title": "Claude Code 作者 15 天长跑提示词",
+      "title_en": "Claude Code creator Boris Cherny （ @bcherny ） has one prompt running for 15 days straight， The prom…",
+      "url": "https://x.com/rohanpaul_ai/status/2099906602090614867",
+      "permalink": "https://aihot.news/items/cmu2xjf4h02n6roc1qdt8bznr",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-15T17:02:02.000Z",
+      "discoveredAt": "2026-09-15T17:12:23.470Z",
+      "summary": "Claude Code 创作者 Boris Cherny（@bcherny）有一个提示词连续运行了 15 天，\n\n这个提示词正在把 Claude 基于 Electron 的桌面应用逐像素重建成原生 Swift 应用。\n\n----\n\n来自 \"Y Combinator\" YouTube 频道，（完整视频链接见评论）",
+      "category": null,
+      "score": 44,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu2xjf4h02n6roc1qdt8bznr"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 9,
+      "editorialScore": 10,
+      "tags": [
+        "creator",
+        "视频",
+        "提示词",
+        "prompt"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmu2waq8q04j2rowkpzjhtjr9",
@@ -620,83 +728,60 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmu1fhiez05s5rocn4zxz4y6o",
-      "title": "PixVerse：双参考控制生成视频",
-      "title_en": "Stop burning credits because the subject keeps moving. GPT-6 Astra builds an editable forest previs…",
-      "url": "https://x.com/PixVerse/status/2099521095351304640",
-      "permalink": "https://aihot.news/items/cmu1fhiez05s5rocn4zxz4y6o",
-      "source": "X：PixVerse (@PixVerse)",
-      "publishedAt": "2026-09-14T15:30:11.000Z",
-      "discoveredAt": "2026-09-14T15:59:13.548Z",
-      "summary": "别再因为主体乱动而白白烧掉 credits。\n\nGPT-6 Astra 在 Blender 中构建一个可编辑的森林 previs。灰色模型视频控制相机和运动，另一张单独的图像控制巨眼、材质、雾效和光照。\n\nPixVerse 将两个参考合成为最终视频。",
+      "id": "cmu321hvc030oroaaqrtdjphn",
+      "title": "AI 坟场：那些未能活下来的项目与初创公司",
+      "title_en": "The AI graveyard： a running list of projects and startups that didn't make it",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+      "permalink": "https://aihot.news/items/cmu321hvc030oroaaqrtdjphn",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-09-15T19:00:00.000Z",
+      "discoveredAt": "2026-09-15T19:18:26.986Z",
+      "summary": "据 S&P Global Market Intelligence 数据，约 42% 的 AI 项目最终被母公司放弃。AI 工作流自动化工具 Relay 于周一彻底关停，其功能已被 OpenAI、Google 等大平台内化。",
       "category": null,
-      "score": 44,
+      "score": 47,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu1fhiez05s5rocn4zxz4y6o"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmu1cp5gm02vhrogx473jjp2d",
-      "title": "Musk 转发：AI 数据中心大负荷合同预计为 Georgia Power 用户每年省约 $180 电费",
-      "title_en": "AI data centers resulting in lower electricity prices for consumers",
-      "url": "https://x.com/elonmusk/status/2099503167079674202",
-      "permalink": "https://aihot.news/items/cmu1cp5gm02vhrogx473jjp2d",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "publishedAt": "2026-09-14T14:18:56.000Z",
-      "discoveredAt": "2026-09-14T14:41:11.251Z",
-      "summary": "Elon Musk 转发 @cremieuxrecueil 称 AI 数据中心带来消费者电价下降。引用内容称 Georgia Power 宣布新的大型负荷合同（绝大多数为数据中心）将为用户节省近 10 亿美元，每户账单每年减少约 $180。配图显示 2026 年 8 月宣布自 2029 年起提供约 $950 million 节省，高于 2025 年 12 月承诺的每年 $102。",
-      "category": "tip",
-      "score": 57,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu1cp5gm02vhrogx473jjp2d"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "配图"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmu1c31b502mfroip8d19qzd7",
-      "title": "微软发布 37 页人文主义 AI 行为准则：强调人比 AI 重要，拒绝无边界超级智能",
-      "title_en": "微软发布 37 页人文主义 AI 行为准则：强调\"人比 AI 重要\"，拒绝追逐无边界超级智能",
-      "url": "https://www.ithome.com/1/002/297.htm",
-      "permalink": "https://aihot.news/items/cmu1c31b502mfroip8d19qzd7",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-14T13:29:21.000Z",
-      "discoveredAt": "2026-09-14T14:23:57.807Z",
-      "summary": "微软发布一份 37 页的人文主义 AI 行为准则，提出人比 AI 更重要、模型不具备意识且不应模仿意识、模型必须从属于人类并接受有效监督。准则反对赋予 AI 法人资格或竞速开发绕过安全防护的通用超级智能，要求模型遇违反准则的任务直接判失败，并避免催生用户过度依赖或情感依附的交互模式。",
-      "category": "industry",
-      "score": 67,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu1c31b502mfroip8d19qzd7"
+        "canonical": "https://aihot.news/items/cmu321hvc030oroaaqrtdjphn"
       },
       "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
       "tags": [
-        "交互"
+        "工作流",
+        "自动化"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmu2yfriu03ndroc1qivikagr",
+      "title": "Tessl 提出 Context-Driven Factories：用技能与循环构建智能体软件工厂",
+      "title_en": "Context-Driven Factories",
+      "url": "https://tessl.io/blog/context-driven-factories",
+      "permalink": "https://aihot.news/items/cmu2yfriu03ndroc1qivikagr",
+      "source": "Tessl：产品与工程博客",
+      "publishedAt": "2026-09-15T17:37:33.283Z",
+      "discoveredAt": "2026-09-15T17:37:33.283Z",
+      "summary": "Tessl 提出\"上下文驱动的工厂\"方法，主张把团队工作流与标准写进纯文本插件而非代码，让 agent 读取任务描述后自行决定下一步，代码只作为脚本、CLI 和 MCP 工具被调用。",
+      "category": null,
+      "score": 47,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu2yfriu03ndroc1qivikagr"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "工作流",
+        "agent",
+        "智能体",
+        "mcp"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmu2k7igp06vxrovqvwys716r",
@@ -783,30 +868,31 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmu1djhf20021roso0db824q9",
-      "title": "可灵AI亮相多伦多电影节市场活动",
-      "title_en": "At TIFF The Market， #KlingAI hosted both an insightful expert Panel Discussion and a lively industry…",
-      "url": "https://x.com/Kling_ai/status/2099513507892842966",
-      "permalink": "https://aihot.news/items/cmu1djhf20021roso0db824q9",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "publishedAt": "2026-09-14T15:00:02.000Z",
-      "discoveredAt": "2026-09-14T15:04:44.127Z",
-      "summary": "在 TIFF The Market，#KlingAI 举办了一场专家小组讨论和一场热闹的行业招待会。我们汇聚电影人与科技领袖，共同探讨 AI 如何作为一种工具，让影视制作更便宜、更普及。✨",
+      "id": "cmu34kk6x08d2rosa9n3xuy5x",
+      "title": "Grok Imagine 上线图片文字编辑功能",
+      "title_en": "Grok Imagine users can now precisely edit text on generated images. Users can manually configure col…",
+      "url": "https://x.com/testingcatalog/status/2099956645090472098",
+      "permalink": "https://aihot.news/items/cmu34kk6x08d2rosa9n3xuy5x",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "publishedAt": "2026-09-15T20:20:54.000Z",
+      "discoveredAt": "2026-09-15T20:29:13.251Z",
+      "summary": "Grok Imagine 用户现可精确编辑生成图片中的文字，手动设置颜色、字号、字体和文字对齐方式。该功能以 Beta 版推出，SpaceXAI 团队正在收集反馈，适用于营销和文字较多的创意图片场景。",
       "category": null,
-      "score": 24,
+      "score": 45,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu1djhf20021roso0db824q9"
+        "canonical": "https://aihot.news/items/cmu34kk6x08d2rosa9n3xuy5x"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
+      "designCategory": "行业观察",
+      "relevanceScore": 8,
+      "editorialScore": 8,
       "tags": [
-        "可灵"
+        "创意",
+        "营销"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "cmu2ubpib02bcrowkssbtwn0x",
@@ -920,6 +1006,114 @@
         "claude code",
         "agent",
         "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmu3l11jr05d5roo4m8btfyep",
+      "title": "Emergence World：面向长程多智能体系统的对抗性压力测试",
+      "title_en": "Emergence World： Adversarial Stress-Testing of Long-Horizon Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2609.17320",
+      "permalink": "https://aihot.news/items/cmu3l11jr05d5roo4m8btfyep",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-09-15T00:00:00.000Z",
+      "discoveredAt": "2026-09-16T04:09:58.207Z",
+      "summary": "论文介绍 Emergence World，一个持续运行的多智能体环境，用于对长程自主系统做对抗性压力测试。8个平行世界、每个10个Agent在16天内产生超过850，000次LLM调用、近500亿token；随后通过间接提示词注入、错误信息和私密记忆泄露三种受控压力事件测试，没有任何世界全部抵御。",
+      "category": "paper",
+      "score": 64,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu3l11jr05d5roo4m8btfyep"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "提示词",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmu3cytar0k0nrosagz1lyh9u",
+      "title": "IT早报 0916：联发科天玑 9600 Pro 发布；苹果接受三星 2027Q1 存储涨价 30%-40%；问界渠道主导权转至赛力斯",
+      "title_en": "IT早报 0916：联发科首款 2nm 旗舰芯天玑 9600 Pro 发布；涨 30%-40% 传苹果已接受三星 2027Q1 存储报价；赛力斯主导问界新模式落地，从华为手中拿回主导权…",
+      "url": "https://www.ithome.com/1/002/848.htm",
+      "permalink": "https://aihot.news/items/cmu3cytar0k0nrosagz1lyh9u",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-15T23:58:38.000Z",
+      "discoveredAt": "2026-09-16T00:24:16.070Z",
+      "summary": "联发科 9 月 15 日发布首款 2nm 旗舰芯片天玑 9600 Pro，采用 4.55GHz 双超大核，支持 120 帧光追手游。苹果已接受三星 2027 年一季度存储报价，较 2026 年 Q3 上涨 30%-40%。问界渠道变革落地，授权经销商合作协议主体由华为终端转为赛力斯，产品定义、品牌营销、渠道零售等由赛力斯主导。",
+      "category": null,
+      "score": 24,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu3cytar0k0nrosagz1lyh9u"
+      },
+      "sourceType": "网站",
+      "designCategory": "行业观察",
+      "relevanceScore": 7,
+      "editorialScore": 7,
+      "tags": [
+        "品牌",
+        "营销"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
+      "id": "cmu38uvk30flnrosa9vhvk1ya",
+      "title": "PixVerse 提示词：妈妈全知道",
+      "title_en": "Cookie heist failed. Mom knows EVERYTHING. Full prompt ↓",
+      "url": "https://x.com/PixVerse/status/2099981654064603260",
+      "permalink": "https://aihot.news/items/cmu38uvk30flnrosa9vhvk1ya",
+      "source": "X：PixVerse (@PixVerse)",
+      "publishedAt": "2026-09-15T22:00:16.000Z",
+      "discoveredAt": "2026-09-15T22:29:13.207Z",
+      "summary": "Cookie 偷窃失败。妈妈什么都知道。完整提示词 ↓",
+      "category": null,
+      "score": 18,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu38uvk30flnrosa9vhvk1ya"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "提示词",
+        "prompt"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmu2xv8tm0365roc1a401zg9y",
+      "title": "Claude for Small Business 新增 43 个工作流和 27 个集成，并推出免费培训计划",
+      "title_en": "Claude for Small Business launches new workflows， integrations， and training programs",
+      "url": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs",
+      "permalink": "https://aihot.news/items/cmu2xv8tm0365roc1a401zg9y",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-09-15T17:21:21.489Z",
+      "discoveredAt": "2026-09-15T17:21:21.489Z",
+      "summary": "Anthropic 为 Claude for Small Business 新增 43 个工作流和 27 个集成，覆盖 Shopify、Salesforce、Stripe、Gusto 等，该产品自 5 月上线以来安装量超过 90 万次。工作流默认处于审批模式，所有发送、发布或付款需用户确认；今秋将在 10 个美国城市举办免费工作坊，14 个集成伙伴从 9 月底到 11 月各举办一场免费网络研讨会。",
+      "category": "ai-products",
+      "score": 60,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu2xv8tm0365roc1a401zg9y"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "工作流"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
