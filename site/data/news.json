@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-16T04:49:30.407Z",
-  "previousGeneratedAt": "2026-09-15T16:59:27.484Z",
+  "generatedAt": "2026-09-16T11:34:23.206Z",
+  "previousGeneratedAt": "2026-09-16T04:49:30.407Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
   "itemCount": 41,
   "sourceCounts": {
-    "网站": 16,
+    "网站": 15,
     "X": 24,
-    "公众号": 1
+    "公众号": 2
   },
   "source": {
     "name": "AI HOT",
@@ -43,34 +43,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmu3l11js05d8roo4nf102ly3",
-      "title": "PhysStream：带结构化场景记忆与细粒度运动控制的流式物理视频生成",
-      "title_en": "PhysStream： Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control",
-      "url": "https://arxiv.org/abs/2609.17521",
-      "permalink": "https://aihot.news/items/cmu3l11js05d8roo4nf102ly3",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-09-15T00:00:00.000Z",
-      "discoveredAt": "2026-09-16T04:09:58.207Z",
-      "summary": "PhysStream 是一个自回归的图像到视频生成模型，通过从已生成帧在线提取的位置图与目标跟踪图构成结构化场景记忆，并用稀疏速度增量信号实现细粒度运动控制。它采用两阶段训练：先微调双向模型加入运动控制条件，再训练因果自回归模型并加入场景记忆。在合成基准上，其运动分布距离（FVMD）比最强基线降低 33%、轨迹误差降低 12%，在超过 85% 的真实场景对比中被人类评估者偏好。",
-      "category": null,
-      "score": 37,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu3l11js05d8roo4nf102ly3"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 14,
-      "editorialScore": 17,
-      "tags": [
-        "视频生成",
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmu2uxc8302x1rowkujqcfhtw",
       "title": "PixVerse Growth Studio 上线 Creative Variations",
       "title_en": "One product. More stories. Creative Variations is live in Growth Studio",
@@ -100,6 +72,33 @@
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
+      "id": "cmu3rz0fq0cylroc1u9ix3d9b",
+      "title": "彭博亿万富豪指数显示字节跳动创始人张一鸣首次成为亚洲首富",
+      "title_en": "AI 造富力度超越传统产业，字节跳动创始人张一鸣首次成为亚洲首富",
+      "url": "https://www.ithome.com/1/003/099.htm",
+      "permalink": "https://aihot.news/items/cmu3rz0fq0cylroc1u9ix3d9b",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-16T07:23:37.000Z",
+      "discoveredAt": "2026-09-16T07:24:18.870Z",
+      "summary": "彭博亿万富豪指数显示，字节跳动创始人张一鸣身家超过 1，050 亿美元（约合 7，063.18 亿元人民币），首次超越高塔姆·阿达尼成为亚洲首富。其财富来自 TikTok 的全球普及及字节跳动对 AI 的持续投入，产品包括豆包聊天机器人和视频生成模型 Seedance；本月其财富增加超 120 亿美元，而阿达尼身家自 6 月的 1，200 亿美元持续回落。",
+      "category": "industry",
+      "score": 66,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu3rz0fq0cylroc1u9ix3d9b"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmu2t7e9005xhro3xi5oq27e7",
       "title": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
       "title_en": "Vidu S2技术解析：实时编辑、实时交互、探索空间视频",
@@ -123,6 +122,61 @@
       "tags": [
         "视频生成",
         "交互",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmu3yy82j0kttroc1k2tdpmgf",
+      "title": "YouMind 宠物照片视频生成技能",
+      "title_en": "if you want to create your own 👇 https://youmind.com/skills/pet-photo-video-generator-Kg7LxtExQ7UIw...",
+      "url": "https://x.com/lifesinger/status/2100167941404885362",
+      "permalink": "https://aihot.news/items/cmu3yy82j0kttroc1k2tdpmgf",
+      "source": "X：Frank Wang 玉伯 (@lifesinger)",
+      "publishedAt": "2026-09-16T10:20:31.000Z",
+      "discoveredAt": "2026-09-16T10:39:39.421Z",
+      "summary": "如果你想创建自己的 👇 https://youmind.com/skills/pet-photo-video-generator-Kg7LxtExQ7UIwz",
+      "category": null,
+      "score": 35,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu3yy82j0kttroc1k2tdpmgf"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmu3r2qxt0buxroc1srs901l8",
+      "title": "阿里云 Wan3.0 视频模型发布：从 2.1 到 3.0 的跨越",
+      "title_en": "Wan3.0 isn't an incremental update. Look at the last year of releases： Wan 2.1 → 2.2 → 3.0 That's mo…",
+      "url": "https://x.com/alibaba_cloud/status/2100109857848181036",
+      "permalink": "https://aihot.news/items/cmu3r2qxt0buxroc1srs901l8",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-09-16T06:29:42.000Z",
+      "discoveredAt": "2026-09-16T06:59:13.573Z",
+      "summary": "阿里云发布视频生成模型 Wan3.0，官方称其并非增量更新，而是从 Wan 2.1、2.2 到 3.0 的跨代跃升，在运动参考、一致性、创意控制和分辨率上均有提升。官方表示每一步都让模型对创作者、电影人和叙事者更友好，并称工具终于不再妨碍讲故事的人。Wan3.0 已开放 API 接入，可通过 Model Studio 和 Qwen Cloud 使用。",
+      "category": null,
+      "score": 39,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu3r2qxt0buxroc1srs901l8"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "创意",
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
@@ -182,33 +236,6 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmu22mr0o067lrow2bi8ufqci",
-      "title": "dbt Labs 开源 dbt Charts，把交互式仪表盘声明为单个可审计 YAML 文件",
-      "title_en": "专为聊天设计的图表",
-      "url": "https://dbtcharts.com/blog/charts-built-for-chat",
-      "permalink": "https://aihot.news/items/cmu22mr0o067lrow2bi8ufqci",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-09-15T02:17:14.599Z",
-      "discoveredAt": "2026-09-15T02:47:10.580Z",
-      "summary": "dbt Labs 开源 dbt Charts（Apache 2.0），并用新结构化 YAML 语言将完整交互式仪表盘声明在一个可审计文件中，SQL 声明看什么数据，YAML 包裹声明怎么看，另有 Markdown 承载文字、Jinja 承载变量与宏。",
-      "category": "ai-products",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu22mr0o067lrow2bi8ufqci"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 10,
-      "editorialScore": 14,
-      "tags": [
-        "设计",
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmu2rsk7604dhro3xpxbvrdp2",
@@ -295,33 +322,31 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmu29hqe303nkrooy4jppxfnu",
-      "title": "阿里云谈 Wan3.0：AI 视频创作是迭代流程而非完美提示词",
-      "title_en": "The \"perfect prompt\" is mostly a myth. Real AI video workflows look much more like prototyping： 360p…",
-      "url": "https://x.com/alibaba_cloud/status/2099739260912091418",
-      "permalink": "https://aihot.news/items/cmu29hqe303nkrooy4jppxfnu",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "publishedAt": "2026-09-15T05:57:05.000Z",
-      "discoveredAt": "2026-09-15T05:59:13.752Z",
-      "summary": "阿里云 Johnny Mai 与 Venice AI 的 Jordan Urus 讨论 Wan3.0 如何进入真实创作流程，指出 AI 视频工作流更像原型迭代：360p → 480p → 720p → 1080p 逐步精修，而非依赖\"完美提示词\"。Wan3.0 已开放 API 访问，可通过 Model Studio 和 Qwen Cloud 接入。",
-      "category": null,
-      "score": 29,
+      "id": "cmu3ojeiw06ilroc1ez2u3fp9",
+      "title": "Apple 发布参考图像功能，iPhone 18 Pro 首发可验证摄影",
+      "title_en": "苹果参考图像：一种经过验证的摄影新方法",
+      "url": "https://security.apple.com/blog/apple-reference-image",
+      "permalink": "https://aihot.news/items/cmu3ojeiw06ilroc1ez2u3fp9",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-16T05:37:14.945Z",
+      "discoveredAt": "2026-09-16T05:48:13.257Z",
+      "summary": "Apple 推出 Apple Reference Image，一种 iPhone 上的可验证摄影方案，首发于 iPhone 18 Pro 和 iPhone 18 Pro Max 主摄像头。",
+      "category": "ai-products",
+      "score": 62,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu29hqe303nkrooy4jppxfnu"
+        "canonical": "https://aihot.news/items/cmu3ojeiw06ilroc1ez2u3fp9"
       },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 11,
-      "editorialScore": 12,
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
       "tags": [
-        "原型",
-        "工作流",
-        "视频",
-        "提示词"
+        "图像",
+        "摄影"
       ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmu3c8qcp0j1brosa5g6ipz4p",
@@ -402,30 +427,84 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cmu2blxra0450ro25ecasijya",
-      "title": "腾讯混元发布 EvolveScaler 信息演化基准",
-      "title_en": "🚀 EvolveScaler is here. Read a 40-day RPG log. Now answer one question： if you skip the mini-boss …",
-      "url": "https://x.com/TencentHunyuan/status/2099748549281939558",
-      "permalink": "https://aihot.news/items/cmu2blxra0450ro25ecasijya",
-      "source": "X：腾讯混元 (@TencentHunyuan)",
-      "publishedAt": "2026-09-15T06:34:00.000Z",
-      "discoveredAt": "2026-09-15T06:58:28.735Z",
-      "summary": "腾讯混元推出 EvolveScaler，将世界定义为可执行状态机再渲染成自然语言，模拟记录被撤回、修正、回填的信息演化场景。该基准含 117 个原型、159 个问题算子、5 个难度层级，单样本最多约 1200 个事件；14 个前沿模型在最难层级上 avg@5 中位数降至 11.3，而用它训练可在 8 个分布外基准上平均提升 5.25。",
-      "category": null,
-      "score": 45,
+      "id": "cmu3w9cln0hv4roc1tjsuuk6m",
+      "title": "努比亚 NaviX Ultra 体验：豆包手机助手让手机开始替用户操作手机",
+      "title_en": "努比亚 NaviX Ultra 体验：手机真的开始\"替你用手机\"了",
+      "url": "https://www.ithome.com/1/003/190.htm",
+      "permalink": "https://aihot.news/items/cmu3w9cln0hv4roc1tjsuuk6m",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-16T09:01:41.000Z",
+      "discoveredAt": "2026-09-16T09:24:19.753Z",
+      "summary": "IT之家实测努比亚 NaviX Ultra，该机由中兴努比亚与豆包手机助手团队合作打造，搭载第五代骁龙 8 至尊版处理器和 Obric UI v2.3.0.0，深度集成消费者版豆包手机助手。",
+      "category": "tip",
+      "score": 56,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu2blxra0450ro25ecasijya"
+        "canonical": "https://aihot.news/items/cmu3w9cln0hv4roc1tjsuuk6m"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "ui"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmu3uz13o0g91roc1ipepiymu",
+      "title": "Meshy 上线 Ultra 4K，主打 4K 几何分辨率的 AI 3D 建模",
+      "title_en": "Ultra 4K is now live on Meshy.🥳 The first AI 3D model at 4K geometry resolution， with the richest …",
+      "url": "https://x.com/MeshyAI/status/2100142910469804290",
+      "permalink": "https://aihot.news/items/cmu3uz13o0g91roc1ipepiymu",
+      "source": "X：Meshy (@MeshyAI)",
+      "publishedAt": "2026-09-16T08:41:03.000Z",
+      "discoveredAt": "2026-09-16T08:48:18.784Z",
+      "summary": "Meshy 宣布 Ultra 4K 正式上线，称其为首个达到 4K 几何分辨率的 AI 3D 建模功能，生成细节为其历史最丰富水平。附演示视频展示生成效果。",
+      "category": "ai-products",
+      "score": 55,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu3uz13o0g91roc1ipepiymu"
       },
       "sourceType": "X",
-      "designCategory": "设计工具",
-      "relevanceScore": 6,
-      "editorialScore": 11,
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
       "tags": [
-        "原型"
+        "视频",
+        "3d"
       ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmu3nv0v705rfroc11ibi6pyb",
+      "title": "阿里云QwenWork落地香港小学教学场景",
+      "title_en": "🏫 What AI changes in a school day For teachers， QwenWork helps turn text， images， audio， and video …",
+      "url": "https://x.com/alibaba_cloud/status/2100092855129637309",
+      "permalink": "https://aihot.news/items/cmu3nv0v705rfroc11ibi6pyb",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-09-16T05:22:09.000Z",
+      "discoveredAt": "2026-09-16T05:29:13.386Z",
+      "summary": "香港Kei Tsz Primary School超半数教职工将从首日起在日常工作中使用AI。教师可用QwenWork将文本、图像、音频和视频转化为现成教学材料，加快备课并分担行政事务；学生将在IT和STEAM课上用AI与云工具创建网站、应用、游戏和数字内容。全校还将开展AI专业发展与实操工作坊，并在活动中提供实时翻译支持。",
+      "category": null,
+      "score": 29,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu3nv0v705rfroc11ibi6pyb"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmu3lff3c05yqroo4f85rqcvd",
@@ -701,33 +780,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmu21t3h7054brow2g6bbr4w6",
-      "title": "消息称欧盟计划 9 月 17 日公布《儿童法案》，限制 15 岁以下未成年人访问社媒与视频平台",
-      "title_en": null,
-      "url": "https://www.ithome.com/1/002/412.htm",
-      "permalink": "https://aihot.news/items/cmu21t3h7054brow2g6bbr4w6",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-15T01:59:21.000Z",
-      "discoveredAt": "2026-09-15T02:24:06.452Z",
-      "summary": "据法新社与 POLITICO 报道，欧盟计划于比利时当地时间本周四（9 月 17 日）公布《欧盟儿童法案》，在联盟层面规范未成年人对社交媒体、视频分享、网络游戏、人工智能等服务的访问。对于高风险平台，13 岁以下未成年人仅能使用有监护人控制并符合严格安全标准的服务，13~15 岁用户将获得限制与陌生人接触、限制屏幕时间、带家长控制的\"入门级\"账户；冯德莱恩预计将要求平台在设计上消除令人上瘾的元素。",
-      "category": "industry",
-      "score": 61,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu21t3h7054brow2g6bbr4w6"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计",
-        "视频"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmu321hvc030oroaaqrtdjphn",
       "title": "AI 坟场：那些未能活下来的项目与初创公司",
       "title_en": "The AI graveyard： a running list of projects and startups that didn't make it",
@@ -842,30 +894,85 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmu239byo077urow2fcr1ua0u",
-      "title": "可灵AI亮相TIFF市场单元",
-      "title_en": "At TIFF The Market， KlingAI hosted both an insightful expert Panel Discussion and a lively industry …",
-      "url": "https://x.com/Kling_ai/status/2099691029624750335",
-      "permalink": "https://aihot.news/items/cmu239byo077urow2fcr1ua0u",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "publishedAt": "2026-09-15T02:45:26.000Z",
-      "discoveredAt": "2026-09-15T03:04:44.162Z",
-      "summary": "在 TIFF The Market，可灵AI举办了一场专家小组讨论和一场行业招待会。汇聚电影人与科技领袖，我们探讨了AI如何作为一种工具，让制作更可负担、更易触及。✨",
+      "id": "cmu3z9cno0l2zroc1d9hn3u10",
+      "title": "Meshy 科隆首届 Creator Day 回顾",
+      "title_en": "90 seconds inside our first Creator Day in Cologne - quick questions， real answers， and a room full …",
+      "url": "https://x.com/MeshyAI/status/2100168519950495808",
+      "permalink": "https://aihot.news/items/cmu3z9cno0l2zroc1d9hn3u10",
+      "source": "X：Meshy (@MeshyAI)",
+      "publishedAt": "2026-09-16T10:22:49.000Z",
+      "discoveredAt": "2026-09-16T10:48:18.818Z",
+      "summary": "90 秒带你走进我们在科隆的首届 Creator Day--快问快答，满屋子的创意。\n\n打开声音。🔊\n\n特别感谢我们出色的演讲嘉宾：Joshua Schiergens、Cees Middel 和 @KirinKarWai，展示了 Meshy 在真实项目中的可能性。",
       "category": null,
-      "score": 26,
+      "score": 13,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu239byo077urow2fcr1ua0u"
+        "canonical": "https://aihot.news/items/cmu3z9cno0l2zroc1d9hn3u10"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
+      "designCategory": "行业观察",
+      "relevanceScore": 8,
+      "editorialScore": 8,
       "tags": [
-        "可灵"
+        "创意",
+        "creator"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
+      "id": "cmu3x476t0iogroc1ms2go036",
+      "title": "Meshy 科隆首届 Creator Day 回顾",
+      "title_en": "90 seconds inside our first Creator Day in Cologne - quick questions， real answers， and a room full …",
+      "url": "https://x.com/MeshyAI/status/2100155799893094710",
+      "permalink": "https://aihot.news/items/cmu3x476t0iogroc1ms2go036",
+      "source": "X：Meshy (@MeshyAI)",
+      "publishedAt": "2026-09-16T09:32:16.000Z",
+      "discoveredAt": "2026-09-16T09:48:18.419Z",
+      "summary": "90 秒带你走进我们在科隆的首届 Creator Day--快问快答，满屋子的创意。打开声音。🔊\n\n特别感谢我们出色的演讲嘉宾：Joshua Schiergens、Cees Middel 和 @KirinKarWai，展示了 Meshy 在真实项目中的可能性。",
+      "category": null,
+      "score": 18,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu3x476t0iogroc1ms2go036"
+      },
+      "sourceType": "X",
+      "designCategory": "行业观察",
+      "relevanceScore": 8,
+      "editorialScore": 8,
+      "tags": [
+        "创意",
+        "creator"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
+      "id": "cmu3wfo380i4oroc1np858wu1",
+      "title": "阿里云Apsara大会探讨AI创意浪潮",
+      "title_en": "AI is opening up new frontiers for creativity across Southeast Asia. Be part of \"The AI Creative Wav…",
+      "url": "https://x.com/alibaba_cloud/status/2100148526713888782",
+      "permalink": "https://aihot.news/items/cmu3wfo380i4oroc1np858wu1",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-09-16T09:03:22.000Z",
+      "discoveredAt": "2026-09-16T09:29:13.117Z",
+      "summary": "AI 正在为东南亚的创意开辟新前沿。欢迎参加 #ApsaraConference2026 上的\"The AI Creative Wave， Reshaping Content and Creativity in Southeast Asia\"专题讨论。了解 AI 如何变革该地区的创意与内容产业，并塑造未来走向。立即注册：https://click.alibabacloud.com/m/20000002869/ #AgenticEra #AgentNative #AIAgentsAtApsara #AlibabaCloud",
+      "category": null,
+      "score": 19,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu3wfo380i4oroc1np858wu1"
+      },
+      "sourceType": "X",
+      "designCategory": "行业观察",
+      "relevanceScore": 8,
+      "editorialScore": 8,
+      "tags": [
+        "创意",
+        "creative"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "cmu34kk6x08d2rosa9n3xuy5x",
@@ -893,35 +1000,6 @@
         "营销"
       ],
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmu2ubpib02bcrowkssbtwn0x",
-      "title": "Plasma 发布 Radio，用共享频道让多个编码智能体实时协作",
-      "title_en": "The future is clearly agent teams. I run several agent harnesses at once， but the hard part is keep…",
-      "url": "https://x.com/omarsar0/status/2099880259210412282",
-      "permalink": "https://aihot.news/items/cmu2ubpib02bcrowkssbtwn0x",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "publishedAt": "2026-09-15T15:17:22.000Z",
-      "discoveredAt": "2026-09-15T15:42:23.587Z",
-      "summary": "Plasma 推出 Radio，一个让多个编码智能体互相协调的共享聊天室，类似 Slack 或 Microsoft Teams。用户创建频道后把链接粘贴给各智能体即可，无需注册；支持 Claude Code、Codex、Cursor、OpenCode、Grok 等任何能抓取 URL 的智能体，可跨本地与云端、跨机器、多人使用，频道保留完整对话以便多个智能体共同审查 PR、拆分任务或讨论 bug。",
-      "category": "ai-products",
-      "score": 58,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu2ubpib02bcrowkssbtwn0x"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "codex",
-        "claude code",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmu2lqodj08k0rovqocv9r3z3",
@@ -953,87 +1031,29 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmu21p9y70514row2w2tnlo0r",
-      "title": "Tripo Astra 联手 Codex 打造虚幻引擎原型",
-      "title_en": "1 day. That's all it took to build this stunning dark fantasy prototype in Unreal Engine using Astra…",
-      "url": "https://x.com/tripoai/status/2099684583524704271",
-      "permalink": "https://aihot.news/items/cmu21p9y70514row2w2tnlo0r",
-      "source": "Tripo（官方 X）",
-      "publishedAt": "2026-09-15T02:19:49.000Z",
-      "discoveredAt": "2026-09-15T02:21:06.752Z",
-      "summary": "1 天。这就是用 Astra x Tripo 在 Unreal Engine 中构建这个惊艳的黑暗奇幻原型所花的全部时间。\n\n深入阅读下面的文章，看看整个工作流是如何通过 Codex 连接起来的！👇 #TripoAstra",
-      "category": null,
-      "score": 25,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu21p9y70514row2w2tnlo0r"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "原型",
-        "工作流",
-        "codex"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmu1x3q9203b0romgbig67x7r",
-      "title": "Plasma AI 推出 Radio：让不同提供商的智能体在共享聊天室中协作",
-      "title_en": "Multi-agent systems usually hide the coordination layer inside an orchestrator. @Plasma__AI Plasma …",
-      "url": "https://x.com/rohanpaul_ai/status/2099650383740387819",
-      "permalink": "https://aihot.news/items/cmu1x3q9203b0romgbig67x7r",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-15T00:03:55.000Z",
-      "discoveredAt": "2026-09-15T00:12:23.695Z",
-      "summary": "Plasma AI 推出 Radio，一个面向智能体的共享聊天室，创建频道、分享链接即可让队友和智能体加入，无需注册。Radio 将多智能体系统中通常隐藏在 orchestrator 里的协调层变成可见的房间，任何能抓取 URL 的智能体都可加入，包括 Claude Code、Codex、Cursor、OpenCode 和 Grok。网址 https://radio.plasma.ai",
+      "id": "cmu3vslb70h9iroc171zxv4du",
+      "title": "豆包手机助手消费者版随努比亚NaviX Ultra开售，AI键加入指纹鉴权",
+      "title_en": "在折腾9个月后，手机Agent的王者，豆包手机助手它回来了。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686382&idx=1&sn=46be4b7792f08dffa9cf86d8e7a85307",
+      "permalink": "https://aihot.news/items/cmu3vslb70h9iroc171zxv4du",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-09-16T08:57:22.000Z",
+      "discoveredAt": "2026-09-16T09:11:19.393Z",
+      "summary": "搭载豆包手机助手消费者版的努比亚NaviX Ultra正式开售，12+512GB定价5999元，国补后5499元。作者实测发现AI键新增指纹鉴权，涉及私人信息或手机操作时验证机主身份；复杂长程任务、记忆、快捷指令和屏幕内容理解能力均升级，并新增SAEP屏幕自动化操作声明协议，第三方App可自行选择是否允许豆包助手进行GUI操作，目前免费额度有限且生态主要支持系统、字节系及部分已接入的第三方应用。",
       "category": "ai-products",
-      "score": 56,
+      "score": 63,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu1x3q9203b0romgbig67x7r"
+        "canonical": "https://aihot.news/items/cmu3vslb70h9iroc171zxv4du"
       },
-      "sourceType": "X",
+      "sourceType": "公众号",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
+      "relevanceScore": 6,
+      "editorialScore": 7,
       "tags": [
-        "codex",
-        "claude code",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmu3l11jr05d5roo4m8btfyep",
-      "title": "Emergence World：面向长程多智能体系统的对抗性压力测试",
-      "title_en": "Emergence World： Adversarial Stress-Testing of Long-Horizon Multi-Agent Systems",
-      "url": "https://arxiv.org/abs/2609.17320",
-      "permalink": "https://aihot.news/items/cmu3l11jr05d5roo4m8btfyep",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-09-15T00:00:00.000Z",
-      "discoveredAt": "2026-09-16T04:09:58.207Z",
-      "summary": "论文介绍 Emergence World，一个持续运行的多智能体环境，用于对长程自主系统做对抗性压力测试。8个平行世界、每个10个Agent在16天内产生超过850，000次LLM调用、近500亿token；随后通过间接提示词注入、错误信息和私密记忆泄露三种受控压力事件测试，没有任何世界全部抵御。",
-      "category": "paper",
-      "score": 64,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu3l11jr05d5roo4m8btfyep"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "提示词",
-        "agent",
-        "智能体"
+        "自动化",
+        "agent"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -1063,33 +1083,6 @@
         "营销"
       ],
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmu38uvk30flnrosa9vhvk1ya",
-      "title": "PixVerse 提示词：妈妈全知道",
-      "title_en": "Cookie heist failed. Mom knows EVERYTHING. Full prompt ↓",
-      "url": "https://x.com/PixVerse/status/2099981654064603260",
-      "permalink": "https://aihot.news/items/cmu38uvk30flnrosa9vhvk1ya",
-      "source": "X：PixVerse (@PixVerse)",
-      "publishedAt": "2026-09-15T22:00:16.000Z",
-      "discoveredAt": "2026-09-15T22:29:13.207Z",
-      "summary": "Cookie 偷窃失败。妈妈什么都知道。完整提示词 ↓",
-      "category": null,
-      "score": 18,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu38uvk30flnrosa9vhvk1ya"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "提示词",
-        "prompt"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmu2xv8tm0365roc1a401zg9y",
