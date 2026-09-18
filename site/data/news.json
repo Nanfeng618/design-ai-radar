@@ -1,19 +1,48 @@
 {
-  "generatedAt": "2026-09-18T11:14:49.112Z",
-  "previousGeneratedAt": "2026-09-18T04:43:56.196Z",
+  "generatedAt": "2026-09-18T16:24:09.227Z",
+  "previousGeneratedAt": "2026-09-18T11:14:49.112Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 43,
+  "itemCount": 46,
   "sourceCounts": {
-    "X": 17,
-    "网站": 24,
-    "公众号": 2
+    "网站": 27,
+    "X": 18,
+    "公众号": 1
   },
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com"
   },
   "items": [
+    {
+      "id": "cmu74ww1u0qfxrowkb6qtruwz",
+      "title": "OpenRouter 实测 20 个图像生成模型的成本、编辑与质量",
+      "title_en": "Image Generation Models Compared： Cost， Edit， Quality",
+      "url": "https://openrouter.ai/blog/insights/image-generation-models-compared",
+      "permalink": "https://aihot.news/items/cmu74ww1u0qfxrowkb6qtruwz",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-09-18T00:00:00.000Z",
+      "discoveredAt": "2026-09-18T15:49:48.916Z",
+      "summary": "OpenRouter 对其路由的 20 个图像生成模型用相同提示词实测计费，单张图片成本在 $0.006 到 $0.134 之间，相差 22 倍。",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu74ww1u0qfxrowkb6qtruwz"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 19,
+      "editorialScore": 22,
+      "tags": [
+        "图像生成",
+        "image generation",
+        "图像",
+        "提示词"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
     {
       "id": "cmu65lani0bpzrofjts32osfk",
       "title": "Muse Image 等刷新文生图性价比前沿",
@@ -72,61 +101,31 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmu5e0npo05xwro7npno3ijni",
-      "title": "Qwen 接入 n8n，一键调用",
-      "title_en": "Qwen is now one click away in @n8n_io . No API key. No separate account. No extra billing. From n8n …",
-      "url": "https://x.com/alibaba_cloud/status/2100531911206879316",
-      "permalink": "https://aihot.news/items/cmu5e0npo05xwro7npno3ijni",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "publishedAt": "2026-09-17T10:26:48.000Z",
-      "discoveredAt": "2026-09-17T10:29:13.488Z",
-      "summary": "Qwen 现在在 @n8n_io 里一键即可调用。无需 API key。无需单独账号。无需额外计费。从 n8n v2.36 起，Cloud Starter 和 Pro 用户（含免费试用）可通过 Gateway credits 调用 Qwen--文本、图像和视频生成都在单个节点内完成。符合条件的用户可获得一笔 starter 余额，在真实工作流中试用 Qwen。",
+      "id": "cmu6zjuje0ksjrowk5g3c5wya",
+      "title": "Google 与两位设计师用 Google Flow 共创纽约时装周定制工具",
+      "title_en": "Co-creating the future of fashion with Google",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
+      "permalink": "https://aihot.news/items/cmu6zjuje0ksjrowk5g3c5wya",
+      "source": "Google Blog：AI（RSS）",
+      "publishedAt": "2026-09-18T13:00:00.000Z",
+      "discoveredAt": "2026-09-18T13:19:44.520Z",
+      "summary": "Google 旗下 Envisioning Studio 联合 Google Labs，与设计师 Jane Wade、Sergio Hudson 用 AI 创作工作室 Google Flow 打造了两款定制工具。",
       "category": null,
-      "score": 44,
+      "score": 34,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu5e0npo05xwro7npno3ijni"
+        "canonical": "https://aihot.news/items/cmu6zjuje0ksjrowk5g3c5wya"
       },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 14,
-      "editorialScore": 17,
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 11,
+      "editorialScore": 15,
       "tags": [
-        "视频生成",
-        "工作流",
-        "视频",
-        "图像"
+        "设计师",
+        "设计"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmu5f38l506ylro7n0zoqlr31",
-      "title": "ZenCreator 借助阿里云模型工作室扩展",
-      "title_en": "High-volume AI image and video generation demands more than basic infrastructure. ZenCreator scaled …",
-      "url": "https://x.com/alibaba_cloud/status/2100537775099380141",
-      "permalink": "https://aihot.news/items/cmu5f38l506ylro7n0zoqlr31",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "publishedAt": "2026-09-17T10:50:06.000Z",
-      "discoveredAt": "2026-09-17T10:59:13.560Z",
-      "summary": "大规模 AI 图像和视频生成需要的不仅仅是基础架构。ZenCreator 在阿里云 Model Studio 上扩展到每月 100 万+ 次生成，利用 Wan 和 Qwen 模型实现一致的品质，同时可靠地为 150 万+ 创作者和机构提供支持。了解更多：https://click.alibabacloud.com/m/20000003405/ 在阿里云 Model Studio 上试用 Qwen 和 Wan：https://click.alibabacloud.com/m/20000003413/ #LighthouseCustomerStories #Qwen #Wan #AI",
-      "category": null,
-      "score": 19,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu5f38l506ylro7n0zoqlr31"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 13,
-      "editorialScore": 16,
-      "tags": [
-        "视频生成",
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmu6mpiv40bo2ro0fk6q1iq5b",
@@ -158,6 +157,34 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmu72k61h0nzwrowkhtd4xgbr",
+      "title": "编码智能体 Harness 设计的实证研究：176 个设置下消融规划、动作空间与上下文管理",
+      "title_en": "An Empirical Study of Harness Design for Coding Agents",
+      "url": "https://arxiv.org/abs/2609.20804",
+      "permalink": "https://aihot.news/items/cmu72k61h0nzwrowkhtd4xgbr",
+      "source": "Hacker News：AI 热帖",
+      "publishedAt": "2026-09-18T13:06:30.000Z",
+      "discoveredAt": "2026-09-18T14:44:00.634Z",
+      "summary": "arXiv 论文（arXiv：2609.20804）构建固定执行循环的轻量级 coding harness，在 Nemotron-3（30B/120B/550B）和 Mistral-Medium-3.5-128B 上、于 SWE-Bench Verified 和 Terminal-Bench 2.1 共评测 176 个设置，变化规划、动作空间和上下文管理三个组件。",
+      "category": "paper",
+      "score": 58,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu72k61h0nzwrowkhtd4xgbr"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "design",
+        "设计",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "cmu6mv81k0busro0fd994wpfx",
       "title": "深蓝汽车预热智能座舱新品，预计为车载 AI 助手",
       "title_en": "深蓝汽车预热智能座舱新品即将登场，预计为车载 AI 助手",
@@ -186,48 +213,21 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmu59kb5304lpro8tjh28g6ze",
-      "title": "Anthropic 合并 Claude 聊天与 Cowork 界面，新增幻灯片和文档功能",
-      "title_en": "Anthropic Claude 改版：聊天与 Cowork 界面合并，还能做 PPT 了",
-      "url": "https://www.ithome.com/1/003/667.htm",
-      "permalink": "https://aihot.news/items/cmu59kb5304lpro8tjh28g6ze",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-17T08:15:59.000Z",
-      "discoveredAt": "2026-09-17T08:24:32.247Z",
-      "summary": "Anthropic 正在将 Claude 聊天界面与 Cowork 前端合并为统一界面，Claude 会自动识别需求并分配处理路径，用户无需手动切换标签页；Claude Design 也可在 Claude 内任意位置调用。",
-      "category": "ai-products",
-      "score": 57,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu59kb5304lpro8tjh28g6ze"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "design",
-        "界面"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmu5w8mmh04f5roiqg4bguqpv",
-      "title": "Runway 推出 Enhance Frame Rate：任意视频转 25-120 fps",
-      "title_en": "Introducing Enhance Frame Rate",
-      "url": "https://runwayml.com/news/company-news/introducing-enhance-frame-rate",
-      "permalink": "https://aihot.news/items/cmu5w8mmh04f5roiqg4bguqpv",
+      "id": "cmu74egsf0pzvrowk3c2g817e",
+      "title": "Runway 推出统一定价：Web 应用与 Runway Dev 共用积分池",
+      "title_en": "Working Smarter with Runway： Unified Pricing",
+      "url": "https://runwayml.com/news/company-news/working-smarter-with-runway-unified-pricing",
+      "permalink": "https://aihot.news/items/cmu74egsf0pzvrowk3c2g817e",
       "source": "Runway：News（网页）",
-      "publishedAt": "2026-09-17T18:59:01.020Z",
-      "discoveredAt": "2026-09-17T18:59:01.020Z",
-      "summary": "Runway 发布新模型 Enhance Frame Rate，可将任意视频（含非 Runway 生成）转换为 25、30、48、60 或 120 fps，并支持 NTSC 59.94 标准。该模型速度最高达其他插帧模型的 7 倍、成本仅为其三分之一，输出质量更高，支持最高 4K、5 分钟视频并保持源分辨率，每 2 秒视频收费 1 个 credit。目前已上线，更多帧率支持即将推出。",
+      "publishedAt": "2026-09-18T15:35:24.123Z",
+      "discoveredAt": "2026-09-18T15:35:24.123Z",
+      "summary": "Runway 推出统一定价，购买积分可在 Web 应用和 Runway Dev 之间通用，企业客户实现单一积分池、单张发票和集中用量管理。新企业签约可获至少 100，000 免费积分（约 130+ 分钟视频或 12k+ 张图片），需在 2026 年 12 月 31 日前注册；现有企业推荐并购买可获 5，000 积分加 1 天 Applied AI Architect 支持。",
       "category": null,
-      "score": 47,
+      "score": 32,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu5w8mmh04f5roiqg4bguqpv"
+        "canonical": "https://aihot.news/items/cmu74egsf0pzvrowk3c2g817e"
       },
       "sourceType": "网站",
       "designCategory": "图像与视频",
@@ -238,6 +238,33 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmu74objw0q9growkp1arnsrp",
+      "title": "Perplexity CEO 称赞设计简洁",
+      "title_en": "Slick design",
+      "url": "https://x.com/AravSrinivas/status/2100968764804354529",
+      "permalink": "https://aihot.news/items/cmu74objw0q9growkp1arnsrp",
+      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "publishedAt": "2026-09-18T15:22:42.000Z",
+      "discoveredAt": "2026-09-18T15:43:13.065Z",
+      "summary": "设计简洁流畅\n\n来源：X：Aravind Srinivas（Perplexity CEO） （@AravSrinivas）",
+      "category": null,
+      "score": 6,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu74objw0q9growkp1arnsrp"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 8,
+      "editorialScore": 12,
+      "tags": [
+        "design",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmu6pwgr706e6rowk1t88ll1h",
@@ -377,6 +404,58 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
+      "id": "cmu70lxy60lserowkruiot5oz",
+      "title": "从 Bend 2 看氛围编码的陷阱：重造形式验证已有成果",
+      "title_en": "\"Bend 2\"与\"氛围编码\"的陷阱",
+      "url": "https://blog.liampwll.com/posts/bend_vibe_coding",
+      "permalink": "https://aihot.news/items/cmu70lxy60lserowkruiot5oz",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-18T13:19:41.105Z",
+      "discoveredAt": "2026-09-18T13:49:25.521Z",
+      "summary": "作者评论 Bend 2 这种为 AI 编码时代设计的语言：其首页 demo 用 58 行\"法则\"和 442 行 LLM 证明代码来表达玩家无法获胜的性质。作者让 LLM 无额外指引地在形式验证语言 SPARK 中复刻同一 demo，运行 GNATprove 后全部 12 项检查通过，且无需从零构建长证明。",
+      "category": "tip",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu70lxy60lserowkruiot5oz"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmu74vaqy0qeerowkch23r6nd",
+      "title": "Qwen 发布 Qwen3.8-LiveTranslate 实时同传模型，LAAL 降至 2.3 秒",
+      "title_en": "Qwen3.8-LiveTranslate： Names the speaker. Carries the meaning.",
+      "url": "https://qwen.ai/blog?id=qwen3.8-livetranslate",
+      "permalink": "https://aihot.news/items/cmu74vaqy0qeerowkch23r6nd",
+      "source": "Qwen：Blog Retrieval（API）",
+      "publishedAt": "2026-09-18T09:30:00.000Z",
+      "discoveredAt": "2026-09-18T15:48:38.050Z",
+      "summary": "Qwen 发布 Qwen3.8-LiveTranslate，采用 Interleave 架构与 Hybrid-MoE Thinker-Talker 设计重构实时同声传译，平均滞后（LAAL）从上一代的 2.8 秒降至 2.3 秒。",
+      "category": "ai-models",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu74vaqy0qeerowkch23r6nd"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "cmu67v0kc0e78rofjmdu55on3",
       "title": "谷歌 Gemini 4 Pro 开测：代号 Argon，SVG 生图表现惊艳",
       "title_en": "谷歌最强 AI 模型：Gemini 4 Pro 开测，SVG 生图表现惊艳",
@@ -420,32 +499,6 @@
         "canonical": "https://aihot.news/items/cmu66hcf10ci7rofjdusvjiyx"
       },
       "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "ui"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmu617lg303k1rofj5i4y9sbr",
-      "title": "Google 如何用生成式 UI 让教师创建学习互动内容",
-      "title_en": "The future of practice： Enabling teachers to create learning interactives with generative UI",
-      "url": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui",
-      "permalink": "https://aihot.news/items/cmu617lg303k1rofj5i4y9sbr",
-      "source": "Google Research：Blog（网页）",
-      "publishedAt": "2026-09-17T21:18:26.970Z",
-      "discoveredAt": "2026-09-17T21:18:26.970Z",
-      "summary": "Google 基于 LearnLM 的学习科学原则，让教师主导提出主题并生成可修改、需教师批准的学习目标，再据此生成游戏化学习互动内容。每个互动按目标拆分为难度递进的关卡，并配有 AI 生成的脚手架提示、分层提示、针对性反馈和完整解答，而非直接给出答案。",
-      "category": null,
-      "score": 37,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu617lg303k1rofj5i4y9sbr"
-      },
-      "sourceType": "网站",
       "designCategory": "产品与体验",
       "relevanceScore": 6,
       "editorialScore": 10,
@@ -563,85 +616,84 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmu5e21gc05ygro7n26vwg5l8",
-      "title": "外部团队基于 MiniCPM-o 4.5 开源全模态交互智能体 Gander，让 Agent 边干活边对话",
-      "title_en": "火种说|AI 在后台帮你干活时，还能随时被你打断吗？这个开源模型想让 Agent \"边做边聊\"",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499253&idx=1&sn=2cc5769d692de60951ba2eff8899c4f3",
-      "permalink": "https://aihot.news/items/cmu5e21gc05ygro7n26vwg5l8",
-      "source": "公众号：面壁智能（MiniCPM）",
-      "publishedAt": "2026-09-17T10:15:56.000Z",
-      "discoveredAt": "2026-09-17T10:30:19.158Z",
-      "summary": "浙江大学等高校的外部研究者以 MiniCPM-o 4.5 为基座后训练，开源了端到端全模态交互智能体 Gander，论文、数据、代码和模型全部开放。",
-      "category": "ai-models",
-      "score": 64,
+      "id": "cmu73pdbs0p9orowkbcxidve7",
+      "title": "Runway 推出统一计价",
+      "title_en": "Today we're introducing unified pricing within Runway， with all purchased credits available for use …",
+      "url": "https://x.com/runwayml/status/2100960288581562410",
+      "permalink": "https://aihot.news/items/cmu73pdbs0p9orowkbcxidve7",
+      "source": "X：Runway (@runwayml)",
+      "publishedAt": "2026-09-18T14:49:01.000Z",
+      "discoveredAt": "2026-09-18T15:16:00.843Z",
+      "summary": "今天我们在 Runway 内推出统一计价，所有购买的 credits 均可在我们的 web 应用和 Runway Dev 中使用。\n\n现在，一次购买即可支持你在任意偏好的空间中使用 Runway 的所有工作方式。同时，我们还推出了与之匹配的新优惠。",
+      "category": null,
+      "score": 31,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu5e21gc05ygro7n26vwg5l8"
+        "canonical": "https://aihot.news/items/cmu73pdbs0p9orowkbcxidve7"
       },
-      "sourceType": "公众号",
-      "designCategory": "产品与体验",
+      "sourceType": "X",
+      "designCategory": "图像与视频",
       "relevanceScore": 6,
-      "editorialScore": 10,
+      "editorialScore": 9,
       "tags": [
-        "交互",
-        "agent",
+        "runway"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmu6yhkj20jivrowkz1y2fd9x",
+      "title": "Gartner 将仓储自动化中的 AI 应用划分为四个层级",
+      "title_en": "Gartner outlines four AI tiers in warehouse automation",
+      "url": "https://www.artificialintelligence-news.com/news/gartner-outlines-four-ai-tiers-in-warehouse-automation",
+      "permalink": "https://aihot.news/items/cmu6yhkj20jivrowkz1y2fd9x",
+      "source": "Artificial Intelligence News（网页）",
+      "publishedAt": "2026-09-18T12:49:59.786Z",
+      "discoveredAt": "2026-09-18T12:49:59.786Z",
+      "summary": "Gartner 本月发布分析，将仓储自动化中的 AI 应用划分为四个运营层级，并指出物流基础设施已达到明确的采用临界点。该框架从智能复杂度和运营行动导向两个维度评估系统，覆盖优化模型与生成式规划、半自主 AI 智能体及实体仓储自动化等场景。",
+      "category": null,
+      "score": 32,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu6yhkj20jivrowkz1y2fd9x"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "自动化",
+        "automation",
         "智能体"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmu5bpgmj074xro8tolb3v31t",
-      "title": "智谱 GLM 公开递归自我改进实践，GLM-5.3-Flash 发布",
-      "title_en": "智谱 GLM 公开国内大模型首个递归自我改进实践：AI 在十万卡国产集群上自建推理系统",
-      "url": "https://www.ithome.com/1/003/705.htm",
-      "permalink": "https://aihot.news/items/cmu5bpgmj074xro8tolb3v31t",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-17T08:58:58.000Z",
-      "discoveredAt": "2026-09-17T09:24:32.843Z",
-      "summary": "智谱 GLM 团队披露递归自我改进方向首个工程化实践，由 GLM-5.3 驱动的 Infra Agent 完成了 GLM-5.3-Flash 推理基础设施的设计、调试与优化。",
-      "category": "ai-models",
-      "score": 71,
+      "id": "cmu6wrhxh0hojrowkl9jpsy96",
+      "title": "资深影人用可灵AI制作MINIBOTS",
+      "title_en": "After 30 years in traditional film and TV， Diane Shorthouse is exploring how AI can expand what film…",
+      "url": "https://x.com/Kling_ai/status/2100918044231131205",
+      "permalink": "https://aihot.news/items/cmu6wrhxh0hojrowkl9jpsy96",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-09-18T12:01:09.000Z",
+      "discoveredAt": "2026-09-18T12:01:44.498Z",
+      "summary": "在传统影视行业深耕30年后，Diane Shorthouse正在探索AI如何拓展电影创作者的边界。从更安全的制作流程到为AI角色赋予富有情感的表演，她分享了自己使用可灵AI制作MINIBOTS的经历。",
+      "category": null,
+      "score": 26,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu5bpgmj074xro8tolb3v31t"
+        "canonical": "https://aihot.news/items/cmu6wrhxh0hojrowkl9jpsy96"
       },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
+      "sourceType": "X",
+      "designCategory": "图像与视频",
       "relevanceScore": 6,
-      "editorialScore": 10,
+      "editorialScore": 9,
       "tags": [
-        "设计",
-        "agent"
+        "可灵"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmu5bpgmj0750ro8t6zajz3qo",
-      "title": "欧盟委员会通过《欧盟儿童法案》提案：禁止社交媒体向 13 岁以下儿童开放，平台需自证设计安全",
-      "title_en": "欧盟委员会通过提案：禁止社交媒体向 13 岁以下儿童开放，平台要自证对孩子安全",
-      "url": "https://www.ithome.com/1/003/697.htm",
-      "permalink": "https://aihot.news/items/cmu5bpgmj0750ro8t6zajz3qo",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-17T08:40:27.000Z",
-      "discoveredAt": "2026-09-17T09:24:32.843Z",
-      "summary": "欧盟委员会通过《欧盟儿童法案》（EU KIDS Act）提案，禁止社交媒体向 13 岁以下儿童开放，未成年人独立开设账号的最低年龄设为 15 岁，并倒置举证责任，由平台自证产品在设计层面适配年龄段且安全。",
-      "category": "industry",
-      "score": 73,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu5bpgmj0750ro8t6zajz3qo"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmu67jwaz0dqjrofjry6zas34",
@@ -752,31 +804,30 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmu56ljiy0fjbroqb7lglj9w3",
-      "title": "VideoClaw 发布：一句话提示完成视频制作",
-      "title_en": "what VideoClaw is doing for video is similar to what coding agents did for software give it a post，…",
-      "url": "https://x.com/haider1/status/2100473474502504956",
-      "permalink": "https://aihot.news/items/cmu56ljiy0fjbroqb7lglj9w3",
-      "source": "X：Haider (@haider1)",
-      "publishedAt": "2026-09-17T06:34:35.000Z",
-      "discoveredAt": "2026-09-17T07:01:31.328Z",
-      "summary": "VideoClaw 正式发布，将视频制作变成提示词驱动的一体化工作流，用户只需给出一段文字、播客、广告、原始素材甚至一个想法，它就能完成策划、剪辑、生成、添加 B-roll、音乐和字幕，并记住你偏好的风格。官方称其演示视频完全由 VideoClaw 制作，混合了真人拍摄与生成画面，可免费试用。",
+      "id": "cmu73ama10orqrowk0akm6gcc",
+      "title": "GitHub Podcast 拆解 AI 热门观点：该不该读代码、RAG 是否已死、Skills 是否杀死了 MCP",
+      "title_en": "Should you read the code， is RAG dead， and did Skills kill MCP？",
+      "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+      "permalink": "https://aihot.news/items/cmu73ama10orqrowk0akm6gcc",
+      "source": "GitHub Blog",
+      "publishedAt": "2026-09-18T15:00:00.000Z",
+      "discoveredAt": "2026-09-18T15:04:33.755Z",
+      "summary": "GitHub Podcast 最新一期拆解了五个 AI 热门观点：AI 生成的代码仍需阅读和负责，只是审查力度应按风险分配；Skills 与 MCP 解决不同问题，前者是打包的团队经验，后者是连接工具与数据的标准；RAG 并未消亡，而是与 Agent、Skills、MCP 共存于同一工作流。节目还讨论了招聘中的 AI 使用判断力，以及微调需求往往暴露的是代码可维护性问题。",
       "category": null,
-      "score": 48,
+      "score": 46,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu56ljiy0fjbroqb7lglj9w3"
+        "canonical": "https://aihot.news/items/cmu73ama10orqrowk0akm6gcc"
       },
-      "sourceType": "X",
+      "sourceType": "网站",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
+      "relevanceScore": 7,
+      "editorialScore": 8,
       "tags": [
         "工作流",
-        "广告",
-        "视频",
-        "提示词"
+        "agent",
+        "mcp"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -889,6 +940,34 @@
         "视频"
       ],
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
+      "id": "cmu74jpk10q54rowka4x23n3t",
+      "title": "Jev 接入实操指南：如何作为前置小脑接入 Codex、Claude Code 与 Hermes",
+      "title_en": "别再只看全网对 Jev 疯狂刷屏、自己却连第一行代码都不知道怎么接了。 今天把大家问得最多的实操问题彻底讲透： 怎么把这个不写废话的新模型，真正无缝插进你正在用的 Codex、Hermes 或者 C…",
+      "url": "https://x.com/AYi_AInotes/status/2100971622370881847",
+      "permalink": "https://aihot.news/items/cmu74jpk10q54rowka4x23n3t",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-09-18T15:34:03.000Z",
+      "discoveredAt": "2026-09-18T15:39:39.000Z",
+      "summary": "作者讲解如何把只输出 Choice、Score、Noul 三种结构化结果、单次判断约 150 毫秒、输出 Token 免费的模型 Jev，接入 Codex、Claude Code 和 Hermes Agent。",
+      "category": "tip",
+      "score": 57,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu74jpk10q54rowka4x23n3t"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "codex",
+        "claude code",
+        "agent"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmu6jtam205xhro0fuqni9sq1",
