@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-19T10:59:20.071Z",
-  "previousGeneratedAt": "2026-09-19T04:37:54.800Z",
+  "generatedAt": "2026-09-19T15:53:15.332Z",
+  "previousGeneratedAt": "2026-09-19T10:59:20.071Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
   "itemCount": 36,
   "sourceCounts": {
-    "X": 16,
-    "网站": 19,
+    "X": 17,
+    "网站": 18,
     "公众号": 1
   },
   "source": {
@@ -42,6 +42,35 @@
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmu8fpa441jmarogrds6m6dh9",
+      "title": "json-render + jev 实现 0.9 秒生成式 UI 渲染",
+      "title_en": "做 AI 产品界面的兄弟看过来， 动态 UI 的交互形态终于被这套组合跑通了！！ 别再让你的用户盯着打字机傻等几秒了， 这才是生成式 UI 该有的样子， Chris Tate 刚放出来的实测对比直接把…",
+      "url": "https://x.com/AYi_AInotes/status/2101298321235095658",
+      "permalink": "https://aihot.news/items/cmu8fpa441jmarogrds6m6dh9",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-09-19T13:12:14.000Z",
+      "discoveredAt": "2026-09-19T13:39:39.295Z",
+      "summary": "Chris Tate 实测 json-render + jev 组合，0.87 秒完成首屏响应、0.90 秒渲染出带柱状图、指标卡和明细表的完整 Dashboard，而传统流式方案 1.24 秒仍是一片空白。该方案让模型只输出轻量 JSON 结构，由前端基于已有设计规范和组件库本地实例化，不再让大模型逐行手写 HTML 或 React 代码。",
+      "category": null,
+      "score": 46,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu8fpa441jmarogrds6m6dh9"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 18,
+      "editorialScore": 22,
+      "tags": [
+        "ui",
+        "设计",
+        "界面",
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmu7m3qin0ifwrogr63ecbn50",
@@ -432,21 +461,49 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmu89fjhh19pmrogr95x02oee",
-      "title": "AI 生成活动海报不必千篇一律：用指定风格提示词做出 Bauhaus、孟菲斯等多样设计",
-      "title_en": "AI-generated posters don't have to be horrible",
-      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "permalink": "https://aihot.news/items/cmu89fjhh19pmrogr95x02oee",
-      "source": "Hacker News：AI 热帖",
-      "publishedAt": "2026-09-19T09:20:58.000Z",
-      "discoveredAt": "2026-09-19T10:44:09.306Z",
-      "summary": "作者针对 AI 生成的社区活动海报风格高度雷同的问题，用 ChatGPT 为同一个虚构春季市集指定不同设计美学，先后生成 Bauhaus 几何极简、Stamp/Letterpress。",
-      "category": "tip",
-      "score": 68,
+      "id": "cmu8i9lon1ma7rogrqvzf08lt",
+      "title": "Unity 为 Claude Code 和 OpenAI Codex 推出官方插件",
+      "title_en": "Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials",
+      "url": "https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials",
+      "permalink": "https://aihot.news/items/cmu8i9lon1ma7rogrqvzf08lt",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-09-19T13:31:46.000Z",
+      "discoveredAt": "2026-09-19T14:51:27.517Z",
+      "summary": "Unity 发布面向 Claude Code 和 OpenAI Codex 的官方插件，由 Unity 团队编写和维护技能，其中 Codex 版本首发 31 个技能，覆盖 UI、2D 图形、URP 渲染管线、音频、导航、物理、内购、多人游戏和本地化。",
+      "category": "ai-products",
+      "score": 65,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu89fjhh19pmrogr95x02oee"
+        "canonical": "https://aihot.news/items/cmu8i9lon1ma7rogrqvzf08lt"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 7,
+      "editorialScore": 11,
+      "tags": [
+        "ui",
+        "codex",
+        "claude code"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmu8ape8a1b2urogrur1alknc",
+      "title": "AI 生成的海报未必就难看：通过指定设计风格避开千篇一律的模板感",
+      "title_en": "AI生成的海报未必就难看",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "permalink": "https://aihot.news/items/cmu8ape8a1b2urogrur1alknc",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-19T10:53:16.305Z",
+      "discoveredAt": "2026-09-19T11:19:48.935Z",
+      "summary": "作者针对网上千篇一律的 AI 活动海报风格，用 ChatGPT 生成春季市集海报时主动指定设计风格，先后尝试 Bauhaus 现代主义、凸版印刷、日式极简、Memphis 设计、1980 年代朋克 fanzine、90s drum n bass 传单等多种美学，得到差异化且不难看的结果。",
+      "category": "tip",
+      "score": 63,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu8ape8a1b2urogrur1alknc"
       },
       "sourceType": "网站",
       "designCategory": "图像与视频",
@@ -454,8 +511,7 @@
       "editorialScore": 11,
       "tags": [
         "海报",
-        "设计",
-        "提示词"
+        "设计"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -542,59 +598,6 @@
         "智能体"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmu6gfp3e0nt3rofjh88vwyf5",
-      "title": "阿里发布全模态模型 Qwen3.8-Omni-Flash，支持 1M 上下文，百万 Token 图文音视频输入 0.8 元",
-      "title_en": "阿里发布 Qwen3.8-Omni-Flash 全模态模型：音视频能力提升，百万 Token 图文音视频输入 0.8 元",
-      "url": "https://www.ithome.com/1/004/049.htm",
-      "permalink": "https://aihot.news/items/cmu6gfp3e0nt3rofjh88vwyf5",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-18T03:34:25.000Z",
-      "discoveredAt": "2026-09-18T04:24:41.579Z",
-      "summary": "阿里千问上线新一代原生全模态模型 Qwen3.8-Omni-Flash，可同时处理文本、图像、音频和视频输入，支持 1M 上下文。在 30 项评测上相比上一代 Qwen3.5-Omni-Plus 平均得分提升超过 26%，官方称音视频能力接近 Gemini 3.8 Flash、音频能力整体超过 Gemini 3.8 Flash。",
-      "category": "ai-models",
-      "score": 76,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu6gfp3e0nt3rofjh88vwyf5"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmu6eaj7j0lgorofjwoiya5rx",
-      "title": "消息称特斯拉 AI5 芯片已在三星得州工厂试产，采用 2nm 工艺",
-      "title_en": null,
-      "url": "https://www.ithome.com/1/003/999.htm",
-      "permalink": "https://aihot.news/items/cmu6eaj7j0lgorofjwoiya5rx",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-18T03:13:39.000Z",
-      "discoveredAt": "2026-09-18T03:24:41.276Z",
-      "summary": "三星电子已在美国得州泰勒代工厂启动特斯拉 AI5 芯片的原型生产，采用 2nm 工艺，提前进行良率验证。三星计划今年年底完成大规模生产验证，明年全面供应，其去年与特斯拉签订的芯片供应合同价值 165 亿美元。泰勒工厂第二座晶圆厂目标今年年底奠基，预计 2030 年左右投运，将采用 1.4nm 工艺。",
-      "category": null,
-      "score": 47,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu6eaj7j0lgorofjwoiya5rx"
-      },
-      "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 6,
-      "editorialScore": 11,
-      "tags": [
-        "原型"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "cmu82bb6f12hgrogrhl5v7ssl",
