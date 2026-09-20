@@ -1,19 +1,77 @@
 {
-  "generatedAt": "2026-09-20T11:24:18.228Z",
-  "previousGeneratedAt": "2026-09-20T04:54:09.729Z",
+  "generatedAt": "2026-09-20T16:06:43.589Z",
+  "previousGeneratedAt": "2026-09-20T11:24:18.228Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 26,
+  "itemCount": 36,
   "sourceCounts": {
-    "X": 18,
-    "公众号": 2,
-    "网站": 6
+    "网站": 11,
+    "X": 23,
+    "公众号": 2
   },
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com"
   },
   "items": [
+    {
+      "id": "cmu9xo2mh06ryrowjrilb8syo",
+      "title": "Qwen 开源 Qwen-Image-2.1：7B 视觉生成组件统一图像生成与编辑",
+      "title_en": "Qwen-Image-2.1：紧凑、高效且统一的图像生成",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "permalink": "https://aihot.news/items/cmu9xo2mh06ryrowjrilb8syo",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-20T14:40:14.401Z",
+      "discoveredAt": "2026-09-20T14:50:24.380Z",
+      "summary": "Qwen 开源 Qwen-Image-2.1，在单一模型中统一文生图与图像编辑，视觉生成组件仅 7B 参数，并原生支持透明图像的生成与编辑。模型支持最多 10 张参考图、圆圈涂画和独立掩码指定局部编辑，通过混合粒度注意力与 KV cache 复用提升推理效率，并改进了文字排版、人像光照和人物产品一致性。",
+      "category": "ai-models",
+      "score": 72,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu9xo2mh06ryrowjrilb8syo"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 29,
+      "editorialScore": 32,
+      "tags": [
+        "图像生成",
+        "文生图",
+        "生图",
+        "视觉"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmu9umj2103p6rowj5oxsez69",
+      "title": "阿里千问开源 Qwen-Image-2.1 图像模型，支持透明图像与最多 10 张参考图",
+      "title_en": "阿里千问开源 Qwen-Image-2.1 图像模型：可生成、编辑透明图像，支持最多 10 张参考图",
+      "url": "https://www.ithome.com/1/004/989.htm",
+      "permalink": "https://aihot.news/items/cmu9umj2103p6rowj5oxsez69",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-20T13:02:23.000Z",
+      "discoveredAt": "2026-09-20T13:25:09.359Z",
+      "summary": "阿里千问开源图像模型 Qwen-Image-2.1，将文生图与图像编辑整合在同一模型中，视觉生成部分仅 7B 参数，原生支持透明图像的生成与编辑。更新亮点包括轻量结构与推理优化、支持最多 10 张参考图的局部编辑与人像商品保真，以及文字排版和人物光影表现提升，模型已上架 GitHub、HuggingFace 和 ModelScope。",
+      "category": "ai-models",
+      "score": 67,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu9umj2103p6rowj5oxsez69"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 22,
+      "editorialScore": 25,
+      "tags": [
+        "文生图",
+        "生图",
+        "视觉",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
     {
       "id": "cmu8fpa441jmarogrds6m6dh9",
       "title": "json-render + jev 实现 0.9 秒生成式 UI 渲染",
@@ -42,6 +100,63 @@
         "交互"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmu9tzwo202z0rowjoa0unsup",
+      "title": "通义千问发布 Qwen-Image-2.1 并开放权重",
+      "title_en": "Meet Qwen-Image-2.1， the most balanced and cost-effective image generation model in the Qwen-Image s…",
+      "url": "https://x.com/Alibaba_Qwen/status/2101659302792679789",
+      "permalink": "https://aihot.news/items/cmu9tzwo202z0rowjoa0unsup",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "publishedAt": "2026-09-20T13:06:39.000Z",
+      "discoveredAt": "2026-09-20T13:07:37.776Z",
+      "summary": "通义千问发布 Qwen-Image-2.1，定位为 Qwen-Image 系列中均衡且高性价比的图像生成模型，现已开放权重。该模型为生成与编辑一体化的 7B 轻量架构，原生支持生成和编辑 RGBA 透明图层，编辑支持最多 10 张参考图和精确局部控制，并擅长全景图、信息图和虚拟试穿等场景。",
+      "category": "ai-models",
+      "score": 59,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu9tzwo202z0rowjoa0unsup"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 18,
+      "editorialScore": 21,
+      "tags": [
+        "图像生成",
+        "image generation",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmu9sd2he03tkrokxip6m9qw7",
+      "title": "Runway 公布实时视频生成研究：边描述提示词边流式生成",
+      "title_en": "Runway wants to turn AI video generation into a live stream you control in real time",
+      "url": "https://the-decoder.com/runway-wants-to-turn-ai-video-generation-into-a-live-stream-you-control-in-real-time",
+      "permalink": "https://aihot.news/items/cmu9sd2he03tkrokxip6m9qw7",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-09-20T11:56:59.000Z",
+      "discoveredAt": "2026-09-20T12:21:51.414Z",
+      "summary": "Runway 公布实时视频生成研究，用户可在描述提示词的同时流式生成视频，而非输入提示后等待成品。该方案基于其首个 General World Model GWM-1（构建于 Gen-4.5 之上，逐帧生成，支持镜头运动、机器人指令或音频控制），通过用自身输出训练模型来抑制误差累积。",
+      "category": null,
+      "score": 45,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu9sd2he03tkrokxip6m9qw7"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 16,
+      "editorialScore": 19,
+      "tags": [
+        "视频生成",
+        "runway",
+        "视频",
+        "提示词"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmu7m3qin0ifwrogr63ecbn50",
@@ -98,6 +213,115 @@
         "智能体"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmu9xdsw606jirowjx8kxtk9w",
+      "title": "Qwen-Image-2.1 开源：7B 图像生成与编辑模型",
+      "title_en": "We now have an open-weight 7B model that outperforms Nano Banana 2.0. Just let that sink in for a mo…",
+      "url": "https://x.com/kimmonismus/status/2101679965590769872",
+      "permalink": "https://aihot.news/items/cmu9xdsw606jirowjx8kxtk9w",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-09-20T14:28:45.000Z",
+      "discoveredAt": "2026-09-20T14:42:23.420Z",
+      "summary": "阿里 Qwen 团队发布并开源 Qwen-Image-2.1，一个 7B 的图像生成与编辑统一模型。官方称其推理速度大幅加快，可原生生成和编辑 RGBA 透明图层，支持最多 10 张参考图和精准局部编辑，覆盖全景图、信息图和虚拟试穿等场景。",
+      "category": "ai-models",
+      "score": 71,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu9xdsw606jirowjx8kxtk9w"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "图像生成",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmu9w55as056krowjqmhejtmz",
+      "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+      "title_en": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+      "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+      "permalink": "https://aihot.news/items/cmu9w55as056krowjqmhejtmz",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "publishedAt": "2026-09-20T13:52:24.000Z",
+      "discoveredAt": "2026-09-20T14:07:40.700Z",
+      "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
+      "category": "ai-products",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu9w55as056krowjqmhejtmz"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "图像生成",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmu9w55at056lrowj9ic0vit4",
+      "title": "通义千问发布 Qwen-Image-2.1，vLLM-Omni 提供首日支持",
+      "title_en": "Thanks @vllm_project for the day-0 support！ 🙌 Generate， edit， transparent output - one model， ready…",
+      "url": "https://x.com/Alibaba_Qwen/status/2101670804794884242",
+      "permalink": "https://aihot.news/items/cmu9w55at056lrowj9ic0vit4",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "publishedAt": "2026-09-20T13:52:21.000Z",
+      "discoveredAt": "2026-09-20T14:07:40.700Z",
+      "summary": "通义千问发布 Qwen-Image-2.1，vLLM-Omni 提供 day-0 支持。该模型可在一个模型内完成图像生成、编辑和透明图像输出，由 7.1B DiT 搭配 Qwen3-VL-8B 组成，设置和受支持的组合见 https://recipes.vllm.ai/Qwen/Qwen-Image-2.1。",
+      "category": "ai-models",
+      "score": 62,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu9w55at056lrowj9ic0vit4"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "图像生成",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmu9xzgbz074yrowjljttr9f2",
+      "title": "Claude 缺图像生成器的短板",
+      "title_en": "Claude not having an image generator is a gap in agentic projects that involve knowledge work. It is…",
+      "url": "https://x.com/emollick/status/2101683717571784879",
+      "permalink": "https://aihot.news/items/cmu9xzgbz074yrowjljttr9f2",
+      "source": "X：Ethan Mollick (@emollick)",
+      "publishedAt": "2026-09-20T14:43:40.000Z",
+      "discoveredAt": "2026-09-20T14:59:13.648Z",
+      "summary": "Claude 没有图像生成器，这是涉及知识工作的智能体项目中的一大缺口。它很擅长用代码来绘制或建模物体，但 Google 和 OpenAI 的图像生成器为其 AI 提供了更多选项，可用于制作 PowerPoint、模型图、信息图等。",
+      "category": null,
+      "score": 32,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu9xzgbz074yrowjljttr9f2"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "图像生成",
+        "图像",
+        "智能体"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmu9avlgf05miro8i12ennj20",
@@ -182,6 +406,34 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmu9wwudp065urowjke5kthtz",
+      "title": "剪映发布会推出剪映Hub与小映AI Agent，并上线AI Ultra会员",
+      "title_en": "今天在创大剪映发布会的现场。 从剪映的产品形态和生态位来讲，把AI生成能力容纳进来是顺其自然的事情。那么今天现场发布的是： 1. 剪映Hub：由无限画布与多轨道编辑器构成，从一句话、一个参考视频或一份…",
+      "url": "https://x.com/hq4ai/status/2101675942099976459",
+      "permalink": "https://aihot.news/items/cmu9wwudp065urowjke5kthtz",
+      "source": "X：汗青 HQ (@hq4ai)",
+      "publishedAt": "2026-09-20T14:12:46.000Z",
+      "discoveredAt": "2026-09-20T14:29:13.132Z",
+      "summary": "剪映在创作者大会现场发布剪映Hub，由无限画布与多轨道编辑器构成，可从一句话、参考视频或文档出发，整合即梦、小云雀等平台生成的资产，并上线将AI创作积分与SVIP权益合并订阅的AI Ultra会员。同时推出剪映自己的AI Agent小映，从创作热点到决策给出建议。",
+      "category": "ai-products",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu9wwudp065urowjke5kthtz"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 10,
+      "editorialScore": 13,
+      "tags": [
+        "即梦",
+        "视频",
+        "agent"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmu7vfqlt0s3yrogr1zcwmlv1",
       "title": "高通 CEO：智能体 AI 将消耗海量 token",
       "title_en": "AI will require \"gazillions\" of tokens. - Qualcomm CEO Cristiano Amon： Agentic AI will consume dra…",
@@ -260,34 +512,6 @@
       "tags": [
         "design",
         "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmu7brnf404qhrogrtp0451kl",
-      "title": "编码智能体Harness设计实证研究",
-      "title_en": "An Empirical Study of Harness Design for Coding Agents paper： https://huggingface.co/papers/2609.20...",
-      "url": "https://x.com/_akhaliq/status/2101020560964866103",
-      "permalink": "https://aihot.news/items/cmu7brnf404qhrogrtp0451kl",
-      "source": "X：AK (@_akhaliq)",
-      "publishedAt": "2026-09-18T18:48:31.000Z",
-      "discoveredAt": "2026-09-18T19:01:44.275Z",
-      "summary": "编码智能体Harness设计的实证研究\n\n论文：https://huggingface.co/papers/2609.20804",
-      "category": null,
-      "score": 34,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu7brnf404qhrogrtp0451kl"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "design",
-        "设计",
-        "智能体"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
@@ -481,6 +705,33 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmu9zta2w097rrowjpbeimz4v",
+      "title": "阶跃星辰发布 Step 5 Preview：600B 参数 MoE 旗舰模型，10 月 15 日开放权重",
+      "title_en": "第 5 步 预览：推进帕累托前沿",
+      "url": "https://www.stepfun.com/step-5-preview",
+      "permalink": "https://aihot.news/items/cmu9zta2w097rrowjpbeimz4v",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-20T15:28:22.555Z",
+      "discoveredAt": "2026-09-20T15:50:25.462Z",
+      "summary": "阶跃星辰（StepFun）发布旗舰模型 Step 5 Preview，主打智能体工作，采用稀疏 MoE 架构，总参数 600B、每 token 激活 27B，支持 1M token 上下文窗口和视觉输入。",
+      "category": "ai-models",
+      "score": 68,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu9zta2w097rrowjpbeimz4v"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "视觉",
+        "智能体"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmu9l4hml05furognj46y3ymb",
       "title": "StepFun 发布 Step 5 Preview：600B/27B MoE 旗舰模型，1M 上下文，10 月 15 日开放权重",
       "title_en": "StepFun released Step 5 Preview， a new 600B total / 27B active MoE model with 1M context. > Step 5…",
@@ -612,6 +863,33 @@
         "视觉"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmu9t613q04m6rokxp8yxtdo0",
+      "title": "AI 与知识共享的毁灭：LLM 正在摧毁开源生态吗？",
+      "title_en": "AI and the Destruction of the Creative Commons",
+      "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+      "permalink": "https://aihot.news/items/cmu9t613q04m6rokxp8yxtdo0",
+      "source": "Hacker News：AI 热帖",
+      "publishedAt": "2026-09-20T10:07:51.000Z",
+      "discoveredAt": "2026-09-20T12:44:24.198Z",
+      "summary": "生成式 LLM 正在无差别吞噬网络内容，无视版权与许可证，作者因此失去分享动力。文章指出，过去 35 年的开放生态支撑了现代互联网与云服务，而如今公开代码会招来 AI 生成的垃圾 PR、漏洞挖掘与数据外泄风险，闭源反而更安全。作者警告，共享知识正从馈赠变成负担，若不建立新的数字文艺复兴，将滑向数字黑暗时代。",
+      "category": null,
+      "score": 37,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu9t613q04m6rokxp8yxtdo0"
+      },
+      "sourceType": "网站",
+      "designCategory": "行业观察",
+      "relevanceScore": 8,
+      "editorialScore": 8,
+      "tags": [
+        "creative",
+        "版权"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "cmu97oxf3033iro1xt4j4haqv",
