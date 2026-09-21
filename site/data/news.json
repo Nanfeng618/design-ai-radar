@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-21T04:56:04.390Z",
-  "previousGeneratedAt": "2026-09-20T16:06:43.589Z",
+  "generatedAt": "2026-09-21T12:48:33.008Z",
+  "previousGeneratedAt": "2026-09-21T04:56:04.390Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 38,
+  "itemCount": 41,
   "sourceCounts": {
-    "网站": 13,
-    "X": 23,
-    "公众号": 2
+    "网站": 14,
+    "X": 24,
+    "公众号": 3
   },
   "source": {
     "name": "AI HOT",
@@ -102,6 +102,35 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmub5x8fs0k8erolngetefqay",
+      "title": "阿里云 Model Studio 一站式接入顶级 AI 模型",
+      "title_en": "Access all top AI models in one place with Alibaba Cloud Model Studio. Build with leading reasoning …",
+      "url": "https://x.com/alibaba_cloud/status/2101994660671467833",
+      "permalink": "https://aihot.news/items/cmub5x8fs0k8erolngetefqay",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-09-21T11:19:14.000Z",
+      "discoveredAt": "2026-09-21T11:29:13.122Z",
+      "summary": "通过阿里云 Model Studio，在一个平台即可访问所有顶级 AI 模型。可使用 Qwen、DeepSeek、Kimi & GLM 等领先推理模型进行构建，还有 Wan & HappyHorse 等视觉利器，支持文生图与视频。\n\n立即开始构建：https://click.alibabacloud.com/m/20000003027/\n\n#AlibabaCloud #AlibabaCloudModelStudio #Qwen #WAN #HappyHorse #AI",
+      "category": null,
+      "score": 24,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmub5x8fs0k8erolngetefqay"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 21,
+      "editorialScore": 24,
+      "tags": [
+        "文生图",
+        "生图",
+        "视觉",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmuapuiof0saaro5ts1z4glfk",
       "title": "阿里云发布 Qwen-Image-2.1 图像生成模型并开放权重",
       "title_en": "Meet Qwen-Image-2.1， the most balanced and cost-effective image generation model in the Qwen-Image s…",
@@ -128,35 +157,6 @@
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmu8fpa441jmarogrds6m6dh9",
-      "title": "json-render + jev 实现 0.9 秒生成式 UI 渲染",
-      "title_en": "做 AI 产品界面的兄弟看过来， 动态 UI 的交互形态终于被这套组合跑通了！！ 别再让你的用户盯着打字机傻等几秒了， 这才是生成式 UI 该有的样子， Chris Tate 刚放出来的实测对比直接把…",
-      "url": "https://x.com/AYi_AInotes/status/2101298321235095658",
-      "permalink": "https://aihot.news/items/cmu8fpa441jmarogrds6m6dh9",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-09-19T13:12:14.000Z",
-      "discoveredAt": "2026-09-19T13:39:39.295Z",
-      "summary": "Chris Tate 实测 json-render + jev 组合，0.87 秒完成首屏响应、0.90 秒渲染出带柱状图、指标卡和明细表的完整 Dashboard，而传统流式方案 1.24 秒仍是一片空白。该方案让模型只输出轻量 JSON 结构，由前端基于已有设计规范和组件库本地实例化，不再让大模型逐行手写 HTML 或 React 代码。",
-      "category": null,
-      "score": 46,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu8fpa441jmarogrds6m6dh9"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 18,
-      "editorialScore": 22,
-      "tags": [
-        "ui",
-        "设计",
-        "界面",
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmuao05at0q8tro5t3zwcsxle",
@@ -354,6 +354,34 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmuawqxva09sorolnbdk8gpvx",
+      "title": "GrokBot 风格角色生成提示词分享",
+      "title_en": "turn yourself into grok @bot",
+      "url": "https://x.com/poteto/status/2101926376781885949",
+      "permalink": "https://aihot.news/items/cmuawqxva09sorolnbdk8gpvx",
+      "source": "X：Lauren Tan (@poteto)",
+      "publishedAt": "2026-09-21T06:47:54.000Z",
+      "discoveredAt": "2026-09-21T07:12:23.779Z",
+      "summary": "把自己变成 grok @bot\n\n【引用 @Multi_Serio_Ai】：分享一个能生成 GrokBot 风格角色的提示词\n\nhttps://grokbot-icon-studio.serio-ai.chatgpt.site/\n\n因为不是文件而是长文本无法上传，所以直接以网页应用形式发布。请在以下网站点击复制按钮，粘贴到你们使用的图像生成 AI 中使用",
+      "category": null,
+      "score": 39,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuawqxva09sorolnbdk8gpvx"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "图像生成",
+        "图像",
+        "提示词"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmua0ljct0a2xrowjufwzzjvi",
       "title": "SemiAnalysis 考虑在 NVIDIA 收购 HuggingFace 后将部分工作迁移至 ModelScope",
       "title_en": "Ever since NVIDIA acquired @HuggingFace， we have been looking into migrating some of our work off of…",
@@ -490,6 +518,35 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmub0v4m40eexrolnlm150bjx",
+      "title": "面壁智能点赞 GPT-6 编排 MiniCPM5-2B 本地研究智能体",
+      "title_en": "Love this research-agent design from @aijoey： GPT-6 orchestrates while MiniCPM5-2B runs locally on D…",
+      "url": "https://x.com/OpenBMB/status/2101955503089959028",
+      "permalink": "https://aihot.news/items/cmub0v4m40eexrolnlm150bjx",
+      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "publishedAt": "2026-09-21T08:43:39.000Z",
+      "discoveredAt": "2026-09-21T09:07:37.639Z",
+      "summary": "面壁智能转发 @aijoey 的研究智能体设计：GPT-6 负责编排，MiniCPM5-2B 在 DGX Spark 上本地读取来源并提取可追溯证据。该应用名为 Footnote，首个研究问题产出 21 个来源、31 条论断和 11 个未解问题，点击论断可查看原文段落，点击关联可查看 AI 推理依据。下一步实验是用 AEON Qwen 27B 在第二台 Spark 上接管编排。",
+      "category": null,
+      "score": 47,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmub0v4m40eexrolnlm150bjx"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "design",
+        "设计",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "cmu9wwudp065urowjke5kthtz",
       "title": "剪映发布会推出剪映Hub与小映AI Agent，并上线AI Ultra会员",
       "title_en": "今天在创大剪映发布会的现场。 从剪映的产品形态和生态位来讲，把AI生成能力容纳进来是顺其自然的事情。那么今天现场发布的是： 1. 剪映Hub：由无限画布与多轨道编辑器构成，从一句话、一个参考视频或一份…",
@@ -518,59 +575,197 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmu8i9lon1ma7rogrqvzf08lt",
-      "title": "Unity 为 Claude Code 和 OpenAI Codex 推出官方插件",
-      "title_en": "Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials",
-      "url": "https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials",
-      "permalink": "https://aihot.news/items/cmu8i9lon1ma7rogrqvzf08lt",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-09-19T13:31:46.000Z",
-      "discoveredAt": "2026-09-19T14:51:27.517Z",
-      "summary": "Unity 发布面向 Claude Code 和 OpenAI Codex 的官方插件，由 Unity 团队编写和维护技能，其中 Codex 版本首发 31 个技能，覆盖 UI、2D 图形、URP 渲染管线、音频、导航、物理、内购、多人游戏和本地化。",
-      "category": "ai-products",
-      "score": 65,
+      "id": "cmub36exi0gynrolniruo6h7e",
+      "title": "Google 论文：程序图让 LLM 智能体长任务更稳",
+      "title_en": "New Google paper shows LLM agents handle long tasks better when their workflow lives in an editable …",
+      "url": "https://x.com/rohanpaul_ai/status/2101973711612190756",
+      "permalink": "https://aihot.news/items/cmub36exi0gynrolniruo6h7e",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-21T09:56:00.000Z",
+      "discoveredAt": "2026-09-21T10:12:23.735Z",
+      "summary": "Google 新论文提出 Procedural Graphs，把 LLM 智能体的工作流从聊天历史中移出，改为可编辑的程序图，并让另一个 LLM 对比成功与失败案例来修改图，只有不损害留出任务的修改才会被保留。",
+      "category": null,
+      "score": 48,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu8i9lon1ma7rogrqvzf08lt"
+        "canonical": "https://aihot.news/items/cmub36exi0gynrolniruo6h7e"
       },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 7,
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 10,
       "editorialScore": 11,
       "tags": [
-        "ui",
-        "codex",
-        "claude code"
+        "工作流",
+        "workflow",
+        "智能体"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmu8ape8a1b2urogrur1alknc",
-      "title": "AI 生成的海报未必就难看：通过指定设计风格避开千篇一律的模板感",
-      "title_en": "AI生成的海报未必就难看",
-      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "permalink": "https://aihot.news/items/cmu8ape8a1b2urogrur1alknc",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-09-19T10:53:16.305Z",
-      "discoveredAt": "2026-09-19T11:19:48.935Z",
-      "summary": "作者针对网上千篇一律的 AI 活动海报风格，用 ChatGPT 生成春季市集海报时主动指定设计风格，先后尝试 Bauhaus 现代主义、凸版印刷、日式极简、Memphis 设计、1980 年代朋克 fanzine、90s drum n bass 传单等多种美学，得到差异化且不难看的结果。",
-      "category": "tip",
-      "score": 63,
+      "id": "cmuavz62808xwrolno0jd0t3y",
+      "title": "阶跃星辰发布 Step 5 Preview：600B 总参 27B 激活的 MoE 模型，支持 1M 上下文",
+      "title_en": "StepFun Launches Step 5 Preview： A 600B-Total， 27B-Active MoE Model With 1M Context for Long-Horizon Agentic Work",
+      "url": "https://www.marktechpost.com/2026/09/20/stepfun-launches-step-5-preview",
+      "permalink": "https://aihot.news/items/cmuavz62808xwrolno0jd0t3y",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-09-21T06:37:18.000Z",
+      "discoveredAt": "2026-09-21T06:50:48.374Z",
+      "summary": "StepFun 发布面向智能体工作的新旗舰模型 Step 5 Preview，为稀疏 MoE 架构，总参数约 600B、每 token 激活约 27B，支持 1M token 上下文和文本、图像、视频输入，API 定价为每 1M 输入 token $1.00、输出 $2.70。",
+      "category": "ai-models",
+      "score": 70,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu8ape8a1b2urogrur1alknc"
+        "canonical": "https://aihot.news/items/cmuavz62808xwrolno0jd0t3y"
       },
       "sourceType": "网站",
       "designCategory": "图像与视频",
       "relevanceScore": 8,
       "editorialScore": 11,
       "tags": [
-        "海报",
-        "设计"
+        "视频",
+        "图像",
+        "智能体"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmub5mte50jusrolngdryrri1",
+      "title": "Jev × Tripo × Astra 联动演示：Tripo P2.0 生成 3D 资产与 VRM 模型",
+      "title_en": "Jev x Tripo x Astra in action. This showcases a smooth workflow using Tripo P2.0 to generate 3D ass…",
+      "url": "https://x.com/tripoai/status/2101988205642092805",
+      "permalink": "https://aihot.news/items/cmub5mte50jusrolngdryrri1",
+      "source": "Tripo（官方 X）",
+      "publishedAt": "2026-09-21T10:53:35.000Z",
+      "discoveredAt": "2026-09-21T11:21:06.938Z",
+      "summary": "Jev × Tripo × Astra 联动 Demo 展示了用 Tripo P2.0 生成 3D 资产与 VRM 模型、由 Jev 驱动语音激活战斗与逻辑的流畅工作流。Jev 负责地图无限扩展、商人文本谈判判定、战斗自由行动判定及语音动作特效分类，Tripo SmartMesh P2.0 生成随机出现的 NPC/敌人/资产与部分魔法特效资产。10 分钟试玩版链接在推文回复中。",
+      "category": null,
+      "score": 26,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmub5mte50jusrolngdryrri1"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 9,
+      "editorialScore": 10,
+      "tags": [
+        "工作流",
+        "workflow",
+        "3d"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmub45hqr0i4urolnknu4wodl",
+      "title": "12个可落地的 Jev 相关 GitHub 仓库清单：从 browser-use 旗舰到砍掉60%账单的代码路由器",
+      "title_en": "天天在看 Jev 刷屏却不知道怎么接进自己项目的开发者， 建议把这份12 个顶级GitHub仓库清单直接保存，从 Vercel Labs 的生成式 UI 到实测砍掉 60% 账单的代码路由器， 最值得…",
+      "url": "https://x.com/AYi_AInotes/status/2101981995559510467",
+      "permalink": "https://aihot.news/items/cmub45hqr0i4urolnknu4wodl",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-09-21T10:28:55.000Z",
+      "discoveredAt": "2026-09-21T10:39:39.996Z",
+      "summary": "作者整理了一份12个与 Jev 强类型决策相关的 GitHub 仓库清单，按底层机制、智能体基础设施、极限性能演示三个阶段排列，涵盖 browser-use/jev-ultrafast、vercel-labs/-render、tamaratran/fast-jev-compaction 等项目，并附仓库链接。",
+      "category": "tip",
+      "score": 55,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmub45hqr0i4urolnknu4wodl"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "ui",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmuazjezi0d29rolnjyjxugdz",
+      "title": "实测阶跃星辰 Step 5 Preview：网页复刻精度高，还能接 Agent 干活",
+      "title_en": "实测阶跃星辰新模型Step 5 Preview，网页复刻这块我愿称之为天才程序员级",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511578&idx=1&sn=f468f88e308cf28a8b94ae2bee0186ca",
+      "permalink": "https://aihot.news/items/cmuazjezi0d29rolnjyjxugdz",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-09-21T08:20:11.000Z",
+      "discoveredAt": "2026-09-21T08:30:32.281Z",
+      "summary": "作者实测阶跃星辰新模型 Step 5 Preview，认为其 UI 能力已追上第一梯队，称较上一模型排名提升 13 名，与 K3 和 Grok 打平，价格约为三分之一。",
+      "category": "tip",
+      "score": 51,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuazjezi0d29rolnjyjxugdz"
+      },
+      "sourceType": "公众号",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "ui",
+        "agent"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmuazcpyr0cthrolnrdb9b7dv",
+      "title": "月之暗面发布 Kimi Code Desktop，macOS 和 Windows 版同步上线",
+      "title_en": "月之暗面发布 Kimi Code Desktop 桌面客户端，macOS 和 Windows 版同步上线",
+      "url": "https://www.ithome.com/1/005/258.htm",
+      "permalink": "https://aihot.news/items/cmuazcpyr0cthrolnrdb9b7dv",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-21T07:38:04.000Z",
+      "discoveredAt": "2026-09-21T08:25:18.889Z",
+      "summary": "月之暗面发布 Kimi Code Desktop 桌面客户端，macOS（Apple + Intel 芯片）和 Windows 版同步上线，下载地址为 kimi.com/code。桌面端提供图形界面管理项目、会话和配置，内置终端、浏览器和 Git 状态查看，支持 Plan、Goal、Swarm 及实验性的 Tower 多 Agent 协作模式，CLI 任务可直接同步到桌面端。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuazcpyr0cthrolnrdb9b7dv"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "界面",
+        "agent"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmuavz0qc08xdrolnbborpyzx",
+      "title": "为什么 MCP 一直都是个糟糕的主意",
+      "title_en": "为什么MCP一直都是个糟糕的主意？",
+      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+      "permalink": "https://aihot.news/items/cmuavz0qc08xdrolnbborpyzx",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-21T06:27:15.988Z",
+      "discoveredAt": "2026-09-21T06:50:41.823Z",
+      "summary": "作者认为 MCP 是为早期较弱的 LLM 设计的协议，模型如今已能直接写脚本、调用 API 和使用 --help 发现 CLI，多数 MCP 服务器可被终端智能体替代。他建议逐步淘汰 MCP，标准化智能体直接使用 HTTP API，例如发送 Accept： text/markdown 头和在 Accept-Language 中声明偏好编程语言，后一做法已获 Shopify 文档支持。",
+      "category": "tip",
+      "score": 68,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuavz0qc08xdrolnbborpyzx"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计",
+        "智能体",
+        "mcp"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmualhjav0ne2ro5t3f7tgxnt",
@@ -705,32 +900,58 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmu8m89ek1qa5rogr16zrfu1z",
-      "title": "Jev 如何进化智能体 harness 体验",
-      "title_en": "Been integrating Jev into my custom harness. I couldn't be more excited about the results I am seei…",
-      "url": "https://x.com/omarsar0/status/2101349932569370826",
-      "permalink": "https://aihot.news/items/cmu8m89ek1qa5rogr16zrfu1z",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "publishedAt": "2026-09-19T16:37:19.000Z",
-      "discoveredAt": "2026-09-19T16:42:23.774Z",
-      "summary": "Elvis Saravia 将 Jev 集成进自建 harness，认为它不只是更快更便宜，而是能解锁此前受成本、延迟或缺少合适原语限制的智能体体验。Jev 可用于分类、控制流、确定性工作流和大规模标注，并通过智能决策、结构化智能与按需上下文管理提升可靠性。他还看好 Jev 在动态 UI、LLM 评审、验证器与合成高质量数据上的潜力，完整指南即将发布。",
+      "id": "cmub8ftfz0qd8roln1fhyebik",
+      "title": "DeepSeek v4.1 flash 在 WorkBuddy 国际版限时免费",
+      "title_en": "DeepSeek v4.1 flash 在workbudy国际版限时免费， 最后4天，速冲宝子们！ https://workbuddy.ai/invite?code=YRFHHFVH",
+      "url": "https://x.com/AYi_AInotes/status/2102009475288686691",
+      "permalink": "https://aihot.news/items/cmub8ftfz0qd8roln1fhyebik",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-09-21T12:18:07.000Z",
+      "discoveredAt": "2026-09-21T12:39:39.480Z",
+      "summary": "DeepSeek v4.1 flash 在 WorkBuddy 国际版限时免费，仅剩最后 4 天。引用推文介绍用 WorkBuddy + Karpathy LLM Wiki 搭建私人内容生产线：把代表作、创作笔记和定位说明结构化为 19 个知识页，封装成专属内容 Skill，实现个人知识库 + 专属 Skill + 自动化写作流，并开源各环节提示词。",
       "category": null,
-      "score": 32,
+      "score": 24,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu8m89ek1qa5rogr16zrfu1z"
+        "canonical": "https://aihot.news/items/cmub8ftfz0qd8roln1fhyebik"
       },
       "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
       "tags": [
-        "ui",
-        "工作流",
-        "智能体"
+        "提示词",
+        "自动化",
+        "skill"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmub4unl70iv2rolnbf501kpp",
+      "title": "BytePlus 推出 AI 短剧平台 Dramagic",
+      "title_en": "BytePlus 把 Dramagic 放出来了，做 AI 短剧工具的可能要重新开始算比账。 字节在把模型能力一路往制作团队的工作台里装。 LTX Studio 和 Runway 也一直在做类似的事…",
+      "url": "https://x.com/frxiaobei/status/2101987690497654972",
+      "permalink": "https://aihot.news/items/cmub4unl70iv2rolnbf501kpp",
+      "source": "X：小北 (@frxiaobei)",
+      "publishedAt": "2026-09-21T10:51:33.000Z",
+      "discoveredAt": "2026-09-21T10:59:13.630Z",
+      "summary": "BytePlus 把 Dramagic 放出来了，做 AI 短剧工具的可能要重新开始算比账。\n\n字节在把模型能力一路往制作团队的工作台里装。 LTX Studio 和 Runway 也一直在做类似的事儿。\n\n那么问题来了：这次又要干死谁？",
+      "category": null,
+      "score": 45,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmub4unl70iv2rolnbf501kpp"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "runway"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmuajsh3b0lkvro5tnzoxesjv",
@@ -812,61 +1033,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmu99pi3604g2ro8iyt4qb7p7",
-      "title": "阶跃星辰发布 Step 5 Preview 旗舰模型，10 月 15 日开放权重",
-      "title_en": "Introducing Step 5 Preview： Advancing the Pareto Frontier. Step 5 Preview is our new flagship model…",
-      "url": "https://x.com/StepFun_ai/status/2101510462685003786",
-      "permalink": "https://aihot.news/items/cmu99pi3604g2ro8iyt4qb7p7",
-      "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
-      "publishedAt": "2026-09-20T03:15:13.000Z",
-      "discoveredAt": "2026-09-20T03:39:39.065Z",
-      "summary": "阶跃星辰发布旗舰模型 Step 5 Preview，主打智能体工作，在软件工程和专业知识工作中达到前沿水平，金融领域尤其突出。模型为 600B 总参数 / 27B 激活的 MoE，支持 1M 上下文和视觉能力，官方称在相当智能水平下任务成本明显更低，已可在 platform.stepfun.ai 试用，开放权重将于 10 月 15 日放出。",
-      "category": "ai-models",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu99pi3604g2ro8iyt4qb7p7"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "视觉",
-        "智能体"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmu98qqhw035fro8ivt3mrswi",
-      "title": "Databricks CEO：企业AI瓶颈在上下文",
-      "title_en": "Databricks co-founder and CEO Ali Ghodsi： For most use cases in enterprises， the bottleneck is not…",
-      "url": "https://x.com/rohanpaul_ai/status/2101509306378313787",
-      "permalink": "https://aihot.news/items/cmu98qqhw035fro8ivt3mrswi",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-20T03:10:37.000Z",
-      "discoveredAt": "2026-09-20T03:12:23.439Z",
-      "summary": "Databricks 联合创始人兼 CEO Ali Ghodsi：\n\n对大多数企业用例来说，瓶颈不是模型智能，而是上下文：会议、决策、工作流、历史记录，以及藏在员工脑子里的组织知识。\n\n\"我认为，对地球上绝大多数组织来说，它们在真正实现自动化、从这些东西中获取价值的采用曲线上，落后得太远了。\"\n\n----\n\n来自\"a16z\"YouTube 频道，（完整视频链接见评论）",
-      "category": null,
-      "score": 37,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu98qqhw035fro8ivt3mrswi"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "工作流",
-        "视频",
-        "自动化"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
       "id": "cmu96vqg8035srodqu63q13w4",
       "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
       "title_en": "阶跃发布旗舰模型 Step 5 Preview：向前一步，智能效率的新一代\"帕累托前沿\"",
@@ -920,33 +1086,6 @@
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
-      "id": "cmu97oxf3033iro1xt4j4haqv",
-      "title": "Meta 的 muse 首支电视广告上线",
-      "title_en": "muse is going NATIONWIDE to a television near you this is our first @muse ad ever， going live this …",
-      "url": "https://x.com/alexandr_wang/status/2101500560050684401",
-      "permalink": "https://aihot.news/items/cmu97oxf3033iro1xt4j4haqv",
-      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-      "publishedAt": "2026-09-20T02:35:52.000Z",
-      "discoveredAt": "2026-09-20T02:43:13.469Z",
-      "summary": "muse 要走向全国，登陆你身边的电视\n\n这是我们有史以来第一支 @muse 广告，本周末上线！希望你们在看大赛时喜欢！\n\n大大感谢 @joshginsberg、denise，以及整个 meta 营销团队 ❤️",
-      "category": null,
-      "score": 25,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu97oxf3033iro1xt4j4haqv"
-      },
-      "sourceType": "X",
-      "designCategory": "行业观察",
-      "relevanceScore": 8,
-      "editorialScore": 8,
-      "tags": [
-        "广告",
-        "营销"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
       "id": "cmuai1bgy0jrero5tuswmgc5q",
       "title": "Dan McKinley：提示词并非真实存在，生产环境应靠评测与自动优化",
       "title_en": "提示词并非真实存在",
@@ -974,33 +1113,6 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmu8m9cfb1qc6rogrlswpefqz",
-      "title": "Meta Muse 智能体周末玩法指南：五种超出邮件和日程的用法",
-      "title_en": "more musecases for this weekend if you have a chance！",
-      "url": "https://x.com/alexandr_wang/status/2101350436540465343",
-      "permalink": "https://aihot.news/items/cmu8m9cfb1qc6rogrlswpefqz",
-      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-      "publishedAt": "2026-09-19T16:39:19.000Z",
-      "discoveredAt": "2026-09-19T16:43:13.445Z",
-      "summary": "Alexandr Wang 转引 @petergyang 对 Muse 的周末用法总结，列出五种超出常规邮件和日历工作流的玩法：个性化 Feed、在线填表和比价、通过 Instagram/Threads/Messenger 及桌面端 iMessage 监控私信、用照片在 Facebook Marketplace 上架和搜低价，以及代打客服电话并代表用户与人工客服沟通。",
-      "category": "tip",
-      "score": 50,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu8m9cfb1qc6rogrlswpefqz"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "工作流",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
       "id": "cmua567e703tmro5t558lzx7o",
       "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
       "title_en": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
@@ -1023,33 +1135,6 @@
       "editorialScore": 6,
       "tags": [
         "广告"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmu8pr71y08n5ro3kdwcaszld",
-      "title": "对 jev 命名感到厌倦",
-      "title_en": "anyone else tired of the jev thing？ our brand is irreverent and insane， not \"jev\" （might be because …",
-      "url": "https://x.com/CompleteSkeptic/status/2101370481328984475",
-      "permalink": "https://aihot.news/items/cmu8pr71y08n5ro3kdwcaszld",
-      "source": "@completeskeptic",
-      "publishedAt": "2026-09-19T17:58:58.000Z",
-      "discoveredAt": "2026-09-19T18:21:06.195Z",
-      "summary": "还有人厌倦了 jev 这件事吗？我们的品牌是桀骜不驯、疯狂的，不是\"jev\"（可能是因为我正处于风暴中心）\n\n它有趣是因为给模型起名 jev 本身就很疯狂\n\n（另外说这个可能也很疯狂，但我们还没有营销人员）",
-      "category": null,
-      "score": 16,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu8pr71y08n5ro3kdwcaszld"
-      },
-      "sourceType": "X",
-      "designCategory": "行业观察",
-      "relevanceScore": 6,
-      "editorialScore": 6,
-      "tags": [
-        "品牌",
-        "营销"
       ],
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     }
