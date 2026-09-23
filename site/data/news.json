@@ -1,48 +1,18 @@
 {
-  "generatedAt": "2026-09-23T04:46:08.097Z",
-  "previousGeneratedAt": "2026-09-22T16:57:29.912Z",
+  "generatedAt": "2026-09-23T11:36:51.188Z",
+  "previousGeneratedAt": "2026-09-23T04:46:08.097Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 42,
+  "itemCount": 43,
   "sourceCounts": {
     "X": 24,
-    "网站": 17,
-    "公众号": 1
+    "网站": 19
   },
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com"
   },
   "items": [
-    {
-      "id": "cmuc3494f0789rotsmeoyqjr7",
-      "title": "腾讯混元发布 Hy Image3.5 preview 图像生成模型",
-      "title_en": "Hy Image3.5 preview is live. 🚀 Professional-grade image generation， +30% win rate in human eval vs…",
-      "url": "https://x.com/TencentHunyuan/status/2102226552310419473",
-      "permalink": "https://aihot.news/items/cmuc3494f0789rotsmeoyqjr7",
-      "source": "X：腾讯混元 (@TencentHunyuan)",
-      "publishedAt": "2026-09-22T02:40:42.000Z",
-      "discoveredAt": "2026-09-22T02:58:28.717Z",
-      "summary": "腾讯混元推出 Hy Image3.5 preview，定位专业级图像生成，人评胜率较 Hy Image3.0 提升 30%。支持文生图与图生图，最高 2K 分辨率，一致性更好；Tencent Cloud API 定价 $0.024 每张，参考图不收费，Miora 和 OnSolo 提供两周免费。",
-      "category": "ai-models",
-      "score": 55,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuc3494f0789rotsmeoyqjr7"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 31,
-      "editorialScore": 34,
-      "tags": [
-        "图像生成",
-        "文生图",
-        "image generation",
-        "生图"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
     {
       "id": "cmudik3660c1crogguca8tlp9",
       "title": "腾讯混元 Hy Image3.5 preview 上线 ComfyUI",
@@ -189,6 +159,35 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmudyj7940cnqrogh52uoifo8",
+      "title": "蚂蚁百灵开源 Ming-Image-0.1-Design 系列模型，UI 设计专项评测位列开源第一",
+      "title_en": null,
+      "url": "https://www.ithome.com/1/006/390.htm",
+      "permalink": "https://aihot.news/items/cmudyj7940cnqrogh52uoifo8",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-23T09:42:16.000Z",
+      "discoveredAt": "2026-09-23T10:25:40.922Z",
+      "summary": "蚂蚁百灵开源 Ming-Image-0.1-Design 系列模型，包含两个 6B 模型，分别用于从文字生成 UI、信息图、海报等设计和将设计图拆为可编辑透明图层，同时开源 Design Skill 和 PPT Skill。",
+      "category": "ai-models",
+      "score": 54,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmudyj7940cnqrogh52uoifo8"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 14,
+      "editorialScore": 18,
+      "tags": [
+        "海报",
+        "ui",
+        "design",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "cmucvovf50q87roedstu507yi",
       "title": "Unsloth 发布 Qwen-Image-2.1 GGUF 量化版，12GB 显存可本地运行",
       "title_en": "Qwen-Image-2.1 can now run locally on 12GB VRAM with Unsloth GGUFs！ 🖼️ The 7B model performs on pa…",
@@ -206,33 +205,6 @@
         "canonical": "https://aihot.news/items/cmucvovf50q87roedstu507yi"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 15,
-      "editorialScore": 18,
-      "tags": [
-        "文生图",
-        "生图"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmuc42x6f08hlrots30mqe9u6",
-      "title": "腾讯混元发布 Hy Image3.5 preview：支持文生图与多轮对话创作，已上线元宝、ima 等应用",
-      "title_en": "腾讯混元 Hy Image3.5 preview 发布：支持文生图与多轮对话创作，已上线元宝、ima 等应用",
-      "url": "https://www.ithome.com/1/005/589.htm",
-      "permalink": "https://aihot.news/items/cmuc42x6f08hlrots30mqe9u6",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-22T02:47:27.000Z",
-      "discoveredAt": "2026-09-22T03:25:27.060Z",
-      "summary": "腾讯混元团队 9 月 22 日发布 Hy Image3.5 preview 模型，面向专业级生图，支持文生图、图生图和多轮对话创作，单次最多上传 5 张参考图，最高 2K 分辨率。",
-      "category": "ai-models",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuc42x6f08hlrots30mqe9u6"
-      },
-      "sourceType": "网站",
       "designCategory": "图像与视频",
       "relevanceScore": 15,
       "editorialScore": 18,
@@ -270,35 +242,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmuc2u0fh06wdrotsttnb5ik2",
-      "title": "腾讯混元发布 Hy Image3.5 preview 专业生图模型",
-      "title_en": "Hy Image3.5 preview 发布，为专业创作提供高性价比模型",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498632&idx=1&sn=503321c4942df7d8983d81839f1292de",
-      "permalink": "https://aihot.news/items/cmuc2u0fh06wdrotsttnb5ik2",
-      "source": "公众号：腾讯混元",
-      "publishedAt": "2026-09-22T02:36:53.000Z",
-      "discoveredAt": "2026-09-22T02:50:32.287Z",
-      "summary": "腾讯混元发布混元图像 3.5 预览版（Hy Image3.5 preview），官方称综合能力较 Hy Image3.0 提升约 30%，内部数百名设计师 GSB 盲测中与 Seedream 5.0 pro 持平，略优于 Nano-Banana Pro 和 Qwen-Image-3.0 Pro。",
-      "category": "ai-models",
-      "score": 65,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuc2u0fh06wdrotsttnb5ik2"
-      },
-      "sourceType": "公众号",
-      "designCategory": "产品与体验",
-      "relevanceScore": 12,
-      "editorialScore": 16,
-      "tags": [
-        "生图",
-        "设计师",
-        "设计",
-        "图像"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmuceuxtb03ejroedshu60ciw",
       "title": "Tencent unveiled Hy Image 3.5 Preview on Tuesday， integrating the image model into Yuanbao and video…",
       "title_en": null,
@@ -326,33 +269,6 @@
         "视频"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmuc6833k0aywrotsdkjrr1s0",
-      "title": "阿里公布大模型进展：Qwen4 训练中，后继模型将扩展至 5-10T 参数",
-      "title_en": "阿里 Qwen4 和下代视频模型训练中，Qwen4.5 后模型将扩展至 5-10T 参数",
-      "url": "https://www.ithome.com/1/005/633.htm",
-      "permalink": "https://aihot.news/items/cmuc6833k0aywrotsdkjrr1s0",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-22T03:41:58.000Z",
-      "discoveredAt": "2026-09-22T04:25:27.278Z",
-      "summary": "阿里巴巴在 2026 云栖大会公布大模型一系列进展：Qwen4 已在训练中，未来 Qwen4.5、Qwen5 等版本将扩展至 5-10T 参数，下一代视频生成模型将于 11 月发布。",
-      "category": "industry",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuc6833k0aywrotsdkjrr1s0"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "视频生成",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmudczy4q063vroggcs4ng4cj",
@@ -405,34 +321,6 @@
         "视频生成",
         "视频",
         "agent"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmuc5rbyk0a9crotsexvcng8u",
-      "title": "腾讯混元3.5登陆OnSolo",
-      "title_en": "Hunyuan 3.5 （Tencent's latest image-generation model） is genuinely pretty good at following referenc…",
-      "url": "https://x.com/rohanpaul_ai/status/2102245699870179611",
-      "permalink": "https://aihot.news/items/cmuc5rbyk0a9crotsexvcng8u",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-22T03:56:47.000Z",
-      "discoveredAt": "2026-09-22T04:12:23.716Z",
-      "summary": "Hunyuan 3.5（腾讯最新的图像生成模型）在参考遵循和保持图像精致度方面确实相当不错，尤其是在 2K 分辨率下。\n\nOnSolo 让每次生成只需 1 credit，便宜到可以反复迭代，而不用对每个提示词反复斟酌。",
-      "category": null,
-      "score": 36,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuc5rbyk0a9crotsexvcng8u"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "图像生成",
-        "图像",
-        "提示词"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -492,6 +380,34 @@
         "视频"
       ],
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
+      "id": "cmue0oeel0ez2roghditjgzfx",
+      "title": "空客用 Steam Deck 掌机操控 ExoMars 火星车原型进行地面测试",
+      "title_en": "为进行地面测试，空客用 Steam Deck 掌机操控 ExoMars 火星车原型",
+      "url": "https://www.ithome.com/1/006/410.htm",
+      "permalink": "https://aihot.news/items/cmue0oeel0ez2roghditjgzfx",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-23T10:39:35.000Z",
+      "discoveredAt": "2026-09-23T11:25:41.886Z",
+      "summary": "空中客车在英国研发的 ExoMars 火星车原型（正式名称为\"罗莎琳德·富兰克林号\"）正使用 Valve 的 Steam Deck 掌机进行地面测试操控。视频显示，一台 Steam Deck 运行未公开的定制软件，通过摇杆、扳机键和面部按键控制火星车。该火星车计划于 2030 年登陆火星，着陆平台由空客史蒂文尼奇团队设计机械、热控和推进系统。",
+      "category": null,
+      "score": 49,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmue0oeel0ez2roghditjgzfx"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
+      "tags": [
+        "原型",
+        "设计",
+        "视频"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "cmudcgeag05bfroggz9ng0p49",
@@ -602,62 +518,108 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cmucdkkq6049troijea1dgrfj",
-      "title": "Tripo 联手 GPT-6 Astra 打造 UE5 游戏场景",
-      "title_en": "@OpenAIDevs GPT-6 Astra + Tripo + @UnrealEngine MCP = A playable medieval city in UE5. Our new blo…",
-      "url": "https://x.com/tripoai/status/2102298150644150761",
-      "permalink": "https://aihot.news/items/cmucdkkq6049troijea1dgrfj",
-      "source": "Tripo（官方 X）",
-      "publishedAt": "2026-09-22T07:25:12.000Z",
-      "discoveredAt": "2026-09-22T07:51:06.050Z",
-      "summary": "@OpenAIDevs GPT-6 Astra + Tripo + @UnrealEngine MCP = 一个 UE5 中可游玩的中世纪城市。\n\n我们的新博客文章详细介绍了批量生成 3D 资产并组装完整游戏场景的完整工作流。\n\n在此查看完整工作流：https://www.tripo3d.ai/blog/gpt-6-astra-3d-game-scene-workflow\n\n#TripoAstra",
+      "id": "cmudyj7930cnoroghh24xeh7v",
+      "title": "一加 16 现身安兔兔：第 6 代骁龙 8 超级至尊版、跑分超 538 万",
+      "title_en": "OnePlus PYB110 新机现身安兔兔：第 6 代骁龙 8 超级至尊版、跑分超 538 万，预计为一加 16",
+      "url": "https://www.ithome.com/1/006/398.htm",
+      "permalink": "https://aihot.news/items/cmudyj7930cnoroghh24xeh7v",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-23T09:55:42.000Z",
+      "discoveredAt": "2026-09-23T10:25:40.922Z",
+      "summary": "安兔兔后台发现型号为 PYB110 的一加新机，预计为一加 16，总分 5384433，搭载第 6 代骁龙 8 超级至尊版移动平台，系统基于 Android 17，规格 16GB+1TB。其中 CPU 成绩 1458283、GPU 成绩 2010584、MEM 成绩 766362、UX 成绩 1149204。一加已宣布一加 16 首批搭载该处理器。",
       "category": null,
-      "score": 42,
+      "score": 27,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmucdkkq6049troijea1dgrfj"
+        "canonical": "https://aihot.news/items/cmudyj7930cnoroghh24xeh7v"
       },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 10,
-      "editorialScore": 11,
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
       "tags": [
-        "工作流",
-        "workflow",
-        "3d",
-        "mcp"
+        "ux"
       ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmuc5hyi909xhrotsberfe6wf",
-      "title": "Kimi K3 上线 Amazon Bedrock",
-      "title_en": "Kimi K3 is now on Amazon Bedrock！ Run coding， document analysis， and extended agent workflows with …",
-      "url": "https://x.com/Kimi_Moonshot/status/2102244258531213596",
-      "permalink": "https://aihot.news/items/cmuc5hyi909xhrotsberfe6wf",
-      "source": "X：Kimi.ai (@Kimi_Moonshot)",
-      "publishedAt": "2026-09-22T03:51:03.000Z",
-      "discoveredAt": "2026-09-22T04:05:05.126Z",
-      "summary": "Kimi K3 现已登陆 Amazon Bedrock！\n\n借助 Bedrock 的访问、加密和审计控制，运行编码、文档分析和扩展智能体工作流。支持显式 prompt caching。\n\n在 AWS 上开始用 K3 构建 👉 https://docs.aws.amazon.com/bedrock/latest/userguide/model-card-moonshot-ai-kimi-k3.html",
-      "category": null,
-      "score": 42,
+      "id": "cmudwte2x0aqtroghe1b5cxfd",
+      "title": "Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next",
+      "title_en": "⚡ Meet Qwen-Audio-3.1！ ASR， TTS & Realtime are fully upgraded， joined by two new models： TTS-Next fo…",
+      "url": "https://x.com/Alibaba_Qwen/status/2102687258990026993",
+      "permalink": "https://aihot.news/items/cmudwte2x0aqtroghe1b5cxfd",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "publishedAt": "2026-09-23T09:11:23.000Z",
+      "discoveredAt": "2026-09-23T09:37:37.169Z",
+      "summary": "Qwen 发布 Qwen-Audio-3.1，ASR、TTS 与 Realtime 全面升级，并新增音频创作模型 TTS-Next 和音频理解模型 ASR-Next，共五个模型覆盖理解、生成、交互与创作。全线降价，TTS 约 70% off、Realtime 约 85% off、ASR 最高 95% off；Realtime 可边说边听、随时打断，检测到低落情绪时会放慢语速并共情回应。",
+      "category": "ai-models",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmudwte2x0aqtroghe1b5cxfd"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmuds3qay05hfrogh1b8s8bzl",
+      "title": "阿里千问发布 Qwen-Audio-3.1 系列五款语音模型并全线降价",
+      "title_en": "阿里千问发布 Qwen-Audio-3.1 系列语音大模型，并下调全线产品价格",
+      "url": "https://www.ithome.com/1/006/280.htm",
+      "permalink": "https://aihot.news/items/cmuds3qay05hfrogh1b8s8bzl",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-23T07:15:26.000Z",
+      "discoveredAt": "2026-09-23T07:25:40.089Z",
+      "summary": "千问发布 Qwen-Audio-3.1 系列语音大模型，包含 ASR、ASR-Next、TTS、TTS-Next 和 Realtime 五款模型，覆盖语音识别、合成、实时交互和音频创作。",
+      "category": "ai-models",
+      "score": 68,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuc5hyi909xhrotsberfe6wf"
+        "canonical": "https://aihot.news/items/cmuds3qay05hfrogh1b8s8bzl"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmudnnjbe0hporogggdm18xlz",
+      "title": "Jev 实现动态 UI 文本框",
+      "title_en": "Dynamic UIs for apps are a famous graveyard at least for PMs， if not for entire products and compani…",
+      "url": "https://x.com/typesafeai/status/2102628596879880649",
+      "permalink": "https://aihot.news/items/cmudnnjbe0hporogggdm18xlz",
+      "source": "@typesafeai",
+      "publishedAt": "2026-09-23T05:18:17.000Z",
+      "discoveredAt": "2026-09-23T05:21:06.555Z",
+      "summary": "应用的动态 UI 是著名的坟场，至少对 PM 来说是这样，甚至对整个产品和公司也是如此。如果真有这么简单呢？Jev 正在做这件事。",
+      "category": null,
+      "score": 22,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmudnnjbe0hporogggdm18xlz"
       },
       "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 10,
-      "editorialScore": 11,
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
       "tags": [
-        "工作流",
-        "prompt",
-        "agent",
-        "智能体"
+        "ui"
       ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmud771ii04vzrora6infmli1",
@@ -959,6 +921,64 @@
         "提示词"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmucixh9x07zfroedykviv56z",
+      "title": "Tripo3D 助力 7 小时做出可玩暗黑游戏",
+      "title_en": "A fully playable dark fantasy game in just 7 hours. Incredible to see Tripo3D powering the 3D asset…",
+      "url": "https://x.com/tripoai/status/2102337686707269930",
+      "permalink": "https://aihot.news/items/cmucixh9x07zfroedykviv56z",
+      "source": "Tripo（官方 X）",
+      "publishedAt": "2026-09-22T10:02:18.000Z",
+      "discoveredAt": "2026-09-22T10:21:06.952Z",
+      "summary": "Tripo3D 为 Fable 5.1 + Godot 工作流提供 3D 资产，仅用一条提示词和 7 小时就做出完全可玩的暗黑奇幻游戏 Relic Eater。该游戏是弹幕天堂类型，玩家吞噬敌方 Boss 并夺取其身体部位和技能。作者称不用 MCP 可减少工具调用、加快循环并获得更干净的结果。",
+      "category": null,
+      "score": 39,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmucixh9x07zfroedykviv56z"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 9,
+      "editorialScore": 10,
+      "tags": [
+        "工作流",
+        "3d",
+        "提示词",
+        "mcp"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmudbhd2b04fdroggn32l8x0w",
+      "title": "OpenAI 增强 GPT-6 提示词缓存可靠性与可控性",
+      "title_en": "OpenAI is making GPT-6 prompt caching more reliable and controllable， adding higher hit rates， diagn…",
+      "url": "https://x.com/rohanpaul_ai/status/2102541845679255986",
+      "permalink": "https://aihot.news/items/cmudbhd2b04fdroggn32l8x0w",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-22T23:33:34.000Z",
+      "discoveredAt": "2026-09-22T23:40:23.477Z",
+      "summary": "OpenAI 为 GPT-6 的提示词缓存带来更高命中率、诊断工具、断点、预热和保留缓存的推理变更。缓存复用可将缓存输入 token 成本降低最多 90%，新仪表盘展示缓存命中率及缓存与未缓存 token 量。作者指出高命中率仍是应用设计问题，开发者需让长时运行智能体的稳定指令和工具保持可复用。",
+      "category": "ai-products",
+      "score": 53,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmudbhd2b04fdroggn32l8x0w"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "设计",
+        "提示词",
+        "prompt",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmud4mu5303n5roa915w7f1ja",
