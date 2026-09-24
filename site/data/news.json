@@ -1,12 +1,13 @@
 {
-  "generatedAt": "2026-09-24T04:51:00.090Z",
-  "previousGeneratedAt": "2026-09-23T16:58:46.801Z",
+  "generatedAt": "2026-09-24T11:46:10.426Z",
+  "previousGeneratedAt": "2026-09-24T04:51:00.090Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 48,
+  "itemCount": 44,
   "sourceCounts": {
-    "X": 24,
-    "网站": 24
+    "X": 20,
+    "网站": 22,
+    "公众号": 2
   },
   "source": {
     "name": "AI HOT",
@@ -72,64 +73,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmudik3660c1crogguca8tlp9",
-      "title": "腾讯混元 Hy Image3.5 preview 上线 ComfyUI",
-      "title_en": "ComfyUI ✖️ Hy Image3.5 preview",
-      "url": "https://x.com/TencentHunyuan/status/2102588771829195229",
-      "permalink": "https://aihot.news/items/cmudik3660c1crogguca8tlp9",
-      "source": "X：腾讯混元 (@TencentHunyuan)",
-      "publishedAt": "2026-09-23T02:40:02.000Z",
-      "discoveredAt": "2026-09-23T02:58:28.047Z",
-      "summary": "腾讯混元宣布 Hy Image3.5 preview 现已在 ComfyUI 中可用。该模型面向专业级图像生成，人类评测胜率相比 Hy Image3.0 提升 30%；单一模型支持文生图和图生图、最高 2K 分辨率，可正确渲染多语言文字、符号和小字，覆盖电影感、漫画、商业摄影和插画风格，并在场景、服装和风格变化中保持人物身份与产品特征。",
-      "category": "ai-products",
-      "score": 57,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmudik3660c1crogguca8tlp9"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 27,
-      "editorialScore": 30,
-      "tags": [
-        "图像生成",
-        "文生图",
-        "生图",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmudfo3yi090orogg6bl51tiq",
-      "title": "Qwen-Image-2.1 登顶 Arena 图像编辑与文生图开源榜第一",
-      "title_en": "Thanks @arena for the recognition！ 🏆 Qwen-Image-2.1 is now the #1 open-source model in both the Ima…",
-      "url": "https://x.com/Alibaba_Qwen/status/2102569821997346912",
-      "permalink": "https://aihot.news/items/cmudfo3yi090orogg6bl51tiq",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "publishedAt": "2026-09-23T01:24:44.000Z",
-      "discoveredAt": "2026-09-23T01:37:37.014Z",
-      "summary": "通义千问宣布 Qwen-Image-2.1 在 Arena 的 Image Edit Arena 和 Text-to-Image Arena 均为开源模型第一。引用内容显示其 Image Edit Arena 得分 1367，总榜第 16，距第 15 名 GPT-Image-1.5-high-fidelity 仅 3 分，官方邀请用户体验该模型。",
-      "category": "ai-products",
-      "score": 64,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmudfo3yi090orogg6bl51tiq"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 18,
-      "editorialScore": 21,
-      "tags": [
-        "用户体验",
-        "文生图",
-        "生图",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmueeqbrh04d9rox39ro0byf0",
       "title": "Pragmatic Engineer 播客对话 GitHub Next 设计工程师 Maggie Appleton 谈 AI 时代的设计工程",
       "title_en": "Design Engineering with Maggie Appleton",
@@ -156,6 +99,34 @@
         "设计"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmuf9jirw05xurocspb64l7np",
+      "title": "火山引擎对话《后西游记》主创，揭秘首部AI长剧登陆湖南卫视黄金档",
+      "title_en": "首部上星AI长剧《后西游记》，如何走进湖南卫视黄金档",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247544696&idx=1&sn=eb490357aa03d3f5655fa9fbe00a0606",
+      "permalink": "https://aihot.news/items/cmuf9jirw05xurocspb64l7np",
+      "source": "公众号：火山引擎",
+      "publishedAt": "2026-09-24T05:40:51.000Z",
+      "discoveredAt": "2026-09-24T08:21:38.554Z",
+      "summary": "国内首部AI长剧《后西游记》8月31日登陆湖南卫视黄金档，60集规划、每集约40分钟，全剧无摄影机拍摄，视频生成100%由 Seedance 实现，上线一周芒果TV正片播放量突破1.5亿次。剧集由芒果TV出品、伯璟文化承制，依托芒果灵创平台，5月立项到播出仅半年、制作周期3个月；总导演李东珅以一场动作戏为例，小组制作耗时10天、成本约十几万元，真人实拍则可能需300至400万元。",
+      "category": "tip",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuf9jirw05xurocspb64l7np"
+      },
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
+      "relevanceScore": 15,
+      "editorialScore": 18,
+      "tags": [
+        "视频生成",
+        "视频",
+        "摄影"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmudyj7940cnqrogh52uoifo8",
@@ -216,33 +187,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmudhhiw40b2oroggrsu2vdta",
-      "title": "腾讯混元 Hy Image3.5 preview 上线 ComfyUI",
-      "title_en": "ComfyUI ✖️ Hy image3.5 preview",
-      "url": "https://x.com/TencentHunyuan/status/2102585502637715797",
-      "permalink": "https://aihot.news/items/cmudhhiw40b2oroggrsu2vdta",
-      "source": "X：腾讯混元 (@TencentHunyuan)",
-      "publishedAt": "2026-09-23T02:27:02.000Z",
-      "discoveredAt": "2026-09-23T02:28:28.152Z",
-      "summary": "腾讯混元宣布 Hy Image3.5 preview 已在 ComfyUI 上可用。官方称人评胜率比 Hy Image3.0 提升 30%，单模型支持文生图和图生图、最高 2K，可正确渲染多语言文字、符号和小字，并保持人物身份与产品特征在场景、服装和风格切换中的一致。",
-      "category": "ai-products",
-      "score": 55,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmudhhiw40b2oroggrsu2vdta"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 14,
-      "editorialScore": 17,
-      "tags": [
-        "文生图",
-        "生图"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmuevxq57002hro3ky82list9",
       "title": "Midjourney alpha 更新：样式实时预览、默认参数与全宽瀑布流信息流",
       "title_en": "Alpha Changelog - 9/23/26",
@@ -298,6 +242,89 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmuf9jfua05wxrocsui8sta3j",
+      "title": "火种说|给 Agent 做完大扫除，MiniCPM5-2B 把考研数学一做对了",
+      "title_en": "火种说|给 Agent 做完大扫除，2B 模型把考研数学一做对了",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499342&idx=2&sn=b2c4db4849321c1afafd5030c76331c4",
+      "permalink": "https://aihot.news/items/cmuf9jfua05wxrocsui8sta3j",
+      "source": "公众号：面壁智能（MiniCPM）",
+      "publishedAt": "2026-09-24T07:00:37.000Z",
+      "discoveredAt": "2026-09-24T08:21:34.423Z",
+      "summary": "开发者在 M4 16GB 设备上基于 OpenHanako 框架适配 MiniCPM5-2B（本地 MLX 8bit 量化推理），通过裁剪 Computer Use、社交平台接入、图片视频生成等功能并新增 MiniCPM XML tool adapter，将工具面收缩到 11 个基础工具，解决了 2B 模型工具调用时的格式污染与指令漂移问题。",
+      "category": null,
+      "score": 48,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuf9jfua05wxrocsui8sta3j"
+      },
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频",
+        "agent"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmuf7mqil03pfrocsd5v1wd54",
+      "title": "特斯拉 App 泄露第三代 Optimus 人形机器人渲染模型，双手 22 个自由度",
+      "title_en": "密封关节设计，特斯拉 App 意外泄露第三代 Optimus 人形机器人",
+      "url": "https://www.ithome.com/1/006/793.htm",
+      "permalink": "https://aihot.news/items/cmuf7mqil03pfrocsd5v1wd54",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-24T06:56:32.000Z",
+      "discoveredAt": "2026-09-24T07:28:05.203Z",
+      "summary": "特斯拉 Android App 中被发现内置了未经遮挡的 Optimus Gen 3 人形机器人 UI 渲染模型，与 Gen 2.5 原型机相比，Gen 3 骨盆和髋部加入一体式柔性关节护罩，金色饰面改为哑光黑配香槟金，双手拥有 22 个自由度。该版本定位工厂大规模量产，特斯拉已改造弗里蒙特工厂产线用于组装 Optimus，目标产能爬坡后年产 100 万台。",
+      "category": null,
+      "score": 46,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuf7mqil03pfrocsd5v1wd54"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 10,
+      "editorialScore": 14,
+      "tags": [
+        "原型",
+        "ui",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmuf3r90709gtrood9vbw79kl",
+      "title": "刷着满屏的炸裂 AI 视频，我似乎发现了一个 AI 完不成的视频生成任务死角： \"左手六，右手七，左脚画圆，右脚踢\" 的脑血栓走路方式。 你们可以试试， 试成功了告诉我，反正我是没有成功。",
+      "title_en": null,
+      "url": "https://x.com/dongxi_nlp/status/2102990286443917550",
+      "permalink": "https://aihot.news/items/cmuf3r90709gtrood9vbw79kl",
+      "source": "X：马东锡 NLP (@dongxi_nlp)",
+      "publishedAt": "2026-09-24T05:15:30.000Z",
+      "discoveredAt": "2026-09-24T05:39:39.784Z",
+      "summary": "刷着满屏的炸裂 AI 视频，我似乎发现了一个 AI 完不成的视频生成任务死角：\n\n\"左手六，右手七，左脚画圆，右脚踢\" 的脑血栓走路方式。\n\n你们可以试试， 试成功了告诉我，反正我是没有成功。",
+      "category": null,
+      "score": 29,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuf3r90709gtrood9vbw79kl"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmueeofn404bkrox35k1njuvk",
       "title": "Google 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS，可用文字描述从零设计 AI 语音",
       "title_en": "Google's new Flash TTS models let you design AI voices from scratch using text descriptions",
@@ -323,59 +350,6 @@
         "设计"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmudczy4q063vroggcs4ng4cj",
-      "title": "Discord 推出基于账号信号的自动年龄分组，超 90% 用户无需验证年龄",
-      "title_en": "关于我们在 Discord 上如何确认您所属年龄段的最新说明",
-      "url": "https://discord.com/blog/safer-for-teens-same-discord-for-adults",
-      "permalink": "https://aihot.news/items/cmudczy4q063vroggcs4ng4cj",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-09-23T00:08:23.150Z",
-      "discoveredAt": "2026-09-23T00:22:51.642Z",
-      "summary": "Discord 本周起根据账号存在时长、加入的服务器和活跃度等信号自动划分年龄组，超过 90% 的用户不会被要求确认年龄，模型不读取消息或通话内容。18 岁以上用户体验不变，13-17 岁青少年账户将获得额外保护，包括屏蔽年龄限制内容和陌生人消息审查。",
-      "category": "ai-products",
-      "score": 61,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmudczy4q063vroggcs4ng4cj"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 10,
-      "editorialScore": 14,
-      "tags": [
-        "用户体验"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmuewn5g2033vro3khjk98601",
-      "title": "自回归视频生成中的记忆机制综述：过去如何框定未来",
-      "title_en": "The Past Frames the Future： Memory for Autoregressive Video Generation",
-      "url": "https://arxiv.org/abs/2609.28466",
-      "permalink": "https://aihot.news/items/cmuewn5g2033vro3khjk98601",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-09-23T00:00:00.000Z",
-      "discoveredAt": "2026-09-24T02:20:33.395Z",
-      "summary": "一篇综述系统梳理了自回归（AR）视频生成中的记忆机制，将记忆定义为跨 AR 步骤持续保留、在原始证据离开上下文后仍能影响后续生成的历史信息。文章从形式、功能、操作、学习与评估五个视角组织文献，并指出可组合且资源感知的记忆架构、可信状态更新、自 rollout 学习与标准化评估等开放挑战。",
-      "category": null,
-      "score": 34,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuewn5g2033vro3khjk98601"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视频生成",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmuek16ig05gbroynuyr4y9up",
@@ -600,55 +574,56 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cmudcgeag05bfroggz9ng0p49",
-      "title": "模型能力应用之道：少发功能多懂用户",
-      "title_en": "the right way to use model capabilities is not to ship 10x more features to prod it's to spend more…",
-      "url": "https://x.com/trq212/status/2102548686303854790",
-      "permalink": "https://aihot.news/items/cmudcgeag05bfroggz9ng0p49",
-      "source": "X：Thariq (@trq212)",
-      "publishedAt": "2026-09-23T00:00:44.000Z",
-      "discoveredAt": "2026-09-23T00:07:37.743Z",
-      "summary": "运用模型能力的正确方式，不是往生产环境塞 10 倍的功能\n\n而是花更多时间去理解用户、做实验、搭原型、搞懂你不明白的东西，从而交付真正有用的东西",
+      "id": "cmuf9rxju06cprocsyaq50it2",
+      "title": "大众安徽与众 09 开启预售，19.99 万元起",
+      "title_en": "大众安徽与众 09 汽车开启预售，19.99 万元起",
+      "url": "https://www.ithome.com/1/006/831.htm",
+      "permalink": "https://aihot.news/items/cmuf9rxju06cprocsyaq50it2",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-24T08:21:12.000Z",
+      "discoveredAt": "2026-09-24T08:28:05.715Z",
+      "summary": "大众安徽与众 09 正式开启预售，价格区间 19.99 万元-24.99 万元，定位\"智能美学纯电轿跑\"，预计年内上市。该车标配图灵 AI 芯片，总算力 750TOPS，搭载端到端智能辅助驾驶模型，可实现高速/城区 NOA 和车位到车位 AI 代驾。车长 5081mm、轴距 3030mm，提供单电机 230kW 与双电机四驱两种版本，全系配备宁德时代磷酸铁锂电池组。",
       "category": null,
-      "score": 32,
+      "score": 28,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmudcgeag05bfroggz9ng0p49"
-      },
-      "sourceType": "X",
-      "designCategory": "设计工具",
-      "relevanceScore": 6,
-      "editorialScore": 11,
-      "tags": [
-        "原型"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "cmuewn5g2033uro3kvduc8km8",
-      "title": "上海AI实验室发布 InternW0 物理世界模型基础版",
-      "title_en": "InternW0： A Foundational Physical World Model for Efficient Real-World Interactions",
-      "url": "https://arxiv.org/abs/2609.27656",
-      "permalink": "https://aihot.news/items/cmuewn5g2033uro3kvduc8km8",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-09-23T00:00:00.000Z",
-      "discoveredAt": "2026-09-24T02:20:33.395Z",
-      "summary": "上海AI实验室推出 InternW 物理世界模型系列的首个模型 InternW0，通过非对称视频动作架构结合 flow matching 联合学习未来视觉动态与连续机器人控制，视频专家提供长时程预测上下文，轻量动作专家以更快频率运行，并通过复用层间 K/V 和观察条件上下文路由避免每次动作更新都重新生成未来。",
-      "category": "paper",
-      "score": 56,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuewn5g2033uro3kvduc8km8"
+        "canonical": "https://aihot.news/items/cmuf9rxju06cprocsyaq50it2"
       },
       "sourceType": "网站",
       "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "relevanceScore": 7,
+      "editorialScore": 10,
       "tags": [
-        "视觉",
-        "视频"
+        "配图"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmuf9wyus0007roagu8teb622",
+      "title": "元宝上线旅游计划 Agent：切换专家模式，一句话生成可交互行程卡",
+      "title_en": "这个中秋国庆，放过自己，别放过 AI",
+      "url": "https://elsewhere.news/zh/crossing/this-mid-autumn-and-national-day-holiday-cut-yourself-some-s",
+      "permalink": "https://aihot.news/items/cmuf9wyus0007roagu8teb622",
+      "source": "elsewhere：文章（RSS）",
+      "publishedAt": "2026-09-24T01:00:00.000Z",
+      "discoveredAt": "2026-09-24T08:32:04.824Z",
+      "summary": "元宝在节前更新上线旅游计划 Agent，用户在元宝 APP 对话中切换到专家模式即可触发，输入需求后自动搜索实时信息并生成可视化行程卡。该行程卡支持滑动查看、切换地图标注，还可调用混元最新生图模型 Hy Image3.5 preview 生成攻略图，并支持对话迭代修改行程。",
+      "category": null,
+      "score": 49,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuf9wyus0007roagu8teb622"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "生图",
+        "交互",
+        "agent"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -1000,32 +975,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmudnnjbe0hporogggdm18xlz",
-      "title": "Jev 实现动态 UI 文本框",
-      "title_en": "Dynamic UIs for apps are a famous graveyard at least for PMs， if not for entire products and compani…",
-      "url": "https://x.com/typesafeai/status/2102628596879880649",
-      "permalink": "https://aihot.news/items/cmudnnjbe0hporogggdm18xlz",
-      "source": "@typesafeai",
-      "publishedAt": "2026-09-23T05:18:17.000Z",
-      "discoveredAt": "2026-09-23T05:21:06.555Z",
-      "summary": "应用的动态 UI 是著名的坟场，至少对 PM 来说是这样，甚至对整个产品和公司也是如此。如果真有这么简单呢？Jev 正在做这件事。",
-      "category": null,
-      "score": 22,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmudnnjbe0hporogggdm18xlz"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "ui"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmueup7fp03m9royq0c7hws53",
       "title": "Runway 接入 DaVinci Resolve",
       "title_en": "Runway is now in DaVinci Resolve Access the world's best models directly inside your timeline to ge…",
@@ -1076,35 +1025,6 @@
         "runway"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmudbhd2b04fdroggn32l8x0w",
-      "title": "OpenAI 增强 GPT-6 提示词缓存可靠性与可控性",
-      "title_en": "OpenAI is making GPT-6 prompt caching more reliable and controllable， adding higher hit rates， diagn…",
-      "url": "https://x.com/rohanpaul_ai/status/2102541845679255986",
-      "permalink": "https://aihot.news/items/cmudbhd2b04fdroggn32l8x0w",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-22T23:33:34.000Z",
-      "discoveredAt": "2026-09-22T23:40:23.477Z",
-      "summary": "OpenAI 为 GPT-6 的提示词缓存带来更高命中率、诊断工具、断点、预热和保留缓存的推理变更。缓存复用可将缓存输入 token 成本降低最多 90%，新仪表盘展示缓存命中率及缓存与未缓存 token 量。作者指出高命中率仍是应用设计问题，开发者需让长时运行智能体的稳定指令和工具保持可复用。",
-      "category": "ai-products",
-      "score": 53,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmudbhd2b04fdroggn32l8x0w"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "设计",
-        "提示词",
-        "prompt",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmued0oy602x2rommk0l8lw6q",
@@ -1245,6 +1165,35 @@
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
+      "id": "cmudv5koq08tkrogh4lzs3ids",
+      "title": "Tripo 推出 Claude Opus 5.5 3D 提示词库",
+      "title_en": "Unlock the full 3D potential of Claude Opus 5.5 with our new prompt library. We've curated over 400…",
+      "url": "https://x.com/tripoai/status/2102680029943791765",
+      "permalink": "https://aihot.news/items/cmudv5koq08tkrogh4lzs3ids",
+      "source": "Tripo（官方 X）",
+      "publishedAt": "2026-09-23T08:42:39.000Z",
+      "discoveredAt": "2026-09-23T08:51:06.192Z",
+      "summary": "用我们全新的提示词库，释放 Claude Opus 5.5 的全部 3D 潜力。\n\n我们精心整理了 400 多条经过测试的提示词，用于 AI 原生 3D 创作。观看 Opus 5.5 呈现惊艳的一次性生成结果，并排对比输出，获取确切指令，即刻生成你自己的交互式资产。\n\n在此探索 → http://tripo3d.ai/3d-prompts",
+      "category": null,
+      "score": 38,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmudv5koq08tkrogh4lzs3ids"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "交互",
+        "3d",
+        "提示词",
+        "prompt"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cmuegw2zh05b9rovxv74r57mz",
       "title": "Strands 发布通用 agent harness：一行代码搭建云端智能体，成本较 Claude Code 低 77%",
       "title_en": "Strands 安全带",
@@ -1269,59 +1218,6 @@
         "claude code",
         "agent",
         "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmuewn5g2033tro3kmekh2mgp",
-      "title": "WhatWorkedBench：衡量 AI 智能体实验理解能力的基准",
-      "title_en": "WhatWorkedBench： Benchmarking Experimental Understanding in AI Agents",
-      "url": "https://arxiv.org/abs/2609.27490",
-      "permalink": "https://aihot.news/items/cmuewn5g2033tro3kmekh2mgp",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-09-23T00:00:00.000Z",
-      "discoveredAt": "2026-09-24T02:20:33.395Z",
-      "summary": "WhatWorkedBench 被提出，用于衡量 AI 研究智能体的实验理解能力，即预算受限实验后对组件改动效果的预测准确度。基准覆盖 30 个数据源、8 类工作流的 36 个任务，含 1248 条配置记录，核心评测整合 4206 条数值控制记录与 108 个智能体 episode。对同一批智能体观测拟合高斯过程后，Flash 队列的效果恢复率从 0.632 升至 0.698。",
-      "category": null,
-      "score": 37,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuewn5g2033tro3kmekh2mgp"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "工作流",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmuej9tln04hproynr12xpgt5",
-      "title": "Tomer Tunguz：AI 最重要的市场在中段而非前沿模型",
-      "title_en": "The Most Important Market in AI is the Middle",
-      "url": "https://tomtunguz.com/the-most-important-market-in-ai-is-the-middle",
-      "permalink": "https://aihot.news/items/cmuej9tln04hproynr12xpgt5",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "publishedAt": "2026-09-23T00:00:00.000Z",
-      "discoveredAt": "2026-09-23T20:06:15.919Z",
-      "summary": "Tomer Tunguz 分析认为企业 AI 用量集中在需要足够智能且价格可负担的多步骤工作流中段市场，降价竞争正是证据。Anthropic 前沿模型 Fable 5.1 上线前十二天仅占网关支出的 3.7%，大型企业账户的前沿模型 token 消耗占比从 8 月初的 53% 降至 9 月的 45%；Cursor 用微调 Kimi K2.5 将成本降低 86%。",
-      "category": "tip",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuej9tln04hproynr12xpgt5"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "工作流"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     }
