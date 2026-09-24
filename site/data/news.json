@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-24T11:46:10.426Z",
-  "previousGeneratedAt": "2026-09-24T04:51:00.090Z",
+  "generatedAt": "2026-09-24T17:11:33.428Z",
+  "previousGeneratedAt": "2026-09-24T11:46:10.426Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 44,
+  "itemCount": 41,
   "sourceCounts": {
-    "X": 20,
-    "网站": 22,
-    "公众号": 2
+    "X": 18,
+    "网站": 20,
+    "公众号": 3
   },
   "source": {
     "name": "AI HOT",
@@ -101,6 +101,62 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmufkhp2a0323ro8wlh2jo2db",
+      "title": "Meta 承认 Muse 深受 OpenClaw 启发但为从零构建",
+      "title_en": "Meta 承认 Muse 产品设计深受 OpenClaw 启发，但强调从零构建",
+      "url": "https://www.ithome.com/1/006/996.htm",
+      "permalink": "https://aihot.news/items/cmufkhp2a0323ro8wlh2jo2db",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-24T12:31:19.000Z",
+      "discoveredAt": "2026-09-24T13:28:07.640Z",
+      "summary": "Meta MSL 产品负责人 Nat Friedman 在 X 上回应称，Muse 从零构建，但在产品层面深受开源项目 OpenClaw 启发，目标是打造类似产品并扩展到数十亿用户。此前有用户发现 Muse 与 OpenClaw 使用同名配置文件，其中 SOUL.md 内容几乎完全一致；Muse 近期已登顶美国 App Store 免费榜，早期增长速度超过 ChatGPT。",
+      "category": "tip",
+      "score": 61,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmufkhp2a0323ro8wlh2jo2db"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 14,
+      "editorialScore": 18,
+      "tags": [
+        "产品设计",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmufitc8q03pzro6o9xn0ku74",
+      "title": "五大场景实测商汤SenseNova U1 Pro：从审美到多图融合的生图能力评测",
+      "title_en": "五大场景实测商汤图片模型SenseNova U1 Pro，我的工作流要换新了",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511896&idx=1&sn=730e55c79657d42cd929b416ca34b500",
+      "permalink": "https://aihot.news/items/cmufitc8q03pzro6o9xn0ku74",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-09-24T12:30:00.000Z",
+      "discoveredAt": "2026-09-24T12:41:13.605Z",
+      "summary": "商汤上线SenseNova U1 Pro，在8月SuperCLUE-Image中文文生图榜单以总分93.81排名第一，作者实测其与gpt image 2.5对比。作者分审美与中文版式、多文字运营物料、资料检索与高密度信息、局部修图、多图融合五类任务测试，附全部提示词，认为其文字稳定、局部编辑精准、可支持8K输出，整体完成度达到可交付水平，考虑替换进自己的图片工作流。",
+      "category": "tip",
+      "score": 61,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmufitc8q03pzro6o9xn0ku74"
+      },
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
+      "relevanceScore": 15,
+      "editorialScore": 18,
+      "tags": [
+        "文生图",
+        "生图",
+        "工作流",
+        "提示词"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmuf9jirw05xurocspb64l7np",
       "title": "火山引擎对话《后西游记》主创，揭秘首部AI长剧登陆湖南卫视黄金档",
       "title_en": "首部上星AI长剧《后西游记》，如何走进湖南卫视黄金档",
@@ -127,35 +183,6 @@
         "摄影"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmudyj7940cnqrogh52uoifo8",
-      "title": "蚂蚁百灵开源 Ming-Image-0.1-Design 系列模型，UI 设计专项评测位列开源第一",
-      "title_en": null,
-      "url": "https://www.ithome.com/1/006/390.htm",
-      "permalink": "https://aihot.news/items/cmudyj7940cnqrogh52uoifo8",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-23T09:42:16.000Z",
-      "discoveredAt": "2026-09-23T10:25:40.922Z",
-      "summary": "蚂蚁百灵开源 Ming-Image-0.1-Design 系列模型，包含两个 6B 模型，分别用于从文字生成 UI、信息图、海报等设计和将设计图拆为可编辑透明图层，同时开源 Design Skill 和 PPT Skill。",
-      "category": "ai-models",
-      "score": 54,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmudyj7940cnqrogh52uoifo8"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 14,
-      "editorialScore": 18,
-      "tags": [
-        "海报",
-        "ui",
-        "design",
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmueurvys03u1royq1k5vsr7g",
@@ -408,49 +435,21 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmuehif4705wirovxabsasp2w",
-      "title": "Mike Taylor 谈 AI 写作：好文章在提示词之前就已开始",
-      "title_en": "Good Writing With AI Starts Before the Prompt",
-      "url": "https://every.to/also-true-for-humans/good-writing-with-ai-starts-before-the-prompt",
-      "permalink": "https://aihot.news/items/cmuehif4705wirovxabsasp2w",
-      "source": "Every：最新文章（网页）",
-      "publishedAt": "2026-09-23T19:16:36.910Z",
-      "discoveredAt": "2026-09-23T19:16:36.910Z",
-      "summary": "Mike Taylor 分享了自己的 AI 写作工作流，强调高质量写作的关键发生在写提示词之前，而部分工作他仍坚持自己完成。",
+      "id": "cmufqy3qi057iroxzjyq0cde6",
+      "title": "Google 发布 Gemini 3.8 Live with Live Avatar，为对话 AI 带来实时视觉形象",
+      "title_en": "Introducing Gemini 3.8 Live with Live Avatar",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
+      "permalink": "https://aihot.news/items/cmufqy3qi057iroxzjyq0cde6",
+      "source": "Google DeepMind：Blog（RSS）",
+      "publishedAt": "2026-09-24T16:20:39.000Z",
+      "discoveredAt": "2026-09-24T16:28:48.522Z",
+      "summary": "Google DeepMind 推出 Gemini 3.8 Live with Live Avatar，将低延迟流式视频与实时对话能力原生结合，让 AI 具备能听、能看、能说的动态视觉形象，即日起在 Gemini Enterprise 可用。",
       "category": null,
-      "score": 43,
+      "score": 49,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuehif4705wirovxabsasp2w"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 11,
-      "editorialScore": 12,
-      "tags": [
-        "工作流",
-        "提示词",
-        "prompt"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmuer37ic0g0kroynm0exuux9",
-      "title": "NVIDIA 发布开源 3D CT 视觉语言模型 NV-Reason-CT，实现放射科医生式链式推理",
-      "title_en": "Introducing NV-Reason-CT Open 3D CT VLM for Radiologist Chain-of-Thought Reasoning",
-      "url": "https://developer.nvidia.com/blog/introducing-nv-reason-ct-open-3d-ct-vlm-for-radiologist-chain-of-thought-reasoning",
-      "permalink": "https://aihot.news/items/cmuer37ic0g0kroynm0exuux9",
-      "source": "NVIDIA Technical Blog：Agentic AI / Generative AI",
-      "publishedAt": "2026-09-23T23:45:02.451Z",
-      "discoveredAt": "2026-09-23T23:45:02.451Z",
-      "summary": "NVIDIA 发布 NV-Reason-CT，一个面向 3D CT 分析的开源视觉语言模型，生成结构化报告和模拟放射科医生思维链的推理，并支持多轮追问对话。模型结合专用 3D ViT 编码器与 Qwen3.5-4B LLM，经监督微调与 GRPO 强化学习两阶段训练，训练数据约 55 万条结构化 QA，覆盖 30 种胸部和 29 种腹部异常。",
-      "category": "ai-models",
-      "score": 59,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuer37ic0g0kroynm0exuux9"
+        "canonical": "https://aihot.news/items/cmufqy3qi057iroxzjyq0cde6"
       },
       "sourceType": "网站",
       "designCategory": "图像与视频",
@@ -458,7 +457,7 @@
       "editorialScore": 11,
       "tags": [
         "视觉",
-        "3d"
+        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -546,32 +545,58 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cmue0oeel0ez2roghditjgzfx",
-      "title": "空客用 Steam Deck 掌机操控 ExoMars 火星车原型进行地面测试",
-      "title_en": "为进行地面测试，空客用 Steam Deck 掌机操控 ExoMars 火星车原型",
-      "url": "https://www.ithome.com/1/006/410.htm",
-      "permalink": "https://aihot.news/items/cmue0oeel0ez2roghditjgzfx",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-23T10:39:35.000Z",
-      "discoveredAt": "2026-09-23T11:25:41.886Z",
-      "summary": "空中客车在英国研发的 ExoMars 火星车原型（正式名称为\"罗莎琳德·富兰克林号\"）正使用 Valve 的 Steam Deck 掌机进行地面测试操控。视频显示，一台 Steam Deck 运行未公开的定制软件，通过摇杆、扳机键和面部按键控制火星车。该火星车计划于 2030 年登陆火星，着陆平台由空客史蒂文尼奇团队设计机械、热控和推进系统。",
-      "category": null,
-      "score": 49,
+      "id": "cmufs15b606hjroxzwntjaxuh",
+      "title": "Odyssey 发布多智能体世界模型 Agora-2 可玩研究预览",
+      "title_en": "Odyssey has released a playable research preview of Agora-2. Agora-2 is a new multi-agent world mod…",
+      "url": "https://x.com/testingcatalog/status/2103164517433606640",
+      "permalink": "https://aihot.news/items/cmufs15b606hjroxzwntjaxuh",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "publishedAt": "2026-09-24T16:47:50.000Z",
+      "discoveredAt": "2026-09-24T16:59:13.048Z",
+      "summary": "Odyssey 发布多智能体世界模型 Agora-2 的可玩研究预览，可实时生成支持最多 20 名人类与 AI 智能体同时交互的多人世界。官方称每帧画面均由模型生成，参与者动作会改变所有人看到的内容，支持人数比 Agora-1 多至 5 倍，并能同时覆盖多个环境、承载更长更大更复杂的可玩世界。多人研究预览现已开放试玩。",
+      "category": "ai-products",
+      "score": 63,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmue0oeel0ez2roghditjgzfx"
+        "canonical": "https://aihot.news/items/cmufs15b606hjroxzwntjaxuh"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmufmkdsx05iyro8wlm7ilea9",
+      "title": "Meta发布无摄像头Ray-Ban音频眼镜等新品，Muse助手将登陆智能眼镜",
+      "title_en": "Muse Charm is Meta's latest attempt to own the next computing platform",
+      "url": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain",
+      "permalink": "https://aihot.news/items/cmufmkdsx05iyro8wlm7ilea9",
+      "source": "Ars Technica：AI（RSS）",
+      "publishedAt": "2026-09-24T14:03:38.000Z",
+      "discoveredAt": "2026-09-24T14:26:11.423Z",
+      "summary": "Meta于周三发布无摄像头、仅通过语音交互的新款Ray-Ban眼镜，以及多款新镜框和更低价位的Meta眼镜。新VR眼镜定价1300美元，明年春季开售，比上一代Quest 3轻五倍。",
+      "category": "ai-products",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmufmkdsx05iyro8wlm7ilea9"
       },
       "sourceType": "网站",
-      "designCategory": "设计工具",
+      "designCategory": "产品与体验",
       "relevanceScore": 6,
-      "editorialScore": 11,
+      "editorialScore": 10,
       "tags": [
-        "原型",
-        "设计",
-        "视频"
+        "交互"
       ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmuf9rxju06cprocsyaq50it2",
@@ -871,108 +896,87 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmue3twqx0lssroghm43pbj39",
-      "title": "阿里 Qwen 发布 Qwen-Audio-3.1 五款语音模型，语音价格最高下调 95%",
-      "title_en": "Alibaba launches Qwen Audio 3.1 with new models and slashes AI audio prices by up to 95 percent",
-      "url": "https://the-decoder.com/alibaba-launches-qwen-audio-3-1-with-five-new-models-and-slashes-ai-audio-prices-by-up-to-95-percent",
-      "permalink": "https://aihot.news/items/cmue3twqx0lssroghm43pbj39",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-09-23T12:31:20.000Z",
-      "discoveredAt": "2026-09-23T12:53:57.017Z",
-      "summary": "阿里 Qwen 团队发布 Qwen-Audio-3.1，包含五款覆盖语音识别（ASR）、语音合成（TTS）和实时交互的模型。ASR 改进多语言和方言识别并自动清理填充词，ASR-Next 支持多说话人识别、时间戳及情绪和环境声检测；TTS-Next 将语言模型与扩散方法结合，可一次性生成语音、音效和背景音频。同步降价：TTS 约 70%，Realtime 约 85%，ASR 最高 95%。",
-      "category": "ai-products",
-      "score": 67,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmue3twqx0lssroghm43pbj39"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmudyj7930cnoroghh24xeh7v",
-      "title": "一加 16 现身安兔兔：第 6 代骁龙 8 超级至尊版、跑分超 538 万",
-      "title_en": "OnePlus PYB110 新机现身安兔兔：第 6 代骁龙 8 超级至尊版、跑分超 538 万，预计为一加 16",
-      "url": "https://www.ithome.com/1/006/398.htm",
-      "permalink": "https://aihot.news/items/cmudyj7930cnoroghh24xeh7v",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-23T09:55:42.000Z",
-      "discoveredAt": "2026-09-23T10:25:40.922Z",
-      "summary": "安兔兔后台发现型号为 PYB110 的一加新机，预计为一加 16，总分 5384433，搭载第 6 代骁龙 8 超级至尊版移动平台，系统基于 Android 17，规格 16GB+1TB。其中 CPU 成绩 1458283、GPU 成绩 2010584、MEM 成绩 766362、UX 成绩 1149204。一加已宣布一加 16 首批搭载该处理器。",
+      "id": "cmufowow508ljro8wdhu2ruqc",
+      "title": "Luma AI 如何融入创意工作流",
+      "title_en": "Creative teams are already using AI. The bigger question now is whether it can fit into real workflo…",
+      "url": "https://x.com/LumaLabsAI/status/2103142736370999384",
+      "permalink": "https://aihot.news/items/cmufowow508ljro8wdhu2ruqc",
+      "source": "X：Luma AI (@LumaLabsAI)",
+      "publishedAt": "2026-09-24T15:21:17.000Z",
+      "discoveredAt": "2026-09-24T15:31:44.797Z",
+      "summary": "创意团队已经在用 AI 了。现在更大的问题是，它能否融入真实工作流而不加剧碎片化。\n\n在 Brandweek 上，@AlexiaAdana 展示了 Luma 如何从早期方向到制作全程支持创意流程。\n\nADWEEK 在此探讨下一阶段：https://www.adweek.com/creativity/ai-has-reached-creative-teamsnow-comes-the-hard-part/",
       "category": null,
-      "score": 27,
+      "score": 24,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmudyj7930cnoroghh24xeh7v"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "ux"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmudwte2x0aqtroghe1b5cxfd",
-      "title": "Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next",
-      "title_en": "⚡ Meet Qwen-Audio-3.1！ ASR， TTS & Realtime are fully upgraded， joined by two new models： TTS-Next fo…",
-      "url": "https://x.com/Alibaba_Qwen/status/2102687258990026993",
-      "permalink": "https://aihot.news/items/cmudwte2x0aqtroghe1b5cxfd",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "publishedAt": "2026-09-23T09:11:23.000Z",
-      "discoveredAt": "2026-09-23T09:37:37.169Z",
-      "summary": "Qwen 发布 Qwen-Audio-3.1，ASR、TTS 与 Realtime 全面升级，并新增音频创作模型 TTS-Next 和音频理解模型 ASR-Next，共五个模型覆盖理解、生成、交互与创作。全线降价，TTS 约 70% off、Realtime 约 85% off、ASR 最高 95% off；Realtime 可边说边听、随时打断，检测到低落情绪时会放慢语速并共情回应。",
-      "category": "ai-models",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmudwte2x0aqtroghe1b5cxfd"
+        "canonical": "https://aihot.news/items/cmufowow508ljro8wdhu2ruqc"
       },
       "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
+      "designCategory": "行业观察",
+      "relevanceScore": 9,
+      "editorialScore": 9,
       "tags": [
-        "交互"
+        "工作流",
+        "创意",
+        "creative"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
-      "id": "cmuds3qay05hfrogh1b8s8bzl",
-      "title": "阿里千问发布 Qwen-Audio-3.1 系列五款语音模型并全线降价",
-      "title_en": "阿里千问发布 Qwen-Audio-3.1 系列语音大模型，并下调全线产品价格",
-      "url": "https://www.ithome.com/1/006/280.htm",
-      "permalink": "https://aihot.news/items/cmuds3qay05hfrogh1b8s8bzl",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-23T07:15:26.000Z",
-      "discoveredAt": "2026-09-23T07:25:40.089Z",
-      "summary": "千问发布 Qwen-Audio-3.1 系列语音大模型，包含 ASR、ASR-Next、TTS、TTS-Next 和 Realtime 五款模型，覆盖语音识别、合成、实时交互和音频创作。",
-      "category": "ai-models",
-      "score": 68,
+      "id": "cmufl7b3i03ufro8wawyh9y9c",
+      "title": "Runway 招募联盟推广伙伴",
+      "title_en": "Become a Runway Affiliate. Earn on every subscriber you bring in and give your audience 25% off any …",
+      "url": "https://x.com/runwayml/status/2103117692941296110",
+      "permalink": "https://aihot.news/items/cmufl7b3i03ufro8wawyh9y9c",
+      "source": "X：Runway (@runwayml)",
+      "publishedAt": "2026-09-24T13:41:46.000Z",
+      "discoveredAt": "2026-09-24T13:48:00.099Z",
+      "summary": "成为 Runway 联盟伙伴。你带来的每位订阅用户都能为你带来收益，同时用专属优惠码让你的受众享受任意 Runway 套餐 25% 折扣。点击下方链接了解更多并申请。",
+      "category": null,
+      "score": 24,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuds3qay05hfrogh1b8s8bzl"
+        "canonical": "https://aihot.news/items/cmufl7b3i03ufro8wawyh9y9c"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "runway"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmufi04sq02qrro6ol1xe5fwx",
+      "title": "用 google-cloud-developer 插件让智能体按 Google Cloud 最佳实践完成部署实测",
+      "title_en": "Equip your agent with Google Cloud best practices using google-cloud-developer plugin",
+      "url": "https://dev.to/googleai/equip-your-agent-with-google-cloud-best-practices-using-google-cloud-developer-plugin-1bm1",
+      "permalink": "https://aihot.news/items/cmufi04sq02qrro6ol1xe5fwx",
+      "source": "Google AI：DEV 作者专属（RSS）",
+      "publishedAt": "2026-09-24T11:55:12.000Z",
+      "discoveredAt": "2026-09-24T12:18:29.035Z",
+      "summary": "Remigiusz Samborski 用 Antigravity CLI 实测 Google 的 google-cloud-developer 插件，一条命令安装五个技能和 Developer Knowledge MCP 服务器，支撑 Claude Code、Codex CLI 等智能体。",
+      "category": "tip",
+      "score": 51,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmufi04sq02qrro6ol1xe5fwx"
       },
       "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
       "tags": [
-        "交互"
+        "codex",
+        "claude code",
+        "agent",
+        "智能体"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmueup7fp03m9royq0c7hws53",
@@ -1001,30 +1005,32 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmue5q53a0nxqroghohe4ryrm",
-      "title": "Runway AI 峰会公布演讲嘉宾阵容",
-      "title_en": "The Runway AI Summit is one week from today. Announcing our sessions： Grounding Intelligence in the…",
-      "url": "https://x.com/runwayml/status/2102751601077498061",
-      "permalink": "https://aihot.news/items/cmue5q53a0nxqroghohe4ryrm",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-09-23T13:27:03.000Z",
-      "discoveredAt": "2026-09-23T13:47:00.423Z",
-      "summary": "Runway AI 峰会距今天还有一周。公布我们的会议场次：\n\n《将智能扎根于物理世界》--Nvidia 的 Ming-Yu Liu；Google DeepMind 的 Jon Barron；Wayve 的 Alex Toshev",
-      "category": null,
-      "score": 25,
+      "id": "cmufqy86v057zroxz36ei9von",
+      "title": "Google 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音模型",
+      "title_en": "Google launches Gemini 3.8 Flash TTS voice models",
+      "url": "https://www.artificialintelligence-news.com/news/google-gemini-3-8-flash-tts-voice-models",
+      "permalink": "https://aihot.news/items/cmufqy86v057zroxz36ei9von",
+      "source": "Artificial Intelligence News（网页）",
+      "publishedAt": "2026-09-24T16:28:57.255Z",
+      "discoveredAt": "2026-09-24T16:28:57.255Z",
+      "summary": "Google 发布 Gemini 3.8 Flash TTS 与 Gemini 3.8 Flash-Lite TTS 两款语音生成模型，分别面向提示词驱动的创意配音和高吞吐自动化场景。",
+      "category": "ai-products",
+      "score": 59,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmue5q53a0nxqroghohe4ryrm"
+        "canonical": "https://aihot.news/items/cmufqy86v057zroxz36ei9von"
       },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
       "tags": [
-        "runway"
+        "创意",
+        "提示词",
+        "自动化"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmued0oy602x2rommk0l8lw6q",
@@ -1109,89 +1115,6 @@
         "智能体"
       ],
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmue65uk50oe9rogh6a0d4oe1",
-      "title": "PixVerse R2 驱动互动叙事 Zero Mark",
-      "title_en": "Watch closely-as the prompt changes， the dragon in the wizard's hands becomes a leaf. #PixVerseWorld…",
-      "url": "https://x.com/PixVerse/status/2102754064316694925",
-      "permalink": "https://aihot.news/items/cmue65uk50oe9rogh6a0d4oe1",
-      "source": "X：PixVerse (@PixVerse)",
-      "publishedAt": "2026-09-23T13:36:50.000Z",
-      "discoveredAt": "2026-09-23T13:59:13.789Z",
-      "summary": "仔细看--随着提示词变化，巫师手中的龙变成了一片叶子。#PixVerseWorldModel\n\n这个魔法世界接下来会发生什么？就等你了。\n\n踏入 Zero Mark，一场由 PixVerse R2 驱动的互动电影式冒险，用提示词在故事展开时引导剧情。\n\n链接见下方。",
-      "category": null,
-      "score": 50,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmue65uk50oe9rogh6a0d4oe1"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "提示词",
-        "prompt"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmue538v70nfproghiqfxt6ze",
-      "title": "PixVerse 将亮相 Shoptalk Fall",
-      "title_en": "Shoptalk Fall is almost here. AI won't make a weak creative strategy stronger. The opportunity is t…",
-      "url": "https://x.com/PixVerse/status/2102744855818747957",
-      "permalink": "https://aihot.news/items/cmue538v70nfproghiqfxt6ze",
-      "source": "X：PixVerse (@PixVerse)",
-      "publishedAt": "2026-09-23T13:00:15.000Z",
-      "discoveredAt": "2026-09-23T13:29:13.082Z",
-      "summary": "Shoptalk Fall 就要来了。\n\nAI 不会让薄弱的创意策略变强。机会在于将人类判断力与 AI 驱动的执行结合起来，为创意团队提供更大的杠杆。\n\nNashville，我们很快见。",
-      "category": null,
-      "score": 11,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmue538v70nfproghiqfxt6ze"
-      },
-      "sourceType": "X",
-      "designCategory": "行业观察",
-      "relevanceScore": 8,
-      "editorialScore": 8,
-      "tags": [
-        "创意",
-        "creative"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmudv5koq08tkrogh4lzs3ids",
-      "title": "Tripo 推出 Claude Opus 5.5 3D 提示词库",
-      "title_en": "Unlock the full 3D potential of Claude Opus 5.5 with our new prompt library. We've curated over 400…",
-      "url": "https://x.com/tripoai/status/2102680029943791765",
-      "permalink": "https://aihot.news/items/cmudv5koq08tkrogh4lzs3ids",
-      "source": "Tripo（官方 X）",
-      "publishedAt": "2026-09-23T08:42:39.000Z",
-      "discoveredAt": "2026-09-23T08:51:06.192Z",
-      "summary": "用我们全新的提示词库，释放 Claude Opus 5.5 的全部 3D 潜力。\n\n我们精心整理了 400 多条经过测试的提示词，用于 AI 原生 3D 创作。观看 Opus 5.5 呈现惊艳的一次性生成结果，并排对比输出，获取确切指令，即刻生成你自己的交互式资产。\n\n在此探索 → http://tripo3d.ai/3d-prompts",
-      "category": null,
-      "score": 38,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmudv5koq08tkrogh4lzs3ids"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "交互",
-        "3d",
-        "提示词",
-        "prompt"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmuegw2zh05b9rovxv74r57mz",
