@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-25T04:57:45.965Z",
-  "previousGeneratedAt": "2026-09-24T17:11:33.428Z",
+  "generatedAt": "2026-09-25T11:51:24.797Z",
+  "previousGeneratedAt": "2026-09-25T04:57:45.965Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 47,
+  "itemCount": 46,
   "sourceCounts": {
-    "X": 19,
-    "网站": 25,
+    "X": 17,
+    "网站": 26,
     "公众号": 3
   },
   "source": {
@@ -153,35 +153,6 @@
         "视频生成",
         "视频",
         "摄影"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmueurvys03u1royq1k5vsr7g",
-      "title": "Claude 一次生成完整音乐视频",
-      "title_en": "the post： \"Claude one-shot this\" the prompt： 10k characters with good takes plus skills， examples a…",
-      "url": "https://x.com/trq212/status/2102870353781641416",
-      "permalink": "https://aihot.news/items/cmueurvys03u1royq1k5vsr7g",
-      "source": "X：Thariq (@trq212)",
-      "publishedAt": "2026-09-23T21:18:56.000Z",
-      "discoveredAt": "2026-09-24T01:28:13.469Z",
-      "summary": "用户给 Claude 一段约 1 万字符的提示词，包含技能、示例和 API key，要求它独立完成一支\"Claude Pop\"歌曲音乐视频的端到端重制。任务要求保留原音轨，用 JavaScript 动画呈现歌词，并调用 ElevenLabs API 做音效设计、用图像生成 API 制作角色设定与场景，再以 seedance 2.5 生成视频素材。",
-      "category": null,
-      "score": 47,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmueurvys03u1royq1k5vsr7g"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 14,
-      "editorialScore": 17,
-      "tags": [
-        "图像生成",
-        "设计",
-        "视频",
-        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -547,6 +518,34 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmugm3xgx1175rogvsd1g7vfv",
+      "title": "谷歌工程师因担忧 AI 过快发展宣布辞职",
+      "title_en": "再见，谷歌",
+      "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+      "permalink": "https://aihot.news/items/cmugm3xgx1175rogvsd1g7vfv",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-25T06:32:41.312Z",
+      "discoveredAt": "2026-09-25T07:01:12.397Z",
+      "summary": "长期从事芯片设计工具开发的工程师 Robert O'Callahan 宣布从 Google 辞职，原因是其团队目标是让 AI 更便宜、更低延迟，而他认为当前 AI 进展过快且风险真实存在。他表示 Google 在新西兰没有其他不加速 AI 的工程团队，转岗不可行，将继续维护 Pernosco 和 rr，并研究 AI 智能体如何调试代码。",
+      "category": "tip",
+      "score": 59,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmugm3xgx1175rogvsd1g7vfv"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 8,
+      "editorialScore": 13,
+      "tags": [
+        "设计工具",
+        "设计",
+        "智能体"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "cmugbdmmm0m4orogvmdyzqq7j",
@@ -1005,33 +1004,6 @@
         "生图",
         "交互",
         "agent"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmueurvxi03txroyq97g6d68r",
-      "title": "Qwen3.8 Max Prime 上线 OpenRouter",
-      "title_en": "Qwen3.8 Max Prime from @Alibaba_Qwen is live on OpenRouter. A higher-throughput variant of Qwen3.8 …",
-      "url": "https://x.com/OpenRouter/status/2102875655004385401",
-      "permalink": "https://aihot.news/items/cmueurvxi03txroyq97g6d68r",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-09-23T21:40:00.000Z",
-      "discoveredAt": "2026-09-24T01:28:13.469Z",
-      "summary": "来自 @Alibaba_Qwen 的 Qwen3.8 Max Prime 已在 OpenRouter 上线。\n\n这是 Qwen3.8 Max 的高吞吐量变体，具备相同的 2.4T 参数旗舰能力：1M 上下文，文本、图像和视频输入，可调推理强度的推理，工具调用，以及结构化输出。\n\n在此使用：https://openrouter.ai/qwen/qwen3.8-max-prime",
-      "category": null,
-      "score": 36,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmueurvxi03txroyq97g6d68r"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "视频",
-        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
