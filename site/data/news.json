@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-24T17:11:33.428Z",
-  "previousGeneratedAt": "2026-09-24T11:46:10.426Z",
+  "generatedAt": "2026-09-25T04:57:45.965Z",
+  "previousGeneratedAt": "2026-09-24T17:11:33.428Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 41,
+  "itemCount": 47,
   "sourceCounts": {
-    "X": 18,
-    "网站": 20,
+    "X": 19,
+    "网站": 25,
     "公众号": 3
   },
   "source": {
@@ -69,34 +69,6 @@
         "文生图",
         "生图",
         "海报"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmueeqbrh04d9rox39ro0byf0",
-      "title": "Pragmatic Engineer 播客对话 GitHub Next 设计工程师 Maggie Appleton 谈 AI 时代的设计工程",
-      "title_en": "Design Engineering with Maggie Appleton",
-      "url": "https://newsletter.pragmaticengineer.com/p/design-engineering-with-maggie-appleton",
-      "permalink": "https://aihot.news/items/cmueeqbrh04d9rox39ro0byf0",
-      "source": "Pragmatic Engineer（RSS）",
-      "publishedAt": "2026-09-23T17:07:22.000Z",
-      "discoveredAt": "2026-09-23T17:58:59.106Z",
-      "summary": "Gergely Orosz 在 Pragmatic Engineer 播客中采访 GitHub Next 研究工程师 Maggie Appleton，探讨设计师如何适应 AI 及工程师可借鉴的设计方法。",
-      "category": "tip",
-      "score": 57,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmueeqbrh04d9rox39ro0byf0"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 15,
-      "editorialScore": 19,
-      "tags": [
-        "设计师",
-        "design",
-        "设计"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
@@ -214,6 +186,62 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmug2iyhf09cdrogv2gw7jp96",
+      "title": "Runway 评估 Model Router 图像转视频",
+      "title_en": "Across 250 image-to-video prompts， we evaluated how Model Router reduces cost and holds production u…",
+      "url": "https://x.com/runwayml/status/2103234985637679441",
+      "permalink": "https://aihot.news/items/cmug2iyhf09cdrogv2gw7jp96",
+      "source": "X：Runway (@runwayml)",
+      "publishedAt": "2026-09-24T21:27:51.000Z",
+      "discoveredAt": "2026-09-24T21:53:00.556Z",
+      "summary": "在 250 个图像转视频提示词上，我们评估了 Model Router 相较于 SOTA 模型基线，如何降低成本并保持生产可用性。请通过下方链接阅读更多内容。",
+      "category": null,
+      "score": 24,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmug2iyhf09cdrogv2gw7jp96"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "runway",
+        "视频",
+        "图像",
+        "提示词"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmufxx6n804jwrogvvrxl0cyv",
+      "title": "Midjourney 新编辑模型使用教程",
+      "title_en": "A lot of people are wondering how to use our new edit model for consistent characters and more - so …",
+      "url": "https://x.com/midjourney/status/2103208764648419598",
+      "permalink": "https://aihot.news/items/cmufxx6n804jwrogvvrxl0cyv",
+      "source": "X：Midjourney (@midjourney)",
+      "publishedAt": "2026-09-24T19:43:39.000Z",
+      "discoveredAt": "2026-09-24T19:44:05.420Z",
+      "summary": "很多人想知道如何用我们新的编辑模型来实现一致的角色等等--所以我们为你们做了一个视频 <3",
+      "category": null,
+      "score": 36,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmufxx6n804jwrogvvrxl0cyv"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "midjourney",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmuevxq57002hro3ky82list9",
       "title": "Midjourney alpha 更新：样式实时预览、默认参数与全宽瀑布流信息流",
       "title_en": "Alpha Changelog - 9/23/26",
@@ -267,6 +295,119 @@
         "设计"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmug9jviu0k6jrogvb01nsrk0",
+      "title": "BestBlogs 早报 · 09-25：Every 实验室机制 / 原子声明验证 / Claude 代码现代化 / RoboFlywheel",
+      "title_en": "BestBlogs 早报 · 09-25 # Every 实验室 / 原子声明验证 / Thoughtworks 同行反馈 / Claude 代码现代化 / RoboFlywheel 【1】 ★ …",
+      "url": "https://x.com/hongming731/status/2103287093208502680",
+      "permalink": "https://aihot.news/items/cmug9jviu0k6jrogvb01nsrk0",
+      "source": "X：洪明 (@hongming731)",
+      "publishedAt": "2026-09-25T00:54:54.000Z",
+      "discoveredAt": "2026-09-25T01:09:39.018Z",
+      "summary": "阿里巴巴发布 RoboFlywheel 开放式仿真基础设施，提供超百万级刚体、铰链与柔性资产，支持机器人交互与闭环训练。腾讯混元发布图像生成模型 Hy Image3.5 preview，综合能力较上代提升约 30%，2K 出图定价 0.15 元/张，已接入元宝、ima、WorkRally 等产品。",
+      "category": null,
+      "score": 32,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmug9jviu0k6jrogvb01nsrk0"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "图像生成",
+        "交互",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmufyyizw05iarogvajm9z1jn",
+      "title": "GitHub Copilot app 的 canvas：聊天何时是错误的 UI",
+      "title_en": "When chat is the wrong UI",
+      "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
+      "permalink": "https://aihot.news/items/cmufyyizw05iarogvajm9z1jn",
+      "source": "GitHub Blog",
+      "publishedAt": "2026-09-24T20:00:00.000Z",
+      "discoveredAt": "2026-09-24T20:13:07.527Z",
+      "summary": "GitHub Copilot 员工撰文认为聊天框往往不是与 AI 协作的正确界面，并介绍 GitHub Copilot app 中的 canvas 功能：canvas 是运行在 app 内、无浏览器外壳的全栈小应用，可与 agent 双向通信。",
+      "category": "tip",
+      "score": 58,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmufyyizw05iarogvajm9z1jn"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 10,
+      "editorialScore": 14,
+      "tags": [
+        "ui",
+        "界面",
+        "agent"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmufxhatn044srogv9uufiino",
+      "title": "Pruna 发布 Qwen-Image-2.1 少步数 LoRA 适配器，图像生成提速至 6.3 倍",
+      "title_en": "Pruna-Qwen-Image-2.1 a set of a few-step LoRA adapters that make Qwen-Image-2.1 up to 6.3× faster f…",
+      "url": "https://x.com/_akhaliq/status/2103201617004949888",
+      "permalink": "https://aihot.news/items/cmufxhatn044srogv9uufiino",
+      "source": "X：AK (@_akhaliq)",
+      "publishedAt": "2026-09-24T19:15:15.000Z",
+      "discoveredAt": "2026-09-24T19:31:44.391Z",
+      "summary": "Pruna-Qwen-Image-2.1 是一组少步数 LoRA 适配器，可将 Qwen-Image-2.1 的图像生成与编辑速度提升至多 6.3 倍。生成或编辑图像只需 5 或 8 步而不用 40 步，选 5 步追求最快速度，选 8 步兼顾效果与速度。HF 工作流：https://huggingface.co/spaces/akhaliq/Pruna-Qwen-Image-2.1",
+      "category": "ai-products",
+      "score": 51,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmufxhatn044srogv9uufiino"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "图像生成",
+        "工作流",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmufti67z087froxz8ud6d6hr",
+      "title": "Space Bunny 模型视觉与 3D 生成实测",
+      "title_en": "Not sure what model Space Bunny is， but I am impressed. I had a chance to test it this week. It's …",
+      "url": "https://x.com/omarsar0/status/2103174241654837649",
+      "permalink": "https://aihot.news/items/cmufti67z087froxz8ud6d6hr",
+      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+      "publishedAt": "2026-09-24T17:26:28.000Z",
+      "discoveredAt": "2026-09-24T17:40:24.118Z",
+      "summary": "Elvis Saravia 测试了 Space Bunny 模型，其在 OpenCode 中免费开放一周，支持 1M token 上下文窗口和图像输入。该模型视觉理解与设计能力出色，能自我验证工作成果，可从草图生成完整落地页、3D 模型、动画和可玩游戏。作者推荐将其用于图像转代码、交互原型和 3D 创意编程。",
+      "category": null,
+      "score": 48,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmufti67z087froxz8ud6d6hr"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "原型",
+        "视觉",
+        "设计",
+        "交互"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmuf9jfua05wxrocsui8sta3j",
@@ -352,87 +493,359 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmueeofn404bkrox35k1njuvk",
-      "title": "Google 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS，可用文字描述从零设计 AI 语音",
-      "title_en": "Google's new Flash TTS models let you design AI voices from scratch using text descriptions",
-      "url": "https://the-decoder.com/googles-new-flash-tts-models-let-you-design-ai-voices-from-scratch-using-text-descriptions",
-      "permalink": "https://aihot.news/items/cmueeofn404bkrox35k1njuvk",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-09-23T17:39:10.000Z",
-      "discoveredAt": "2026-09-23T17:57:32.355Z",
-      "summary": "Google 发布 Gemini 3.8 Flash TTS 和 Flash-Lite TTS 两款语音生成模型，支持 100 多种语言，Flash TTS 可通过文字描述从零设计语音，并支持 30 秒样本的声音克隆（需录制同意声明），生成内容带 SynthID 水印。",
-      "category": "ai-products",
-      "score": 70,
+      "id": "cmuge8kyh0pamrogviq9c91bo",
+      "title": "WanPE：面向现代文生视频的电影级提示词增强",
+      "title_en": "WanPE： Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation",
+      "url": "https://arxiv.org/abs/2609.30221",
+      "permalink": "https://aihot.news/items/cmuge8kyh0pamrogviq9c91bo",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "discoveredAt": "2026-09-25T03:20:52.873Z",
+      "summary": "WanPE 是一个 397B 参数的提示词增强模型，基于 1.05M 真实视频训练，通过镜头级电影化规划与 SC-GRPO 保持跨镜头语义一致。驱动 Wan3.0 时，它将 5-15 秒人类偏好提升 10.66-18.84 分，30 秒场景提升 50.86 分。团队还构建了覆盖 5 至 30 秒、约 11K 盲测对比的 WanPEval 基准。",
+      "category": null,
+      "score": 41,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmueeofn404bkrox35k1njuvk"
+        "canonical": "https://aihot.news/items/cmuge8kyh0pamrogviq9c91bo"
       },
       "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 10,
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
       "editorialScore": 14,
       "tags": [
-        "design",
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmuek16ig05gbroynuyr4y9up",
-      "title": "Google 发布 Gemini 3.8 Flash TTS 和 Flash-Lite TTS，支持提示词语音设计",
-      "title_en": "Google Releases Gemini 3.8 Flash TTS and Flash-Lite TTS With Prompt-Based Voice Design",
-      "url": "https://www.marktechpost.com/2026/09/23/google-releases-gemini-3-8-flash-tts-and-flash-lite-tts-with-prompt-based-voice-design",
-      "permalink": "https://aihot.news/items/cmuek16ig05gbroynuyr4y9up",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-09-23T20:20:12.000Z",
-      "discoveredAt": "2026-09-23T20:27:31.612Z",
-      "summary": "Google 发布 Gemini 3.8 Flash TTS 和 Flash-Lite TTS 两款文本转语音模型，已通过 Gemini API 和 Google AI Studio 提供。",
-      "category": "ai-models",
-      "score": 57,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuek16ig05gbroynuyr4y9up"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "design",
-        "设计",
+        "文生视频",
+        "视频",
         "提示词",
         "prompt"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmue9clpx0s7lrogh3gzyvqoi",
-      "title": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 文本转语音模型",
-      "title_en": "Create and deploy custom audio with our new text-to-speech models： 🔵 Gemini 3.8 Flash TTS： Design …",
-      "url": "https://x.com/GoogleDeepMind/status/2102781530867126505",
-      "permalink": "https://aihot.news/items/cmue9clpx0s7lrogh3gzyvqoi",
-      "source": "X：Google DeepMind (@GoogleDeepMind)",
-      "publishedAt": "2026-09-23T15:25:59.000Z",
-      "discoveredAt": "2026-09-23T15:28:28.352Z",
-      "summary": "Google DeepMind 发布两款新的文本转语音模型。Gemini 3.8 Flash TTS 可设计带有独特口音和特征的自定义声音；Gemini 3.8 Flash-Lite TTS 面向效率与规模，可选用自建风格或官方生产就绪的声音库。",
+      "id": "cmuge8kyg0pahrogvjagsfrq2",
+      "title": "ViRDM：无需教师与判别器的少步因果视频生成表示分布匹配",
+      "title_en": "ViRDM： Taming Representation Distribution Matching for Few-Step Causal Video Generation",
+      "url": "https://arxiv.org/abs/2609.28923",
+      "permalink": "https://aihot.news/items/cmuge8kyg0pahrogvjagsfrq2",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "discoveredAt": "2026-09-25T03:20:52.873Z",
+      "summary": "ViRDM 提出一种无需教师模型和在线判别器的视频后训练方法，将表示分布匹配（RDM）迁移到少步因果视频生成，通过随机截断 clean-exit 监督、轻量 VAE 解码器和分阶段 vector-Jacobian 乘积解决显存瓶颈。仅需 20 次生成器更新，该方法在官方 VBench 上达到 84.87 分，超过此前最佳少步因果基线 0.36 分，训练消耗 16 A100 GPU-hours。",
+      "category": null,
+      "score": 36,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuge8kyg0pahrogvjagsfrq2"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmugbdmmm0m4orogvmdyzqq7j",
+      "title": "Google Project Suncatcher 将发射搭载 TPU 的原型卫星测试太空 AI 算力",
+      "title_en": "谷歌的\"Suncatcher\"项目将把机器学习基础设施送入太空",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts",
+      "permalink": "https://aihot.news/items/cmugbdmmm0m4orogvmdyzqq7j",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-25T01:46:38.606Z",
+      "discoveredAt": "2026-09-25T02:00:48.501Z",
+      "summary": "Google Project Suncatcher 计划通过 SpaceX Transporter-18 拼车任务发射首颗原型卫星，测试 TPU 在太空的运行表现。Trillium TPU 在 UC Davis 质子束测试中可承受超过五年太空任务总电离剂量的辐射；团队正用热管加辐射板方案解决真空散热，并计划 2027 年发射两颗卫星测试高带宽激光互联。",
       "category": "ai-products",
+      "score": 63,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmugbdmmm0m4orogvmdyzqq7j"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 7,
+      "editorialScore": 12,
+      "tags": [
+        "原型"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmugbg7lz0m8wrogvb662e6n4",
+      "title": "Runway GWM Worlds 2 与 WorldPrompt：实时交互世界模型的工程解读",
+      "title_en": "Runway's WorldPrompt and the Engineering of Real-Time Worlds",
+      "url": "https://www.latent.space/p/runway",
+      "permalink": "https://aihot.news/items/cmugbg7lz0m8wrogvb662e6n4",
+      "source": "Latent Space（RSS）",
+      "publishedAt": "2026-09-25T01:30:57.000Z",
+      "discoveredAt": "2026-09-25T02:02:49.262Z",
+      "summary": "Runway 本月推出研究预览版 GWM Worlds 2，将高保真视频和音频生成变为实时交互模拟，以 720p、24 fps 连续视频和 48，000 Hz 音频流式输出，并新增 WorldPrompt 输入格式，可固定环境部分方面并通过带时间戳的事件控制角色、相机和场景。",
+      "category": "tip",
+      "score": 59,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmugbg7lz0m8wrogvb662e6n4"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 9,
+      "editorialScore": 12,
+      "tags": [
+        "runway",
+        "交互",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmufyv2w105g7rogvlz0bj7p8",
+      "title": "Google Project Suncatcher 将把 TPU 送入太空测试",
+      "title_en": "Epic moment indeed. Google's \"Project Suncatcher\" . we're about to watch AI compute leave the plane…",
+      "url": "https://x.com/rohanpaul_ai/status/2103215093911810085",
+      "permalink": "https://aihot.news/items/cmufyv2w105g7rogvlz0bj7p8",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-24T20:08:48.000Z",
+      "discoveredAt": "2026-09-24T20:10:23.950Z",
+      "summary": "Google 的 Project Suncatcher 将 TPU 送入太空测试，搭载 SpaceX Transporter-18 拼车任务，与 Planet 合作建造原型卫星。计划 2027 年发射 2 颗卫星，用激光链路协同运行 AI 负载，实验室系统已实现单向 800Gbps 的激光通信速率。",
+      "category": "industry",
+      "score": 64,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmufyv2w105g7rogvlz0bj7p8"
+      },
+      "sourceType": "X",
+      "designCategory": "设计工具",
+      "relevanceScore": 7,
+      "editorialScore": 12,
+      "tags": [
+        "原型"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmufy1jbr04nprogvhjazb4qc",
+      "title": "Midjourney 更新编辑模型与缩略图预览，V8.1/8.2 平铺无缝化",
+      "title_en": "Edit updates， thumbnail previews， and more",
+      "url": "https://updates.midjourney.com/edit-updates-thumbnail-previews-and-more",
+      "permalink": "https://aihot.news/items/cmufy1jbr04nprogvhjazb4qc",
+      "source": "Midjourney：Updates（RSS）",
+      "publishedAt": "2026-09-24T19:36:40.000Z",
+      "discoveredAt": "2026-09-24T19:47:30.084Z",
+      "summary": "Midjourney 在 alpha.midjourney.com 界面测试快速模型，Styles 侧边栏新增 \"Live previews\"，可预览提示词在已点赞和精选风格下的效果，点击缩略图即可用该风格生成。编辑模型的 inpainting 和 outpainting 得到改进，定向编辑只改变选中像素，可反复编辑而不降低画质；tile --tile 在 V8.1/8.2 上实现瓦片间无缝融合。",
+      "category": null,
+      "score": 43,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmufy1jbr04nprogvhjazb4qc"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 9,
+      "editorialScore": 12,
+      "tags": [
+        "midjourney",
+        "界面",
+        "提示词"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmufxmutg04a5rogvxw3hb7fg",
+      "title": "Midjourney 发布 v8.1/v8.2 的 --tile 更新并预览实时模型",
+      "title_en": "A few quick updates today！ We're releasing a new version of --tile for seamless patterns in v8.1 and…",
+      "url": "https://x.com/midjourney/status/2103202967025549528",
+      "permalink": "https://aihot.news/items/cmufxmutg04a5rogvxw3hb7fg",
+      "source": "X：Midjourney (@midjourney)",
+      "publishedAt": "2026-09-24T19:20:37.000Z",
+      "discoveredAt": "2026-09-24T19:36:04.396Z",
+      "summary": "Midjourney 宣布多项更新：v8.1 和 v8.2 发布新版 --tile 用于无缝图案生成；推出新版 inpainting，只改动用户选定的像素；并在其 alpha 站点提供实时模型的早期预览。",
+      "category": "ai-products",
+      "score": 53,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmufxmutg04a5rogvxw3hb7fg"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 9,
+      "editorialScore": 12,
+      "tags": [
+        "midjourney"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmufwaohb03qfro19k94k5lf7",
+      "title": "Runway 发布 Model Router 成本与质量评测报告",
+      "title_en": "Evaluating Cost vs. Quality Using Runway Model Router",
+      "url": "https://runwayml.com/news/developers/evaluating-runway-model-router",
+      "permalink": "https://aihot.news/items/cmufwaohb03qfro19k94k5lf7",
+      "source": "Runway：News（网页）",
+      "publishedAt": "2026-09-24T18:58:31.721Z",
+      "discoveredAt": "2026-09-24T18:58:31.721Z",
+      "summary": "Runway 公布 Model Router 评测报告，在 250 条图生视频提示词上对比 SOTA 基线 Seedance 2.5 与三种路由配置。Quality + $1 Cap 配置将单条生成成本从 $1.80 降至 $0.61（-66%），可用率 74%，保留基线 95% 的可用质量；Cost 路由成本降 83% 但可用率仅 38%。",
+      "category": null,
+      "score": 44,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmufwaohb03qfro19k94k5lf7"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 9,
+      "editorialScore": 12,
+      "tags": [
+        "runway",
+        "视频",
+        "提示词"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmuft47up07tzroxzdz4pqgrd",
+      "title": "Black Forest Labs 发布开源机器人模型 FLUX 3 Action",
+      "title_en": "Black Forest Labs launches FLUX 3 Action， an open robotics AI model",
+      "url": "https://the-decoder.com/black-forest-labs-launches-flux-3-action-an-open-robotics-ai-model",
+      "permalink": "https://aihot.news/items/cmuft47up07tzroxzdz4pqgrd",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-09-24T17:01:03.000Z",
+      "discoveredAt": "2026-09-24T17:29:35.081Z",
+      "summary": "Black Forest Labs 发布面向机器人的开源模型 FLUX 3 Action，基于以视频数据训练的多模态 FLUX 3，可从机器人工作区的多机位视频预测智能体下一步动作及环境变化。BFL 称其仅 70 亿参数即在 RoboLab-120 排行榜创下成功率纪录，体积不到此前最佳开源模型一半，运行最快快至 3.95 倍；模型权重已上架 Hugging Face。",
+      "category": "ai-models",
+      "score": 56,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuft47up07tzroxzdz4pqgrd"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 9,
+      "editorialScore": 12,
+      "tags": [
+        "flux",
+        "视频",
+        "智能体"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmug9jviu0k6krogvxu9kphv6",
+      "title": "BestBlogs 早报：Every 筛选 AI 产品创意与 Elastic 原子声明验证",
+      "title_en": "https://x.com/i/article/2103286387671998464",
+      "url": "https://x.com/hongming731/status/2103287015257383123",
+      "permalink": "https://aihot.news/items/cmug9jviu0k6krogvxu9kphv6",
+      "source": "X：洪明 (@hongming731)",
+      "publishedAt": "2026-09-25T00:54:36.000Z",
+      "discoveredAt": "2026-09-25T01:09:39.018Z",
+      "summary": "Every CEO Dan Shipper 分享实验室机制：用\"两片披萨\"小团队试新模型，原型经内部采用、早期客户再到正式产品逐级筛选，Kate Bench 使编辑工作量较上月减少 12%。Elastic 用原子声明验证合并知识库文章，将每次合并从至少一小时压缩到约五分钟。Thoughtworks 作者则强调 AI 时代人际同行反馈仍不可替代。",
+      "category": null,
+      "score": 38,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmug9jviu0k6krogvxu9kphv6"
+      },
+      "sourceType": "X",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
+      "tags": [
+        "原型",
+        "创意"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmufzhpp3068grogvkhiz7xt2",
+      "title": "Google 用 AI video co-director 多智能体框架自动生成长视频",
+      "title_en": "Automating coherent long-form video generation",
+      "url": "https://research.google/blog/coherent-long-form-video-generation",
+      "permalink": "https://aihot.news/items/cmufzhpp3068grogvkhiz7xt2",
+      "source": "Google Research：Blog（网页）",
+      "publishedAt": "2026-09-24T20:28:01.877Z",
+      "discoveredAt": "2026-09-24T20:28:01.877Z",
+      "summary": "Google Research 提出 AI video co-director，一个分层多智能体框架，把视频叙事建模为全局优化问题，用多臂老虎机（MAB）在创意策略、叙事模式、美学原型三个维度上搜索最优创意配置。",
+      "category": null,
+      "score": 37,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmufzhpp3068grogvkhiz7xt2"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
+      "tags": [
+        "原型",
+        "创意",
+        "视频",
+        "智能体"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "cmug0kj48077erogvwn834ob9",
+      "title": "Google 为 Gemini 3.8 Live 推出 Live Avatar 实时数字人",
+      "title_en": "Gemini 3.8 Live with Live Avatar gives Google&#8217；s AI a face",
+      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "permalink": "https://aihot.news/items/cmug0kj48077erogvwn834ob9",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-09-24T19:59:26.000Z",
+      "discoveredAt": "2026-09-24T20:58:15.422Z",
+      "summary": "Google 在 Gemini 3.8 Live 更新中推出 Live Avatar，可在对话中实时口型同步并呈现不同面部表情，目前仅面向 Gemini Enterprise 客户开放。该功能支持 97 种语言切换且不降低视频保真度或产生视觉漂移，还能在说话时调出屏幕信息。Google 同时提供预设头像库并允许企业自建，输出带有不可见 SynthID 水印及身份保护措施。",
+      "category": null,
+      "score": 46,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmug0kj48077erogvwn834ob9"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmufyfo7u04zirogvexzn4p93",
+      "title": "Can our TPUs survive and operate in space？ Well， we're going to find out. Project Suncatcher is hit…",
+      "title_en": null,
+      "url": "https://x.com/sundarpichai/status/2103209164072010051",
+      "permalink": "https://aihot.news/items/cmufyfo7u04zirogvexzn4p93",
+      "source": "X：Sundar Pichai (@sundarpichai)",
+      "publishedAt": "2026-09-24T19:45:15.000Z",
+      "discoveredAt": "2026-09-24T19:58:28.510Z",
+      "summary": "Sundar Pichai 宣布 Project Suncatcher 将搭载 SpaceX 的 Transporter-18 任务，测试与 Planet 合作建造的原型卫星，验证 TPU 能否在太空存活和运行。这是 TPU 上太空的一小步。",
+      "category": "industry",
       "score": 57,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmue9clpx0s7lrogh3gzyvqoi"
+        "canonical": "https://aihot.news/items/cmufyfo7u04zirogvexzn4p93"
       },
       "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
       "tags": [
-        "design",
-        "设计"
+        "原型"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "cmufqy3qi057iroxzjyq0cde6",
@@ -462,87 +875,30 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmuek0q2c05foroynclaijp3z",
-      "title": "团队分享提升 Agent Harness Token 效率的提示词",
-      "title_en": "here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
-      "url": "https://x.com/ericzakariasson/status/2102853511637774551",
-      "permalink": "https://aihot.news/items/cmuek0q2c05foroynclaijp3z",
-      "source": "X：Eric Zakariasson (@ericzakariasson)",
-      "publishedAt": "2026-09-23T20:12:00.000Z",
-      "discoveredAt": "2026-09-23T20:27:09.837Z",
-      "summary": "一份公开提示词用于优化 LLM Agent Harness，目标是在不降低任务质量的前提下降低每任务的价格加权 token 成本。某团队一轮改动（提示词精简、工具卸载、缓存布局、稀疏行号、子智能体调优）将整体 token 成本降低约 7%，且质量无损。提示词强调按任务而非按请求计量，并建议先映射 harness、测量基线，再按优先级实施改动。",
-      "category": "tip",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuek0q2c05foroynclaijp3z"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 10,
-      "editorialScore": 11,
-      "tags": [
-        "提示词",
-        "prompt",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmueciqjs053uro2dfns8k7bz",
-      "title": "Gemini 接入 13 款新应用",
-      "title_en": "More of your favorite apps are coming to Gemini！ Which ones do you want next？",
-      "url": "https://x.com/joshwoodward/status/2102800209894056351",
-      "permalink": "https://aihot.news/items/cmueciqjs053uro2dfns8k7bz",
-      "source": "X：Josh Woodward (@joshwoodward, Google Labs VP)",
-      "publishedAt": "2026-09-23T16:40:12.000Z",
-      "discoveredAt": "2026-09-23T16:57:11.025Z",
-      "summary": "更多你喜爱的应用正在登陆 Gemini！你接下来想要哪些？\n\n（引用 @GeminiApp）：现在 Gemini 可以连接 13 款新应用，包括 @adobe、@squarespace、@onepeloton 等。无需在多个标签页之间切换，你现在可以在 Gemini 里拓展业务、设计素材、规划锻炼。🧵",
-      "category": null,
-      "score": 42,
+      "id": "cmuggnatc0ruurogvbw2jt3gk",
+      "title": "Black Forest Labs 发布 7B 开源权重世界动作模型 FLUX 3 Action，以 42.92% 登顶 RoboLab-120",
+      "title_en": "Black Forest Labs Releases FLUX 3 Action： A 7B Open-Weights World Action Model That Tops RoboLab-120",
+      "url": "https://www.marktechpost.com/2026/09/24/black-forest-labs-releases-flux-3-action-a-7b-open-weights-world-action-model-that-tops-robolab-120",
+      "permalink": "https://aihot.news/items/cmuggnatc0ruurogvbw2jt3gk",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-09-25T04:24:01.000Z",
+      "discoveredAt": "2026-09-25T04:28:17.811Z",
+      "summary": "Black Forest Labs 发布 7B 开源权重世界动作模型 FLUX 3 Action，用于机器人控制，在 RoboLab-120 上以 42.92% 任务成功率排名第一，领先 Cosmos 3 Nano 6.1 个百分点且参数少 56%。",
+      "category": "ai-models",
+      "score": 65,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmueciqjs053uro2dfns8k7bz"
+        "canonical": "https://aihot.news/items/cmuggnatc0ruurogvbw2jt3gk"
       },
-      "sourceType": "X",
-      "designCategory": "设计工具",
-      "relevanceScore": 6,
-      "editorialScore": 11,
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
       "tags": [
-        "adobe",
-        "设计"
+        "flux"
       ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "cmuebhrcf0uj9roghshvy9hmc",
-      "title": "Gemini 接入 13 款新应用",
-      "title_en": "Now Gemini can connect with 13 new apps like @adobe， @squarespace， @onepeloton， and more. Instead o…",
-      "url": "https://x.com/GeminiApp/status/2102790841270210746",
-      "permalink": "https://aihot.news/items/cmuebhrcf0uj9roghshvy9hmc",
-      "source": "X：Gemini (@GeminiApp)",
-      "publishedAt": "2026-09-23T16:02:59.000Z",
-      "discoveredAt": "2026-09-23T16:28:28.498Z",
-      "summary": "现在 Gemini 可以连接 13 款新应用，包括 @adobe、@squarespace、@onepeloton 等。\n\n无需在多个标签页之间切换，你现在可以直接在 Gemini 中拓展业务、设计素材、规划锻炼。🧵",
-      "category": null,
-      "score": 42,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuebhrcf0uj9roghshvy9hmc"
-      },
-      "sourceType": "X",
-      "designCategory": "设计工具",
-      "relevanceScore": 6,
-      "editorialScore": 11,
-      "tags": [
-        "adobe",
-        "设计"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmufs15b606hjroxzwntjaxuh",
@@ -680,220 +1036,59 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmuedlddq03s2rommnsdnpz3z",
-      "title": "Cursor 优化读取环节降低 7% token 成本且不损 Agent 质量",
-      "title_en": "agents like to read a lot to gather context before and after working， so optimizing for reading make…",
-      "url": "https://x.com/ericzakariasson/status/2102807524126966206",
-      "permalink": "https://aihot.news/items/cmuedlddq03s2rommnsdnpz3z",
-      "source": "X：Eric Zakariasson (@ericzakariasson)",
-      "publishedAt": "2026-09-23T17:09:16.000Z",
-      "discoveredAt": "2026-09-23T17:27:09.633Z",
-      "summary": "Cursor 宣布在不降低 Agent 质量的前提下将 token 成本降低 7%，手段包括更紧凑的提示词、按需加载工具、更好缓存和压缩文件读取。作者转发并补充称，智能体工作前后会大量读取以收集上下文，因此优化读取收益明显，建议构建 Agent 的读者参考该文章或让 Agent 直接落实这些发现。配图显示 read 是最常用工具，占 91.3% 的 Agent 会话，grep 77.8%、glob 68.5% 次之。",
-      "category": "tip",
-      "score": 56,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuedlddq03s2rommnsdnpz3z"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "配图",
-        "提示词",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmueaojrp0tguroghb2g5nqdg",
-      "title": "Google 发布 Gemini 3.8 Flash 与 Flash-Lite TTS 语音模型",
-      "title_en": "Introducing Gemini 3.8 Flash and Flash-Lite TTS， our new SOTA text to speech model with： - a new vo…",
-      "url": "https://x.com/OfficialLoganK/status/2102785495726219305",
-      "permalink": "https://aihot.news/items/cmueaojrp0tguroghb2g5nqdg",
-      "source": "X：Logan Kilpatrick (@OfficialLoganK)",
-      "publishedAt": "2026-09-23T15:41:44.000Z",
-      "discoveredAt": "2026-09-23T16:05:44.317Z",
-      "summary": "Google 发布 Gemini 3.8 Flash 与 Flash-Lite TTS，称其为新的 SOTA 文本转语音模型。支持 100 种语言，提供 2000+ 生产可用声音、语音复刻和新的声音设计体验，语音混音功能即将推出，并在 Hume AI 语音基准上排名第一。",
-      "category": "ai-models",
-      "score": 62,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmueaojrp0tguroghb2g5nqdg"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmueakhim0tdqroghbk2wptil",
-      "title": "Our latest text to speech and voice design model is here！ 🚀 - Thousands of new voices to choose f…",
-      "title_en": null,
-      "url": "https://x.com/ammaar/status/2102783844235825619",
-      "permalink": "https://aihot.news/items/cmueakhim0tdqroghbk2wptil",
-      "source": "X：Ammaar Reshi (@ammaar)",
-      "publishedAt": "2026-09-23T15:35:10.000Z",
-      "discoveredAt": "2026-09-23T16:02:31.772Z",
-      "summary": null,
-      "category": "ai-products",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmueakhim0tdqroghbk2wptil"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "design"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmuee8fwi04lbrommueh6vgyt",
-      "title": "Google 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型",
-      "title_en": "Gemini 3.8 text-to-speech",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech",
-      "permalink": "https://aihot.news/items/cmuee8fwi04lbrommueh6vgyt",
-      "source": "Hacker News：AI 热帖",
-      "publishedAt": "2026-09-23T15:29:23.000Z",
-      "discoveredAt": "2026-09-23T17:45:10.904Z",
-      "summary": "Google 发布 Gemini 3.8 Flash TTS 和 Gemini 3.8 Flash-Lite TTS 两款文本转语音模型，支持用自然语言提示词从零设计声音、30 秒音频样本复刻声音、逐行台词表演控制、原生双说话人场景编排，覆盖超过 100 种语言和方言。",
-      "category": "ai-models",
-      "score": 69,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuee8fwi04lbrommueh6vgyt"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计",
-        "提示词"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmuea8xrm0t1nroghhxj2y3eg",
-      "title": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型",
-      "title_en": "Gemini 3.8 text-to-speech says hello",
-      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-      "permalink": "https://aihot.news/items/cmuea8xrm0t1nroghhxj2y3eg",
-      "source": "Google DeepMind：Blog（RSS）",
-      "publishedAt": "2026-09-23T15:25:14.000Z",
-      "discoveredAt": "2026-09-23T15:53:33.804Z",
-      "summary": "Google DeepMind 发布 Gemini 3.8 Flash TTS 和 Gemini 3.8 Flash-Lite TTS 两款文本转语音模型，支持用自然语言提示词从零设计声音、30 秒样本复刻声音，并提供逐行表演指导、长时音频生成和双说话人场景编排，覆盖 100 多种语言。",
-      "category": "ai-models",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuea8xrm0t1nroghhxj2y3eg"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计",
-        "提示词"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmue8luj20r36roghr3xywlrj",
-      "title": "Space Bunny Alpha 上线 OpenRouter",
-      "title_en": "Meet Space Bunny Alpha on OpenRouter ⚡ A flash model with fast inference， adjustable reasoning， and…",
-      "url": "https://x.com/OpenRouter/status/2102772427105407270",
-      "permalink": "https://aihot.news/items/cmue8luj20r36roghr3xywlrj",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-09-23T14:49:48.000Z",
-      "discoveredAt": "2026-09-23T15:07:37.858Z",
-      "summary": "在 OpenRouter 上认识 Space Bunny Alpha ⚡\n\n一款 flash 模型，推理速度快，推理能力可调，上下文窗口达 1M token。支持文本、图像和视频输入。\n\n来试试并分享你的反馈：https://openrouter.ai/stealth/space-bunny-alpha",
+      "id": "cmufuuh7o0d50roxzj6ut2s8a",
+      "title": "Krea Agent 推出自定义应用",
+      "title_en": "introducing custom apps in Krea Agent. build creative tools that work the way you want. character s…",
+      "url": "https://x.com/krea_ai/status/2103181273472852384",
+      "permalink": "https://aihot.news/items/cmufuuh7o0d50roxzj6ut2s8a",
+      "source": "X：Krea AI (@krea_ai)",
+      "publishedAt": "2026-09-24T17:54:25.000Z",
+      "discoveredAt": "2026-09-24T18:18:00.556Z",
+      "summary": "在 Krea Agent 中推出自定义应用。\n\n构建按你想要的方式工作的创意工具。角色工作室、3D 查看器、动态效果。只需描述这个应用。\n\n了解更多 + 示例见下方 👇",
       "category": null,
-      "score": 49,
+      "score": 45,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmue8luj20r36roghr3xywlrj"
+        "canonical": "https://aihot.news/items/cmufuuh7o0d50roxzj6ut2s8a"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
+      "designCategory": "行业观察",
+      "relevanceScore": 9,
+      "editorialScore": 9,
       "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmue993lp0s15roghmfmdije8",
-      "title": "小米 18 Pro 系列手机新增「原色」影调，支持 Open Gate 片门全开",
-      "title_en": "曝小米 18 Pro 系列手机新增「原色」风格影调，支持 Open Gate 片门全开",
-      "url": "https://www.ithome.com/1/006/484.htm",
-      "permalink": "https://aihot.news/items/cmue993lp0s15roghmfmdije8",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-23T14:27:44.000Z",
-      "discoveredAt": "2026-09-23T15:25:44.943Z",
-      "summary": "小米 18 Pro 系列手机新增「原色」风格影调，并支持 Open Gate 片门全开视频拍摄模式，摄影风格提供原色、生动和经典三种。该系列搭载全焦段徕卡光学三摄，含徕卡 2 亿主摄（1/1.28′′大底）与徕卡 2 亿长焦（1/1.56′′大底），支持最近 12cm 微距，并首发「传奇一瞬」大模型影像。",
-      "category": null,
-      "score": 30,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmue993lp0s15roghmfmdije8"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "视频",
-        "摄影"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmue6k79h0oruroghf3cfe87j",
-      "title": "如何用 Pi SDK 和 Jev 构建自定义 Agent harness",
-      "title_en": "https://x.com/i/article/2102570923941367808",
-      "url": "https://x.com/omarsar0/status/2102762406204076532",
-      "permalink": "https://aihot.news/items/cmue6k79h0oruroghf3cfe87j",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "publishedAt": "2026-09-23T14:09:59.000Z",
-      "discoveredAt": "2026-09-23T14:10:23.969Z",
-      "summary": "作者发布交互式教程，演示用 Pi SDK（TypeScript Agent 工具包）和 TypeSafe AI 的小模型 Jev 构建自定义 Agent harness。",
-      "category": "tip",
-      "score": 64,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmue6k79h0oruroghf3cfe87j"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "交互",
+        "创意",
+        "creative",
+        "3d",
         "agent"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
+      "id": "cmufspbgf077mroxzh2n5prz8",
+      "title": "Runway 为 Seedance 2.5 推出草稿模式",
+      "title_en": "New in Runway， Draft mode for Seedance 2.5. Generate faster and with fewer credits while you explore…",
+      "url": "https://x.com/runwayml/status/2103170291103154460",
+      "permalink": "https://aihot.news/items/cmufspbgf077mroxzh2n5prz8",
+      "source": "X：Runway (@runwayml)",
+      "publishedAt": "2026-09-24T17:10:47.000Z",
+      "discoveredAt": "2026-09-24T17:18:00.696Z",
+      "summary": "Runway 新功能，Seedance 2.5 的草稿模式。生成更快、消耗更少 credits，方便你探索，然后把满意的作品提升至完整质量。点击下方链接开始使用。",
+      "category": null,
+      "score": 35,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmufspbgf077mroxzh2n5prz8"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "runway"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmufowow508ljro8wdhu2ruqc",
@@ -979,32 +1174,6 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmueup7fp03m9royq0c7hws53",
-      "title": "Runway 接入 DaVinci Resolve",
-      "title_en": "Runway is now in DaVinci Resolve Access the world's best models directly inside your timeline to ge…",
-      "url": "https://x.com/runwayml/status/2102834721340211571",
-      "permalink": "https://aihot.news/items/cmueup7fp03m9royq0c7hws53",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-09-23T18:57:21.000Z",
-      "discoveredAt": "2026-09-24T01:26:06.153Z",
-      "summary": "Runway 现已登陆 DaVinci Resolve\n\n直接在时间线内调用全球最顶尖的模型，无需离开项目即可生成、编辑和放大。点击下方链接开始使用。",
-      "category": null,
-      "score": 50,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmueup7fp03m9royq0c7hws53"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "runway"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmufqy86v057zroxz36ei9von",
       "title": "Google 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音模型",
       "title_en": "Google launches Gemini 3.8 Flash TTS voice models",
@@ -1033,26 +1202,81 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmued0oy602x2rommk0l8lw6q",
-      "title": "Antigravity SDK 支持本地模型，可完全离线运行智能体",
-      "title_en": "Introducing Support for Local AI Models in the Antigravity SDK",
-      "url": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk",
-      "permalink": "https://aihot.news/items/cmued0oy602x2rommk0l8lw6q",
-      "source": "Google Developers Blog（RSS）",
-      "publishedAt": "2026-09-23T17:09:01.108Z",
-      "discoveredAt": "2026-09-23T17:09:01.108Z",
-      "summary": "Google 宣布 Antigravity SDK 支持本地模型工作流，首发通过 Google AI Edge 的 LiteRT 支持 Gemma 4 26B A4B，可完全离线运行智能体，建议机器配备 >24GB VRAM 或统一内存。",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true,
+      "id": "cmug82n1l0io1rogvaldioyyk",
+      "title": "Meta AI 智能体 Muse 被发现可导出虚拟机内大量文件",
+      "title_en": "Meta 的 AI 智能体 Muse 被发现可导出虚拟机大量文件",
+      "url": "https://www.ithome.com/1/007/059.htm",
+      "permalink": "https://aihot.news/items/cmug82n1l0io1rogvaldioyyk",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-24T23:51:55.000Z",
+      "discoveredAt": "2026-09-25T00:28:17.504Z",
+      "summary": "Meta 的个人 AI 智能体 Muse 被发现可在简单提示词下打包并返回用户虚拟机中的大量 Linux 文件，Peter James 和 Jonny L. Saunders 两名开发者已独立复现。",
+      "category": "industry",
+      "score": 67,
+      "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmued0oy602x2rommk0l8lw6q"
+        "canonical": "https://aihot.news/items/cmug82n1l0io1rogvaldioyyk"
       },
       "sourceType": "网站",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "提示词",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmug60l2n0gnerogvv72ttoi2",
+      "title": "Opus 5.5 制作讲解视频的开源 agent 方案 shipvideo 发布",
+      "title_en": "Opus 5.5 擅长制作讲解视频",
+      "url": "https://launchvideo.io/",
+      "permalink": "https://aihot.news/items/cmug60l2n0gnerogvv72ttoi2",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-24T23:23:18.882Z",
+      "discoveredAt": "2026-09-24T23:30:42.583Z",
+      "summary": "作者发布 launchvideo.io 与 diggerhq/shipvideo 仓库，用 anthropic/claude-opus-5.5 通过 OpenComputer serverless agent 把一个 URL 或提示词直接渲染成 MP4 讲解视频，单次运行无人工编辑。",
+      "category": "tip",
+      "score": 62,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmug60l2n0gnerogvv72ttoi2"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "视频",
+        "提示词",
+        "agent"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmug18juk07x5rogvrjga7jl2",
+      "title": "为什么 Evals 现在这么火",
+      "title_en": "Why Evals Are So Hot Right Now",
+      "url": "https://every.to/context-window/why-evals-are-so-hot-right-now",
+      "permalink": "https://aihot.news/items/cmug18juk07x5rogvrjga7jl2",
+      "source": "Every：最新文章（网页）",
+      "publishedAt": "2026-09-24T21:16:53.082Z",
+      "discoveredAt": "2026-09-24T21:16:53.082Z",
+      "summary": "Evals 正成为当下 AI 领域的热门话题。文章还讨论了 Grok 4.7 的当前进展、一套在社交媒体上走红的工作流，以及为什么每家公司都需要一个 Slack 智能体。",
+      "category": null,
+      "score": 31,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmug18juk07x5rogvrjga7jl2"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
       "tags": [
         "工作流",
         "智能体"
@@ -1060,87 +1284,31 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmue849p40qkiroghcpjvnnrt",
-      "title": "Meta AI 智能体 Muse 一周吸引 50 万用户，同时被指大量借鉴 OpenClaw",
-      "title_en": "Meta's AI agent Muse draws 500，000 users in a week along with claims it copied OpenClaw",
-      "url": "https://the-decoder.com/metas-ai-agent-muse-draws-500000-users-in-a-week-along-with-claims-it-copied-openclaw",
-      "permalink": "https://aihot.news/items/cmue849p40qkiroghcpjvnnrt",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-09-23T14:42:38.000Z",
-      "discoveredAt": "2026-09-23T14:53:59.501Z",
-      "summary": "Meta 的个人 AI 智能体 Muse 于 9 月 8 日在美上线，一周内吸引超过 50 万用户，日活超 25 万，累计输入超过 200 万条提示词，并登顶 Apple App Store。",
-      "category": "industry",
-      "score": 68,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmue849p40qkiroghcpjvnnrt"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "提示词",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmue95vlh0rwaroghij11bdcx",
-      "title": "YouTube 在 Made on YouTube 大会发布后台 AI 智能体等创作者工具",
-      "title_en": "YouTube is building AI creator tools that do almost everything for them",
-      "url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
-      "permalink": "https://aihot.news/items/cmue95vlh0rwaroghij11bdcx",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-09-23T14:30:00.000Z",
-      "discoveredAt": "2026-09-23T15:23:15.418Z",
-      "summary": "YouTube 在年度 Made on YouTube 活动上宣布升级其 AI 创作者工具套件，引入一个在后台优化频道的 AI 智能体，可监测旧视频的新热度并建议修改缩略图和标题，还能整理频道受众数据生成品牌提案。",
-      "category": "ai-products",
-      "score": 58,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmue95vlh0rwaroghij11bdcx"
-      },
-      "sourceType": "网站",
-      "designCategory": "行业观察",
-      "relevanceScore": 8,
-      "editorialScore": 8,
-      "tags": [
-        "creator",
-        "视频",
-        "品牌",
-        "智能体"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmuegw2zh05b9rovxv74r57mz",
-      "title": "Strands 发布通用 agent harness：一行代码搭建云端智能体，成本较 Claude Code 低 77%",
-      "title_en": "Strands 安全带",
-      "url": "https://strandsagents.com/blog/introducing-strands-harness",
-      "permalink": "https://aihot.news/items/cmuegw2zh05b9rovxv74r57mz",
+      "id": "cmufyiehi0530rogvfid42gh8",
+      "title": "开源 IDE Whiteboard（YC W26）发布，让人与 agent 在画布上共同设计软件",
+      "title_en": "Show HN： Whiteboard （YC W26）--一款用于深思熟虑的软件设计的开源集成开发环境（IDE）",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "permalink": "https://aihot.news/items/cmufyiehi0530rogvfid42gh8",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-09-23T18:25:26.425Z",
-      "discoveredAt": "2026-09-23T18:59:31.148Z",
-      "summary": "Strands 团队发布 Strands harness，一个开箱即用的通用型 agent harness，可用一行 Python 或 TypeScript 接入 Amazon Bedrock、Anthropic、OpenAI、Google、Ollama 或 LiteLLM 的模型，采用 Apache 2.0 许可开源。",
+      "publishedAt": "2026-09-24T19:42:18.964Z",
+      "discoveredAt": "2026-09-24T20:00:36.927Z",
+      "summary": "Whiteboard（YC W26）发布，一款 MIT 许可的开源桌面 IDE，让人类与编码 agent 在同一画布上协作设计软件，支持接入 Claude Code、Codex 等 agent 并通过 SDK 在画布上绘制工作内容。",
       "category": "ai-products",
-      "score": 68,
+      "score": 57,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuegw2zh05b9rovxv74r57mz"
+        "canonical": "https://aihot.news/items/cmufyiehi0530rogvfid42gh8"
       },
       "sourceType": "网站",
       "designCategory": "工作流与 Agent",
       "relevanceScore": 6,
       "editorialScore": 7,
       "tags": [
+        "设计",
+        "codex",
         "claude code",
-        "agent",
-        "智能体"
+        "agent"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     }
