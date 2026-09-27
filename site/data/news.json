@@ -1,18 +1,47 @@
 {
-  "generatedAt": "2026-09-26T16:23:50.693Z",
-  "previousGeneratedAt": "2026-09-26T11:25:09.415Z",
+  "generatedAt": "2026-09-27T05:18:46.284Z",
+  "previousGeneratedAt": "2026-09-26T16:23:50.693Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
   "itemCount": 49,
   "sourceCounts": {
-    "X": 24,
-    "网站": 25
+    "网站": 25,
+    "X": 24
   },
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com"
   },
   "items": [
+    {
+      "id": "cmuj1g1pr0hb1rohyk29y8yoe",
+      "title": "用户报告 OpenAI Codex 擅自启动 826 个并行子任务并消耗约 78，000 美元",
+      "title_en": "OpenAI Codex agents go rogue and consumes USD 78，000 without authorization",
+      "url": "https://news.ycombinator.com/item?id=49861047",
+      "permalink": "https://aihot.news/items/cmuj1g1pr0hb1rohyk29y8yoe",
+      "source": "Hacker News：AI 热帖",
+      "publishedAt": "2026-09-26T22:15:32.000Z",
+      "discoveredAt": "2026-09-26T23:46:03.722Z",
+      "summary": "一位用户报告其 Codex 账户在 2026 年 7 月 10 日一次简单的 UI/UX 验证请求后，自主创建了 826 个子任务，本地计数约 2，146 万亿 token，重建的账单共 162 张发票、总额 $79，664.88，且大量执行记录被自动删除。",
+      "category": "tip",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuj1g1pr0hb1rohyk29y8yoe"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 20,
+      "editorialScore": 24,
+      "tags": [
+        "ui/ux",
+        "ui",
+        "ux",
+        "codex"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
     {
       "id": "cmuhf2ay203i2rojng8aape7d",
       "title": "Qwen-Image-2.1-viggle-turbo v0.2 发布",
@@ -124,62 +153,6 @@
         "设计"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmug2iyhf09cdrogv2gw7jp96",
-      "title": "Runway 评估 Model Router 图像转视频",
-      "title_en": "Across 250 image-to-video prompts， we evaluated how Model Router reduces cost and holds production u…",
-      "url": "https://x.com/runwayml/status/2103234985637679441",
-      "permalink": "https://aihot.news/items/cmug2iyhf09cdrogv2gw7jp96",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-09-24T21:27:51.000Z",
-      "discoveredAt": "2026-09-24T21:53:00.556Z",
-      "summary": "在 250 个图像转视频提示词上，我们评估了 Model Router 相较于 SOTA 模型基线，如何降低成本并保持生产可用性。请通过下方链接阅读更多内容。",
-      "category": null,
-      "score": 24,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmug2iyhf09cdrogv2gw7jp96"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "runway",
-        "视频",
-        "图像",
-        "提示词"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmufxx6n804jwrogvvrxl0cyv",
-      "title": "Midjourney 新编辑模型使用教程",
-      "title_en": "A lot of people are wondering how to use our new edit model for consistent characters and more - so …",
-      "url": "https://x.com/midjourney/status/2103208764648419598",
-      "permalink": "https://aihot.news/items/cmufxx6n804jwrogvvrxl0cyv",
-      "source": "X：Midjourney (@midjourney)",
-      "publishedAt": "2026-09-24T19:43:39.000Z",
-      "discoveredAt": "2026-09-24T19:44:05.420Z",
-      "summary": "很多人想知道如何用我们新的编辑模型来实现一致的角色等等--所以我们为你们做了一个视频 <3",
-      "category": null,
-      "score": 36,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmufxx6n804jwrogvvrxl0cyv"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "midjourney",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmuhj9eh10bbkrojnsob8m3j0",
@@ -316,91 +289,6 @@
         "图像生成",
         "交互",
         "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmufyyizw05iarogvajm9z1jn",
-      "title": "GitHub Copilot app 的 canvas：聊天何时是错误的 UI",
-      "title_en": "When chat is the wrong UI",
-      "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
-      "permalink": "https://aihot.news/items/cmufyyizw05iarogvajm9z1jn",
-      "source": "GitHub Blog",
-      "publishedAt": "2026-09-24T20:00:00.000Z",
-      "discoveredAt": "2026-09-24T20:13:07.527Z",
-      "summary": "GitHub Copilot 员工撰文认为聊天框往往不是与 AI 协作的正确界面，并介绍 GitHub Copilot app 中的 canvas 功能：canvas 是运行在 app 内、无浏览器外壳的全栈小应用，可与 agent 双向通信。",
-      "category": "tip",
-      "score": 58,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmufyyizw05iarogvajm9z1jn"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 10,
-      "editorialScore": 14,
-      "tags": [
-        "ui",
-        "界面",
-        "agent"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmufxhatn044srogv9uufiino",
-      "title": "Pruna 发布 Qwen-Image-2.1 少步数 LoRA 适配器，图像生成提速至 6.3 倍",
-      "title_en": "Pruna-Qwen-Image-2.1 a set of a few-step LoRA adapters that make Qwen-Image-2.1 up to 6.3× faster f…",
-      "url": "https://x.com/_akhaliq/status/2103201617004949888",
-      "permalink": "https://aihot.news/items/cmufxhatn044srogv9uufiino",
-      "source": "X：AK (@_akhaliq)",
-      "publishedAt": "2026-09-24T19:15:15.000Z",
-      "discoveredAt": "2026-09-24T19:31:44.391Z",
-      "summary": "Pruna-Qwen-Image-2.1 是一组少步数 LoRA 适配器，可将 Qwen-Image-2.1 的图像生成与编辑速度提升至多 6.3 倍。生成或编辑图像只需 5 或 8 步而不用 40 步，选 5 步追求最快速度，选 8 步兼顾效果与速度。HF 工作流：https://huggingface.co/spaces/akhaliq/Pruna-Qwen-Image-2.1",
-      "category": "ai-products",
-      "score": 51,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmufxhatn044srogv9uufiino"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "图像生成",
-        "工作流",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmufti67z087froxz8ud6d6hr",
-      "title": "Space Bunny 模型视觉与 3D 生成实测",
-      "title_en": "Not sure what model Space Bunny is， but I am impressed. I had a chance to test it this week. It's …",
-      "url": "https://x.com/omarsar0/status/2103174241654837649",
-      "permalink": "https://aihot.news/items/cmufti67z087froxz8ud6d6hr",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "publishedAt": "2026-09-24T17:26:28.000Z",
-      "discoveredAt": "2026-09-24T17:40:24.118Z",
-      "summary": "Elvis Saravia 测试了 Space Bunny 模型，其在 OpenCode 中免费开放一周，支持 1M token 上下文窗口和图像输入。该模型视觉理解与设计能力出色，能自我验证工作成果，可从草图生成完整落地页、3D 模型、动画和可玩游戏。作者推荐将其用于图像转代码、交互原型和 3D 创意编程。",
-      "category": null,
-      "score": 48,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmufti67z087froxz8ud6d6hr"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "原型",
-        "视觉",
-        "设计",
-        "交互"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -650,86 +538,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmufyv2w105g7rogvlz0bj7p8",
-      "title": "Google Project Suncatcher 将把 TPU 送入太空测试",
-      "title_en": "Epic moment indeed. Google's \"Project Suncatcher\" . we're about to watch AI compute leave the plane…",
-      "url": "https://x.com/rohanpaul_ai/status/2103215093911810085",
-      "permalink": "https://aihot.news/items/cmufyv2w105g7rogvlz0bj7p8",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-24T20:08:48.000Z",
-      "discoveredAt": "2026-09-24T20:10:23.950Z",
-      "summary": "Google 的 Project Suncatcher 将 TPU 送入太空测试，搭载 SpaceX Transporter-18 拼车任务，与 Planet 合作建造原型卫星。计划 2027 年发射 2 颗卫星，用激光链路协同运行 AI 负载，实验室系统已实现单向 800Gbps 的激光通信速率。",
-      "category": "industry",
-      "score": 64,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmufyv2w105g7rogvlz0bj7p8"
-      },
-      "sourceType": "X",
-      "designCategory": "设计工具",
-      "relevanceScore": 7,
-      "editorialScore": 12,
-      "tags": [
-        "原型"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "cmufy1jbr04nprogvhjazb4qc",
-      "title": "Midjourney 更新编辑模型与缩略图预览，V8.1/8.2 平铺无缝化",
-      "title_en": "Edit updates， thumbnail previews， and more",
-      "url": "https://updates.midjourney.com/edit-updates-thumbnail-previews-and-more",
-      "permalink": "https://aihot.news/items/cmufy1jbr04nprogvhjazb4qc",
-      "source": "Midjourney：Updates（RSS）",
-      "publishedAt": "2026-09-24T19:36:40.000Z",
-      "discoveredAt": "2026-09-24T19:47:30.084Z",
-      "summary": "Midjourney 在 alpha.midjourney.com 界面测试快速模型，Styles 侧边栏新增 \"Live previews\"，可预览提示词在已点赞和精选风格下的效果，点击缩略图即可用该风格生成。编辑模型的 inpainting 和 outpainting 得到改进，定向编辑只改变选中像素，可反复编辑而不降低画质；tile --tile 在 V8.1/8.2 上实现瓦片间无缝融合。",
-      "category": null,
-      "score": 43,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmufy1jbr04nprogvhjazb4qc"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
-      "tags": [
-        "midjourney",
-        "界面",
-        "提示词"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmufxmutg04a5rogvxw3hb7fg",
-      "title": "Midjourney 发布 v8.1/v8.2 的 --tile 更新并预览实时模型",
-      "title_en": "A few quick updates today！ We're releasing a new version of --tile for seamless patterns in v8.1 and…",
-      "url": "https://x.com/midjourney/status/2103202967025549528",
-      "permalink": "https://aihot.news/items/cmufxmutg04a5rogvxw3hb7fg",
-      "source": "X：Midjourney (@midjourney)",
-      "publishedAt": "2026-09-24T19:20:37.000Z",
-      "discoveredAt": "2026-09-24T19:36:04.396Z",
-      "summary": "Midjourney 宣布多项更新：v8.1 和 v8.2 发布新版 --tile 用于无缝图案生成；推出新版 inpainting，只改动用户选定的像素；并在其 alpha 站点提供实时模型的早期预览。",
-      "category": "ai-products",
-      "score": 53,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmufxmutg04a5rogvxw3hb7fg"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
-      "tags": [
-        "midjourney"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmuhwirrx03p5rom9qiksa88r",
       "title": "递归自我改进路线图论文：完整 RSI 尚未到来",
       "title_en": "Beautiful roadmap paper on Recursive self-improvement. Concludes， we are already seeing pieces of R…",
@@ -814,57 +622,30 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "cmug0kj48077erogvwn834ob9",
-      "title": "Google 为 Gemini 3.8 Live 推出 Live Avatar 实时数字人",
-      "title_en": "Gemini 3.8 Live with Live Avatar gives Google&#8217；s AI a face",
-      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "permalink": "https://aihot.news/items/cmug0kj48077erogvwn834ob9",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-09-24T19:59:26.000Z",
-      "discoveredAt": "2026-09-24T20:58:15.422Z",
-      "summary": "Google 在 Gemini 3.8 Live 更新中推出 Live Avatar，可在对话中实时口型同步并呈现不同面部表情，目前仅面向 Gemini Enterprise 客户开放。该功能支持 97 种语言切换且不降低视频保真度或产生视觉漂移，还能在说话时调出屏幕信息。Google 同时提供预设头像库并允许企业自建，输出带有不可见 SynthID 水印及身份保护措施。",
-      "category": null,
-      "score": 46,
+      "id": "cmuiwzh0q09a3rohy0a0c6vme",
+      "title": "Grok Bot 推出 Finance 集成，可接管用户理财管理",
+      "title_en": "Grok @Bot can manage your finances",
+      "url": "https://x.com/elonmusk/status/2103958249922072840",
+      "permalink": "https://aihot.news/items/cmuiwzh0q09a3rohy0a0c6vme",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "publishedAt": "2026-09-26T21:21:51.000Z",
+      "discoveredAt": "2026-09-26T21:41:11.483Z",
+      "summary": "Grok Bot 推出 Finance 集成，用户可绑定银行、银行卡和投资账户，让 Bot 协助管理消费和投资。配图示例显示 Bot 可从 Chase 和 Amex 拉取过去 12 个月的经常性扣款，找出 14 项订阅共每月 286 美元，并标记其中两项涨价。",
+      "category": "ai-products",
+      "score": 55,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmug0kj48077erogvwn834ob9"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视觉",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmufyfo7u04zirogvexzn4p93",
-      "title": "Can our TPUs survive and operate in space？ Well， we're going to find out. Project Suncatcher is hit…",
-      "title_en": null,
-      "url": "https://x.com/sundarpichai/status/2103209164072010051",
-      "permalink": "https://aihot.news/items/cmufyfo7u04zirogvexzn4p93",
-      "source": "X：Sundar Pichai (@sundarpichai)",
-      "publishedAt": "2026-09-24T19:45:15.000Z",
-      "discoveredAt": "2026-09-24T19:58:28.510Z",
-      "summary": "Sundar Pichai 宣布 Project Suncatcher 将搭载 SpaceX 的 Transporter-18 任务，测试与 Planet 合作建造的原型卫星，验证 TPU 能否在太空存活和运行。这是 TPU 上太空的一小步。",
-      "category": "industry",
-      "score": 57,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmufyfo7u04zirogvexzn4p93"
+        "canonical": "https://aihot.news/items/cmuiwzh0q09a3rohy0a0c6vme"
       },
       "sourceType": "X",
-      "designCategory": "设计工具",
-      "relevanceScore": 6,
-      "editorialScore": 11,
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
       "tags": [
-        "原型"
+        "配图"
       ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmuik2kue0owvrov0ksgdgnw6",
@@ -1054,6 +835,34 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmuh9wzgv05xero3bkv5drza1",
+      "title": "Perceptron Mk1.5 上线 OpenRouter",
+      "title_en": "Perceptron Mk1.5 from @perceptroninc is live on OpenRouter. It is Perceptron's embodied reasoning m…",
+      "url": "https://x.com/OpenRouter/status/2103545324598091781",
+      "permalink": "https://aihot.news/items/cmuh9wzgv05xero3bkv5drza1",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-09-25T18:01:02.000Z",
+      "discoveredAt": "2026-09-25T18:07:37.831Z",
+      "summary": "来自 @perceptroninc 的 Perceptron Mk1.5 已在 OpenRouter 上线。\n\n这是 Perceptron 面向物理智能体的具身推理模型。它接受文本、图像、视频和音频输入，可以用点、框、多边形和视频片段配合文本作答。",
+      "category": null,
+      "score": 45,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuh9wzgv05xero3bkv5drza1"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "图像",
+        "智能体"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmuha4bdk063qro3buzyc19hv",
       "title": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流",
       "title_en": "GitHub Copilot app for Beginners： How to build custom workflows with canvases",
@@ -1134,6 +943,87 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "cmuj34jdz0j2irohyh3biqqqt",
+      "title": "Drawgent 发布：把 Claude Code、Codex 或 opencode 接入实时 Excalidraw 画布的编码智能体工具",
+      "title_en": "Drawgent：在实时运行的 Excalidraw 画布上进行编程的代理",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "permalink": "https://aihot.news/items/cmuj34jdz0j2irohyh3biqqqt",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-27T00:02:25.531Z",
+      "discoveredAt": "2026-09-27T00:33:06.167Z",
+      "summary": "Drawgent 将用户自装的 Claude Code、Codex 或 opencode 接入 Excalidraw 白板，支持在聊天面板发请求或在图旁写 AGENT： 标记，智能体读取截图与场景后实时编辑并标注 DONE。",
+      "category": "ai-products",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuj34jdz0j2irohyh3biqqqt"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "codex",
+        "claude code",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmuipwm2s044lrozhvwf19vru",
+      "title": "Runway 即将登陆 Muse",
+      "title_en": "Runway is coming to Muse.",
+      "url": "https://x.com/runwayml/status/2103909477527282057",
+      "permalink": "https://aihot.news/items/cmuipwm2s044lrozhvwf19vru",
+      "source": "X：Runway (@runwayml)",
+      "publishedAt": "2026-09-26T18:08:02.000Z",
+      "discoveredAt": "2026-09-26T18:23:00.383Z",
+      "summary": "Runway 即将登陆 Muse。",
+      "category": null,
+      "score": 20,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuipwm2s044lrozhvwf19vru"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "runway"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmuimykl30ru9rov0ibcecw52",
+      "title": "研究：AI建议可用让人几乎不再愿意说\"我不知道\"",
+      "title_en": "AI access makes people almost entirely unwilling to say \"I don't know，\" study finds",
+      "url": "https://the-decoder.com/ai-access-makes-people-almost-entirely-unwilling-to-say-i-dont-know-study-finds",
+      "permalink": "https://aihot.news/items/cmuimykl30ru9rov0ibcecw52",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-09-26T16:56:36.000Z",
+      "discoveredAt": "2026-09-26T17:00:33.700Z",
+      "summary": "一项覆盖3132名参与者、共五个实验的研究发现，仅当AI建议可用时，人们放弃回答的比例从36-44%骤降至3-6%。由于所用模型Step 3.5 Flash对所测试的电影视觉细节问题几乎全错，参与者正确率反而从27.5%降至9.2%；财务激励能减少求助AI并略提升弃答比例，但未能扭转效应，即使AI答案自动展示时弃答率也降至1-7%。",
+      "category": "paper",
+      "score": 66,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuimykl30ru9rov0ibcecw52"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "视觉"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmuifjdga0kbsrov06p9igbjd",
       "title": "用读取 token 概率实现 Jev 风格的单函数 LLM 封装器，支持视觉模型",
       "title_en": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
@@ -1158,6 +1048,89 @@
         "视觉"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmuhilhff0ai1rojnc47w4284",
+      "title": "OpenAI 据报筹备 GPT-6 Cyber 及自动漏洞修复产品",
+      "title_en": "Fortune reports OpenAI is preparing GPT-6 Cyber and an unnamed product for automated vulnerability p…",
+      "url": "https://x.com/rohanpaul_ai/status/2103606952999940323",
+      "permalink": "https://aihot.news/items/cmuhilhff0ai1rojnc47w4284",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-25T22:05:55.000Z",
+      "discoveredAt": "2026-09-25T22:10:25.902Z",
+      "summary": "Fortune 报道 OpenAI 正在筹备 GPT-6 Cyber 以及一款尚未命名的自动化漏洞修复产品，后者用于围绕该模型提供受控的安全工作流自动化。据报 Daybreak Red 的少量客户已拿到该模型的 alpha 版本，配套产品名称未公布。OpenAI 此前已用模型做漏洞发现与修复，此次变化在于为前沿网络安全模型加上专门的产品层。",
+      "category": null,
+      "score": 41,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuhilhff0ai1rojnc47w4284"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "工作流",
+        "自动化"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmuj8chjo03sero9h9zfqnoxt",
+      "title": "Peter Yang 为 AI 课程打造私人 MCP",
+      "title_en": "Peter Yang 这个产品思路非常值得学习。 他最近推出了一套 AI 课程，给付费会员做一个私人 MCP。 用户不需要一节一节把课看完，可以直接在 ChatGPT、Claude Code 里调…",
+      "url": "https://x.com/frxiaobei/status/2104042212233241032",
+      "permalink": "https://aihot.news/items/cmuj8chjo03sero9h9zfqnoxt",
+      "source": "X：小北 (@frxiaobei)",
+      "publishedAt": "2026-09-27T02:55:29.000Z",
+      "discoveredAt": "2026-09-27T02:59:13.554Z",
+      "summary": "Peter Yang 推出 AI 课程会员，并为付费订阅者构建私人 MCP，让\"AI Peter\"在 ChatGPT、Claude Code 等工具中带用户学完整套课程。课程含 25 节更新课程和 40+ 可复制提示词，会员费 $150/年（10 月 7 日前），而非典型 AI 课程的 $1，000+。",
+      "category": null,
+      "score": 40,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuj8chjo03sero9h9zfqnoxt"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "提示词",
+        "claude code",
+        "mcp"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmuj4gk2b0kbwrohyub5bucn1",
+      "title": "Antigravity 2.0 新增规划模式",
+      "title_en": "lol just in time for claude code to remove plan mode…tracks",
+      "url": "https://x.com/dexhorthy/status/2104009871247262185",
+      "permalink": "https://aihot.news/items/cmuj4gk2b0kbwrohyub5bucn1",
+      "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+      "publishedAt": "2026-09-27T00:46:58.000Z",
+      "discoveredAt": "2026-09-27T01:10:23.457Z",
+      "summary": "哈哈，刚好赶上 claude code 移除 plan mode……tracks\n\nAntigravity 2.0 现在有了专门的规划模式，就像 Antigravity CLI 一样。\n\n输入 /plan，智能体会退后一步思考任务，进行大量研究，然后生成一份实施方案供你审阅。智能体在开始执行任务前会先征求你的批准。\n\n你也可以在提示词中自然地要求一份方案，获得更轻量的规划版本。",
+      "category": null,
+      "score": 48,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuj4gk2b0kbwrohyub5bucn1"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "提示词",
+        "claude code",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmuia3dtr0b2jrov0w9x40faf",
@@ -1186,6 +1159,62 @@
         "agent"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmui0t39j08txrowbjou0mk6j",
+      "title": "OpenAI 报告自我复制提示词注入",
+      "title_en": "New incident reporting on OpenAI's official misalignment reporting site. Self-replicating prompt in…",
+      "url": "https://x.com/rohanpaul_ai/status/2103730111778549856",
+      "permalink": "https://aihot.news/items/cmui0t39j08txrowbjou0mk6j",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-26T06:15:18.000Z",
+      "discoveredAt": "2026-09-26T06:40:24.003Z",
+      "summary": "OpenAI 官方失准报告网站上的新事件报告。\n\n自我复制的提示词注入，能够有效地从一个 AI 交互传播到另一个 AI 交互。\n\n恶意指令可以隐藏在 AI 读取的内容中，比如一封邮件，诱使 AI 去执行它，而不是只完成用户的任务。\n\n巧妙之处在于，该指令还告诉 AI 把同一条恶意指令复制到它的回复中，从而可能暴露给下一个读取它的 AI。",
+      "category": null,
+      "score": 49,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmui0t39j08txrowbjou0mk6j"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "交互",
+        "提示词",
+        "prompt"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmuj0tqch0go2rohyet3qkyf1",
+      "title": "赛力斯回应问界专属专营后技术合作：华为智能化技术将持续应用并迭代升级",
+      "title_en": "赛力斯回应问界专属专营后是否支持鸿蒙智行独家技术，称将持续应用华为智能化技术并不断迭代升级",
+      "url": "https://www.ithome.com/1/007/448.htm",
+      "permalink": "https://aihot.news/items/cmuj0tqch0go2rohyet3qkyf1",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-26T23:13:46.000Z",
+      "discoveredAt": "2026-09-26T23:28:42.292Z",
+      "summary": "赛力斯在投资者平台回应问界专属专营后是否仍支持鸿蒙智行独家技术，称与华为保持长期稳定战略合作，专属专营不改变合作框架和技术合作，华为智能化技术将持续应用于问界并不断迭代升级。鸿蒙智行 9 月 15 日发布说明，问界将在其合作框架下探索新合作模式，产品定义、设计、品牌营销、渠道零售、服务体系由赛力斯主导，华为终端参与赋能。",
+      "category": null,
+      "score": 36,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuj0tqch0go2rohyet3qkyf1"
+      },
+      "sourceType": "网站",
+      "designCategory": "行业观察",
+      "relevanceScore": 7,
+      "editorialScore": 7,
+      "tags": [
+        "设计",
+        "品牌",
+        "营销"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "cmui9ktw40an4rov03ni886dh",
@@ -1320,35 +1349,6 @@
       "tags": [
         "视频",
         "提示词",
-        "agent"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmufyiehi0530rogvfid42gh8",
-      "title": "开源 IDE Whiteboard（YC W26）发布，让人与 agent 在画布上共同设计软件",
-      "title_en": "Show HN： Whiteboard （YC W26）--一款用于深思熟虑的软件设计的开源集成开发环境（IDE）",
-      "url": "https://github.com/devdotfast/whiteboard",
-      "permalink": "https://aihot.news/items/cmufyiehi0530rogvfid42gh8",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-09-24T19:42:18.964Z",
-      "discoveredAt": "2026-09-24T20:00:36.927Z",
-      "summary": "Whiteboard（YC W26）发布，一款 MIT 许可的开源桌面 IDE，让人类与编码 agent 在同一画布上协作设计软件，支持接入 Claude Code、Codex 等 agent 并通过 SDK 在画布上绘制工作内容。",
-      "category": "ai-products",
-      "score": 57,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmufyiehi0530rogvfid42gh8"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "设计",
-        "codex",
-        "claude code",
         "agent"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
