@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-27T12:02:23.533Z",
-  "previousGeneratedAt": "2026-09-27T05:18:46.284Z",
+  "generatedAt": "2026-09-27T16:58:01.256Z",
+  "previousGeneratedAt": "2026-09-27T12:02:23.533Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
   "itemCount": 45,
@@ -151,6 +151,33 @@
       "tags": [
         "设计师",
         "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cmuk0d22y13c1ro9hr8lwz1sp",
+      "title": "粗制滥造的用户界面的10个迹象：作者盘点AI生成UI的典型槽点",
+      "title_en": "粗制滥造的用户界面的10个迹象",
+      "url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
+      "permalink": "https://aihot.news/items/cmuk0d22y13c1ro9hr8lwz1sp",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-27T15:45:11.385Z",
+      "discoveredAt": "2026-09-27T16:03:29.437Z",
+      "summary": "作者吐槽自己大学应用更新后的界面是典型的 AI slop UI，并总结十个识别迹象：无处不在的渐变和紫色、无意义的彩色、多余的脉冲徽章、被滥用的指甲卡片、大量 emoji、元素错位、Inter 或 JetBrains Mono 字体、聊天上下文带来的冗余文案、glassmorphism，以及 Elevate、Seamless、Next-Generation 之类的空洞口号。",
+      "category": "tip",
+      "score": 51,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuk0d22y13c1ro9hr8lwz1sp"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 10,
+      "editorialScore": 14,
+      "tags": [
+        "ui",
+        "界面"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
@@ -535,6 +562,62 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cmuk24qhy1563ro9h885qomwg",
+      "title": "OpenAI 修复 GPT-6 图像理解 bug",
+      "title_en": "We've fixed a bug that was degrading image understanding in GPT-6 Sol and GPT-6 Luna. You should now…",
+      "url": "https://x.com/OpenAIDevs/status/2104252306447544447",
+      "permalink": "https://aihot.news/items/cmuk24qhy1563ro9h885qomwg",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "publishedAt": "2026-09-27T16:50:19.000Z",
+      "discoveredAt": "2026-09-27T16:53:00.950Z",
+      "summary": "我们修复了一个导致 GPT-6 Sol 和 GPT-6 Luna 图像理解能力下降的 bug。现在你在 API 和 Codex 中的视觉任务上应该能看到更好的结果，包括 computer use。",
+      "category": null,
+      "score": 33,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuk24qhy1563ro9h885qomwg"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "图像",
+        "codex"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cmuk24qhy1564ro9hxi77q627",
+      "title": "OpenAI 修复 GPT-6 图像理解 bug",
+      "title_en": "We've fixed a bug that was degrading image understanding in GPT-6 Sol and GPT-6 Luna. You should now…",
+      "url": "https://x.com/OpenAIDevs/status/2104252025978658890",
+      "permalink": "https://aihot.news/items/cmuk24qhy1564ro9hxi77q627",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "publishedAt": "2026-09-27T16:49:12.000Z",
+      "discoveredAt": "2026-09-27T16:53:00.950Z",
+      "summary": "我们修复了一个导致 GPT-6 Sol 和 GPT-6 Luna 图像理解能力下降的 bug。现在你在 API 和 Codex 中的视觉任务上应该能看到更好的结果，包括 computer use。",
+      "category": null,
+      "score": 36,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuk24qhy1564ro9hxi77q627"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "图像",
+        "codex"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "cmuhwirrx03p5rom9qiksa88r",
       "title": "递归自我改进路线图论文：完整 RSI 尚未到来",
       "title_en": "Beautiful roadmap paper on Recursive self-improvement. Concludes， we are already seeing pieces of R…",
@@ -913,32 +996,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmuggnatc0ruurogvbw2jt3gk",
-      "title": "Black Forest Labs 发布 7B 开源权重世界动作模型 FLUX 3 Action，以 42.92% 登顶 RoboLab-120",
-      "title_en": "Black Forest Labs Releases FLUX 3 Action： A 7B Open-Weights World Action Model That Tops RoboLab-120",
-      "url": "https://www.marktechpost.com/2026/09/24/black-forest-labs-releases-flux-3-action-a-7b-open-weights-world-action-model-that-tops-robolab-120",
-      "permalink": "https://aihot.news/items/cmuggnatc0ruurogvbw2jt3gk",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-09-25T04:24:01.000Z",
-      "discoveredAt": "2026-09-25T04:28:17.811Z",
-      "summary": "Black Forest Labs 发布 7B 开源权重世界动作模型 FLUX 3 Action，用于机器人控制，在 RoboLab-120 上以 42.92% 任务成功率排名第一，领先 Cosmos 3 Nano 6.1 个百分点且参数少 56%。",
-      "category": "ai-models",
-      "score": 65,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuggnatc0ruurogvbw2jt3gk"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "flux"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "cmuj34jdz0j2irohyh3biqqqt",
       "title": "Drawgent 发布：把 Claude Code、Codex 或 opencode 接入实时 Excalidraw 画布的编码智能体工具",
       "title_en": "Drawgent：在实时运行的 Excalidraw 画布上进行编程的代理",
@@ -1044,61 +1101,6 @@
         "视觉"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmuhilhff0ai1rojnc47w4284",
-      "title": "OpenAI 据报筹备 GPT-6 Cyber 及自动漏洞修复产品",
-      "title_en": "Fortune reports OpenAI is preparing GPT-6 Cyber and an unnamed product for automated vulnerability p…",
-      "url": "https://x.com/rohanpaul_ai/status/2103606952999940323",
-      "permalink": "https://aihot.news/items/cmuhilhff0ai1rojnc47w4284",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-25T22:05:55.000Z",
-      "discoveredAt": "2026-09-25T22:10:25.902Z",
-      "summary": "Fortune 报道 OpenAI 正在筹备 GPT-6 Cyber 以及一款尚未命名的自动化漏洞修复产品，后者用于围绕该模型提供受控的安全工作流自动化。据报 Daybreak Red 的少量客户已拿到该模型的 alpha 版本，配套产品名称未公布。OpenAI 此前已用模型做漏洞发现与修复，此次变化在于为前沿网络安全模型加上专门的产品层。",
-      "category": null,
-      "score": 41,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuhilhff0ai1rojnc47w4284"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "工作流",
-        "自动化"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmuj8chjo03sero9h9zfqnoxt",
-      "title": "Peter Yang 为 AI 课程打造私人 MCP",
-      "title_en": "Peter Yang 这个产品思路非常值得学习。 他最近推出了一套 AI 课程，给付费会员做一个私人 MCP。 用户不需要一节一节把课看完，可以直接在 ChatGPT、Claude Code 里调…",
-      "url": "https://x.com/frxiaobei/status/2104042212233241032",
-      "permalink": "https://aihot.news/items/cmuj8chjo03sero9h9zfqnoxt",
-      "source": "X：小北 (@frxiaobei)",
-      "publishedAt": "2026-09-27T02:55:29.000Z",
-      "discoveredAt": "2026-09-27T02:59:13.554Z",
-      "summary": "Peter Yang 推出 AI 课程会员，并为付费订阅者构建私人 MCP，让\"AI Peter\"在 ChatGPT、Claude Code 等工具中带用户学完整套课程。课程含 25 节更新课程和 40+ 可复制提示词，会员费 $150/年（10 月 7 日前），而非典型 AI 课程的 $1，000+。",
-      "category": null,
-      "score": 40,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuj8chjo03sero9h9zfqnoxt"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "提示词",
-        "claude code",
-        "mcp"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "cmuia3dtr0b2jrov0w9x40faf",
