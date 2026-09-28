@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-28T05:24:04.778Z",
-  "previousGeneratedAt": "2026-09-27T16:58:01.256Z",
+  "generatedAt": "2026-09-28T13:55:16.778Z",
+  "previousGeneratedAt": "2026-09-28T05:24:04.778Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 43,
+  "itemCount": 45,
   "sourceCounts": {
-    "网站": 17,
-    "X": 24,
-    "公众号": 2
+    "网站": 18,
+    "公众号": 3,
+    "X": 24
   },
   "source": {
     "name": "AI HOT",
@@ -44,87 +44,57 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmuhf2ay203i2rojng8aape7d",
-      "title": "Qwen-Image-2.1-viggle-turbo v0.2 发布",
-      "title_en": "Qwen-Image-2.1-viggle-turbo v0.2 is out on Hugging Face Text-to-image and image editing in 6 steps ...",
-      "url": "https://x.com/_akhaliq/status/2103578627359268987",
-      "permalink": "https://aihot.news/items/cmuhf2ay203i2rojng8aape7d",
-      "source": "X：AK (@_akhaliq)",
-      "publishedAt": "2026-09-25T20:13:22.000Z",
-      "discoveredAt": "2026-09-25T20:31:44.077Z",
-      "summary": "Qwen-Image-2.1-viggle-turbo v0.2 已在 Hugging Face 上线\n\n文生图和图像编辑仅需 6 步\n\n比 40 步的 Qwen-Image-2.1 快约 5 倍\n\n模型：https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo",
-      "category": null,
-      "score": 49,
+      "id": "hvwessorw4c7u28ek284u6w5r",
+      "title": "字节火山引擎发布 Seedance 影视合作计划，单项目激励最高百万",
+      "title_en": "字节火山引擎发布 Seedance 影视合作计划：提供 Token 补贴，单项目激励最高达百万",
+      "url": "https://www.ithome.com/1/007/867.htm",
+      "permalink": "https://aihot.news/items/hvwessorw4c7u28ek284u6w5r",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-28T08:16:34.000Z",
+      "discoveredAt": "2026-09-28T08:40:39.592Z",
+      "summary": "9月27日，字节跳动旗下火山引擎在平遥国际电影展期间发布 Seedance 影视合作计划。该计划面向全球专业影视项目提供 Token 补贴、宣发资源及技术支持，单个项目激励最高可达百万人民币。参与要求包括全片视频生成环节100%由 Seedance 实现，支持全 AI 生成或 AI+真人混合制作，且重点鼓励在制作方法与工作流程上实现创新突破的项目。",
+      "category": "industry",
+      "score": 55,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuhf2ay203i2rojng8aape7d"
+        "canonical": "https://aihot.news/items/hvwessorw4c7u28ek284u6w5r"
       },
-      "sourceType": "X",
+      "sourceType": "网站",
       "designCategory": "图像与视频",
-      "relevanceScore": 17,
-      "editorialScore": 20,
+      "relevanceScore": 11,
+      "editorialScore": 14,
       "tags": [
-        "文生图",
-        "生图",
-        "图像"
+        "视频生成",
+        "工作流",
+        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cmuhcdddy08qsro3b14l2kjaw",
-      "title": "Viggle Turbo v0.2 发布：6 步出图",
-      "title_en": "🚀 Viggle Turbo v0.2 is out! Text-to-image and image editing in 6 steps: about 5× faster than the 40...",
-      "url": "https://x.com/ViggleAI/status/2103560675255853318",
-      "permalink": "https://aihot.news/items/cmuhcdddy08qsro3b14l2kjaw",
-      "source": "X：Viggle AI (@ViggleAI)",
-      "publishedAt": "2026-09-25T19:02:01.000Z",
-      "discoveredAt": "2026-09-25T19:16:19.665Z",
-      "summary": "🚀 Viggle Turbo v0.2 发布！6 步完成文生图和图像编辑：比 40 步的 Qwen-Image-2.1 快约 5 倍。\n\n免费运行：https://huggingface.co/spaces/Viggle/Qwen-Image-2.1-viggle-turbo",
-      "category": null,
-      "score": 39,
+      "id": "pbh4gwl8uycy75op53xy7wxqc",
+      "title": "昆仑万维天工工作台上线AI MV创作与音乐生成能力",
+      "title_en": "从一首歌到一支MV，SkyProduction天工工作台把音乐也放进了无限画布",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg==&mid=2247510445&idx=1&sn=986335f6da07fef6af3111ddf76db4bb&chksm=e802de782531392ddf63eed55984898d7d404510424c49f6a7f699cbca6e869a490e48071af7&scene=126&sessionid=1790588864#rd",
+      "permalink": "https://aihot.news/items/pbh4gwl8uycy75op53xy7wxqc",
+      "source": "公众号：昆仑万维（天工）",
+      "publishedAt": "2026-09-28T08:02:09.000Z",
+      "discoveredAt": "2026-09-28T09:47:48.354Z",
+      "summary": "9月27日，昆仑万维旗下SkyProduction（天工工作台）上线三项新能力：开放AI MV创作功能；无限画布接入Mureka V8/V9/V9.5音乐生成模型；视频和图片支持智能配乐。用户可在同一画布完成从音乐分析、分镜规划到视频生成的全流程，并调用Seedance 2.5模型生成视频片段。",
+      "category": "ai-products",
+      "score": 45,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuhcdddy08qsro3b14l2kjaw"
+        "canonical": "https://aihot.news/items/pbh4gwl8uycy75op53xy7wxqc"
       },
-      "sourceType": "X",
+      "sourceType": "公众号",
       "designCategory": "图像与视频",
-      "relevanceScore": 17,
-      "editorialScore": 20,
+      "relevanceScore": 11,
+      "editorialScore": 14,
       "tags": [
-        "文生图",
-        "生图",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmuh9ecar02pyro3bmhgy01u4",
-      "title": "Claude Opus 5.5 接入 Runway MCP",
-      "title_en": "Claude Opus 5.5 meets Runway MCP. Connect Runway directly into Claude to generate polished images a...",
-      "url": "https://x.com/runwayml/status/2103540433225908447",
-      "permalink": "https://aihot.news/items/cmuh9ecar02pyro3bmhgy01u4",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-09-25T17:41:35.000Z",
-      "discoveredAt": "2026-09-25T17:53:00.938Z",
-      "summary": "Claude Opus 5.5 遇上 Runway MCP。\n\n将 Runway 直接接入 Claude，即可用 Gen-4.5、Seedance 2.5、GPT Image 2、Kling 等生成精美图像和视频，就在你的工作环境中完成。几秒即可通过下方链接接入。",
-      "category": null,
-      "score": 43,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuh9ecar02pyro3bmhgy01u4"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "runway",
-        "视频",
-        "图像",
-        "mcp"
+        "视频生成",
+        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -181,62 +151,6 @@
         "设计"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmuheawj903s2rozkti9ikzg8",
-      "title": "Pexo 将研究自动生成 30 秒视频",
-      "title_en": "Hours researching the rise of Microsoft. 5 min feeding that research into Pexo. 10–15 min later, a...",
-      "url": "https://x.com/omarsar0/status/2103575986772070862",
-      "permalink": "https://aihot.news/items/cmuheawj903s2rozkti9ikzg8",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "publishedAt": "2026-09-25T20:02:52.000Z",
-      "discoveredAt": "2026-09-25T20:10:23.008Z",
-      "summary": "花数小时研究微软的崛起。\n\n5 分钟把研究喂给 Pexo。\n\n10–15 分钟后，一条完成的 30 秒视频。\n\n真正让我惊讶的是拼贴效果。Pexo 拿过研究内容，围绕它构建了整套视觉处理——抠图、贴纸、辅助图像，全部都有。没有任何东西像是随机加进去的。一切都跟着故事走。而且这还是第一次尝试。\n\n如果你做历史或解说类内容，我觉得工作流刚刚变了。@Pexoai_offical",
-      "category": null,
-      "score": 28,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuheawj903s2rozkti9ikzg8"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视觉",
-        "工作流",
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmuh8zyeq08szro553uhe8sx2",
-      "title": "Sheila Vashee 加入 Baseten 出任 CMO",
-      "title_en": "Sheila Vashee joins Baseten as CMO",
-      "url": "https://www.baseten.co/blog/sheila-vashee-joins-baseten-as-cmo",
-      "permalink": "https://aihot.news/items/cmuh8zyeq08szro553uhe8sx2",
-      "source": "Baseten 工程博客（网页）",
-      "publishedAt": "2026-09-25T17:19:33.000Z",
-      "discoveredAt": "2026-09-25T17:41:54.133Z",
-      "summary": "Sheila Vashee 加入 Baseten 担任首席营销官（CMO），她此前在 Figma、Opendoor 和 Dropbox 领导营销与增长团队，拥有超过二十年产品规模化经验。Baseten 定位为面向开放模型生态的智能基础设施平台，客户包括 OpenEvidence、Harvey 和 Cursor。",
-      "category": null,
-      "score": 27,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuh8zyeq08szro553uhe8sx2"
-      },
-      "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 9,
-      "editorialScore": 14,
-      "tags": [
-        "figma",
-        "营销"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "t7f5ow86ajzhr6o6xbjld93ef",
@@ -322,59 +236,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "cmuh9ngcz02y7ro3bzmg01a5k",
-      "title": "又一Google DeepMind研究员离职，称近期追求超级智能\"本质上不负责任\"",
-      "title_en": "Another Google Deepmind researcher quits, says building superintelligent AI soon is \"inherently irresponsible\"",
-      "url": "https://the-decoder.com/another-google-deepmind-researcher-quits-says-building-superintelligent-ai-soon-is-inherently-irresponsible",
-      "permalink": "https://aihot.news/items/cmuh9ngcz02y7ro3bzmg01a5k",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-09-25T17:55:51.000Z",
-      "discoveredAt": "2026-09-25T18:00:00.872Z",
-      "summary": "Google DeepMind新西兰技术专家Robert O'Callahan因AI风险离职，称AI\"当前变化速度过快\"，认为\"在不久的将来以ASI为目标本质上不负责任\"。他曾参与让AI更便宜、更快的芯片设计工具开发，如今表示无法再为此辩护，并警告认知投降、AI引发的精神病与孤独、权力集中、经济冲击、网络安全风险及问责缺失等问题。",
-      "category": null,
-      "score": 50,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuh9ngcz02y7ro3bzmg01a5k"
-      },
-      "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 8,
-      "editorialScore": 13,
-      "tags": [
-        "设计工具",
-        "设计"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "cmuh8im5l08cyro55x3zhfjr2",
-      "title": "DeepSeek Harness 约六成用户使用第三方插件",
-      "title_en": "从 DeepSeek 官方 API 处统计的数据来看，约有 60% 的 DeepSeek Harness 用户使用了至少一个第三方插件。第三方插件是 DeepSeek Harness 用户体验中最具特...",
-      "url": "https://x.com/tianyi/status/2103534313463783831",
-      "permalink": "https://aihot.news/items/cmuh8im5l08cyro55x3zhfjr2",
-      "source": "X：Tianyi Cui（@tianyi）",
-      "publishedAt": "2026-09-25T17:17:16.000Z",
-      "discoveredAt": "2026-09-25T17:28:28.334Z",
-      "summary": "DeepSeek 官方 API 统计显示，约 60% 的 DeepSeek Harness 用户使用了至少一个第三方插件。DSH 团队表示将持续支持第三方插件生态，推动插件 API 趋于稳定，减少破坏性更新；作者本人将在接下来几天每天推荐一个优质 DSH 插件并征集自荐。DSH 会在用户使用官方 API 及模型时上报插件包名和版本，不额外消耗 tokens。",
-      "category": null,
-      "score": 34,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuh8im5l08cyro55x3zhfjr2"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "用户体验"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "cmujlmtcv0kroro9hywhvbwgg",
       "title": "Opus 5.5 生成 Midjourney 作品引马斯克惊叹",
       "title_en": "Wow",
@@ -426,6 +287,118 @@
         "用户体验"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "b48w12rmyfjoeyozfl4ydrdzd",
+      "title": "商汤发布AI视频创作Agent Seko，助力个人创作者打造百万播放短剧",
+      "title_en": "𝟳𝟰𝗠+ 𝘃𝗶𝗲𝘄𝘀. 𝗢𝗻𝗲 𝗰𝗿𝗲𝗮𝘁𝗼𝗿. 𝗭𝗲𝗿𝗼 𝗽𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗳𝗶𝗹𝗺𝗺𝗮𝗸𝗶𝗻𝗴 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲.",
+      "url": "https://x.com/SenseTime_AI/status/2104526535751287134",
+      "permalink": "https://aihot.news/items/b48w12rmyfjoeyozfl4ydrdzd",
+      "source": "X：商汤 SenseTime (@SenseTime_AI)",
+      "publishedAt": "2026-09-28T11:00:00.000Z",
+      "discoveredAt": "2026-09-28T11:07:18.074Z",
+      "summary": "商汤科技（SenseTime）宣传其AI视频创作Agent“Seko”。案例显示，22岁艺术生CHunye利用Seko独立制作了日式丧尸短剧《DUHAI》，从第3集起完全由该工具生成。Seko能将创意转化为结构化工作流，通过视觉记忆和推理保持角色、场景跨集一致性。该系列在抖音等平台累计观看量超7400万，展示了AI赋能“一人公司”（OPC）的潜力。",
+      "category": "ai-products",
+      "score": 36,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/b48w12rmyfjoeyozfl4ydrdzd"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "工作流",
+        "创意",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "f1tdkn9wkx8pfxfcu3wxn8s8m",
+      "title": "AI每日简报：OpenAI修复GPT-6视觉Bug，Anthropic疑似新模型标签曝光",
+      "title_en": "DAILY AI BRIEF 🗞 — Sept 28",
+      "url": "https://x.com/testingcatalog/status/2104493424472674634",
+      "permalink": "https://aihot.news/items/f1tdkn9wkx8pfxfcu3wxn8s8m",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "publishedAt": "2026-09-28T08:48:26.000Z",
+      "discoveredAt": "2026-09-28T09:02:34.547Z",
+      "summary": "该帖子为2026年9月28日的AI新闻聚合。主要内容包括：OpenAI修复了GPT-6 Sol和Luna的图像编码Bug；ChatGPT代码中发现“o”引用，传闻涉及Pro计划调整；Meta Muse增加VM屏幕浏览标签；Google Flow指向Nano Banana 2.1并测试印度Gemini购物功能；xAI Grok响应变快；Anthropic出现claude-sonnet-5-5标签但无官方确认。",
+      "category": "industry",
+      "score": 45,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/f1tdkn9wkx8pfxfcu3wxn8s8m"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "qljqxvzy0bb98x5hvfbksdg0m",
+      "title": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式",
+      "title_en": "Prompting Claude Opus 5.5",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+      "permalink": "https://aihot.news/items/qljqxvzy0bb98x5hvfbksdg0m",
+      "source": "Hacker News：AI 热帖",
+      "publishedAt": "2026-09-28T07:33:29.000Z",
+      "discoveredAt": "2026-09-28T09:18:38.228Z",
+      "summary": "Anthropic 官方文档介绍针对 Claude Opus 5.5 的提示词模式，覆盖 effort 校准、无人值守智能体运行、安全拒绝、进度更新、多应用工作流、视觉输入和前端设计等场景。",
+      "category": "tip",
+      "score": 86,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/qljqxvzy0bb98x5hvfbksdg0m"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 10,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "设计",
+        "工作流",
+        "提示词"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "prg6f1kih6agr1e57t7ikzckr",
+      "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
+      "title_en": "Meta 公布“Hologram”全新拟真虚拟形象，今年秋季陆续上线雷朋 Display 智能眼镜 / 全新轻薄型头显",
+      "url": "https://www.ithome.com/1/007/767.htm",
+      "permalink": "https://aihot.news/items/prg6f1kih6agr1e57t7ikzckr",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-28T04:31:04.000Z",
+      "discoveredAt": "2026-09-28T05:32:49.179Z",
+      "summary": "Meta 宣布将于今年秋季在雷朋 Display 智能眼镜、Quest 头显及新轻薄头显上推出“Hologram”功能。该功能利用生成式 AI（实时扩散模型）创建高度拟真的用户虚拟形象，替代传统摄像头画面用于 WhatsApp 视频通话。用户需通过手机 Meta AI 应用采集面部表情和语音数据完成建模。雷朋版基于音频驱动生成 2D 视频流，Quest 版支持 3D 等身立体呈现。目前存在细节粗糙、侧倾变形等技术局限。",
+      "category": "ai-products",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/prg6f1kih6agr1e57t7ikzckr"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视频",
+        "3d"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmuk24qhy1563ro9h885qomwg",
@@ -484,6 +457,35 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "q5uxhmt17ywcspz44neanmel7",
+      "title": "NVIDIA 发布开源运行时 OpenShell，为 AI Agent 提供权限管控与安全沙箱",
+      "title_en": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
+      "url": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell/",
+      "permalink": "https://aihot.news/items/q5uxhmt17ywcspz44neanmel7",
+      "source": "NVIDIA Technical Blog：Agentic AI / Generative AI",
+      "publishedAt": "2026-09-27T16:00:00.000Z",
+      "discoveredAt": "2026-09-28T09:21:37.154Z",
+      "summary": "NVIDIA 推出开源项目 NVIDIA OpenShell 0.1.0，这是一个用于定义和执行 AI Agent 访问权限的运行时。它通过沙箱执行、受控服务访问、凭证管理和形式化策略分析，在 Agent 工作负载外部强制实施权限控制。OpenShell 支持 Codex、Claude Code 等框架，允许团队在不重写 Agent 的情况下限制 API 操作、保护凭证并审查权限变更。Cadence、Slack 和 Gecko Robotics 等组织已在芯片设计、企业自动化和物理 AI 等领域采用该技术。",
+      "category": "ai-products",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/q5uxhmt17ywcspz44neanmel7"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 10,
+      "editorialScore": 11,
+      "tags": [
+        "设计",
+        "自动化",
+        "codex",
+        "claude code"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cmuhwirrx03p5rom9qiksa88r",
       "title": "递归自我改进路线图论文：完整 RSI 尚未到来",
       "title_en": "Beautiful roadmap paper on Recursive self-improvement. Concludes, we are already seeing pieces of R...",
@@ -510,6 +512,59 @@
         "自动化"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "d6h37fqxam38pt1veau6tq716",
+      "title": "英伟达发布开源AI代理安全平台，含OpenShell沙箱与Sentry硬件隔离方案",
+      "title_en": "Nvidia dropped an open safety platform built to catch and quarantine rogue agents in real time before they escape.",
+      "url": "https://x.com/rohanpaul_ai/status/2104521962974507490",
+      "permalink": "https://aihot.news/items/d6h37fqxam38pt1veau6tq716",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-28T10:41:50.000Z",
+      "discoveredAt": "2026-09-28T11:07:18.058Z",
+      "summary": "英伟达于2026年9月28日发布NVIDIA Open Agent Safety Platform，包含软件层OpenShell（Apache 2.0许可的运行时，支持代理沙箱与操作限制）和硬件层NVIDIA Sentry（基于BlueField-4 DPU的参考设计，可在毫秒级隔离越界代理）。该平台将监控置于代理无法访问的芯片上，通过Vera Rubin POD架构实现“模型前拦截”，确保代理在调用模型前即被审查与阻断。",
+      "category": "industry",
+      "score": 62,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/d6h37fqxam38pt1veau6tq716"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计",
+        "agent"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "ptvk1f98tf4zlj3ooautqgivn",
+      "title": "阿里千问App打通夸克网盘，支持查询整理及生成内容",
+      "title_en": "阿里千问深度打通夸克网盘，授权后可查询、整理和读取网盘资料",
+      "url": "https://www.ithome.com/1/007/871.htm",
+      "permalink": "https://aihot.news/items/ptvk1f98tf4zlj3ooautqgivn",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-28T08:33:25.000Z",
+      "discoveredAt": "2026-09-28T08:40:39.565Z",
+      "summary": "阿里千问App宣布与夸克网盘深度打通。用户授权后，可在对话中通过@夸克网盘调用技能，实现查询、整理和读取网盘资料。功能包括基于描述查找文件、利用照片素材进行创作（如生成海报）、将外部资料或生成内容上传至网盘形成共享知识库，以及根据讲义制定复习计划等。",
+      "category": "ai-products",
+      "score": 45,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/ptvk1f98tf4zlj3ooautqgivn"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "海报"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "cmuknsbnt1yerro9hacv38ryp",
@@ -727,138 +782,30 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cmuhdoikw0a45ro3bv2cbm797",
-      "title": "OpenAI 披露 Hugging Face 事件后续模型行为审查进展",
-      "title_en": "After the Hugging Face incident, we committed to conducting a much broader review of actions taken b...",
-      "url": "https://x.com/OpenAI/status/2103566736356458911",
-      "permalink": "https://aihot.news/items/cmuhdoikw0a45ro3bv2cbm797",
-      "source": "X：OpenAI (@OpenAI)",
-      "publishedAt": "2026-09-25T19:26:06.000Z",
-      "discoveredAt": "2026-09-25T19:53:00.528Z",
-      "summary": "OpenAI 在 Hugging Face 事件后对其模型在训练和评估期间的行为开展更大范围的审查，并表示将持续公开发现。目前审查发现绝大多数行为是完成普通研究任务，如访问公开网页内容回答问题，调查聚焦于智能体以超出任务范围的方式与第三方网站交互的案例；目前识别出的大多数案例严重程度较低，对第三方服务影响有限或无证据显示有实质影响。OpenAI 称因规模庞大，预计审查需数月完成。",
-      "category": "tip",
-      "score": 63,
+      "id": "kxgntckyxpllb0a8s84huvrcy",
+      "title": "PixVerse R2 获 runway 批准",
+      "title_en": "@woleswoosh R2 runway clearance looks approved ✈️",
+      "url": "https://x.com/PixVerse/status/2104551951035678911",
+      "permalink": "https://aihot.news/items/kxgntckyxpllb0a8s84huvrcy",
+      "source": "X：PixVerse (@PixVerse)",
+      "publishedAt": "2026-09-28T12:41:00.000Z",
+      "discoveredAt": "2026-09-28T13:10:32.348Z",
+      "summary": "@woleswoosh R2 runway 许可看起来已获批 ✈️",
+      "category": "ai-products",
+      "score": 24,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuhdoikw0a45ro3bv2cbm797"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "交互",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmuhcwqnl09f7ro3bp4hh9jws",
-      "title": "Topcoat v0.9 发布：Rust 全栈框架加入客户端响应式与服务端流式 UI",
-      "title_en": "Topcoat 正利用 Rust 语言突破服务器应用程序的界限",
-      "url": "https://tokio.rs/blog/2026-09-24-topcoat-server-applications",
-      "permalink": "https://aihot.news/items/cmuhcwqnl09f7ro3bp4hh9jws",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-09-25T18:59:57.576Z",
-      "discoveredAt": "2026-09-25T19:31:26.621Z",
-      "summary": "Topcoat 发布 v0.9，为这个 Rust 全栈框架加入客户端响应式能力：服务端可读取 signal 并只重新渲染追踪该值的页面片段，更新后的 HTML 元素通过 morph 避免焦点和输入状态丢失。该版本还提供 live! 和 emit! 宏，支持从服务端流式推送 UI 更新，例如 streaming SSR 与 suspense。",
-      "category": null,
-      "score": 44,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuhcwqnl09f7ro3bp4hh9jws"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "ui"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmuhaorga06vwro3bvxvgbw4h",
-      "title": "Claude iOS 版液态玻璃 UI 改版将上线",
-      "title_en": "A Liquid Glass UI revamp for Claude on iOS with bottom tab nav and other tweaks is almost ready. Sl...",
-      "url": "https://x.com/testingcatalog/status/2103547607406768572",
-      "permalink": "https://aihot.news/items/cmuhaorga06vwro3bvxvgbw4h",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-09-25T18:10:06.000Z",
-      "discoveredAt": "2026-09-25T18:29:13.863Z",
-      "summary": "Claude 在 iOS 上的 Liquid Glass UI 改版，带底部标签导航和其他调整，已接近完成。\n\n太丝滑了 👀",
-      "category": null,
-      "score": 20,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuhaorga06vwro3bvxvgbw4h"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "ui"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "cmuh9wzgv05xero3bkv5drza1",
-      "title": "Perceptron Mk1.5 上线 OpenRouter",
-      "title_en": "Perceptron Mk1.5 from @perceptroninc is live on OpenRouter. It is Perceptron’s embodied reasoning m...",
-      "url": "https://x.com/OpenRouter/status/2103545324598091781",
-      "permalink": "https://aihot.news/items/cmuh9wzgv05xero3bkv5drza1",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-09-25T18:01:02.000Z",
-      "discoveredAt": "2026-09-25T18:07:37.831Z",
-      "summary": "来自 @perceptroninc 的 Perceptron Mk1.5 已在 OpenRouter 上线。\n\n这是 Perceptron 面向物理智能体的具身推理模型。它接受文本、图像、视频和音频输入，可以用点、框、多边形和视频片段配合文本作答。",
-      "category": null,
-      "score": 45,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuh9wzgv05xero3bkv5drza1"
+        "canonical": "https://aihot.news/items/kxgntckyxpllb0a8s84huvrcy"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
+      "relevanceScore": 6,
+      "editorialScore": 9,
       "tags": [
-        "视频",
-        "图像",
-        "智能体"
+        "runway"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cmuha4bdk063qro3buzyc19hv",
-      "title": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流",
-      "title_en": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
-      "permalink": "https://aihot.news/items/cmuha4bdk063qro3buzyc19hv",
-      "source": "GitHub Blog",
-      "publishedAt": "2026-09-25T18:00:00.000Z",
-      "discoveredAt": "2026-09-25T18:13:18.914Z",
-      "summary": "GitHub 官方博客发布 GitHub Copilot app 新手教程，介绍用 /create-canvas 技能通过自然语言描述生成可自定义的 canvas 界面。",
-      "category": "tip",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuha4bdk063qro3buzyc19hv"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "界面",
-        "工作流"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "cmukkz1c11ve4ro9h5fb9vepv",
@@ -1052,6 +999,117 @@
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
+      "id": "cmukgoq0v1qszro9hxctkp5di",
+      "title": "Opus 5.5 一句话生成视频论文",
+      "title_en": "this is fun, another version of Paul Graham's “how to do great work” essay simple 1 line prompt to ...",
+      "url": "https://x.com/rohanpaul_ai/status/2104352205176500542",
+      "permalink": "https://aihot.news/items/cmukgoq0v1qszro9hxctkp5di",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-27T23:27:17.000Z",
+      "discoveredAt": "2026-09-27T23:40:24.327Z",
+      "summary": "有意思，这是 Paul Graham《如何做出伟大的工作》的另一个版本\n\n给 opus 5.5 一句简单提示词，配上\"extra\" effort 设置\n\n同一个提示词：\"Create a video essay from Paul Graham's essay How to do great work with punchy motion graphics, modern styling and high professionalism\"",
+      "category": null,
+      "score": 32,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmukgoq0v1qszro9hxctkp5di"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "视频",
+        "提示词",
+        "prompt"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmuk9bhtk1fw0ro9hz0iadafy",
+      "title": "Perplexity Computer 单提示生成 Matterport",
+      "title_en": "Matterport in a single prompt on Perplexity Computer (High Effort)",
+      "url": "https://x.com/AravSrinivas/status/2104300619104391302",
+      "permalink": "https://aihot.news/items/cmuk9bhtk1fw0ro9hz0iadafy",
+      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "publishedAt": "2026-09-27T20:02:18.000Z",
+      "discoveredAt": "2026-09-27T20:14:13.873Z",
+      "summary": "在 Perplexity Computer（High Effort）上，一个提示词就能生成 Matterport。",
+      "category": null,
+      "score": 34,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuk9bhtk1fw0ro9hz0iadafy"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "提示词",
+        "prompt"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmuk2r37415roro9hmllrtjcs",
+      "title": "Synthetic Sciences 开源 OpenScience 科研 Agent，基准成绩超过 Codex 和 Claude Code",
+      "title_en": "Synthetic Sciences just launched its open-source OpenScience agent now outscores Codex and Claude Co...",
+      "url": "https://x.com/rohanpaul_ai/status/2104251882378272793",
+      "permalink": "https://aihot.news/items/cmuk2r37415roro9hmllrtjcs",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-27T16:48:38.000Z",
+      "discoveredAt": "2026-09-27T17:10:23.054Z",
+      "summary": "Synthetic Sciences 发布开源科研 Agent OpenScience，正式结束 beta 并上线 Product Hunt，采用 Apache 2.0 许可、免费开放。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuk2r37415roro9hmllrtjcs"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "codex",
+        "claude code",
+        "agent"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmuj8chjo03sero9h9zfqnoxt",
+      "title": "Peter Yang 为 AI 课程打造私人 MCP",
+      "title_en": "Peter Yang 这个产品思路非常值得学习。 他最近推出了一套 AI 课程，给付费会员做一个私人 MCP。 用户不需要一节一节把课看完，可以直接在 ChatGPT、Claude Code 里调...",
+      "url": "https://x.com/frxiaobei/status/2104042212233241032",
+      "permalink": "https://aihot.news/items/cmuj8chjo03sero9h9zfqnoxt",
+      "source": "X：小北 (@frxiaobei)",
+      "publishedAt": "2026-09-27T02:55:29.000Z",
+      "discoveredAt": "2026-09-27T02:59:13.554Z",
+      "summary": "Peter Yang 推出 AI 课程会员，并为付费订阅者构建私人 MCP，让\"AI Peter\"在 ChatGPT、Claude Code 等工具中带用户学完整套课程。课程含 25 节更新课程和 40+ 可复制提示词，会员费 $150/年（10 月 7 日前），而非典型 AI 课程的 $1,000+。",
+      "category": null,
+      "score": 40,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuj8chjo03sero9h9zfqnoxt"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "提示词",
+        "claude code",
+        "mcp"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cmuia3dtr0b2jrov0w9x40faf",
       "title": "Nvidia SoL-Pi 系统优化 agent harness，编码任务 token 用量减少近一半",
       "title_en": "Nvidia's SoL-Pi system cuts coding agent token usage nearly in half by optimizing the harness",
@@ -1078,6 +1136,33 @@
         "agent"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cmuikap9n0p55rov0d1471wn5",
+      "title": "微软与高通悄然放弃“Copilot+ PC”品牌，转向通用AI PC叙事",
+      "title_en": "Copilot 电脑品牌已不复存在",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+      "permalink": "https://aihot.news/items/cmuikap9n0p55rov0d1471wn5",
+      "source": "Hacker News：AI 热帖",
+      "publishedAt": "2026-09-26T09:55:38.000Z",
+      "discoveredAt": "2026-09-26T15:46:00.255Z",
+      "summary": "Windows Central报道指出，微软与高通在2024年推出的“Copilot+ PC”品牌已逐渐被弃用。由于Recall功能的安全争议及市场反响不佳，该品牌声誉受损。2026年发布的Surface系列不再使用此名称，高通高管确认虽保留硬件规格标准（如45 TOPS NPU），但不再强调该营销术语。NVIDIA的新平台也未采用此品牌。目前厂商正转向更广泛的“边缘AI”和混合解决方案叙事。",
+      "category": "industry",
+      "score": 72,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuikap9n0p55rov0d1471wn5"
+      },
+      "sourceType": "网站",
+      "designCategory": "行业观察",
+      "relevanceScore": 8,
+      "editorialScore": 8,
+      "tags": [
+        "品牌",
+        "营销"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "cmuj0tqch0go2rohyet3qkyf1",
@@ -1162,33 +1247,6 @@
         "agent"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmuh6eht7060qro55ef5g9rze",
-      "title": "Meta Muse 下载量突破340万，登顶美国 App Store",
-      "title_en": "Meta is putting its muscle behind Muse as the AI app takes off",
-      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off",
-      "permalink": "https://aihot.news/items/cmuh6eht7060qro55ef5g9rze",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-09-25T16:16:52.000Z",
-      "discoveredAt": "2026-09-25T16:29:17.527Z",
-      "summary": "Meta 的 AI 应用 Muse 自9月8日上线后下载量已超340万（Sensor Tower 估算），自9月18日起登顶美国 App Store。Meta Connect 大会宣布视频对话、Mac 电脑操作、智能眼镜集成等功能，会后日活增长27%；Meta 于9月9日起在自家平台投放推广广告，但截至9月19日广告曝光仅占6%，增长仍以自然为主。",
-      "category": "industry",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuh6eht7060qro55ef5g9rze"
-      },
-      "sourceType": "网站",
-      "designCategory": "行业观察",
-      "relevanceScore": 6,
-      "editorialScore": 6,
-      "tags": [
-        "广告",
-        "视频"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     }
   ]
 }
