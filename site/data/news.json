@@ -1,19 +1,48 @@
 {
-  "generatedAt": "2026-09-29T05:44:06.878Z",
-  "previousGeneratedAt": "2026-09-28T13:55:16.778Z",
+  "generatedAt": "2026-09-29T12:53:11.596Z",
+  "previousGeneratedAt": "2026-09-29T05:44:06.878Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 50,
+  "itemCount": 42,
   "sourceCounts": {
-    "网站": 23,
-    "X": 23,
-    "公众号": 4
+    "网站": 18,
+    "X": 21,
+    "公众号": 3
   },
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com"
   },
   "items": [
+    {
+      "id": "scskm1be5qj20ngn0engr3btt",
+      "title": "Meta 推出小型企业版 Muse 智能体，可分析 FB / IG 数据并兼容 Canva、Figma 和 Slack 等工具",
+      "title_en": "Meta 推出小型企业版 Muse 智能体：可分析 FB / IG 数据，兼容 Canva、Figma 和 Slack 等工具",
+      "url": "https://www.ithome.com/1/008/410.htm",
+      "permalink": "https://aihot.news/items/scskm1be5qj20ngn0engr3btt",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-29T10:04:35.000Z",
+      "discoveredAt": "2026-09-29T10:19:09.363Z",
+      "summary": "Meta 于 9 月 29 日宣布推出小型企业版 Muse 智能体（Muse for Small Business），支持连接 Meta 平台专业账户。用户可借助该智能体访问 Facebook、Instagram 企业账户及广告账户并分析数据，智能体可根据企业数据提供具体任务计划。",
+      "category": "ai-products",
+      "score": 58,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/scskm1be5qj20ngn0engr3btt"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 16,
+      "editorialScore": 21,
+      "tags": [
+        "figma",
+        "canva",
+        "广告",
+        "智能体"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
     {
       "id": "x95lrvyzexzj2gc1rj236qbkv",
       "title": "快手可灵 AI Kling 4.0 将于 10 月上线，Kling 4.0 Flash 已开放抢先体验",
@@ -182,34 +211,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "oy0ijqo6anfyqfm4suo5tnvd3",
-      "title": "Just MLPs：为多模态语言模型高效重建视觉状态",
-      "title_en": "Just MLPs: Efficient Visual State Reconstruction for Multimodal Language Models",
-      "url": "https://arxiv.org/abs/2609.34972",
-      "permalink": "https://aihot.news/items/oy0ijqo6anfyqfm4suo5tnvd3",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "discoveredAt": "2026-09-29T03:11:35.954Z",
-      "summary": "研究提出 δ-Vision，用轻量低秩适配器构建逐层视觉记忆，替代视觉 token 在 Transformer 中的重复演化，同时保留全部视觉 token 供文本检索。该方法发现视觉到文本的信息流集中在低维子空间，且轻量 MLP 能以高余弦相似度和低重建误差逼近各层视觉状态。在图像和视频基准上，δ-Vision 在相当或更低计算量下准确率超过视觉 token 剪枝基线，且不丢弃视觉 token。",
-      "category": "paper",
-      "score": 42,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/oy0ijqo6anfyqfm4suo5tnvd3"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视觉",
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "wnfw15x4fw9d08ibe6lt2ime3",
       "title": "X.PIN 中国科技周报：DeepSeek 或采用华为芯片、Kimi K3 上架 Amazon Bedrock 等趋势解读",
       "title_en": "Weekly Dose of China Tech [9.28.2026]",
@@ -265,60 +266,33 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "t7f5ow86ajzhr6o6xbjld93ef",
-      "title": "GPT-Image 2.5 的12种照片编辑与创意玩法教程",
-      "title_en": "我整理了GPT-Image 2.5的12种玩法，希望能承包你的整个假期朋友圈。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647686740&idx=1&sn=ae96d1c72375f5ad62ddb05432b04584&chksm=f1bd9f85e967fd41ec107fa4817e47acde4524b0a82166498a694df54b55edaca2674d909de4&scene=126&sessionid=1790572866#rd",
-      "permalink": "https://aihot.news/items/t7f5ow86ajzhr6o6xbjld93ef",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-09-28T00:28:00.000Z",
-      "discoveredAt": "2026-09-28T05:21:06.345Z",
-      "summary": "文章介绍了利用 GPT-Image 2.5 模型进行照片精准编辑和创意生成的12种具体玩法，包括消除背景游客、自动调光、专业美颜、制作3D公仔拍立得、景点明信片、主体贴纸化、旅游碎片行李箱、人物海报、演唱会氛围感照片、美食飞溅效果、物体转文字涂鸦及Ins风注释等。每种玩法均提供了详细的提示词示例和操作步骤，旨在帮助用户在假期通过AI优化朋友圈照片。",
-      "category": "tip",
-      "score": 45,
+      "id": "i4xiiriihmw20jwei5osj7fg0",
+      "title": "Meta Muse 推出企业软件连接器，面向小企业自动化运营",
+      "title_en": "Meta Muse gains enterprise software connectors",
+      "url": "https://www.artificialintelligence-news.com/news/meta-muse-gains-enterprise-software-connectors/",
+      "permalink": "https://aihot.news/items/i4xiiriihmw20jwei5osj7fg0",
+      "source": "Artificial Intelligence News（网页）",
+      "publishedAt": "2026-09-28T16:00:00.000Z",
+      "discoveredAt": "2026-09-29T12:48:19.450Z",
+      "summary": "Meta 为其 Muse AI 智能体添加商业软件连接器，推出 Muse for Small Business，把业务功能带入聊天线程。系统可直接连接 Facebook Pages、Instagram 专业指标、Meta 广告账户，以及外部会计账簿、店面、客户记录和 Canva 等第三方软件；支持审计年度收据、广告表现、过滤消息优先级和生成营销排期。",
+      "category": "ai-products",
+      "score": 58,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/t7f5ow86ajzhr6o6xbjld93ef"
-      },
-      "sourceType": "公众号",
-      "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
-      "tags": [
-        "海报",
-        "创意",
-        "3d",
-        "提示词"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "emj6dezqcmccg0pvtypqg65ks",
-      "title": "WorldPlay2：扩展实时交互世界模型的控制能力与预测时长",
-      "title_en": "WorldPlay2: Extending Real-Time Interactive World Models in Control and Horizon",
-      "url": "https://arxiv.org/abs/2609.35560",
-      "permalink": "https://aihot.news/items/emj6dezqcmccg0pvtypqg65ks",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "discoveredAt": "2026-09-29T05:35:34.997Z",
-      "summary": "WorldPlay2 是一个交互式世界模型，通过分解式混合控制接口与压缩记忆、稳定蒸馏的协同设计，兼顾长时一致性与实时响应。该接口将帧对齐动作控制与结构化语义控制结合，显式解耦场景外观、角色身份和动态语义事件；同时将历史上下文压缩为记忆 token，供自回归学生模型与双向教师模型共享，实现按片段进行记忆条件打分，大幅降低蒸馏开销。",
-      "category": "paper",
-      "score": 41,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/emj6dezqcmccg0pvtypqg65ks"
+        "canonical": "https://aihot.news/items/i4xiiriihmw20jwei5osj7fg0"
       },
       "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
+      "designCategory": "设计工具",
+      "relevanceScore": 8,
       "editorialScore": 13,
       "tags": [
-        "设计",
-        "交互"
+        "canva",
+        "广告",
+        "自动化",
+        "营销"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "c2vru9e324lq6qo41qx94egt0",
@@ -487,34 +461,6 @@
         "3d"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "qedozdq8ujbuaicundiisboty",
-      "title": "ControlScope：LLM 智能体的工作流修订与可靠性",
-      "title_en": "ControlScope: Workflow Revision and Reliability in LLM Agents",
-      "url": "https://arxiv.org/abs/2609.34313",
-      "permalink": "https://aihot.news/items/qedozdq8ujbuaicundiisboty",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "discoveredAt": "2026-09-29T03:11:35.988Z",
-      "summary": "ControlScope 对比了 LLM 智能体在同一公开执行状态下继续生成代码、编辑下一次工具调用的数据参数、以及替换未完成工作流三种修订方式，并区分可用修复与智能体实际选择的动作。",
-      "category": "paper",
-      "score": 32,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/qedozdq8ujbuaicundiisboty"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 10,
-      "editorialScore": 11,
-      "tags": [
-        "工作流",
-        "workflow",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "bpy7w99r0wwdhqwgwi6t54jd0",
@@ -784,34 +730,6 @@
         "agent"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "ws8ce7jjs6vap0pkdc5353tux",
-      "title": "EditWorld：面向可交互世界的精准编辑与灵活引用视频世界模型",
-      "title_en": "Precise Editing and Flexible Referencing for Interactable Worlds",
-      "url": "https://arxiv.org/abs/2609.34470",
-      "permalink": "https://aihot.news/items/ws8ce7jjs6vap0pkdc5353tux",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "discoveredAt": "2026-09-29T04:47:38.164Z",
-      "summary": "EditWorld 是一个支持精准编辑与灵活引用的视频世界模型，可在自回归生成过程中流式接收编辑指令和参考图像，将世界建模从探索扩展到精准修改。它引入 Gated Causal Attention 处理时变编辑条件与参考图像，并用 Sparse Context 机制维持有界历史上下文以支持长时程推理。",
-      "category": "paper",
-      "score": 42,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ws8ce7jjs6vap0pkdc5353tux"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "交互",
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "ui28f1zjzmli1kimmpo7kr6py",
@@ -1110,144 +1028,6 @@
       "tags": [
         "创意",
         "视频",
-        "提示词",
-        "prompt"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "xsnh08mb2f784zmsi62t7gbel",
-      "title": "KVCMAS：多智能体系统共享上下文的 KV cache 高效修正框架",
-      "title_en": "KVCMAS: Efficient KV cache Correction for Shared Context in Multi-Agent Systems",
-      "url": "https://arxiv.org/abs/2609.34060",
-      "permalink": "https://aihot.news/items/xsnh08mb2f784zmsi62t7gbel",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "discoveredAt": "2026-09-29T04:47:38.147Z",
-      "summary": "KVCMAS 是一个面向多智能体系统的在线 KV cache 修正框架，用紧凑低秩状态表示跨智能体的缓存偏差，并沿智能体工作流链式修正，无需额外参考预填充。",
-      "category": "paper",
-      "score": 39,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/xsnh08mb2f784zmsi62t7gbel"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "工作流",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "fdxv7xdod1fsy99fvzekceja5",
-      "title": "xAI 发布 Team Bots：可与团队共同学习工作的 Grok 智能体",
-      "title_en": "Product·Sep 28, 2026 Team Bots: AI coworkers that learn from your team",
-      "url": "https://x.ai/news/team-bots",
-      "permalink": "https://aihot.news/items/fdxv7xdod1fsy99fvzekceja5",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "discoveredAt": "2026-09-28T21:32:24.354Z",
-      "summary": "xAI 推出 Team Bots，让团队共享的 Grok Bots 围绕角色或工作流构建，整合 Context、Plugins、Credentials 和 Memories 四类能力，并可在 Slack 中协作，个人对话仍保持私密。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/fdxv7xdod1fsy99fvzekceja5"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "工作流",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmukif03f1slsro9hp6sl7npp",
-      "title": "IT早报 0928：爱奇艺辟谣“看广告不眨眼”；问界新 M8 全系标配 L3 级架构；国内首部 AI 院线影片定档",
-      "title_en": "IT早报 0928：爱奇艺辟谣“要求用户看广告不眨眼”；问界新 M8 全系标配 L3 级架构；曝今年各品牌手机暂不支持无网通信；国内首部 AI 院线影片定档...",
-      "url": "https://www.ithome.com/1/007/633.htm",
-      "permalink": "https://aihot.news/items/cmukif03f1slsro9hp6sl7npp",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-27T23:57:01.000Z",
-      "discoveredAt": "2026-09-28T00:28:54.554Z",
-      "summary": "爱奇艺否认网传“请勿眨眼”广告，称相关截图系恶搞造谣。鸿蒙智行问界宣布新 M8 全系标配面向 L3 级自动驾驶的架构设计，搭载华为乾崑智驾 ADS 5，将于 9 月 30 日开启预售。国内首部获公映许可证的 AI 原生动画电影《三星堆：未来往事》定档 10 月 23 日，片长 100 分钟。",
-      "category": null,
-      "score": 31,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmukif03f1slsro9hp6sl7npp"
-      },
-      "sourceType": "网站",
-      "designCategory": "行业观察",
-      "relevanceScore": 8,
-      "editorialScore": 8,
-      "tags": [
-        "设计",
-        "广告",
-        "品牌"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "cmukgoq0v1qszro9hxctkp5di",
-      "title": "Opus 5.5 一句话生成视频论文",
-      "title_en": "this is fun, another version of Paul Graham's “how to do great work” essay simple 1 line prompt to ...",
-      "url": "https://x.com/rohanpaul_ai/status/2104352205176500542",
-      "permalink": "https://aihot.news/items/cmukgoq0v1qszro9hxctkp5di",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-27T23:27:17.000Z",
-      "discoveredAt": "2026-09-27T23:40:24.327Z",
-      "summary": "有意思，这是 Paul Graham《如何做出伟大的工作》的另一个版本\n\n给 opus 5.5 一句简单提示词，配上\"extra\" effort 设置\n\n同一个提示词：\"Create a video essay from Paul Graham's essay How to do great work with punchy motion graphics, modern styling and high professionalism\"",
-      "category": null,
-      "score": 32,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmukgoq0v1qszro9hxctkp5di"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "视频",
-        "提示词",
-        "prompt"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cmuk9bhtk1fw0ro9hz0iadafy",
-      "title": "Perplexity Computer 单提示生成 Matterport",
-      "title_en": "Matterport in a single prompt on Perplexity Computer (High Effort)",
-      "url": "https://x.com/AravSrinivas/status/2104300619104391302",
-      "permalink": "https://aihot.news/items/cmuk9bhtk1fw0ro9hz0iadafy",
-      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "publishedAt": "2026-09-27T20:02:18.000Z",
-      "discoveredAt": "2026-09-27T20:14:13.873Z",
-      "summary": "在 Perplexity Computer（High Effort）上，一个提示词就能生成 Matterport。",
-      "category": null,
-      "score": 34,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuk9bhtk1fw0ro9hz0iadafy"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
         "提示词",
         "prompt"
       ],
