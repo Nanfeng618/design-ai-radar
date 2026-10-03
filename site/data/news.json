@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-03T05:19:14.228Z",
-  "previousGeneratedAt": "2026-10-02T12:35:05.717Z",
+  "generatedAt": "2026-10-03T11:39:49.295Z",
+  "previousGeneratedAt": "2026-10-03T05:19:14.228Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 51,
+  "itemCount": 52,
   "sourceCounts": {
-    "网站": 25,
+    "网站": 26,
     "X": 24,
     "公众号": 2
   },
@@ -102,35 +102,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "hx4maztnblhiuhwmwt9chg8dg",
-      "title": "fal 上线 FLUX 3 文生图与图像编辑试用入口",
-      "title_en": "@bfl_ai Try it here today!",
-      "url": "https://x.com/fal/status/2105745494454440369",
-      "permalink": "https://aihot.news/items/hx4maztnblhiuhwmwt9chg8dg",
-      "source": "X：fal (@fal)",
-      "publishedAt": "2026-10-01T19:43:43.000Z",
-      "discoveredAt": "2026-10-01T19:55:25.857Z",
-      "summary": "fal 宣布 Black Forest Labs 的 FLUX 3 可在其平台试用，提供文生图与图像编辑两个入口。链接为 https://fal.ai/models/blackforestlabs/flux-3/text-to-image 和 https://fal.ai/models/blackforestlabs/flux-3/edit-image。",
-      "category": "ai-products",
-      "score": 62,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/hx4maztnblhiuhwmwt9chg8dg"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 23,
-      "editorialScore": 26,
-      "tags": [
-        "文生图",
-        "生图",
-        "flux",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "fdxetl5se89pl6hzptlpiei7b",
       "title": "Ideogram 4.5 首次进入 Artificial Analysis 图像编辑榜单，编辑榜第 23、文生图榜第 34",
       "title_en": "Ideogram 4.5 debuts at #23 on the AA-Image-Editing v2.0 leaderboard, Ideogram's first model on the board, and lands at #34 on AA-Image-T2...",
@@ -212,34 +183,6 @@
         "flux",
         "图像",
         "提示词"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "h6kdjb1zjt6qzs92s9pllmn1r",
-      "title": "FLUX 3 Image 上线 fal 平台",
-      "title_en": "FLUX 3 Image from @bfl_ai is now live on fal.",
-      "url": "https://x.com/fal/status/2105745492474802514",
-      "permalink": "https://aihot.news/items/h6kdjb1zjt6qzs92s9pllmn1r",
-      "source": "X：fal (@fal)",
-      "publishedAt": "2026-10-01T19:43:42.000Z",
-      "discoveredAt": "2026-10-01T19:55:25.863Z",
-      "summary": "fal 宣布 FLUX 3 Image 已上线平台，主打精准图像编辑且保留未改动部分。该模型支持原生 2K 和 4K 图像生成、最多组合 10 张参考图、一次完成多个定点编辑，并可对布局和构图做细致控制。",
-      "category": "ai-products",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/h6kdjb1zjt6qzs92s9pllmn1r"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 17,
-      "editorialScore": 20,
-      "tags": [
-        "图像生成",
-        "flux",
-        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -795,30 +738,31 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "bavrw66axa8j0tj4821y6y507",
-      "title": "Google 发射 TPU 轨道计算卫星并发布论文，估算 Starship 需十年内发射 1800 次才能支撑太空数据中心",
-      "title_en": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-      "permalink": "https://aihot.news/items/bavrw66axa8j0tj4821y6y507",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-10-01T19:18:03.000Z",
-      "discoveredAt": "2026-10-01T19:35:43.350Z",
-      "summary": "Google 从加州用 SpaceX 火箭发射了 Project Suncatcher 的轨道计算卫星原型，首次将 TPU 送入太空，由 Planet Labs 建造，将分 15 分钟间歇点燃 TPU 验证供电、散热和模型运行；Google 还发布了将发表于 Joule 的同行评审版轨道数据中心白皮书。",
-      "category": "industry",
-      "score": 62,
+      "id": "qmnpsbc0zp31fn6d1zrjo3hpy",
+      "title": "Anthropic 为 Claude Code 推出 Mods 系统，可用 JS/TS 函数改写工具内部行为",
+      "title_en": "Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside",
+      "url": "https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside/",
+      "permalink": "https://aihot.news/items/qmnpsbc0zp31fn6d1zrjo3hpy",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-10-03T07:12:09.000Z",
+      "discoveredAt": "2026-10-03T07:53:13.664Z",
+      "summary": "Anthropic 为 Claude Code 发布基于插件的 Mods 系统，开发者可用 JavaScript 或 TypeScript 函数挂钩工具调用、用户提示和 UI 渲染等事件，添加自定义面板、拦截工具调用或新增命令。",
+      "category": "ai-products",
+      "score": 71,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/bavrw66axa8j0tj4821y6y507"
+        "canonical": "https://aihot.news/items/qmnpsbc0zp31fn6d1zrjo3hpy"
       },
       "sourceType": "网站",
-      "designCategory": "设计工具",
+      "designCategory": "产品与体验",
       "relevanceScore": 7,
-      "editorialScore": 12,
+      "editorialScore": 11,
       "tags": [
-        "原型"
+        "ui",
+        "claude code"
       ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "nrvdl5cc6mherh4htwo2hnl2r",
@@ -953,31 +897,32 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "h5ez683ig9a055310f393fzev",
-      "title": "Claude Code 推出 Mods 功能，支持自定义行为与 UI",
-      "title_en": "all software is becoming malleable, so it was important for us to support this as a first class citizen in Claude Code, I hope more and m...",
-      "url": "https://x.com/trq212/status/2105734197801562264",
-      "permalink": "https://aihot.news/items/h5ez683ig9a055310f393fzev",
-      "source": "X：Thariq (@trq212)",
-      "publishedAt": "2026-10-01T18:58:50.000Z",
-      "discoveredAt": "2026-10-01T19:14:44.746Z",
-      "summary": "Claude Code 推出 Mods 功能，用户可以修改其行为、自定义 UI 并替换自己的功能。Mod 可用几行 TypeScript 编写或让 Claude 代为构建，随插件分发，可在 CLI 或桌面应用中通过 /plugin 安装；作者称这是为了让软件可扩展成为一等公民。",
-      "category": "ai-products",
-      "score": 66,
+      "id": "fjxvgq4f2pnypa9f5or45o1i3",
+      "title": "LEGO-Anything研究：编码智能体可将单张照片转成可执行Blender 3D场景程序但几何自评接近随机",
+      "title_en": "AI agents build 3D scenes from photos but have no idea if they got it right",
+      "url": "https://the-decoder.com/ai-agents-build-3d-scenes-from-photos-but-have-no-idea-if-they-got-it-right/",
+      "permalink": "https://aihot.news/items/fjxvgq4f2pnypa9f5or45o1i3",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-10-03T08:31:04.000Z",
+      "discoveredAt": "2026-10-03T08:54:11.845Z",
+      "summary": "LEGO-Anything让编码智能体从单张图像迭代编写可执行的Blender场景程序，并推出LEGO-Bench基准（208张图像、104个场景、443个注册资产），用仿真渲染提供精确3D真值。",
+      "category": "paper",
+      "score": 54,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/h5ez683ig9a055310f393fzev"
+        "canonical": "https://aihot.news/items/fjxvgq4f2pnypa9f5or45o1i3"
       },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
       "relevanceScore": 7,
-      "editorialScore": 11,
+      "editorialScore": 10,
       "tags": [
-        "ui",
-        "claude code"
+        "图像",
+        "3d",
+        "智能体"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "t7nnizx15lz5nlgcot4l3sa6i",
@@ -1074,6 +1019,89 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/kloevf1ummpfn603l171olila"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "j63bv55ekjuzm99ybf2hx8kem",
+      "title": "xAI 发布实验性 TypeScript SDK，统一支持文本、语音、图像与视频",
+      "title_en": "Use the new TypeScript SDK for image, video, voice, and text AI",
+      "url": "https://x.com/milichab/status/2106091153598947787",
+      "permalink": "https://aihot.news/items/j63bv55ekjuzm99ybf2hx8kem",
+      "source": "X：Andrew Milich (@milichab)",
+      "publishedAt": "2026-10-02T18:37:14.000Z",
+      "discoveredAt": "2026-10-02T19:06:21.652Z",
+      "summary": "xAI 发布实验性 TypeScript SDK，可通过 npm install @xai-official/sdk 安装，在一个 SDK 内调用最新 Grok 模型获取文本、语音、图像和视频。SDK 还提供运行在其服务器上的工具，包括实时 X 搜索、网页搜索、代码执行和远程 MCP。",
+      "category": "ai-products",
+      "score": 55,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/j63bv55ekjuzm99ybf2hx8kem"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "图像",
+        "mcp"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "tm0edboqbfqfrbk1oz6hr6zu0",
+      "title": "xAI 发布实验性 TypeScript SDK",
+      "title_en": "we're releasing an experimental @SpaceXAI typescript sdk!",
+      "url": "https://x.com/ericzakariasson/status/2106090512210088361",
+      "permalink": "https://aihot.news/items/tm0edboqbfqfrbk1oz6hr6zu0",
+      "source": "X：Eric Zakariasson (@ericzakariasson)",
+      "publishedAt": "2026-10-02T18:34:42.000Z",
+      "discoveredAt": "2026-10-02T18:35:23.820Z",
+      "summary": "我们正在发布一个实验性的 @SpaceXAI typescript sdk！\n\nnpm install @xai-official/sdk\n\n在一个 sdk 中获取文本、语音、图像和视频，搭载最新的 grok 模型\n\n以及在我们服务器上运行的工具，如实时 X 搜索、网页搜索、代码执行和远程 mcp",
+      "category": "ai-products",
+      "score": 38,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/tm0edboqbfqfrbk1oz6hr6zu0"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "图像",
+        "mcp"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "tyx8rktvuw6r68zx5ddxiufde",
+      "title": "Kled V3：72小时众包采集AI训练数据",
+      "title_en": "You can't scrape a dataset that doesn't exist yet.",
+      "url": "https://x.com/omarsar0/status/2106060301917429889",
+      "permalink": "https://aihot.news/items/tyx8rktvuw6r68zx5ddxiufde",
+      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+      "publishedAt": "2026-10-02T16:34:39.000Z",
+      "discoveredAt": "2026-10-02T17:02:28.338Z",
+      "summary": "Kled V3 推出数据采集平台，实验室可指定所需数据，平台能在 72 小时内向 50 万+ 自愿贡献者网络部署采集任务。平台提供覆盖图像、视频、音频、文本和标注的 108 个可配置模板，贡献者用手机按指令和示例完成采集。其核心价值在于缩短反馈闭环：定位模型失败点、转化为采集任务、获取真实世界新样本、再训练评估。",
+      "category": "tip",
+      "score": 35,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/tyx8rktvuw6r68zx5ddxiufde"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
