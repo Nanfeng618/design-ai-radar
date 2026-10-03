@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-03T11:39:49.295Z",
-  "previousGeneratedAt": "2026-10-03T05:19:14.228Z",
+  "generatedAt": "2026-10-03T16:18:32.880Z",
+  "previousGeneratedAt": "2026-10-03T11:39:49.295Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 52,
+  "itemCount": 53,
   "sourceCounts": {
-    "网站": 26,
+    "网站": 27,
     "X": 24,
     "公众号": 2
   },
@@ -274,6 +274,34 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "lpgrhoqvv9fx932rcorjpu0tu",
+      "title": "Mat Duggan 设想让 Tmux 式任务管理成为操作系统界面",
+      "title_en": "让 Tmux 成为操作系统",
+      "url": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
+      "permalink": "https://aihot.news/items/lpgrhoqvv9fx932rcorjpu0tu",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-10-03T14:13:44.681Z",
+      "discoveredAt": "2026-10-03T14:22:39.860Z",
+      "summary": "作者受 Scott Jenson 演讲启发，提出把 tmux 的可滚动、会话持久、任务导向体验带给普通人的桌面 UI 构想。他引用 Rooms(1986)、WindowScape、Grudin 等研究指出窗口管理问题二十多年未解，给出无限画布、视口、隐私标志和本地 LLM 辅助组织任务的方案，并承认隐私遥测、无限画布堆积等设计缺陷，仍在尝试做 Linux demo。",
+      "category": "tip",
+      "score": 51,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/lpgrhoqvv9fx932rcorjpu0tu"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 14,
+      "editorialScore": 18,
+      "tags": [
+        "ui",
+        "设计",
+        "界面"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "xb9cmjq82do5bjnyom0p5gfsm",
       "title": "MiniMax 等谈 AI 视频与广告未来",
       "title_en": "@advertisingweek @krea_ai @fal @magnific 🎙️ The New Creative Stack: AI Video, Brand Control &amp; the Future of Advertising",
@@ -409,6 +437,35 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "zpyd1vco2vjv2u0jj7oi07490",
+      "title": "PixVerse 插件：用 AI 智能体生成角色设计表",
+      "title_en": "Describe your character to your AI agent and use the PixVerse plugin to build out the design sheet",
+      "url": "https://x.com/PixVerse/status/2106398920658354355",
+      "permalink": "https://aihot.news/items/zpyd1vco2vjv2u0jj7oi07490",
+      "source": "X：PixVerse (@PixVerse)",
+      "publishedAt": "2026-10-03T15:00:12.000Z",
+      "discoveredAt": "2026-10-03T15:28:30.883Z",
+      "summary": "向你的 AI 智能体描述你的角色，并使用 PixVerse 插件来构建设计表",
+      "category": "tip",
+      "score": 34,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/zpyd1vco2vjv2u0jj7oi07490"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "design",
+        "设计",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "gl2eqk6git34to9s2gakdnpj4",
@@ -711,33 +768,6 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "qxrwj6nixylumw0ms154pcwls",
-      "title": "Higgsfield 上线 Black Forest Labs 的 FLUX 3 Image",
-      "title_en": "Meet Higgsfield × FLUX 3 Image.",
-      "url": "https://x.com/higgsfield/status/2105757917651906978",
-      "permalink": "https://aihot.news/items/qxrwj6nixylumw0ms154pcwls",
-      "source": "X：Higgsfield AI (@higgsfield)",
-      "publishedAt": "2026-10-01T20:33:05.000Z",
-      "discoveredAt": "2026-10-01T20:57:25.216Z",
-      "summary": "Higgsfield 宣布 FLUX 3 Image 已在其平台上线，该模型来自 Black Forest Labs。支持只改一处细节不动其余部分、用 bounding box 放置物体、最多组合 10 个参考图，以及生成最高 4K 分辨率图像。",
-      "category": "ai-products",
-      "score": 59,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/qxrwj6nixylumw0ms154pcwls"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
-      "tags": [
-        "flux",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "qmnpsbc0zp31fn6d1zrjo3hpy",
       "title": "Anthropic 为 Claude Code 推出 Mods 系统，可用 JS/TS 函数改写工具内部行为",
       "title_en": "Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside",
@@ -868,33 +898,6 @@
         "原型"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "qinershnzvb49pwaf3d65jvql",
-      "title": "Claude Code 推出 Mods 功能，用户可修改构建并自定义 UI",
-      "title_en": "ANTHROPIC 🔥: Users can now modify Claude Code builds via Mods!",
-      "url": "https://x.com/testingcatalog/status/2105752819441525182",
-      "permalink": "https://aihot.news/items/qinershnzvb49pwaf3d65jvql",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-10-01T20:12:49.000Z",
-      "discoveredAt": "2026-10-01T20:18:07.481Z",
-      "summary": "Anthropic 为 Claude Code 推出 Mods 功能，用户可以修改构建。Mods 本质上是 hook，随插件分发，每个是一个小型 JavaScript 或 TypeScript 模块，在会话内运行并能看到每个事件，可重写或替换 Claude Code 的行为，甚至绘制自定义 UI，还可通过 Claude Directory 与他人分享。",
-      "category": "ai-products",
-      "score": 64,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/qinershnzvb49pwaf3d65jvql"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 7,
-      "editorialScore": 11,
-      "tags": [
-        "ui",
-        "claude code"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "fjxvgq4f2pnypa9f5or45o1i3",
@@ -1112,6 +1115,32 @@
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "smhofb43i7mvhzvo68un4so9v",
+      "title": "SemiAnalysis 评 Google GPU 集群体验达金牌级",
+      "title_en": "Overall, the Google GPU Cluster experience is Gold tier! Great work from the Google team, going from Bronze to Gold in less than 2 years!...",
+      "url": "https://x.com/SemiAnalysis_/status/2106038582234185737",
+      "permalink": "https://aihot.news/items/smhofb43i7mvhzvo68un4so9v",
+      "source": "X：SemiAnalysis (@SemiAnalysis_)",
+      "publishedAt": "2026-10-02T15:08:20.000Z",
+      "discoveredAt": "2026-10-02T15:19:15.578Z",
+      "summary": "SemiAnalysis 将 Google GPU 集群体验评为金牌级，称 Google 团队不到两年从铜牌升至金牌。但 GCP 的 GPU 体验仍不如其白金级供应商 CoreWeave 和 Nebius，控制台相比新兴 neocloud 的简洁 UI 显得笨重，访问需依赖偶尔不配合的 Google Cloud CLI，有时被迫改用同样不可靠的浏览器连接。",
+      "category": "tip",
+      "score": 29,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/smhofb43i7mvhzvo68un4so9v"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "ui"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "m6f446vhaic80lgu93oaxzd3g",
