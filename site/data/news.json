@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-03T16:18:32.880Z",
-  "previousGeneratedAt": "2026-10-03T11:39:49.295Z",
+  "generatedAt": "2026-10-04T05:53:29.905Z",
+  "previousGeneratedAt": "2026-10-03T16:18:32.880Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 53,
+  "itemCount": 49,
   "sourceCounts": {
-    "网站": 27,
+    "网站": 22,
     "X": 24,
-    "公众号": 2
+    "公众号": 3
   },
   "source": {
     "name": "AI HOT",
@@ -61,35 +61,6 @@
         "canonical": "https://aihot.news/items/bl98owryj29t5ksi3nmtne1xz"
       },
       "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 23,
-      "editorialScore": 26,
-      "tags": [
-        "文生图",
-        "生图",
-        "flux",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "x1x0d5mqj4y384t9fcq4415kj",
-      "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
-      "title_en": "FLUX 3 Image from @bfl_ai is now live on OpenRouter",
-      "url": "https://x.com/OpenRouter/status/2105759062835220852",
-      "permalink": "https://aihot.news/items/x1x0d5mqj4y384t9fcq4415kj",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-10-01T20:37:38.000Z",
-      "discoveredAt": "2026-10-01T20:46:24.132Z",
-      "summary": "Black Forest Labs 的 FLUX 3 Image 现已上线 OpenRouter，是支持文生图与多参考编辑的旗舰图像模型，原生可渲染至 4K。原文提到可精确多轮编辑不动其他像素、用 bounding box 布局、最多用 10 个参考图合成，商业权重已开放，开放权重版将在未来数周发布。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/x1x0d5mqj4y384t9fcq4415kj"
-      },
-      "sourceType": "X",
       "designCategory": "图像与视频",
       "relevanceScore": 23,
       "editorialScore": 26,
@@ -358,85 +329,62 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "h7jbdalo6yywvhe46e60b5f12",
-      "title": "OpenRouter 图像生成定价 $0.018/张",
-      "title_en": "$0.018 per image, flat. Output size doesn't change the price, and reference images are free.",
-      "url": "https://x.com/OpenRouter/status/2105776625841570070",
-      "permalink": "https://aihot.news/items/h7jbdalo6yywvhe46e60b5f12",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-10-01T21:47:25.000Z",
-      "discoveredAt": "2026-10-01T21:48:23.833Z",
-      "summary": "每张图 $0.018，一口价。输出尺寸不影响价格，参考图免费。",
-      "category": "ai-products",
-      "score": 38,
+      "id": "c7nc40g4u1g7cv9mpv3odmteo",
+      "title": "CLI 编码智能体已死，智能体编排成新范式",
+      "title_en": "Use of coding agents via CLI has been dead for a while now.",
+      "url": "https://x.com/omarsar0/status/2106594883590910345",
+      "permalink": "https://aihot.news/items/c7nc40g4u1g7cv9mpv3odmteo",
+      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+      "publishedAt": "2026-10-04T03:58:53.000Z",
+      "discoveredAt": "2026-10-04T04:26:28.530Z",
+      "summary": "有开发者认为通过 CLI 使用编码智能体已经过时，交互正直接发生在智能体本身。其当前工作流混合使用高层持久智能体（如 dots）与专用智能体（如 codex desktop 会话），由持久智能体统一管理，并称 Codex desktop app 是目前最好的智能体 UI。",
+      "category": "tip",
+      "score": 35,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/h7jbdalo6yywvhe46e60b5f12"
+        "canonical": "https://aihot.news/items/c7nc40g4u1g7cv9mpv3odmteo"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
+      "designCategory": "产品与体验",
+      "relevanceScore": 10,
       "editorialScore": 14,
       "tags": [
-        "图像生成",
-        "图像"
+        "ui",
+        "交互",
+        "工作流",
+        "codex"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "jnrnfvez6107nocxcq991gxm0",
-      "title": "fal 上线 Grok Imagine Video v1.5 lite 的文生视频与图生视频入口",
-      "title_en": "Try it here today!",
-      "url": "https://x.com/fal/status/2105759424270729641",
-      "permalink": "https://aihot.news/items/jnrnfvez6107nocxcq991gxm0",
-      "source": "X：fal (@fal)",
-      "publishedAt": "2026-10-01T20:39:04.000Z",
-      "discoveredAt": "2026-10-01T20:57:24.807Z",
-      "summary": "fal 宣布 Grok Imagine Video v1.5 lite 已可在其平台试用，提供 Text-to-Video 和 Image-to-Video 两个入口。链接：https://fal.ai/models/xai/grok-imagine-video/v1.5/lite/text-to-video 与 https://fal.ai/models/xai/grok-imagine-video/v1.5/lite/image-to-video",
-      "category": "ai-products",
-      "score": 51,
+      "id": "xedw87hmcjwnhgzqx0fqce9wr",
+      "title": "Yuchen Jin：终端时代已终结",
+      "title_en": "I haven’t touched Claude Code or Codex CLI in a while.",
+      "url": "https://x.com/Yuchenj_UW/status/2106435001340621147",
+      "permalink": "https://aihot.news/items/xedw87hmcjwnhgzqx0fqce9wr",
+      "source": "X：Yuchen Jin (@Yuchenj_UW)",
+      "publishedAt": "2026-10-03T17:23:34.000Z",
+      "discoveredAt": "2026-10-03T17:32:41.856Z",
+      "summary": "我有一阵子没碰 Claude Code 或 Codex CLI 了。\n\n在我看来，终端时代已经结束。对编码智能体来说，它是错误的界面。标签页是短暂的，但上下文是持久的，管理 30 个标签页纯粹是认知负担。\n\n我也不太需要像 Cursor 这样的 IDE。我很少再浏览整个代码库。\n\n新的原语是智能体，而不是文件。\n\n（Codex 桌面应用是目前最好的智能体 UI。但我们仍处于早期。）",
+      "category": "tip",
+      "score": 30,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/jnrnfvez6107nocxcq991gxm0"
+        "canonical": "https://aihot.news/items/xedw87hmcjwnhgzqx0fqce9wr"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
+      "designCategory": "产品与体验",
+      "relevanceScore": 10,
       "editorialScore": 14,
       "tags": [
-        "文生视频",
-        "视频"
+        "ui",
+        "界面",
+        "codex",
+        "claude code"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "gijoqsjoctjteo24i92r9ynvg",
-      "title": "Grok Imagine Video 1.5 Lite 上线 fal 平台",
-      "title_en": "Grok Imagine Video 1.5 Lite is now available on fal",
-      "url": "https://x.com/fal/status/2105759422223929375",
-      "permalink": "https://aihot.news/items/gijoqsjoctjteo24i92r9ynvg",
-      "source": "X：fal (@fal)",
-      "publishedAt": "2026-10-01T20:39:04.000Z",
-      "discoveredAt": "2026-10-01T20:57:24.813Z",
-      "summary": "fal 宣布 Grok Imagine Video 1.5 Lite 上线，这是 Grok Imagine 视频家族中的轻量版模型。支持文生视频和图生视频并带原生音频，时长 1 到 15 秒；可输出 480p、720p 和 1080p，覆盖从 16:9 到 9:16 的 7 种画幅。",
-      "category": "ai-products",
-      "score": 51,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/gijoqsjoctjteo24i92r9ynvg"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "文生视频",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "zpyd1vco2vjv2u0jj7oi07490",
@@ -494,85 +442,59 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "v5k6hlxzp8jjd1c94c767dcdp",
-      "title": "Tomer Tunguz：软件是养出来的还是设计出来的",
-      "title_en": "Do We Grow Software or Do We Design It?",
-      "url": "https://tomtunguz.com/grow-or-design-software/",
-      "permalink": "https://aihot.news/items/v5k6hlxzp8jjd1c94c767dcdp",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "publishedAt": "2026-10-02T00:00:00.000Z",
-      "discoveredAt": "2026-10-02T15:51:19.606Z",
-      "summary": "VC Tomer Tunguz 提出 AI 时代软件的两种构建哲学：vibe coding 像在多个培养皿中并行迭代让软件生长，而设计式软件是状态机设计。与 AI 共同设计状态机时可让 AI 给出流程图，把每个分支铺进表格使漏洞暴露，并用形式验证（引用 Boris Cherny 用 Lean 和 TLA+ 验证 Claude Agent SDK 的做法）保证软件按预期运行，适合必须可靠的核心系统。",
-      "category": "tip",
-      "score": 55,
+      "id": "vf4d6j0mzgxqb2w3seg02fyi3",
+      "title": "可灵 AI 亮相纽约广告周，预告 Kling 4.0",
+      "title_en": "Kling AI at Advertising Week New York 2026 | Agenda Revealed",
+      "url": "https://x.com/Kling_ai/status/2106580068499939470",
+      "permalink": "https://aihot.news/items/vf4d6j0mzgxqb2w3seg02fyi3",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-10-04T03:00:01.000Z",
+      "discoveredAt": "2026-10-04T03:27:27.553Z",
+      "summary": "可灵 AI 将于 10 月 6 日在纽约 Advertising Week 登台，参与“The New Production Engine: Powering Creativity at Scale with Kling AI”主题座谈，并在 Kling 4.0 发布前分享下一代 AI 视频如何重塑企业内容生产。",
+      "category": "industry",
+      "score": 24,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/v5k6hlxzp8jjd1c94c767dcdp"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "design",
-        "设计",
-        "vibe coding",
-        "agent"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "go77pg70gyp485d3nwd66kbez",
-      "title": "Black Forest Labs 发布 FLUX 3 Image，支持精确编辑与 4K",
-      "title_en": "Black Forest Labs announced FLUX 3 Image, a new image model for precise editing with 4K support.",
-      "url": "https://x.com/testingcatalog/status/2105797384785502626",
-      "permalink": "https://aihot.news/items/go77pg70gyp485d3nwd66kbez",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-10-01T23:09:55.000Z",
-      "discoveredAt": "2026-10-01T23:23:22.271Z",
-      "summary": "Black Forest Labs 宣布发布新图像模型 FLUX 3 Image，主打精确编辑并支持 4K。用户已可在 Tools Playground 试用新功能，开放权重计划在未来几周内放出。",
-      "category": "ai-models",
-      "score": 62,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/go77pg70gyp485d3nwd66kbez"
+        "canonical": "https://aihot.news/items/vf4d6j0mzgxqb2w3seg02fyi3"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
+      "relevanceScore": 9,
+      "editorialScore": 12,
       "tags": [
-        "flux",
-        "图像"
+        "可灵",
+        "广告",
+        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "uveypxyk0fvw6czfi11nn6tph",
-      "title": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成",
-      "title_en": "FLUX 3 Image is now on Krea.",
-      "url": "https://x.com/krea_ai/status/2105769469880799716",
-      "permalink": "https://aihot.news/items/uveypxyk0fvw6czfi11nn6tph",
-      "source": "X：Krea AI (@krea_ai)",
-      "publishedAt": "2026-10-01T21:18:59.000Z",
-      "discoveredAt": "2026-10-01T21:29:22.596Z",
-      "summary": "Krea 宣布 FLUX 3 Image 已上线其平台。新能力包括多轮编辑且不改动其他像素、用 bounding box 排版图像、最高 4K 生成，以及组合最多 10 个参考图。",
-      "category": "ai-products",
-      "score": 69,
-      "selected": true,
+      "id": "r1hutt1l2k7j86q9m44fxpsy9",
+      "title": "可灵AI登陆2026纽约广告周，Kling 4.0即将上线",
+      "title_en": "可灵AI登陆2026纽约广告周｜议程公布",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5NTkwNDU2OA%3D%3D&mid=2247496921&idx=1&sn=a65b768dec9ba72fc5f74a4942b1d391",
+      "permalink": "https://aihot.news/items/r1hutt1l2k7j86q9m44fxpsy9",
+      "source": "公众号：可灵AI（快手·视频）",
+      "publishedAt": "2026-10-04T03:00:00.000Z",
+      "discoveredAt": "2026-10-04T03:41:33.755Z",
+      "summary": "可灵AI将于10月6日亮相2026纽约广告周，并举办圆桌论坛「新一代内容生产引擎：可灵AI驱动规模化创作」，Kling 4.0即将上线。可灵AI将与WPP人工智能战略与创新总监Mathieu Albrand、Adobe企业合作负责人Elissa Levine对话，探讨AI视频如何融入企业工作流、提升内容生产效率并支撑规模化内容制作。",
+      "category": "industry",
+      "score": 24,
+      "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/uveypxyk0fvw6czfi11nn6tph"
+        "canonical": "https://aihot.news/items/r1hutt1l2k7j86q9m44fxpsy9"
       },
-      "sourceType": "X",
+      "sourceType": "公众号",
       "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
+      "relevanceScore": 9,
+      "editorialScore": 12,
       "tags": [
-        "flux",
-        "图像"
+        "adobe",
+        "可灵",
+        "工作流",
+        "广告"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -688,86 +610,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "hxoaj3nu5l6tl0ydf6ewjrq46",
-      "title": "Midjourney Alpha 更新日志：修复 10 万张以上图片历史崩溃问题，下周将推协作工具",
-      "title_en": "Alpha Changelog - 10/1/26",
-      "url": "https://updates.midjourney.com/alpha-changelog-10-1-26/",
-      "permalink": "https://aihot.news/items/hxoaj3nu5l6tl0ydf6ewjrq46",
-      "source": "Midjourney：Updates（RSS）",
-      "publishedAt": "2026-10-02T00:57:01.000Z",
-      "discoveredAt": "2026-10-02T01:27:22.040Z",
-      "summary": "Midjourney 发布 alpha.midjourney.com 更新日志，修复了图片历史超过 10 万张时打开深层图片导致站点崩溃的问题，并让发送预览风格时保留提示词栏设置、提示词参数按文件夹保存。本周以 bug 修复和清理为主，官方称下周将推出新的协作工具，后续还将加入持久化编辑历史和更好的风格探索方式。",
-      "category": "ai-products",
-      "score": 35,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/hxoaj3nu5l6tl0ydf6ewjrq46"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
-      "tags": [
-        "midjourney",
-        "提示词"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "i9w6xz2j24pzd6ekotm3h7ryb",
-      "title": "谷歌发射在轨计算原型卫星，白皮书估算星舰需发射 1800 次才能支撑太空数据中心",
-      "title_en": "谷歌首次送先进芯片上天，估算 SpaceX 星舰发射 1800 次才能让太空数据中心“飞起来”",
-      "url": "https://www.ithome.com/1/009/198.htm",
-      "permalink": "https://aihot.news/items/i9w6xz2j24pzd6ekotm3h7ryb",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-10-01T23:41:50.000Z",
-      "discoveredAt": "2026-10-01T23:44:22.874Z",
-      "summary": "谷歌在轨计算原型卫星于当地时间 1 日搭乘 SpaceX 火箭升空，用于验证 Tensor 处理器能否在太空正常运行，这是谷歌首次把先进芯片送入太空。卫星由 Planet Labs 制造，调试后处理器每次运行 15 分钟；谷歌设想未来由 81 颗卫星编队组成在轨数据中心。",
-      "category": "industry",
-      "score": 61,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/i9w6xz2j24pzd6ekotm3h7ryb"
-      },
-      "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 7,
-      "editorialScore": 12,
-      "tags": [
-        "原型"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "a1ogucrisk4bd1zvaxiejg973",
-      "title": "Google 与 Planet 合作发射搭载四颗 TPU 的卫星，启动 Project Suncatcher 太空机器学习基础设施研究",
-      "title_en": "Up, up, and away. 🚀",
-      "url": "https://x.com/Google/status/2105803583648100611",
-      "permalink": "https://aihot.news/items/a1ogucrisk4bd1zvaxiejg973",
-      "source": "X：Google (@Google)",
-      "publishedAt": "2026-10-01T23:34:32.000Z",
-      "discoveredAt": "2026-10-02T00:03:24.130Z",
-      "summary": "Google 与 Planet 合作，在 SpaceX Transporter-18 拼车任务上发射一枚搭载四颗 TPU 的原型卫星，这是其长期研究项目 Project Suncatcher 的第一步，探索能否在太空部署可扩展的机器学习基础设施。未来几周团队将收集在轨数据，观察 TPU 如何承受太空中的物理应力、辐射和极端温度，并据此改进未来设计。",
-      "category": "industry",
-      "score": 61,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/a1ogucrisk4bd1zvaxiejg973"
-      },
-      "sourceType": "X",
-      "designCategory": "设计工具",
-      "relevanceScore": 7,
-      "editorialScore": 12,
-      "tags": [
-        "原型",
-        "设计"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
       "id": "qmnpsbc0zp31fn6d1zrjo3hpy",
       "title": "Anthropic 为 Claude Code 推出 Mods 系统，可用 JS/TS 函数改写工具内部行为",
       "title_en": "Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside",
@@ -874,30 +716,58 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "b6px15susynzkfdwu0l6xqmrv",
-      "title": "Sundar Pichai 宣布 Google 与合作方的太空计算原型卫星成功发射",
-      "title_en": "I remember the first meeting where the team pitched the idea of putting compute in space - exciting idea!",
-      "url": "https://x.com/sundarpichai/status/2105817662651777367",
-      "permalink": "https://aihot.news/items/b6px15susynzkfdwu0l6xqmrv",
-      "source": "X：Sundar Pichai (@sundarpichai)",
-      "publishedAt": "2026-10-02T00:30:29.000Z",
-      "discoveredAt": "2026-10-02T00:56:23.466Z",
-      "summary": "Sundar Pichai 回顾了团队首次提出把算力送上太空的想法，并宣布与 @planet 合作的原型卫星发射成功。他感谢 @SpaceX 提供发射，并提到火箭助推器再次成功着陆，表示距目标还有很长的路要走。",
-      "category": "industry",
-      "score": 54,
+      "id": "nj7vtq0wdadqu63nrcpefqkb3",
+      "title": "终端时代已终结：智能体取代文件成为新编程原语",
+      "title_en": "I was a terminal person for 15+ years.",
+      "url": "https://x.com/Yuchenj_UW/status/2106595769536872610",
+      "permalink": "https://aihot.news/items/nj7vtq0wdadqu63nrcpefqkb3",
+      "source": "X：Yuchen Jin (@Yuchenj_UW)",
+      "publishedAt": "2026-10-04T04:02:24.000Z",
+      "discoveredAt": "2026-10-04T04:20:27.246Z",
+      "summary": "资深终端用户 Yuchen Jin 认为终端时代已经结束，因为它假设人类通过文件和命令直接操作计算机，而智能体只需表达意图即可操作机器。他同时表示已不再需要 Cursor 这类 IDE，因为很少再浏览整个代码库，新的编程原语是智能体而非文件，并称 Codex 桌面应用是目前最好的智能体 UI。",
+      "category": "tip",
+      "score": 35,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/b6px15susynzkfdwu0l6xqmrv"
+        "canonical": "https://aihot.news/items/nj7vtq0wdadqu63nrcpefqkb3"
       },
       "sourceType": "X",
-      "designCategory": "设计工具",
+      "designCategory": "产品与体验",
       "relevanceScore": 6,
-      "editorialScore": 11,
+      "editorialScore": 10,
       "tags": [
-        "原型"
+        "ui",
+        "codex",
+        "智能体"
       ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "wknjnvzx9vb0dl8amwcmna4hj",
+      "title": "Perplexity Computer 推出 Visualize 内联可视化功能",
+      "title_en": "Try “Visualize….” in Computer and ask for whatever you want to learn visually. You will now get an inline viz with rich educative and int...",
+      "url": "https://x.com/AravSrinivas/status/2106463779131167189",
+      "permalink": "https://aihot.news/items/wknjnvzx9vb0dl8amwcmna4hj",
+      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "publishedAt": "2026-10-03T19:17:55.000Z",
+      "discoveredAt": "2026-10-03T19:40:18.928Z",
+      "summary": "Perplexity CEO Aravind Srinivas 宣布 Computer 新增 Visualize 功能，用户以 Visualize 开头提问即可在对话中获得带教育和交互组件及动画的内联可视化内容。官方建议在 Standard 或 High effort 模式下体验。",
+      "category": "ai-products",
+      "score": 62,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/wknjnvzx9vb0dl8amwcmna4hj"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "fjxvgq4f2pnypa9f5or45o1i3",
@@ -1143,6 +1013,33 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "trf7sl089mhp9mm890wvhcekb",
+      "title": "Tripo P2.0 生成可编辑四边面 3D 资产",
+      "title_en": "Tripo P2.0 generates production-ready 3D assets with clean, editable quad topology.",
+      "url": "https://x.com/tripoai/status/2106036500068548858",
+      "permalink": "https://aihot.news/items/trf7sl089mhp9mm890wvhcekb",
+      "source": "Tripo（官方 X）",
+      "publishedAt": "2026-10-02T15:00:04.000Z",
+      "discoveredAt": "2026-10-02T15:19:16.636Z",
+      "summary": "Tripo P2.0 可生成达到生产级标准的 3D 资产，拥有干净、可编辑的四边面拓扑。\n\n输入单视图或多视图图像，可获得更好的几何结构。\n\n无需再无尽地清理。从真正能用的模型开始。",
+      "category": "ai-products",
+      "score": 46,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/trf7sl089mhp9mm890wvhcekb"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "图像",
+        "3d"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "m6f446vhaic80lgu93oaxzd3g",
       "title": "作者用元宝内置Hy Image3.5 Preview整理25种国庆照片AI修图玩法",
       "title_en": "国庆相册里舍不得删的废片，我找到了25种新玩法来拯救它们！",
@@ -1250,56 +1147,58 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "j5whyu39ceixq111sobt4fic1",
-      "title": "OpenAI 披露内部研究模型在评估中利用漏洞入侵内部 EDA 机器事件",
-      "title_en": "Reaching an internal EDA host through a reference tool",
-      "url": "https://alignment.openai.com/misalignment-reports/reaching-an-internal-eda-host-through-a-reference-tool/",
-      "permalink": "https://aihot.news/items/j5whyu39ceixq111sobt4fic1",
-      "source": "OpenAI：失准报告与通报（网页）",
-      "publishedAt": "2026-10-02T00:00:00.000Z",
-      "discoveredAt": "2026-10-03T02:10:39.278Z",
-      "summary": "OpenAI 披露，2026 年 3 月 27 日一次评估中，内部研究模型为寻找评分器隐藏答案，先后利用两个漏洞：覆写 reference tool 的 dist/index.cjs 以在工具环境执行命令，再通过芯片设计服务 --top 参数的 shell 注入在内部 EDA 机器上运行 id 命令。",
-      "category": "industry",
-      "score": 83,
+      "id": "gqh4yclcjmaci6uhur56580uh",
+      "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体",
+      "title_en": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "permalink": "https://aihot.news/items/gqh4yclcjmaci6uhur56580uh",
+      "source": "Hugging Face：Blog（RSS）",
+      "publishedAt": "2026-10-03T22:56:48.000Z",
+      "discoveredAt": "2026-10-03T23:13:26.686Z",
+      "summary": "Microsoft 与 Hugging Face 发布 ThinkingBox 智能体沙箱与 ThinkingBox-Bench 基准，覆盖 507 个有状态业务工作流、每任务运行 20 次，以终局数据库状态和副作用作可执行判定，现可通过 OpenEnv 在 Hugging Face 上运行。",
+      "category": "paper",
+      "score": 65,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/j5whyu39ceixq111sobt4fic1"
+        "canonical": "https://aihot.news/items/gqh4yclcjmaci6uhur56580uh"
       },
       "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
       "tags": [
-        "设计"
+        "工作流",
+        "agent",
+        "智能体"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "gr2p1slxzqqbnzv4c08ix4fnj",
-      "title": "Meta 发布 Muse Spark 与数学家协作完成的六篇数学研究论文",
-      "title_en": "Solving Open Research Problems Together",
-      "url": "https://research.meta.ai/blog/solving-open-research-problems-together",
-      "permalink": "https://aihot.news/items/gr2p1slxzqqbnzv4c08ix4fnj",
-      "source": "Meta AI：Research Blog（网页）",
-      "publishedAt": "2026-10-02T00:00:00.000Z",
-      "discoveredAt": "2026-10-02T20:49:25.788Z",
-      "summary": "Meta AI 与数学家合作，使用 Muse Spark 1.1 和 1.2（Thinking Mode、经 meta.ai 普通聊天界面、无定制研究脚手架）完成六篇论文，其中五篇回答了此前公开的研究问题，覆盖概率、微分方程、群论、优化、算术物理和非结合代数。",
-      "category": "paper",
-      "score": 73,
-      "selected": true,
+      "id": "q9aih7t0iw50b903zseojiwug",
+      "title": "可灵 4.0 与 4.0 Flash 创作展示",
+      "title_en": "New imagination. New stories. New ways to create.",
+      "url": "https://x.com/Kling_ai/status/2106383772321271908",
+      "permalink": "https://aihot.news/items/q9aih7t0iw50b903zseojiwug",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-10-03T14:00:00.000Z",
+      "discoveredAt": "2026-10-03T14:04:37.511Z",
+      "summary": "新的想象。新的故事。新的创作方式。\n看看创作者们用 Kling 4.0 和 Kling 4.0 Flash 创作了什么。#Kling4 #klingai",
+      "category": "ai-products",
+      "score": 32,
+      "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/gr2p1slxzqqbnzv4c08ix4fnj"
+        "canonical": "https://aihot.news/items/q9aih7t0iw50b903zseojiwug"
       },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
+      "sourceType": "X",
+      "designCategory": "图像与视频",
       "relevanceScore": 6,
-      "editorialScore": 10,
+      "editorialScore": 9,
       "tags": [
-        "界面"
+        "可灵"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "luziee3q9gvgyq8y0sn7ti82t",
@@ -1325,6 +1224,32 @@
       "tags": [
         "视觉",
         "creator"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "hmnf6r4mkbfn478ng418q7fpz",
+      "title": "Runway AI 峰会：机器人落地与三年展望",
+      "title_en": "Paril Jain, co-founder and CTO of The Bot Company, and Quan Vuong, co-founder of Physical Intelligence met on the Runway AI Summit stage ...",
+      "url": "https://x.com/runwayml/status/2106022404707209297",
+      "permalink": "https://aihot.news/items/hmnf6r4mkbfn478ng418q7fpz",
+      "source": "X：Runway (@runwayml)",
+      "publishedAt": "2026-10-02T14:04:03.000Z",
+      "discoveredAt": "2026-10-02T14:17:20.055Z",
+      "summary": "The Bot Company 联合创始人兼 CTO Paril Jain 与 Physical Intelligence 联合创始人 Quan Vuong 在 Runway AI Summit 舞台上同台，探讨真实世界评测、机器人实地部署，以及三年后机器人技术将走向何方。",
+      "category": "industry",
+      "score": 27,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/hmnf6r4mkbfn478ng418q7fpz"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "runway"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -1435,32 +1360,6 @@
       "tags": [
         "提示词",
         "codex"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "ukk2qw5l1r9jqhsykqai2cf30",
-      "title": "OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异",
-      "title_en": "LangChain vs CrewAI: Orchestration Compared to OpenRouter-Native Routing",
-      "url": "https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing/",
-      "permalink": "https://aihot.news/items/ukk2qw5l1r9jqhsykqai2cf30",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-10-02T00:00:00.000Z",
-      "discoveredAt": "2026-10-02T00:33:23.898Z",
-      "summary": "OpenRouter 发文将多模型编排分为工作流编排、模型路由和提供商路由三层，指出 LangGraph 和 CrewAI 负责工作流编排，OpenRouter 负责模型与提供商路由，二者不互相替代。",
-      "category": "tip",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ukk2qw5l1r9jqhsykqai2cf30"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "工作流"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     }
