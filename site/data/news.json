@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-04T12:21:49.664Z",
-  "previousGeneratedAt": "2026-10-04T05:53:29.905Z",
+  "generatedAt": "2026-10-05T05:40:27.771Z",
+  "previousGeneratedAt": "2026-10-04T12:21:49.664Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 46,
+  "itemCount": 43,
   "sourceCounts": {
-    "网站": 20,
+    "网站": 18,
     "X": 24,
-    "公众号": 2
+    "公众号": 1
   },
   "source": {
     "name": "AI HOT",
@@ -15,62 +15,33 @@
   },
   "items": [
     {
-      "id": "ntqvvfvpu7tkez5w2cp9awded",
-      "title": "Black Forest Labs 发布生图模型 FLUX 3 Image：支持 4K 生成与元素精准排布",
-      "title_en": "生图模型 FLUX 3 Image 发布：支持 4K 生成，可精准排布 AI 元素",
-      "url": "https://www.ithome.com/1/009/315.htm",
-      "permalink": "https://aihot.news/items/ntqvvfvpu7tkez5w2cp9awded",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-10-02T08:05:21.000Z",
-      "discoveredAt": "2026-10-02T08:14:36.308Z",
-      "summary": "德国 AI 公司 Black Forest Labs 于 10 月 2 日发布图像生成模型 FLUX 3 Image，支持生成最高 4K 分辨率图片。用户可在 0–1000 坐标网格上通过 ID、描述文本和边界框精准排布画面元素，单次生成最多融入 10 张参考图像，并支持像素级精确多轮编辑。该模型目前以付费服务提供，开放模型版本将于数周内公开。",
-      "category": "ai-models",
-      "score": 67,
+      "id": "p1fj5d1yah293gjb8wge6aywg",
+      "title": "Meta 在 Muse 项目中做对了什么：一位产品设计师的复盘分析",
+      "title_en": "Meta在Muse项目中做对了什么",
+      "url": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
+      "permalink": "https://aihot.news/items/p1fj5d1yah293gjb8wge6aywg",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-10-04T17:06:05.771Z",
+      "discoveredAt": "2026-10-04T17:18:20.902Z",
+      "summary": "产品设计师 Mete 撰文分析 Meta 的 Muse 为何登顶美国 App Store，认为其核心组件在 Codex、Claude Code 等产品中已存在一年以上，Meta 的胜出在于把单一主聊天界面作为心智模型、抽象掉模型选择器等复杂选项。",
+      "category": "tip",
+      "score": 57,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ntqvvfvpu7tkez5w2cp9awded"
+        "canonical": "https://aihot.news/items/p1fj5d1yah293gjb8wge6aywg"
       },
       "sourceType": "网站",
-      "designCategory": "图像与视频",
+      "designCategory": "产品与体验",
       "relevanceScore": 23,
-      "editorialScore": 26,
+      "editorialScore": 27,
       "tags": [
-        "图像生成",
-        "生图",
-        "flux",
-        "图像"
+        "产品设计",
+        "设计师",
+        "设计",
+        "界面"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "bl98owryj29t5ksi3nmtne1xz",
-      "title": "Black Forest Labs 发布 Flux 3 Image，支持多步局部编辑",
-      "title_en": "Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone",
-      "url": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/",
-      "permalink": "https://aihot.news/items/bl98owryj29t5ksi3nmtne1xz",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-10-02T07:44:44.000Z",
-      "discoveredAt": "2026-10-02T08:01:32.511Z",
-      "summary": "Black Forest Labs 发布 Flux 3 模型家族的图像模型 Flux 3 Image，宣称支持多步编辑且不改动图像其他部分，覆盖文生图、图生图、文字渲染和照片级真实感。",
-      "category": "ai-models",
-      "score": 67,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/bl98owryj29t5ksi3nmtne1xz"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 23,
-      "editorialScore": 26,
-      "tags": [
-        "文生图",
-        "生图",
-        "flux",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "fdxetl5se89pl6hzptlpiei7b",
@@ -215,31 +186,33 @@
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
-      "id": "n7chgegp20mfrs7yj1cotqxab",
-      "title": "OpenAI 升级 ChatGPT 购物功能，新增虚拟试穿与 Favorites 收藏",
-      "title_en": "OpenAI 升级 ChatGPT 购物体验，新增 AI 衣服虚拟试穿体验",
-      "url": "https://www.ithome.com/1/009/304.htm",
-      "permalink": "https://aihot.news/items/n7chgegp20mfrs7yj1cotqxab",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-10-02T07:28:56.000Z",
-      "discoveredAt": "2026-10-02T07:42:34.436Z",
-      "summary": "OpenAI 为 ChatGPT 购物功能新增虚拟试穿（Try on）和 Favorites（收藏）两项功能。用户可上传或拍摄照片，由 ChatGPT 生成穿着特定服饰或配饰后的效果图，该体验大致依托 ChatGPT Images 2.5 图像生成模型；收藏功能可将商品保存至 ChatGPT Library 并用文件夹分类。",
-      "category": "ai-products",
-      "score": 60,
+      "id": "kej85fqatugzts37jenbakx8z",
+      "title": "Elvis Saravia 分享通用智能体协作界面的个人实践",
+      "title_en": "50K likes on this!?",
+      "url": "https://x.com/omarsar0/status/2106801689495826520",
+      "permalink": "https://aihot.news/items/kej85fqatugzts37jenbakx8z",
+      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+      "publishedAt": "2026-10-04T17:40:39.000Z",
+      "discoveredAt": "2026-10-04T17:42:35.449Z",
+      "summary": "Elvis Saravia 回应 Karpathy 关于理解 LLM 输出的帖子，称类似做法自己已实践一年多，并分享他正在搭建的通用人机协作界面。其当前方案将高级智能体连接到类 Notion 的灵活页面，支持嵌入工件、文本、视频和可视化讲解，智能体按任务输出这类工件而非默认文本回复，他通过评论和建议直接协作，覆盖代码审查、笔记、写作、研究和原型设计等场景。",
+      "category": "tip",
+      "score": 74,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/n7chgegp20mfrs7yj1cotqxab"
+        "canonical": "https://aihot.news/items/kej85fqatugzts37jenbakx8z"
       },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 10,
+      "editorialScore": 14,
       "tags": [
-        "图像生成",
-        "图像"
+        "原型",
+        "设计",
+        "界面",
+        "视频"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "c7nc40g4u1g7cv9mpv3odmteo",
@@ -353,6 +326,34 @@
         "photoshop"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "izb2db43ek2xkka0ll3kf5a7x",
+      "title": "斯凯孚用 AI 复活已故影星嘉宝拍广告，引发赞许与争议",
+      "title_en": "跨越百年的代言：斯凯孚用 AI“复活”已故女星葛丽泰 · 嘉宝拍广告",
+      "url": "https://www.ithome.com/1/009/764.htm",
+      "permalink": "https://aihot.news/items/izb2db43ek2xkka0ll3kf5a7x",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-10-05T02:00:14.000Z",
+      "discoveredAt": "2026-10-05T02:08:29.743Z",
+      "summary": "瑞典轴承制造商斯凯孚（SKF）用 AI 生成已故好莱坞影星葛丽泰·嘉宝的形象拍摄广告，项目已获嘉宝遗产管理方及家属授权。图像使用字节跳动 Seedream 5 Pro、谷歌 Gemini 的 Nano Banana Pro 生成，动作用 Seedance 2、Seedance 2.5 和快手可灵 AI，语音基于嘉宝早年影片原声训练，未使用存档照片或历史影像。",
+      "category": "industry",
+      "score": 59,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/izb2db43ek2xkka0ll3kf5a7x"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 9,
+      "editorialScore": 12,
+      "tags": [
+        "可灵",
+        "广告",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "vf4d6j0mzgxqb2w3seg02fyi3",
@@ -550,30 +551,85 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "nrvdl5cc6mherh4htwo2hnl2r",
-      "title": "DeepSeek Harness 公开预览并开源，采用一切皆插件架构",
-      "title_en": "DeepSeek 束带",
-      "url": "https://www.deepseek.com/en/harness/",
-      "permalink": "https://aihot.news/items/nrvdl5cc6mherh4htwo2hnl2r",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-10-02T06:05:38.511Z",
-      "discoveredAt": "2026-10-02T06:18:21.549Z",
-      "summary": "DeepSeek Harness 开始全球公开预览并开源，基于 Cordis 的“一切皆插件”架构，可作为桌面应用运行或从代码启动 Web UI。它支持日常文档处理、编码修 bug、研究检索、后台任务和插件扩展，可用 npx @deepseek-ai/dsh web 一条命令启动，或从 GitHub 克隆源码安装。",
-      "category": "ai-products",
-      "score": 72,
+      "id": "uleizm9b386cglcb9wc78vrcn",
+      "title": "Meta AI 助手 Muse 被曝为每位联系人建立个人档案，每小时汇总社交关系信息",
+      "title_en": "Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案",
+      "url": "https://www.ithome.com/1/009/755.htm",
+      "permalink": "https://aihot.news/items/uleizm9b386cglcb9wc78vrcn",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-10-05T01:08:27.000Z",
+      "discoveredAt": "2026-10-05T01:20:30.781Z",
+      "summary": "据 WIRED 报道，研究人员 Karan Joshi 通过普通聊天界面提取出 Meta 个人助手 Muse 的内部指令与系统提示词，显示系统会每小时运行一次流程，为家人、朋友、同事等每位联系人建立档案，记录居住地、工作、重要日期、关系亲密程度及维护建议等内容。",
+      "category": "industry",
+      "score": 74,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/nrvdl5cc6mherh4htwo2hnl2r"
+        "canonical": "https://aihot.news/items/uleizm9b386cglcb9wc78vrcn"
       },
       "sourceType": "网站",
       "designCategory": "产品与体验",
-      "relevanceScore": 7,
-      "editorialScore": 11,
+      "relevanceScore": 6,
+      "editorialScore": 10,
       "tags": [
-        "ui"
+        "界面",
+        "提示词"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "dfcis3hxowljt45i0bvyi3f0n",
+      "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄",
+      "title_en": "Four Databricks Genie Controls That Don't Stop Malicious Skills",
+      "url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
+      "permalink": "https://aihot.news/items/dfcis3hxowljt45i0bvyi3f0n",
+      "source": "PromptArmor：Threat Intelligence",
+      "publishedAt": "2026-10-05T00:24:02.000Z",
+      "discoveredAt": "2026-10-05T00:36:28.048Z",
+      "summary": "PromptArmor 披露 Databricks Genie Code 可被恶意 Skill 利用：Skill 代码将数据嵌入聊天渲染的 HTML 显示，渲染时通过用户浏览器发起网络请求外泄数据，并弹出钓鱼界面索取凭据。",
+      "category": "paper",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/dfcis3hxowljt45i0bvyi3f0n"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "界面",
+        "skill"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "skfgsas6fbpcual975kft4p8e",
+      "title": "Perplexity Computer 可构建垂直 AI 应用",
+      "title_en": "You can build custom vertical AI apps inside Computer, eg: guess spatial location of an image with 3D and satellite view.",
+      "url": "https://x.com/AravSrinivas/status/2106826752169312760",
+      "permalink": "https://aihot.news/items/skfgsas6fbpcual975kft4p8e",
+      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "publishedAt": "2026-10-04T19:20:15.000Z",
+      "discoveredAt": "2026-10-04T19:43:38.194Z",
+      "summary": "你可以在 Computer 里构建自定义垂直 AI 应用，例如：用 3D 和卫星视图猜测图像的 spatial location。",
+      "category": "tip",
+      "score": 48,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/skfgsas6fbpcual975kft4p8e"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "图像",
+        "3d"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "nj7vtq0wdadqu63nrcpefqkb3",
@@ -900,83 +956,56 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "m6f446vhaic80lgu93oaxzd3g",
-      "title": "作者用元宝内置Hy Image3.5 Preview整理25种国庆照片AI修图玩法",
-      "title_en": "国庆相册里舍不得删的废片，我找到了25种新玩法来拯救它们！",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512190&idx=1&sn=91d791884cd089c7204d4a32f9d068fe",
-      "permalink": "https://aihot.news/items/m6f446vhaic80lgu93oaxzd3g",
-      "source": "公众号：卡尔的AI沃茨",
-      "publishedAt": "2026-10-02T10:07:42.000Z",
-      "discoveredAt": "2026-10-02T10:41:44.184Z",
-      "summary": "作者在腾讯元宝内置的Hy Image3.5 Preview模型上整理出25种AI修图玩法，按人像、风景、美食三类旅行照片逐一演示，附完整提示词，涵盖杂志拼贴封面、漫画登机牌、JRPG任务界面、手绘小票、明信片式延伸线稿等效果，并实测了肤色还原、去除路人、阴天换蓝天等基础修图能力，称模型文字稳定性与人物一致性好，手机端可用且免费。",
+      "id": "hhvysm9lqlz56zh9eyercx0j8",
+      "title": "BestBlogs早报：ChatGPT常驻智能体与Temporal故障恢复",
+      "title_en": "BestBlogs早报｜Tibo谈ChatGPT常驻智能体和插件生态，智能体工作流的故障恢复，Crusoe算力成本访谈关注交付",
+      "url": "https://x.com/hongming731/status/2106898491155055022",
+      "permalink": "https://aihot.news/items/hhvysm9lqlz56zh9eyercx0j8",
+      "source": "X：洪明 (@hongming731)",
+      "publishedAt": "2026-10-05T00:05:19.000Z",
+      "discoveredAt": "2026-10-05T00:21:29.701Z",
+      "summary": "BestBlogs 早报精讲三篇：ChatGPT 负责人 Tibo Sottiaux 谈常驻智能体、插件生态与减少 ChatGPT、工作模式、Codex 之间的复杂性；Temporal 演示把人工审批当作异步 API，在等待审批时关闭工作进程、离线提交批准后重启即可恢复业务；Crusoe CEO 则从供电交付与旧芯片利用解释算力成本。",
       "category": "tip",
-      "score": 70,
+      "score": 42,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/m6f446vhaic80lgu93oaxzd3g"
+        "canonical": "https://aihot.news/items/hhvysm9lqlz56zh9eyercx0j8"
       },
-      "sourceType": "公众号",
-      "designCategory": "产品与体验",
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "工作流",
+        "codex",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "gf048arpz9hrjjq61wm1ce97l",
+      "title": "可灵 4.0 短片《The Beat》播放破 500 万幕后解析",
+      "title_en": "Behind the Scenes of “The Beat” | Breaking Down the 5M+ Hit from Kling 4.0",
+      "url": "https://x.com/Kling_ai/status/2106727026635808860",
+      "permalink": "https://aihot.news/items/gf048arpz9hrjjq61wm1ce97l",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-10-04T12:43:58.000Z",
+      "discoveredAt": "2026-10-04T13:12:32.128Z",
+      "summary": "可灵 Kling 4.0 制作的短片《The Beat》在社交平台曝光量突破 500 万，官方发布幕后解析。影片开场为 30 秒连续长镜头，依托 Kling 4.0 原生 30 秒生成能力实现；Omni Reference 单任务支持最多 15 个多模态参考，Multi-Keyframe 支持最多 10 个关键帧，并采用 10-bit HDR 输出与升级立体声音频。",
+      "category": "tip",
+      "score": 48,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/gf048arpz9hrjjq61wm1ce97l"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
       "relevanceScore": 6,
-      "editorialScore": 10,
+      "editorialScore": 9,
       "tags": [
-        "界面",
-        "提示词"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "ve25sk9decdt60g2t7qq8m49v",
-      "title": "腾讯 WorkBuddy 内置模型独家支持 Space Bunny",
-      "title_en": null,
-      "url": "https://www.ithome.com/1/009/335.htm",
-      "permalink": "https://aihot.news/items/ve25sk9decdt60g2t7qq8m49v",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-10-02T10:05:19.000Z",
-      "discoveredAt": "2026-10-02T10:06:39.542Z",
-      "summary": "腾讯 WorkBuddy 宣布内置模型独家支持匿名 Flash 大模型 Space Bunny，该模型具备极速推理、编码能力，原生支持文本、图像、视频输入，上下文长达 1M。",
-      "category": "ai-products",
-      "score": 31,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ve25sk9decdt60g2t7qq8m49v"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "znbqmjd4ufxgwyvpq1wmqrwzn",
-      "title": "大众安徽与众 09 夏测实车亮相，预售 19.99 万元起",
-      "title_en": null,
-      "url": "https://www.ithome.com/1/009/314.htm",
-      "permalink": "https://aihot.news/items/znbqmjd4ufxgwyvpq1wmqrwzn",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-10-02T08:02:46.000Z",
-      "discoveredAt": "2026-10-02T08:14:36.318Z",
-      "summary": "大众安徽旗下新车与众 09 已开启预售，价格 19.99 万元起，大众汽车乘用车品牌中国 CEO 齐泽凯分享了该车夏测照片。该车长宽高 5081*1980*1509mm、轴距 3030mm，标配图灵 AI 芯片、总算力 750TOPS，搭载端到端智能辅助驾驶模型，可实现高速/城区 NOA 和车位到车位 AI 代驾。",
-      "category": null,
-      "score": 30,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/znbqmjd4ufxgwyvpq1wmqrwzn"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "配图",
-        "品牌"
+        "可灵"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -1009,32 +1038,6 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "q9aih7t0iw50b903zseojiwug",
-      "title": "可灵 4.0 与 4.0 Flash 创作展示",
-      "title_en": "New imagination. New stories. New ways to create.",
-      "url": "https://x.com/Kling_ai/status/2106383772321271908",
-      "permalink": "https://aihot.news/items/q9aih7t0iw50b903zseojiwug",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "publishedAt": "2026-10-03T14:00:00.000Z",
-      "discoveredAt": "2026-10-03T14:04:37.511Z",
-      "summary": "新的想象。新的故事。新的创作方式。\n看看创作者们用 Kling 4.0 和 Kling 4.0 Flash 创作了什么。#Kling4 #klingai",
-      "category": "ai-products",
-      "score": 32,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/q9aih7t0iw50b903zseojiwug"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "可灵"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "luziee3q9gvgyq8y0sn7ti82t",
       "title": "Redis 作者推出 ds4 本地推理引擎，可跑 DeepSeek V4、GLM 5.x 和 Qwen3.8",
       "title_en": "From the creator of Redis; run LLM locally with ds4",
@@ -1062,87 +1065,31 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "hmnf6r4mkbfn478ng418q7fpz",
-      "title": "Runway AI 峰会：机器人落地与三年展望",
-      "title_en": "Paril Jain, co-founder and CTO of The Bot Company, and Quan Vuong, co-founder of Physical Intelligence met on the Runway AI Summit stage ...",
-      "url": "https://x.com/runwayml/status/2106022404707209297",
-      "permalink": "https://aihot.news/items/hmnf6r4mkbfn478ng418q7fpz",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-10-02T14:04:03.000Z",
-      "discoveredAt": "2026-10-02T14:17:20.055Z",
-      "summary": "The Bot Company 联合创始人兼 CTO Paril Jain 与 Physical Intelligence 联合创始人 Quan Vuong 在 Runway AI Summit 舞台上同台，探讨真实世界评测、机器人实地部署，以及三年后机器人技术将走向何方。",
-      "category": "industry",
-      "score": 27,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/hmnf6r4mkbfn478ng418q7fpz"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "runway"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "xpo2klwq1z94f4rjwt87otm2m",
-      "title": "Krea AI 创意智能体 48 小时构建",
-      "title_en": "the team at @thesystms built a creative agent in 48 hours.",
-      "url": "https://x.com/krea_ai/status/2105999020074414476",
-      "permalink": "https://aihot.news/items/xpo2klwq1z94f4rjwt87otm2m",
-      "source": "X：Krea AI (@krea_ai)",
-      "publishedAt": "2026-10-02T12:31:08.000Z",
-      "discoveredAt": "2026-10-02T12:55:48.470Z",
-      "summary": "@thesystms 团队在 48 小时内构建了一个创意智能体。\n\n@ingi_erlingsson 写下了他如何解读情绪板：先感受，再是色彩、色调和镜头，然后 @armandgw 把它做成了 Krea Agent 技能。\n\n在下方了解详情👇",
-      "category": "tip",
-      "score": 33,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/xpo2klwq1z94f4rjwt87otm2m"
-      },
-      "sourceType": "X",
-      "designCategory": "行业观察",
-      "relevanceScore": 9,
-      "editorialScore": 9,
-      "tags": [
-        "创意",
-        "creative",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "ei4swz23uw02cqqpsrbwam8l5",
-      "title": "富士 X-T6 设计草图曝光：搭 X-Processor 6，或推迟至 2026 年末至 2027 年初发布",
-      "title_en": "富士 X-T6 无反相机设计草图曝光，配 X-Processor 6 图像处理器",
-      "url": "https://www.ithome.com/1/009/283.htm",
-      "permalink": "https://aihot.news/items/ei4swz23uw02cqqpsrbwam8l5",
+      "id": "us0h8sxrn0z0pgho2jnnkpvio",
+      "title": "OpenAI GPT-6 Sol Codex 约29.4万字符系统提示词遭泄露",
+      "title_en": "OpenAI GPT-6 Sol 被破解，30 万字系统提示词已泄露",
+      "url": "https://www.ithome.com/1/009/745.htm",
+      "permalink": "https://aihot.news/items/us0h8sxrn0z0pgho2jnnkpvio",
       "source": "IT之家（RSS）",
-      "publishedAt": "2026-10-02T06:34:49.000Z",
-      "discoveredAt": "2026-10-02T06:38:32.216Z",
-      "summary": "富士 X-T6 无反相机设计草图曝光，传闻将搭载 X-Processor 6 图像处理器，支持新一代深度学习 AI 自动对焦与实时黏着追踪。传感器或采用 4000 万–5000 万像素部分堆叠式 X-Trans 6，电子快门连拍最高 40–60fps，视频规格升至 8K 30p / 4K 120p。该机发布已推迟至 2026 年末或 2027 年初，上市价约 1,899–2,199 美元。",
-      "category": null,
-      "score": 19,
+      "publishedAt": "2026-10-05T00:14:05.000Z",
+      "discoveredAt": "2026-10-05T00:16:29.820Z",
+      "summary": "爆料者 @elder_plinius 称提取了 OpenAI GPT-6 Sol Codex 的完整系统提示词及工具定义，共约29.4万字符、1902行，已发布到 GitHub。",
+      "category": "industry",
+      "score": 73,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ei4swz23uw02cqqpsrbwam8l5"
+        "canonical": "https://aihot.news/items/us0h8sxrn0z0pgho2jnnkpvio"
       },
       "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
       "tags": [
-        "设计",
-        "视频",
-        "图像"
+        "提示词",
+        "codex"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "u0mv7wqrnxw9gtx01skjm2f0n",
@@ -1169,33 +1116,6 @@
         "界面",
         "工作流",
         "agent"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "zpeff487gfzu6kxduf65dbmj1",
-      "title": "Rohan Paul：规则型工作不再是职业，而是一条提示词，Claude Opus 5 在会计任务上超越持证会计师",
-      "title_en": "Rule-based work isn't a career anymore. It's a prompt.",
-      "url": "https://x.com/rohanpaul_ai/status/2105961532777804041",
-      "permalink": "https://aihot.news/items/zpeff487gfzu6kxduf65dbmj1",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-10-02T10:02:10.000Z",
-      "discoveredAt": "2026-10-02T10:10:40.935Z",
-      "summary": "Rohan Paul 转述 Mercor 的一项研究结论，称在中短长度、定义清晰的会计任务上，前沿 AI 模型已比初级会计师更快更准，甚至超过研究中最优秀的人类。作者指出 Claude Opus 5 在任务中 20 题全对（100%），数分钟内完成，而 12 名持证 CPA 得分从 0% 到约 90% 不等，多人未能在 3 小时内完成；图中数据显示按每项评分标准成本计，Claude Opus 5 为 $0.21，无 AI 的会计师为 $10.35。",
-      "category": "tip",
-      "score": 57,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/zpeff487gfzu6kxduf65dbmj1"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "提示词",
-        "prompt"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
