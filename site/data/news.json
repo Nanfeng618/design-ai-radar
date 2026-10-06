@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-05T14:39:03.840Z",
-  "previousGeneratedAt": "2026-10-05T05:40:27.771Z",
+  "generatedAt": "2026-10-06T06:21:04.117Z",
+  "previousGeneratedAt": "2026-10-05T14:39:03.840Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
   "itemCount": 45,
   "sourceCounts": {
-    "网站": 21,
-    "X": 23,
+    "网站": 20,
+    "X": 24,
     "公众号": 1
   },
   "source": {
@@ -44,6 +44,35 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "q8gfp9kxnm2oal7on8lgj84df",
+      "title": "OpenAI 在 ChatGPT 图像生成结果旁推出视觉广告",
+      "title_en": "OpenAI launches visual ads that appear alongside image generation results",
+      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "permalink": "https://aihot.news/items/q8gfp9kxnm2oal7on8lgj84df",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-10-05T15:14:24.000Z",
+      "discoveredAt": "2026-10-05T15:42:27.112Z",
+      "summary": "OpenAI 将在 ChatGPT 的图像生成结果旁展示视觉广告，本月晚些时候先在美国上线，面向初始测试广告主，广告会明确标注且不影响 ChatGPT 的回答。OpenAI 同时扩展广告测量工具与合作伙伴生态，并推进品牌适配性评估试点，广告远期目标是覆盖其 12 亿周活用户。",
+      "category": "ai-products",
+      "score": 51,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/q8gfp9kxnm2oal7on8lgj84df"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 22,
+      "editorialScore": 25,
+      "tags": [
+        "图像生成",
+        "image generation",
+        "视觉",
+        "广告"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "qigp1h4blta6o8nnh0wefzk9x",
       "title": "OpenAI 将在 ChatGPT 图像生成加载界面测试轮播广告",
       "title_en": "ChatGPT's new ad format fills the image generation loading screen with product carousels",
@@ -69,91 +98,6 @@
         "image generation",
         "界面",
         "广告"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "fdxetl5se89pl6hzptlpiei7b",
-      "title": "Ideogram 4.5 首次进入 Artificial Analysis 图像编辑榜单，编辑榜第 23、文生图榜第 34",
-      "title_en": "Ideogram 4.5 debuts at #23 on the AA-Image-Editing v2.0 leaderboard, Ideogram's first model on the board, and lands at #34 on AA-Image-T2...",
-      "url": "https://x.com/ArtificialAnlys/status/2106174147571413371",
-      "permalink": "https://aihot.news/items/fdxetl5se89pl6hzptlpiei7b",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "publishedAt": "2026-10-03T00:07:02.000Z",
-      "discoveredAt": "2026-10-03T00:10:41.138Z",
-      "summary": "Artificial Analysis 评测显示，Ideogram 4.5 在 AA-Image-Editing v2.0 榜单首秀排名第 23，是 Ideogram 首个上榜的模型，在 AA-Image-T2I v2.0 排名第 34，较 Ideogram 4.0 的第 40 上升。",
-      "category": "ai-models",
-      "score": 53,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/fdxetl5se89pl6hzptlpiei7b"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 17,
-      "editorialScore": 20,
-      "tags": [
-        "文生图",
-        "生图",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "v3x116o4gk4ua48lzvrsrba05",
-      "title": "Apple 推出 Pass Designer 测试版，可实时预览 iPhone 与 Apple Watch 票卡",
-      "title_en": "Apple Pass 设计师",
-      "url": "https://developer.apple.com/pass-designer/",
-      "permalink": "https://aihot.news/items/v3x116o4gk4ua48lzvrsrba05",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-10-02T20:13:45.008Z",
-      "discoveredAt": "2026-10-02T20:21:25.056Z",
-      "summary": "Apple 发布 Pass Designer 测试版，开发者可用 Apple 或自有模板设计票卡，编辑时实时预览其在 iPhone 和 Apple Watch 上的效果，预览采用与 iOS、watchOS 相同的渲染。",
-      "category": "ai-products",
-      "score": 27,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/v3x116o4gk4ua48lzvrsrba05"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 16,
-      "editorialScore": 20,
-      "tags": [
-        "设计师",
-        "designer",
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "udiuuxug9ddk99sjfxxr91h6b",
-      "title": "Black Forest Labs 发布 FLUX 3 Image，支持边界框构图与像素级编辑",
-      "title_en": "FLUX 3 图片",
-      "url": "https://bfl.ai/models/flux-3-image",
-      "permalink": "https://aihot.news/items/udiuuxug9ddk99sjfxxr91h6b",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-10-02T17:50:56.693Z",
-      "discoveredAt": "2026-10-02T18:06:22.306Z",
-      "summary": "Black Forest Labs 发布 FLUX 3 Image，是 FLUX 3 多模态模型中负责图像生成与编辑的部分，可用边界框在 0 到 1000 的画布网格上控制每个元素的位置，也支持直接用提示词生成。",
-      "category": "ai-models",
-      "score": 72,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/udiuuxug9ddk99sjfxxr91h6b"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 17,
-      "editorialScore": 20,
-      "tags": [
-        "图像生成",
-        "flux",
-        "图像",
-        "提示词"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -187,61 +131,114 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "lpgrhoqvv9fx932rcorjpu0tu",
-      "title": "Mat Duggan 设想让 Tmux 式任务管理成为操作系统界面",
-      "title_en": "让 Tmux 成为操作系统",
-      "url": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
-      "permalink": "https://aihot.news/items/lpgrhoqvv9fx932rcorjpu0tu",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-10-03T14:13:44.681Z",
-      "discoveredAt": "2026-10-03T14:22:39.860Z",
-      "summary": "作者受 Scott Jenson 演讲启发，提出把 tmux 的可滚动、会话持久、任务导向体验带给普通人的桌面 UI 构想。他引用 Rooms(1986)、WindowScape、Grudin 等研究指出窗口管理问题二十多年未解，给出无限画布、视口、隐私标志和本地 LLM 辅助组织任务的方案，并承认隐私遥测、无限画布堆积等设计缺陷，仍在尝试做 Linux demo。",
-      "category": "tip",
-      "score": 51,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/lpgrhoqvv9fx932rcorjpu0tu"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 14,
-      "editorialScore": 18,
-      "tags": [
-        "ui",
-        "设计",
-        "界面"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "xb9cmjq82do5bjnyom0p5gfsm",
-      "title": "MiniMax 等谈 AI 视频与广告未来",
-      "title_en": "@advertisingweek @krea_ai @fal @magnific 🎙️ The New Creative Stack: AI Video, Brand Control & the Future of Advertising",
-      "url": "https://x.com/MiniMax_AI/status/2106118482765213889",
-      "permalink": "https://aihot.news/items/xb9cmjq82do5bjnyom0p5gfsm",
-      "source": "X：MiniMax (@MiniMax_AI)",
-      "publishedAt": "2026-10-02T20:25:50.000Z",
-      "discoveredAt": "2026-10-02T20:54:22.922Z",
-      "summary": "@advertisingweek @krea_ai @fal @magnific 🎙️ 新的创意技术栈：AI 视频、品牌控制与广告的未来\n\n嘉宾：Helena Grau i Miarons（@krea_ai）、Nina Gerov（@fal）、Claire Xue（@magnific）、@RenLeanna 与 @MorganSuoinMM（@MiniMax_AI）\n\n📅 周四 10/8 · 下午 2:30 ET · Innovation Stage\n🔗https://newyork2026.advertisingweek.com/aw/schedule/session/-805-2026-10-08-1510-session",
+      "id": "k0n9atmpp1kf5krfl6c696xgu",
+      "title": "fal 联合 Bria AI 与 LTX 举办 SF Tech Week 活动",
+      "title_en": "We teamed up with @bria_ai_ and @LTX_io for SF Tech Week, bringing together people from companies including Google, Adobe, Canva, ByteDan...",
+      "url": "https://x.com/fal/status/2107236726112387230",
+      "permalink": "https://aihot.news/items/k0n9atmpp1kf5krfl6c696xgu",
+      "source": "X：fal (@fal)",
+      "publishedAt": "2026-10-05T22:29:20.000Z",
+      "discoveredAt": "2026-10-05T22:29:38.416Z",
+      "summary": "我们与 @bria_ai_ 和 @LTX_io 在 SF Tech Week 上合作，汇聚了来自 Google、Adobe、Canva、ByteDance、Luma AI 和 Hedra 等公司的人。\n\n感谢所有参与的人！",
       "category": "industry",
-      "score": 18,
+      "score": 12,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/xb9cmjq82do5bjnyom0p5gfsm"
+        "canonical": "https://aihot.news/items/k0n9atmpp1kf5krfl6c696xgu"
       },
       "sourceType": "X",
-      "designCategory": "行业观察",
-      "relevanceScore": 15,
+      "designCategory": "设计工具",
+      "relevanceScore": 12,
+      "editorialScore": 17,
+      "tags": [
+        "canva",
+        "adobe"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "wbeqbekyr41cuzcjye1ty160g",
+      "title": "Nieman Lab调查：ChatGPT生成伪造《纽约客》漫画并署上真实漫画家签名",
+      "title_en": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
+      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+      "permalink": "https://aihot.news/items/wbeqbekyr41cuzcjye1ty160g",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-10-06T00:19:39.500Z",
+      "discoveredAt": "2026-10-06T00:38:37.377Z",
+      "summary": "Nieman Lab记者调查发现，ChatGPT生成《纽约客》风格漫画时会署上真实漫画家的签名，作者记录了超过15位漫画家的签名被OpenAI图像生成器未经许可使用，包括Brendan Loper、Emily Flake、Pat Byrnes等人。",
+      "category": "industry",
+      "score": 71,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/wbeqbekyr41cuzcjye1ty160g"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
       "editorialScore": 15,
       "tags": [
+        "图像生成",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "s08rp7xqc9uz611x428fy6oak",
+      "title": "OpenAI 将在 ChatGPT 图像生成中测试图片广告形式",
+      "title_en": "OpenAI 将在 ChatGPT 中推出全新图片广告形式，不会影响生成结果",
+      "url": "https://www.ithome.com/1/009/901.htm",
+      "permalink": "https://aihot.news/items/s08rp7xqc9uz611x428fy6oak",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-10-05T15:01:59.000Z",
+      "discoveredAt": "2026-10-05T15:02:28.828Z",
+      "summary": "OpenAI 宣布在 ChatGPT 中推出全新图片广告形式，本月晚些时候在美国启动测试，首批邀请部分广告主参与。初期在图像生成功能中测试，广告会清晰标注并与生成内容相互独立，官方称广告不会影响 ChatGPT 的回答。ChatGPT 每周覆盖 12 亿用户，此次同时扩充广告效果衡量工具并研发品牌适配性评估方案。",
+      "category": "ai-products",
+      "score": 70,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/s08rp7xqc9uz611x428fy6oak"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "图像生成",
         "广告",
-        "创意",
-        "creative",
+        "图像",
+        "品牌"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "vc6im4qxdhmq4vk8oim0euc5n",
+      "title": "长时程自回归视频生成的新蒸馏法",
+      "title_en": "Rollout-Marginal Distillation for Long-Horizon Autoregressive Video Generation",
+      "url": "https://x.com/_akhaliq/status/2107119868218916980",
+      "permalink": "https://aihot.news/items/vc6im4qxdhmq4vk8oim0euc5n",
+      "source": "X：AK (@_akhaliq)",
+      "publishedAt": "2026-10-05T14:44:59.000Z",
+      "discoveredAt": "2026-10-05T15:13:26.358Z",
+      "summary": "Rollout-Marginal Distillation for Long-Horizon Autoregressive Video Generation\n\npaper: https://huggingface.co/papers/2609.37925",
+      "category": "paper",
+      "score": 23,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/vc6im4qxdhmq4vk8oim0euc5n"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
         "视频"
       ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "kej85fqatugzts37jenbakx8z",
@@ -302,88 +299,59 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "xedw87hmcjwnhgzqx0fqce9wr",
-      "title": "Yuchen Jin：终端时代已终结",
-      "title_en": "I haven’t touched Claude Code or Codex CLI in a while.",
-      "url": "https://x.com/Yuchenj_UW/status/2106435001340621147",
-      "permalink": "https://aihot.news/items/xedw87hmcjwnhgzqx0fqce9wr",
-      "source": "X：Yuchen Jin (@Yuchenj_UW)",
-      "publishedAt": "2026-10-03T17:23:34.000Z",
-      "discoveredAt": "2026-10-03T17:32:41.856Z",
-      "summary": "我有一阵子没碰 Claude Code 或 Codex CLI 了。\n\n在我看来，终端时代已经结束。对编码智能体来说，它是错误的界面。标签页是短暂的，但上下文是持久的，管理 30 个标签页纯粹是认知负担。\n\n我也不太需要像 Cursor 这样的 IDE。我很少再浏览整个代码库。\n\n新的原语是智能体，而不是文件。\n\n（Codex 桌面应用是目前最好的智能体 UI。但我们仍处于早期。）",
-      "category": "tip",
-      "score": 30,
+      "id": "avpcnc2vtge050pjcj3y4klhd",
+      "title": "Kandinsky 6.0 Video 发布：同步音视频生成的开源基础模型",
+      "title_en": "Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation",
+      "url": "https://arxiv.org/abs/2610.05608",
+      "permalink": "https://aihot.news/items/avpcnc2vtge050pjcj3y4klhd",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-10-04T00:00:00.000Z",
+      "discoveredAt": "2026-10-06T03:49:38.699Z",
+      "summary": "Kandinsky 6.0 Video 发布，包含 3B 的 Lite 和 29B 的 Pro 两个基础扩散模型，支持文生音视频（T2AV）和图生音视频（I2AV），可生成 5 秒带 44 kHz 同步音频（含唇同步）的视频，经内置超分模型提升至 Full-HD（1920×1080）。",
+      "category": "paper",
+      "score": 54,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/xedw87hmcjwnhgzqx0fqce9wr"
+        "canonical": "https://aihot.news/items/avpcnc2vtge050pjcj3y4klhd"
       },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 10,
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
       "editorialScore": 14,
       "tags": [
-        "ui",
-        "界面",
-        "codex",
-        "claude code"
+        "视频生成",
+        "视频"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "zpyd1vco2vjv2u0jj7oi07490",
-      "title": "PixVerse 插件：用 AI 智能体生成角色设计表",
-      "title_en": "Describe your character to your AI agent and use the PixVerse plugin to build out the design sheet",
-      "url": "https://x.com/PixVerse/status/2106398920658354355",
-      "permalink": "https://aihot.news/items/zpyd1vco2vjv2u0jj7oi07490",
-      "source": "X：PixVerse (@PixVerse)",
-      "publishedAt": "2026-10-03T15:00:12.000Z",
-      "discoveredAt": "2026-10-03T15:28:30.883Z",
-      "summary": "向你的 AI 智能体描述你的角色，并使用 PixVerse 插件来构建设计表",
-      "category": "tip",
-      "score": 34,
+      "id": "syducrqv8dakc8k9r7v9wfn4m",
+      "title": "MIT 论文发现简化交互格式比推理提示更能改善 LLM 智能体决策",
+      "title_en": "New MIT Paper: LLM agents decide better when the choice is shown in simple steps or the rule's safe move is stated plainly, and worse whe...",
+      "url": "https://x.com/rohanpaul_ai/status/2107258442755035190",
+      "permalink": "https://aihot.news/items/syducrqv8dakc8k9r7v9wfn4m",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-10-05T23:55:38.000Z",
+      "discoveredAt": "2026-10-06T00:20:40.437Z",
+      "summary": "MIT 论文研究拍卖与匹配环境中交互格式对 LLM 智能体决策的影响，发现为人类竞标者设计的机制设计经验可沿用到 LLM 智能体。GPT-4o、Claude、Gemini 和 Gemma 仍常压低出价以保留利润；升价加简单留守或退出选择使 Gemma 的出价从低于价值 $5.30 收窄到 $0.30，一行说明拒绝只会重新分配的提示把匹配错误从 4.2% 降到 0.2%。",
+      "category": "paper",
+      "score": 52,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/zpyd1vco2vjv2u0jj7oi07490"
+        "canonical": "https://aihot.news/items/syducrqv8dakc8k9r7v9wfn4m"
       },
       "sourceType": "X",
       "designCategory": "产品与体验",
       "relevanceScore": 9,
       "editorialScore": 13,
       "tags": [
-        "design",
         "设计",
-        "agent",
+        "交互",
         "智能体"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "gl2eqk6git34to9s2gakdnpj4",
-      "title": "大家都在收拾行李：从 Reddit、WordPress、Discord 到 GitHub，用户为何集体出走",
-      "title_en": "大家都在收拾行李",
-      "url": "https://widdershins.verja.net/everyones-packing-up/",
-      "permalink": "https://aihot.news/items/gl2eqk6git34to9s2gakdnpj4",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-10-03T02:28:55.059Z",
-      "discoveredAt": "2026-10-03T02:33:39.926Z",
-      "summary": "近期大量用户发文宣布离开 Reddit、WordPress、Discord、GitHub、Codeberg、Photoshop 等平台，转向个人网站、自托管应用和 Gopher、Gemini 等 smallweb。出走原因包括定价变动、内容被用于 AI 训练、平台易主或新政策，以及平台不再为个人而建的感觉。作者指出，这些人并非投奔更大的平台，而是选择更小、更可控的去处。",
-      "category": "tip",
-      "score": 24,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/gl2eqk6git34to9s2gakdnpj4"
-      },
-      "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 8,
-      "editorialScore": 13,
-      "tags": [
-        "photoshop"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "uo5ekvnkjhfq2v77jeo91y3ly",
@@ -527,29 +495,110 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "qmnpsbc0zp31fn6d1zrjo3hpy",
-      "title": "Anthropic 为 Claude Code 推出 Mods 系统，可用 JS/TS 函数改写工具内部行为",
-      "title_en": "Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside",
-      "url": "https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside/",
-      "permalink": "https://aihot.news/items/qmnpsbc0zp31fn6d1zrjo3hpy",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-10-03T07:12:09.000Z",
-      "discoveredAt": "2026-10-03T07:53:13.664Z",
-      "summary": "Anthropic 为 Claude Code 发布基于插件的 Mods 系统，开发者可用 JavaScript 或 TypeScript 函数挂钩工具调用、用户提示和 UI 渲染等事件，添加自定义面板、拦截工具调用或新增命令。",
-      "category": "ai-products",
-      "score": 71,
+      "id": "cgpyw2cnn8xnjyhzsu08zt0u8",
+      "title": "Nvidia 据报重新设计 AI 算力合作协议，以云收入分成取代租赁担保",
+      "title_en": "Nvidia is fundamentally rethinking its AI Compute Partnership, which swaps rental guarantees for a cut of cloud revenue.",
+      "url": "https://x.com/rohanpaul_ai/status/2107316587585998892",
+      "permalink": "https://aihot.news/items/cgpyw2cnn8xnjyhzsu08zt0u8",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-10-06T03:46:41.000Z",
+      "discoveredAt": "2026-10-06T03:57:39.534Z",
+      "summary": "据 The Information 报道，Nvidia 正在重新设计其 AI 算力合作协议，用云收入分成取代租赁担保。Nebius 等其看重的云厂商在可从别处借款时拒绝让出利润，而急于签约的云厂商又弱到 Nvidia 担心其过度依赖自己；Nvidia 季度财报列出 360 亿美元 AI 云承诺，协议通常为期 6 年。",
+      "category": "industry",
+      "score": 66,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/qmnpsbc0zp31fn6d1zrjo3hpy"
+        "canonical": "https://aihot.news/items/cgpyw2cnn8xnjyhzsu08zt0u8"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "p6p7jc06updffr7k4inu6gae2",
+      "title": "Reka AI 发布 19B 全能模型 Rho-1，单模型处理文本、图像、视频与机器人控制",
+      "title_en": "Reka AI's omni-model Rho-1 handles text, images, video, and robot control in a single model",
+      "url": "https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/",
+      "permalink": "https://aihot.news/items/p6p7jc06updffr7k4inu6gae2",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-10-05T18:26:05.000Z",
+      "discoveredAt": "2026-10-05T18:56:28.338Z",
+      "summary": "Reka AI 发布 190 亿参数全能模型 Rho-1 的研究预览版，在单一神经网络内处理并生成文本、图像、视频和机器人控制动作。该模型将全部模态作为 token 放入同一上下文窗口，无需工具调用或外部模型，可实时生成连续视频并即时响应新指令，同一套权重既预测摄像头图像也驱动机器人运动。",
+      "category": "ai-models",
+      "score": 48,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/p6p7jc06updffr7k4inu6gae2"
       },
       "sourceType": "网站",
-      "designCategory": "产品与体验",
+      "designCategory": "图像与视频",
       "relevanceScore": 7,
-      "editorialScore": 11,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "v38xd9h0ss08ejternqtt9qpi",
+      "title": "Krea Agent 登陆 After Effects，可制作动态图形并处理音视频",
+      "title_en": "introducing Krea in After Effects.",
+      "url": "https://x.com/krea_ai/status/2107138756507763130",
+      "permalink": "https://aihot.news/items/v38xd9h0ss08ejternqtt9qpi",
+      "source": "X：Krea AI (@krea_ai)",
+      "publishedAt": "2026-10-05T16:00:02.000Z",
+      "discoveredAt": "2026-10-05T16:20:25.304Z",
+      "summary": "Krea AI 宣布 Krea Agent 进入 After Effects。Agent 可在 After Effects 内制作动态图形、调整视频尺寸，并处理声音、图像等内容。目前已开放免费试用。",
+      "category": "ai-products",
+      "score": 58,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/v38xd9h0ss08ejternqtt9qpi"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "图像",
+        "agent"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "xnpgytx3xm59vpq5kxu2y49x4",
+      "title": "Replit 上周更新：GPT-6.1 Sol 与 Claude Sonnet 5.5",
+      "title_en": "In case you missed it, here's what shipped last week:",
+      "url": "https://x.com/Replit/status/2107131199307063778",
+      "permalink": "https://aihot.news/items/xnpgytx3xm59vpq5kxu2y49x4",
+      "source": "X：Replit (@Replit)",
+      "publishedAt": "2026-10-05T15:30:01.000Z",
+      "discoveredAt": "2026-10-05T15:46:28.250Z",
+      "summary": "如果你错过了，以下是上周发布的内容：\n\n- 使用新模型构建：GPT-6.1 Sol 和 Claude Sonnet 5.5\n- 通过 AI 集成让 agent 使用 Jev\n- 更新了 Settings 中的 UI\n- 企业版：通过公司级规则或受控例外设置高级 Workplace 设置。\n\n更多内容请查看我们的 changelog：\nhttps://docs.replit.com/updates/2026/10/02/changelog",
+      "category": "ai-products",
+      "score": 32,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/xnpgytx3xm59vpq5kxu2y49x4"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
       "tags": [
         "ui",
-        "claude code"
+        "agent"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
@@ -639,33 +688,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "dfcis3hxowljt45i0bvyi3f0n",
-      "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄",
-      "title_en": "Four Databricks Genie Controls That Don't Stop Malicious Skills",
-      "url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
-      "permalink": "https://aihot.news/items/dfcis3hxowljt45i0bvyi3f0n",
-      "source": "PromptArmor：Threat Intelligence",
-      "publishedAt": "2026-10-05T00:24:02.000Z",
-      "discoveredAt": "2026-10-05T00:36:28.048Z",
-      "summary": "PromptArmor 披露 Databricks Genie Code 可被恶意 Skill 利用：Skill 代码将数据嵌入聊天渲染的 HTML 显示，渲染时通过用户浏览器发起网络请求外泄数据，并弹出钓鱼界面索取凭据。",
-      "category": "paper",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/dfcis3hxowljt45i0bvyi3f0n"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "界面",
-        "skill"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "skfgsas6fbpcual975kft4p8e",
       "title": "Perplexity Computer 可构建垂直 AI 应用",
       "title_en": "You can build custom vertical AI apps inside Computer, eg: guess spatial location of an image with 3D and satellite view.",
@@ -721,220 +743,145 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "wknjnvzx9vb0dl8amwcmna4hj",
-      "title": "Perplexity Computer 推出 Visualize 内联可视化功能",
-      "title_en": "Try “Visualize….” in Computer and ask for whatever you want to learn visually. You will now get an inline viz with rich educative and int...",
-      "url": "https://x.com/AravSrinivas/status/2106463779131167189",
-      "permalink": "https://aihot.news/items/wknjnvzx9vb0dl8amwcmna4hj",
-      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "publishedAt": "2026-10-03T19:17:55.000Z",
-      "discoveredAt": "2026-10-03T19:40:18.928Z",
-      "summary": "Perplexity CEO Aravind Srinivas 宣布 Computer 新增 Visualize 功能，用户以 Visualize 开头提问即可在对话中获得带教育和交互组件及动画的内联可视化内容。官方建议在 Standard 或 High effort 模式下体验。",
-      "category": "ai-products",
-      "score": 62,
+      "id": "qd35euj6g9jpln60m02bivgga",
+      "title": "消息称快手旗下可灵 AI 选定投行筹备赴港 IPO，拟募资至少 10 亿美元",
+      "title_en": "消息称快手旗下可灵 AI 已选定投行筹备赴港 IPO，拟募资至少 10 亿美元",
+      "url": "https://www.ithome.com/1/009/964.htm",
+      "permalink": "https://aihot.news/items/qd35euj6g9jpln60m02bivgga",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-10-06T02:41:41.000Z",
+      "discoveredAt": "2026-10-06T02:44:38.031Z",
+      "summary": "据彭博社报道，快手旗下可灵 AI 已选定承销银行筹备赴港 IPO，募资规模至少 10 亿美元，正与中金公司、高盛集团及瑞银集团合作，目标最早明年上市。可灵 AI 今年 7 月完成 28 亿美元融资，投前估值约 150 亿美元，投资方包括阿里巴巴、腾讯和百度；其竞争对手字节跳动 Seedance、生数科技、PixVerse 中后两家也计划在香港 IPO。",
+      "category": "industry",
+      "score": 57,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/wknjnvzx9vb0dl8amwcmna4hj"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "fjxvgq4f2pnypa9f5or45o1i3",
-      "title": "LEGO-Anything研究：编码智能体可将单张照片转成可执行Blender 3D场景程序但几何自评接近随机",
-      "title_en": "AI agents build 3D scenes from photos but have no idea if they got it right",
-      "url": "https://the-decoder.com/ai-agents-build-3d-scenes-from-photos-but-have-no-idea-if-they-got-it-right/",
-      "permalink": "https://aihot.news/items/fjxvgq4f2pnypa9f5or45o1i3",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-10-03T08:31:04.000Z",
-      "discoveredAt": "2026-10-03T08:54:11.845Z",
-      "summary": "LEGO-Anything让编码智能体从单张图像迭代编写可执行的Blender场景程序，并推出LEGO-Bench基准（208张图像、104个场景、443个注册资产），用仿真渲染提供精确3D真值。",
-      "category": "paper",
-      "score": 54,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/fjxvgq4f2pnypa9f5or45o1i3"
+        "canonical": "https://aihot.news/items/qd35euj6g9jpln60m02bivgga"
       },
       "sourceType": "网站",
       "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
+      "relevanceScore": 6,
+      "editorialScore": 9,
       "tags": [
-        "图像",
-        "3d",
-        "智能体"
+        "可灵"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "t7nnizx15lz5nlgcot4l3sa6i",
-      "title": "Ethan Mollick 转述研究综述：AI 或已影响初级白领招聘，但总体劳动力市场冲击尚未显现",
-      "title_en": "\"The best current evidence supports a narrow claim: AI may already be affecting the hiring margin for junior white-collar roles most expo...",
-      "url": "https://x.com/emollick/status/2106187293501411755",
-      "permalink": "https://aihot.news/items/t7nnizx15lz5nlgcot4l3sa6i",
-      "source": "X：Ethan Mollick (@emollick)",
-      "publishedAt": "2026-10-03T00:59:16.000Z",
-      "discoveredAt": "2026-10-03T01:15:40.892Z",
-      "summary": "Ethan Mollick 引用 aleximas.substack.com 的研究综述称，现有证据仅支持一个窄结论：AI 可能已影响最暴露岗位的初级白领招聘边际，但这一归因仍有争议，总体劳动力市场扰动尚未在数据中出现。配图汇总了多项研究，如 ADP 数据显示 AI 暴露职业的初级招聘 10 月起下降约 16%，而北欧多地行政数据未发现显著负面影响。",
+      "id": "ctsuo4u6rnyjmg2jvu7dhjt9y",
+      "title": "Hao AI Lab 开源 Minecraft 智能体 Jev，对真人玩家胜率 70%",
+      "title_en": "Last week we let Jev play Minecraft. 1,795 rounds later, here's how it works, and it's fully open source 🚀",
+      "url": "https://x.com/haoailab/status/2107227312911716584",
+      "permalink": "https://aihot.news/items/ctsuo4u6rnyjmg2jvu7dhjt9y",
+      "source": "X：Sky Computing Lab (@haoailab)",
+      "publishedAt": "2026-10-05T21:51:56.000Z",
+      "discoveredAt": "2026-10-05T21:58:37.508Z",
+      "summary": "Hao AI Lab 发布完全开源的 Minecraft 智能体 Jev，经 1,795 轮对局后公开其工作方式。该智能体采用 Prompt 进化而非训练，由 SOTA LLM 智能体在人类监督下进化提示词；在 NVIDIA Blackwell 上每次决策耗时 24 ms，比某领先推理引擎快 2.5 倍；在 Block UHC 对真人玩家胜率 70%。",
       "category": "tip",
       "score": 51,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/t7nnizx15lz5nlgcot4l3sa6i"
+        "canonical": "https://aihot.news/items/ctsuo4u6rnyjmg2jvu7dhjt9y"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
       "tags": [
-        "配图"
+        "提示词",
+        "prompt",
+        "智能体"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "w0tjsxcvpgzk8hahp0vqz0jpc",
-      "title": "Claude Code v2.1.288 发布",
-      "title_en": "v2.1.288",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.288",
-      "permalink": "https://aihot.news/items/w0tjsxcvpgzk8hahp0vqz0jpc",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "publishedAt": "2026-10-02T20:19:57.000Z",
-      "discoveredAt": "2026-10-02T20:50:24.244Z",
-      "summary": "Claude Code v2.1.288 新增 $.ui.selection() 接口，可返回全屏模式下最近选中的文本；/code-review 支持 --max-findings all 调整报告数量，agents 视图新增 Ctrl+F 按名称查找会话和 Alt+↑/↓ 分组跳转。",
-      "category": "ai-products",
-      "score": 46,
+      "id": "ym1ys8pi35i8o7emy8g0u5f4n",
+      "title": "Claude Code 推出 mods，可自定义其界面、提示词与工具调用",
+      "title_en": "Mods in Claude Code: change how Claude Code works",
+      "url": "https://www.youtube.com/watch?v=yUuFvL1lK4k",
+      "permalink": "https://aihot.news/items/ym1ys8pi35i8o7emy8g0u5f4n",
+      "source": "Claude：YouTube（RSS）",
+      "publishedAt": "2026-10-05T19:18:43.000Z",
+      "discoveredAt": "2026-10-05T19:42:29.573Z",
+      "summary": "Claude Code 现已支持 mods，即用户编写的函数，可改变 Claude Code 的渲染内容、进入提示词的内容以及工具调用。Anthropic 的 Lydia 展示了三个示例：实时上下文分解、agent 侧边栏和悬停显示邮箱地址，并从零构建了邮箱示例。详情见 https://claude.dev/blog/getting-started-with-claude-code-mods/",
+      "category": "tip",
+      "score": 64,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/w0tjsxcvpgzk8hahp0vqz0jpc"
+        "canonical": "https://aihot.news/items/ym1ys8pi35i8o7emy8g0u5f4n"
       },
       "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
       "tags": [
-        "ui",
-        "claude code"
+        "界面",
+        "提示词",
+        "claude code",
+        "agent"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "mnp85zt9o921l7c28rzor00qy",
-      "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
-      "title_en": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-      "url": "https://x.com/AIatMeta/status/2106099776035152231",
-      "permalink": "https://aihot.news/items/mnp85zt9o921l7c28rzor00qy",
-      "source": "X：AI at Meta (@AIatMeta)",
-      "publishedAt": "2026-10-02T19:11:30.000Z",
-      "discoveredAt": "2026-10-02T19:36:33.663Z",
-      "summary": "Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。",
-      "category": "paper",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/mnp85zt9o921l7c28rzor00qy"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "界面"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "kloevf1ummpfn603l171olila",
-      "title": "fal 的 H3 Max Reference-to-Video 支持首、中、尾帧控制",
-      "title_en": "H3 Max Reference-to-Video now supports first, middle, and last frame control.",
-      "url": "https://x.com/fal/status/2106092410480574785",
-      "permalink": "https://aihot.news/items/kloevf1ummpfn603l171olila",
-      "source": "X：fal (@fal)",
-      "publishedAt": "2026-10-02T18:42:14.000Z",
-      "discoveredAt": "2026-10-02T19:06:19.248Z",
-      "summary": "fal 宣布 H3 Max Reference-to-Video 现已支持首帧、中间帧和尾帧控制。用户可设置关键帧、选择中间帧出现的时机，并添加图像或视频参考来引导场景，从而控制镜头如何开始、展开和结束。",
+      "id": "tc8b432mqs4ibbdsczfq46kji",
+      "title": "Cursor 支持替换系统提示词为自定义内容",
+      "title_en": "You can also replace Cursor's system prompt with your own. Rules, skills, and tool schemas still load.",
+      "url": "https://x.com/cursor_ai/status/2107141054071968154",
+      "permalink": "https://aihot.news/items/tc8b432mqs4ibbdsczfq46kji",
+      "source": "X：Cursor (@cursor_ai)",
+      "publishedAt": "2026-10-05T16:09:10.000Z",
+      "discoveredAt": "2026-10-05T16:17:28.042Z",
+      "summary": "Cursor 宣布支持将 Cursor 的系统提示词替换为用户自己的内容，Rules、技能和工具 schema 仍会正常加载。该功能正按账号逐步开放，配图示例展示了通过 Agent.create 传入自定义 systemPrompt 和 composer-2.5 模型的用法。",
       "category": "ai-products",
-      "score": 52,
+      "score": 54,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/kloevf1ummpfn603l171olila"
+        "canonical": "https://aihot.news/items/tc8b432mqs4ibbdsczfq46kji"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
       "tags": [
-        "视频",
-        "图像"
+        "配图",
+        "提示词",
+        "prompt",
+        "agent"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "j63bv55ekjuzm99ybf2hx8kem",
-      "title": "xAI 发布实验性 TypeScript SDK，统一支持文本、语音、图像与视频",
-      "title_en": "Use the new TypeScript SDK for image, video, voice, and text AI",
-      "url": "https://x.com/milichab/status/2106091153598947787",
-      "permalink": "https://aihot.news/items/j63bv55ekjuzm99ybf2hx8kem",
-      "source": "X：Andrew Milich (@milichab)",
-      "publishedAt": "2026-10-02T18:37:14.000Z",
-      "discoveredAt": "2026-10-02T19:06:21.652Z",
-      "summary": "xAI 发布实验性 TypeScript SDK，可通过 npm install @xai-official/sdk 安装，在一个 SDK 内调用最新 Grok 模型获取文本、语音、图像和视频。SDK 还提供运行在其服务器上的工具，包括实时 X 搜索、网页搜索、代码执行和远程 MCP。",
+      "id": "y7lmsjluh6xs3zsysr0s9sy1i",
+      "title": "ContextQa 发布 Ship：自动测试已部署 PR 并把修复线索交给 Claude 或 Codex",
+      "title_en": "Generating a PR with an agent is cheap now. Checking that it didn't break a user flow still takes a person and a browser.",
+      "url": "https://x.com/rohanpaul_ai/status/2107123033014170017",
+      "permalink": "https://aihot.news/items/y7lmsjluh6xs3zsysr0s9sy1i",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-10-05T14:57:34.000Z",
+      "discoveredAt": "2026-10-05T15:15:28.146Z",
+      "summary": "ContextQa 发布 Ship，一款定位为自动化 QA 工程师的 AI 智能体。它会读取 PR，判断改动影响哪些用户流程并对已部署应用执行这些流程；还能复现 Slack 或 Linear 中报告的 bug，找出可能原因，把证据交给开发者或 Claude、Codex 等编码智能体修复。",
       "category": "ai-products",
-      "score": 55,
+      "score": 50,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/j63bv55ekjuzm99ybf2hx8kem"
+        "canonical": "https://aihot.news/items/y7lmsjluh6xs3zsysr0s9sy1i"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
       "tags": [
-        "视频",
-        "图像",
-        "mcp"
+        "自动化",
+        "codex",
+        "agent",
+        "智能体"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "tm0edboqbfqfrbk1oz6hr6zu0",
-      "title": "xAI 发布实验性 TypeScript SDK",
-      "title_en": "we're releasing an experimental @SpaceXAI typescript sdk!",
-      "url": "https://x.com/ericzakariasson/status/2106090512210088361",
-      "permalink": "https://aihot.news/items/tm0edboqbfqfrbk1oz6hr6zu0",
-      "source": "X：Eric Zakariasson (@ericzakariasson)",
-      "publishedAt": "2026-10-02T18:34:42.000Z",
-      "discoveredAt": "2026-10-02T18:35:23.820Z",
-      "summary": "我们正在发布一个实验性的 @SpaceXAI typescript sdk！\n\nnpm install @xai-official/sdk\n\n在一个 sdk 中获取文本、语音、图像和视频，搭载最新的 grok 模型\n\n以及在我们服务器上运行的工具，如实时 X 搜索、网页搜索、代码执行和远程 mcp",
-      "category": "ai-products",
-      "score": 38,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/tm0edboqbfqfrbk1oz6hr6zu0"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "视频",
-        "图像",
-        "mcp"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "f4aytc0pbwm9kie86h0u10zqs",
@@ -1046,57 +993,119 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "q9aih7t0iw50b903zseojiwug",
-      "title": "可灵 4.0 与 4.0 Flash 创作展示",
-      "title_en": "New imagination. New stories. New ways to create.",
-      "url": "https://x.com/Kling_ai/status/2106383772321271908",
-      "permalink": "https://aihot.news/items/q9aih7t0iw50b903zseojiwug",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "publishedAt": "2026-10-03T14:00:00.000Z",
-      "discoveredAt": "2026-10-03T14:04:37.511Z",
-      "summary": "新的想象。新的故事。新的创作方式。\n看看创作者们用 Kling 4.0 和 Kling 4.0 Flash 创作了什么。#Kling4 #klingai",
+      "id": "xr0zpt74n0txugogug49scx4m",
+      "title": "Together AI 发布免费 CLI 工具 Together Link，可在 Claude Code、Codex 和 OpenCode 中运行 Kimi K3、GLM 5.3 等开源模型",
+      "title_en": "Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode",
+      "url": "https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/",
+      "permalink": "https://aihot.news/items/xr0zpt74n0txugogug49scx4m",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-10-05T22:51:05.000Z",
+      "discoveredAt": "2026-10-06T00:45:38.131Z",
+      "summary": "Together AI 发布免费 MIT 许可的 CLI 工具 Together Link（beta），一条命令即可将 Claude Code、Codex、OpenCode 等 6 个编码智能体接入 Together AI 托管的开源模型。",
       "category": "ai-products",
-      "score": 32,
+      "score": 73,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/q9aih7t0iw50b903zseojiwug"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "可灵"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "luziee3q9gvgyq8y0sn7ti82t",
-      "title": "Redis 作者推出 ds4 本地推理引擎，可跑 DeepSeek V4、GLM 5.x 和 Qwen3.8",
-      "title_en": "From the creator of Redis; run LLM locally with ds4",
-      "url": "https://dwarfstar.sh/",
-      "permalink": "https://aihot.news/items/luziee3q9gvgyq8y0sn7ti82t",
-      "source": "Hacker News：AI 热帖",
-      "publishedAt": "2026-10-02T18:01:16.000Z",
-      "discoveredAt": "2026-10-02T20:57:23.184Z",
-      "summary": "ds4 是一个面向高内存 Mac、CUDA 和 ROCm 机器的窄口径 C 语言推理引擎，采用 MIT 许可证开源，支持 DeepSeek V4/V4.1 Flash、GLM 5.x 和 Qwen3.8 Flash Next 的文本与视觉模型。",
-      "category": "ai-products",
-      "score": 64,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/luziee3q9gvgyq8y0sn7ti82t"
+        "canonical": "https://aihot.news/items/xr0zpt74n0txugogug49scx4m"
       },
       "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
       "tags": [
-        "视觉",
-        "creator"
+        "codex",
+        "claude code",
+        "智能体"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "qbwmal67pa7cx2c3jlu6amsv9",
+      "title": "MCP 智能体通信协议曝结构性缺陷，Google 等五机构确认相关漏洞",
+      "title_en": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "permalink": "https://aihot.news/items/qbwmal67pa7cx2c3jlu6amsv9",
+      "source": "Ars Technica：AI（RSS）",
+      "publishedAt": "2026-10-05T22:26:35.000Z",
+      "discoveredAt": "2026-10-05T22:37:37.454Z",
+      "summary": "独立研究员 Syed Anas Mohiuddin 的概念验证攻击利用 MCP 的信任缺口，可让被攻击的网络内一个智能体向其他内部智能体传播恶意指令。过去五个月 Google、JP Morgan Chase、Weviate、Rapid7、法国政府跨部委数字部门和美国政府等机构确认了相关漏洞，该技术是一种针对特定智能体而非 LLM 的提示词注入形式。",
+      "category": "paper",
+      "score": 59,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/qbwmal67pa7cx2c3jlu6amsv9"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "提示词",
+        "agent",
+        "智能体",
+        "mcp"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "lrm1c1lv9iq5pw09chfvdyb5h",
+      "title": "Eon 推出 Era 平台，生成完整模拟企业用于测试 Agent",
+      "title_en": "Pay attention to this if you are building with agents.",
+      "url": "https://x.com/omarsar0/status/2107144368326934732",
+      "permalink": "https://aihot.news/items/lrm1c1lv9iq5pw09chfvdyb5h",
+      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+      "publishedAt": "2026-10-05T16:22:20.000Z",
+      "discoveredAt": "2026-10-05T16:48:25.605Z",
+      "summary": "OfirEhrlich 团队发布 Era，可生成一个跨 Salesforce、Slack、Jira、Zendesk、Gong、Deel 等系统 behaving 像真实公司的完整模拟企业，含云数据库和存储，Agent 通过 MCP 和 API 接口交互。环境包含员工离职、交易变化、重复记录、跨系统权限差异等情形，并因公司由 Era 生成而掌握精确 ground truth；每个系统还原真实供应商行为直至 rate limits、分页和错误码，可重置后在改动模型或提示词后重跑相同任务，用失败数据做定向 post-training。Elvis Saravia 转发并评论称，模拟企业对改进 agentic 产品很重要，因为好的 Agent 评估需要行为贴近真实公司的环境。",
+      "category": "ai-products",
+      "score": 62,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/lrm1c1lv9iq5pw09chfvdyb5h"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "交互",
+        "提示词",
+        "agent",
+        "mcp"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "fn9cm555wxvkocchadxd2m60u",
+      "title": "Eon 推出 Era：生成模拟企业环境用于测试 Agent",
+      "title_en": "Enterprise agents usually get tested against mocks, narrow synthetic datasets or production, and each of those hides something different.",
+      "url": "https://x.com/rohanpaul_ai/status/2107140507755548858",
+      "permalink": "https://aihot.news/items/fn9cm555wxvkocchadxd2m60u",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-10-05T16:07:00.000Z",
+      "discoveredAt": "2026-10-05T16:17:29.424Z",
+      "summary": "Eon 发布 Era，免费开放，可按描述生成完整模拟企业，将数据写入 Salesforce、Slack、Jira、Zendesk、Gong 等系统，Agent 通过兼容厂商的 MCP 和 REST 接口与之交互。由于每条记录均由 Era 生成，答案可由代码精确计算，评分无需人工或模型判断；开发者可重置公司、更换模型或提示词后重跑相同任务，以衡量对早期失败做后训练的效果。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/fn9cm555wxvkocchadxd2m60u"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "交互",
+        "提示词",
+        "agent",
+        "mcp"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "us0h8sxrn0z0pgho2jnnkpvio",
@@ -1155,30 +1164,84 @@
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
-      "id": "u0mv7wqrnxw9gtx01skjm2f0n",
-      "title": "Harness 即公司：SaaS 企业将把组织重构为模型的外层工具",
-      "title_en": "每一家SaaS企业都将围绕某种模式构建自身体系",
-      "url": "https://blog.sshh.io/p/the-harness-is-the-company",
-      "permalink": "https://aihot.news/items/u0mv7wqrnxw9gtx01skjm2f0n",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-10-03T02:28:55.062Z",
-      "discoveredAt": "2026-10-03T02:33:39.920Z",
-      "summary": "作者提出每一家 SaaS 公司最终都会变成围绕无状态大语言模型的 harness，即所有基础设施、界面、上下文和状态的总和。文章给出从工程师与 Agent 结对到 harness 编排个人的五阶段演进路径，认为公司应自研顶层 harness、把厂商产品嵌入具体工作流，人只负责在关键节点提供品味和审查。",
+      "id": "c5ahxy6lyw97qmp9u1oy7ow35",
+      "title": "Perplexity CEO：单个重度用户算力消耗堪比小团队",
+      "title_en": "Aravind Srinivas (CEO Perplexity): how a single power user can now consume as much compute as an entire small team.",
+      "url": "https://x.com/rohanpaul_ai/status/2107290714543681889",
+      "permalink": "https://aihot.news/items/c5ahxy6lyw97qmp9u1oy7ow35",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-10-06T02:03:52.000Z",
+      "discoveredAt": "2026-10-06T02:24:40.270Z",
+      "summary": "Perplexity CEO Aravind Srinivas 指出，Meta 等公司已有工程师每年在编程工具上花费约 1000 万美元，Perplexity Computer 上有用户每月花费超 1 万美元，靠智能体循环驱动业务运转。他认为智能体 AI 改变了旧软件\"十亿人做小动作\"的逻辑，一个熟练操作者就能创造全天候运行的机器工作流。",
       "category": "tip",
-      "score": 61,
+      "score": 48,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/u0mv7wqrnxw9gtx01skjm2f0n"
+        "canonical": "https://aihot.news/items/c5ahxy6lyw97qmp9u1oy7ow35"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "工作流",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "hlednt6to5y6quytkj6vjnlb1",
+      "title": "Replit 上线 TikTok Ads MCP",
+      "title_en": "You create it. Help your next users discover it.",
+      "url": "https://x.com/Replit/status/2107135104489505136",
+      "permalink": "https://aihot.news/items/hlednt6to5y6quytkj6vjnlb1",
+      "source": "X：Replit (@Replit)",
+      "publishedAt": "2026-10-05T15:45:32.000Z",
+      "discoveredAt": "2026-10-05T15:46:28.232Z",
+      "summary": "你创造它。帮你的下一批用户发现它。\n\nTikTok Ads MCP 现已在 Replit 上线，把广告工作流带入你创作的工作空间。\n\n连接你的 TikTok Ads 账户试试：https://replit.com/integrations?q=tiktok%20ads",
+      "category": "ai-products",
+      "score": 23,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/hlednt6to5y6quytkj6vjnlb1"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "工作流",
+        "广告",
+        "mcp"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "rgs4pl6qr2rml21t5j9ylmsfq",
+      "title": "Stratechery：Mac Mini 被黑经历与苹果和黑客的未来",
+      "title_en": "苹果与黑客的未来",
+      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+      "permalink": "https://aihot.news/items/rgs4pl6qr2rml21t5j9ylmsfq",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-10-05T13:51:05.029Z",
+      "discoveredAt": "2026-10-05T15:10:26.932Z",
+      "summary": "作者/Ben Thompson 讲述其专门运行 Claude Code 和 Codex 的常开 Mac Mini 因 macOS 屏幕共享漏洞 CVE-2026-65400（CVSS 7.1）被植入 Monero 矿机。",
+      "category": "tip",
+      "score": 67,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/rgs4pl6qr2rml21t5j9ylmsfq"
       },
       "sourceType": "网站",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
+      "relevanceScore": 6,
+      "editorialScore": 7,
       "tags": [
-        "界面",
-        "工作流",
-        "agent"
+        "codex",
+        "claude code"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -1206,61 +1269,6 @@
       "tags": [
         "提示词",
         "agent"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "o01b14l3xuubf5606s0jlspc4",
-      "title": "Meta 发布 RankEvolve 多智能体自动研究框架",
-      "title_en": "Must-read paper from Meta on reliable auto-research agents.",
-      "url": "https://x.com/dair_ai/status/2106529236676976773",
-      "permalink": "https://aihot.news/items/o01b14l3xuubf5606s0jlspc4",
-      "source": "X：DAIR.AI (@dair_ai)",
-      "publishedAt": "2026-10-03T23:38:02.000Z",
-      "discoveredAt": "2026-10-03T23:47:27.256Z",
-      "summary": "Meta 提出 RankEvolve，通过编译协议约束各研究阶段与门控，让 Claude Code 和 Codex 作为独立节点互相审查修复改动。在同等预算下，双产品组合将执行准确率从单一最佳产品的 45.8% 提升至 62.5%。在开源 HSTU 推荐模型上迭代 12 次，MovieLens-20M 的 NDCG@10 较已发表结果提升 4.48%。",
-      "category": "paper",
-      "score": 40,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/o01b14l3xuubf5606s0jlspc4"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "codex",
-        "claude code",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "uyi42f5hdks8sx4qs0n1upa23",
-      "title": "Databricks Genie One 如何用 Genie Ontology 守护买方 NAV 与费率",
-      "title_en": "In Capital Markets, the Buy Side Runs on NAV. Finance Protects the Fee.",
-      "url": "https://www.databricks.com/blog/capital-markets-buy-side-runs-nav-finance-protects-fee",
-      "permalink": "https://aihot.news/items/uyi42f5hdks8sx4qs0n1upa23",
-      "source": "Databricks：Blog（RSS）",
-      "publishedAt": "2026-10-02T17:40:26.000Z",
-      "discoveredAt": "2026-10-02T18:38:21.193Z",
-      "summary": "Databricks 推出数据智能 AI 同事 Genie One，基于 Genie Ontology 为买方资管财务提供可溯源答案，其底层 Genie Agents 可通宵摄取托管文件、对账持仓并生成初版 NAV。BCG 2026 年全球资管研究估计，智能体工作流可将投资运营产能提升 55% 至 65%、运营成本降低约 40%。",
-      "category": "ai-products",
-      "score": 23,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/uyi42f5hdks8sx4qs0n1upa23"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "工作流",
-        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     }
