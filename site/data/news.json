@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-07T05:59:55.072Z",
-  "previousGeneratedAt": "2026-10-06T18:22:10.914Z",
+  "generatedAt": "2026-10-07T13:23:33.062Z",
+  "previousGeneratedAt": "2026-10-07T05:59:55.072Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 58,
+  "itemCount": 51,
   "sourceCounts": {
     "X": 24,
-    "网站": 32,
+    "网站": 25,
     "公众号": 2
   },
   "source": {
@@ -357,62 +357,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "jwsa575ncbtwxfhuglu0xs8j5",
-      "title": "视频世界模型的物理一致性大考：World Models' Last Exam in Physics 基准发布",
-      "title_en": "World Models' Last Exam in Physics",
-      "url": "https://arxiv.org/abs/2610.08791",
-      "permalink": "https://aihot.news/items/jwsa575ncbtwxfhuglu0xs8j5",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-10-06T00:00:00.000Z",
-      "discoveredAt": "2026-10-07T02:49:40.017Z",
-      "summary": "研究者推出 World Models' Last Exam in Physics，一个基于测量的视频世界模型物理一致性基准，涵盖力学、光学、流体、热学与相变、电磁学、表面张力共 40 项受控任务。在 8 个视频生成模型、1280 段视频上的测试显示物理不一致普遍存在，最佳模型总分仅 57.76/100。该评测器与人类判断的一致性高于直接使用视觉语言模型基线。",
-      "category": "paper",
-      "score": 43,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/jwsa575ncbtwxfhuglu0xs8j5"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 15,
-      "editorialScore": 18,
-      "tags": [
-        "视频生成",
-        "视觉",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "nx6w214bxn5alc3w9j9m0oqju",
-      "title": "从单张图像构建罗马：Trellis 2 改造实现室内外场景生成",
-      "title_en": "Building Rome from a Single Image",
-      "url": "https://arxiv.org/abs/2610.08790",
-      "permalink": "https://aihot.news/items/nx6w214bxn5alc3w9j9m0oqju",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-10-06T00:00:00.000Z",
-      "discoveredAt": "2026-10-07T02:49:40.028Z",
-      "summary": "研究者改造以物体为中心的 3D 生成器 Trellis 2，使其能从单张图像生成完整的室内外 3D 场景网格。方法通过按相机距离自适应分块、显式建模 2D-3D 对应关系（区分自由空间、已观测表面与未观测区域），并合成约 4,000 个户外场景扩充训练数据。在 Tanks and Temples、ScanNet++ 及真实图像上，该方法在几何精度和感知质量上均超越所有基线。",
-      "category": "paper",
-      "score": 41,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/nx6w214bxn5alc3w9j9m0oqju"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 14,
-      "editorialScore": 17,
-      "tags": [
-        "图像生成",
-        "图像",
-        "3d"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "ths9217jqpzp58rujfl7s8w50",
       "title": "banana2.1 发布，AI 图像模型美学与精确性分流",
       "title_en": "今天banana2.1出来了，正好聊聊目前的AI图像模型。",
@@ -522,28 +466,30 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "wbeqbekyr41cuzcjye1ty160g",
-      "title": "Nieman Lab调查：ChatGPT生成伪造《纽约客》漫画并署上真实漫画家签名",
-      "title_en": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
-      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-      "permalink": "https://aihot.news/items/wbeqbekyr41cuzcjye1ty160g",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-10-06T00:19:39.500Z",
-      "discoveredAt": "2026-10-06T00:38:37.377Z",
-      "summary": "Nieman Lab记者调查发现，ChatGPT生成《纽约客》风格漫画时会署上真实漫画家的签名，作者记录了超过15位漫画家的签名被OpenAI图像生成器未经许可使用，包括Brendan Loper、Emily Flake、Pat Byrnes等人。",
-      "category": "industry",
-      "score": 71,
+      "id": "dcymiopcki3e1q9abwby5vbss",
+      "title": "豆包登陆华为鸿蒙电脑端，首版本搭载豆包 2.1 Turbo / Pro 模型",
+      "title_en": "豆包登陆华为鸿蒙电脑端，首版本搭载 2.1 Turbo / Pro 模型",
+      "url": "https://www.ithome.com/1/010/280.htm",
+      "permalink": "https://aihot.news/items/dcymiopcki3e1q9abwby5vbss",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-10-07T12:15:41.000Z",
+      "discoveredAt": "2026-10-07T12:29:08.314Z",
+      "summary": "豆包 App 已正式登陆华为鸿蒙电脑端，用户可在应用市场直接搜索下载，首版本搭载豆包 2.1 Turbo 和豆包 2.1 Pro 模型，支持对话与工作随心切换。该版本上线深入研究、PPT 生成、帮我写作、图像生成、云盘等核心能力，覆盖工作、学术研究、资料管理、自动化任务、创意设计等场景。华为官方透露，豆包位列鸿蒙电脑用户心愿单 TOP1。",
+      "category": "ai-products",
+      "score": 34,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/wbeqbekyr41cuzcjye1ty160g"
+        "canonical": "https://aihot.news/items/dcymiopcki3e1q9abwby5vbss"
       },
       "sourceType": "网站",
       "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
+      "relevanceScore": 11,
+      "editorialScore": 14,
       "tags": [
         "图像生成",
+        "设计",
+        "创意",
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
@@ -659,6 +605,32 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "q34oa3h3o4mrtn51xbdce88pc",
+      "title": "OpenAI 的 verifier scaling 为何体验最差",
+      "title_en": "LLMs 有很多可以 scale 的维度。",
+      "url": "https://x.com/dongxi_nlp/status/2107755327211164093",
+      "permalink": "https://aihot.news/items/q34oa3h3o4mrtn51xbdce88pc",
+      "source": "X：马东锡 NLP (@dongxi_nlp)",
+      "publishedAt": "2026-10-07T08:50:04.000Z",
+      "discoveredAt": "2026-10-07T09:00:35.768Z",
+      "summary": "LLMs 有很多可以 scale 的维度。\n\n但 OpenAI 最近的拉垮告诉我们，verifier scaling 目前看来是最无聊，最慢，用户体验感最差的一种 scale 方式。",
+      "category": "tip",
+      "score": 28,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/q34oa3h3o4mrtn51xbdce88pc"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "用户体验"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "vwkryduerbn08tw08m1rpmvug",
       "title": "Perplexity 推出工程设计服务",
       "title_en": "Engineering Design as a service",
@@ -713,6 +685,58 @@
         "agent"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "ex4fc1pc59fklh593dvsypwwf",
+      "title": "SpaceX 将按任务选用最佳后端模型",
+      "title_en": "This is great news.",
+      "url": "https://x.com/rohanpaul_ai/status/2107767546472759742",
+      "permalink": "https://aihot.news/items/ex4fc1pc59fklh593dvsypwwf",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-10-07T09:38:38.000Z",
+      "discoveredAt": "2026-10-07T09:49:36.507Z",
+      "summary": "好消息。\n\nClaude Opus 5.5、MidJourney、Suno 上线 Grok @bot\n\n关于 Grok @Bot 的重要说明：\n\n今后，@SpaceX 将针对每项任务选用最佳后端模型，包括 Claude Opus 5.5、MidJourney、Suno 及其他领先 API。\n\n一切以最有可能带来最佳结果为标准。",
+      "category": "industry",
+      "score": 35,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/ex4fc1pc59fklh593dvsypwwf"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 9,
+      "editorialScore": 12,
+      "tags": [
+        "midjourney"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "n4k46z7om6jpr0mqvpr7picv6",
+      "title": "Grok Bot 后端模型策略调整",
+      "title_en": "Important note regarding Grok @Bot:",
+      "url": "https://x.com/elonmusk/status/2107724314451878104",
+      "permalink": "https://aihot.news/items/n4k46z7om6jpr0mqvpr7picv6",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "publishedAt": "2026-10-07T06:46:50.000Z",
+      "discoveredAt": "2026-10-07T07:43:34.409Z",
+      "summary": "关于 Grok @Bot 的重要说明：\n\n今后，@SpaceX 将针对任何给定任务使用最佳后端模型，包括 Claude Opus 5.5、MidJourney、Suno 及其他领先 API。\n\n一切以最有可能为你带来最佳结果为准则。",
+      "category": "industry",
+      "score": 39,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/n4k46z7om6jpr0mqvpr7picv6"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 9,
+      "editorialScore": 12,
+      "tags": [
+        "midjourney"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "d3qx5y4tlypar1un5jyy33xe6",
@@ -935,60 +959,6 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "gw7b2qyihal993ubjurr9fl38",
-      "title": "Google Earth AI 用智能体自动构建疾病预测模型",
-      "title_en": "Google Earth AI can bridge critical gaps across diverse geographies, diseases, and areas of public health using autonomous predictions an...",
-      "url": "https://x.com/Google/status/2107578318752993311",
-      "permalink": "https://aihot.news/items/gw7b2qyihal993ubjurr9fl38",
-      "source": "X：Google (@Google)",
-      "publishedAt": "2026-10-06T21:06:42.000Z",
-      "discoveredAt": "2026-10-06T21:07:33.186Z",
-      "summary": "Google Earth AI 结合 AlphaEarth Foundations、人口动态基础模型（PDFM）与原型 Geospatial Reasoning 智能体，可自动调用相关模型和数据集，为研究人员构建疾病传播预测模型。研究人员只需提问疾病下一步可能在哪里扩散，系统即整合环境信号与人口数据给出预测。该工具通过卫星影像与人口模式结合，揭示隐藏风险因素，帮助更早发现问题。",
-      "category": "ai-products",
-      "score": 38,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/gw7b2qyihal993ubjurr9fl38"
-      },
-      "sourceType": "X",
-      "designCategory": "设计工具",
-      "relevanceScore": 6,
-      "editorialScore": 11,
-      "tags": [
-        "原型",
-        "智能体"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "b1gfmjtu01an085xjzd4oflo0",
-      "title": "Google 发布端侧多模态嵌入模型 EmbeddingGemma 2，采用 Apache 2.0 开源",
-      "title_en": "Google dropped EmbeddingGemma 2 for on-device multimodal AI, under an Apache 2.0 license",
-      "url": "https://x.com/rohanpaul_ai/status/2107578087726895515",
-      "permalink": "https://aihot.news/items/b1gfmjtu01an085xjzd4oflo0",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-10-06T21:05:47.000Z",
-      "discoveredAt": "2026-10-06T21:26:31.661Z",
-      "summary": "Google 发布 EmbeddingGemma 2，是其首个原生多模态开放嵌入模型，将文本、代码、图像、音频和视频统一到一个共享空间，采用 Apache 2.0 许可证。",
-      "category": "ai-models",
-      "score": 67,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/b1gfmjtu01an085xjzd4oflo0"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "g1k2ragppm8j4apj75qu1k4ug",
       "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
       "title_en": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
@@ -1070,33 +1040,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "gsjfd4ct0w6lgowj8ajup0uch",
-      "title": "Google 发布 EmbeddingGemma 2：基于 Gemma 4 的原生多模态嵌入模型，Apache 2.0 开源",
-      "title_en": "EmbeddingGemma 2 is out! Our first native multimodal embeddings built on Gemma 4 under Apache 2.0. 🤗 Embeds 100+ languages, code, images...",
-      "url": "https://x.com/_philschmid/status/2107539841101758856",
-      "permalink": "https://aihot.news/items/gsjfd4ct0w6lgowj8ajup0uch",
-      "source": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
-      "publishedAt": "2026-10-06T18:33:48.000Z",
-      "discoveredAt": "2026-10-06T18:51:32.169Z",
-      "summary": "Philipp Schmid 宣布 EmbeddingGemma 2 发布，是首个基于 Gemma 4 构建的原生多模态嵌入模型，采用 Apache 2.0 许可证，可将 100+ 语言、代码、图像、音频和视频嵌入同一向量。提供 740M omni、440M text+vision、570M text+audio 和 270M text-only 四个版本，支持 8,192 上下文，MTEB Code 提升 14%，支持 768d/512d/256d/128d Matryoshka 嵌入，已在 Sentence Transformers 和 LiteRT-LM 提供，地址 https://huggingface.co/google/embeddinggemma-2。",
-      "category": "ai-models",
-      "score": 62,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/gsjfd4ct0w6lgowj8ajup0uch"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "arxf8p2iryt7dsp5tyb74o85m",
       "title": "Vibecoding 没有手动编写代码那么有趣",
       "title_en": null,
@@ -1121,62 +1064,6 @@
         "原型"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "vi69zc29x4gxnpwnqurrsms5y",
-      "title": "Attacca：面向长时程具身智能体的状态连续性目标导向控制",
-      "title_en": "Attacca: Goal-Directed Control under State Continuity for Long-Horizon Embodied Agents",
-      "url": "https://arxiv.org/abs/2610.07785",
-      "permalink": "https://aihot.news/items/vi69zc29x4gxnpwnqurrsms5y",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-10-06T00:00:00.000Z",
-      "discoveredAt": "2026-10-07T03:39:41.255Z",
-      "summary": "针对长时程具身任务中目标常不在视野内、状态连续变化的问题，研究者提出 Attacca，用与执行环境解耦的目标图像在完整\"搜索到交互\"轨迹上训练视觉目标条件策略。该方法在 Minecraft 多项短时程与长时程任务上取得 39.0-47.5% 的 clean success，较最强基线提升 1.7-2.4 倍；长时程任务完成率达 54%、30% 和 28%，最高提升 7 倍。",
-      "category": "paper",
-      "score": 36,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/vi69zc29x4gxnpwnqurrsms5y"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视觉",
-        "交互",
-        "图像",
-        "智能体"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "pa9kik9bpq8rv2jrgd40emcze",
-      "title": "Google 发布 EmbeddingGemma 2：基于 Gemma 4 的开源多模态嵌入模型",
-      "title_en": "EmbeddingGemma 2: The Developer Guide",
-      "url": "https://developers.googleblog.com/embeddinggemma-2-the-developer-guide/",
-      "permalink": "https://aihot.news/items/pa9kik9bpq8rv2jrgd40emcze",
-      "source": "Google Developers Blog（RSS）",
-      "publishedAt": "2026-10-06T00:00:00.000Z",
-      "discoveredAt": "2026-10-06T16:20:33.044Z",
-      "summary": "Google 发布基于 Gemma 4 的开源嵌入模型 EmbeddingGemma 2，采用 Apache 2.0 许可，将文本、代码、图像、视频和音频映射到统一的 768 维向量空间，参数量从 270M（文本/代码）到 740M（全模态）按需加载。",
-      "category": "tip",
-      "score": 66,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/pa9kik9bpq8rv2jrgd40emcze"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "md5d5whrcxflneksm4ucpecv9",
@@ -1475,114 +1362,30 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "qd35euj6g9jpln60m02bivgga",
-      "title": "消息称快手旗下可灵 AI 选定投行筹备赴港 IPO，拟募资至少 10 亿美元",
-      "title_en": "消息称快手旗下可灵 AI 已选定投行筹备赴港 IPO，拟募资至少 10 亿美元",
-      "url": "https://www.ithome.com/1/009/964.htm",
-      "permalink": "https://aihot.news/items/qd35euj6g9jpln60m02bivgga",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-10-06T02:41:41.000Z",
-      "discoveredAt": "2026-10-06T02:44:38.031Z",
-      "summary": "据彭博社报道，快手旗下可灵 AI 已选定承销银行筹备赴港 IPO，募资规模至少 10 亿美元，正与中金公司、高盛集团及瑞银集团合作，目标最早明年上市。可灵 AI 今年 7 月完成 28 亿美元融资，投前估值约 150 亿美元，投资方包括阿里巴巴、腾讯和百度；其竞争对手字节跳动 Seedance、生数科技、PixVerse 中后两家也计划在香港 IPO。",
-      "category": "industry",
-      "score": 57,
+      "id": "ytmjg2oyohg3m2pdxsbwy91cn",
+      "title": "开源 ESP32-C3 广告拦截器：用 flash 内哈希表免 PSRAM 拦截 14 万域名",
+      "title_en": "ESP32-C3 广告拦截器",
+      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+      "permalink": "https://aihot.news/items/ytmjg2oyohg3m2pdxsbwy91cn",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-10-07T10:36:58.082Z",
+      "discoveredAt": "2026-10-07T10:52:06.878Z",
+      "summary": "M-Abozaid 开源了一个运行在约 2 美元 ESP32-C3 上的 Pi-hole 风格 DNS 广告拦截器，无需 PSRAM。核心技巧是把域名存为排序的 40 位哈希放进 flash 再二分查找，140,000+ 个域名只占约 0.7 MB flash、约 50 KB RAM，查询约 10 ms；命中则应答 0.0.0.0，未命中转发上游。",
+      "category": "tip",
+      "score": 63,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/qd35euj6g9jpln60m02bivgga"
+        "canonical": "https://aihot.news/items/ytmjg2oyohg3m2pdxsbwy91cn"
       },
       "sourceType": "网站",
-      "designCategory": "图像与视频",
+      "designCategory": "行业观察",
       "relevanceScore": 6,
-      "editorialScore": 9,
+      "editorialScore": 6,
       "tags": [
-        "可灵"
+        "广告"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "p1c87zlxq7w6yltzzol2bf6pb",
-      "title": "Every 推出 Every Agent：Slack 里的智能体同事，token 零加价",
-      "title_en": "Introducing the Every Agent",
-      "url": "https://every.to/on-every/introducing-the-every-agent",
-      "permalink": "https://aihot.news/items/p1c87zlxq7w6yltzzol2bf6pb",
-      "source": "Every：最新文章（网页）",
-      "publishedAt": "2026-10-06T00:00:00.000Z",
-      "discoveredAt": "2026-10-06T16:04:28.814Z",
-      "summary": "Every 发布 Every Agent，一款运行在 Slack 中的智能体同事，用于把 AI 工作流推广到整个公司。用户可委派复杂工作、向团队分享 AI 实验成果，并接收 Frontier Alerts，在新模型或工具发布时获得针对自身工作流的提示。该产品对 token 零加价，用户支付与 Every 相同的价格。",
-      "category": "ai-products",
-      "score": 47,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/p1c87zlxq7w6yltzzol2bf6pb"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "工作流",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "p1dvor08g02v2tsv6lbj2mpsq",
-      "title": "通过推测执行隐藏端侧级联语音智能体中的工具延迟",
-      "title_en": "Hiding Tool Latency in On-Device Cascaded Voice Agent through Speculative Execution",
-      "url": "https://arxiv.org/abs/2610.07641",
-      "permalink": "https://aihot.news/items/p1dvor08g02v2tsv6lbj2mpsq",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-10-06T00:00:00.000Z",
-      "discoveredAt": "2026-10-07T02:24:40.783Z",
-      "summary": "研究者提出面向端侧级联语音智能体的推测性工具执行方案，通过 Predictor 模块从部分 ASR 假设中预测工具调用，在用户说话时提前执行并缓存结果，再注入 LLM 提示词以加快响应。在完整实现的 Android 语音助手上，该方法将首音频响应中位时间从 5.79s 降至 4.60s，标准差从 3.49s 降至 2.81s。",
-      "category": "paper",
-      "score": 45,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/p1dvor08g02v2tsv6lbj2mpsq"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "提示词",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "ouuwqzo01boj95hwc4qn5qe21",
-      "title": "从证据到行动：工具调用智能体为何失败",
-      "title_en": "From Evidence to Action: How Tool-Using Agents Fail",
-      "url": "https://arxiv.org/abs/2610.07753",
-      "permalink": "https://aihot.news/items/ouuwqzo01boj95hwc4qn5qe21",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-10-06T00:00:00.000Z",
-      "discoveredAt": "2026-10-07T05:44:40.974Z",
-      "summary": "研究揭示工具调用智能体在从证据到行动的链条上存在断裂：在十种模型-框架配置中，静态动作判断能力强，但交互式执行明显偏弱。失败常始于执行前，智能体调查不完整或证据未建立就行动；单动作执行通常可靠，多动作工作流则暴露未解决的前置条件和执行不完整问题。为此研究提出 SafeActBench，涵盖六大领域、五种协议的 656 个案例，并用证据账本与轨迹评估器追踪信息建立与依赖满足情况。",
-      "category": "paper",
-      "score": 38,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ouuwqzo01boj95hwc4qn5qe21"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "交互",
-        "工作流",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "ej4yxbegq774tpnho8bwcs6j2",
