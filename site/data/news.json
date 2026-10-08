@@ -1,48 +1,19 @@
 {
-  "generatedAt": "2026-10-08T06:04:25.081Z",
-  "previousGeneratedAt": "2026-10-07T13:23:33.062Z",
+  "generatedAt": "2026-10-08T13:29:34.799Z",
+  "previousGeneratedAt": "2026-10-08T06:04:25.081Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 48,
+  "itemCount": 47,
   "sourceCounts": {
     "X": 24,
-    "网站": 23,
-    "公众号": 1
+    "网站": 21,
+    "公众号": 2
   },
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com"
   },
   "items": [
-    {
-      "id": "xvpvopoz26rgg2y5fggo7vv8f",
-      "title": "Google 发布 Nano Banana 2.1，登入 Arena 三个图像榜单",
-      "title_en": "Nano Banana 2.1 by @Google has landed in the Text-to-Image Arena, Image Edit Arena and Multi-Image Edit Arena! It landed:",
-      "url": "https://x.com/arena/status/2107576893973344578",
-      "permalink": "https://aihot.news/items/xvpvopoz26rgg2y5fggo7vv8f",
-      "source": "X：Arena (@arena)",
-      "publishedAt": "2026-10-06T21:01:03.000Z",
-      "discoveredAt": "2026-10-06T21:25:32.694Z",
-      "summary": "Google 发布图像生成与编辑模型 Nano Banana 2.1，并已进入 Arena 的文生图、图像编辑和多图编辑三个榜单，分别以 1328、1428、1431 分位列第 5、第 6、第 4。相比 Nano Banana 2，文生图提升 80 分、多图编辑提升 67 分、图像编辑提升 38 分；官方称在视觉设计、基于掩码的编辑和主体一致性上有明显进步。",
-      "category": "ai-models",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/xvpvopoz26rgg2y5fggo7vv8f"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 29,
-      "editorialScore": 32,
-      "tags": [
-        "图像生成",
-        "文生图",
-        "生图",
-        "视觉"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
     {
       "id": "gw88w34fuzii3u6kb23y2tafc",
       "title": "OpenAI 插件扩展生态合作方一览",
@@ -182,34 +153,6 @@
         "智能体"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "jk7zj66lo921g6egdi5smtnh8",
-      "title": "fal 上线 Google nano-banana-2.1 文生图与图像编辑模型",
-      "title_en": "Try it here today!",
-      "url": "https://x.com/fal/status/2107584475723145358",
-      "permalink": "https://aihot.news/items/jk7zj66lo921g6egdi5smtnh8",
-      "source": "X：fal (@fal)",
-      "publishedAt": "2026-10-06T21:31:10.000Z",
-      "discoveredAt": "2026-10-06T21:40:32.129Z",
-      "summary": "fal 宣布 Google nano-banana-2.1 模型在其平台开放试用，提供文生图和图像编辑两个入口。模型地址为 https://fal.ai/models/google/nano-banana-2.1，图像编辑入口为 https://fal.ai/models/google/nano-banana-2.1/edit。",
-      "category": "ai-products",
-      "score": 62,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/jk7zj66lo921g6egdi5smtnh8"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 18,
-      "editorialScore": 21,
-      "tags": [
-        "文生图",
-        "生图",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "ah36xjjg7fkkgxsnwnls33r5h",
@@ -435,6 +378,61 @@
         "视觉",
         "设计",
         "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "o6ea2sz1xmakk9x9z445qzybz",
+      "title": "田柯宇创业公司融资近3000万美元",
+      "title_en": "Tian Keyu's unnamed startup has raised nearly $30M from investors including 5Y Capital and IDG at a $200M post-money valuation, Bloomberg...",
+      "url": "https://x.com/thexpin/status/2108134053949915351",
+      "permalink": "https://aihot.news/items/o6ea2sz1xmakk9x9z445qzybz",
+      "source": "X：X.PIN (@thexpin)",
+      "publishedAt": "2026-10-08T09:55:00.000Z",
+      "discoveredAt": "2026-10-08T10:17:31.551Z",
+      "summary": "据彭博社报道，田柯宇（Tian Keyu）的未具名创业公司已从包括五源资本和IDG在内的投资者处融资近3000万美元，投后估值2亿美元。\n\n这位NeurIPS 2024获奖研究者带领一支10人团队，正在开发一个20万符号的视觉词表，以帮助AI处理视频。\n\n田柯宇声称该方法可将视频生成成本至少降低十倍。完整模型计划于2027年发布；公司目前尚无产品。",
+      "category": "industry",
+      "score": 38,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/o6ea2sz1xmakk9x9z445qzybz"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 15,
+      "editorialScore": 18,
+      "tags": [
+        "视频生成",
+        "视觉",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "vj98inkas7c7vvf9oy94n3hn4",
+      "title": "生数科技发布 Vidu Q4 Preview 视频生成模型预览版，支持 3 段参考音频与 2K/4K 输出",
+      "title_en": "Vidu Q4 Preview | 传神视频新旗舰，全场景视频自由",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489335&idx=1&sn=880949d2257914e1830aa6c46762d189",
+      "permalink": "https://aihot.news/items/vj98inkas7c7vvf9oy94n3hn4",
+      "source": "公众号：生数科技（Vidu·视频）",
+      "publishedAt": "2026-10-08T06:16:38.000Z",
+      "discoveredAt": "2026-10-08T06:22:22.309Z",
+      "summary": "生数科技发布全新视频生成旗舰模型 Vidu Q4 的预览版 Vidu Q4 Preview，主打人物演技、镜头语言与特效表现力。新版本最多支持 3 段参考音频和 15 张参考图，支持 2K、4K 输出与 10bit 色深，首发优惠价 0.09 元/秒起，官方称同样预算约 5 倍出片，并从 Day 1 起面向全球创作者开放。",
+      "category": "ai-models",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/vj98inkas7c7vvf9oy94n3hn4"
+      },
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "视频生成",
+        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -852,35 +850,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "hjssvu9wxj2q79w0suk88og2l",
-      "title": "OpenAI Decisions API 开发者用例",
-      "title_en": "Developers have been using the Decisions API to:",
-      "url": "https://x.com/OpenAIDevs/status/2107573387489165530",
-      "permalink": "https://aihot.news/items/hjssvu9wxj2q79w0suk88og2l",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "publishedAt": "2026-10-06T20:47:07.000Z",
-      "discoveredAt": "2026-10-06T20:54:32.897Z",
-      "summary": "开发者一直在用 Decisions API 来：\n\n• 将请求路由到正确的模型、工具或智能体。\n\n• 将规模化输入转化为有用的标签、排名和分数。\n\n• 分析图像、比较视觉内容，或识别关键视频帧。\n\n• 从截图中选择按钮、导航表单或确定操作。\n\n• 标记有风险的工具调用，或识别需要深入审查的问题。\n\n• 对大型数据集进行分类，以发现趋势和模式。",
-      "category": "tip",
-      "score": 23,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/hjssvu9wxj2q79w0suk88og2l"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视觉",
-        "视频",
-        "图像",
-        "智能体"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "jln5xmxzaxgtcvzy3nipg06zg",
       "title": "微软重构 Copilot 图标：升级动态交互语言，可表达思考、规划与检索",
       "title_en": null,
@@ -1039,33 +1008,87 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "dp29768jiyfi9madxw9ad8l5i",
-      "title": "前 Ramp 工程师创办的 Melius 融资 2500 万美元，转型 AI 广告创意生成平台",
-      "title_en": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-      "permalink": "https://aihot.news/items/dp29768jiyfi9madxw9ad8l5i",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-10-06T22:34:03.000Z",
-      "discoveredAt": "2026-10-06T23:18:30.666Z",
-      "summary": "前 Ramp 工程师创立的 Melius 累计融资 2500 万美元，包括 CRV 领投的 2000 万美元 A 轮和 General Catalyst 领投的 500 万美元种子轮。该公司最初做 AI 效果营销工具，六個月后放弃全部代码库，转向生成广告创意素材与营销活动的\"创意工作智能体实验室\"平台，7 月结束隐身以来两个月内年化收入已超 100 万美元。",
+      "id": "n4k46z7om6jpr0mqvpr7picv6",
+      "title": "Grok Bot 后端模型策略调整",
+      "title_en": "Important note regarding Grok @Bot:",
+      "url": "https://x.com/elonmusk/status/2107724314451878104",
+      "permalink": "https://aihot.news/items/n4k46z7om6jpr0mqvpr7picv6",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "publishedAt": "2026-10-07T06:46:50.000Z",
+      "discoveredAt": "2026-10-07T07:43:34.409Z",
+      "summary": "关于 Grok @Bot 的重要说明：\n\n今后，@SpaceX 将针对任何给定任务使用最佳后端模型，包括 Claude Opus 5.5、MidJourney、Suno 及其他领先 API。\n\n一切以最有可能为你带来最佳结果为准则。",
       "category": "industry",
-      "score": 45,
+      "score": 39,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/dp29768jiyfi9madxw9ad8l5i"
+        "canonical": "https://aihot.news/items/n4k46z7om6jpr0mqvpr7picv6"
       },
-      "sourceType": "网站",
-      "designCategory": "行业观察",
-      "relevanceScore": 12,
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 9,
       "editorialScore": 12,
       "tags": [
-        "广告",
-        "创意",
-        "营销",
+        "midjourney"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "d3qx5y4tlypar1un5jyy33xe6",
+      "title": "Nano Banana 2.1 发布，Google Labs 高管称蒙版编辑是当日最爱",
+      "title_en": "Mask-based editing is my favorite from today, much more coming soon!",
+      "url": "https://x.com/joshwoodward/status/2107679061854273656",
+      "permalink": "https://aihot.news/items/d3qx5y4tlypar1un5jyy33xe6",
+      "source": "X：Josh Woodward (@joshwoodward, Google Labs VP)",
+      "publishedAt": "2026-10-07T03:47:01.000Z",
+      "discoveredAt": "2026-10-07T04:01:41.175Z",
+      "summary": "Nano Banana 2.1 发布，官方称在视觉设计、蒙版编辑、主体一致性和更自然的图像观感上超越前代。用户现可在 Gemini App 和 Google AI Studio 等入口使用；Google Labs VP Josh Woodward 表示蒙版编辑是此次更新中他最喜欢的功能，并预告后续还有更多更新。",
+      "category": "ai-models",
+      "score": 62,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/d3qx5y4tlypar1un5jyy33xe6"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 9,
+      "editorialScore": 12,
+      "tags": [
+        "视觉",
+        "设计",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cal34hameqt3bh6d52vaqt58v",
+      "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
+      "title_en": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+      "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/",
+      "permalink": "https://aihot.news/items/cal34hameqt3bh6d52vaqt58v",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-10-08T13:01:01.000Z",
+      "discoveredAt": "2026-10-08T13:27:33.293Z",
+      "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
+      "category": "paper",
+      "score": 80,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cal34hameqt3bh6d52vaqt58v"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 10,
+      "editorialScore": 11,
+      "tags": [
+        "提示词",
+        "prompt",
+        "agent",
         "智能体"
       ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "eipq49s6b49rjs0l81q04bh2m",
@@ -1110,33 +1133,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/awxdwccn6rv3fwdb19acj3xkt"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "nf4p4vrsm3nr9a2fbdxab8ehu",
-      "title": "谷歌发布 EmbeddingGemma 2 多模态嵌入模型：7.4 亿参数，量化后手机端仅需 191MB 内存",
-      "title_en": "谷歌推出 EmbeddingGemma 2：支持多模态、7.4 亿参数量化手机端运行只需 191MB 内存",
-      "url": "https://www.ithome.com/1/010/125.htm",
-      "permalink": "https://aihot.news/items/nf4p4vrsm3nr9a2fbdxab8ehu",
-      "source": "IT之家·人工智能",
-      "publishedAt": "2026-10-06T22:41:19.000Z",
-      "discoveredAt": "2026-10-06T22:56:31.530Z",
-      "summary": "谷歌发布 EmbeddingGemma 2 嵌入模型，基于 Gemma 4 架构，采用 Apache 2.0 许可，总参数 7.4 亿，将能力从文本扩展到代码、图像、视频、音频并统一映射到同一嵌入空间。",
-      "category": "ai-models",
-      "score": 65,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/nf4p4vrsm3nr9a2fbdxab8ehu"
       },
       "sourceType": "网站",
       "designCategory": "图像与视频",
@@ -1226,32 +1222,6 @@
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "okr8eghbxupjpdshccnv18r1r",
-      "title": "LibreOffice 宣布默认版本短期内不内置 AI 功能，用户可通过扩展接入本地模型",
-      "title_en": "LibreOffice：短期内默认版本不内置 AI 功能，用户可通过扩展自行接入本地模型",
-      "url": "https://www.ithome.com/1/010/132.htm",
-      "permalink": "https://aihot.news/items/okr8eghbxupjpdshccnv18r1r",
-      "source": "IT之家·人工智能",
-      "publishedAt": "2026-10-06T23:19:20.000Z",
-      "discoveredAt": "2026-10-06T23:28:31.873Z",
-      "summary": "文档基金会本周在博客文章中表示，LibreOffice 在可预见的未来不会内置 AI 功能，默认安装版本不包含任何形式的人工智能。该机构称这是经过慎重考量的设计定位，目的是确保用户文档不被上传服务器处理；有需求的用户可自行安装扩展插件对接本地 AI 模型。其八月下旬发布的最新版本已重申不含生成式 AI 功能。",
-      "category": "industry",
-      "score": 62,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/okr8eghbxupjpdshccnv18r1r"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "dkvvq7vcc8uozhpx4lvgpggu2",
