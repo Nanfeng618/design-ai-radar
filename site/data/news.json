@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-07T13:23:33.062Z",
-  "previousGeneratedAt": "2026-10-07T05:59:55.072Z",
+  "generatedAt": "2026-10-08T06:04:25.081Z",
+  "previousGeneratedAt": "2026-10-07T13:23:33.062Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 51,
+  "itemCount": 48,
   "sourceCounts": {
     "X": 24,
-    "网站": 25,
-    "公众号": 2
+    "网站": 23,
+    "公众号": 1
   },
   "source": {
     "name": "AI HOT",
@@ -44,62 +44,144 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "ihtcfj27ao1uykqybgr12chao",
-      "title": "Figure 的主动式智能体 Hark Pro 上线 web、iOS 和 Android，原 $100 Pro 方案免费开放",
-      "title_en": "Hark Pro is now available on web, iOS, and Android and a $100 Pro plan is now available for free.",
-      "url": "https://x.com/testingcatalog/status/2107507173177880753",
-      "permalink": "https://aihot.news/items/ihtcfj27ao1uykqybgr12chao",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-10-06T16:24:00.000Z",
-      "discoveredAt": "2026-10-06T16:31:29.395Z",
-      "summary": "Figure 的主动式 AI 智能体 Hark Pro 上线 web、iOS 和 Android，原价 $100 的 Pro 方案现可免费使用，入口为 https://hark.com。产品设有 widgets、chats 和 projects 三个独立界面，作者称赞其 App UI/UX。",
+      "id": "gw88w34fuzii3u6kb23y2tafc",
+      "title": "OpenAI 插件扩展生态合作方一览",
+      "title_en": "See who’s building with plugin extensions: @Adobe, @Canva, @figma, @Shopify, @instacart, @Atlassian, @tldraw and @MagicPathAI.",
+      "url": "https://x.com/OpenAIDevs/status/2107927089928372233",
+      "permalink": "https://aihot.news/items/gw88w34fuzii3u6kb23y2tafc",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "publishedAt": "2026-10-07T20:12:36.000Z",
+      "discoveredAt": "2026-10-07T20:34:24.535Z",
+      "summary": "看看谁在用插件扩展构建：@Adobe、@Canva、@figma、@Shopify、@instacart、@Atlassian、@tldraw 和 @MagicPathAI。",
       "category": "ai-products",
-      "score": 63,
+      "score": 32,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ihtcfj27ao1uykqybgr12chao"
+        "canonical": "https://aihot.news/items/gw88w34fuzii3u6kb23y2tafc"
       },
       "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 24,
-      "editorialScore": 28,
-      "tags": [
-        "ui/ux",
-        "ui",
-        "ux",
-        "界面"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "zucehzlmnnhbr7hqq0b6s823x",
-      "title": "Google 发布图像生成与编辑模型 Nano Banana 2.1",
-      "title_en": "Meet Nano Banana 2.1, our latest image generation and editing model 🍌",
-      "url": "https://x.com/Google/status/2107501209154204148",
-      "permalink": "https://aihot.news/items/zucehzlmnnhbr7hqq0b6s823x",
-      "source": "X：Google (@Google)",
-      "publishedAt": "2026-10-06T16:00:18.000Z",
-      "discoveredAt": "2026-10-06T16:29:27.200Z",
-      "summary": "Google 发布最新图像生成与编辑模型 Nano Banana 2.1。官方称其在各项能力上超越此前模型，视觉设计、基于蒙版的编辑和主体一致性提升尤为明显，可生成更自然的图像。",
-      "category": "ai-models",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/zucehzlmnnhbr7hqq0b6s823x"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 23,
+      "designCategory": "设计工具",
+      "relevanceScore": 21,
       "editorialScore": 26,
       "tags": [
-        "图像生成",
-        "image generation",
-        "视觉",
-        "设计"
+        "figma",
+        "canva",
+        "adobe"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "udclgdr1ttvca4ee75719fm9m",
+      "title": "Artcraft 用 Claude Opus 5.5 打造七款 Adobe 开源替代应用",
+      "title_en": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+      "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+      "permalink": "https://aihot.news/items/udclgdr1ttvca4ee75719fm9m",
+      "source": "Ars Technica：AI（RSS）",
+      "publishedAt": "2026-10-07T21:56:42.000Z",
+      "discoveredAt": "2026-10-07T22:16:25.104Z",
+      "summary": "开发者 Brandon Thomas 借 Anthropic 的 Claude Opus 5.5 以 Rust 重写 Adobe 七款软件的\"净室替代品\"，覆盖 Photoshop、Illustrator、Premiere、Lightroom、After Effects、InDesign 和 Acrobat Pro，并提供可在浏览器运行的 WebAssembly 版本。",
+      "category": "ai-products",
+      "score": 49,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/udclgdr1ttvca4ee75719fm9m"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 20,
+      "editorialScore": 25,
+      "tags": [
+        "photoshop",
+        "illustrator",
+        "adobe"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "xhjv62jpihq62l5cldop6ffo6",
+      "title": "Meta 的 Muse 助手登陆 iPad，移动端上线仅一个月",
+      "title_en": "Meta’s Muse launches on iPad just a month after its mobile debut",
+      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "permalink": "https://aihot.news/items/xhjv62jpihq62l5cldop6ffo6",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-10-07T18:30:57.000Z",
+      "discoveredAt": "2026-10-07T18:48:26.514Z",
+      "summary": "Meta 周三宣布 Muse 助手推出专属 iPad 应用，距其登陆 iPhone 仅一个月。Muse 自 9 月 8 日上线 iOS 和 Android 以来安装量已超 660 万。此次更新新增 Asana、Canva、Dropbox、Figma、GitHub、Zoom 等连接器，并加入 Best Buy、Walmart 等零售合作伙伴。",
+      "category": "ai-products",
+      "score": 45,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/xhjv62jpihq62l5cldop6ffo6"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 16,
+      "editorialScore": 21,
+      "tags": [
+        "figma",
+        "canva"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "uqchutwefikc0spwpq7fswvjh",
+      "title": "Meta 的 AI 智能体 Muse 登陆 iPad",
+      "title_en": "Muse launches on the iPad",
+      "url": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
+      "permalink": "https://aihot.news/items/uqchutwefikc0spwpq7fswvjh",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-10-07T15:37:23.000Z",
+      "discoveredAt": "2026-10-07T16:17:21.278Z",
+      "summary": "Meta 的 AI 智能体 Muse 在 iOS 版上线近一个月后推出更新，新增对 iPad 的原生支持，可更好利用大屏与 iPadOS 多任务能力。此次更新还让 Muse 接入 Canva、Dropbox、Figma、GitHub、Zoom 等工具，并新增 Granola、Notion 连接器，面向小企业主提供自主规划营销与客户提案的能力。",
+      "category": "ai-products",
+      "score": 38,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/uqchutwefikc0spwpq7fswvjh"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 16,
+      "editorialScore": 21,
+      "tags": [
+        "figma",
+        "canva",
+        "营销",
+        "智能体"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "zp50dapxln8y0qw8da1nfvr40",
+      "title": "Meta 为 Muse AI 智能体推出 iPad 版，新增 Canva、GitHub、Zoom 等连接器",
+      "title_en": "适配大屏：Meta 推出 iPad 版 Muse AI 智能体",
+      "url": "https://www.ithome.com/1/010/295.htm",
+      "permalink": "https://aihot.news/items/zp50dapxln8y0qw8da1nfvr40",
+      "source": "IT之家·人工智能",
+      "publishedAt": "2026-10-07T14:58:55.000Z",
+      "discoveredAt": "2026-10-07T15:08:21.141Z",
+      "summary": "Meta 已将 Muse AI 智能体适配 iPad，并新增 Canva、Dropbox、Figma、QuickBooks、GitHub、Klaviyo、Zoom 等连接器。Muse 最早于 9 月登陆 iPhone，随后推出 Mac 版本，过去几周一直位居美国 App Store 免费 iPhone 应用下载榜首位。",
+      "category": "ai-products",
+      "score": 39,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/zp50dapxln8y0qw8da1nfvr40"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 16,
+      "editorialScore": 21,
+      "tags": [
+        "figma",
+        "canva",
+        "智能体"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "jk7zj66lo921g6egdi5smtnh8",
@@ -130,61 +212,202 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "nbkvw5s7lnb057plcl50pubpm",
-      "title": "Sesame 语音助手大版本升级：更富表现力的模型、图像生成、connectors 和 computer use",
-      "title_en": "SESAME 🔥: A huge upgrade arrived for the Sesame voice assistant, along with an updated, more expressive model, image generation, connect...",
-      "url": "https://x.com/testingcatalog/status/2107568598172741974",
-      "permalink": "https://aihot.news/items/nbkvw5s7lnb057plcl50pubpm",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-10-06T20:28:05.000Z",
-      "discoveredAt": "2026-10-06T20:38:32.577Z",
-      "summary": "Sesame 语音助手获得大幅升级，包含更富表现力的更新模型、图像生成、connectors、computer use 等功能。Sesame 现在可以通过语音操作 Devin、Codex、Claude Code 等编码智能体；官方引用内容称语音助手今日向所有人开放，眼镜产品计划 2027 年推出。",
+      "id": "ah36xjjg7fkkgxsnwnls33r5h",
+      "title": "GPT-6 面向超 12 亿 ChatGPT 用户全面推送，带来 Intelligent UI 生成式界面能力",
+      "title_en": "GPT-6 开始面向「每周超过 12 亿 ChatGPT 用户」全面推送，还带来了全新的「Intelligent UI」能力",
+      "url": "https://x.com/shao__meng/status/2108020232183029778",
+      "permalink": "https://aihot.news/items/ah36xjjg7fkkgxsnwnls33r5h",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-10-08T02:22:43.000Z",
+      "discoveredAt": "2026-10-08T02:33:26.526Z",
+      "summary": "GPT-6 开始面向每周超过 12 亿 ChatGPT 用户全面推送，带来全新的 Intelligent UI 能力，回复可包含图形、按钮、表单、图表和可交互工具。技术上分为原生可流式组件库和渐进式渲染的界面编译器两层，训练时按清晰度、有用性、完整性评估生成的界面。文中对比演示显示，同一烤羊腿问题 GPT-5.6 给出纯文本，GPT-6 给出带人数调节器和可勾选时间线的完整界面。",
       "category": "ai-products",
-      "score": 59,
+      "score": 85,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/nbkvw5s7lnb057plcl50pubpm"
+        "canonical": "https://aihot.news/items/ah36xjjg7fkkgxsnwnls33r5h"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 18,
-      "editorialScore": 21,
+      "designCategory": "产品与体验",
+      "relevanceScore": 15,
+      "editorialScore": 19,
       "tags": [
-        "图像生成",
-        "image generation",
-        "图像",
-        "codex"
+        "ui",
+        "界面",
+        "交互"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "kjizaiz70p7e4x5wjsg8qnfer",
-      "title": "fal 上线 Google Nano Banana 2.1 文生图与图像编辑模型",
-      "title_en": "Try it here today!",
-      "url": "https://x.com/fal/status/2107502774728409378",
-      "permalink": "https://aihot.news/items/kjizaiz70p7e4x5wjsg8qnfer",
-      "source": "X：fal (@fal)",
-      "publishedAt": "2026-10-06T16:06:31.000Z",
-      "discoveredAt": "2026-10-06T16:31:29.652Z",
-      "summary": "fal 宣布 Google Nano Banana 2.1 已可在其平台试用。提供 Text-to-Image 和 Image Editing 两个入口，链接为 https://fal.ai/models/google/nano-banana-2.1 和 https://fal.ai/models/google/nano-banana-2.1/edit。",
+      "id": "rrjbk0j27vv6eaki3go2anwn2",
+      "title": "OpenAI 向所有用户推出 ChatGPT Intelligent UI 界面功能",
+      "title_en": "OpenAI is redesigning ChatGPT replies around tappable buttons, editable graphs and calculators built for a single question, through a fea...",
+      "url": "https://x.com/rohanpaul_ai/status/2107942819881185733",
+      "permalink": "https://aihot.news/items/rrjbk0j27vv6eaki3go2anwn2",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-10-07T21:15:06.000Z",
+      "discoveredAt": "2026-10-07T21:23:23.914Z",
+      "summary": "OpenAI 在 ChatGPT 中向所有人推出 Intelligent UI，将回复重构为可点击按钮、可编辑图表和单问题计算器等交互组件。其实现依赖预制界面组件库、随答案流式显示的编译器，并由 GPT-6 选择布局或在合适时用纯文本；GPT-6 Instant 网络搜索答案比 GPT-5.6 Instant 提前 44% 开始输出，觉得视觉元素过多的用户也可像个性设置一样调低。",
       "category": "ai-products",
-      "score": 52,
+      "score": 81,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/kjizaiz70p7e4x5wjsg8qnfer"
+        "canonical": "https://aihot.news/items/rrjbk0j27vv6eaki3go2anwn2"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 17,
-      "editorialScore": 20,
+      "designCategory": "产品与体验",
+      "relevanceScore": 15,
+      "editorialScore": 19,
       "tags": [
-        "文生图",
-        "生图",
-        "图像"
+        "ui",
+        "视觉",
+        "界面",
+        "交互"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "c7nry2q60zru2igjwun67r1sc",
+      "title": "Ethan Mollick 谈 ChatGPT Intelligent UI：界面正按问题按需生成",
+      "title_en": "Had early access to the Intelligent UI experience and it was a nice change from walls of text. It also suggests that, increasingly, we ar...",
+      "url": "https://x.com/emollick/status/2107938889004396561",
+      "permalink": "https://aihot.news/items/c7nry2q60zru2igjwun67r1sc",
+      "source": "X：Ethan Mollick (@emollick)",
+      "publishedAt": "2026-10-07T20:59:29.000Z",
+      "discoveredAt": "2026-10-07T21:22:25.166Z",
+      "summary": "Ethan Mollick 表示自己早期体验了 OpenAI 在 ChatGPT 全量推出的 GPT-6 与 Intelligent UI，认为它相比成段文字是不错的改变。他进一步判断，未来会越来越多地看到针对当前问题按需生成的界面。OpenAI 称 Intelligent UI 能提供快速、可交互的回答，让日常问题更直观、复杂主题更易理解，并即时提供与任务匹配的交互工具。",
+      "category": "tip",
+      "score": 82,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/c7nry2q60zru2igjwun67r1sc"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 15,
+      "editorialScore": 19,
+      "tags": [
+        "ui",
+        "界面",
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "nmtp1bhr3dfqo0fc2kat4an8e",
+      "title": "ChatGPT 推出 Intelligent UI，并预告 GPT-6 将面向所有用户",
+      "title_en": "ChatGPT just got a lot more visual—introducing Intelligent UI.",
+      "url": "https://x.com/ChatGPT/status/2107933133635248145",
+      "permalink": "https://aihot.news/items/nmtp1bhr3dfqo0fc2kat4an8e",
+      "source": "X：ChatGPT (@ChatGPT)",
+      "publishedAt": "2026-10-07T20:36:37.000Z",
+      "discoveredAt": "2026-10-07T20:48:24.061Z",
+      "summary": "ChatGPT 推出 Intelligent UI，能以完全交互式的用户界面快速回答问题，让日常回答更直观。它帮助用户更轻松地学习复杂主题，并即时生成解决任务的小工具。文中还预告 GPT-6 即将登陆 ChatGPT，面向所有用户。",
+      "category": "ai-products",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/nmtp1bhr3dfqo0fc2kat4an8e"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 15,
+      "editorialScore": 19,
+      "tags": [
+        "ui",
+        "界面",
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "wx0vj67lzz48dprfe3xd0msms",
+      "title": "OpenAI 向 ChatGPT 用户推送 GPT-6，新增 Intelligent UI 交互式界面",
+      "title_en": "ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps",
+      "url": "https://the-decoder.com/chatgpt-with-gpt-6-ditches-mostly-text-output-for-interactive-ui-with-charts-buttons-and-mini-apps/",
+      "permalink": "https://aihot.news/items/wx0vj67lzz48dprfe3xd0msms",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-10-07T19:06:40.000Z",
+      "discoveredAt": "2026-10-07T19:10:27.945Z",
+      "summary": "OpenAI 开始面向所有 ChatGPT 用户推送 GPT-6，新功能 Intelligent UI 会用图表、按钮、表单和对话内小工具替代纯文本回答，格式随问题自动适配。",
+      "category": "ai-products",
+      "score": 80,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/wx0vj67lzz48dprfe3xd0msms"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 15,
+      "editorialScore": 19,
+      "tags": [
+        "ui",
+        "界面",
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "sbjw9mf3n1o9mdcckqfv0jw0q",
+      "title": "ChatGPT 推出 Intelligent UI 交互式界面能力",
+      "title_en": "Introducing Intelligent UI, a new capability in ChatGPT for answering quickly with fully interactive user interfaces:",
+      "url": "https://x.com/gdb/status/2107899150247616531",
+      "permalink": "https://aihot.news/items/sbjw9mf3n1o9mdcckqfv0jw0q",
+      "source": "X：Greg Brockman (@gdb)",
+      "publishedAt": "2026-10-07T18:21:34.000Z",
+      "discoveredAt": "2026-10-07T18:47:26.964Z",
+      "summary": "Greg Brockman 介绍 ChatGPT 新能力 Intelligent UI，用完全交互式的用户界面快速作答。据其引用的 OpenAI 内容，GPT-6 与 Intelligent UI 正面向所有 ChatGPT 用户推出，可让日常问题更直观、复杂话题更易理解，并即时提供适配任务的可交互工具。",
+      "category": "ai-products",
+      "score": 80,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/sbjw9mf3n1o9mdcckqfv0jw0q"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 15,
+      "editorialScore": 19,
+      "tags": [
+        "ui",
+        "界面",
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "oqqnihodkl2w2s0dbgw0zeiye",
+      "title": "OpenAI 随 GPT-6 推出 ChatGPT 可视化新界面 Intelligent UI",
+      "title_en": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "permalink": "https://aihot.news/items/oqqnihodkl2w2s0dbgw0zeiye",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-10-07T18:00:19.000Z",
+      "discoveredAt": "2026-10-07T18:48:26.526Z",
+      "summary": "OpenAI 随 GPT-6 推出名为 Intelligent UI 的新界面，在对话中加入可点击按钮、定制计算器、交互图表和可编辑图形等互动视觉元素。该功能随 GPT-6 面向 Pro、Plus、Business 和 Enterprise 用户全球推送，免费版和 Go 档用户周四可用，用户可自行调节视觉内容的多寡。",
+      "category": "ai-products",
+      "score": 76,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/oqqnihodkl2w2s0dbgw0zeiye"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 15,
+      "editorialScore": 19,
+      "tags": [
+        "ui",
+        "视觉",
+        "界面",
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "nda84rlkb6kqnsi41vkzygifz",
@@ -192,7 +415,7 @@
       "title_en": "谷歌 AI 图像模型 Nano Banana 2.1 发布，提升视觉设计、蒙版编辑、主体一致性",
       "url": "https://www.ithome.com/1/010/149.htm",
       "permalink": "https://aihot.news/items/nda84rlkb6kqnsi41vkzygifz",
-      "source": "IT之家（RSS）",
+      "source": "IT之家·人工智能",
       "publishedAt": "2026-10-07T01:01:58.000Z",
       "discoveredAt": "2026-10-07T01:03:25.385Z",
       "summary": "谷歌于 10 月 7 日发布 AI 图像生成与编辑模型 Nano Banana 2.1，重点提升视觉设计、基于蒙版的局部编辑以及多图生成中的主体一致性。",
@@ -216,254 +439,361 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "z06ab5zmqli247fs9y8nhh8ve",
-      "title": "开源项目 PhotoCraft 用纯 Rust 洁净室复刻 Adobe Photoshop",
-      "title_en": "Adobe Creative Suite 向 Rust 语言的“洁净室”移植",
-      "url": "https://github.com/storytold/photocraft",
-      "permalink": "https://aihot.news/items/z06ab5zmqli247fs9y8nhh8ve",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-10-07T00:51:10.949Z",
-      "discoveredAt": "2026-10-07T00:58:41.688Z",
-      "summary": "ArtCraft 团队发布开源图像编辑器 PhotoCraft，以纯 Rust 洁净室方式复刻 Photoshop，支持图层、蒙版、调整图层、图层样式、文字、矢量、笔刷和真实 PSD 文件。",
-      "category": "ai-products",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/z06ab5zmqli247fs9y8nhh8ve"
-      },
-      "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 14,
-      "editorialScore": 19,
-      "tags": [
-        "photoshop",
-        "adobe",
-        "creative",
-        "图像"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "c7i3tgsho7w1t2fn5yokjjlhw",
-      "title": "Nano Banana 2.1 上线 OpenRouter",
-      "title_en": "Nano Banana 2.1 from @GoogleAIDevs is live on OpenRouter.",
-      "url": "https://x.com/OpenRouter/status/2107543815188033957",
-      "permalink": "https://aihot.news/items/c7i3tgsho7w1t2fn5yokjjlhw",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-10-06T18:49:36.000Z",
-      "discoveredAt": "2026-10-06T18:51:32.152Z",
-      "summary": "Google AI Developers 的 Nano Banana 2.1 已上线 OpenRouter。官方称其以 Flash 级速度提供 Pro 级图像生成与编辑，在视觉设计、基于遮罩的编辑和主体一致性上较此前所有 Nano Banana 模型有明显提升。",
-      "category": "ai-products",
-      "score": 61,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/c7i3tgsho7w1t2fn5yokjjlhw"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 16,
-      "editorialScore": 19,
-      "tags": [
-        "图像生成",
-        "视觉",
-        "设计",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "d85c8vr4aiwrs3awbg5fyrwd1",
-      "title": "Google Nano Banana 2.1 图像模型上线 Google AI Studio、API 和 Gemini",
-      "title_en": "GOOGLE 🔥: Nano Banana 2.1 is rolling out on Google AI Studio, APIs, and Gemini!",
-      "url": "https://x.com/testingcatalog/status/2107499443532530001",
-      "permalink": "https://aihot.news/items/d85c8vr4aiwrs3awbg5fyrwd1",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-10-06T15:53:17.000Z",
-      "discoveredAt": "2026-10-06T16:00:28.818Z",
-      "summary": "Google 的 Nano Banana 2.1 图像生成与编辑模型正在 Google AI Studio、API 和 Gemini 上推出，官方描述强调更高的事实性、视觉保真度和多轮一致性。",
-      "category": "ai-products",
+      "id": "toa8f9rsvl2p3ckb7sc4gpdks",
+      "title": "OpenAI 面向所有 ChatGPT 用户推出 GPT-6 系列模型和智能用户界面",
+      "title_en": "周活超 12 亿用户：OpenAI ChatGPT 升级 GPT-6 模型，互动式 AI 教你打麻将",
+      "url": "https://www.ithome.com/1/010/327.htm",
+      "permalink": "https://aihot.news/items/toa8f9rsvl2p3ckb7sc4gpdks",
+      "source": "IT之家·人工智能",
+      "publishedAt": "2026-10-07T22:10:08.150Z",
+      "discoveredAt": "2026-10-07T22:34:23.099Z",
+      "summary": "OpenAI 于 10 月 8 日宣布面向所有 ChatGPT 用户推出 GPT-6 系列模型和智能用户界面（Intelligent UI），ChatGPT 全球周活跃用户超过 12 亿，此前停留在 GPT-5.6 系列。",
+      "category": "ai-models",
       "score": 76,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/d85c8vr4aiwrs3awbg5fyrwd1"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 16,
-      "editorialScore": 19,
-      "tags": [
-        "图像生成",
-        "视觉",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "r5yn275xfd15ps8m1w9s5vkea",
-      "title": "LG 电子为雷诺首款量产商用 SDV New Trafic E-Tech Electric 提供集成座舱解决方案",
-      "title_en": "LG 电子将为雷诺首款商用 SDV 提供集成座舱解决方案",
-      "url": "https://www.ithome.com/1/010/018.htm",
-      "permalink": "https://aihot.news/items/r5yn275xfd15ps8m1w9s5vkea",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-10-06T09:03:06.000Z",
-      "discoveredAt": "2026-10-06T09:06:17.178Z",
-      "summary": "LG 电子宣布为雷诺集团首款量产商用 SDV——New Trafic E-Tech Electric 货车提供集成座舱解决方案，该方案结合数字仪表板与信息娱乐系统，构建针对 SDV 优化的控制框架，实现更直观统一的 UX/UI，并支持以软件为中心的车辆开发方式，帮助车企通过零件简化和设计优化降低生产成本。LG 电子计划进一步扩大与全球主要汽车制造商的合作。",
-      "category": "industry",
-      "score": 27,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/r5yn275xfd15ps8m1w9s5vkea"
+        "canonical": "https://aihot.news/items/toa8f9rsvl2p3ckb7sc4gpdks"
       },
       "sourceType": "网站",
       "designCategory": "产品与体验",
-      "relevanceScore": 15,
-      "editorialScore": 19,
+      "relevanceScore": 11,
+      "editorialScore": 15,
       "tags": [
         "ui",
-        "ux",
-        "设计"
+        "界面"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "b94n8dh5aqkc8xwii7tvqyb8o",
-      "title": "LibreOffice 宣布不内置 AI，并将其作为产品设计立场",
-      "title_en": "LibreOffice says ‘no AI’ is now a software feature",
-      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-      "permalink": "https://aihot.news/items/b94n8dh5aqkc8xwii7tvqyb8o",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-10-06T15:25:00.000Z",
-      "discoveredAt": "2026-10-06T15:31:29.478Z",
-      "summary": "Document Foundation 在博客文章中宣布，LibreOffice 在可预见的未来不会添加 AI 功能，默认安装不含任何 AI。该组织称这是经过评估后的设计立场，目的是确保用户文档不被上传服务器、软件无需联网即可运行，满足处理机密或个人数据组织的审计要求；用户仍可通过扩展接入本地 AI 模型，未来若技术满足数据留在设备、不依赖单一供应商等条件，不排除改变。",
-      "category": "industry",
-      "score": 66,
+      "id": "e9x6n5jwnvfek828vpdbhirwx",
+      "title": "OpenAI 在 ChatGPT 全量推出 GPT-6 与 Intelligent UI",
+      "title_en": "Try out Intelligent UI - every ChatGPT completion now has the potential to create a custom UI. Phenomenal for learning new things!",
+      "url": "https://x.com/markchen90/status/2107947355115028880",
+      "permalink": "https://aihot.news/items/e9x6n5jwnvfek828vpdbhirwx",
+      "source": "X：Mark Chen（OpenAI 首席研究官，@markchen90）",
+      "publishedAt": "2026-10-07T21:33:07.000Z",
+      "discoveredAt": "2026-10-07T21:33:25.585Z",
+      "summary": "OpenAI 宣布 GPT-6 与 Intelligent UI 正在 ChatGPT 向所有用户推出。Intelligent UI 可让回答更可视化、复杂主题更易理解，并即时生成交互式工具；OpenAI 首席研究官 Mark Chen 表示每次 ChatGPT 补全都有潜力生成自定义 UI，很适合学习新知识。",
+      "category": "ai-products",
+      "score": 79,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/b94n8dh5aqkc8xwii7tvqyb8o"
+        "canonical": "https://aihot.news/items/e9x6n5jwnvfek828vpdbhirwx"
       },
-      "sourceType": "网站",
+      "sourceType": "X",
       "designCategory": "产品与体验",
-      "relevanceScore": 14,
-      "editorialScore": 18,
+      "relevanceScore": 11,
+      "editorialScore": 15,
       "tags": [
-        "产品设计",
-        "设计"
+        "ui",
+        "交互"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "ths9217jqpzp58rujfl7s8w50",
-      "title": "banana2.1 发布，AI 图像模型美学与精确性分流",
-      "title_en": "今天banana2.1出来了，正好聊聊目前的AI图像模型。",
-      "url": "https://x.com/hq4ai/status/2107699387711553861",
-      "permalink": "https://aihot.news/items/ths9217jqpzp58rujfl7s8w50",
-      "source": "X：汗青 HQ (@hq4ai)",
-      "publishedAt": "2026-10-07T05:07:47.000Z",
-      "discoveredAt": "2026-10-07T05:22:41.011Z",
-      "summary": "banana2.1 今日发布，引发对当前 AI 图像模型格局的讨论。从美学风格化角度看，midjourney 依然无可取代，8.2 甚至是断崖式领先；但若需要文字封面、示意图、信息卡片等精确性图像，OpenAI 和 Google 显然更好，两类需求已完全分流。",
-      "category": "tip",
-      "score": 49,
+      "id": "sd9421ibml14y7yog6u3gqtx0",
+      "title": "Sam Altman 宣布 ChatGPT 可生成自定义 UI",
+      "title_en": "ChatGPT can now generate a custom UI for you!",
+      "url": "https://x.com/sama/status/2107924408597950702",
+      "permalink": "https://aihot.news/items/sd9421ibml14y7yog6u3gqtx0",
+      "source": "X：Sam Altman (@sama)",
+      "publishedAt": "2026-10-07T20:01:57.000Z",
+      "discoveredAt": "2026-10-07T20:21:25.235Z",
+      "summary": "Sam Altman 宣布 ChatGPT 现在可以为用户生成自定义 UI。引用的 OpenAI 内容称 GPT-6 与 Intelligent UI 正在向所有 ChatGPT 用户推出，可提供快速交互式回答，让日常问题更可视化、复杂主题更易理解，并为任务即时生成交互工具。",
+      "category": "ai-products",
+      "score": 79,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ths9217jqpzp58rujfl7s8w50"
+        "canonical": "https://aihot.news/items/sd9421ibml14y7yog6u3gqtx0"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
+      "designCategory": "产品与体验",
+      "relevanceScore": 11,
       "editorialScore": 15,
       "tags": [
-        "midjourney",
-        "图像"
+        "ui",
+        "交互"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "fzcgy2zwlnvbzfg4w6unxn6do",
-      "title": "Google Nano Banana 2.1 上线 Arena 三大图像榜单，多图编辑列第 4",
-      "title_en": "Nano Banana 2.1 by @Google has landed in the Text-to-Image Arena, Image Edit Arena and Multi-Image Edit Arena! It landed:",
-      "url": "https://x.com/arena/status/2107567724264313059",
-      "permalink": "https://aihot.news/items/fzcgy2zwlnvbzfg4w6unxn6do",
-      "source": "X：Arena (@arena)",
-      "publishedAt": "2026-10-06T20:24:36.000Z",
-      "discoveredAt": "2026-10-06T20:54:31.287Z",
-      "summary": "Google 发布图像生成与编辑模型 Nano Banana 2.1，已进入 Arena 的 Text-to-Image、Image Edit 和 Multi-Image Edit 榜单，分别以 1328、1428 和 1431 分列第 5、第 6 和第 4 名。",
-      "category": "ai-models",
-      "score": 63,
+      "id": "qyb494pleksggb3idbal82gfj",
+      "title": "GPT-6 与 Intelligent UI 开始向所有 ChatGPT 用户推送",
+      "title_en": "OPENAI 🔥: GPT-6 and Intelligent UI are rolling out to all ChatGPT users.",
+      "url": "https://x.com/testingcatalog/status/2107923723638493593",
+      "permalink": "https://aihot.news/items/qyb494pleksggb3idbal82gfj",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "publishedAt": "2026-10-07T19:59:13.000Z",
+      "discoveredAt": "2026-10-07T20:21:26.355Z",
+      "summary": "据 TestingCatalog 消息，OpenAI 的 GPT-6 与 Intelligent UI 正在向所有 ChatGPT 用户推送。Intelligent UI 可让 ChatGPT 为请求的主题创建交互式体验来讲解；作者表示 ChatGPT 上似乎还没有 GPT-6.1。",
+      "category": "ai-products",
+      "score": 68,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/fzcgy2zwlnvbzfg4w6unxn6do"
+        "canonical": "https://aihot.news/items/qyb494pleksggb3idbal82gfj"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
+      "designCategory": "产品与体验",
+      "relevanceScore": 11,
       "editorialScore": 15,
       "tags": [
-        "图像生成",
-        "图像"
+        "ui",
+        "交互"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "k5w9r6x4l8weokoqvnth7ub1l",
-      "title": "Google 发布图像模型 Nano Banana 2.1，价格约降一半",
-      "title_en": "Google's new image model Nano Banana 2.1 generates better images for less money",
-      "url": "https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/",
-      "permalink": "https://aihot.news/items/k5w9r6x4l8weokoqvnth7ub1l",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-10-06T19:29:42.000Z",
-      "discoveredAt": "2026-10-06T19:52:32.846Z",
-      "summary": "Google 发布图像生成与编辑模型 Nano Banana 2.1，接替 2026 年 2 月发布的 Nano Banana 2，价格约降一半，1K 图像从 6.70 美分降至 3.36 美分，4K 从 15.10 降至 7.56 美分。",
+      "id": "vlccl1i179h3np91rwriw0m3n",
+      "title": "GPT-6 新版本随 Intelligent UI 向全部 ChatGPT 用户推送",
+      "title_en": "We're going beyond text and are releasing a new version of GPT-6 to all users in ChatGPT. Lots of model and infra improvements coming tog...",
+      "url": "https://x.com/thsottiaux/status/2107912709715132482",
+      "permalink": "https://aihot.news/items/vlccl1i179h3np91rwriw0m3n",
+      "source": "X：Tibo (@thsottiaux)",
+      "publishedAt": "2026-10-07T19:15:27.000Z",
+      "discoveredAt": "2026-10-07T19:19:27.208Z",
+      "summary": "OpenAI 面向所有 ChatGPT 用户推出新版本 GPT-6，并同步上线 Intelligent UI，提供更可视化、易理解的快速交互答案，可即时生成交互工具供任务使用。作者称这是超越文本的一步，包含多项模型和基础设施改进，以支撑扩展至 1.2B 用户。",
       "category": "ai-models",
-      "score": 76,
+      "score": 78,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/k5w9r6x4l8weokoqvnth7ub1l"
+        "canonical": "https://aihot.news/items/vlccl1i179h3np91rwriw0m3n"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 11,
+      "editorialScore": 15,
+      "tags": [
+        "ui",
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "nbtwjgs7tmjikl3e3bmvrx1wb",
+      "title": "ChatGPT 推出 Intelligent UI，回答将搭配图表、按钮等交互式视觉内容",
+      "title_en": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "permalink": "https://aihot.news/items/nbtwjgs7tmjikl3e3bmvrx1wb",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-10-07T19:10:42.000Z",
+      "discoveredAt": "2026-10-07T20:20:23.989Z",
+      "summary": "OpenAI 在 ChatGPT 中推出 Intelligent UI 功能，随 GPT-6 一并向所有用户推送，让回答可结合图表、图示、表单和可点击按钮。OpenAI 称训练了 GPT-6 判断何时用交互式视觉替代纯文本，用户还可让其内联生成退休储蓄计算器、小游戏或账单分摊工具。",
+      "category": "ai-products",
+      "score": 78,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/nbtwjgs7tmjikl3e3bmvrx1wb"
       },
       "sourceType": "网站",
       "designCategory": "图像与视频",
       "relevanceScore": 12,
       "editorialScore": 15,
       "tags": [
-        "图像生成",
-        "图像"
+        "配图",
+        "ui",
+        "视觉",
+        "交互"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "z60fmzpug0v9qlqs0vi6amz4m",
-      "title": "Google 发布开源多模态嵌入模型 EmbeddingGemma 2，最低 0.5GB RAM 本地运行",
-      "title_en": "Google releases EmbeddingGemma 2, a new open model that runs locally on 0.5GB RAM.",
-      "url": "https://x.com/UnslothAI/status/2107505698531868941",
-      "permalink": "https://aihot.news/items/z60fmzpug0v9qlqs0vi6amz4m",
-      "source": "X：Unsloth (@UnslothAI)",
-      "publishedAt": "2026-10-06T16:18:08.000Z",
-      "discoveredAt": "2026-10-06T16:31:31.973Z",
-      "summary": "Google 发布开源嵌入模型 EmbeddingGemma 2，为 Apache 2.0 许可，740M 参数由 270M 文本模型、170M 视觉与 300M 音频编码器组成，支持 100+ 语言、8K 上下文和文本、代码、图像、视频、音频的统一嵌入。270M 版本最低 0.5GB RAM、完整多模态版 1GB RAM 本地运行，可通过 Unsloth 的 GGUF 运行和微调。",
+      "id": "in21r0s34nqa6h3feu7d1srpr",
+      "title": "OpenAI 在 ChatGPT 推出 GPT-6 与 Intelligent UI 交互式回答功能",
+      "title_en": "ChatGPT can now turn your question into something you can play with. This is a fun one!",
+      "url": "https://x.com/reach_vb/status/2107899798024007897",
+      "permalink": "https://aihot.news/items/in21r0s34nqa6h3feu7d1srpr",
+      "source": "X：Vaibhav Srivastav（OpenAI）(@reach_vb)",
+      "publishedAt": "2026-10-07T18:24:09.000Z",
+      "discoveredAt": "2026-10-07T18:48:26.756Z",
+      "summary": "OpenAI 员工宣布 ChatGPT 正在向所有用户推出 GPT-6 加 Intelligent UI，可在对话内直接生成交互式图表、计算器和工具。用户可通过调整输入来规划晚餐、分账单或理解复杂概念，GPT-6 还能在思考未完成时就开始回答。Plus、Pro、Business 和 Enterprise 今日开放，Free 和 Go 次日开放。",
+      "category": "ai-products",
+      "score": 81,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/in21r0s34nqa6h3feu7d1srpr"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 11,
+      "editorialScore": 15,
+      "tags": [
+        "ui",
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "mm3oa4t5zxobn6mmgmi8s64bc",
+      "title": "OpenAI 全球推送 GPT-6 智能界面，Plus 等付费档用 GPT-6 Sol",
+      "title_en": "GPT‑6 with Intelligent UI rolls out globally to Plus, Pro, Business, and Enterprise users today and will expand to Free and Go users star...",
+      "url": "https://x.com/OpenAI/status/2107895006350791071",
+      "permalink": "https://aihot.news/items/mm3oa4t5zxobn6mmgmi8s64bc",
+      "source": "X：OpenAI (@OpenAI)",
+      "publishedAt": "2026-10-07T18:05:06.000Z",
+      "discoveredAt": "2026-10-07T18:31:11.031Z",
+      "summary": "OpenAI 宣布 GPT-6 with Intelligent UI 当天起向 Plus、Pro、Business、Enterprise 用户全球推送，Free 和 Go 用户从明天开始陆续开放。ChatGPT 聊天界面上，付费档由 GPT-6 Sol 驱动，Free 和 Go 档由 GPT-6 Luna 驱动，两者都针对日常对话调优。本次更新仅涉及 Chat 标签页，Work 和 Codex 所用模型不变。详情见 https://openai.com/index/gpt-6-for-everyone/",
       "category": "ai-models",
+      "score": 84,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/mm3oa4t5zxobn6mmgmi8s64bc"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 11,
+      "editorialScore": 15,
+      "tags": [
+        "ui",
+        "界面",
+        "codex"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "jfnjrcaj5fusvvotsoybj51x2",
+      "title": "OpenAI 为 GPT-6 推出 Intelligent UI，回应可组合文本、视觉与交互元素",
+      "title_en": "With Intelligent UI, GPT‑6 can now compose responses using text, visuals, and interactive elements, choosing how they fit together based ...",
+      "url": "https://x.com/OpenAI/status/2107894999119774148",
+      "permalink": "https://aihot.news/items/jfnjrcaj5fusvvotsoybj51x2",
+      "source": "X：OpenAI (@OpenAI)",
+      "publishedAt": "2026-10-07T18:05:05.000Z",
+      "discoveredAt": "2026-10-07T18:31:11.090Z",
+      "summary": "OpenAI 发布 GPT-6 的 Intelligent UI 功能，模型可根据问题组合文本、视觉与交互元素来组织回应。回应可包含帮助解释想法的图形与图表，以及可在对话中直接使用的可点击按钮、表单和交互体验。",
+      "category": "ai-products",
       "score": 62,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/z60fmzpug0v9qlqs0vi6amz4m"
+        "canonical": "https://aihot.news/items/jfnjrcaj5fusvvotsoybj51x2"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 11,
+      "editorialScore": 15,
+      "tags": [
+        "ui",
+        "视觉",
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "npjfwe89kt6tpayfevb7ip89s",
+      "title": "OpenAI 向所有 ChatGPT 用户推送 GPT-6 和 Intelligent UI",
+      "title_en": "GPT-6 and Intelligent UI, now rolling out in ChatGPT for everyone.",
+      "url": "https://x.com/OpenAI/status/2107894997538525580",
+      "permalink": "https://aihot.news/items/npjfwe89kt6tpayfevb7ip89s",
+      "source": "X：OpenAI (@OpenAI)",
+      "publishedAt": "2026-10-07T18:05:04.000Z",
+      "discoveredAt": "2026-10-07T18:31:11.100Z",
+      "summary": "OpenAI 宣布 GPT-6 与 Intelligent UI 开始向所有 ChatGPT 用户推送。Intelligent UI 提供快速、可交互的回答，让日常问题更直观、复杂主题更易理解，并能为任务即时提供交互式工具。",
+      "category": "ai-products",
+      "score": 79,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/npjfwe89kt6tpayfevb7ip89s"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 11,
+      "editorialScore": 15,
+      "tags": [
+        "ui",
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "uir31g728myjry383z17txvrw",
+      "title": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI",
+      "title_en": "GPT-6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "permalink": "https://aihot.news/items/uir31g728myjry383z17txvrw",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-10-07T18:00:58.000Z",
+      "discoveredAt": "2026-10-07T18:28:12.883Z",
+      "summary": "OpenAI 发布面向更广泛用户的 GPT-6，并随 GPT-6 在 ChatGPT 中引入 Intelligent UI，可生成图形、按钮、表单、图表和可交互组件来回答问题。",
+      "category": "ai-products",
+      "score": 87,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/uir31g728myjry383z17txvrw"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 11,
+      "editorialScore": 15,
+      "tags": [
+        "ui",
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "by0h27slevnb8j1fh8cb1irf3",
+      "title": "Envato Burst 模式降低图像生成成本",
+      "title_en": "Image models have gotten very good at matching a prompt. That helps only once you can write the prompt.",
+      "url": "https://x.com/rohanpaul_ai/status/2107937276475174976",
+      "permalink": "https://aihot.news/items/by0h27slevnb8j1fh8cb1irf3",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-10-07T20:53:04.000Z",
+      "discoveredAt": "2026-10-07T21:23:23.922Z",
+      "summary": "图像模型已经非常擅长匹配提示词。但前提是你能写出提示词。\n\nEnvato 的 Burst 模式将单张图像成本降低 6 倍，1 个 AI credit 返回 6 张草稿。\n\n在 Envato 的 AI 图像工具中开启后，它能把粗略的提示词、风格参考或情绪板转化为一批并排展示的方向。\n\n创意探索是一个搜索问题，而只有当尝试另一条分支足够便宜时，搜索才有效。在这里，整批只需一个 AI credit。",
+      "category": "ai-products",
+      "score": 35,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/by0h27slevnb8j1fh8cb1irf3"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
+      "relevanceScore": 11,
+      "editorialScore": 14,
       "tags": [
-        "视觉",
-        "视频",
-        "图像"
+        "图像生成",
+        "创意",
+        "图像",
+        "提示词"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "jysaycuol2bhlw9jdp7g0wj5i",
+      "title": "ChatGPT 推出 Intelligent UI",
+      "title_en": "With Intelligent UI, you can ask things like:",
+      "url": "https://x.com/ChatGPT/status/2107933135061291215",
+      "permalink": "https://aihot.news/items/jysaycuol2bhlw9jdp7g0wj5i",
+      "source": "X：ChatGPT (@ChatGPT)",
+      "publishedAt": "2026-10-07T20:36:37.000Z",
+      "discoveredAt": "2026-10-07T20:48:24.054Z",
+      "summary": "借助 Intelligent UI，你可以这样提问：\n\n- 拆解自行车的设计\n- 帮我规划一顿晚餐\n- 为我打造一个衣柜\n- 根据我的收据分摊晚餐账单\n\n你会得到更易理解、用起来也更愉快的可视化输出。",
+      "category": "ai-products",
+      "score": 34,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/jysaycuol2bhlw9jdp7g0wj5i"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 10,
+      "editorialScore": 14,
+      "tags": [
+        "ui",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "dcymiopcki3e1q9abwby5vbss",
@@ -471,7 +801,7 @@
       "title_en": "豆包登陆华为鸿蒙电脑端，首版本搭载 2.1 Turbo / Pro 模型",
       "url": "https://www.ithome.com/1/010/280.htm",
       "permalink": "https://aihot.news/items/dcymiopcki3e1q9abwby5vbss",
-      "source": "IT之家（RSS）",
+      "source": "IT之家·人工智能",
       "publishedAt": "2026-10-07T12:15:41.000Z",
       "discoveredAt": "2026-10-07T12:29:08.314Z",
       "summary": "豆包 App 已正式登陆华为鸿蒙电脑端，用户可在应用市场直接搜索下载，首版本搭载豆包 2.1 Turbo 和豆包 2.1 Pro 模型，支持对话与工作随心切换。该版本上线深入研究、PPT 生成、帮我写作、图像生成、云盘等核心能力，覆盖工作、学术研究、资料管理、自动化任务、创意设计等场景。华为官方透露，豆包位列鸿蒙电脑用户心愿单 TOP1。",
@@ -500,7 +830,7 @@
       "title_en": "Announcing support for Kandinsky 6 in FastVideo 🚀",
       "url": "https://x.com/haoailab/status/2107622569562284242",
       "permalink": "https://aihot.news/items/a5xfl04l6g6xc1refuometmmg",
-      "source": "X：Sky Computing Lab (@haoailab)",
+      "source": "X：UCSD Hao AI Lab (@haoailab)",
       "publishedAt": "2026-10-07T00:02:32.000Z",
       "discoveredAt": "2026-10-07T00:13:32.175Z",
       "summary": "Hao AI Lab 宣布 FastVideo 支持 Kandinsky 6，可生成文/图生视频并配同步音频，提供 Pro 30B 和 Lite 3B 两种规格。每个规格都有 10 步蒸馏的 pi-Flow 版本，并支持最高 4x 的视频超分，作者并致谢 kandinskylab_ai 团队开源模型。",
@@ -551,58 +881,84 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "af032jgkdnmj4ptc62davrqst",
-      "title": "OpenRouter 上线 Gemini Nano Banana 2.1，支持最多 14 张参考图与 4K 全景",
-      "title_en": "- Up to 14 reference images",
-      "url": "https://x.com/OpenRouter/status/2107543827213127684",
-      "permalink": "https://aihot.news/items/af032jgkdnmj4ptc62davrqst",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-10-06T18:49:39.000Z",
-      "discoveredAt": "2026-10-06T18:51:32.145Z",
-      "summary": "OpenRouter 发布 Gemini Nano Banana 2.1 相关页面，图像生成支持最多 14 张参考图，并接入 Google Search grounding。新增 1:4、4:1、1:8、8:1 的 2K 和 4K 全景输出，定价为 1K 每张 $0.0336、2K $0.0504、4K $0.1134。详情见 https://openrouter.ai/google/gemini-nano-banana-2.1",
+      "id": "jln5xmxzaxgtcvzy3nipg06zg",
+      "title": "微软重构 Copilot 图标：升级动态交互语言，可表达思考、规划与检索",
+      "title_en": null,
+      "url": "https://www.ithome.com/1/010/336.htm",
+      "permalink": "https://aihot.news/items/jln5xmxzaxgtcvzy3nipg06zg",
+      "source": "IT之家·人工智能",
+      "publishedAt": "2026-10-07T22:37:09.220Z",
+      "discoveredAt": "2026-10-07T23:06:23.076Z",
+      "summary": "微软设计团队将 Copilot 图标从静态标识重构为由两个方形组成的动态系统，二者可改变位置并共同形成完整轮廓。新图标建立统一动态语言，用两个形态的相互移动与重组表达\"思考\"\"规划\"\"检索\"3 种动作，颜色沿用原有渐变关系。",
       "category": "ai-products",
-      "score": 57,
+      "score": 25,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/af032jgkdnmj4ptc62davrqst"
+        "canonical": "https://aihot.news/items/jln5xmxzaxgtcvzy3nipg06zg"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "设计",
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "gxdftq1dep1enl1gw5cl210h2",
+      "title": "Perplexity 发布 pplx-embed-v2-late 双模型，统一空间检索文本、图像与网页",
+      "title_en": "We're releasing pplx-embed-v2-late, two late-interaction embedding models that retrieve text, images, and pages with a shared embedding s...",
+      "url": "https://x.com/perplexity_ai/status/2107866029745746177",
+      "permalink": "https://aihot.news/items/gxdftq1dep1enl1gw5cl210h2",
+      "source": "X：Perplexity (@perplexity_ai)",
+      "publishedAt": "2026-10-07T16:09:58.000Z",
+      "discoveredAt": "2026-10-07T16:31:22.401Z",
+      "summary": "Perplexity 发布 pplx-embed-v2-late，包含两个 late-interaction 嵌入模型，可在共享嵌入空间中跨模型检索文本、图像和网页。两个模型称达到前沿性能，已在 Hugging Face 公开，博客地址 https://www.perplexity.ai/hub/blog/multimodal-embeddings-beyond-a-single-vector；配图显示 pplx-embed-v2-late-0.6B（340M 激活参数）在 ViDoRe V3 公共子集上得分 62.3，称其 0.6B 模型可匹配 5 倍大小模型。",
+      "category": "ai-models",
+      "score": 51,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/gxdftq1dep1enl1gw5cl210h2"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
+      "relevanceScore": 10,
+      "editorialScore": 13,
       "tags": [
-        "图像生成",
+        "配图",
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "hzqmmzrht9rselwx58tdifeab",
-      "title": "Google 发布 Nano Banana 2.1 图像生成与编辑模型",
-      "title_en": "Nano Banana 2.1 is here! 🍌",
-      "url": "https://x.com/OfficialLoganK/status/2107533224453058731",
-      "permalink": "https://aihot.news/items/hzqmmzrht9rselwx58tdifeab",
-      "source": "X：Logan Kilpatrick (@OfficialLoganK)",
-      "publishedAt": "2026-10-06T18:07:31.000Z",
-      "discoveredAt": "2026-10-06T18:19:33.248Z",
-      "summary": "Google 的 Nano Banana 2.1 发布，面向图像生成和编辑用户，带来更高质量的图像、修复了此前模型的多个问题，并采用新的更低价格。模型已在 API、AI Studio 和 Gemini 应用中可用。",
+      "id": "dl9wyf4dhfpj3utxkaqkadjym",
+      "title": "Krea 发布 Photoshop 插件",
+      "title_en": "introducing Krea Plugin for Photoshop.",
+      "url": "https://x.com/krea_ai/status/2107848434128752777",
+      "permalink": "https://aihot.news/items/dl9wyf4dhfpj3utxkaqkadjym",
+      "source": "X：Krea AI (@krea_ai)",
+      "publishedAt": "2026-10-07T15:00:03.000Z",
+      "discoveredAt": "2026-10-07T15:22:21.616Z",
+      "summary": "Krea AI 推出 Krea Plugin for Photoshop，将 Nano Banana、Krea 2、GPT IMG 2.5 及 Krea 平台上的其他模型带入 Photoshop 内使用。插件现已开放试用。",
       "category": "ai-products",
-      "score": 58,
+      "score": 59,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/hzqmmzrht9rselwx58tdifeab"
+        "canonical": "https://aihot.news/items/dl9wyf4dhfpj3utxkaqkadjym"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
+      "designCategory": "设计工具",
+      "relevanceScore": 8,
+      "editorialScore": 13,
       "tags": [
-        "图像生成",
-        "图像"
+        "photoshop"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "q34oa3h3o4mrtn51xbdce88pc",
@@ -631,60 +987,30 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "vwkryduerbn08tw08m1rpmvug",
-      "title": "Perplexity 推出工程设计服务",
-      "title_en": "Engineering Design as a service",
-      "url": "https://x.com/AravSrinivas/status/2107570346459353257",
-      "permalink": "https://aihot.news/items/vwkryduerbn08tw08m1rpmvug",
-      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "publishedAt": "2026-10-06T20:35:02.000Z",
-      "discoveredAt": "2026-10-06T21:04:32.284Z",
-      "summary": "工程设计即服务",
+      "id": "j2yjnyz5pgq4evkvazmqobwdb",
+      "title": "马斯克：Grok Bot 不再只认自家模型，按用户任务择优调用 Claude Opus 5.5 等最佳 AI",
+      "title_en": "马斯克：Grok Bot 不再只认自家模型，按用户任务择优用 Claude 等最佳 AI",
+      "url": "https://www.ithome.com/1/010/359.htm",
+      "permalink": "https://aihot.news/items/j2yjnyz5pgq4evkvazmqobwdb",
+      "source": "IT之家·人工智能",
+      "publishedAt": "2026-10-07T23:47:32.937Z",
+      "discoveredAt": "2026-10-08T00:10:23.778Z",
+      "summary": "马斯克宣布 Grok Bot 将从以自研模型为主转向任务导向的多模型混合架构，根据用户任务自动选择\"最好的后端模型\"，可调用 Claude Opus 5.5、Midjourney、Suno 及其他领先 API。",
       "category": "ai-products",
-      "score": 31,
+      "score": 37,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/vwkryduerbn08tw08m1rpmvug"
+        "canonical": "https://aihot.news/items/j2yjnyz5pgq4evkvazmqobwdb"
       },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
       "relevanceScore": 9,
-      "editorialScore": 13,
+      "editorialScore": 12,
       "tags": [
-        "design",
-        "设计"
+        "midjourney"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "chu9jttej9dptg5uis1lhbzto",
-      "title": "Gamma 5 发布，Elvis Saravia 实测称 AI 幻灯片终于有了个人风格",
-      "title_en": "I can usually tell when a deck was made with AI.",
-      "url": "https://x.com/omarsar0/status/2107468760386847180",
-      "permalink": "https://aihot.news/items/chu9jttej9dptg5uis1lhbzto",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "publishedAt": "2026-10-06T13:51:22.000Z",
-      "discoveredAt": "2026-10-06T13:56:27.547Z",
-      "summary": "Gamma 发布 Gamma 5，是公司历史上最大规模的产品改版，主打让生成的演示文稿贴合用户和品牌风格，并翻新了 agent、设计工具、编辑、导入导出和 connectors 等。作者 Elvis Saravia 实测后称此前 AI 生成的幻灯片缺少个人风格，而 Gamma 5 做出的幻灯片更像他自己的作品，能体现他的设想并贴合品牌风格。",
-      "category": "ai-products",
-      "score": 58,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/chu9jttej9dptg5uis1lhbzto"
-      },
-      "sourceType": "X",
-      "designCategory": "设计工具",
-      "relevanceScore": 8,
-      "editorialScore": 13,
-      "tags": [
-        "设计工具",
-        "设计",
-        "品牌",
-        "agent"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "ex4fc1pc59fklh593dvsypwwf",
@@ -709,60 +1035,6 @@
       "editorialScore": 12,
       "tags": [
         "midjourney"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "n4k46z7om6jpr0mqvpr7picv6",
-      "title": "Grok Bot 后端模型策略调整",
-      "title_en": "Important note regarding Grok @Bot:",
-      "url": "https://x.com/elonmusk/status/2107724314451878104",
-      "permalink": "https://aihot.news/items/n4k46z7om6jpr0mqvpr7picv6",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "publishedAt": "2026-10-07T06:46:50.000Z",
-      "discoveredAt": "2026-10-07T07:43:34.409Z",
-      "summary": "关于 Grok @Bot 的重要说明：\n\n今后，@SpaceX 将针对任何给定任务使用最佳后端模型，包括 Claude Opus 5.5、MidJourney、Suno 及其他领先 API。\n\n一切以最有可能为你带来最佳结果为准则。",
-      "category": "industry",
-      "score": 39,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/n4k46z7om6jpr0mqvpr7picv6"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
-      "tags": [
-        "midjourney"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "d3qx5y4tlypar1un5jyy33xe6",
-      "title": "Nano Banana 2.1 发布，Google Labs 高管称蒙版编辑是当日最爱",
-      "title_en": "Mask-based editing is my favorite from today, much more coming soon!",
-      "url": "https://x.com/joshwoodward/status/2107679061854273656",
-      "permalink": "https://aihot.news/items/d3qx5y4tlypar1un5jyy33xe6",
-      "source": "X：Josh Woodward (@joshwoodward, Google Labs VP)",
-      "publishedAt": "2026-10-07T03:47:01.000Z",
-      "discoveredAt": "2026-10-07T04:01:41.175Z",
-      "summary": "Nano Banana 2.1 发布，官方称在视觉设计、蒙版编辑、主体一致性和更自然的图像观感上超越前代。用户现可在 Gemini App 和 Google AI Studio 等入口使用；Google Labs VP Josh Woodward 表示蒙版编辑是此次更新中他最喜欢的功能，并预告后续还有更多更新。",
-      "category": "ai-models",
-      "score": 62,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/d3qx5y4tlypar1un5jyy33xe6"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
-      "tags": [
-        "视觉",
-        "设计",
-        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -796,56 +1068,56 @@
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
-      "id": "ape5xs7a4tq0mf7uxc514lbj6",
-      "title": "可灵 Kling 4.0 如何制作全网曝光 500 万+的 AI 短片《The Beat》",
-      "title_en": "《The Beat》幕后｜全网曝光500万+的AI视频是如何制作的？",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzU5NTkwNDU2OA%3D%3D&mid=2247497135&idx=1&sn=3b215e0d3c28efa4a34879133d115377",
-      "permalink": "https://aihot.news/items/ape5xs7a4tq0mf7uxc514lbj6",
-      "source": "公众号：可灵AI（快手·视频）",
-      "publishedAt": "2026-10-06T10:15:05.000Z",
-      "discoveredAt": "2026-10-06T10:21:17.946Z",
-      "summary": "可灵 AI 拆解 AI 短片《The Beat》的制作过程，该片全网曝光超 500 万。Kling 4.0 支持单次原生生成最长 30 秒视频、单次任务最多 15 项参考素材、最多 10 张关键帧输入，并提升了大动态运镜稳定性与口型匹配。Kling 4.0 Flash 已向黑金年卡会员开放抢先体验，Kling 4.0 将于 10 月正式上线。",
-      "category": "tip",
-      "score": 49,
+      "id": "eipq49s6b49rjs0l81q04bh2m",
+      "title": "前字节实习生田柯宇进军世界模型创业，估值达 2 亿美元",
+      "title_en": "挑战李飞飞：曾被字节辞退的实习生田柯宇进军世界模型，创业公司估值达 2 亿美元",
+      "url": "https://www.ithome.com/1/010/356.htm",
+      "permalink": "https://aihot.news/items/eipq49s6b49rjs0l81q04bh2m",
+      "source": "IT之家·人工智能",
+      "publishedAt": "2026-10-07T23:36:04.837Z",
+      "discoveredAt": "2026-10-08T00:10:23.784Z",
+      "summary": "据彭博社报道，前字节跳动实习生田柯宇创办世界模型创业公司，从五源资本、IDG 资本等融资近 3,000 万美元，投后估值 2 亿美元，公司尚无名字和产品。其团队打造了一套包含 20 万个符号的 AI 视觉语言系统，计划输入 1 亿小时视频，称可将生成 1 秒视频的成本至少降至原来的十分之一，拟在 2027 年发布完整模型前现场展示技术。",
+      "category": "industry",
+      "score": 59,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ape5xs7a4tq0mf7uxc514lbj6"
+        "canonical": "https://aihot.news/items/eipq49s6b49rjs0l81q04bh2m"
       },
-      "sourceType": "公众号",
+      "sourceType": "网站",
       "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
+      "relevanceScore": 8,
+      "editorialScore": 11,
       "tags": [
-        "可灵",
+        "视觉",
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "d3tplelqsi5dwpy33upz7g7q1",
-      "title": "月之暗面拟 2027 年一季度赴港 IPO，可灵 AI 也在筹备香港上市",
-      "title_en": "Moonshot AI, maker of Kimi, is planning a Hong Kong IPO in the first quarter of 2027 after closing a private funding round at a valuation...",
-      "url": "https://x.com/thexpin/status/2107391299460694300",
-      "permalink": "https://aihot.news/items/d3tplelqsi5dwpy33upz7g7q1",
-      "source": "X：X.PIN (@thexpin)",
-      "publishedAt": "2026-10-06T08:43:33.000Z",
-      "discoveredAt": "2026-10-06T08:47:27.766Z",
-      "summary": "据 Bloomberg 援引知情人士报道，Kimi 开发商月之暗面（Moonshot AI）计划 2027 年一季度在香港 IPO，此前一轮私募融资估值约 $50 billion。快手的 AI 视频平台可灵（Kling AI）已选定承销行，最早 2027 年上市，募资至少 $1 billion，规模和时间仍可能调整。",
-      "category": "industry",
-      "score": 56,
+      "id": "awxdwccn6rv3fwdb19acj3xkt",
+      "title": "Google 推出改进版 SynthID 检测器并面向全球开放",
+      "title_en": "Google rolls out improved SynthID AI content detector, now available globally",
+      "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
+      "permalink": "https://aihot.news/items/awxdwccn6rv3fwdb19acj3xkt",
+      "source": "Ars Technica：AI（RSS）",
+      "publishedAt": "2026-10-07T14:00:08.000Z",
+      "discoveredAt": "2026-10-07T14:09:22.786Z",
+      "summary": "Google 宣布 SynthID 检测器现在支持所有合作方的水印，并上线 SynthID.com 网站供任何人使用。此前外部用户只能通过 Gemini 检测水印，且旧版检测器只识别 Google 自己的 SynthID；SynthID 是嵌入在图像、视频像素和音频波形中的隐形水印，仅 Gemini 就已集成超过 1800 亿张图片和视频以及 24 万年的音频。",
+      "category": "ai-products",
+      "score": 60,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/d3tplelqsi5dwpy33upz7g7q1"
+        "canonical": "https://aihot.news/items/awxdwccn6rv3fwdb19acj3xkt"
       },
-      "sourceType": "X",
+      "sourceType": "网站",
       "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
+      "relevanceScore": 8,
+      "editorialScore": 11,
       "tags": [
-        "可灵",
-        "视频"
+        "视频",
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -855,7 +1127,7 @@
       "title_en": "谷歌推出 EmbeddingGemma 2：支持多模态、7.4 亿参数量化手机端运行只需 191MB 内存",
       "url": "https://www.ithome.com/1/010/125.htm",
       "permalink": "https://aihot.news/items/nf4p4vrsm3nr9a2fbdxab8ehu",
-      "source": "IT之家（RSS）",
+      "source": "IT之家·人工智能",
       "publishedAt": "2026-10-06T22:41:19.000Z",
       "discoveredAt": "2026-10-06T22:56:31.530Z",
       "summary": "谷歌发布 EmbeddingGemma 2 嵌入模型，基于 Gemma 4 架构，采用 Apache 2.0 许可，总参数 7.4 亿，将能力从文本扩展到代码、图像、视频、音频并统一映射到同一嵌入空间。",
@@ -877,193 +1149,56 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "p5p6mvoswutj6qpv6ew2p1nvo",
-      "title": "Google 发布 EmbeddingGemma 2 多模态嵌入模型",
-      "title_en": "嵌入 Gemma 2",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-      "permalink": "https://aihot.news/items/p5p6mvoswutj6qpv6ew2p1nvo",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-10-06T21:42:05.236Z",
-      "discoveredAt": "2026-10-06T21:59:30.749Z",
-      "summary": "Google 发布 EmbeddingGemma 2，将文本、图像、音频、视频和代码原生映射到统一嵌入空间，模型基于 Gemma 4 架构，740M 参数，采用 Apache 2.0 许可，权重已上架 Hugging Face 和 Kaggle。",
-      "category": "ai-models",
-      "score": 67,
+      "id": "i1gpblg3xxpabsofe0g5xfns7",
+      "title": "Common Sense Media 评估称 ChatGPT for Teens 在心理健康危机中仍鼓励青少年继续对话",
+      "title_en": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "permalink": "https://aihot.news/items/i1gpblg3xxpabsofe0g5xfns7",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-10-07T18:15:28.000Z",
+      "discoveredAt": "2026-10-07T18:48:26.521Z",
+      "summary": "Common Sense Media 发布研究，将 ChatGPT for Teens 评为“不可接受风险”，称其留存设计在危机情境中依然普遍存在，对五类红线级严重危害中的三类评分不及格。",
+      "category": "industry",
+      "score": 71,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/p5p6mvoswutj6qpv6ew2p1nvo"
+        "canonical": "https://aihot.news/items/i1gpblg3xxpabsofe0g5xfns7"
       },
       "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "gvg5gu80s20vsli4mtr4kz3jz",
-      "title": "Google Nano Banana 2.1 图像模型上线 fal",
-      "title_en": "Nano Banana 2.1 is now on fal.",
-      "url": "https://x.com/fal/status/2107584175452602610",
-      "permalink": "https://aihot.news/items/gvg5gu80s20vsli4mtr4kz3jz",
-      "source": "X：fal (@fal)",
-      "publishedAt": "2026-10-06T21:29:59.000Z",
-      "discoveredAt": "2026-10-06T21:40:32.133Z",
-      "summary": "Google 最新的图像模型 Nano Banana 2.1 现已在 fal 上线。该模型带来更快的生成速度、更好的主体一致性、改进的视觉设计以及基于蒙版的编辑能力。",
-      "category": "ai-products",
-      "score": 52,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/gvg5gu80s20vsli4mtr4kz3jz"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视觉",
-        "设计",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "da4ty04z5p0wfec8s6nycxi7n",
-      "title": "WHO 非洲区域办事处用 Google Earth AI 定位刚果（金）埃博拉暴露风险地区",
-      "title_en": "During the ongoing Ebola outbreak in the Democratic Republic of Congo (DRC), our partners at @WHOAFRO put Google Earth AI to work to unco...",
-      "url": "https://x.com/Google/status/2107578325367701915",
-      "permalink": "https://aihot.news/items/da4ty04z5p0wfec8s6nycxi7n",
-      "source": "X：Google (@Google)",
-      "publishedAt": "2026-10-06T21:06:44.000Z",
-      "discoveredAt": "2026-10-06T21:07:33.180Z",
-      "summary": "Google 介绍，在刚果民主共和国（DRC）埃博拉疫情期间，WHO 非洲区域办事处（@WHOAFRO）使用其 Geospatial Reasoning agent 原型绘制暴露风险与人口流动性高的区域。团队在几分钟内定位了 48 个暴露定居点和超过 45,500 名高危人群，而这一过程通常需要数周。",
-      "category": "ai-products",
-      "score": 59,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/da4ty04z5p0wfec8s6nycxi7n"
-      },
-      "sourceType": "X",
-      "designCategory": "设计工具",
+      "designCategory": "产品与体验",
       "relevanceScore": 6,
-      "editorialScore": 11,
+      "editorialScore": 10,
       "tags": [
-        "原型",
-        "agent"
+        "设计"
       ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "g1k2ragppm8j4apj75qu1k4ug",
-      "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
-      "title_en": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "permalink": "https://aihot.news/items/g1k2ragppm8j4apj75qu1k4ug",
-      "source": "Google DeepMind：Blog（RSS）",
-      "publishedAt": "2026-10-06T19:57:04.000Z",
-      "discoveredAt": "2026-10-06T21:03:32.845Z",
-      "summary": "Google DeepMind 发布 EmbeddingGemma 2，基于 Gemma 4 架构，以 Apache 2.0 许可开源，将文本、代码、图像、视频和音频映射到统一嵌入空间。",
-      "category": "ai-models",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/g1k2ragppm8j4apj75qu1k4ug"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "elprrnj2m5fvflgzng8yhujti",
-      "title": "Google 发布 7.4 亿参数开源嵌入模型 EmbeddingGemma 2",
-      "title_en": "Google claims EmbeddingGemma 2 outperforms rival embedding models twice its size",
-      "url": "https://the-decoder.com/google-claims-embeddinggemma-2-outperforms-rival-embedding-models-twice-its-size/",
-      "permalink": "https://aihot.news/items/elprrnj2m5fvflgzng8yhujti",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-10-06T19:47:27.000Z",
-      "discoveredAt": "2026-10-06T19:52:32.838Z",
-      "summary": "Google 发布开源嵌入模型 EmbeddingGemma 2，740M 参数，可将文本、图像、视频、音频和代码转为向量，称其在多模态嵌入基准上优于规模两倍的竞品。",
-      "category": "ai-models",
-      "score": 61,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/elprrnj2m5fvflgzng8yhujti"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "bnzr47lbb2y78brilcesr1qa1",
-      "title": "Google DeepMind 发布 EmbeddingGemma 2：基于 Gemma 4 的 740M 开源多模态嵌入模型",
-      "title_en": "Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4",
-      "url": "https://www.marktechpost.com/2026/10/06/google-deepmind-releases-embeddinggemma-2-a-740m-open-multimodal-embedding-model-built-on-gemma-4/",
-      "permalink": "https://aihot.news/items/bnzr47lbb2y78brilcesr1qa1",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-10-06T18:36:08.000Z",
-      "discoveredAt": "2026-10-06T19:00:32.325Z",
-      "summary": "Google DeepMind 发布开源嵌入模型 EmbeddingGemma 2，可将文本、代码、图像、视频和音频嵌入统一的 768 维向量空间，基于 Gemma 4 架构，共 740M 参数，上下文窗口 8192 token，采用 Apache 2.0 许可。",
-      "category": "ai-models",
-      "score": 61,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/bnzr47lbb2y78brilcesr1qa1"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "arxf8p2iryt7dsp5tyb74o85m",
-      "title": "Vibecoding 没有手动编写代码那么有趣",
-      "title_en": null,
-      "url": "https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/",
-      "permalink": "https://aihot.news/items/arxf8p2iryt7dsp5tyb74o85m",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-10-06T16:11:09.709Z",
-      "discoveredAt": "2026-10-06T16:23:28.936Z",
-      "summary": "一位开发者认为，vibecoding 虽然能快速产出原型、带来即时满足，却缺少手写代码时那种硬仗后的成就感、做好一件工作的满足感和学习乐趣。他用 AI 构建过 HN 书签工具、预测市场派对游戏、野火预警系统和音准训练应用，但过程并不像手写小爬虫那样有趣。",
+      "id": "jopz2c0ofgn0rcwc88ug4997o",
+      "title": "Tomasz Tunguz：当 AI 模型趋于商品化，战略应如何调整",
+      "title_en": "A Change in AI Strategy",
+      "url": "https://tomtunguz.com/what-if-the-models-are-commoditized/",
+      "permalink": "https://aihot.news/items/jopz2c0ofgn0rcwc88ug4997o",
+      "source": "Tomasz Tunguz 博客（VC 分析）",
+      "publishedAt": "2026-10-07T00:00:00.000Z",
+      "discoveredAt": "2026-10-07T16:20:20.890Z",
+      "summary": "Tomasz Tunguz 分析认为 AI 模型正走向商品化，并提出三条应对策略：转售合作、控制用户界面、沉淀用户数据用于智能路由和训练。",
       "category": "tip",
-      "score": 50,
+      "score": 62,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/arxf8p2iryt7dsp5tyb74o85m"
+        "canonical": "https://aihot.news/items/jopz2c0ofgn0rcwc88ug4997o"
       },
       "sourceType": "网站",
-      "designCategory": "设计工具",
+      "designCategory": "产品与体验",
       "relevanceScore": 6,
-      "editorialScore": 11,
+      "editorialScore": 10,
       "tags": [
-        "原型"
+        "界面"
       ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "md5d5whrcxflneksm4ucpecv9",
@@ -1071,7 +1206,7 @@
       "title_en": "IT早报 1007：余承东详解华为 Mate 90“拼好网”功能；杨利伟称中国空间站下半年迎来首批外籍航天员；余承东官宣鸿蒙出海；2026 年诺贝尔物理学奖揭晓...",
       "url": "https://www.ithome.com/1/010/139.htm",
       "permalink": "https://aihot.news/items/md5d5whrcxflneksm4ucpecv9",
-      "source": "IT之家（RSS）",
+      "source": "IT之家·人工智能",
       "publishedAt": "2026-10-06T23:53:37.000Z",
       "discoveredAt": "2026-10-07T00:00:34.195Z",
       "summary": "谷歌推出开源多模态嵌入模型 EmbeddingGemma 2，基于 Gemma 4 架构，7.4 亿参数，量化后手机端运行仅需 191MB 内存，可统一处理文本、代码、图像、视频和音频。",
@@ -1098,7 +1233,7 @@
       "title_en": "LibreOffice：短期内默认版本不内置 AI 功能，用户可通过扩展自行接入本地模型",
       "url": "https://www.ithome.com/1/010/132.htm",
       "permalink": "https://aihot.news/items/okr8eghbxupjpdshccnv18r1r",
-      "source": "IT之家（RSS）",
+      "source": "IT之家·人工智能",
       "publishedAt": "2026-10-06T23:19:20.000Z",
       "discoveredAt": "2026-10-06T23:28:31.873Z",
       "summary": "文档基金会本周在博客文章中表示，LibreOffice 在可预见的未来不会内置 AI 功能，默认安装版本不包含任何形式的人工智能。该机构称这是经过慎重考量的设计定位，目的是确保用户文档不被上传服务器处理；有需求的用户可自行安装扩展插件对接本地 AI 模型。其八月下旬发布的最新版本已重申不含生成式 AI 功能。",
@@ -1117,142 +1252,6 @@
         "设计"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "w0pwjlmlwptov28gofveeq0o8",
-      "title": "Brett Adcock 创办的 Hark 广泛发布主打隐私的 AI 个人助理 Hark Pro",
-      "title_en": "Hark releases an AI personal assistant with a focus on privacy",
-      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-      "permalink": "https://aihot.news/items/w0pwjlmlwptov28gofveeq0o8",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-10-06T18:22:45.000Z",
-      "discoveredAt": "2026-10-06T18:30:32.857Z",
-      "summary": "由 Brett Adock 创办不到一年的初创公司 Hank 广泛发布 AI 个人助理 Hark Pro，免费可用并提供针对重度用户的订阅档。产品基于专门为计算机使用训练的模型，替用户操作电脑处理邮件、日程、订机票等数字任务，并以小窗口展示智能体浏览网页的过程以建立信任；设计负责人 Abidhur Chowdhury 表示公司不做广告和数据售卖，还计划在 2027 年推出配套的 AI 原生设备。",
-      "category": "ai-products",
-      "score": 62,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/w0pwjlmlwptov28gofveeq0o8"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计",
-        "广告",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "ktjti7hbm1gor33jpoc6ghili",
-      "title": "Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议",
-      "title_en": "Introducing Personal Agent Protocol",
-      "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
-      "permalink": "https://aihot.news/items/ktjti7hbm1gor33jpoc6ghili",
-      "source": "Sierra：Blog（RSS）",
-      "publishedAt": "2026-10-06T17:32:00.000Z",
-      "discoveredAt": "2026-10-06T18:06:33.237Z",
-      "summary": "Sierra 与 Meta 联合 Genesys、Instinct、Rocket、Shopify、Stripe、Walmart 等伙伴宣布开发 Personal Agent Protocol，一个定义个人 AI 智能体如何与企业交互的开放标准，任何人都可实现。",
-      "category": "industry",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ktjti7hbm1gor33jpoc6ghili"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "交互",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "texg7326xjpv37dnm6wtpackd",
-      "title": "openTPU 开源 AI 加速器：AI 智能体设计的硬件在 FPGA 上运行十余个模型",
-      "title_en": "AI is now capable of developing its own inference hardware",
-      "url": "https://github.com/FeSens/openTPU",
-      "permalink": "https://aihot.news/items/texg7326xjpv37dnm6wtpackd",
-      "source": "Hacker News：AI 热帖",
-      "publishedAt": "2026-10-06T16:23:25.000Z",
-      "discoveredAt": "2026-10-06T17:07:28.187Z",
-      "summary": "openTPU 是一个开源 AI 加速器项目，将 auto-arch-tournament 的经验用于 AI 加速器设计，探索 AI 智能体在硬件设计上能走多远。",
-      "category": "ai-products",
-      "score": 64,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/texg7326xjpv37dnm6wtpackd"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "y2hsshqqh0u6z1dmazgro0mi2",
-      "title": "Mistral 发布 1 万亿参数多模态模型 Mistral Large 4，计划三周后开放权重",
-      "title_en": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
-      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-      "permalink": "https://aihot.news/items/y2hsshqqh0u6z1dmazgro0mi2",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-10-06T14:33:16.000Z",
-      "discoveredAt": "2026-10-06T14:46:28.161Z",
-      "summary": "Mistral AI 于周二发布万亿参数多模态模型 Mistral Large 4（昵称 Le Chonk），定位为介于闭源与中国开源模型之间的第三条路线。目前仅能通过公开 guardrail 端点访问，安全测试完成后计划在三周内开放权重；该模型仅用 4,000 块 NVIDIA GPU 在 Mistral 自有算力上完成训练，优化用例包括网络安全、金融和芯片设计。",
-      "category": "ai-models",
-      "score": 64,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/y2hsshqqh0u6z1dmazgro0mi2"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "m7qlf4epiklectominlmh4eoc",
-      "title": "Reka 发布 19B 全模态推理模型 Rho-1，单一网络生成视频并输出机器人动作",
-      "title_en": "Reka Releases Rho-1: A 19B Omni-Reasoning Model That Understands, Generates Video and Outputs Robot Actions in One",
-      "url": "https://www.marktechpost.com/2026/10/05/reka-releases-rho-1-a-19b-omni-reasoning-model-that-understands-generates-video-and-outputs-robot-actions-in-one/",
-      "permalink": "https://aihot.news/items/m7qlf4epiklectominlmh4eoc",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-10-06T06:45:31.000Z",
-      "discoveredAt": "2026-10-06T08:52:25.550Z",
-      "summary": "Reka 发布 19B 全模态推理模型 Rho-1 的研究预览版，从零训练，单个网络即可理解并生成文本、图像和视频，并输出机器人动作。模型在每层使用理解与生成两条专家流，共享注意力与同一 KV cache；蒸馏版把去噪从 99 步降到 8 步，约 1 秒生成 5.3 秒视频片段。训练用了 320 张 H100 跑 3 个月，视频上限 672×384，目前仅研究预览，未开放权重、API 或定价。",
-      "category": "ai-models",
-      "score": 56,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/m7qlf4epiklectominlmh4eoc"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "dkvvq7vcc8uozhpx4lvgpggu2",
@@ -1281,137 +1280,60 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "nkdx1pnpciaw5d9ssgax9h2s6",
-      "title": "Mistral Large 4 发布：开源权重的通用多模态 MoE 模型",
-      "title_en": "米斯特拉尔 大号 4",
-      "url": "https://docs.mistral.ai/models/mistral-large-4-0",
-      "permalink": "https://aihot.news/items/nkdx1pnpciaw5d9ssgax9h2s6",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-10-06T13:32:16.752Z",
-      "discoveredAt": "2026-10-06T13:52:29.678Z",
-      "summary": "Mistral 发布 Mistral Large 4，一个开源权重的通用多模态模型，采用细粒度 MoE 架构。模型活跃参数 49B、总参数 1.05T，并配备 1.6B 的视觉编码器。",
-      "category": "ai-models",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/nkdx1pnpciaw5d9ssgax9h2s6"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "视觉"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "dj26kc4iin05yi6jmje18iaum",
-      "title": "Meta 广告 MCP server 上线 Databricks Marketplace，接入 Genie 用自然语言投放广告",
-      "title_en": "Meta’s ads MCP server comes to Databricks: Put your customer intelligence to work in advertising campaigns",
-      "url": "https://www.databricks.com/blog/meta-ads-mcp-databricks",
-      "permalink": "https://aihot.news/items/dj26kc4iin05yi6jmje18iaum",
-      "source": "Databricks：Blog（RSS）",
-      "publishedAt": "2026-10-06T12:45:00.000Z",
-      "discoveredAt": "2026-10-06T13:42:26.898Z",
-      "summary": "Meta 的广告 MCP server 已在 Databricks Marketplace 上线，暴露覆盖广告活动全生命周期的 25+ 工具，可创建广告系列和广告组、调整预算与出价、管理受众和创意并拉取投放数据。",
+      "id": "mhjq7fo1gr580u0tb0i227ttz",
+      "title": "Claude Code v2.1.294 发布：修复 prompt 与 agent hooks 的指令判定",
+      "title_en": "v2.1.294",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.294",
+      "permalink": "https://aihot.news/items/mhjq7fo1gr580u0tb0i227ttz",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "publishedAt": "2026-10-08T05:03:54.000Z",
+      "discoveredAt": "2026-10-08T05:30:25.200Z",
+      "summary": "Claude Code v2.1.294 修复了以指令形式编写的 prompt 和 agent hooks（如\"阻止某些命令\"）反而放行本应拦截内容的问题。同时改进了 Stop 与 SubagentStop 上指令式 prompt hooks（如\"构建失败就继续\"）的判定，减少 Claude 提前停止的情况。",
       "category": "ai-products",
-      "score": 33,
+      "score": 25,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/dj26kc4iin05yi6jmje18iaum"
-      },
-      "sourceType": "网站",
-      "designCategory": "行业观察",
-      "relevanceScore": 9,
-      "editorialScore": 9,
-      "tags": [
-        "广告",
-        "创意",
-        "mcp"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "sz90d8ss53nbmrxixsy4w8tq0",
-      "title": "Cohere 推出 North 2：可对接任意模型的企业级 AI 控制中心",
-      "title_en": "Cohere pitches North 2 as the enterprise AI control room that works with any model",
-      "url": "https://the-decoder.com/cohere-pitches-north-2-as-the-enterprise-ai-control-room-that-works-with-any-model/",
-      "permalink": "https://aihot.news/items/sz90d8ss53nbmrxixsy4w8tq0",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-10-06T06:58:19.000Z",
-      "discoveredAt": "2026-10-06T07:54:20.999Z",
-      "summary": "Cohere 发布企业平台 North 2，可自主处理多步工作流并跨会话保留上下文，支持 Slack、SharePoint、Jira 等工具接入，还能从聊天提示词直接生成演示文稿、仪表盘和简单应用。该平台不绑定模型，除 Command A+ 等自家模型外可接入企业自有模型，支持本地、云端或完全气隙部署，并设有人工审批机制。LG CNS 与 Bell Cyber 已在生产环境运行 North。",
-      "category": "ai-products",
-      "score": 42,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/sz90d8ss53nbmrxixsy4w8tq0"
+        "canonical": "https://aihot.news/items/mhjq7fo1gr580u0tb0i227ttz"
       },
       "sourceType": "网站",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
+      "relevanceScore": 7,
+      "editorialScore": 8,
       "tags": [
-        "工作流",
-        "提示词"
+        "prompt",
+        "claude code",
+        "agent"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "ytmjg2oyohg3m2pdxsbwy91cn",
-      "title": "开源 ESP32-C3 广告拦截器：用 flash 内哈希表免 PSRAM 拦截 14 万域名",
-      "title_en": "ESP32-C3 广告拦截器",
-      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
-      "permalink": "https://aihot.news/items/ytmjg2oyohg3m2pdxsbwy91cn",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-10-07T10:36:58.082Z",
-      "discoveredAt": "2026-10-07T10:52:06.878Z",
-      "summary": "M-Abozaid 开源了一个运行在约 2 美元 ESP32-C3 上的 Pi-hole 风格 DNS 广告拦截器，无需 PSRAM。核心技巧是把域名存为排序的 40 位哈希放进 flash 再二分查找，140,000+ 个域名只占约 0.7 MB flash、约 50 KB RAM，查询约 10 ms；命中则应答 0.0.0.0，未命中转发上游。",
-      "category": "tip",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ytmjg2oyohg3m2pdxsbwy91cn"
-      },
-      "sourceType": "网站",
-      "designCategory": "行业观察",
-      "relevanceScore": 6,
-      "editorialScore": 6,
-      "tags": [
-        "广告"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "ej4yxbegq774tpnho8bwcs6j2",
-      "title": "Photopea 开发者称 GitHub 拒绝下架其被破解复制的软件仓库",
-      "title_en": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
-      "url": "https://news.ycombinator.com/item?id=49982498",
-      "permalink": "https://aihot.news/items/ej4yxbegq774tpnho8bwcs6j2",
-      "source": "Hacker News：AI 热帖",
-      "publishedAt": "2026-10-06T18:54:01.000Z",
-      "discoveredAt": "2026-10-07T01:14:39.864Z",
-      "summary": "Photopea 在线修图工具的开发者称，有人利用 AI 从其网站提取 JavaScript 代码、移除广告后在 GitHub 上发布，存在数十个此类仓库，已收到受影响用户的投诉。",
+      "id": "aihotnoticelegacyapi1031z",
+      "title": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移",
+      "title_en": "AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
+      "url": "https://aihot.news/agent?tab=api#legacy-api-migration",
+      "permalink": "https://aihot.news/agent?tab=api#legacy-api-migration",
+      "source": "AIHOT",
+      "publishedAt": "2026-10-08T02:00:00.000Z",
+      "discoveredAt": "2026-10-08T02:00:00.000Z",
+      "summary": "这条消息来自 AIHOT 旧版接口 /api/public/*：它将于 2026 年 10 月 31 日停用，之后这里不会再有新资讯。如果它是群机器人或脚本推送来的，请转告维护的人把地址换成 https://aihot.news/api/v1，字段一一对应；迁移指南和可以直接交给 AI 改写代码的提示词见 https://aihot.news/agent?tab=api#legacy-api-migration 。同一天起旧域名 aihot.virxact.com 的所有地址都只跳转到 aihot.news，RSS、MCP 等地址也请换成新域名；收藏的网页链接照样能打开。",
       "category": "industry",
-      "score": 66,
-      "selected": false,
+      "score": 100,
+      "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ej4yxbegq774tpnho8bwcs6j2"
+        "canonical": "https://aihot.news/agent?tab=api#legacy-api-migration"
       },
       "sourceType": "网站",
-      "designCategory": "行业观察",
-      "relevanceScore": 6,
-      "editorialScore": 6,
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
       "tags": [
-        "广告"
+        "提示词",
+        "agent",
+        "mcp"
       ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     }
   ]
 }
