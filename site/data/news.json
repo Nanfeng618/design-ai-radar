@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-09T06:08:52.868Z",
-  "previousGeneratedAt": "2026-10-08T13:29:34.799Z",
+  "generatedAt": "2026-10-09T13:17:17.227Z",
+  "previousGeneratedAt": "2026-10-09T06:08:52.868Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 46,
+  "itemCount": 48,
   "sourceCounts": {
     "X": 24,
-    "网站": 21,
+    "网站": 23,
     "公众号": 1
   },
   "source": {
@@ -42,34 +42,6 @@
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "gw88w34fuzii3u6kb23y2tafc",
-      "title": "OpenAI 插件扩展生态合作方一览",
-      "title_en": "See who’s building with plugin extensions: @Adobe, @Canva, @figma, @Shopify, @instacart, @Atlassian, @tldraw and @MagicPathAI.",
-      "url": "https://x.com/OpenAIDevs/status/2107927089928372233",
-      "permalink": "https://aihot.news/items/gw88w34fuzii3u6kb23y2tafc",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "publishedAt": "2026-10-07T20:12:36.000Z",
-      "discoveredAt": "2026-10-07T20:34:24.535Z",
-      "summary": "看看谁在用插件扩展构建：@Adobe、@Canva、@figma、@Shopify、@instacart、@Atlassian、@tldraw 和 @MagicPathAI。",
-      "category": "ai-products",
-      "score": 32,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/gw88w34fuzii3u6kb23y2tafc"
-      },
-      "sourceType": "X",
-      "designCategory": "设计工具",
-      "relevanceScore": 21,
-      "editorialScore": 26,
-      "tags": [
-        "figma",
-        "canva",
-        "adobe"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "udclgdr1ttvca4ee75719fm9m",
@@ -158,91 +130,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "rrjbk0j27vv6eaki3go2anwn2",
-      "title": "OpenAI 向所有用户推出 ChatGPT Intelligent UI 界面功能",
-      "title_en": "OpenAI is redesigning ChatGPT replies around tappable buttons, editable graphs and calculators built for a single question, through a fea...",
-      "url": "https://x.com/rohanpaul_ai/status/2107942819881185733",
-      "permalink": "https://aihot.news/items/rrjbk0j27vv6eaki3go2anwn2",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-10-07T21:15:06.000Z",
-      "discoveredAt": "2026-10-07T21:23:23.914Z",
-      "summary": "OpenAI 在 ChatGPT 中向所有人推出 Intelligent UI，将回复重构为可点击按钮、可编辑图表和单问题计算器等交互组件。其实现依赖预制界面组件库、随答案流式显示的编译器，并由 GPT-6 选择布局或在合适时用纯文本；GPT-6 Instant 网络搜索答案比 GPT-5.6 Instant 提前 44% 开始输出，觉得视觉元素过多的用户也可像个性设置一样调低。",
-      "category": "ai-products",
-      "score": 81,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/rrjbk0j27vv6eaki3go2anwn2"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 15,
-      "editorialScore": 19,
-      "tags": [
-        "ui",
-        "视觉",
-        "界面",
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "c7nry2q60zru2igjwun67r1sc",
-      "title": "Ethan Mollick 谈 ChatGPT Intelligent UI：界面正按问题按需生成",
-      "title_en": "Had early access to the Intelligent UI experience and it was a nice change from walls of text. It also suggests that, increasingly, we ar...",
-      "url": "https://x.com/emollick/status/2107938889004396561",
-      "permalink": "https://aihot.news/items/c7nry2q60zru2igjwun67r1sc",
-      "source": "X：Ethan Mollick (@emollick)",
-      "publishedAt": "2026-10-07T20:59:29.000Z",
-      "discoveredAt": "2026-10-07T21:22:25.166Z",
-      "summary": "Ethan Mollick 表示自己早期体验了 OpenAI 在 ChatGPT 全量推出的 GPT-6 与 Intelligent UI，认为它相比成段文字是不错的改变。他进一步判断，未来会越来越多地看到针对当前问题按需生成的界面。OpenAI 称 Intelligent UI 能提供快速、可交互的回答，让日常问题更直观、复杂主题更易理解，并即时提供与任务匹配的交互工具。",
-      "category": "tip",
-      "score": 82,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/c7nry2q60zru2igjwun67r1sc"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 15,
-      "editorialScore": 19,
-      "tags": [
-        "ui",
-        "界面",
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "nmtp1bhr3dfqo0fc2kat4an8e",
-      "title": "ChatGPT 推出 Intelligent UI，并预告 GPT-6 将面向所有用户",
-      "title_en": "ChatGPT just got a lot more visual—introducing Intelligent UI.",
-      "url": "https://x.com/ChatGPT/status/2107933133635248145",
-      "permalink": "https://aihot.news/items/nmtp1bhr3dfqo0fc2kat4an8e",
-      "source": "X：ChatGPT (@ChatGPT)",
-      "publishedAt": "2026-10-07T20:36:37.000Z",
-      "discoveredAt": "2026-10-07T20:48:24.061Z",
-      "summary": "ChatGPT 推出 Intelligent UI，能以完全交互式的用户界面快速回答问题，让日常回答更直观。它帮助用户更轻松地学习复杂主题，并即时生成解决任务的小工具。文中还预告 GPT-6 即将登陆 ChatGPT，面向所有用户。",
-      "category": "ai-products",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/nmtp1bhr3dfqo0fc2kat4an8e"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 15,
-      "editorialScore": 19,
-      "tags": [
-        "ui",
-        "界面",
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "iz5eb6na5hslkkre44qvq0sl7",
       "title": "Arena 宣布获 Salesforce Ventures 领投的 B 轮融资",
       "title_en": "Very excited to be working with the team at @SalesforceVC!",
@@ -296,6 +183,34 @@
         "视频生成",
         "视觉",
         "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "ncu60cvijdnef208welxkkcvf",
+      "title": "Anthropic Claude 上线 Dashboards 数据仪表板与 Motion 解释性动画功能",
+      "title_en": "Anthropic Claude 现已支持数据仪表板与解释性动画功能",
+      "url": "https://www.ithome.com/1/010/962.htm",
+      "permalink": "https://aihot.news/items/ncu60cvijdnef208welxkkcvf",
+      "source": "IT之家·人工智能",
+      "publishedAt": "2026-10-09T06:57:33.323Z",
+      "discoveredAt": "2026-10-09T07:18:29.478Z",
+      "summary": "Anthropic 宣布 Claude 新增 Dashboards 和 Motion 两项测试功能。Dashboards 连接公司数据平台后用自然语言即可构建自动更新的数据监控仪表板，向所有付费套餐用户开放；Motion 可将文字、图表、形状、图像动画化为短片，未调用视频生成模型、无生成画面，仅对 Team 和 Enterprise 用户开放。",
+      "category": "ai-products",
+      "score": 57,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/ncu60cvijdnef208welxkkcvf"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 14,
+      "editorialScore": 17,
+      "tags": [
+        "视频生成",
+        "视频",
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -467,87 +382,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "e9x6n5jwnvfek828vpdbhirwx",
-      "title": "OpenAI 在 ChatGPT 全量推出 GPT-6 与 Intelligent UI",
-      "title_en": "Try out Intelligent UI - every ChatGPT completion now has the potential to create a custom UI. Phenomenal for learning new things!",
-      "url": "https://x.com/markchen90/status/2107947355115028880",
-      "permalink": "https://aihot.news/items/e9x6n5jwnvfek828vpdbhirwx",
-      "source": "X：Mark Chen（OpenAI 首席研究官，@markchen90）",
-      "publishedAt": "2026-10-07T21:33:07.000Z",
-      "discoveredAt": "2026-10-07T21:33:25.585Z",
-      "summary": "OpenAI 宣布 GPT-6 与 Intelligent UI 正在 ChatGPT 向所有用户推出。Intelligent UI 可让回答更可视化、复杂主题更易理解，并即时生成交互式工具；OpenAI 首席研究官 Mark Chen 表示每次 ChatGPT 补全都有潜力生成自定义 UI，很适合学习新知识。",
-      "category": "ai-products",
-      "score": 79,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/e9x6n5jwnvfek828vpdbhirwx"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 11,
-      "editorialScore": 15,
-      "tags": [
-        "ui",
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "sd9421ibml14y7yog6u3gqtx0",
-      "title": "Sam Altman 宣布 ChatGPT 可生成自定义 UI",
-      "title_en": "ChatGPT can now generate a custom UI for you!",
-      "url": "https://x.com/sama/status/2107924408597950702",
-      "permalink": "https://aihot.news/items/sd9421ibml14y7yog6u3gqtx0",
-      "source": "X：Sam Altman (@sama)",
-      "publishedAt": "2026-10-07T20:01:57.000Z",
-      "discoveredAt": "2026-10-07T20:21:25.235Z",
-      "summary": "Sam Altman 宣布 ChatGPT 现在可以为用户生成自定义 UI。引用的 OpenAI 内容称 GPT-6 与 Intelligent UI 正在向所有 ChatGPT 用户推出，可提供快速交互式回答，让日常问题更可视化、复杂主题更易理解，并为任务即时生成交互工具。",
-      "category": "ai-products",
-      "score": 79,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/sd9421ibml14y7yog6u3gqtx0"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 11,
-      "editorialScore": 15,
-      "tags": [
-        "ui",
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "qyb494pleksggb3idbal82gfj",
-      "title": "GPT-6 与 Intelligent UI 开始向所有 ChatGPT 用户推送",
-      "title_en": "OPENAI 🔥: GPT-6 and Intelligent UI are rolling out to all ChatGPT users.",
-      "url": "https://x.com/testingcatalog/status/2107923723638493593",
-      "permalink": "https://aihot.news/items/qyb494pleksggb3idbal82gfj",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-10-07T19:59:13.000Z",
-      "discoveredAt": "2026-10-07T20:21:26.355Z",
-      "summary": "据 TestingCatalog 消息，OpenAI 的 GPT-6 与 Intelligent UI 正在向所有 ChatGPT 用户推送。Intelligent UI 可让 ChatGPT 为请求的主题创建交互式体验来讲解；作者表示 ChatGPT 上似乎还没有 GPT-6.1。",
-      "category": "ai-products",
-      "score": 68,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/qyb494pleksggb3idbal82gfj"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 11,
-      "editorialScore": 15,
-      "tags": [
-        "ui",
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "lfjvrbxxsf2b080v1v108p5ez",
       "title": "Claude Docs、Slides 和 Design 结束公测，全部计划含免费版可用",
       "title_en": "Starting today, Claude Docs, Slides, and Design are out of beta and available on every plan including Free.",
@@ -602,62 +436,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "by0h27slevnb8j1fh8cb1irf3",
-      "title": "Envato Burst 模式降低图像生成成本",
-      "title_en": "Image models have gotten very good at matching a prompt. That helps only once you can write the prompt.",
-      "url": "https://x.com/rohanpaul_ai/status/2107937276475174976",
-      "permalink": "https://aihot.news/items/by0h27slevnb8j1fh8cb1irf3",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-10-07T20:53:04.000Z",
-      "discoveredAt": "2026-10-07T21:23:23.922Z",
-      "summary": "图像模型已经非常擅长匹配提示词。但前提是你能写出提示词。\n\nEnvato 的 Burst 模式将单张图像成本降低 6 倍，1 个 AI credit 返回 6 张草稿。\n\n在 Envato 的 AI 图像工具中开启后，它能把粗略的提示词、风格参考或情绪板转化为一批并排展示的方向。\n\n创意探索是一个搜索问题，而只有当尝试另一条分支足够便宜时，搜索才有效。在这里，整批只需一个 AI credit。",
-      "category": "ai-products",
-      "score": 35,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/by0h27slevnb8j1fh8cb1irf3"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "图像生成",
-        "创意",
-        "图像",
-        "提示词"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "jysaycuol2bhlw9jdp7g0wj5i",
-      "title": "ChatGPT 推出 Intelligent UI",
-      "title_en": "With Intelligent UI, you can ask things like:",
-      "url": "https://x.com/ChatGPT/status/2107933135061291215",
-      "permalink": "https://aihot.news/items/jysaycuol2bhlw9jdp7g0wj5i",
-      "source": "X：ChatGPT (@ChatGPT)",
-      "publishedAt": "2026-10-07T20:36:37.000Z",
-      "discoveredAt": "2026-10-07T20:48:24.054Z",
-      "summary": "借助 Intelligent UI，你可以这样提问：\n\n- 拆解自行车的设计\n- 帮我规划一顿晚餐\n- 为我打造一个衣柜\n- 根据我的收据分摊晚餐账单\n\n你会得到更易理解、用起来也更愉快的可视化输出。",
-      "category": "ai-products",
-      "score": 34,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/jysaycuol2bhlw9jdp7g0wj5i"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 10,
-      "editorialScore": 14,
-      "tags": [
-        "ui",
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "lmcdsl3jnm65par68x6zn9glj",
       "title": "新思科技拟与中国 AI 实验室合作，在华加速芯片设计",
       "title_en": "新思科技拟寻求与中国 AI 实验室合作，在华加速芯片设计",
@@ -695,7 +473,7 @@
       "publishedAt": "2026-10-09T00:12:00.000Z",
       "discoveredAt": "2026-10-09T00:27:18.976Z",
       "summary": "Orange AI 发布 Next Token 播客第五期的转写文章，讨论 Opus 5.5 发布及 RSI 到来后对软件、硬件和游戏行业的冲击。文中举例 Opus 5.5 直接根据旧剧本写出可玩游戏、反编译塞尔达等老游戏进度加快、AI 重写 Photoshop 类软件规避起诉、Muse 通用固件让 ESP32 硬件变得 Agent Ready，并认为法律和生态尚未跟上，最终能留下的东西不多了。",
-      "category": "tip",
+      "category": "opinion",
       "score": 57,
       "selected": false,
       "attribution": {
@@ -848,6 +626,32 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "qhuqcpkqblqlk3yxt7idhteod",
+      "title": "ArtCraft 开源项目推出 WordCraft 等 Office 复刻应用",
+      "title_en": "那个复刻 Adobe 全家桶的 **Craft 开源项目，现在又盯上 Office 了：",
+      "url": "https://x.com/shao__meng/status/2108503493279683016",
+      "permalink": "https://aihot.news/items/qhuqcpkqblqlk3yxt7idhteod",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-10-09T10:23:01.000Z",
+      "discoveredAt": "2026-10-09T10:31:30.924Z",
+      "summary": "复刻 Adobe 全家桶的 ArtCraft 开源项目将目标转向 Office，对应项目为 deckcraft（PPT）、wordcraft（Word）、gridcraft（Excel）。其中 WordCraft 是用纯 Rust 重写的开源文字处理器，读写 .docx，可在 macOS、Windows、Linux、BSD 原生运行，也可通过 WebAssembly 在浏览器运行，支持 ribbon、样式、表格、修订、引用和邮件合并，许可证为 MIT / Apache-2.0。仓库地址：https://github.com/orgs/storytold/repositories",
+      "category": "ai-products",
+      "score": 54,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/qhuqcpkqblqlk3yxt7idhteod"
+      },
+      "sourceType": "X",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
+      "tags": [
+        "adobe"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
       "id": "a1iczthomaponjimdfq7yqnyx",
       "title": "可灵 AI 将在 LA Tech Week 2026 举办分享活动",
       "title_en": "RSVP Now｜Kling AI at LA Tech Week 2026",
@@ -929,35 +733,6 @@
         "智能体"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cal34hameqt3bh6d52vaqt58v",
-      "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
-      "title_en": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-      "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/",
-      "permalink": "https://aihot.news/items/cal34hameqt3bh6d52vaqt58v",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-10-08T13:01:01.000Z",
-      "discoveredAt": "2026-10-08T13:27:33.293Z",
-      "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
-      "category": "paper",
-      "score": 80,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cal34hameqt3bh6d52vaqt58v"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 10,
-      "editorialScore": 11,
-      "tags": [
-        "提示词",
-        "prompt",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "u2t10s4umh1e9lh836ztxcqx5",
@@ -1042,6 +817,32 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "fh3n9p6mxy3ukgy6ywm0dxb66",
+      "title": "豆包工作新增画布功能，上线豆包 2.1 Lite 与图片模型 Seedream 5.0 Flash",
+      "title_en": "豆包工作上新：支持画布功能，模型再更新",
+      "url": "https://www.ithome.com/1/011/068.htm",
+      "permalink": "https://aihot.news/items/fh3n9p6mxy3ukgy6ywm0dxb66",
+      "source": "IT之家·人工智能",
+      "publishedAt": "2026-10-09T09:17:14.397Z",
+      "discoveredAt": "2026-10-09T09:41:40.132Z",
+      "summary": "豆包工作宣布任务模式新增画布功能，支持无限画布查看整理素材与创作成果，并可逐步编辑文字、配色与布局。同时上线豆包 2.1 Lite 模型，主打更省额度、更快交付，覆盖文档撰写、表格处理、PPT 制作等场景。此外新增图片模型 Seedream 5.0 Flash，为生图创作提供更多风格选择。",
+      "category": "ai-products",
+      "score": 49,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/fh3n9p6mxy3ukgy6ywm0dxb66"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "生图"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "w67crhgdse91csybjbbiccf3a",
       "title": "Character.AI 遭肯塔基州指控产品存在缺陷，聊天机器人被指怂恿用户自残和挨饿",
       "title_en": "聊天机器人怂恿用户自残、挨饿，Character.AI 遭肯塔基州指控“产品存在缺陷”",
@@ -1068,6 +869,121 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "wvqoab0uw6om8dcfr8zfhozm9",
+      "title": "Claude Managed Agents 自动化搭建指南：定时读取 Slack 与 GitHub 并发布更新",
+      "title_en": "How to build automations with Claude Managed Agents: https://claude.dev/blog/building-effective-agent-automations/",
+      "url": "https://x.com/ClaudeDevs/status/2108320296323477683",
+      "permalink": "https://aihot.news/items/wvqoab0uw6om8dcfr8zfhozm9",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "publishedAt": "2026-10-08T22:15:03.000Z",
+      "discoveredAt": "2026-10-08T22:36:18.599Z",
+      "summary": "一篇介绍如何用 Claude Managed Agents 搭建自动化的教程，示例为部署一个按计划读取 Slack 和 GitHub、具备凭证与记忆并发布更新的智能体。搭建可通过一条 Claude Code 命令完成，Max 和 Team 套餐中包含的 API credits 可用于该用途，原文链接 https://claude.dev/blog/building-effective-agent-automations/。",
+      "category": "tip",
+      "score": 62,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/wvqoab0uw6om8dcfr8zfhozm9"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 9,
+      "editorialScore": 10,
+      "tags": [
+        "自动化",
+        "claude code",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "egp7vrqc9z54to0psjoy9thc1",
+      "title": "Voyager 发布：面向创意工作的开放 Agent 工具",
+      "title_en": "There are two ways to put a model into creative work.",
+      "url": "https://x.com/rohanpaul_ai/status/2108294350492860618",
+      "permalink": "https://aihot.news/items/egp7vrqc9z54to0psjoy9thc1",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-10-08T20:31:58.000Z",
+      "discoveredAt": "2026-10-08T20:37:20.182Z",
+      "summary": "@anvisha 发布 Voyager，定位为创意工作领域的开放 harness，被作者称为 Codex for creative work，让 Agent 像编码 Agent 操作代码库一样操作项目文件和创意应用。",
+      "category": "opinion",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/egp7vrqc9z54to0psjoy9thc1"
+      },
+      "sourceType": "X",
+      "designCategory": "行业观察",
+      "relevanceScore": 10,
+      "editorialScore": 10,
+      "tags": [
+        "创意",
+        "creative",
+        "codex",
+        "agent"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
+      "id": "jchngncd7x579s34tlbc63sl4",
+      "title": "Tripo 生成 3D 资产接入 Quest 3",
+      "title_en": "Exploring the next-gen XR workflow:",
+      "url": "https://x.com/tripoai/status/2108101078084706616",
+      "permalink": "https://aihot.news/items/jchngncd7x579s34tlbc63sl4",
+      "source": "Tripo（官方 X）",
+      "publishedAt": "2026-10-08T07:43:58.000Z",
+      "discoveredAt": "2026-10-08T08:13:32.398Z",
+      "summary": "探索下一代 XR 工作流：\n\n用 Tripo 即时生成 3D 资产，然后放入 Quest 3 进行手部追踪交互。\n\n零建模时间，纯粹交互。",
+      "category": "tip",
+      "score": 32,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/jchngncd7x579s34tlbc63sl4"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 9,
+      "editorialScore": 10,
+      "tags": [
+        "交互",
+        "工作流",
+        "workflow",
+        "3d"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "x44q9bzlzt6mc1aw3hp0wmvyv",
+      "title": "Blacklight 打造 EffectTS 智能体框架",
+      "title_en": "we dont do a good job of talking about it but @0xblacklight built a dope effectTS agent harness that",
+      "url": "https://x.com/dexhorthy/status/2108044760753783272",
+      "permalink": "https://aihot.news/items/x44q9bzlzt6mc1aw3hp0wmvyv",
+      "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+      "publishedAt": "2026-10-08T04:00:11.000Z",
+      "discoveredAt": "2026-10-08T04:05:25.260Z",
+      "summary": "我们不太擅长宣传这件事，但 @0xblacklight 打造了一个很酷的 effectTS 智能体框架，它\n\n1) 将状态存储为可移植的仅追加日志\n2) 开箱即用地运行在 durable objects 上\n3) 有很酷的复古 opentui UI，带 10 个主题",
+      "category": "tip",
+      "score": 35,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/x44q9bzlzt6mc1aw3hp0wmvyv"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "ui",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "myoe16r78gjt87vu92995zsae",
       "title": "Block 如何用 Claude Fable 编排数千个 pull request 的代码迁移",
       "title_en": "How Block orchestrates Claude Fable across thousands of pull requests",
@@ -1077,7 +993,7 @@
       "publishedAt": "2026-10-08T00:00:00.000Z",
       "discoveredAt": "2026-10-08T23:30:19.672Z",
       "summary": "Anthropic 发表对 Block AI capabilities 负责人 Bradley Axen 的访谈，介绍 Block 用 Claude Fable 5 编排大规模代码迁移：Fable 做数据模型、API 规格等高层设计，再调度数十个更小的 Opus 或 Sonnet 模型执行文件修改和测试，一次迁移可能合并上千个 pull request。",
-      "category": "tip",
+      "category": "opinion",
       "score": 66,
       "selected": true,
       "attribution": {
@@ -1092,6 +1008,115 @@
         "设计"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "pxaxr3st74w41dh7xxqaarvrb",
+      "title": "Shaders 开源：200+ WebGPU 视觉特效封装为声明式组件，React/Vue/Svelte/Solid/原生 JS 共用一套 props",
+      "title_en": "Shaders 这个开源 WebGPU 着色器特效组件库必须收藏，200+ 种视觉效果封装成声明式组件、React / Vue / Svelte / Solid / 原生 JS 共用一个包、同一套 props、MIT 协议 @npm_i_shaders",
+      "url": "https://x.com/shao__meng/status/2108374124821381419",
+      "permalink": "https://aihot.news/items/pxaxr3st74w41dh7xxqaarvrb",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-10-09T01:48:57.000Z",
+      "discoveredAt": "2026-10-09T02:16:31.059Z",
+      "summary": "Shaders 宣布开源其 WebGPU 着色器特效组件库，提供 200+ 个视觉效果组件，支持 React / Vue / Svelte / Solid / 原生 JS 共用一个包和同一套 props，MIT 协议，可免费导出任意框架代码，GitHub 地址为 https://github.com/shader-effects-inc/shaders。",
+      "category": "tip",
+      "score": 67,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/pxaxr3st74w41dh7xxqaarvrb"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "视觉"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "clw3tlzf1hs27dp8pf1s12p9j",
+      "title": "Voyager 发布 Mac 桌面应用，让 AI 智能体直接操作 After Effects、Blender 等创意工具",
+      "title_en": "Voyager has launched a desktop app that lets AI agents work inside creative tools like After Effects, DaVinci Resolve, Blender, and Unity...",
+      "url": "https://x.com/testingcatalog/status/2108264326977270074",
+      "permalink": "https://aihot.news/items/clw3tlzf1hs27dp8pf1s12p9j",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "publishedAt": "2026-10-08T18:32:39.000Z",
+      "discoveredAt": "2026-10-08T18:32:54.069Z",
+      "summary": "Voyager 推出一款 Mac 桌面应用，让 AI 智能体在 After Effects、DaVinci Resolve、Blender、Unity 等创意工具内工作。应用可读取项目文件、操作创意软件并输出可编辑结果，支持视频剪辑、动态图形、调色、3D 场景和游戏原型制作，并内置技能、自定义技能以及学习用户工作习惯的记忆。",
+      "category": "ai-products",
+      "score": 55,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/clw3tlzf1hs27dp8pf1s12p9j"
+      },
+      "sourceType": "X",
+      "designCategory": "行业观察",
+      "relevanceScore": 9,
+      "editorialScore": 9,
+      "tags": [
+        "原型",
+        "创意",
+        "creative",
+        "视频"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
+      "id": "e1ob29susiajzn2kfx9wd3npa",
+      "title": "游戏开发内容创作者的黄金时代",
+      "title_en": "I think it's probably an incredible time to be a game dev content creator, for many people making games is a form of having fun and they'...",
+      "url": "https://x.com/trq212/status/2107957206327173484",
+      "permalink": "https://aihot.news/items/e1ob29susiajzn2kfx9wd3npa",
+      "source": "X：Thariq (@trq212)",
+      "publishedAt": "2026-10-07T22:12:16.000Z",
+      "discoveredAt": "2026-10-07T22:25:26.260Z",
+      "summary": "我觉得现在对游戏开发内容创作者来说，大概是一个绝佳的时代。对很多人来说，做游戏本身就是一种娱乐方式，而他们愿意为此付费！",
+      "category": "opinion",
+      "score": 34,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/e1ob29susiajzn2kfx9wd3npa"
+      },
+      "sourceType": "X",
+      "designCategory": "行业观察",
+      "relevanceScore": 9,
+      "editorialScore": 9,
+      "tags": [
+        "内容创作",
+        "creator"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
+      "id": "bio2ffefy6ziobb3kux71o23l",
+      "title": "wow！森马的老师告诉我们这条拿到了第四届上海国际AIGC创新大赛·AI营销赛道·最佳创意奖~",
+      "title_en": null,
+      "url": "https://x.com/ring_hyacinth/status/2108443557162094742",
+      "permalink": "https://aihot.news/items/bio2ffefy6ziobb3kux71o23l",
+      "source": "X：Ring Hyacinth (@ring_hyacinth)",
+      "publishedAt": "2026-10-09T06:24:51.000Z",
+      "discoveredAt": "2026-10-09T06:54:30.398Z",
+      "summary": "wow！森马的老师告诉我们这条拿到了第四届上海国际AIGC创新大赛·AI营销赛道·最佳创意奖~",
+      "category": "industry",
+      "score": 23,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/bio2ffefy6ziobb3kux71o23l"
+      },
+      "sourceType": "X",
+      "designCategory": "行业观察",
+      "relevanceScore": 8,
+      "editorialScore": 8,
+      "tags": [
+        "创意",
+        "营销"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "gq8yjkqlcdbpy0l5uc8ch2sj8",
@@ -1228,6 +1253,33 @@
       "editorialScore": 7,
       "tags": [
         "工作流"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cal34hameqt3bh6d52vaqt58v",
+      "title": "Zenity 披露 AgentCore 漏洞链：一个公开 AI Agent 可控制同账户同区域所有 Agent",
+      "title_en": "One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
+      "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/",
+      "permalink": "https://aihot.news/items/cal34hameqt3bh6d52vaqt58v",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-10-08T13:01:01.000Z",
+      "discoveredAt": "2026-10-08T13:27:33.293Z",
+      "summary": "Zenity Labs 发现 AWS Bedrock AgentCore 的漏洞链“AgentCorruption”，只需对一个公开 Agent 发送一条提示词，即可窃取凭证并接管同 AWS 账户和区域内所有 Agent，读取私有对话、下载源代码并篡改长期记忆。",
+      "category": "paper",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cal34hameqt3bh6d52vaqt58v"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "提示词",
+        "agent"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
