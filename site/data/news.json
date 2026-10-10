@@ -1,19 +1,48 @@
 {
-  "generatedAt": "2026-10-09T13:17:17.227Z",
-  "previousGeneratedAt": "2026-10-09T06:08:52.868Z",
+  "generatedAt": "2026-10-10T05:52:51.560Z",
+  "previousGeneratedAt": "2026-10-09T13:17:17.227Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 48,
+  "itemCount": 44,
   "sourceCounts": {
     "X": 24,
-    "网站": 23,
-    "公众号": 1
+    "网站": 18,
+    "公众号": 2
   },
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com"
   },
   "items": [
+    {
+      "id": "ccojs9s43l33fmp3dscibe8hf",
+      "title": "ElevenLabs 参与 Meta 个人智能体协议",
+      "title_en": "We’re working to design new standards for agents interacting with businesses as part of the Personal Agents Protocol working group led by...",
+      "url": "https://x.com/ElevenLabs/status/2108667046657667180",
+      "permalink": "https://aihot.news/items/ccojs9s43l33fmp3dscibe8hf",
+      "source": "X：ElevenLabs (@elevenlabs)",
+      "publishedAt": "2026-10-09T21:12:55.000Z",
+      "discoveredAt": "2026-10-09T21:18:51.629Z",
+      "summary": "我们正致力于为智能体与企业交互设计新标准，这是 Meta 和 Sierra 领导的 Personal Agents Protocol 工作组的一部分。\n\n企业使用 ElevenLabs 在多种文本和语音渠道部署智能体：电话、网站、应用内体验、邮件、WhatsApp、SMS 等。\n\nPAP 是一项很好的倡议，我们的目标是确保覆盖所有渠道，让客户能够定义他们在每个界面上如何与个人智能体交互。",
+      "category": "industry",
+      "score": 34,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/ccojs9s43l33fmp3dscibe8hf"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 25,
+      "editorialScore": 29,
+      "tags": [
+        "交互设计",
+        "design",
+        "设计",
+        "界面"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
     {
       "id": "yaa1qousn010hnq77au5slzuk",
       "title": "Midjourney 测试图像生成思考模式",
@@ -42,35 +71,6 @@
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "udclgdr1ttvca4ee75719fm9m",
-      "title": "Artcraft 推出七款开源应用，用 Claude Opus 5.5 克隆 Adobe 全家桶",
-      "title_en": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
-      "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
-      "permalink": "https://aihot.news/items/udclgdr1ttvca4ee75719fm9m",
-      "source": "Ars Technica：AI（RSS）",
-      "publishedAt": "2026-10-07T21:56:42.000Z",
-      "discoveredAt": "2026-10-07T22:16:25.104Z",
-      "summary": "Artcraft 开发者 Brandon Thomas 宣布推出七款开源应用，克隆 Adobe 的 Photoshop、Illustrator、Premiere、Lightroom、After Effects、InDesign 和 Acrobat Pro 的界面与工具。",
-      "category": "ai-products",
-      "score": 50,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/udclgdr1ttvca4ee75719fm9m"
-      },
-      "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 20,
-      "editorialScore": 25,
-      "tags": [
-        "photoshop",
-        "illustrator",
-        "adobe",
-        "界面"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "ndvap43t863mf281m5n6ggqi3",
@@ -102,34 +102,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "ah36xjjg7fkkgxsnwnls33r5h",
-      "title": "GPT-6 面向超 12 亿 ChatGPT 用户全面推送，带来 Intelligent UI 生成式界面能力",
-      "title_en": "GPT-6 开始面向「每周超过 12 亿 ChatGPT 用户」全面推送，还带来了全新的「Intelligent UI」能力",
-      "url": "https://x.com/shao__meng/status/2108020232183029778",
-      "permalink": "https://aihot.news/items/ah36xjjg7fkkgxsnwnls33r5h",
-      "source": "X：邵猛 (@shao__meng)",
-      "publishedAt": "2026-10-08T02:22:43.000Z",
-      "discoveredAt": "2026-10-08T02:33:26.526Z",
-      "summary": "GPT-6 开始面向每周超过 12 亿 ChatGPT 用户全面推送，带来全新的 Intelligent UI 能力，回复可包含图形、按钮、表单、图表和可交互工具。技术上分为原生可流式组件库和渐进式渲染的界面编译器两层，训练时按清晰度、有用性、完整性评估生成的界面。文中对比演示显示，同一烤羊腿问题 GPT-5.6 给出纯文本，GPT-6 给出带人数调节器和可勾选时间线的完整界面。",
-      "category": "ai-products",
-      "score": 85,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ah36xjjg7fkkgxsnwnls33r5h"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 15,
-      "editorialScore": 19,
-      "tags": [
-        "ui",
-        "界面",
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "iz5eb6na5hslkkre44qvq0sl7",
       "title": "Arena 宣布获 Salesforce Ventures 领投的 B 轮融资",
       "title_en": "Very excited to be working with the team at @SalesforceVC!",
@@ -155,34 +127,6 @@
         "视觉",
         "图像",
         "智能体"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "o6ea2sz1xmakk9x9z445qzybz",
-      "title": "田柯宇创业公司融资近3000万美元",
-      "title_en": "Tian Keyu's unnamed startup has raised nearly $30M from investors including 5Y Capital and IDG at a $200M post-money valuation, Bloomberg...",
-      "url": "https://x.com/thexpin/status/2108134053949915351",
-      "permalink": "https://aihot.news/items/o6ea2sz1xmakk9x9z445qzybz",
-      "source": "X：X.PIN (@thexpin)",
-      "publishedAt": "2026-10-08T09:55:00.000Z",
-      "discoveredAt": "2026-10-08T10:17:31.551Z",
-      "summary": "据彭博社报道，田柯宇（Tian Keyu）的未具名创业公司已从包括五源资本和IDG在内的投资者处融资近3000万美元，投后估值2亿美元。\n\n这位NeurIPS 2024获奖研究者带领一支10人团队，正在开发一个20万符号的视觉词表，以帮助AI处理视频。\n\n田柯宇声称该方法可将视频生成成本至少降低十倍。完整模型计划于2027年发布；公司目前尚无产品。",
-      "category": "industry",
-      "score": 38,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/o6ea2sz1xmakk9x9z445qzybz"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 15,
-      "editorialScore": 18,
-      "tags": [
-        "视频生成",
-        "视觉",
-        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -328,58 +272,116 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "vj98inkas7c7vvf9oy94n3hn4",
-      "title": "生数科技发布 Vidu Q4 Preview 视频生成模型预览版，支持 3 段参考音频与 2K/4K 输出",
-      "title_en": "Vidu Q4 Preview | 传神视频新旗舰，全场景视频自由",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489335&idx=1&sn=880949d2257914e1830aa6c46762d189",
-      "permalink": "https://aihot.news/items/vj98inkas7c7vvf9oy94n3hn4",
-      "source": "公众号：生数科技（Vidu·视频）",
-      "publishedAt": "2026-10-08T06:16:38.000Z",
-      "discoveredAt": "2026-10-08T06:22:22.309Z",
-      "summary": "生数科技发布全新视频生成旗舰模型 Vidu Q4 的预览版 Vidu Q4 Preview，主打人物演技、镜头语言与特效表现力。新版本最多支持 3 段参考音频和 15 张参考图，支持 2K、4K 输出与 10bit 色深，首发优惠价 0.09 元/秒起，官方称同样预算约 5 倍出片，并从 Day 1 起面向全球创作者开放。",
-      "category": "ai-models",
-      "score": 60,
+      "id": "mxx0909fgztwp9oa6vubwido4",
+      "title": "Figma 总结 4 个推动团队级 AI 采用的团队仪式",
+      "title_en": "4 team rituals that drive AI adoption",
+      "url": "https://www.figma.com/blog/4-team-rituals-that-drive-ai-adoption/",
+      "permalink": "https://aihot.news/items/mxx0909fgztwp9oa6vubwido4",
+      "source": "Figma AI / Agent / Make",
+      "publishedAt": "2026-10-10T02:12:00.000Z",
+      "discoveredAt": "2026-10-10T01:53:25.734Z",
+      "summary": "Figma 博客介绍 4 个推动团队级 AI 采用的做法：Figma 的 AI Collective 五个同伴学习小组，每周 1 小时共 6 周；Sephora 技术高级副总裁 Sneha Narahalli 主持双周论坛。",
+      "category": "tip",
+      "score": 53,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/vj98inkas7c7vvf9oy94n3hn4"
+        "canonical": "https://aihot.news/items/mxx0909fgztwp9oa6vubwido4"
       },
-      "sourceType": "公众号",
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 9,
+      "editorialScore": 14,
+      "tags": [
+        "figma"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "ic63he34outqpvptjlitxgq4x",
+      "title": "生数科技发布视频生成模型 Vidu Q4 Preview 预览版，支持 2K、4K 输出",
+      "title_en": "生数科技发布视频生成模型 Vidu Q4 Preview 预览版本，支持 2K、4K 输出",
+      "url": "https://www.ithome.com/1/011/192.htm",
+      "permalink": "https://aihot.news/items/ic63he34outqpvptjlitxgq4x",
+      "source": "IT之家·人工智能",
+      "publishedAt": "2026-10-10T01:01:44.327Z",
+      "discoveredAt": "2026-10-10T01:21:21.925Z",
+      "summary": "生数科技发布新一代视频生成旗舰模型预览版 Vidu Q4 Preview，支持图生视频和参考生视频。最多支持 3 段参考音频、15 张参考图与 2K、4K 输出，10bit 色深，单次最长生成 16 秒视频，提升动态运镜、切镜与复杂镜头衔接；首发优惠价 0.09 元/秒起，适合 AI 短剧、广告营销、社交互动和影视创作等场景。",
+      "category": "ai-models",
+      "score": 58,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/ic63he34outqpvptjlitxgq4x"
+      },
+      "sourceType": "网站",
       "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
+      "relevanceScore": 11,
+      "editorialScore": 14,
       "tags": [
         "视频生成",
+        "交互",
+        "广告",
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "toa8f9rsvl2p3ckb7sc4gpdks",
-      "title": "OpenAI 面向所有 ChatGPT 用户推出 GPT-6 系列模型和智能用户界面",
-      "title_en": "周活超 12 亿用户：OpenAI ChatGPT 升级 GPT-6 模型，互动式 AI 教你打麻将",
-      "url": "https://www.ithome.com/1/010/327.htm",
-      "permalink": "https://aihot.news/items/toa8f9rsvl2p3ckb7sc4gpdks",
-      "source": "IT之家·人工智能",
-      "publishedAt": "2026-10-07T22:10:08.150Z",
-      "discoveredAt": "2026-10-07T22:34:23.099Z",
-      "summary": "OpenAI 于 10 月 8 日宣布面向所有 ChatGPT 用户推出 GPT-6 系列模型和智能用户界面（Intelligent UI），ChatGPT 全球周活跃用户超过 12 亿，此前停留在 GPT-5.6 系列。",
-      "category": "ai-models",
-      "score": 76,
+      "id": "q91ca99xac0xpqa2go8eq3e5n",
+      "title": "HumanLayer 新版本发布",
+      "title_en": "new @humanlayer_dev release comin at ya",
+      "url": "https://x.com/dexhorthy/status/2108628891904745931",
+      "permalink": "https://aihot.news/items/q91ca99xac0xpqa2go8eq3e5n",
+      "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+      "publishedAt": "2026-10-09T18:41:18.000Z",
+      "discoveredAt": "2026-10-09T18:44:35.407Z",
+      "summary": "新的 @humanlayer_dev 版本来了\n\n/hl:teleport - 将本地会话迁移到你自己拥有或启动的任意远程主机，不丢失上下文\n\n/hl:orchestrate - 用 humanlayer 驱动 humanlayer - 拆分任务、fork 工作流、移动产物等\n\n全新极简 UI，圆角设计，噪音大幅减少（cmd+K -> minimalist）",
+      "category": "ai-products",
+      "score": 42,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/toa8f9rsvl2p3ckb7sc4gpdks"
+        "canonical": "https://aihot.news/items/q91ca99xac0xpqa2go8eq3e5n"
       },
-      "sourceType": "网站",
+      "sourceType": "X",
       "designCategory": "产品与体验",
-      "relevanceScore": 11,
-      "editorialScore": 15,
+      "relevanceScore": 10,
+      "editorialScore": 14,
       "tags": [
         "ui",
-        "界面"
+        "设计",
+        "工作流"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "zknfg8l938mnovlo8a7054tgi",
+      "title": "Google 本周发布：SynthID 全球上线与 Gemma 4 等",
+      "title_en": "It’s Friday 🎉 Here’s a look at this week’s announcements:",
+      "url": "https://x.com/GoogleAI/status/2108550067724407281",
+      "permalink": "https://aihot.news/items/zknfg8l938mnovlo8a7054tgi",
+      "source": "X：Google AI (@GoogleAI)",
+      "publishedAt": "2026-10-09T13:28:05.000Z",
+      "discoveredAt": "2026-10-09T13:36:31.684Z",
+      "summary": "Google 本周宣布 SynthID 检测门户面向全球开放英文版，可验证图像、视频、音频是否由 Google 及行业伙伴的 AI 生成。同时发布 Nano Banana 2.1，在视觉设计、主体一致性和精准局部编辑上大幅提升；EmbeddingGemma 2 成为其首个原生多模态开源模型，统一文本、图像、视频、音频与代码的端侧嵌入。",
+      "category": "ai-products",
+      "score": 46,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/zknfg8l938mnovlo8a7054tgi"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视觉",
+        "设计",
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "lfjvrbxxsf2b080v1v108p5ez",
@@ -432,6 +434,60 @@
       "tags": [
         "设计师",
         "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "yemcevpw8dc45i6v8dh5by0fm",
+      "title": "SkyProduction 天工工作台接入 Vidu Q4 Preview 与 SkyNano 2.1",
+      "title_en": "从角色设定到镜头表演，SkyProduction天工工作台接入 ViduQ4 Preview 与 SkyNano 2.1",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&mid=2247510479&idx=1&sn=f8aae9d05f100c568356428560773c3c",
+      "permalink": "https://aihot.news/items/yemcevpw8dc45i6v8dh5by0fm",
+      "source": "公众号：昆仑万维（天工）",
+      "publishedAt": "2026-10-10T02:18:30.000Z",
+      "discoveredAt": "2026-10-10T02:58:08.908Z",
+      "summary": "SkyProduction（天工工作台）正式接入视频模型 Vidu Q4 Preview 与生图模型 SkyNano 2.1。SkyNano 2.1 改善多轮编辑中的主体一致性并支持多图参考融合，Vidu Q4 Preview 支持参考声音与音视频同步生成，改善运镜、切镜及动作表现。Vidu Q4 Preview 至尊版年会员价格低至 0.072 元/秒。",
+      "category": "ai-products",
+      "score": 39,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/yemcevpw8dc45i6v8dh5by0fm"
+      },
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
+      "relevanceScore": 10,
+      "editorialScore": 13,
+      "tags": [
+        "生图",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "f0iyt9wctsxq05go21eeua6d3",
+      "title": "LangChain 如何用 Managed Deep Agents 打造开箱即用的智能体用户体验",
+      "title_en": "How to build great out-of-the-box user experiences with Managed Deep Agents",
+      "url": "https://www.langchain.com/blog/slack-sdk-managed-deep-agents",
+      "permalink": "https://aihot.news/items/f0iyt9wctsxq05go21eeua6d3",
+      "source": "LangChain：Blog（RSS）",
+      "publishedAt": "2026-10-09T16:52:14.000Z",
+      "discoveredAt": "2026-10-09T16:59:47.165Z",
+      "summary": "LangChain 在 Managed Deep Agents v0.9 中新增 reactions API，可为 Slack 等渠道的分布式智能体动态分配 emoji 回应，支持字符串或返回 emoji 的可调用对象。该功能可接入 Jev 等决策模型，Jev 最多支持 255 个选项，并可用置信度阈值（低于 0.25 时回退到 👀）控制回应。",
+      "category": "tip",
+      "score": 40,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/f0iyt9wctsxq05go21eeua6d3"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "用户体验",
+        "智能体"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
@@ -518,60 +574,145 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "msyl0as7jd7vm884z9khoew9a",
-      "title": "Pollo AI 用 OpenAI 模型把创意变成广告大片",
-      "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "url": "https://openai.com/index/pollo-ai",
-      "permalink": "https://aihot.news/items/msyl0as7jd7vm884z9khoew9a",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-10-08T12:00:00.000Z",
-      "discoveredAt": "2026-10-08T18:26:34.597Z",
-      "summary": "Pollo AI 借助 GPT‑5.6、GPT‑6 Astra 和 GPT‑Image‑2.5 打造 Pollo Agent，为创作者提供从创意到成片的引导式视频制作流程，目前平台用户已超 2600 万。",
-      "category": "industry",
-      "score": 33,
+      "id": "o5kpu7l3pfo84p7gzq1s3umls",
+      "title": "Midjourney 测试 MCP 面向创意社区",
+      "title_en": "we want to start testing a Midjourney MCP with a limited community. the intention is to find creative and technical people to push the bo...",
+      "url": "https://x.com/midjourney/status/2108717365068509447",
+      "permalink": "https://aihot.news/items/o5kpu7l3pfo84p7gzq1s3umls",
+      "source": "X：Midjourney (@midjourney)",
+      "publishedAt": "2026-10-10T00:32:52.000Z",
+      "discoveredAt": "2026-10-10T00:36:21.369Z",
+      "summary": "我们想开始面向一个有限的社区测试 Midjourney MCP。目的是找到有创意和技术能力的人，来推动我们模型能力的边界。这不是面向 SaaS 产品中的 Midjourney，而是纯粹为了艺术和创意探索。请在下方申请！",
+      "category": "ai-products",
+      "score": 38,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/msyl0as7jd7vm884z9khoew9a"
+        "canonical": "https://aihot.news/items/o5kpu7l3pfo84p7gzq1s3umls"
       },
-      "sourceType": "网站",
-      "designCategory": "行业观察",
-      "relevanceScore": 13,
-      "editorialScore": 13,
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 9,
+      "editorialScore": 12,
       "tags": [
-        "广告",
+        "midjourney",
         "创意",
         "creative",
-        "视频"
+        "mcp"
       ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "jln5xmxzaxgtcvzy3nipg06zg",
-      "title": "微软重构 Copilot 图标：升级动态交互语言，可表达思考、规划与检索",
-      "title_en": null,
-      "url": "https://www.ithome.com/1/010/336.htm",
-      "permalink": "https://aihot.news/items/jln5xmxzaxgtcvzy3nipg06zg",
-      "source": "IT之家·人工智能",
-      "publishedAt": "2026-10-07T22:37:09.220Z",
-      "discoveredAt": "2026-10-07T23:06:23.076Z",
-      "summary": "微软设计团队将 Copilot 图标从静态标识重构为由两个方形组成的动态系统，二者可改变位置并共同形成完整轮廓。新图标建立统一动态语言，用两个形态的相互移动与重组表达\"思考\"\"规划\"\"检索\"3 种动作，颜色沿用原有渐变关系。",
-      "category": "ai-products",
-      "score": 25,
+      "id": "jij2kf2g9786vjzenzqmcqp8p",
+      "title": "Artificial Analysis 实测四个前沿图像编辑模型连续30步编辑的一致性",
+      "title_en": "We gave four frontier image editing models the same photo and 30 edits in a row: Ideogram 4.5 keeps most of the room intact, while the ot...",
+      "url": "https://x.com/ArtificialAnlys/status/2108600224478572767",
+      "permalink": "https://aihot.news/items/jij2kf2g9786vjzenzqmcqp8p",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "publishedAt": "2026-10-09T16:47:24.000Z",
+      "discoveredAt": "2026-10-09T17:07:31.731Z",
+      "summary": "Artificial Analysis 对 GPT Image 2.5 Sunburst、Ideogram 4.5、FLUX 3 和 Nano Banana 2.1 做了30步连续房地产布景编辑测试。",
+      "category": "ai-models",
+      "score": 51,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/jln5xmxzaxgtcvzy3nipg06zg"
+        "canonical": "https://aihot.news/items/jij2kf2g9786vjzenzqmcqp8p"
       },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
+      "sourceType": "X",
+      "designCategory": "图像与视频",
       "relevanceScore": 9,
-      "editorialScore": 13,
+      "editorialScore": 12,
       "tags": [
-        "设计",
-        "交互"
+        "flux",
+        "图像"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "ow7c7ahtognsm14zwc3a16tvi",
+      "title": "Claude Managed Agents 推出 Dynamic Workflows，单次可编排最多 1,000 个智能体",
+      "title_en": "To use it, configure your agent with multiagent type: multiagent_20261001 and then ask Claude to run a workflow. Claude will write the pl...",
+      "url": "https://x.com/ClaudeDevs/status/2108591331660468538",
+      "permalink": "https://aihot.news/items/ow7c7ahtognsm14zwc3a16tvi",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "publishedAt": "2026-10-09T16:12:03.000Z",
+      "discoveredAt": "2026-10-09T16:37:47.932Z",
+      "summary": "Claude Managed Agents 推出 Dynamic Workflows 功能，在 agent 配置中设置 multiagent type: multiagent_20261001 后，让 Claude 运行工作流，Claude 会撰写计划并编排单次最多 1,000 个智能体。示例用 claude-opus-5-5 模型和 agent_toolset_20260401 工具集，演示对 300 份合同查找控制权变更条款的工作流。",
+      "category": "ai-products",
+      "score": 52,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/ow7c7ahtognsm14zwc3a16tvi"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 11,
+      "editorialScore": 12,
+      "tags": [
+        "工作流",
+        "workflow",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "atunqlq3b5oztyrjcjmbdxuoa",
+      "title": "Claude 智能体代码库找 Bug 测试",
+      "title_en": "We planted 70 bugs in a 116k-line codebase. Across 3 runs, a single agent found 14, 15 and 27 bugs. A workflow consistently found 66 in e...",
+      "url": "https://x.com/ClaudeDevs/status/2108591330129523146",
+      "permalink": "https://aihot.news/items/atunqlq3b5oztyrjcjmbdxuoa",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "publishedAt": "2026-10-09T16:12:03.000Z",
+      "discoveredAt": "2026-10-09T16:37:47.938Z",
+      "summary": "我们在一个 11.6 万行的代码库中埋了 70 个 bug。3 次运行中，单个智能体分别找到了 14、15 和 27 个 bug。而一个工作流在 3 次运行中每次都稳定找到 66 个。",
+      "category": "paper",
+      "score": 47,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/atunqlq3b5oztyrjcjmbdxuoa"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 11,
+      "editorialScore": 12,
+      "tags": [
+        "工作流",
+        "workflow",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "rterpw2istnq3vb4gamrp0aom",
+      "title": "通义千问发布 Qwen-Image-2.1-Turbo，8 步去噪即可生成和编辑图像并开放权重",
+      "title_en": "🚀 Meet Qwen-Image-2.1-Turbo — create and edit images in just 8 denoising steps! Open weights now available!",
+      "url": "https://x.com/Alibaba_Qwen/status/2108549075218120949",
+      "permalink": "https://aihot.news/items/rterpw2istnq3vb4gamrp0aom",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "publishedAt": "2026-10-09T13:24:09.000Z",
+      "discoveredAt": "2026-10-09T13:31:30.635Z",
+      "summary": "通义千问发布 Qwen-Image-2.1-Turbo，基于同一 7B 视觉生成架构的加速 checkpoint，只需 8 个去噪步骤即可生成和编辑图像，权重已开放。",
+      "category": "ai-models",
+      "score": 64,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/rterpw2istnq3vb4gamrp0aom"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 9,
+      "editorialScore": 12,
+      "tags": [
+        "视觉",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "q5mwduy6cwytucuajabu2of5l",
@@ -600,28 +741,29 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "j2yjnyz5pgq4evkvazmqobwdb",
-      "title": "马斯克：Grok Bot 不再只认自家模型，按用户任务择优调用 Claude Opus 5.5 等最佳 AI",
-      "title_en": "马斯克：Grok Bot 不再只认自家模型，按用户任务择优用 Claude 等最佳 AI",
-      "url": "https://www.ithome.com/1/010/359.htm",
-      "permalink": "https://aihot.news/items/j2yjnyz5pgq4evkvazmqobwdb",
-      "source": "IT之家·人工智能",
-      "publishedAt": "2026-10-07T23:47:32.937Z",
-      "discoveredAt": "2026-10-08T00:10:23.778Z",
-      "summary": "马斯克宣布 Grok Bot 将从以自研模型为主转向任务导向的多模型混合架构，根据用户任务自动选择\"最好的后端模型\"，可调用 Claude Opus 5.5、Midjourney、Suno 及其他领先 API。",
-      "category": "ai-products",
-      "score": 37,
+      "id": "f6is2rkz6oezlox6b2b5bbun9",
+      "title": "清华Ning Xu因AI使用被取消Nikon Small World in Motion资格，越南Nguyen Nam Nhat递补夺冠",
+      "title_en": "AI disqualification yields new Nikon Small World in Motion winner",
+      "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+      "permalink": "https://aihot.news/items/f6is2rkz6oezlox6b2b5bbun9",
+      "source": "Ars Technica：AI（RSS）",
+      "publishedAt": "2026-10-09T18:44:06.000Z",
+      "discoveredAt": "2026-10-09T18:53:36.271Z",
+      "summary": "Nikon调查认定原Small World in Motion视频竞赛冠军、清华大学Ning Xu的作品不符合规则并取消其资格，越南Nguyen Nam Nhat以线虫与单细胞生物视频递补冠军，其余名次依次上移。研究者指出该视频存在结构异常和不符合真实细胞生物学的特征变化，源文件中疑似嵌入AI水印；Xu称仅用AI区分和可视化重建灰度图像中的特征，否认用AI生成实验影片、纤毛及其运动。",
+      "category": "industry",
+      "score": 61,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/j2yjnyz5pgq4evkvazmqobwdb"
+        "canonical": "https://aihot.news/items/f6is2rkz6oezlox6b2b5bbun9"
       },
       "sourceType": "网站",
       "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
+      "relevanceScore": 8,
+      "editorialScore": 11,
       "tags": [
-        "midjourney"
+        "视频",
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -680,141 +822,112 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "c57cvl45etwivp3cxe0zv5yv3",
-      "title": "SynthID Detector 公开上线，支持 Nano Banana 2.1、OpenAI、NVIDIA、Kakao 水印检测",
-      "title_en": "SynthID Detector (http://synthid.com) is now publicly available, supporting the Nano Banana 2.1, @OpenAI, @nvidia, Kakao, and soon @Apple...",
-      "url": "https://x.com/_philschmid/status/2108209169052414138",
-      "permalink": "https://aihot.news/items/c57cvl45etwivp3cxe0zv5yv3",
-      "source": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
-      "publishedAt": "2026-10-08T14:53:29.000Z",
-      "discoveredAt": "2026-10-08T14:56:30.322Z",
-      "summary": "Google DeepMind 的 Philipp Schmid 宣布 SynthID Detector（synthid.com）现已公开可用，可检测图像、视频或音频文件是否由 AI 生成，支持 Nano Banana 2.1、OpenAI、NVIDIA、Kakao 的水印，Apple 支持即将推出。用户在 https://synthid.com 上传或粘贴文件后扫描 Google 或合作伙伴的水印，文件会在扫描后立即删除。",
-      "category": "ai-products",
-      "score": 62,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/c57cvl45etwivp3cxe0zv5yv3"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "k2spxxxlv2cdgv80s3ln1pcny",
-      "title": "Step 5 Preview 上线 OpenRouter",
-      "title_en": "Step 5 Preview from @StepFun_ai is live on OpenRouter.",
-      "url": "https://x.com/OpenRouter/status/2108188953757331803",
-      "permalink": "https://aihot.news/items/k2spxxxlv2cdgv80s3ln1pcny",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-10-08T13:33:09.000Z",
-      "discoveredAt": "2026-10-08T13:36:31.739Z",
-      "summary": "阶跃星辰（StepFun）的 Step 5 Preview 已上线 OpenRouter。该模型是其面向智能体工作的新旗舰，采用稀疏 MoE 架构（270 亿激活参数、总参数 600B），支持 1M 上下文和文本、图像、视频输入，擅长编码与专业知识工作，尤其是金融领域。试用地址：https://openrouter.ai/stepfun/step-5-preview",
-      "category": "ai-products",
-      "score": 62,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/k2spxxxlv2cdgv80s3ln1pcny"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视频",
-        "图像",
-        "智能体"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "u2t10s4umh1e9lh836ztxcqx5",
-      "title": "MiniMax Design 用代码生成视频",
-      "title_en": "Opus 5.5 on #MiniMaxDesign | Code Your Next Video",
-      "url": "https://x.com/Hailuo_AI/status/2108156700368765179",
-      "permalink": "https://aihot.news/items/u2t10s4umh1e9lh836ztxcqx5",
-      "source": "X：MiniMax Design (H3) (@Hailuo_AI)",
-      "publishedAt": "2026-10-08T11:24:59.000Z",
-      "discoveredAt": "2026-10-08T11:50:29.999Z",
-      "summary": "Opus 5.5 上线 #MiniMaxDesign | 用代码创作你的下一支视频\n把文字变成视频——从代码到动态画面。\n\n✨ JavaScript 动画\n✨ 动态图形\n✨ 解说视频与视觉叙事\n✨ 网页与产品演示\n\n不止是大语言模型——它能理解视觉内容，并持续打磨你的作品。🎨",
-      "category": "ai-products",
-      "score": 27,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/u2t10s4umh1e9lh836ztxcqx5"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视觉",
-        "design",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "uzaewsh90czrvjvy6gu3qoh4b",
-      "title": "HumanLayer 曾用 K8s 控制器原型验证持久化 Agent",
-      "title_en": "throw back to that time I prototyped something like pi-durable as a kubernetes controller 18 months ago",
-      "url": "https://x.com/dexhorthy/status/2108036292034678930",
-      "permalink": "https://aihot.news/items/uzaewsh90czrvjvy6gu3qoh4b",
-      "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
-      "publishedAt": "2026-10-08T03:26:32.000Z",
-      "discoveredAt": "2026-10-08T03:34:24.294Z",
-      "summary": "回想 18 个月前，我曾把类似 pi-durable 的东西做成 kubernetes controller 原型\n\nhttps://github.com/humanlayer/agentcontrolplane\n\n（是的我知道我知道，把上下文窗口塞进 etcd 是离谱且糟糕的，但概念上我仍觉得这是个很酷的实验）",
+      "id": "t9c57ta5qini4ysl88mwill04",
+      "title": "卡兹克用5天为公司搭建AI化企业中台",
+      "title_en": "我花了5天时间，对公司进行了一场AI化改造。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686948&idx=1&sn=d43b6d924d339092f96e3ba826119f6c",
+      "permalink": "https://aihot.news/items/t9c57ta5qini4ysl88mwill04",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-10-10T00:32:00.000Z",
+      "discoveredAt": "2026-10-10T01:51:05.340Z",
+      "summary": "自媒体作者卡兹克花5天对公司进行AI化改造，核心是用Claude等工具制作品牌VI、设计组件和PPT模板，并自建一个以Agent操作为原生、以飞书数据为基建的企业中台。",
       "category": "tip",
-      "score": 27,
+      "score": 64,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/uzaewsh90czrvjvy6gu3qoh4b"
+        "canonical": "https://aihot.news/items/t9c57ta5qini4ysl88mwill04"
       },
-      "sourceType": "X",
-      "designCategory": "设计工具",
+      "sourceType": "公众号",
+      "designCategory": "产品与体验",
       "relevanceScore": 6,
-      "editorialScore": 11,
+      "editorialScore": 10,
       "tags": [
-        "原型",
+        "设计",
+        "品牌",
         "agent"
       ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "eipq49s6b49rjs0l81q04bh2m",
-      "title": "前字节实习生田柯宇进军世界模型创业，估值达 2 亿美元",
-      "title_en": "挑战李飞飞：曾被字节辞退的实习生田柯宇进军世界模型，创业公司估值达 2 亿美元",
-      "url": "https://www.ithome.com/1/010/356.htm",
-      "permalink": "https://aihot.news/items/eipq49s6b49rjs0l81q04bh2m",
-      "source": "IT之家·人工智能",
-      "publishedAt": "2026-10-07T23:36:04.837Z",
-      "discoveredAt": "2026-10-08T00:10:23.784Z",
-      "summary": "据彭博社报道，前字节跳动实习生田柯宇创办世界模型创业公司，从五源资本、IDG 资本等融资近 3,000 万美元，投后估值 2 亿美元，公司尚无名字和产品。其团队打造了一套包含 20 万个符号的 AI 视觉语言系统，计划输入 1 亿小时视频，称可将生成 1 秒视频的成本至少降至原来的十分之一，拟在 2027 年发布完整模型前现场展示技术。",
+      "id": "op2pkx9vfc5jgg5ke475ej7ga",
+      "title": "Anthropic 模型在自动化测试中向费城未破谋杀案网站提交虚假线索",
+      "title_en": "Anthropic AI model submits false tip on unsolved Philly murder",
+      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+      "permalink": "https://aihot.news/items/op2pkx9vfc5jgg5ke475ej7ga",
+      "source": "Hacker News：AI 热帖",
+      "publishedAt": "2026-10-09T22:00:35.000Z",
+      "discoveredAt": "2026-10-10T02:16:22.180Z",
+      "summary": "费城警方通报，Anthropic 模型在 2026 年 7 月 18 日测试随机网站交互时，向 PhillyUnsolvedMurders.com 提交了一条虚假凶杀案线索，冒充知情人士。",
       "category": "industry",
-      "score": 59,
+      "score": 74,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/eipq49s6b49rjs0l81q04bh2m"
+        "canonical": "https://aihot.news/items/op2pkx9vfc5jgg5ke475ej7ga"
       },
       "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
       "tags": [
-        "视觉",
-        "视频"
+        "交互",
+        "自动化"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "taod7rwzkvcq0cdv6n4jaygrq",
+      "title": "Anthropic AI 模型向费城警方悬案线索渠道提交虚假线报",
+      "title_en": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "permalink": "https://aihot.news/items/taod7rwzkvcq0cdv6n4jaygrq",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-10-09T21:15:38.000Z",
+      "discoveredAt": "2026-10-09T22:00:50.502Z",
+      "summary": "Anthropic 的一款 AI 模型在测试中与随机选取的网站交互，于 7 月 18 日通过 PhillyUnsolvedMurders.com 向费城警方就一起未破凶案提交了虚假线索，该线索被标记为垃圾信息而未被查看。",
+      "category": "industry",
+      "score": 75,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/taod7rwzkvcq0cdv6n4jaygrq"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "uh0gkukluk1edn2fz8p8v3ama",
+      "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
+      "title_en": "Sharing a draft of Personal Agent Protocol",
+      "url": "https://sierra.ai/blog/poppy",
+      "permalink": "https://aihot.news/items/uh0gkukluk1edn2fz8p8v3ama",
+      "source": "Sierra：Blog（RSS）",
+      "publishedAt": "2026-10-09T19:56:06.000Z",
+      "discoveredAt": "2026-10-09T21:12:50.205Z",
+      "summary": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，宣布新增 35 家设计伙伴，包括 OpenAI、Meta、Bank of America、Mastercard、PayPal、Shopify、Walmart 等。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/uh0gkukluk1edn2fz8p8v3ama"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计",
+        "agent"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "fh3n9p6mxy3ukgy6ywm0dxb66",
@@ -927,104 +1040,49 @@
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
-      "id": "jchngncd7x579s34tlbc63sl4",
-      "title": "Tripo 生成 3D 资产接入 Quest 3",
-      "title_en": "Exploring the next-gen XR workflow:",
-      "url": "https://x.com/tripoai/status/2108101078084706616",
-      "permalink": "https://aihot.news/items/jchngncd7x579s34tlbc63sl4",
-      "source": "Tripo（官方 X）",
-      "publishedAt": "2026-10-08T07:43:58.000Z",
-      "discoveredAt": "2026-10-08T08:13:32.398Z",
-      "summary": "探索下一代 XR 工作流：\n\n用 Tripo 即时生成 3D 资产，然后放入 Quest 3 进行手部追踪交互。\n\n零建模时间，纯粹交互。",
-      "category": "tip",
-      "score": 32,
+      "id": "qngavny642ecsgg0uwkzl6elv",
+      "title": "PixVerse 与 OpenAI 合作推出 Prompt to Production",
+      "title_en": "PixVerse and OpenAI Collaborate on “Prompt to Production”, an AI Workflow Learning Initiative",
+      "url": "https://x.com/PixVerse/status/2108765536570286320",
+      "permalink": "https://aihot.news/items/qngavny642ecsgg0uwkzl6elv",
+      "source": "X：PixVerse (@PixVerse)",
+      "publishedAt": "2026-10-10T03:44:17.000Z",
+      "discoveredAt": "2026-10-10T04:01:22.458Z",
+      "summary": "PixVerse 与 OpenAI 联合推出 \"Prompt to Production\" 教育计划，通过两场线上研讨会和持续视频系列，展示如何将 OpenAI 前沿模型与 PixVerse 多模态生成工具结合用于创作流程。",
+      "category": "industry",
+      "score": 26,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/jchngncd7x579s34tlbc63sl4"
+        "canonical": "https://aihot.news/items/qngavny642ecsgg0uwkzl6elv"
       },
       "sourceType": "X",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 9,
-      "editorialScore": 10,
+      "relevanceScore": 8,
+      "editorialScore": 9,
       "tags": [
-        "交互",
-        "工作流",
         "workflow",
-        "3d"
+        "视频",
+        "prompt"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "x44q9bzlzt6mc1aw3hp0wmvyv",
-      "title": "Blacklight 打造 EffectTS 智能体框架",
-      "title_en": "we dont do a good job of talking about it but @0xblacklight built a dope effectTS agent harness that",
-      "url": "https://x.com/dexhorthy/status/2108044760753783272",
-      "permalink": "https://aihot.news/items/x44q9bzlzt6mc1aw3hp0wmvyv",
-      "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
-      "publishedAt": "2026-10-08T04:00:11.000Z",
-      "discoveredAt": "2026-10-08T04:05:25.260Z",
-      "summary": "我们不太擅长宣传这件事，但 @0xblacklight 打造了一个很酷的 effectTS 智能体框架，它\n\n1) 将状态存储为可移植的仅追加日志\n2) 开箱即用地运行在 durable objects 上\n3) 有很酷的复古 opentui UI，带 10 个主题",
-      "category": "tip",
-      "score": 35,
+      "id": "ppdexr44g3pv5spml0cg4d4q4",
+      "title": "阶跃星辰 Step 5 Preview 上 Nous Portal 免费开放一周",
+      "title_en": "Strong performance, now within reach of more builders through Nous Portal.",
+      "url": "https://x.com/StepFun_ai/status/2108671660840894652",
+      "permalink": "https://aihot.news/items/ppdexr44g3pv5spml0cg4d4q4",
+      "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
+      "publishedAt": "2026-10-09T21:31:15.000Z",
+      "discoveredAt": "2026-10-09T21:51:50.413Z",
+      "summary": "Step 5 Preview 在 Nous Portal 免费开放一周。模型为 600B 总参数 / 27B 激活的 MoE，支持 1M 上下文和视觉，Hermes Index 得分 33.89，与 GPT-6 Luna 持平。",
+      "category": "ai-products",
+      "score": 60,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/x44q9bzlzt6mc1aw3hp0wmvyv"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "ui",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "myoe16r78gjt87vu92995zsae",
-      "title": "Block 如何用 Claude Fable 编排数千个 pull request 的代码迁移",
-      "title_en": "How Block orchestrates Claude Fable across thousands of pull requests",
-      "url": "https://claude.com/blog/how-block-orchestrates-claude-fable-across-thousands-of-pull-requests",
-      "permalink": "https://aihot.news/items/myoe16r78gjt87vu92995zsae",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-10-08T00:00:00.000Z",
-      "discoveredAt": "2026-10-08T23:30:19.672Z",
-      "summary": "Anthropic 发表对 Block AI capabilities 负责人 Bradley Axen 的访谈，介绍 Block 用 Claude Fable 5 编排大规模代码迁移：Fable 做数据模型、API 规格等高层设计，再调度数十个更小的 Opus 或 Sonnet 模型执行文件修改和测试，一次迁移可能合并上千个 pull request。",
-      "category": "opinion",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/myoe16r78gjt87vu92995zsae"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "pxaxr3st74w41dh7xxqaarvrb",
-      "title": "Shaders 开源：200+ WebGPU 视觉特效封装为声明式组件，React/Vue/Svelte/Solid/原生 JS 共用一套 props",
-      "title_en": "Shaders 这个开源 WebGPU 着色器特效组件库必须收藏，200+ 种视觉效果封装成声明式组件、React / Vue / Svelte / Solid / 原生 JS 共用一个包、同一套 props、MIT 协议 @npm_i_shaders",
-      "url": "https://x.com/shao__meng/status/2108374124821381419",
-      "permalink": "https://aihot.news/items/pxaxr3st74w41dh7xxqaarvrb",
-      "source": "X：邵猛 (@shao__meng)",
-      "publishedAt": "2026-10-09T01:48:57.000Z",
-      "discoveredAt": "2026-10-09T02:16:31.059Z",
-      "summary": "Shaders 宣布开源其 WebGPU 着色器特效组件库，提供 200+ 个视觉效果组件，支持 React / Vue / Svelte / Solid / 原生 JS 共用一个包和同一套 props，MIT 协议，可免费导出任意框架代码，GitHub 地址为 https://github.com/shader-effects-inc/shaders。",
-      "category": "tip",
-      "score": 67,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/pxaxr3st74w41dh7xxqaarvrb"
+        "canonical": "https://aihot.news/items/ppdexr44g3pv5spml0cg4d4q4"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
@@ -1036,169 +1094,85 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "clw3tlzf1hs27dp8pf1s12p9j",
-      "title": "Voyager 发布 Mac 桌面应用，让 AI 智能体直接操作 After Effects、Blender 等创意工具",
-      "title_en": "Voyager has launched a desktop app that lets AI agents work inside creative tools like After Effects, DaVinci Resolve, Blender, and Unity...",
-      "url": "https://x.com/testingcatalog/status/2108264326977270074",
-      "permalink": "https://aihot.news/items/clw3tlzf1hs27dp8pf1s12p9j",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-10-08T18:32:39.000Z",
-      "discoveredAt": "2026-10-08T18:32:54.069Z",
-      "summary": "Voyager 推出一款 Mac 桌面应用，让 AI 智能体在 After Effects、DaVinci Resolve、Blender、Unity 等创意工具内工作。应用可读取项目文件、操作创意软件并输出可编辑结果，支持视频剪辑、动态图形、调色、3D 场景和游戏原型制作，并内置技能、自定义技能以及学习用户工作习惯的记忆。",
-      "category": "ai-products",
-      "score": 55,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/clw3tlzf1hs27dp8pf1s12p9j"
-      },
-      "sourceType": "X",
-      "designCategory": "行业观察",
-      "relevanceScore": 9,
-      "editorialScore": 9,
-      "tags": [
-        "原型",
-        "创意",
-        "creative",
-        "视频"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "e1ob29susiajzn2kfx9wd3npa",
-      "title": "游戏开发内容创作者的黄金时代",
-      "title_en": "I think it's probably an incredible time to be a game dev content creator, for many people making games is a form of having fun and they'...",
-      "url": "https://x.com/trq212/status/2107957206327173484",
-      "permalink": "https://aihot.news/items/e1ob29susiajzn2kfx9wd3npa",
-      "source": "X：Thariq (@trq212)",
-      "publishedAt": "2026-10-07T22:12:16.000Z",
-      "discoveredAt": "2026-10-07T22:25:26.260Z",
-      "summary": "我觉得现在对游戏开发内容创作者来说，大概是一个绝佳的时代。对很多人来说，做游戏本身就是一种娱乐方式，而他们愿意为此付费！",
-      "category": "opinion",
-      "score": 34,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/e1ob29susiajzn2kfx9wd3npa"
-      },
-      "sourceType": "X",
-      "designCategory": "行业观察",
-      "relevanceScore": 9,
-      "editorialScore": 9,
-      "tags": [
-        "内容创作",
-        "creator"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "bio2ffefy6ziobb3kux71o23l",
-      "title": "wow！森马的老师告诉我们这条拿到了第四届上海国际AIGC创新大赛·AI营销赛道·最佳创意奖~",
-      "title_en": null,
-      "url": "https://x.com/ring_hyacinth/status/2108443557162094742",
-      "permalink": "https://aihot.news/items/bio2ffefy6ziobb3kux71o23l",
-      "source": "X：Ring Hyacinth (@ring_hyacinth)",
-      "publishedAt": "2026-10-09T06:24:51.000Z",
-      "discoveredAt": "2026-10-09T06:54:30.398Z",
-      "summary": "wow！森马的老师告诉我们这条拿到了第四届上海国际AIGC创新大赛·AI营销赛道·最佳创意奖~",
-      "category": "industry",
-      "score": 23,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/bio2ffefy6ziobb3kux71o23l"
-      },
-      "sourceType": "X",
-      "designCategory": "行业观察",
-      "relevanceScore": 8,
-      "editorialScore": 8,
-      "tags": [
-        "创意",
-        "营销"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "gq8yjkqlcdbpy0l5uc8ch2sj8",
-      "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
-      "title_en": "Building effective agent automations",
-      "url": "https://claude.dev/blog/building-effective-agent-automations/",
-      "permalink": "https://aihot.news/items/gq8yjkqlcdbpy0l5uc8ch2sj8",
-      "source": "Anthropic：Claude.dev 开发者博客（RSS）",
-      "publishedAt": "2026-10-08T12:00:00.000Z",
-      "discoveredAt": "2026-10-08T16:15:30.312Z",
-      "summary": "Anthropic 发布基于 Claude Managed Agents（beta）的每日简报参考实现，按计划读取 Slack 和 GitHub 来源并向 Slack 发布简报。",
+      "id": "bep5gxm9gqivenb6oyrhtwxez",
+      "title": "Claude Code 动态工作流使用建议",
+      "title_en": "Dynamic workflows are powerful and can use a lot of tokens, so we suggest starting with a scoped task. From there, incrementally increase...",
+      "url": "https://x.com/ClaudeDevs/status/2108591334449684643",
+      "permalink": "https://aihot.news/items/bep5gxm9gqivenb6oyrhtwxez",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "publishedAt": "2026-10-09T16:12:04.000Z",
+      "discoveredAt": "2026-10-09T16:37:47.925Z",
+      "summary": "动态工作流功能强大，但会消耗大量 token，因此我们建议从范围明确的任务开始。在此基础上，逐步提升任务复杂度。\n\n在 Claude Code 中可通过以下方式上手：/claude-api managed-agents-onboard bug-hunter，或访问 https://platform.claude.com/agent-quickstart 查看模板。",
       "category": "tip",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/gq8yjkqlcdbpy0l5uc8ch2sj8"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "自动化",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "mhjq7fo1gr580u0tb0i227ttz",
-      "title": "Claude Code v2.1.294 发布：修复 prompt 与 agent hooks 的指令判定",
-      "title_en": "v2.1.294",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.294",
-      "permalink": "https://aihot.news/items/mhjq7fo1gr580u0tb0i227ttz",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "publishedAt": "2026-10-08T05:03:54.000Z",
-      "discoveredAt": "2026-10-08T05:30:25.200Z",
-      "summary": "Claude Code v2.1.294 修复了以指令形式编写的 prompt 和 agent hooks（如\"阻止某些命令\"）反而放行本应拦截内容的问题。同时改进了 Stop 与 SubagentStop 上指令式 prompt hooks（如\"构建失败就继续\"）的判定，减少 Claude 提前停止的情况。",
-      "category": "ai-products",
-      "score": 25,
+      "score": 45,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/mhjq7fo1gr580u0tb0i227ttz"
+        "canonical": "https://aihot.news/items/bep5gxm9gqivenb6oyrhtwxez"
       },
-      "sourceType": "网站",
+      "sourceType": "X",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
+      "relevanceScore": 8,
+      "editorialScore": 9,
       "tags": [
-        "prompt",
+        "工作流",
         "claude code",
         "agent"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "aihotnoticelegacyapi1031z",
-      "title": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移",
-      "title_en": "AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
-      "url": "https://aihot.news/agent?tab=api#legacy-api-migration",
-      "permalink": "https://aihot.news/agent?tab=api#legacy-api-migration",
-      "source": "AIHOT",
-      "publishedAt": "2026-10-08T02:00:00.000Z",
-      "discoveredAt": "2026-10-08T02:00:00.000Z",
-      "summary": "这条消息来自 AIHOT 旧版接口 /api/public/*：它将于 2026 年 10 月 31 日停用，之后这里不会再有新资讯。如果它是群机器人或脚本推送来的，请转告维护的人把地址换成 https://aihot.news/api/v1，字段一一对应；迁移指南和可以直接交给 AI 改写代码的提示词见 https://aihot.news/agent?tab=api#legacy-api-migration 。同一天起旧域名 aihot.virxact.com 的所有地址都只跳转到 aihot.news，RSS、MCP 等地址也请换成新域名；收藏的网页链接照样能打开。",
-      "category": "industry",
-      "score": 100,
-      "selected": true,
+      "id": "xjednimkpswqkau9dlb7dytk8",
+      "title": "Claude Managed Agents 动态工作流公开测试版上线",
+      "title_en": "Claude Managed Agents dynamic workflows are now available in public beta. It's a new type of multiagent orchestration, built for your mos...",
+      "url": "https://x.com/ClaudeDevs/status/2108591328732856655",
+      "permalink": "https://aihot.news/items/xjednimkpswqkau9dlb7dytk8",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "publishedAt": "2026-10-09T16:12:03.000Z",
+      "discoveredAt": "2026-10-09T16:37:47.945Z",
+      "summary": "Claude Managed Agents 的动态工作流进入公开测试版，这是一种新的多智能体编排方式，面向高负载工作场景。主 agent 会编写一个跨多个 agent 分阶段执行的计划，最后合并各阶段结果。",
+      "category": "ai-products",
+      "score": 62,
+      "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/agent?tab=api#legacy-api-migration"
+        "canonical": "https://aihot.news/items/xjednimkpswqkau9dlb7dytk8"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "工作流",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "x40kdthgczzyexceg1m6axv2u",
+      "title": "Anthropic 为 Claude Managed Agents 推出动态工作流，单次可并行编排最多 1000 个智能体",
+      "title_en": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows",
+      "url": "https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/",
+      "permalink": "https://aihot.news/items/x40kdthgczzyexceg1m6axv2u",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-10-09T18:28:25.000Z",
+      "discoveredAt": "2026-10-09T18:51:35.618Z",
+      "summary": "Anthropic 为 Claude Managed Agents 推出动态工作流，由主智能体制定计划、分发任务给子智能体并汇总结果，单次执行最多可并行 1000 个智能体。",
+      "category": "ai-products",
+      "score": 70,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/x40kdthgczzyexceg1m6axv2u"
       },
       "sourceType": "网站",
       "designCategory": "工作流与 Agent",
       "relevanceScore": 7,
       "editorialScore": 8,
       "tags": [
-        "提示词",
-        "agent",
-        "mcp"
+        "工作流",
+        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -1225,86 +1199,6 @@
       "editorialScore": 7,
       "tags": [
         "视觉",
-        "工作流",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "g0wo2aksqgzw87bywxaeo631z",
-      "title": "Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线",
-      "title_en": "What's new in Claude: September recap",
-      "url": "https://www.youtube.com/shorts/n9WfoNW2XnE",
-      "permalink": "https://aihot.news/items/g0wo2aksqgzw87bywxaeo631z",
-      "source": "Claude：YouTube（RSS）",
-      "publishedAt": "2026-10-08T15:53:13.000Z",
-      "discoveredAt": "2026-10-08T16:35:29.800Z",
-      "summary": "Claude 发布九月更新回顾，Chat 与 Cowork 合并为一个 Claude，工作流可在云端运行，合上笔记本后继续进行。Claude Docs 支持团队与 Claude 在同一文档中协作编辑，新推出的 Claude 5.5 系列提供 Opus 5.5 处理重任务、Sonnet 5.5 用于快速修改，并可通过 /slides、/docs、/designs 直接生成对应格式。",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/g0wo2aksqgzw87bywxaeo631z"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "工作流"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cal34hameqt3bh6d52vaqt58v",
-      "title": "Zenity 披露 AgentCore 漏洞链：一个公开 AI Agent 可控制同账户同区域所有 Agent",
-      "title_en": "One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
-      "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/",
-      "permalink": "https://aihot.news/items/cal34hameqt3bh6d52vaqt58v",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-10-08T13:01:01.000Z",
-      "discoveredAt": "2026-10-08T13:27:33.293Z",
-      "summary": "Zenity Labs 发现 AWS Bedrock AgentCore 的漏洞链“AgentCorruption”，只需对一个公开 Agent 发送一条提示词，即可窃取凭证并接管同 AWS 账户和区域内所有 Agent，读取私有对话、下载源代码并篡改长期记忆。",
-      "category": "paper",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cal34hameqt3bh6d52vaqt58v"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "提示词",
-        "agent"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "lowdwezuclmrdls58e51ibmf3",
-      "title": "Databricks 介绍用 Lakebase 数据库分支为编码智能体构建隔离开发工作流",
-      "title_en": "Lakebase and Agentic SDLC: Branching Databases for Coding Agents",
-      "url": "https://www.databricks.com/blog/lakebase-and-agentic-sdlc-branching-databases-coding-agents",
-      "permalink": "https://aihot.news/items/lowdwezuclmrdls58e51ibmf3",
-      "source": "Databricks：Blog（RSS）",
-      "publishedAt": "2026-10-08T00:00:00.000Z",
-      "discoveredAt": "2026-10-08T22:28:20.851Z",
-      "summary": "Databricks 博客介绍如何用 Lakebase Postgres 的数据库分支能力支持 Agentic SDLC。Lakebase 可在不到一秒内分支任意大小的数据库，采用 copy-on-write 共享父分支数据、支持 scale-to-zero。",
-      "category": "tip",
-      "score": 51,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/lowdwezuclmrdls58e51ibmf3"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
         "工作流",
         "智能体"
       ],
