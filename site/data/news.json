@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-10T12:32:19.517Z",
-  "previousGeneratedAt": "2026-10-10T05:52:51.560Z",
+  "generatedAt": "2026-10-11T05:46:52.184Z",
+  "previousGeneratedAt": "2026-10-10T12:32:19.517Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 46,
+  "itemCount": 44,
   "sourceCounts": {
     "X": 24,
-    "网站": 20,
+    "网站": 18,
     "公众号": 2
   },
   "source": {
@@ -217,90 +217,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "xc7shuv3raxyv5xvh59ez8hjf",
-      "title": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频",
-      "title_en": "How I Generated Live Video with MiniMax H3 on a Single GPU",
-      "url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
-      "permalink": "https://aihot.news/items/xc7shuv3raxyv5xvh59ez8hjf",
-      "source": "Comfy Blog",
-      "publishedAt": "2026-10-08T19:01:22.000Z",
-      "discoveredAt": "2026-10-08T19:25:37.335Z",
-      "summary": "ComfyUI 博客作者用智能体搜集各类优化，把 MiniMax H3 实时视频生成压缩到单张 RTX 5090（32 GB 显存）上运行，生成 30 秒视频耗时 23.51 秒，达 1.28 倍实时吞吐。",
-      "category": "tip",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/xc7shuv3raxyv5xvh59ez8hjf"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "视频生成",
-        "视频",
-        "智能体"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "uld49rdoorpkst2eblr5615wy",
-      "title": "Odyssey 发布世界模型 Odyssey-3，Pro 版 Physics-IQ Verified 视频生成得分 66.1",
-      "title_en": "Odyssey released Odyssey-3, a world model whose Pro version posts the highest reported Physics-IQ Verified video-to-video score, 66.1.",
-      "url": "https://x.com/rohanpaul_ai/status/2108248580431688024",
-      "permalink": "https://aihot.news/items/uld49rdoorpkst2eblr5615wy",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-10-08T17:30:05.000Z",
-      "discoveredAt": "2026-10-08T17:31:31.594Z",
-      "summary": "Odyssey 发布基础世界模型 Odyssey-3，Pro 版报告了 Physics-IQ Verified video-to-video 最高分 66.1。",
-      "category": "ai-models",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/uld49rdoorpkst2eblr5615wy"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "视频生成",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "ds9xevj7bhsznldxj1innmy8a",
-      "title": "Anthropic 推出 Claude Motion，Runway 作为发布合作方支持动画导出与后期",
-      "title_en": "October 8, 2026•Company News Runway is in Claude Motion",
-      "url": "https://runwayml.com/news/company-news/runway-claude-motion",
-      "permalink": "https://aihot.news/items/ds9xevj7bhsznldxj1innmy8a",
-      "source": "Runway：News（网页）",
-      "publishedAt": "2026-10-08T17:29:00.000Z",
-      "discoveredAt": "2026-10-08T20:48:19.130Z",
-      "summary": "Anthropic 于 10 月 8 日推出 Claude Motion，可将提示词变成由文本、图表、图形和图像构成的短动画讲解视频，Claude 会编写动画代码，结果可在编辑器中调整、通过对话修改或下载为 MP4。",
-      "category": "industry",
-      "score": 54,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ds9xevj7bhsznldxj1innmy8a"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "runway",
-        "视频",
-        "图像",
-        "提示词"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "mxx0909fgztwp9oa6vubwido4",
       "title": "Figma 总结 4 个推动团队级 AI 采用的团队仪式",
       "title_en": "4 team rituals that drive AI adoption",
@@ -411,60 +327,6 @@
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "lfjvrbxxsf2b080v1v108p5ez",
-      "title": "Claude Docs、Slides 和 Design 结束公测，全部计划含免费版可用",
-      "title_en": "Starting today, Claude Docs, Slides, and Design are out of beta and available on every plan including Free.",
-      "url": "https://x.com/claudeai/status/2108271559928389679",
-      "permalink": "https://aihot.news/items/lfjvrbxxsf2b080v1v108p5ez",
-      "source": "X：Claude (@claudeai)",
-      "publishedAt": "2026-10-08T19:01:24.000Z",
-      "discoveredAt": "2026-10-08T19:30:38.451Z",
-      "summary": "Anthropic 官宣 Claude Docs、Slides 和 Design 结束 beta，即日起在所有计划中可用，包括 Free。用户可以与 Claude 共同编辑同一份文档、幻灯片或设计。",
-      "category": "ai-products",
-      "score": 61,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/lfjvrbxxsf2b080v1v108p5ez"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 10,
-      "editorialScore": 14,
-      "tags": [
-        "design",
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "evgyk5hnfvdrruaxh5kdt5g0q",
-      "title": "Arena 招聘消费级应用设计师",
-      "title_en": "Join us and @johnnnavent: https://arena.ai/company/careers",
-      "url": "https://x.com/arena/status/2108269288310366577",
-      "permalink": "https://aihot.news/items/evgyk5hnfvdrruaxh5kdt5g0q",
-      "source": "X：Arena (@arena)",
-      "publishedAt": "2026-10-08T18:52:22.000Z",
-      "discoveredAt": "2026-10-08T19:14:43.863Z",
-      "summary": "加入我们和 @johnnnavent：https://arena.ai/company/careers",
-      "category": "industry",
-      "score": 16,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/evgyk5hnfvdrruaxh5kdt5g0q"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 10,
-      "editorialScore": 14,
-      "tags": [
-        "设计师",
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "jrvyvudtrc7zpgbznplepxd57",
@@ -602,33 +464,6 @@
         "agent"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "q4uvrbp1thu0wu8euym6yxr5u",
-      "title": "Anthropic 向所有付费用户开放 Claude Dashboards，Team 和 Enterprise 可用 Claude Motion",
-      "title_en": "ANTHROPIC 🔥: Claude Dashboards is now available on all paid plans; Claude Motion is now available on Team and Enterprise plans.",
-      "url": "https://x.com/testingcatalog/status/2108294558497030514",
-      "permalink": "https://aihot.news/items/q4uvrbp1thu0wu8euym6yxr5u",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-10-08T20:32:47.000Z",
-      "discoveredAt": "2026-10-08T20:36:18.504Z",
-      "summary": "Anthropic 宣布 Claude Dashboards 现已面向所有付费计划开放，Claude Motion 面向 Team 和 Enterprise 计划开放。Claude 可查询用户的数据平台或 CRM 工具生成交互式仪表盘或短动画，所有内容均以代码形式生成。作者认为这体现了 Anthropic 专注软件开发的策略，对分析团队和产品经理等角色有较大影响。",
-      "category": "ai-products",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/q4uvrbp1thu0wu8euym6yxr5u"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "交互",
-        "产品经理"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "o5kpu7l3pfo84p7gzq1s3umls",
@@ -879,6 +714,33 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "rjmrmxl1t82571omlf3rz1a17",
+      "title": "TechCrunch 盘点可通过短信使用的 AI 智能体",
+      "title_en": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "permalink": "https://aihot.news/items/rjmrmxl1t82571omlf3rz1a17",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-10-10T14:00:00.000Z",
+      "discoveredAt": "2026-10-10T14:37:43.563Z",
+      "summary": "TechCrunch 盘点了一批可像普通人一样通过短信、iMessage 或 WhatsApp 直接交互的 AI 智能体，覆盖通用助理、家庭、旅行和工作场景。",
+      "category": "tip",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/rjmrmxl1t82571omlf3rz1a17"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "l0s7afi2x2bei9yrod16koqr0",
       "title": "中国将推出应对 AI 发展的全国性就业与劳动力技能提升计划",
       "title_en": "China will roll out a national plan to boost employment and workforce skills in response to AI development, according to the State Counci...",
@@ -1122,33 +984,33 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "egp7vrqc9z54to0psjoy9thc1",
-      "title": "Voyager 发布：面向创意工作的开放 Agent 工具",
-      "title_en": "There are two ways to put a model into creative work.",
-      "url": "https://x.com/rohanpaul_ai/status/2108294350492860618",
-      "permalink": "https://aihot.news/items/egp7vrqc9z54to0psjoy9thc1",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-10-08T20:31:58.000Z",
-      "discoveredAt": "2026-10-08T20:37:20.182Z",
-      "summary": "@anvisha 发布 Voyager，定位为创意工作领域的开放 harness，被作者称为 Codex for creative work，让 Agent 像编码 Agent 操作代码库一样操作项目文件和创意应用。",
-      "category": "opinion",
-      "score": 60,
+      "id": "eid5f7578iqv0dwlo5krwfbfb",
+      "title": "ElevenLabs 支持提示词中标记品牌",
+      "title_en": "Tag your brand in any prompt.",
+      "url": "https://x.com/ElevenLabs/status/2108950693562179913",
+      "permalink": "https://aihot.news/items/eid5f7578iqv0dwlo5krwfbfb",
+      "source": "X：ElevenLabs (@elevenlabs)",
+      "publishedAt": "2026-10-10T16:00:02.000Z",
+      "discoveredAt": "2026-10-10T16:21:43.517Z",
+      "summary": "在任意提示词中标记你的品牌。\n\n在 Image & Video、Flows 或 agent 中输入 @ 即可标记你的 kit。你的素材和规则将塑造生成结果。\n\n你也可以让 agent 帮你编辑 kit。",
+      "category": "ai-products",
+      "score": 32,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/egp7vrqc9z54to0psjoy9thc1"
+        "canonical": "https://aihot.news/items/eid5f7578iqv0dwlo5krwfbfb"
       },
       "sourceType": "X",
-      "designCategory": "行业观察",
-      "relevanceScore": 10,
-      "editorialScore": 10,
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
       "tags": [
-        "创意",
-        "creative",
-        "codex",
+        "提示词",
+        "prompt",
+        "品牌",
         "agent"
       ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "qngavny642ecsgg0uwkzl6elv",
@@ -1175,6 +1037,115 @@
         "workflow",
         "视频",
         "prompt"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "ppdexr44g3pv5spml0cg4d4q4",
+      "title": "阶跃星辰 Step 5 Preview 上 Nous Portal 免费开放一周",
+      "title_en": "Strong performance, now within reach of more builders through Nous Portal.",
+      "url": "https://x.com/StepFun_ai/status/2108671660840894652",
+      "permalink": "https://aihot.news/items/ppdexr44g3pv5spml0cg4d4q4",
+      "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
+      "publishedAt": "2026-10-09T21:31:15.000Z",
+      "discoveredAt": "2026-10-09T21:51:50.413Z",
+      "summary": "Step 5 Preview 在 Nous Portal 免费开放一周。模型为 600B 总参数 / 27B 激活的 MoE，支持 1M 上下文和视觉，Hermes Index 得分 33.89，与 GPT-6 Luna 持平。",
+      "category": "ai-products",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/ppdexr44g3pv5spml0cg4d4q4"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "视觉"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "bep5gxm9gqivenb6oyrhtwxez",
+      "title": "Claude Code 动态工作流使用建议",
+      "title_en": "Dynamic workflows are powerful and can use a lot of tokens, so we suggest starting with a scoped task. From there, incrementally increase...",
+      "url": "https://x.com/ClaudeDevs/status/2108591334449684643",
+      "permalink": "https://aihot.news/items/bep5gxm9gqivenb6oyrhtwxez",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "publishedAt": "2026-10-09T16:12:04.000Z",
+      "discoveredAt": "2026-10-09T16:37:47.925Z",
+      "summary": "动态工作流功能强大，但会消耗大量 token，因此我们建议从范围明确的任务开始。在此基础上，逐步提升任务复杂度。\n\n在 Claude Code 中可通过以下方式上手：/claude-api managed-agents-onboard bug-hunter，或访问 https://platform.claude.com/agent-quickstart 查看模板。",
+      "category": "tip",
+      "score": 45,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/bep5gxm9gqivenb6oyrhtwxez"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "工作流",
+        "claude code",
+        "agent"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "xjednimkpswqkau9dlb7dytk8",
+      "title": "Claude Managed Agents 动态工作流公开测试版上线",
+      "title_en": "Claude Managed Agents dynamic workflows are now available in public beta. It's a new type of multiagent orchestration, built for your mos...",
+      "url": "https://x.com/ClaudeDevs/status/2108591328732856655",
+      "permalink": "https://aihot.news/items/xjednimkpswqkau9dlb7dytk8",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "publishedAt": "2026-10-09T16:12:03.000Z",
+      "discoveredAt": "2026-10-09T16:37:47.945Z",
+      "summary": "Claude Managed Agents 的动态工作流进入公开测试版，这是一种新的多智能体编排方式，面向高负载工作场景。主 agent 会编写一个跨多个 agent 分阶段执行的计划，最后合并各阶段结果。",
+      "category": "ai-products",
+      "score": 62,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/xjednimkpswqkau9dlb7dytk8"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "工作流",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "zca95c5ahv73pc6bmhfm3nlt5",
+      "title": "PixVerse 参会送积分及 ChatGPT Pro",
+      "title_en": "Everyone who attends gets free PixVerse credits to try the workflow.",
+      "url": "https://x.com/PixVerse/status/2108573702074015777",
+      "permalink": "https://aihot.news/items/zca95c5ahv73pc6bmhfm3nlt5",
+      "source": "X：PixVerse (@PixVerse)",
+      "publishedAt": "2026-10-09T15:02:00.000Z",
+      "discoveredAt": "2026-10-09T15:09:33.362Z",
+      "summary": "所有参会者均可获得免费 PixVerse 积分，用于体验该工作流。\n完成会后问卷，每场会议将有 100 名参会者被随机抽中，赢取一个月 ChatGPT Pro。",
+      "category": null,
+      "score": 10,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/zca95c5ahv73pc6bmhfm3nlt5"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "工作流",
+        "workflow"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -1255,32 +1226,6 @@
       "editorialScore": 6,
       "tags": [
         "广告"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "laat2fgtdqblvnz0z1ug229vu",
-      "title": "Anthropic 更新 Claude 使用政策，持续辱骂 Claude 可致账号被暂停",
-      "title_en": "Being mean to Claude can now get your account suspended under Anthropic's new TOS",
-      "url": "https://the-decoder.com/being-mean-to-claude-can-now-get-your-account-suspended-under-anthropics-new-tos/",
-      "permalink": "https://aihot.news/items/laat2fgtdqblvnz0z1ug229vu",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-10-08T19:03:14.000Z",
-      "discoveredAt": "2026-10-08T19:32:38.814Z",
-      "summary": "Anthropic 一年多来首次更新 Claude 使用政策，禁止用户对 Claude 持续且无必要的辱骂或残忍行为，违规者可能被警告、限流、限制或终止访问。该条款仅适用于极端情况，不涵盖常见的不满、反对、黑暗创意主题或模型测试研究；更新还整合了宣传、武器和监控方面的新限制，并承认政府合同可能存在例外。",
-      "category": "industry",
-      "score": 69,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/laat2fgtdqblvnz0z1ug229vu"
-      },
-      "sourceType": "网站",
-      "designCategory": "行业观察",
-      "relevanceScore": 6,
-      "editorialScore": 6,
-      "tags": [
-        "创意"
       ],
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     }
