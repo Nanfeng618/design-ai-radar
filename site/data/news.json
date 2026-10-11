@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-11T05:46:52.184Z",
-  "previousGeneratedAt": "2026-10-10T12:32:19.517Z",
+  "generatedAt": "2026-10-11T12:50:17.095Z",
+  "previousGeneratedAt": "2026-10-11T05:46:52.184Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 44,
+  "itemCount": 43,
   "sourceCounts": {
     "X": 24,
-    "网站": 18,
+    "网站": 17,
     "公众号": 2
   },
   "source": {
@@ -44,62 +44,33 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "yaa1qousn010hnq77au5slzuk",
-      "title": "Midjourney 测试图像生成思考模式",
-      "title_en": "We're testing a new \"thinking mode\" for our image generation on our Alpha website (alpha dot midjourney dot com). We're finding it boosts...",
-      "url": "https://x.com/midjourney/status/2108307894886400511",
-      "permalink": "https://aihot.news/items/yaa1qousn010hnq77au5slzuk",
-      "source": "X：Midjourney (@midjourney)",
-      "publishedAt": "2026-10-08T21:25:47.000Z",
-      "discoveredAt": "2026-10-08T21:49:18.587Z",
-      "summary": "我们正在 Alpha 网站（alpha dot midjourney dot com）上测试图像生成的新“思考模式”。我们发现它能提升提示词准确性、排版和连贯性。希望你们用自己的图片帮忙测试，并告诉我们感受。谢谢！<3",
-      "category": "ai-products",
-      "score": 44,
+      "id": "t2lvdezwdnqv6utzq23e5ypz8",
+      "title": "有人逆向拆解了 ChatGPT Intelligent UI 的工作原理",
+      "title_en": "Someone just reverse-engineered how OpenAI's new Intelligent UI actually works.",
+      "url": "https://x.com/rohanpaul_ai/status/2109256090173190542",
+      "permalink": "https://aihot.news/items/t2lvdezwdnqv6utzq23e5ypz8",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-10-11T12:13:34.000Z",
+      "discoveredAt": "2026-10-11T12:29:24.855Z",
+      "summary": "有人逆向工程了 ChatGPT 新推出的 Generative UI（Intelligent UI）的架构。其工作方式是智能体不写原始代码，而是输出一种新语言 DIL，由服务端编译并流式传输，客户端在沙箱运行时用约 70 个原生 UI 组件渲染，使界面感觉原生；交互无需额外的 AI 调用。",
+      "category": "tip",
+      "score": 60,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/yaa1qousn010hnq77au5slzuk"
+        "canonical": "https://aihot.news/items/t2lvdezwdnqv6utzq23e5ypz8"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 26,
-      "editorialScore": 29,
+      "designCategory": "产品与体验",
+      "relevanceScore": 15,
+      "editorialScore": 19,
       "tags": [
-        "midjourney",
-        "图像生成",
-        "image generation",
-        "图像"
+        "ui",
+        "界面",
+        "交互",
+        "智能体"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "ndvap43t863mf281m5n6ggqi3",
-      "title": "Midjourney 在 Alpha 网站测试图像生成 Thinking Mode",
-      "title_en": "Testing Thinking Mode",
-      "url": "https://updates.midjourney.com/testing-thinking-mode/",
-      "permalink": "https://aihot.news/items/ndvap43t863mf281m5n6ggqi3",
-      "source": "Midjourney：Updates（RSS）",
-      "publishedAt": "2026-10-08T21:17:13.000Z",
-      "discoveredAt": "2026-10-08T21:34:17.354Z",
-      "summary": "Midjourney 正在 alpha.midjourney.com 测试图像生成的 Thinking Mode，用户可在任务 lightbox 中点击 \"Rerun (Thinking)\" 运行。测试显示该模式有助于提升提示词准确性、文字排版和画面连贯性。Midjourney 表示未来可能将其作为通用的 thinking 模式，或用于在任务完成后\"增加更多思考\"。",
-      "category": "ai-products",
-      "score": 49,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ndvap43t863mf281m5n6ggqi3"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 19,
-      "editorialScore": 22,
-      "tags": [
-        "midjourney",
-        "图像生成",
-        "图像",
-        "提示词"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "bt65d3vxjtfughs2vioxt3m86",
@@ -131,35 +102,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "iz5eb6na5hslkkre44qvq0sl7",
-      "title": "Arena 宣布获 Salesforce Ventures 领投的 B 轮融资",
-      "title_en": "Very excited to be working with the team at @SalesforceVC!",
-      "url": "https://x.com/arena/status/2108310336613019687",
-      "permalink": "https://aihot.news/items/iz5eb6na5hslkkre44qvq0sl7",
-      "source": "X：Arena (@arena)",
-      "publishedAt": "2026-10-08T21:35:29.000Z",
-      "discoveredAt": "2026-10-08T21:49:18.565Z",
-      "summary": "Salesforce Ventures 宣布投资 Arena 的 B 轮融资。Arena 让真实用户在文本、编码、视觉、图像生成和智能体任务上对比匿名模型输出并投票，实验室据此决定训练和发布哪些模型，开发者据此决定采购；其关键在于没有实验室掌控记分牌，保持中立性。",
-      "category": "industry",
-      "score": 55,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/iz5eb6na5hslkkre44qvq0sl7"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 15,
-      "editorialScore": 18,
-      "tags": [
-        "图像生成",
-        "视觉",
-        "图像",
-        "智能体"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "ncu60cvijdnef208welxkkcvf",
       "title": "Anthropic Claude 上线 Dashboards 数据仪表板与 Motion 解释性动画功能",
       "title_en": "Anthropic Claude 现已支持数据仪表板与解释性动画功能",
@@ -184,35 +126,6 @@
         "视频生成",
         "视频",
         "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "rs34l7aa23mk54jutma8f7g3r",
-      "title": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index",
-      "title_en": "We’re incredibly proud to continue working with @thehousefund!",
-      "url": "https://x.com/arena/status/2108310714423423254",
-      "permalink": "https://aihot.news/items/rs34l7aa23mk54jutma8f7g3r",
-      "source": "X：Arena (@arena)",
-      "publishedAt": "2026-10-08T21:36:59.000Z",
-      "discoveredAt": "2026-10-08T21:49:18.549Z",
-      "summary": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元，由 Lightspeed 和 Khosla Ventures 联合领投，a16z、Felicis、Salesforce Ventures、The House Fund 等参投。自 A 轮以来，Arena 年化收入超 1 亿美元，平台累计 3.5 亿场次会话，约 5 个月内产生 700 万次 Agent Arena 会话，覆盖文本、视觉、代码、搜索、图像和视频的投票达 6200 万，用户遍布 150 多个国家。融资同时，Arena 发布基于真实智能体轨迹构建的 Alignment Index，对 20 多个前沿模型从 Unauthorized Action、False Attribution 和 Deceptive Completion 三个信号进行评估。Arena 于 2023 年作为 UC Berkeley 研究项目启动，2025 年成为公司。",
-      "category": "industry",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/rs34l7aa23mk54jutma8f7g3r"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "视觉",
-        "视频",
-        "图像",
-        "agent"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -607,32 +520,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "q5mwduy6cwytucuajabu2of5l",
-      "title": "Midjourney Alpha 更新：上线共享文件夹与 8.2 Thinking Mode 重跑",
-      "title_en": "Alpha Changelog - 10/7/26",
-      "url": "https://updates.midjourney.com/alpha-changelog-10-7-26/",
-      "permalink": "https://aihot.news/items/q5mwduy6cwytucuajabu2of5l",
-      "source": "Midjourney：Updates（RSS）",
-      "publishedAt": "2026-10-08T21:16:55.000Z",
-      "discoveredAt": "2026-10-08T21:34:17.362Z",
-      "summary": "Midjourney 发布 alpha.midjourney.com 本周更新，推出共享文件夹，可按用户名邀请协作者或查看者，也支持链接共享，文件夹所有者可为所有人删除，图片仍留在各自创建者历史中；协作共享不改变图片隐私，非 stealth 图片仍可能出现在 Explore 和个人主页。",
-      "category": "ai-products",
-      "score": 53,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/q5mwduy6cwytucuajabu2of5l"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
-      "tags": [
-        "midjourney"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "f6is2rkz6oezlox6b2b5bbun9",
       "title": "清华Ning Xu因AI使用被取消Nikon Small World in Motion资格，越南Nguyen Nam Nhat递补夺冠",
       "title_en": "AI disqualification yields new Nikon Small World in Motion winner",
@@ -712,6 +599,32 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "ftze0p620atz0zqsexfj8lki3",
+      "title": "Odyssey 开放世界模型 Odyssey-3 公开研究预览，可免费试用",
+      "title_en": "Odyssey-3 is a new generative world model that you can try for free",
+      "url": "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/",
+      "permalink": "https://aihot.news/items/ftze0p620atz0zqsexfj8lki3",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-10-11T07:48:01.000Z",
+      "discoveredAt": "2026-10-11T08:23:25.455Z",
+      "summary": "加州 AI 公司 Odyssey 推出 Odyssey-3 世界模型的公开研究预览，用户可用文本提示生成并实时探索交互环境，开发者可申请 API。",
+      "category": "ai-models",
+      "score": 64,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/ftze0p620atz0zqsexfj8lki3"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "rjmrmxl1t82571omlf3rz1a17",
@@ -955,35 +868,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "wvqoab0uw6om8dcfr8zfhozm9",
-      "title": "Claude Managed Agents 自动化搭建指南：定时读取 Slack 与 GitHub 并发布更新",
-      "title_en": "How to build automations with Claude Managed Agents: https://claude.dev/blog/building-effective-agent-automations/",
-      "url": "https://x.com/ClaudeDevs/status/2108320296323477683",
-      "permalink": "https://aihot.news/items/wvqoab0uw6om8dcfr8zfhozm9",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "publishedAt": "2026-10-08T22:15:03.000Z",
-      "discoveredAt": "2026-10-08T22:36:18.599Z",
-      "summary": "一篇介绍如何用 Claude Managed Agents 搭建自动化的教程，示例为部署一个按计划读取 Slack 和 GitHub、具备凭证与记忆并发布更新的智能体。搭建可通过一条 Claude Code 命令完成，Max 和 Team 套餐中包含的 API credits 可用于该用途，原文链接 https://claude.dev/blog/building-effective-agent-automations/。",
-      "category": "tip",
-      "score": 62,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/wvqoab0uw6om8dcfr8zfhozm9"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 9,
-      "editorialScore": 10,
-      "tags": [
-        "自动化",
-        "claude code",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
       "id": "eid5f7578iqv0dwlo5krwfbfb",
       "title": "ElevenLabs 支持提示词中标记品牌",
       "title_en": "Tag your brand in any prompt.",
@@ -1146,6 +1030,89 @@
       "tags": [
         "工作流",
         "workflow"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "dlxpdonh0i9yz3xdyq80xebj8",
+      "title": "PixVerse 携手 OpenAI 推出创作课程",
+      "title_en": "We’re collaborating with @OpenAI on Prompt to Production, a learning initiative on AI-powered creative workflows.",
+      "url": "https://x.com/PixVerse/status/2108573700949983707",
+      "permalink": "https://aihot.news/items/dlxpdonh0i9yz3xdyq80xebj8",
+      "source": "X：PixVerse (@PixVerse)",
+      "publishedAt": "2026-10-09T15:02:00.000Z",
+      "discoveredAt": "2026-10-09T15:09:33.383Z",
+      "summary": "我们正与 @OpenAI 合作推出 Prompt to Production，一项关于 AI 驱动创意工作流的学习计划。\n它从两场直播课程开始，讲解如何用 ChatGPT 和 PixVerse Plugin 将创意简报变成成片视频。\n见下方推文串。",
+      "category": "industry",
+      "score": 28,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/dlxpdonh0i9yz3xdyq80xebj8"
+      },
+      "sourceType": "X",
+      "designCategory": "行业观察",
+      "relevanceScore": 9,
+      "editorialScore": 9,
+      "tags": [
+        "工作流",
+        "创意",
+        "creative",
+        "视频"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
+      "id": "pxaxr3st74w41dh7xxqaarvrb",
+      "title": "Shaders 开源：200+ WebGPU 视觉特效封装为声明式组件，React/Vue/Svelte/Solid/原生 JS 共用一套 props",
+      "title_en": "Shaders 这个开源 WebGPU 着色器特效组件库必须收藏，200+ 种视觉效果封装成声明式组件、React / Vue / Svelte / Solid / 原生 JS 共用一个包、同一套 props、MIT 协议 @npm_i_shaders",
+      "url": "https://x.com/shao__meng/status/2108374124821381419",
+      "permalink": "https://aihot.news/items/pxaxr3st74w41dh7xxqaarvrb",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-10-09T01:48:57.000Z",
+      "discoveredAt": "2026-10-09T02:16:31.059Z",
+      "summary": "Shaders 宣布开源其 WebGPU 着色器特效组件库，提供 200+ 个视觉效果组件，支持 React / Vue / Svelte / Solid / 原生 JS 共用一个包和同一套 props，MIT 协议，可免费导出任意框架代码，GitHub 地址为 https://github.com/shader-effects-inc/shaders。",
+      "category": "tip",
+      "score": 67,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/pxaxr3st74w41dh7xxqaarvrb"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "视觉"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "vtff6xcg8b82n4qjxn2iohq69",
+      "title": "Lee Robinson 斯坦福 CS146S 讲座详解常驻智能体架构与上下文工程",
+      "title_en": "常驻智能体如何工作：Lee Robinson 斯坦福 CS146S 讲座，GrokBot 架构、Harness 与上下文工程全解",
+      "url": "https://x.com/shao__meng/status/2108760694665691284",
+      "permalink": "https://aihot.news/items/vtff6xcg8b82n4qjxn2iohq69",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-10-10T03:25:03.000Z",
+      "discoveredAt": "2026-10-10T03:31:22.669Z",
+      "summary": "Lee Robinson 在斯坦福 CS146S 约 45 分钟的讲座中拆解 GrokBot 类常驻主动式智能体的工程架构，涵盖服务器与 Firecracker 微虚机的休眠唤醒模型、单工具薄客户端设计、Temporal 持久化工作流、auto review 安全机制与提示注入防护。",
+      "category": "tip",
+      "score": 74,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/vtff6xcg8b82n4qjxn2iohq69"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "设计",
+        "工作流",
+        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
