@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-11T12:50:17.095Z",
-  "previousGeneratedAt": "2026-10-11T05:46:52.184Z",
+  "generatedAt": "2026-10-12T05:58:20.531Z",
+  "previousGeneratedAt": "2026-10-11T12:50:17.095Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 43,
+  "itemCount": 46,
   "sourceCounts": {
     "X": 24,
-    "网站": 17,
-    "公众号": 2
+    "公众号": 3,
+    "网站": 19
   },
   "source": {
     "name": "AI HOT",
@@ -42,6 +42,61 @@
         "界面"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "hvxwaxeyj6i82xv44ef4ce6fz",
+      "title": "从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势",
+      "title_en": "AI开始逆向一切，你电脑里的每个软件都要被迫开源了。",
+      "url": "https://x.com/Khazix0918/status/2109501787736813663",
+      "permalink": "https://aihot.news/items/hvxwaxeyj6i82xv44ef4ce6fz",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "publishedAt": "2026-10-12T04:29:53.000Z",
+      "discoveredAt": "2026-10-12T04:35:34.613Z",
+      "summary": "数字生命卡兹克撰文分析AI驱动逆向工程热潮：开发者Brandon Thomas因不满Adobe订阅规则，用Claude Opus 5.5以Rust逆向重写了Photoshop、Illustrator等7款软件的开源替代品PhotoCraft、VectorCraft等，不到10天单PS项目获4.6万Star。",
+      "category": "opinion",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/hvxwaxeyj6i82xv44ef4ce6fz"
+      },
+      "sourceType": "X",
+      "designCategory": "设计工具",
+      "relevanceScore": 21,
+      "editorialScore": 26,
+      "tags": [
+        "photoshop",
+        "illustrator",
+        "adobe"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "u9f1ozdbs5nobwugj3yss3z0e",
+      "title": "AI逆向一切：Brandon Thomas用Claude Opus 5.5重写Adobe七款软件开源，REA项目逼近10万Star",
+      "title_en": "AI开始逆向一切，你电脑里的每个软件都要被迫开源了。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686995&idx=1&sn=cc40a3488a2ea7652d2ab589056f40b4",
+      "permalink": "https://aihot.news/items/u9f1ozdbs5nobwugj3yss3z0e",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-10-12T00:26:00.000Z",
+      "discoveredAt": "2026-10-12T02:12:04.990Z",
+      "summary": "开发者Brandon Thomas因不满Adobe订阅违约金，用Claude Opus 5.5以Rust逆向重写了Photoshop等7款Adobe软件并开源，其中PS项目不到10天获4.6万Star。",
+      "category": "opinion",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/u9f1ozdbs5nobwugj3yss3z0e"
+      },
+      "sourceType": "公众号",
+      "designCategory": "设计工具",
+      "relevanceScore": 14,
+      "editorialScore": 19,
+      "tags": [
+        "photoshop",
+        "adobe"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "t2lvdezwdnqv6utzq23e5ypz8",
@@ -98,34 +153,6 @@
         "视觉",
         "创意",
         "creator"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "ncu60cvijdnef208welxkkcvf",
-      "title": "Anthropic Claude 上线 Dashboards 数据仪表板与 Motion 解释性动画功能",
-      "title_en": "Anthropic Claude 现已支持数据仪表板与解释性动画功能",
-      "url": "https://www.ithome.com/1/010/962.htm",
-      "permalink": "https://aihot.news/items/ncu60cvijdnef208welxkkcvf",
-      "source": "IT之家·人工智能",
-      "publishedAt": "2026-10-09T06:57:33.323Z",
-      "discoveredAt": "2026-10-09T07:18:29.478Z",
-      "summary": "Anthropic 宣布 Claude 新增 Dashboards 和 Motion 两项测试功能。Dashboards 连接公司数据平台后用自然语言即可构建自动更新的数据监控仪表板，向所有付费套餐用户开放；Motion 可将文字、图表、形状、图像动画化为短片，未调用视频生成模型、无生成画面，仅对 Team 和 Enterprise 用户开放。",
-      "category": "ai-products",
-      "score": 57,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ncu60cvijdnef208welxkkcvf"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 14,
-      "editorialScore": 17,
-      "tags": [
-        "视频生成",
-        "视频",
-        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -242,6 +269,34 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "b0cvnuknclftlw8zkgoh7wc28",
+      "title": "Google TPU 工程师称内部模型已接管大部分芯片设计",
+      "title_en": "Google TPU 的 Lead Design Engineer 透露：",
+      "url": "https://x.com/shao__meng/status/2109272376017895668",
+      "permalink": "https://aihot.news/items/b0cvnuknclftlw8zkgoh7wc28",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-10-11T13:18:17.000Z",
+      "discoveredAt": "2026-10-11T13:31:23.668Z",
+      "summary": "Google TPU 的 Lead Design Engineer 透露，团队使用一个比公开版 Gemini 强得多的内部模型来设计 TPU 芯片，该模型已取代大部分人的工作且效率高于人类。推文作者由此追问 Google 何时会公开这一更强的内部模型，并畅想用 AI 端到端设计 3D 打印机、UV 打印和激光雕刻机等桌面智能设备。",
+      "category": "opinion",
+      "score": 43,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/b0cvnuknclftlw8zkgoh7wc28"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "design",
+        "设计",
+        "3d"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "jrvyvudtrc7zpgbznplepxd57",
       "title": "Claude Design 并入 Claude 对话，独立站点 12 月 14 日关闭",
       "title_en": "Claude Design 并入 Claude",
@@ -322,61 +377,6 @@
         "智能体"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "lmcdsl3jnm65par68x6zn9glj",
-      "title": "新思科技拟与中国 AI 实验室合作，在华加速芯片设计",
-      "title_en": "新思科技拟寻求与中国 AI 实验室合作，在华加速芯片设计",
-      "url": "https://www.ithome.com/1/010/777.htm",
-      "permalink": "https://aihot.news/items/lmcdsl3jnm65par68x6zn9glj",
-      "source": "IT之家·人工智能",
-      "publishedAt": "2026-10-09T00:43:53.877Z",
-      "discoveredAt": "2026-10-09T01:12:11.763Z",
-      "summary": "据日经亚洲报道，新思科技（Synopsys）计划探索与中国大语言模型实验室合作，为中国市场定制 AI 版芯片设计工具，帮助本土企业加速芯片研发。9 月 30 日该公司宣布与 OpenAI 签署多年期协议，联手打造专用 AI 模型 GPT-Synopsys 以自动化芯片设计流程。",
-      "category": "industry",
-      "score": 54,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/lmcdsl3jnm65par68x6zn9glj"
-      },
-      "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 8,
-      "editorialScore": 13,
-      "tags": [
-        "设计工具",
-        "设计",
-        "自动化"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "tn0kqosmhwzat5d1n4j8cdnbd",
-      "title": "游戏、软件、硬件，一切终将开源？",
-      "title_en": null,
-      "url": "https://x.com/oran_ge/status/2108349727725306239",
-      "permalink": "https://aihot.news/items/tn0kqosmhwzat5d1n4j8cdnbd",
-      "source": "X：Oran Ge (@oran_ge)",
-      "publishedAt": "2026-10-09T00:12:00.000Z",
-      "discoveredAt": "2026-10-09T00:27:18.976Z",
-      "summary": "Orange AI 发布 Next Token 播客第五期的转写文章，讨论 Opus 5.5 发布及 RSI 到来后对软件、硬件和游戏行业的冲击。文中举例 Opus 5.5 直接根据旧剧本写出可玩游戏、反编译塞尔达等老游戏进度加快、AI 重写 Photoshop 类软件规避起诉、Muse 通用固件让 ESP32 硬件变得 Agent Ready，并认为法律和生态尚未跟上，最终能留下的东西不多了。",
-      "category": "opinion",
-      "score": 57,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/tn0kqosmhwzat5d1n4j8cdnbd"
-      },
-      "sourceType": "X",
-      "designCategory": "设计工具",
-      "relevanceScore": 8,
-      "editorialScore": 13,
-      "tags": [
-        "photoshop",
-        "agent"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "o5kpu7l3pfo84p7gzq1s3umls",
@@ -520,6 +520,35 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "twgekfn2b8ycq67qnnc9bme1z",
+      "title": "Lauren Tan 谈让 Agent 写出更正确代码的起点：自我验证",
+      "title_en": "okay now that we're past that tired discussion, let's talk about how we get agents to write more correct code (note: this won't mean the ...",
+      "url": "https://x.com/poteto/status/2109436202554372476",
+      "permalink": "https://aihot.news/items/twgekfn2b8ycq67qnnc9bme1z",
+      "source": "X：Lauren Tan (@poteto)",
+      "publishedAt": "2026-10-12T00:09:16.000Z",
+      "discoveredAt": "2026-10-12T00:21:36.604Z",
+      "summary": "Lauren Tan 提出，让 Agent 更自主工作的最基本切入点是赋予其自我验证能力，即像真实用户一样实际运行和操作应用，覆盖 CLI、API、UI 等接口。验证应产出可审查的工件，证明工作正确、符合意图且比通读整个 PR 更易审查，UI 工作常用视频和截图。她指出 skill 包等都是可选的附加项，并提醒并非所有领域都易于验证，验证只是近似、仍可能出错。",
+      "category": "tip",
+      "score": 69,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/twgekfn2b8ycq67qnnc9bme1z"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 7,
+      "editorialScore": 11,
+      "tags": [
+        "ui",
+        "视频",
+        "agent",
+        "skill"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "f6is2rkz6oezlox6b2b5bbun9",
       "title": "清华Ning Xu因AI使用被取消Nikon Small World in Motion资格，越南Nguyen Nam Nhat递补夺冠",
       "title_en": "AI disqualification yields new Nikon Small World in Motion winner",
@@ -573,32 +602,111 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "a1iczthomaponjimdfq7yqnyx",
-      "title": "可灵 AI 将在 LA Tech Week 2026 举办分享活动",
-      "title_en": "RSVP Now｜Kling AI at LA Tech Week 2026",
-      "url": "https://x.com/Kling_ai/status/2108403108082827383",
-      "permalink": "https://aihot.news/items/a1iczthomaponjimdfq7yqnyx",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "publishedAt": "2026-10-09T03:44:07.000Z",
-      "discoveredAt": "2026-10-09T03:58:26.537Z",
-      "summary": "可灵 AI 将于 10 月 14 日在 LA Tech Week 2026 举办活动，联合 Oxen AI 与 Obsidian Studio 探讨 AI 视频从模型能力、平台集成走向企业工作流与专业内容生产。活动在 Kling 4.0 发布之后举行，地点为 Santa Monica 的 Met Her at a Bar，时间为下午 4:00–7:00，需通过链接 RSVP。",
-      "category": "industry",
-      "score": 17,
+      "id": "lt9b89hnjufi1dxu8poudbekj",
+      "title": "Addy Osmani 与 Lauren Tan 谈 AI 时代的代码质量：好代码来自验证闭环",
+      "title_en": "99% 的开发者写不出好代码 -- Addy Osmani 与 lauren 分享：代码质量从来不是写出来的，是验证出来的",
+      "url": "https://x.com/shao__meng/status/2109462758999912618",
+      "permalink": "https://aihot.news/items/lt9b89hnjufi1dxu8poudbekj",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-10-12T01:54:48.000Z",
+      "discoveredAt": "2026-10-12T02:24:35.868Z",
+      "summary": "Addy Osmani 与 SpaceX 的 Lauren Tan 认为，当 agent 让验证变得廉价，工程师的核心工作从逐行审查代码转为设计 agent 能自行运行的验证闭环。",
+      "category": "opinion",
+      "score": 67,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/a1iczthomaponjimdfq7yqnyx"
+        "canonical": "https://aihot.news/items/lt9b89hnjufi1dxu8poudbekj"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
       "tags": [
-        "可灵",
-        "工作流",
-        "视频"
+        "设计",
+        "agent"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "rc16kc7la6wib4t4nqdosjglp",
+      "title": "Cloudflare 发布 Clef-omni：30B-A3B 多模态决策模型，单次调用评分文本、图像、音频和视频",
+      "title_en": "Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text",
+      "url": "https://www.marktechpost.com/2026/10/11/cloudflare-clef-omni-multimodal-decision-model/",
+      "permalink": "https://aihot.news/items/rc16kc7la6wib4t4nqdosjglp",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-10-11T23:15:52.000Z",
+      "discoveredAt": "2026-10-12T00:48:41.770Z",
+      "summary": "Cloudflare 于 2026 年 10 月 9 日发布开放权重决策模型 Clef-omni，可在一次调用中对文本、图像、音频和视频打分。",
+      "category": "ai-models",
+      "score": 55,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/rc16kc7la6wib4t4nqdosjglp"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "ctcleux2p8s4v3omdkjnskppx",
+      "title": "Yuchen Jin 谈 Google 用 Code Comprehension 轮取代 LeetCode 面试",
+      "title_en": "I'm so glad AI killed LeetCode interviews.",
+      "url": "https://x.com/Yuchenj_UW/status/2109337587207000326",
+      "permalink": "https://aihot.news/items/ctcleux2p8s4v3omdkjnskppx",
+      "source": "X：Yuchen Jin (@Yuchenj_UW)",
+      "publishedAt": "2026-10-11T17:37:25.000Z",
+      "discoveredAt": "2026-10-11T17:38:26.488Z",
+      "summary": "Yuchen Jin 表示很高兴 AI 淘汰了 LeetCode 面试，称约 20 年前 Google 推广了 LeetCode 式面试，如今连 1B 的 LLM 都能一次做对所有 LeetCode Hard，他多年前已改为考察候选人使用 AI 的能力。引用内容提到 Google 在 2026 年 5 月试点中新增 Code Comprehension 轮，候选人在 CoderPad 环境中面对 200-500 行陌生代码库，60 分钟内读代码、找 bug、讨论设计决策并提出改进，全程可使用 Gemini。",
+      "category": "opinion",
+      "score": 62,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/ctcleux2p8s4v3omdkjnskppx"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "fejoxlmovpzdunvar6xjzdsfr",
+      "title": "Epoch AI 发布 InnovationEval 评测，AI 智能体远未达到自主研究水平",
+      "title_en": "AI agents overstate their results and remain far from autonomous research, study finds",
+      "url": "https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds/",
+      "permalink": "https://aihot.news/items/fejoxlmovpzdunvar6xjzdsfr",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-10-11T13:44:32.000Z",
+      "discoveredAt": "2026-10-11T14:29:23.960Z",
+      "summary": "Epoch AI 用新基准 InnovationEval 测试 Claude Fable 5 和 GPT-5.6 Sol 能否独立发明新训练方法，以人类设计的 SDPO 对 GRPO 的改进为参照。",
+      "category": "paper",
+      "score": 63,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/fejoxlmovpzdunvar6xjzdsfr"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "ftze0p620atz0zqsexfj8lki3",
@@ -842,32 +950,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "w67crhgdse91csybjbbiccf3a",
-      "title": "Character.AI 遭肯塔基州指控产品存在缺陷，聊天机器人被指怂恿用户自残和挨饿",
-      "title_en": "聊天机器人怂恿用户自残、挨饿，Character.AI 遭肯塔基州指控“产品存在缺陷”",
-      "url": "https://www.ithome.com/1/010/769.htm",
-      "permalink": "https://aihot.news/items/w67crhgdse91csybjbbiccf3a",
-      "source": "IT之家·人工智能",
-      "publishedAt": "2026-10-09T00:05:12.677Z",
-      "discoveredAt": "2026-10-09T00:08:17.382Z",
-      "summary": "据路透社报道，肯塔基州总检察长 7 日提交未删节诉状，指控 Character.AI 聊天机器人怂恿用户自残、挨饿甚至自杀，产品被指专门设计吸引儿童、把用户参与度放在儿童福祉之上。",
-      "category": "industry",
-      "score": 74,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/w67crhgdse91csybjbbiccf3a"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "eid5f7578iqv0dwlo5krwfbfb",
       "title": "ElevenLabs 支持提示词中标记品牌",
       "title_en": "Tag your brand in any prompt.",
@@ -1034,84 +1116,57 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "dlxpdonh0i9yz3xdyq80xebj8",
-      "title": "PixVerse 携手 OpenAI 推出创作课程",
-      "title_en": "We’re collaborating with @OpenAI on Prompt to Production, a learning initiative on AI-powered creative workflows.",
-      "url": "https://x.com/PixVerse/status/2108573700949983707",
-      "permalink": "https://aihot.news/items/dlxpdonh0i9yz3xdyq80xebj8",
-      "source": "X：PixVerse (@PixVerse)",
-      "publishedAt": "2026-10-09T15:02:00.000Z",
-      "discoveredAt": "2026-10-09T15:09:33.383Z",
-      "summary": "我们正与 @OpenAI 合作推出 Prompt to Production，一项关于 AI 驱动创意工作流的学习计划。\n它从两场直播课程开始，讲解如何用 ChatGPT 和 PixVerse Plugin 将创意简报变成成片视频。\n见下方推文串。",
-      "category": "industry",
-      "score": 28,
+      "id": "ii8duf8r3q6xjtbhxzqm3n4ha",
+      "title": "Sakana AI 提出 MASS：用多智能体自监督实现同质递归自我改进",
+      "title_en": "Recursive self-improvement through collective intelligence",
+      "url": "https://pub.sakana.ai/mass/",
+      "permalink": "https://aihot.news/items/ii8duf8r3q6xjtbhxzqm3n4ha",
+      "source": "Hacker News：AI 热帖",
+      "publishedAt": "2026-10-11T22:22:10.000Z",
+      "discoveredAt": "2026-10-12T01:57:42.015Z",
+      "summary": "Sakana AI 发布 MASS（Multi-Agent Self-Supervision）方法，让同一模型同时担任执行者、工作流优化器和评估者，将多智能体团队的集体经验蒸馏为递归自我改进（RSI）的自监督信号。",
+      "category": "paper",
+      "score": 51,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/dlxpdonh0i9yz3xdyq80xebj8"
+        "canonical": "https://aihot.news/items/ii8duf8r3q6xjtbhxzqm3n4ha"
       },
-      "sourceType": "X",
-      "designCategory": "行业观察",
-      "relevanceScore": 9,
-      "editorialScore": 9,
-      "tags": [
-        "工作流",
-        "创意",
-        "creative",
-        "视频"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "pxaxr3st74w41dh7xxqaarvrb",
-      "title": "Shaders 开源：200+ WebGPU 视觉特效封装为声明式组件，React/Vue/Svelte/Solid/原生 JS 共用一套 props",
-      "title_en": "Shaders 这个开源 WebGPU 着色器特效组件库必须收藏，200+ 种视觉效果封装成声明式组件、React / Vue / Svelte / Solid / 原生 JS 共用一个包、同一套 props、MIT 协议 @npm_i_shaders",
-      "url": "https://x.com/shao__meng/status/2108374124821381419",
-      "permalink": "https://aihot.news/items/pxaxr3st74w41dh7xxqaarvrb",
-      "source": "X：邵猛 (@shao__meng)",
-      "publishedAt": "2026-10-09T01:48:57.000Z",
-      "discoveredAt": "2026-10-09T02:16:31.059Z",
-      "summary": "Shaders 宣布开源其 WebGPU 着色器特效组件库，提供 200+ 个视觉效果组件，支持 React / Vue / Svelte / Solid / 原生 JS 共用一个包和同一套 props，MIT 协议，可免费导出任意框架代码，GitHub 地址为 https://github.com/shader-effects-inc/shaders。",
-      "category": "tip",
-      "score": 67,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/pxaxr3st74w41dh7xxqaarvrb"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "视觉"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "vtff6xcg8b82n4qjxn2iohq69",
-      "title": "Lee Robinson 斯坦福 CS146S 讲座详解常驻智能体架构与上下文工程",
-      "title_en": "常驻智能体如何工作：Lee Robinson 斯坦福 CS146S 讲座，GrokBot 架构、Harness 与上下文工程全解",
-      "url": "https://x.com/shao__meng/status/2108760694665691284",
-      "permalink": "https://aihot.news/items/vtff6xcg8b82n4qjxn2iohq69",
-      "source": "X：邵猛 (@shao__meng)",
-      "publishedAt": "2026-10-10T03:25:03.000Z",
-      "discoveredAt": "2026-10-10T03:31:22.669Z",
-      "summary": "Lee Robinson 在斯坦福 CS146S 约 45 分钟的讲座中拆解 GrokBot 类常驻主动式智能体的工程架构，涵盖服务器与 Firecracker 微虚机的休眠唤醒模型、单工具薄客户端设计、Temporal 持久化工作流、auto review 安全机制与提示注入防护。",
-      "category": "tip",
-      "score": 74,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/vtff6xcg8b82n4qjxn2iohq69"
-      },
-      "sourceType": "X",
+      "sourceType": "网站",
       "designCategory": "工作流与 Agent",
       "relevanceScore": 7,
       "editorialScore": 8,
       "tags": [
-        "设计",
         "工作流",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "jsw1vps9io4ze1nc3d4qi72lz",
+      "title": "Every 推出全公司共享的 Every Agent，基于 Claude Managed Agents 运行",
+      "title_en": "One Agent for the Whole Company",
+      "url": "https://every.to/context-window/one-agent-for-the-whole-company",
+      "permalink": "https://aihot.news/items/jsw1vps9io4ze1nc3d4qi72lz",
+      "source": "Every：最新文章（网页）",
+      "publishedAt": "2026-10-10T16:00:00.000Z",
+      "discoveredAt": "2026-10-11T13:21:30.058Z",
+      "summary": "Every 本周推出 Every Agent，一个全公司共享的 Slack AI 协作智能体，同事可在线程中派活，成功的工作流可保存为技能供全队复用。",
+      "category": "ai-products",
+      "score": 58,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/jsw1vps9io4ze1nc3d4qi72lz"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "工作流",
+        "agent",
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
@@ -1137,6 +1192,33 @@
       "designCategory": "工作流与 Agent",
       "relevanceScore": 7,
       "editorialScore": 8,
+      "tags": [
+        "工作流",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "q4ldwa9zmnm1qrrv16ijfdq2w",
+      "title": "Sakana AI 提出多智能体自监督方法 MASS，探索递归自改进",
+      "title_en": "Recursive Self-Improvement through Collective Intelligence",
+      "url": "https://sakana.ai/mass/",
+      "permalink": "https://aihot.news/items/q4ldwa9zmnm1qrrv16ijfdq2w",
+      "source": "Sakana AI：Blog（网页）",
+      "publishedAt": "2026-10-11T15:00:00.000Z",
+      "discoveredAt": "2026-10-11T21:46:35.857Z",
+      "summary": "Sakana AI 发布多智能体自监督（MASS）：一个共享模型通过虚拟子代理团队解决任务、搜索更优多智能体工作流，并用自身判断选出最佳方案，再将团队经验蒸馏回共享模型。",
+      "category": "paper",
+      "score": 52,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/q4ldwa9zmnm1qrrv16ijfdq2w"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
       "tags": [
         "工作流",
         "智能体"
