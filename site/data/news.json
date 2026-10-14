@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-13T19:17:18.871Z",
-  "previousGeneratedAt": "2026-10-13T06:47:15.791Z",
+  "generatedAt": "2026-10-14T04:53:55.048Z",
+  "previousGeneratedAt": "2026-10-13T19:17:18.871Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 42,
+  "itemCount": 45,
   "sourceCounts": {
     "X": 24,
-    "网站": 15,
+    "网站": 18,
     "公众号": 3
   },
   "source": {
@@ -90,6 +90,33 @@
       "designCategory": "图像与视频",
       "relevanceScore": 12,
       "editorialScore": 15,
+      "tags": [
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "fror9bt8ls8goyw4sj855cs0l",
+      "title": "OpenAI GPT-6 Astra 接入 Higgsfield，AI 视频生成时长从 1 分钟提升到 10 分钟",
+      "title_en": "AI 长视频时代来临：OpenAI GPT-6 Astra 助力生成时长从 1 分钟提升到 10 分钟",
+      "url": "https://www.ithome.com/1/012/639.htm",
+      "permalink": "https://aihot.news/items/fror9bt8ls8goyw4sj855cs0l",
+      "source": "IT之家·人工智能",
+      "publishedAt": "2026-10-13T23:44:48.347Z",
+      "discoveredAt": "2026-10-13T23:57:28.382Z",
+      "summary": "OpenAI 与 AI 视频生成平台 Higgsfield 达成合作，接入 GPT-6 Astra 后，Higgsfield 支持生成的 AI 视频时长上限从 1 分钟提升到 10 分钟。",
+      "category": "industry",
+      "score": 38,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/fror9bt8ls8goyw4sj855cs0l"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
       "tags": [
         "视频生成",
         "视频"
@@ -270,7 +297,7 @@
       "title_en": "i love writing. i never let agents write for me. whether it's docs, or tweets, or shitposts, or even prompts (okay maybe that one's harde...",
       "url": "https://x.com/poteto/status/2109885001584292091",
       "permalink": "https://aihot.news/items/xswk8v7lavp4lc638zn1ck4qp",
-      "source": "X：Lauren Tan (@poteto)",
+      "source": "X：Lauren Tan（SpaceXSI，Grok Bot 工程负责人） (@poteto)",
       "publishedAt": "2026-10-13T05:52:38.000Z",
       "discoveredAt": "2026-10-13T06:12:29.390Z",
       "summary": "工程师 Lauren Tan 表示自己从不让 AI 智能体代写文档、推文甚至提示词，因为她坚信写作就是思考，是绝不愿放弃的技能。她认为清晰表达意图、掌握领域词汇能让人更有效地使用智能体，就像工程师写代码提示词更有优势一样。随着模型能力增强，文字正成为人与\"精灵\"之间的交互界面。",
@@ -348,55 +375,83 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "ci1as9y93xwl1lc0b7txm851o",
-      "title": "Google 推出 Fitbit Edge 健康手环",
-      "title_en": "Introducing Fitbit Edge, our next-generation health and fitness tracker. Featuring sleek design, a brilliant display, glanceable fitness ...",
-      "url": "https://x.com/Google/status/2109734787397325099",
-      "permalink": "https://aihot.news/items/ci1as9y93xwl1lc0b7txm851o",
-      "source": "X：Google (@Google)",
-      "publishedAt": "2026-10-12T19:55:44.000Z",
-      "discoveredAt": "2026-10-12T20:23:24.041Z",
-      "summary": "推出 Fitbit Edge，我们的下一代健康与健身追踪器。采用时尚设计、出色显示屏、一目了然的健身指导以及先进的健康追踪，助力你的健康目标。它专为活跃生活方式和日常佩戴而设计。",
-      "category": "ai-products",
-      "score": 19,
+      "id": "unicyu20gmhtk74744s311t04",
+      "title": "面壁智能转发 MiniCPM-V 4.7 1B 手机端实测教程",
+      "title_en": "Thank you @fahdmirza for the informative tutorial and in-depth review. We really appreciate the time and effort you put into testing and ...",
+      "url": "https://x.com/OpenBMB/status/2110209769659318708",
+      "permalink": "https://aihot.news/items/unicyu20gmhtk74744s311t04",
+      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "publishedAt": "2026-10-14T03:23:09.000Z",
+      "discoveredAt": "2026-10-14T03:35:44.521Z",
+      "summary": "OpenBMB 转发 @fahdmirza 对 MiniCPM-V 4.7 1B 的动手实测视频。该 10 亿参数视觉模型可在手机上运行，实测者用 llama.cpp 和 Ollama 安装 GGUF，完成了照片读模拟时钟、时钟图生成可用 HTML、解二次方程、数十种语言手写翻译及肢体语言场景识别等任务，视频同时呈现了成功与失败结果。",
+      "category": "opinion",
+      "score": 51,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ci1as9y93xwl1lc0b7txm851o"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 8,
-      "editorialScore": 12,
-      "tags": [
-        "design",
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "fb20uogcuv9ur647atsymnhef",
-      "title": "The Information 报道 Katzenberg 等人创办的电影人 AI 视频初创公司正洽谈深度使用 OpenAI 已停用的 Sora 模型",
-      "title_en": "The Information just reported a filmmaker-focused startup is negotiating deep access to OpenAI’s shuttered Sora video model.",
-      "url": "https://x.com/rohanpaul_ai/status/2109653202681659808",
-      "permalink": "https://aihot.news/items/fb20uogcuv9ur647atsymnhef",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-10-12T14:31:33.000Z",
-      "discoveredAt": "2026-10-12T14:44:20.437Z",
-      "summary": "The Information 报道，一家面向电影人的初创公司正在洽谈深度使用 OpenAI 已停用的 Sora 视频模型。该公司由 Jeffrey Katzenberg、前 Sora 研究负责人 Bill Peebles 和前 Dropbox CFO Sujay Jaswa 共同创立。正在讨论的条款包括该初创公司可深度定制 Sora 并销售基于其构建的软件，OpenAI 将获得未披露数额的股权。",
-      "category": "industry",
-      "score": 53,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/fb20uogcuv9ur647atsymnhef"
+        "canonical": "https://aihot.news/items/unicyu20gmhtk74744s311t04"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
+      "relevanceScore": 8,
+      "editorialScore": 11,
       "tags": [
-        "sora",
+        "视觉",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "yttmjsu0csjdy9uankxtp5mmk",
+      "title": "Meta 发布 Muse Wonder 和 Muse Wonder Full：基准成绩、定价与使用步骤",
+      "title_en": "Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It",
+      "url": "https://www.marktechpost.com/2026/10/13/meta-muse-wonder-muse-wonder-full-release/",
+      "permalink": "https://aihot.news/items/yttmjsu0csjdy9uankxtp5mmk",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-10-13T22:53:44.000Z",
+      "discoveredAt": "2026-10-14T00:29:30.318Z",
+      "summary": "Meta 发布 Muse Wonder 和 Muse Wonder Full，定位面向长期运行的 agent 任务，支持 1M token 上下文和文本、图像、视频、音频输入。",
+      "category": "ai-models",
+      "score": 75,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/yttmjsu0csjdy9uankxtp5mmk"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视频",
+        "图像",
+        "agent"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "uac52bjmevygb0buurzhh5738",
+      "title": "Google AI Studio 用代码生成视频",
+      "title_en": "📹 Code to video",
+      "url": "https://x.com/Google/status/2110114440993808719",
+      "permalink": "https://aihot.news/items/uac52bjmevygb0buurzhh5738",
+      "source": "X：Google (@Google)",
+      "publishedAt": "2026-10-13T21:04:21.000Z",
+      "discoveredAt": "2026-10-13T21:06:38.509Z",
+      "summary": "📹 代码生成视频\n\n@kickingkeys 在 @GoogleAIStudio 中使用 Argon，完全通过代码创作出丰富、复杂的视觉效果 https://x.com/kickingkeys/status/2110037855452180633/video/1",
+      "category": "ai-products",
+      "score": 32,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/uac52bjmevygb0buurzhh5738"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
@@ -484,84 +539,112 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "ac1mx12f5u24unslt6ej2sum3",
-      "title": "Tripo 用 GPT 打造 F1 新加坡赛道游戏",
-      "title_en": "The F1 Singapore GP was incredible, and we didn't want the race to stop. So we built our own.",
-      "url": "https://x.com/tripoai/status/2109690568527728776",
-      "permalink": "https://aihot.news/items/ac1mx12f5u24unslt6ej2sum3",
-      "source": "Tripo（官方 X）",
-      "publishedAt": "2026-10-12T17:00:02.000Z",
-      "discoveredAt": "2026-10-12T17:17:25.534Z",
-      "summary": "F1 新加坡大奖赛太精彩了，我们不想让比赛停下来。所以我们自己造了一个。\n\n受真实赛道启发，我们把一个简单原型变成了完全可玩的竞速体验。GPT 编写了游戏逻辑，Tripo 生成了精细的 3D 资产。\n\n从真实赛道到虚拟发车格。把现实开进数字世界。",
-      "category": "ai-products",
-      "score": 26,
+      "id": "jj6xfi2tkahfmetlid0noxaxq",
+      "title": "Molmo 2 开源如何帮助 MIT 研究者重新思考鱼类追踪",
+      "title_en": "How Molmo 2’s open release helped an MIT researcher rethink fish tracking",
+      "url": "https://allenai.org/blog/molmo2fish",
+      "permalink": "https://aihot.news/items/jj6xfi2tkahfmetlid0noxaxq",
+      "source": "Ai2 / Allen Institute for AI（RSS）",
+      "publishedAt": "2026-10-13T08:00:00.000Z",
+      "discoveredAt": "2026-10-13T20:09:38.172Z",
+      "summary": "Ai2 开源视觉语言模型 Molmo 2 后，MIT 毕业生 Kai Van Brunt 基于它微调出 Molmo2Fish，用于在声纳视频中追踪鲑鱼并根据自然语言指令修正预测。微调后的 Molmo2Fish 在未接受修正时表现与专用鱼类追踪系统大致相当，且能纠正传统系统的部分错误，但难以改进自身最强预测。该项目仍属研究阶段，尚未部署。",
+      "category": "industry",
+      "score": 32,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ac1mx12f5u24unslt6ej2sum3"
+        "canonical": "https://aihot.news/items/jj6xfi2tkahfmetlid0noxaxq"
       },
-      "sourceType": "X",
-      "designCategory": "设计工具",
-      "relevanceScore": 6,
-      "editorialScore": 11,
-      "tags": [
-        "原型",
-        "3d"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "s0j307n76znqj4xjmiapbjl7h",
-      "title": "Mistral 新模型 Le Chonk 视觉定位",
-      "title_en": "Le Chonk cooked on visual grounding.",
-      "url": "https://x.com/MistralAI/status/2109687906751086628",
-      "permalink": "https://aihot.news/items/s0j307n76znqj4xjmiapbjl7h",
-      "source": "X：Mistral AI (@MistralAI)",
-      "publishedAt": "2026-10-12T16:49:27.000Z",
-      "discoveredAt": "2026-10-12T16:59:23.068Z",
-      "summary": "Le Chonk 在视觉定位上表现炸裂。\n\n能精准指出图像中物体的位置。\n\n在 Dense 200 上达到 42%，甚至领先于前沿闭源模型。",
-      "category": "ai-models",
-      "score": 34,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/s0j307n76znqj4xjmiapbjl7h"
-      },
-      "sourceType": "X",
+      "sourceType": "网站",
       "designCategory": "图像与视频",
       "relevanceScore": 8,
       "editorialScore": 11,
       "tags": [
         "视觉",
-        "图像"
+        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "zfbimy61jin567r0hn0ts75tt",
-      "title": "Google Labs 主管 Josh Woodward 分享内部创新与 PMF 判断的十条心得",
-      "title_en": "I’ve learned from Lenny for years, but we had never met. What you see is what you get with him: he’s kind, prepared, and deeply curious. ...",
-      "url": "https://x.com/joshwoodward/status/2109646793713786970",
-      "permalink": "https://aihot.news/items/zfbimy61jin567r0hn0ts75tt",
-      "source": "X：Josh Woodward (@joshwoodward, Google Labs VP)",
-      "publishedAt": "2026-10-12T14:06:05.000Z",
-      "discoveredAt": "2026-10-12T14:20:18.814Z",
-      "summary": "Google Labs 主管 Josh Woodward 转发 Lenny Rachitsky 对他的访谈要点，共十条心得。要点包括好点子多来自小团队痴迷的洞察而非头脑风暴、最强的早期 PMF 信号是用户看到原型时眼睛发亮、实验室需要结构独立和明确使命、Google Labs 同期并行约 20 到 30 个实验并以季节化节奏平衡冲刺与探索。",
-      "category": "opinion",
-      "score": 59,
+      "id": "r6nn05zme1z711ory2cl7hmo8",
+      "title": "Anthropic 用 5 个月将内部 monorepo 从 Git 迁移到自研版本控制系统 Scion",
+      "title_en": "Anthropic 工程团队用了 5 个月，把内部 monorepo 从 Git 迁移到自研版本控制系统 Scion",
+      "url": "https://x.com/shao__meng/status/2110186080490402193",
+      "permalink": "https://aihot.news/items/r6nn05zme1z711ory2cl7hmo8",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-10-14T01:49:01.000Z",
+      "discoveredAt": "2026-10-14T02:16:29.569Z",
+      "summary": "Anthropic 工程团队用 5 个月把内部 monorepo 从 Git 迁移到自研版本控制系统 Scion，并配套代码审查工具 Antique 等系统。Claude 驱动的编码让合并量从 5 月约 2500 次/天涨到 9 月 30000+ 次/天，主分支历史约 100 GB、CI 每天约 2500 万次 checkout，倒逼重新设计。",
+      "category": "tip",
+      "score": 74,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/zfbimy61jin567r0hn0ts75tt"
+        "canonical": "https://aihot.news/items/r6nn05zme1z711ory2cl7hmo8"
       },
       "sourceType": "X",
-      "designCategory": "设计工具",
+      "designCategory": "产品与体验",
       "relevanceScore": 6,
-      "editorialScore": 11,
+      "editorialScore": 10,
       "tags": [
-        "原型"
+        "设计"
       ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "win8y7x316q6ocbakak43hv4w",
+      "title": "MiniMax 的 FastH3-Omni 上线 Reactor API 预览",
+      "title_en": "FastH3-Omni on Reactor - video with synchronized audio, from a single prompt.",
+      "url": "https://x.com/MiniMax_AI/status/2110104942107406441",
+      "permalink": "https://aihot.news/items/win8y7x316q6ocbakak43hv4w",
+      "source": "X：MiniMax (@MiniMax_AI)",
+      "publishedAt": "2026-10-13T20:26:36.000Z",
+      "discoveredAt": "2026-10-13T20:48:36.927Z",
+      "summary": "MiniMax 宣布 FastH3-Omni 登陆 Reactor，可从单个提示词生成带同步音频的视频，10.20.2026 前在 Reactor API 开放预览。FastVideo 与 nuvalab 对 MiniMax 的实时 H3 做后训练得到该开源版本，支持首尾帧条件控制、音频输入与强对话能力、最多 3 张参考图像。",
+      "category": "ai-products",
+      "score": 52,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/win8y7x316q6ocbakak43hv4w"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "图像",
+        "提示词",
+        "prompt"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "t3abkn4cncxhxbbk92u7q00z7",
+      "title": "Databricks Lakeflow Designer 2026 年 10 月更新汇总",
+      "title_en": "What's New in Lakeflow Designer - October 2026 Roundup",
+      "url": "https://www.databricks.com/blog/whats-new-lakeflow-designer-october-2026-roundup",
+      "permalink": "https://aihot.news/items/t3abkn4cncxhxbbk92u7q00z7",
+      "source": "Databricks：Blog（RSS）",
+      "publishedAt": "2026-10-13T19:00:00.000Z",
+      "discoveredAt": "2026-10-13T19:38:35.913Z",
+      "summary": "Databricks 为 Lakeflow Designer 推出 Prepare、Unique、Guardrails 三个无代码算子，分别用于数据清洗标准化、去重和数据质量检查。",
+      "category": "ai-products",
+      "score": 37,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/t3abkn4cncxhxbbk92u7q00z7"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "designer"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "x7uxm3dxn77nf5b6refv4dn8t",
@@ -725,87 +808,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "w0dxvbclhg7tfhb4nh1cz81ua",
-      "title": "Muse Wonder 与 Muse Code 接入 fal 生成图像视频",
-      "title_en": "Muse Wonder and Muse Code are even more wonderful when connected to fal to generate images and videos. Learn how in our latest YouTube v...",
-      "url": "https://x.com/fal/status/2109746953210761654",
-      "permalink": "https://aihot.news/items/w0dxvbclhg7tfhb4nh1cz81ua",
-      "source": "X：fal (@fal)",
-      "publishedAt": "2026-10-12T20:44:05.000Z",
-      "discoveredAt": "2026-10-12T20:54:22.629Z",
-      "summary": "Muse Wonder 和 Muse Code 接入 fal 后，生成图像和视频的体验更加出色。来我们最新的 YouTube 视频了解具体方法！\n\nhttps://youtu.be/cKzu7phvcs0?si=uFtOGBqRfknrd8e9",
-      "category": "tip",
-      "score": 25,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/w0dxvbclhg7tfhb4nh1cz81ua"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "amjmxvrvj57q7752kgihp9p9q",
-      "title": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
-      "title_en": "Codex CLI 默认会安装一个持久化且能自动更新的后台守护进程",
-      "url": "https://github.com/openai/codex/issues/48195",
-      "permalink": "https://aihot.news/items/amjmxvrvj57q7752kgihp9p9q",
-      "source": "Codex：GitHub Releases（RSS）",
-      "publishedAt": "2026-10-12T19:25:54.721Z",
-      "discoveredAt": "2026-10-12T19:36:22.389Z",
-      "summary": "一位 Linux (WSL2) 用户报告，Codex CLI 0.157.0 起打开交互式会话即默认启动持久后台守护进程 codex app-server --managed-daemon，窗口关闭后仍驻留。",
-      "category": "industry",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/amjmxvrvj57q7752kgihp9p9q"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "交互",
-        "codex"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "p8j7rria76ucygn2pnvss0ky8",
-      "title": "Charlie Holtz 实测 Meta 新模型 Wonder，CLI 一次找出其他 Agent 漏掉的漏洞",
-      "title_en": "Meta is now at the frontier!",
-      "url": "https://x.com/charlieholtz/status/2109693358512001118",
-      "permalink": "https://aihot.news/items/p8j7rria76ucygn2pnvss0ky8",
-      "source": "X：Charlie Holtz（@charlieholtz）",
-      "publishedAt": "2026-10-12T17:11:07.000Z",
-      "discoveredAt": "2026-10-12T17:15:24.812Z",
-      "summary": "Meta 发布新前沿模型 Muse Wonder，主打个人与专业 Agent 能力。作者实测后称 Wonder 一次就发现了其代码库中其他 Agent 遗漏的真实安全漏洞；CLI 内置 /taste、/grill 等技能，设计感强，还有 turn checklist 和语音模式，整体速度感很快。",
-      "category": "opinion",
-      "score": 70,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/p8j7rria76ucygn2pnvss0ky8"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计",
-        "agent"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "nh9z1g0qy5ta8n63saavo484h",
       "title": "Luma AI 完整工作流查看",
       "title_en": "Click here to check the complete workflow - https://tinyurl.com/ycbzxn7y",
@@ -859,58 +861,31 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "rruqd7cz78jq6l889kjp56jlz",
-      "title": "Prime Intellect 收购 Moondream，联合创始人加入主导推理与多模态",
-      "title_en": "Moondream is joining Prime Intellect",
-      "url": "https://www.primeintellect.ai/blog/moondream",
-      "permalink": "https://aihot.news/items/rruqd7cz78jq6l889kjp56jlz",
-      "source": "Prime Intellect（网页）",
-      "publishedAt": "2026-10-12T16:00:00.000Z",
-      "discoveredAt": "2026-10-13T19:11:36.361Z",
-      "summary": "Prime Intellect 宣布收购 Moondream，创始人 Vik Korrapati 和 Jay Allen 加入并负责推理业务及视觉、computer use 等多模态模型工作。",
-      "category": "industry",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/rruqd7cz78jq6l889kjp56jlz"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "视觉"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "d2forcea0e42m8ux4wnlf9g9r",
-      "title": "AMD 发布智能体 AI 计算机架 Helion，纯 CPU 版本可扩展至 32,768 核心",
-      "title_en": null,
-      "url": "https://www.ithome.com/1/012/103.htm",
-      "permalink": "https://aihot.news/items/d2forcea0e42m8ux4wnlf9g9r",
-      "source": "IT之家·人工智能",
-      "publishedAt": "2026-10-12T14:17:31.797Z",
-      "discoveredAt": "2026-10-12T14:29:19.310Z",
-      "summary": "AMD 宣布推出面向代理式人工智能计算负载的 Helion 机架解决方案，基于 OCP 设计规范和 AMD Helios 开放平台理念，合作伙伴可灵活组合 CPU 与 GPU 资源，其中基于第六代 EPYC 处理器的纯 CPU 版本可扩展至 32,768 核心。AMD 计划将 Helion 规范贡献给 OCP，并正与生态伙伴共同开发，预计 2026 年 11 月正式推出。",
+      "id": "qd6bac0bos24f7qtoach7debs",
+      "title": "Gemini 4 Argon 用 24 词提示词造合成器",
+      "title_en": "Gemini 4 Argon: How a 24-word prompt built a custom synthesizer that turns galloping horses, rippling water, and your own hands into music.",
+      "url": "https://x.com/joshwoodward/status/2110179883045560674",
+      "permalink": "https://aihot.news/items/qd6bac0bos24f7qtoach7debs",
+      "source": "X：Josh Woodward (@joshwoodward, Google Labs VP)",
+      "publishedAt": "2026-10-14T01:24:24.000Z",
+      "discoveredAt": "2026-10-14T01:51:29.651Z",
+      "summary": "Gemini 4 Argon：一个 24 词的提示词如何打造出定制合成器，把奔腾的马、荡漾的水波和你自己的双手变成音乐。",
       "category": "ai-products",
-      "score": 31,
+      "score": 33,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/d2forcea0e42m8ux4wnlf9g9r"
+        "canonical": "https://aihot.news/items/qd6bac0bos24f7qtoach7debs"
       },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
       "tags": [
-        "可灵",
-        "设计",
-        "智能体"
+        "提示词",
+        "prompt"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "ogq4vv54d3sbjixt3k0iefiyd",
@@ -971,17 +946,44 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
+      "id": "fen4c2oi4b41m83sft7l5jtoj",
+      "title": "PixVerse 开放提示词与参考素材",
+      "title_en": "Prompt and references are open. Remix it here:",
+      "url": "https://x.com/PixVerse/status/2110045475286192472",
+      "permalink": "https://aihot.news/items/fen4c2oi4b41m83sft7l5jtoj",
+      "source": "X：PixVerse (@PixVerse)",
+      "publishedAt": "2026-10-13T16:30:18.000Z",
+      "discoveredAt": "2026-10-13T16:30:39.545Z",
+      "summary": "提示词和参考素材已开放。在这里 Remix：\nhttps://app.pixverse.ai/video/429588481874840?utm_source=X&utm_id=Social",
+      "category": "ai-products",
+      "score": 22,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/fen4c2oi4b41m83sft7l5jtoj"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "提示词",
+        "prompt"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "rt3yd7kpxxz8nxvks16ncujcq",
-      "title": "n8n 三种方式使用 Gemini 4 Argon：MCP、Assistant 和 Agent",
+      "title": "用 Gemini 4 Argon 构建 n8n 工作流：MCP、Assistant 与 Agent",
       "title_en": "Build n8n workflows with Gemini 4 Argon: MCP, the Assistant, and Agents",
       "url": "https://blog.n8n.io/build-n8n-workflows-with-gemini-4-argon-mcp-the-assistant-and-agents/",
       "permalink": "https://aihot.news/items/rt3yd7kpxxz8nxvks16ncujcq",
       "source": "n8n Blog",
       "publishedAt": "2026-10-13T16:09:03.000Z",
       "discoveredAt": "2026-10-13T17:05:26.807Z",
-      "summary": "n8n 介绍在既有工作流中使用和构建 Gemini 4 Argon 的三种方式。通过内置 MCP 服务器可在 IDE 或聊天工具里让 AI 生成并测试 n8n 工作流。",
+      "summary": "n8n 成为首批集成 Gemini 4 Argon 的公司之一，用户可在现有工作流中使用该模型。n8n 内置 MCP server 支持从任意 MCP 客户端生成工作流，Assistant 可通过 OpenRouter 或 Google 的 OpenAI 兼容端点接入 Gemini，Agent 与独立 Google Gemini 节点在发布时即可选用该模型。",
       "category": "tip",
-      "score": 51,
+      "score": 48,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
@@ -1054,6 +1056,88 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
+      "id": "xxsu1ql15lcnk4veoiqo27y4t",
+      "title": "MiniCPM-V-4.7-35B-A3B 实测智能体工作流",
+      "title_en": "Great to see MiniCPM-V-4.7-35B-A3B being tested in real agent workflows. 👀",
+      "url": "https://x.com/OpenBMB/status/2109850684309057726",
+      "permalink": "https://aihot.news/items/xxsu1ql15lcnk4veoiqo27y4t",
+      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "publishedAt": "2026-10-13T03:36:16.000Z",
+      "discoveredAt": "2026-10-13T03:53:28.941Z",
+      "summary": "很高兴看到 MiniCPM-V-4.7-35B-A3B 在真实智能体工作流中接受测试。👀\n强大的工具调用、长上下文处理以及智能体循环，正是高效模型需要证明自己的地方。",
+      "category": "ai-models",
+      "score": 26,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/xxsu1ql15lcnk4veoiqo27y4t"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "工作流",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "c5duw0p0k4mnay3jspluh6bb8",
+      "title": "Claude Code v2.1.299 发布",
+      "title_en": "v2.1.299",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.299",
+      "permalink": "https://aihot.news/items/c5duw0p0k4mnay3jspluh6bb8",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "publishedAt": "2026-10-14T02:49:42.000Z",
+      "discoveredAt": "2026-10-14T03:42:44.935Z",
+      "summary": "Claude Code 发布 v2.1.299，新增空闲压缩机制：200K+ token 的对话闲置约 54 分钟后会在 1 小时提示词缓存过期前被压缩，避免下一条消息重新处理全部内容。该版本还新增 CLAUDE_CODE_DISABLE_FILE_MENTIONS 环境变量，并修复了网关模型名、云会话、沙箱命令等多项问题。",
+      "category": "ai-products",
+      "score": 45,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/c5duw0p0k4mnay3jspluh6bb8"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "提示词",
+        "claude code"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "ozs5y80l5cpy45igqa71uohns",
+      "title": "豆包手机助手宣布陆续放开第三方应用屏幕自动化操作权限，阿里、腾讯系等 App 明确拒绝",
+      "title_en": null,
+      "url": "https://www.ithome.com/1/012/704.htm",
+      "permalink": "https://aihot.news/items/ozs5y80l5cpy45igqa71uohns",
+      "source": "IT之家·人工智能",
+      "publishedAt": "2026-10-14T02:22:35.287Z",
+      "discoveredAt": "2026-10-14T02:36:44.238Z",
+      "summary": "豆包手机助手宣布其《屏幕自动化操作声明协议》（SAEP）30 天公示期结束，将逐步放开第三方应用的屏幕自动化操作权限。开发者仍可随时声明拒绝，已明确声明拒绝的应用，智能体将不会对其进行操作；阿里、腾讯系等 App 已明确拒绝。",
+      "category": "ai-products",
+      "score": 68,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/ozs5y80l5cpy45igqa71uohns"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "自动化",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "bhqtdjc1n7ohaqr4rw88aoalk",
       "title": "Gemini 4 Argon 开始向付费用户推送，登陆 Gemini 应用和 Antigravity",
       "title_en": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
@@ -1108,57 +1192,58 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "qxjr8l7ci8b20ietnxuldmgkq",
-      "title": "Epic Games 告知员工以全 AI 工作流推进 Disney 游戏项目",
-      "title_en": "Epic Games tells employees to use AI to get Disney game done",
-      "url": "https://www.avclub.com/epic-games-disney-ai-delay",
-      "permalink": "https://aihot.news/items/qxjr8l7ci8b20ietnxuldmgkq",
-      "source": "Hacker News：AI 热帖",
-      "publishedAt": "2026-10-12T19:31:37.000Z",
-      "discoveredAt": "2026-10-12T22:15:22.455Z",
-      "summary": "据 Bloomberg 报道，Epic Games 因低估人手需求推迟了原定 3 月发布的 Disney 游戏，并将其定为“AI first”项目。公司上周宣布“不再手写代码”、游戏将“以全 AI 工作流生成”，员工得知后反应错愕，Epic 发言人确认了采用 AI 加速开发的消息。",
-      "category": "industry",
-      "score": 67,
+      "id": "iu0roru4uosdvsbm3wtbzq6eh",
+      "title": "Ollama 联合 Fly.io Sprites 推出 Ollama Connector，让智能体在沙箱中安全调用云端模型",
+      "title_en": "Run AI agents safely with Ollama and Fly.io",
+      "url": "https://ollama.com/blog/fly-io-sprites",
+      "permalink": "https://aihot.news/items/iu0roru4uosdvsbm3wtbzq6eh",
+      "source": "Ollama：Blog（RSS）",
+      "publishedAt": "2026-10-13T00:00:00.000Z",
+      "discoveredAt": "2026-10-13T21:09:35.516Z",
+      "summary": "Ollama 宣布 Ollama Cloud 可在 Fly.io Sprites 沙箱内使用，支持 Claude Code、Codex、Cursor 和 Gemini CLI 开箱即用。",
+      "category": "ai-products",
+      "score": 56,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/qxjr8l7ci8b20ietnxuldmgkq"
+        "canonical": "https://aihot.news/items/iu0roru4uosdvsbm3wtbzq6eh"
       },
       "sourceType": "网站",
       "designCategory": "工作流与 Agent",
       "relevanceScore": 6,
       "editorialScore": 7,
       "tags": [
-        "工作流"
+        "codex",
+        "claude code",
+        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "dywi6d15rptkubgg10oh3qikn",
-      "title": "Tessl 谈 AI 软件工厂的开放性：既要带得进上下文，也要带得走知识",
-      "title_en": "How Open Is Your Software Factory?",
-      "url": "https://tessl.io/blog/how-open-is-your-software-factory",
-      "permalink": "https://aihot.news/items/dywi6d15rptkubgg10oh3qikn",
-      "source": "Tessl：产品与工程博客",
-      "publishedAt": "2026-10-12T16:00:00.000Z",
-      "discoveredAt": "2026-10-13T13:09:32.083Z",
-      "summary": "Tessl 发文提出评估 AI 软件工厂开放性的关键问题是能否把组织上下文带进来、把生产中积累的知识带走。文章给出透明性、可复现性、互操作性和生态复用四个可验证维度，并建议从一个受限工作流入手，把反复纠正的问题沉淀为技能、架构决策和评测用例，再在其他智能体或 harness 上演练迁移。",
-      "category": "opinion",
-      "score": 52,
-      "selected": false,
+      "id": "pjy8fk8cfl1qvwex08y6kdau8",
+      "title": "Character.ai 破产文件显示 AI 商业模式难以为继",
+      "title_en": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+      "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
+      "permalink": "https://aihot.news/items/pjy8fk8cfl1qvwex08y6kdau8",
+      "source": "404 Media（RSS）",
+      "publishedAt": "2026-10-13T20:06:53.000Z",
+      "discoveredAt": "2026-10-13T20:22:36.250Z",
+      "summary": "Character.ai 进入破产程序，法院文件显示其商业模式难以支撑开支。公司 2024 年每月 AI 算力支出 1380 万美元、2025 年为 1000 万美元，订阅收入峰值仅每月 280 万美元，含广告的全部收入峰值 530 万美元；2026 年 1 至 8 月算力支出 5610 万美元，8 月时每月仍亏损约 800-900 万美元。",
+      "category": "industry",
+      "score": 81,
+      "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/dywi6d15rptkubgg10oh3qikn"
+        "canonical": "https://aihot.news/items/pjy8fk8cfl1qvwex08y6kdau8"
       },
       "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
+      "designCategory": "行业观察",
       "relevanceScore": 6,
-      "editorialScore": 7,
+      "editorialScore": 6,
       "tags": [
-        "工作流",
-        "智能体"
+        "广告"
       ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     }
   ]
 }
