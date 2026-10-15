@@ -1,19 +1,77 @@
 {
-  "generatedAt": "2026-10-14T17:10:18.260Z",
-  "previousGeneratedAt": "2026-10-14T11:52:09.134Z",
+  "generatedAt": "2026-10-15T04:39:00.312Z",
+  "previousGeneratedAt": "2026-10-14T17:10:18.260Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 44,
+  "itemCount": 43,
   "sourceCounts": {
     "X": 24,
-    "网站": 18,
-    "公众号": 2
+    "网站": 16,
+    "公众号": 3
   },
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com"
   },
   "items": [
+    {
+      "id": "z19xob4aq4tui006kmqpwme93",
+      "title": "Claude Code 更新：UI 与交互设计大幅改进",
+      "title_en": "今天Claude推了更新，更新完以后，Claude code的UI和交互设计突然一下变得眉清目秀了起来。",
+      "url": "https://x.com/Khazix0918/status/2110416274912313464",
+      "permalink": "https://aihot.news/items/z19xob4aq4tui006kmqpwme93",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "publishedAt": "2026-10-14T17:03:44.000Z",
+      "discoveredAt": "2026-10-14T17:18:25.262Z",
+      "summary": "Claude 推送更新后，Claude Code 的 UI 和交互设计明显改善，左侧母任务与子任务关系、任务状态分组、概览与进度展示等均经过用心设计，体验良好。推文作者认为 Claude 又回到了 3 月、4 月那种极速迭代的状态。",
+      "category": "ai-products",
+      "score": 35,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/z19xob4aq4tui006kmqpwme93"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 22,
+      "editorialScore": 26,
+      "tags": [
+        "交互设计",
+        "ui",
+        "设计",
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "wu9s6ubijxrmd3zxfyydvrz9f",
+      "title": "为什么 LLM 生成的鹈鹕长这样？",
+      "title_en": "Why do LLM pelicans look like this?",
+      "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
+      "permalink": "https://aihot.news/items/wu9s6ubijxrmd3zxfyydvrz9f",
+      "source": "Hacker News：AI 热帖",
+      "publishedAt": "2026-10-14T00:00:00.000Z",
+      "discoveredAt": "2026-10-14T17:56:14.138Z",
+      "summary": "一项新基准 Design Creativity Bench 用 80 个开放式 UI 设计任务评测 16 个前沿模型，从原创性、创意跨度和合理性三个维度衡量设计创造力。表现最好的 OpenAI GPT-6 Astra 得分 65.5，人类设计师参考分为 92.3，差距明显。该基准的排行榜、方法论与可复现评测框架已公开。",
+      "category": "paper",
+      "score": 44,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/wu9s6ubijxrmd3zxfyydvrz9f"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 20,
+      "editorialScore": 24,
+      "tags": [
+        "设计师",
+        "ui",
+        "design",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
     {
       "id": "tmeiydw7kxapdlu38bywibz5h",
       "title": "Google 模型打造交互式生物图集",
@@ -42,33 +100,6 @@
         "交互"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "i65pfv91ce843s3y9p0nrqq9j",
-      "title": "Grok bot 0.70.2 更新发布",
-      "title_en": "grok @bot 0.70.2 is rolling out!",
-      "url": "https://x.com/ericzakariasson/status/2110057450850435451",
-      "permalink": "https://aihot.news/items/i65pfv91ce843s3y9p0nrqq9j",
-      "source": "X：Eric Zakariasson (@ericzakariasson)",
-      "publishedAt": "2026-10-13T17:17:53.000Z",
-      "discoveredAt": "2026-10-13T17:31:25.395Z",
-      "summary": "grok @bot 0.70.2 正在推送！\n\n- 每个 bot 都能在 @mail.grokbot.com 认领自己的邮箱地址，并为你起草待发送的邮件\n- Figma、Notion 和 Canva 等应用会以实时卡片形式直接显示在聊天中\n- bot 无需连接 X 账号即可搜索 X，并阅读公开帖子和个人资料\n- 描述你想要的内容，你的 bot 会推荐匹配的模板\n- 共享页面可下载为 pdf\n- 任何不可逆操作前都有审批检查\n\n以及更多内容！\n\nhttps://x.ai/changelog/bot",
-      "category": "ai-products",
-      "score": 41,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/i65pfv91ce843s3y9p0nrqq9j"
-      },
-      "sourceType": "X",
-      "designCategory": "设计工具",
-      "relevanceScore": 16,
-      "editorialScore": 21,
-      "tags": [
-        "figma",
-        "canva"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "swcaj0bzwujs2yrfa8musn9ud",
@@ -127,6 +158,34 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "tss6ved75ph6u4368eaehhrus",
+      "title": "Kombai 发布 Design Creativity Bench：GPT-6 Astra 排第一，模型 UI 设计创造力仍低于人类",
+      "title_en": "模型创造力排行 GPT-6 Astra 排第一、Claude Opus 5.5 第八 ？而且最强模型还是远低于人类 ？",
+      "url": "https://x.com/shao__meng/status/2110542220709540193",
+      "permalink": "https://aihot.news/items/tss6ved75ph6u4368eaehhrus",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-10-15T01:24:12.000Z",
+      "discoveredAt": "2026-10-15T01:25:19.763Z",
+      "summary": "Kombai 发布 Design Creativity Bench，用 80 个开放式 UI 任务评估模型设计创造力，最佳模型 GPT-6 Astra 得 65.5，人类参考为 92.3。",
+      "category": "paper",
+      "score": 53,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/tss6ved75ph6u4368eaehhrus"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 14,
+      "editorialScore": 18,
+      "tags": [
+        "ui",
+        "design",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "og9av789nymr9sl91p0ya5sgh",
       "title": "比亚迪×火山引擎：豆包大模型原子能力注入“迪迪虾”",
       "title_en": "比亚迪×火山引擎：AI原子能力注入“迪迪虾”，聊得来、搞得定、玩得转",
@@ -154,6 +213,90 @@
         "智能体"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "chvlt2cejokk905mxbkn212ha",
+      "title": "编码智能体的技能在于细节",
+      "title_en": "@fnthawar and I talked about how the skill of coding agents is \"being in the details\"",
+      "url": "https://x.com/trq212/status/2110488896039690255",
+      "permalink": "https://aihot.news/items/chvlt2cejokk905mxbkn212ha",
+      "source": "X：Thariq (@trq212)",
+      "publishedAt": "2026-10-14T21:52:18.000Z",
+      "discoveredAt": "2026-10-14T22:20:19.187Z",
+      "summary": "@fnthawar 和我聊了聊，编码智能体的技能在于“身处细节之中”\n\n就像经营一家公司，你不可能知道所有事，但对正确的细节保持执着的关注，才能成就伟大\n\n它可以是代码、架构、设计、UX——任何需要的东西",
+      "category": "opinion",
+      "score": 25,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/chvlt2cejokk905mxbkn212ha"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 10,
+      "editorialScore": 14,
+      "tags": [
+        "ux",
+        "设计",
+        "智能体",
+        "skill"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "zg7l9r3vgjkdy9debzdwckr0v",
+      "title": "White Circle 开源 RISE 图像模型红队测试算法",
+      "title_en": "Good safety work increasingly means good search.",
+      "url": "https://x.com/rohanpaul_ai/status/2110486648685494322",
+      "permalink": "https://aihot.news/items/zg7l9r3vgjkdy9debzdwckr0v",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-10-14T21:43:22.000Z",
+      "discoveredAt": "2026-10-14T21:49:21.586Z",
+      "summary": "White Circle 开源了 RISE，一个自动化红队测试算法，用于检测 AI 图像生成器能否被诱导生成其规则禁止的图片。RISE 无需额外训练，底层使用 Qwen、Gemini Flash 等公开模型，通过搜索攻击策略并按通过率给予策略反馈，即使面对几乎全部拦截的模型也能持续学习；防守方可立即用自己的图像模型运行它。",
+      "category": "paper",
+      "score": 55,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/zg7l9r3vgjkdy9debzdwckr0v"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "图像生成",
+        "图像",
+        "自动化"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "hmiju7976mk35dgvs0cusxkpn",
+      "title": "OpenAI 的 dot 帮用户发现漏买火车票",
+      "title_en": "Booked some train tickets but the UI was confusing so I accidentally bought one not two tickets. My dot spotted it and let me know that I...",
+      "url": "https://x.com/dkundel/status/2110432654638333987",
+      "permalink": "https://aihot.news/items/hmiju7976mk35dgvs0cusxkpn",
+      "source": "X：Dominik Kundel（OpenAI 开发者体验，Codex） (@dkundel)",
+      "publishedAt": "2026-10-14T18:08:49.000Z",
+      "discoveredAt": "2026-10-14T18:09:11.736Z",
+      "summary": "订了几张火车票，但界面太让人困惑，我不小心只买了一张而不是两张。我的 dot 发现了这一点，并告诉我少了我妻子的票 🎉 危机解除 😄",
+      "category": null,
+      "score": 24,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/hmiju7976mk35dgvs0cusxkpn"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 10,
+      "editorialScore": 14,
+      "tags": [
+        "ui",
+        "界面"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "wl75k500hu4uxs2t7hwhhlg0i",
@@ -210,6 +353,115 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "jvxnzmqz5m2qjxpfmj0xg02t8",
+      "title": "Gemini 4 Argon 数小时完成酶工程",
+      "title_en": "Argon also compressed the process of enzyme engineering into a matter of hours to design five lab-verified serine esterases. 🧬",
+      "url": "https://x.com/GoogleDeepMind/status/2110421871103730104",
+      "permalink": "https://aihot.news/items/jvxnzmqz5m2qjxpfmj0xg02t8",
+      "source": "X：Google DeepMind (@GoogleDeepMind)",
+      "publishedAt": "2026-10-14T17:25:58.000Z",
+      "discoveredAt": "2026-10-14T17:38:12.746Z",
+      "summary": "Argon 还将酶工程流程压缩到数小时之内，设计出五种经实验室验证的丝氨酸酯酶。🧬\nhttps://x.com/RyanKrue/status/2110046767341547602",
+      "category": "ai-models",
+      "score": 42,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/jvxnzmqz5m2qjxpfmj0xg02t8"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "design",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "ia6nyixsglr07k9mpeq3jzepy",
+      "title": "Argon 加速量子纠错与算法设计",
+      "title_en": "Argon is helping accelerate progress across both quantum error correction and algorithm design. 🧮",
+      "url": "https://x.com/GoogleDeepMind/status/2110421866079003070",
+      "permalink": "https://aihot.news/items/ia6nyixsglr07k9mpeq3jzepy",
+      "source": "X：Google DeepMind (@GoogleDeepMind)",
+      "publishedAt": "2026-10-14T17:25:57.000Z",
+      "discoveredAt": "2026-10-14T17:38:12.758Z",
+      "summary": "Argon 正在帮助加速量子纠错和算法设计两方面的进展。🧮\nhttps://x.com/benjaderberg/status/2110041693659554290",
+      "category": "ai-models",
+      "score": 30,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/ia6nyixsglr07k9mpeq3jzepy"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "design",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "uo3wdpreztl4k9iifjtrwgcie",
+      "title": "Gemini 4 Argon 解锁多项科学突破",
+      "title_en": "Gemini 4 Argon is already unlocking new scientific breakthroughs in quantum computing, nuclear fusion, protein design and beyond. 🧵",
+      "url": "https://x.com/GoogleDeepMind/status/2110421861435879476",
+      "permalink": "https://aihot.news/items/uo3wdpreztl4k9iifjtrwgcie",
+      "source": "X：Google DeepMind (@GoogleDeepMind)",
+      "publishedAt": "2026-10-14T17:25:56.000Z",
+      "discoveredAt": "2026-10-14T17:38:12.784Z",
+      "summary": "Gemini 4 Argon 已在量子计算、核聚变、蛋白质设计等领域解锁新的科学突破。🧵",
+      "category": "opinion",
+      "score": 29,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/uo3wdpreztl4k9iifjtrwgcie"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "design",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "uymmefe20lolpzm154ozpds9i",
+      "title": "研究人员用 AI 设计可定点切割特定蛋白质的蛋白酶",
+      "title_en": "Researchers use AI to design proteins that cut up other proteins",
+      "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+      "permalink": "https://aihot.news/items/uymmefe20lolpzm154ozpds9i",
+      "source": "Ars Technica：AI（RSS）",
+      "publishedAt": "2026-10-14T17:10:15.000Z",
+      "discoveredAt": "2026-10-14T17:32:11.925Z",
+      "summary": "研究人员利用 AI 蛋白质设计工具，保留两类蛋白酶的催化核心并替换其余整个蛋白，设计出可调谐、能定点切断特定蛋白质的酶。研究人员用这些酶切断了与神经疾病相关的蛋白质，以展示其有效性。",
+      "category": "paper",
+      "score": 56,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/uymmefe20lolpzm154ozpds9i"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "设计工具",
+        "design",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "o0jp3cserf5ghywabbiutyibh",
@@ -350,61 +602,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "kujo3ycb23iv6d2s38vj2fobg",
-      "title": "Artificial Analysis 推出政府版 AI 评测服务",
-      "title_en": "Announcing Artificial Analysis for Government: benchmarking, advisory and data to help public sector clients design AI policy and select ...",
-      "url": "https://x.com/ArtificialAnlys/status/2110062920143093937",
-      "permalink": "https://aihot.news/items/kujo3ycb23iv6d2s38vj2fobg",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "publishedAt": "2026-10-13T17:39:37.000Z",
-      "discoveredAt": "2026-10-13T17:58:31.742Z",
-      "summary": "Artificial Analysis 宣布推出面向公共部门的 Government 服务，提供基准测试、咨询与数据，帮助政府设计 AI 政策并选择 AI 技术。",
-      "category": "industry",
-      "score": 36,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/kujo3ycb23iv6d2s38vj2fobg"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "design",
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "lc9d5blkdv6fer8xrdo7frxcd",
-      "title": "Gemini 4 Argon 从草图设计硬件",
-      "title_en": "Starting from a rough 2D sketch, Gemini 4 Argon in @antigravity can design custom hardware from scratch, calculating the mechanical fit, ...",
-      "url": "https://x.com/GoogleAI/status/2110039863039008840",
-      "permalink": "https://aihot.news/items/lc9d5blkdv6fer8xrdo7frxcd",
-      "source": "X：Google AI (@GoogleAI)",
-      "publishedAt": "2026-10-13T16:08:00.000Z",
-      "discoveredAt": "2026-10-13T16:29:41.166Z",
-      "summary": "从一张粗略的 2D 草图开始，@antigravity 中的 Gemini 4 Argon 可以从零设计定制硬件，计算机械配合、组件间隙和卡扣几何结构，将数天的手动工业 CAD 工作压缩到几分钟。",
-      "category": "ai-products",
-      "score": 35,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/lc9d5blkdv6fer8xrdo7frxcd"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "sketch",
-        "design",
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "y0yh1o9p1j0khhcls91x9n3ac",
       "title": "Apple 请求联邦法官禁止 OpenAI 使用前员工带走的硬件机密",
       "title_en": "Bloomberg: Apple wants a federal judge to bar OpenAI from using hardware secrets it says former employees carried over.",
@@ -428,32 +625,6 @@
       "tags": [
         "原型",
         "设计"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "ssne9dgnn8os4ullx16qyqfa7",
-      "title": "Gemini 4 Argon 开始向 Google AI Pro 和 Ultra 订阅用户全球推送",
-      "title_en": "@Instacart @OpenTable @Adobe @Shopify Gemini 4 Argon is rolling out to Google AI Pro and Ultra subscribers globally starting today.",
-      "url": "https://x.com/GeminiApp/status/2110040189817237836",
-      "permalink": "https://aihot.news/items/ssne9dgnn8os4ullx16qyqfa7",
-      "source": "X：Gemini (@GeminiApp)",
-      "publishedAt": "2026-10-13T16:09:18.000Z",
-      "discoveredAt": "2026-10-13T16:29:41.104Z",
-      "summary": "Gemini 4 Argon 从今天起向 Google AI Pro 和 Ultra 订阅用户全球推送。官方在博客中介绍了 Gemini 4 Argon 及 Gemini 应用后续的更多更新：https://goo.gle/4B9P74A",
-      "category": "ai-products",
-      "score": 73,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ssne9dgnn8os4ullx16qyqfa7"
-      },
-      "sourceType": "X",
-      "designCategory": "设计工具",
-      "relevanceScore": 7,
-      "editorialScore": 12,
-      "tags": [
-        "adobe"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
@@ -567,57 +738,115 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "bcl29kepm9plnnsjlpwdezkjj",
-      "title": "Satlyt 获 800 万美元种子轮，其卫星 AI 软件将随 SpaceX 火箭与 Google Project Suncatcher 同飞",
-      "title_en": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
-      "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-      "permalink": "https://aihot.news/items/bcl29kepm9plnnsjlpwdezkjj",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-10-13T16:30:00.000Z",
-      "discoveredAt": "2026-10-13T17:15:27.521Z",
-      "summary": "前 SpaceX 与 Google 工程师 Rama Afullo 创立的 Satlyt 完成 800 万美元种子轮，其卫星 AI 软件将于周四随 SpaceX 火箭升空，与 Google 空间数据中心项目 Project Suncatcher 的首个原型同飞。",
-      "category": "industry",
-      "score": 43,
+      "id": "kg6bx3goagkn4k8kt7jl9lqgd",
+      "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
+      "title_en": "分享一个最近很惊艳的开源Skill，一句话让AI搓出任何原理的科普视频。",
+      "url": "https://x.com/Khazix0918/status/2110587546271191166",
+      "permalink": "https://aihot.news/items/kg6bx3goagkn4k8kt7jl9lqgd",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "publishedAt": "2026-10-15T04:24:18.000Z",
+      "discoveredAt": "2026-10-15T04:37:27.045Z",
+      "summary": "作者卡兹克分享实测开源Skill Anatomy（GitHub：https://github.com/wheresryan22/anatomy/tree/main），它能把抽象原理做成可交互的机械模型动画，在其基础上还能让AI一轮直出带讲解配音的科普视频。",
+      "category": "tip",
+      "score": 75,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/bcl29kepm9plnnsjlpwdezkjj"
-      },
-      "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 6,
-      "editorialScore": 11,
-      "tags": [
-        "原型"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "bphy9zpu64rwonl7z48yp5578",
-      "title": "Gemini 支持连接 40 多款应用",
-      "title_en": "You can connect more than 40 apps to Gemini, including @Instacart, @OpenTable, @Adobe, and @Shopify to help you tackle tasks like orderin...",
-      "url": "https://x.com/GeminiApp/status/2110040019444654242",
-      "permalink": "https://aihot.news/items/bphy9zpu64rwonl7z48yp5578",
-      "source": "X：Gemini (@GeminiApp)",
-      "publishedAt": "2026-10-13T16:08:37.000Z",
-      "discoveredAt": "2026-10-13T16:29:41.109Z",
-      "summary": "你可以将 40 多款应用连接到 Gemini，包括 @Instacart、@OpenTable、@Adobe 和 @Shopify，帮你处理订购杂货、预订餐位，到设计和搭建业务等各类任务。",
-      "category": "ai-products",
-      "score": 44,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/bphy9zpu64rwonl7z48yp5578"
+        "canonical": "https://aihot.news/items/kg6bx3goagkn4k8kt7jl9lqgd"
       },
       "sourceType": "X",
-      "designCategory": "设计工具",
+      "designCategory": "产品与体验",
       "relevanceScore": 6,
-      "editorialScore": 11,
+      "editorialScore": 10,
       "tags": [
-        "adobe",
-        "设计"
+        "交互",
+        "视频",
+        "skill"
       ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "alrar23ypkk6umkz50eirp35h",
+      "title": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
+      "title_en": "分享一个最近很惊艳的开源Skill，一句话让AI搓出任何原理的科普视频。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687109&idx=1&sn=032fd9f6aab5ee20ea5d14f97bf48a86",
+      "permalink": "https://aihot.news/items/alrar23ypkk6umkz50eirp35h",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-10-15T00:26:00.000Z",
+      "discoveredAt": "2026-10-15T02:13:11.058Z",
+      "summary": "作者数字生命卡兹克分享开源 Skill Anatomy，其理念是\"物体本身，就是解释\"，可将抽象原理做成可交互的机械模型动画，还能在其上生成带讲解配音的科普视频。",
+      "category": "tip",
+      "score": 77,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/alrar23ypkk6umkz50eirp35h"
+      },
+      "sourceType": "公众号",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互",
+        "视频",
+        "skill"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "fbdf2hovlprlbc5bwm2a13hfp",
+      "title": "Gemini 4 Argon 纯 Python 打造 3D 场景",
+      "title_en": "We asked Gemini 4 Argon to make a realistic 3D scene in pure Python with zero external libraries.",
+      "url": "https://x.com/Google/status/2110525636884259180",
+      "permalink": "https://aihot.news/items/fbdf2hovlprlbc5bwm2a13hfp",
+      "source": "X：Google (@Google)",
+      "publishedAt": "2026-10-15T00:18:18.000Z",
+      "discoveredAt": "2026-10-15T00:22:33.154Z",
+      "summary": "我们让 Gemini 4 Argon 用纯 Python、零外部库制作一个逼真的 3D 场景。\n\n它写了 5,000+ 行代码，从零构建了自己的 3D 光线追踪引擎、定制视频工具和音频混音器，来渲染并记录这个阳光洒落的图书馆——并用 Gemini 3.8 TTS 生成旁白、由 Lyria 3.5 配乐，制作并组装了这段视频。",
+      "category": "ai-models",
+      "score": 50,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/fbdf2hovlprlbc5bwm2a13hfp"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "3d"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "zxxwnsxr03hcxmdnx46zghoj9",
+      "title": "Google 用 Argon 与 Lyria 3.5 生成傅里叶自行车动画",
+      "title_en": "Use complex mathematical principles like Fourier epicycles to animate a pelican riding a bicycle.",
+      "url": "https://x.com/Google/status/2110440182390432091",
+      "permalink": "https://aihot.news/items/zxxwnsxr03hcxmdnx46zghoj9",
+      "source": "X：Google (@Google)",
+      "publishedAt": "2026-10-14T18:38:44.000Z",
+      "discoveredAt": "2026-10-14T18:43:25.931Z",
+      "summary": "Google 展示用 Argon 处理物理、运动与视频渲染，并由 Lyria 3.5 生成并同步背景音乐，制作出傅里叶本轮（Fourier epicycles）风格的鹈鹕骑自行车动画。提示词要求慢速揭示的傅里叶本轮视频、3D 子弹时间效果，并参照附图风格、用 Lyria 3.5 添加电影感配乐并同步。该演示由 @fofrAI 通过 @Antigravity CLI 完成。",
+      "category": "ai-products",
+      "score": 35,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/zxxwnsxr03hcxmdnx46zghoj9"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "3d",
+        "提示词"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "ug1bu9nqallfdhnegqpd5iete",
@@ -810,218 +1039,57 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "x7uxm3dxn77nf5b6refv4dn8t",
-      "title": "Gemini 4 Argon 将 NASA 火星数据转成幻灯片",
-      "title_en": "Anyone dealing with massive data dumps knows what a headache it can be.",
-      "url": "https://x.com/sundarpichai/status/2110059844187406428",
-      "permalink": "https://aihot.news/items/x7uxm3dxn77nf5b6refv4dn8t",
-      "source": "X：Sundar Pichai (@sundarpichai)",
-      "publishedAt": "2026-10-13T17:27:24.000Z",
-      "discoveredAt": "2026-10-13T17:31:27.930Z",
-      "summary": "任何处理过海量数据转储的人都知道这有多头疼。\n\n我们给了 Gemini 4 Argon 超过 80,000 份 NASA 火星天气原始日志和 Ingenuity 直升机遥测文件，它将大气飞行力学提炼成一份演示文稿，把庞大而杂乱的科学档案（包括 CSV、图像、pdf、xml 日志、视频的混合内容）在几分钟内变成清晰的 Google Slides 可视化内容。",
-      "category": "ai-products",
-      "score": 39,
+      "id": "vqo4g7bc37tap7kw8wffuzl66",
+      "title": "Narayanan 与 Unger 提出超越自动化的人机协作 AI 研究议程",
+      "title_en": "Steering AI Beyond Automation",
+      "url": "https://www.normaltech.ai/p/steering-ai-beyond-automation",
+      "permalink": "https://aihot.news/items/vqo4g7bc37tap7kw8wffuzl66",
+      "source": "AI as Normal Technology（RSS）",
+      "publishedAt": "2026-10-14T19:56:44.000Z",
+      "discoveredAt": "2026-10-14T20:05:18.025Z",
+      "summary": "Stanford Digital Economy Lab 经济学家 Gabriel Unger 与 Arvind Narayanan 撰文主张 AI 不应只朝全面自动化发展，而应构建人机协作范式。",
+      "category": "opinion",
+      "score": 59,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/x7uxm3dxn77nf5b6refv4dn8t"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "jjcgy5wp0i46a1u5o08g0g1oj",
-      "title": "Argon 纯代码生成 3D 动态字体",
-      "title_en": "Argon generated this 3D kinetic typography entirely in code (including the music) without pre-recorded footage or video editing software.",
-      "url": "https://x.com/sundarpichai/status/2110059842664825132",
-      "permalink": "https://aihot.news/items/jjcgy5wp0i46a1u5o08g0g1oj",
-      "source": "X：Sundar Pichai (@sundarpichai)",
-      "publishedAt": "2026-10-13T17:27:24.000Z",
-      "discoveredAt": "2026-10-13T17:31:27.937Z",
-      "summary": "Argon 完全用代码生成了这段 3D 动态字体（包括音乐），没有使用预先录制的素材或视频剪辑软件。\n\n每一帧都由 Argon 通过数学算法绘制（3D 网格、粒子模拟、矢量几何等）",
-      "category": "ai-products",
-      "score": 32,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/jjcgy5wp0i46a1u5o08g0g1oj"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "视频",
-        "3d"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "i1hki7klt0z7j336mxbyuw3oy",
-      "title": "Liquid AI 发布 LFM2.5-24B-A2B：面向快速端侧智能体的 24B MoE 推理模型",
-      "title_en": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "permalink": "https://aihot.news/items/i1hki7klt0z7j336mxbyuw3oy",
-      "source": "Hugging Face 社区博客（混合发现）",
-      "publishedAt": "2026-10-13T17:05:48.000Z",
-      "discoveredAt": "2026-10-13T17:12:29.375Z",
-      "summary": "Liquid AI 发布开源权重推理模型 LFM2.5-24B-A2B，总参数 24B、每 token 仅 2B 激活，专为在设备上快速、私密地运行智能体设计。",
-      "category": "ai-models",
-      "score": 62,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/i1hki7klt0z7j336mxbyuw3oy"
+        "canonical": "https://aihot.news/items/vqo4g7bc37tap7kw8wffuzl66"
       },
       "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "rdh35l0srwnvmz5655yb0vd42",
-      "title": "Anthropic 工程博客详解自建源码版本控制系统，五个月将 monorepo 从 git 完整迁移",
-      "title_en": "New on our Engineering blog: Creating in-house source control.",
-      "url": "https://x.com/AnthropicAI/status/2110047081414987957",
-      "permalink": "https://aihot.news/items/rdh35l0srwnvmz5655yb0vd42",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "publishedAt": "2026-10-13T16:36:41.000Z",
-      "discoveredAt": "2026-10-13T16:57:28.340Z",
-      "summary": "Anthropic 工程博客发布文章，介绍如何自建新的版本控制系统，并在五个月内将 monorepo 从 git 完整迁移。5 月团队每天合并约 2,500 个代码变更，9 月已超过 30,000 个，为人类开发者设计的基础设施在 agent 规模下成为瓶颈，文章分享了重建源码管理的过程。",
-      "category": "tip",
-      "score": 65,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/rdh35l0srwnvmz5655yb0vd42"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计",
-        "agent"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "nh9z1g0qy5ta8n63saavo484h",
-      "title": "Luma AI 完整工作流查看",
-      "title_en": "Click here to check the complete workflow - https://tinyurl.com/ycbzxn7y",
-      "url": "https://x.com/LumaLabsAI/status/2110001386129674363",
-      "permalink": "https://aihot.news/items/nh9z1g0qy5ta8n63saavo484h",
-      "source": "X：Luma AI (@LumaLabsAI)",
-      "publishedAt": "2026-10-13T13:35:07.000Z",
-      "discoveredAt": "2026-10-13T13:37:31.351Z",
-      "summary": "点击此处查看完整工作流 - https://tinyurl.com/ycbzxn7y",
-      "category": null,
-      "score": 8,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/nh9z1g0qy5ta8n63saavo484h"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "工作流",
-        "workflow"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "ztf1rdef26539yg8dnefklpdn",
-      "title": "面壁智能发布 MiniCPM-V 4.7：35B-A3B MoE 多模态模型 3GB 内存即可在手机上运行",
-      "title_en": "🎬 35B MoE multimodal AI. On your phone. With just 3GB of memory. 🤯",
-      "url": "https://x.com/OpenBMB/status/2109996566702633310",
-      "permalink": "https://aihot.news/items/ztf1rdef26539yg8dnefklpdn",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "publishedAt": "2026-10-13T13:15:57.000Z",
-      "discoveredAt": "2026-10-13T13:41:32.865Z",
-      "summary": "OpenBMB（面壁智能）发布 MiniCPM-V 4.7，35B-A3B MoE 多模态模型在手机上仅需 3GB 内存运行，可识读现实场景标识、按约束规划、解析复杂文档并对视觉数据进行推理。",
-      "category": "ai-models",
-      "score": 64,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ztf1rdef26539yg8dnefklpdn"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "视觉"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "qd6bac0bos24f7qtoach7debs",
-      "title": "Gemini 4 Argon 用 24 词提示词造合成器",
-      "title_en": "Gemini 4 Argon: How a 24-word prompt built a custom synthesizer that turns galloping horses, rippling water, and your own hands into music.",
-      "url": "https://x.com/joshwoodward/status/2110179883045560674",
-      "permalink": "https://aihot.news/items/qd6bac0bos24f7qtoach7debs",
-      "source": "X：Josh Woodward (@joshwoodward, Google Labs VP)",
-      "publishedAt": "2026-10-14T01:24:24.000Z",
-      "discoveredAt": "2026-10-14T01:51:29.651Z",
-      "summary": "Gemini 4 Argon：一个 24 词的提示词如何打造出定制合成器，把奔腾的马、荡漾的水波和你自己的双手变成音乐。",
-      "category": "ai-products",
-      "score": 33,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/qd6bac0bos24f7qtoach7debs"
-      },
-      "sourceType": "X",
       "designCategory": "工作流与 Agent",
       "relevanceScore": 7,
       "editorialScore": 8,
       "tags": [
-        "提示词",
-        "prompt"
+        "自动化",
+        "automation"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "rt3yd7kpxxz8nxvks16ncujcq",
-      "title": "用 Gemini 4 Argon 构建 n8n 工作流：MCP、Assistant 与 Agent",
-      "title_en": "Build n8n workflows with Gemini 4 Argon: MCP, the Assistant, and Agents",
-      "url": "https://blog.n8n.io/build-n8n-workflows-with-gemini-4-argon-mcp-the-assistant-and-agents/",
-      "permalink": "https://aihot.news/items/rt3yd7kpxxz8nxvks16ncujcq",
-      "source": "n8n Blog",
-      "publishedAt": "2026-10-13T16:09:03.000Z",
-      "discoveredAt": "2026-10-13T17:05:26.807Z",
-      "summary": "n8n 成为首批集成 Gemini 4 Argon 的公司之一，用户可在现有工作流中使用该模型。n8n 内置 MCP server 支持从任意 MCP 客户端生成工作流，Assistant 可通过 OpenRouter 或 Google 的 OpenAI 兼容端点接入 Gemini，Agent 与独立 Google Gemini 节点在发布时即可选用该模型。",
-      "category": "tip",
+      "id": "pq136av06a7uzrtbvs2ajutdb",
+      "title": "Mastra 推出 Trace Queries，可筛选并修复编码智能体的慢速或失败运行",
+      "title_en": "Introducing Trace Queries",
+      "url": "https://mastra.ai/blog/introducing-trace-queries",
+      "permalink": "https://aihot.news/items/pq136av06a7uzrtbvs2ajutdb",
+      "source": "Mastra Blog",
+      "publishedAt": "2026-10-14T00:00:00.000Z",
+      "discoveredAt": "2026-10-14T18:27:12.892Z",
+      "summary": "Mastra 推出 Trace Queries，支持按时间、agent/workflow ID、状态、评分和反馈等字段筛选 trace，并可通过 CLI、Mastra Client SDK 和 HTTP 可观测性端点构造查询。",
+      "category": "ai-products",
       "score": 48,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/rt3yd7kpxxz8nxvks16ncujcq"
+        "canonical": "https://aihot.news/items/pq136av06a7uzrtbvs2ajutdb"
       },
       "sourceType": "网站",
       "designCategory": "工作流与 Agent",
       "relevanceScore": 7,
       "editorialScore": 8,
       "tags": [
-        "工作流",
+        "workflow",
         "agent",
-        "mcp"
+        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -1108,60 +1176,6 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "bhqtdjc1n7ohaqr4rw88aoalk",
-      "title": "Gemini 4 Argon 开始向付费用户推送，登陆 Gemini 应用和 Antigravity",
-      "title_en": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
-      "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
-      "permalink": "https://aihot.news/items/bhqtdjc1n7ohaqr4rw88aoalk",
-      "source": "Ars Technica：AI（RSS）",
-      "publishedAt": "2026-10-13T16:00:02.000Z",
-      "discoveredAt": "2026-10-13T16:12:39.725Z",
-      "summary": "Gemini 4 Argon 开始大规模推送，目前仅限付费用户，低档位订阅也无法获得完整访问。Google 表示模型能力未变，仍以上月发布的基准测试作为高级推理和智能体编码能力的依据；模型被训练为拒绝恶意指令，并配备自动化的错位监控器。",
-      "category": "ai-products",
-      "score": 68,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/bhqtdjc1n7ohaqr4rw88aoalk"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "自动化",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "xkyu794k3hp1mibreiesrohhb",
-      "title": "Geoffrey Huntley：用 pre-commit hook 约束编码智能体调用诊断库",
-      "title_en": "Quoting Geoffrey Huntley",
-      "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
-      "permalink": "https://aihot.news/items/xkyu794k3hp1mibreiesrohhb",
-      "source": "Simon Willison 博客",
-      "publishedAt": "2026-10-13T13:32:00.000Z",
-      "discoveredAt": "2026-10-13T14:17:32.561Z",
-      "summary": "Geoffrey Huntley 提出当编码智能体不使用他的诊断库时，与其更新 AGENTS.md（仍会有偏差和漂移），不如写一个 pre-commit hook 检查 git diff 中绕过诊断模块直接调用可观测性模块的代码，失败即拒绝提交并向智能体注入提示词要求其使用诊断库，他称效果从失败提升到十分满分。Simon Willison 在博客中引述了这段话。",
-      "category": "tip",
-      "score": 65,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/xkyu794k3hp1mibreiesrohhb"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "提示词",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
       "id": "ooiqiluy56g21ir2u4phxjqu7",
       "title": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO",
       "title_en": "From building your app to growing it: Lovable now helps you find customers",
@@ -1177,32 +1191,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/ooiqiluy56g21ir2u4phxjqu7"
-      },
-      "sourceType": "网站",
-      "designCategory": "行业观察",
-      "relevanceScore": 6,
-      "editorialScore": 6,
-      "tags": [
-        "广告"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "pjy8fk8cfl1qvwex08y6kdau8",
-      "title": "Character.ai 破产文件显示 AI 商业模式难以为继",
-      "title_en": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-      "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
-      "permalink": "https://aihot.news/items/pjy8fk8cfl1qvwex08y6kdau8",
-      "source": "404 Media（RSS）",
-      "publishedAt": "2026-10-13T20:06:53.000Z",
-      "discoveredAt": "2026-10-13T20:22:36.250Z",
-      "summary": "Character.ai 进入破产程序，法院文件显示其商业模式难以支撑开支。公司 2024 年每月 AI 算力支出 1380 万美元、2025 年为 1000 万美元，订阅收入峰值仅每月 280 万美元，含广告的全部收入峰值 530 万美元；2026 年 1 至 8 月算力支出 5610 万美元，8 月时每月仍亏损约 800-900 万美元。",
-      "category": "industry",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/pjy8fk8cfl1qvwex08y6kdau8"
       },
       "sourceType": "网站",
       "designCategory": "行业观察",
