@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-15T04:39:00.312Z",
-  "previousGeneratedAt": "2026-10-14T17:10:18.260Z",
+  "generatedAt": "2026-10-15T11:29:09.557Z",
+  "previousGeneratedAt": "2026-10-15T04:39:00.312Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 43,
+  "itemCount": 47,
   "sourceCounts": {
     "X": 24,
-    "网站": 16,
-    "公众号": 3
+    "网站": 19,
+    "公众号": 4
   },
   "source": {
     "name": "AI HOT",
@@ -158,6 +158,33 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "msude2fq8mt2rsicw5wqnwx4h",
+      "title": "美国八个州分别在州法院起诉 OpenAI，指控 ChatGPT 对儿童不安全",
+      "title_en": "Reuters: Eight states have sued OpenAI separately in their own courts, alleging ChatGPT is unsafe for children and that the company misle...",
+      "url": "https://x.com/rohanpaul_ai/status/2110659816079413664",
+      "permalink": "https://aihot.news/items/msude2fq8mt2rsicw5wqnwx4h",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-10-15T09:11:28.000Z",
+      "discoveredAt": "2026-10-15T09:39:28.645Z",
+      "summary": "据 Reuters，Iowa、Kansas、Nebraska、West Virginia、Arkansas、Arizona、Idaho 和 Montana 八个州分别向州法院起诉 OpenAI，指控 ChatGPT 对儿童不安全且公司误导家长，涉及消费者保护违规和危害居民健康的公共妨害。诉讼直指产品设计，称 ChatGPT 被设计得讨人喜欢、让人信任，进而强化妄想、鼓励危险行为并协助策划暴力。",
+      "category": "industry",
+      "score": 72,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/msude2fq8mt2rsicw5wqnwx4h"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 14,
+      "editorialScore": 18,
+      "tags": [
+        "产品设计",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "tss6ved75ph6u4368eaehhrus",
       "title": "Kombai 发布 Design Creativity Bench：GPT-6 Astra 排第一，模型 UI 设计创造力仍低于人类",
       "title_en": "模型创造力排行 GPT-6 Astra 排第一、Claude Opus 5.5 第八 ？而且最强模型还是远低于人类 ？",
@@ -181,6 +208,33 @@
       "tags": [
         "ui",
         "design",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "iacq4ikcsc10afgzouwlk4r6n",
+      "title": "三星首席设计官波尔奇尼：AI 时代人的创造力才是产品设计核心竞争力",
+      "title_en": "三星电子首席设计官波尔奇尼：AI 时代，人的创造力才是产品设计核心竞争力",
+      "url": "https://www.ithome.com/1/013/359.htm",
+      "permalink": "https://aihot.news/items/iacq4ikcsc10afgzouwlk4r6n",
+      "source": "IT之家·人工智能",
+      "publishedAt": "2026-10-15T06:00:17.890Z",
+      "discoveredAt": "2026-10-15T06:36:28.838Z",
+      "summary": "三星电子设备体验（DX）事业部总裁兼首席设计官毛罗·波尔奇尼在“2026 首尔设计周”上表示，AI 不是用来取代人的，而是帮助人们发挥情感智能和想象力的工具，人类独有的批判性思维、创造力、感受力和情感才是产品设计的核心。他强调，如果所有企业都只依靠 AI 开发产品，最终产品会大同小异，难以形成差异化。",
+      "category": "opinion",
+      "score": 29,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/iacq4ikcsc10afgzouwlk4r6n"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 13,
+      "editorialScore": 17,
+      "tags": [
+        "产品设计",
         "设计"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
@@ -211,6 +265,89 @@
         "生图",
         "品牌",
         "智能体"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "f9mfexmd1udr4ehzn5t6pawi5",
+      "title": "Payload 集成 Figma Make，支持在 Figma 内构建、托管和管理数据驱动网站",
+      "title_en": "Create, ship, and manage data-backed websites with Payload in Figma",
+      "url": "https://www.figma.com/blog/websites-with-payload-in-figma/",
+      "permalink": "https://aihot.news/items/f9mfexmd1udr4ehzn5t6pawi5",
+      "source": "Figma AI / Agent / Make",
+      "publishedAt": "2026-10-15T04:50:00.000Z",
+      "discoveredAt": "2026-10-15T05:40:29.625Z",
+      "summary": "Figma 宣布开源内容框架 Payload 集成到 Figma Make，用提示词创建应用时自动配套数据库、文件存储、用户登录和管理面板。Payload 加入 Figma 一年内下载量增长 6x，成为 NPM 上增长最快的开源 CMS；面向所有计划开放，托管基础设施目前处于 beta 且免费，定价将在生效前公布。",
+      "category": "ai-products",
+      "score": 60,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/f9mfexmd1udr4ehzn5t6pawi5"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 10,
+      "editorialScore": 15,
+      "tags": [
+        "figma",
+        "提示词"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "jyum0zsxf67ocoqjl6zj4xu6u",
+      "title": "Figma 发布 Figma Specs 等新功能，定义智能体在平台上的设计规则",
+      "title_en": "Figma announces new features to define how agents work on its platform",
+      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "permalink": "https://aihot.news/items/jyum0zsxf67ocoqjl6zj4xu6u",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-10-15T04:30:00.000Z",
+      "discoveredAt": "2026-10-15T04:55:27.168Z",
+      "summary": "Figma 在印度首届 Config 活动上发布基于 Markdown 的编辑器 Figma Specs，让用户定义设计语言并引入设计与代码库，作为团队和自家及第三方智能体遵循品牌设计规则的参考。",
+      "category": "ai-products",
+      "score": 58,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/jyum0zsxf67ocoqjl6zj4xu6u"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 9,
+      "editorialScore": 14,
+      "tags": [
+        "figma",
+        "设计",
+        "品牌",
+        "智能体"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "ng3g31syb8bcpdqaq0cn275ss",
+      "title": "Grok Imagine 图像生成能力展示",
+      "title_en": "Imagine",
+      "url": "https://x.com/elonmusk/status/2110543151349870751",
+      "permalink": "https://aihot.news/items/ng3g31syb8bcpdqaq0cn275ss",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "publishedAt": "2026-10-15T01:27:53.000Z",
+      "discoveredAt": "2026-10-15T01:43:18.503Z",
+      "summary": "想象一下",
+      "category": null,
+      "score": 26,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/ng3g31syb8bcpdqaq0cn275ss"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "图像生成",
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -629,6 +766,32 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
+      "id": "blotzv98iprxgxm9o58axmw0h",
+      "title": "中国最先进公开EUV光源原型亮相工博会",
+      "title_en": "According to Liberation Daily, Landau Suiyan showcased China's most advanced publicly displayed EUV light-source prototype at the China I...",
+      "url": "https://x.com/thexpin/status/2110643589617197255",
+      "permalink": "https://aihot.news/items/blotzv98iprxgxm9o58axmw0h",
+      "source": "X：X.PIN (@thexpin)",
+      "publishedAt": "2026-10-15T08:07:00.000Z",
+      "discoveredAt": "2026-10-15T08:08:32.512Z",
+      "summary": "据解放日报报道，Landau Suiyan 在中国国际工业博览会展出中国最先进的公开 EUV 光源原型，国产化率达 90%，核心部件多为自研，采用与国际龙头相同的技术架构，已具备芯片曝光测试条件。EUV 光源是 sub-7nm 芯片制造三大核心部件之一，长期受海外垄断与出口管制，是中国芯片自主的关键瓶颈。",
+      "category": "industry",
+      "score": 45,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/blotzv98iprxgxm9o58axmw0h"
+      },
+      "sourceType": "X",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
+      "tags": [
+        "原型"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
       "id": "unicyu20gmhtk74744s311t04",
       "title": "面壁智能转发 MiniCPM-V 4.7 1B 手机端实测教程",
       "title_en": "Thank you @fahdmirza for the informative tutorial and in-depth review. We really appreciate the time and effort you put into testing and ...",
@@ -683,61 +846,6 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "yttmjsu0csjdy9uankxtp5mmk",
-      "title": "Meta 发布 Muse Wonder 和 Muse Wonder Full：基准成绩、定价与使用步骤",
-      "title_en": "Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It",
-      "url": "https://www.marktechpost.com/2026/10/13/meta-muse-wonder-muse-wonder-full-release/",
-      "permalink": "https://aihot.news/items/yttmjsu0csjdy9uankxtp5mmk",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-10-13T22:53:44.000Z",
-      "discoveredAt": "2026-10-14T00:29:30.318Z",
-      "summary": "Meta 发布 Muse Wonder 和 Muse Wonder Full，定位面向长期运行的 agent 任务，支持 1M token 上下文和文本、图像、视频、音频输入。",
-      "category": "ai-models",
-      "score": 75,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/yttmjsu0csjdy9uankxtp5mmk"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视频",
-        "图像",
-        "agent"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "uac52bjmevygb0buurzhh5738",
-      "title": "Google AI Studio 用代码生成视频",
-      "title_en": "📹 Code to video",
-      "url": "https://x.com/Google/status/2110114440993808719",
-      "permalink": "https://aihot.news/items/uac52bjmevygb0buurzhh5738",
-      "source": "X：Google (@Google)",
-      "publishedAt": "2026-10-13T21:04:21.000Z",
-      "discoveredAt": "2026-10-13T21:06:38.509Z",
-      "summary": "📹 代码生成视频\n\n@kickingkeys 在 @GoogleAIStudio 中使用 Argon，完全通过代码创作出丰富、复杂的视觉效果 https://x.com/kickingkeys/status/2110037855452180633/video/1",
-      "category": "ai-products",
-      "score": 32,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/uac52bjmevygb0buurzhh5738"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视觉",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "kg6bx3goagkn4k8kt7jl9lqgd",
       "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
       "title_en": "分享一个最近很惊艳的开源Skill，一句话让AI搓出任何原理的科普视频。",
@@ -749,7 +857,7 @@
       "summary": "作者卡兹克分享实测开源Skill Anatomy（GitHub：https://github.com/wheresryan22/anatomy/tree/main），它能把抽象原理做成可交互的机械模型动画，在其基础上还能让AI一轮直出带讲解配音的科普视频。",
       "category": "tip",
       "score": 75,
-      "selected": false,
+      "selected": true,
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/kg6bx3goagkn4k8kt7jl9lqgd"
@@ -777,7 +885,7 @@
       "summary": "作者数字生命卡兹克分享开源 Skill Anatomy，其理念是\"物体本身，就是解释\"，可将抽象原理做成可交互的机械模型动画，还能在其上生成带讲解配音的科普视频。",
       "category": "tip",
       "score": 77,
-      "selected": false,
+      "selected": true,
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/alrar23ypkk6umkz50eirp35h"
@@ -958,87 +1066,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "r6nn05zme1z711ory2cl7hmo8",
-      "title": "Anthropic 用 5 个月将内部 monorepo 从 Git 迁移到自研版本控制系统 Scion",
-      "title_en": "Anthropic 工程团队用了 5 个月，把内部 monorepo 从 Git 迁移到自研版本控制系统 Scion",
-      "url": "https://x.com/shao__meng/status/2110186080490402193",
-      "permalink": "https://aihot.news/items/r6nn05zme1z711ory2cl7hmo8",
-      "source": "X：邵猛 (@shao__meng)",
-      "publishedAt": "2026-10-14T01:49:01.000Z",
-      "discoveredAt": "2026-10-14T02:16:29.569Z",
-      "summary": "Anthropic 工程团队用 5 个月把内部 monorepo 从 Git 迁移到自研版本控制系统 Scion，并配套代码审查工具 Antique 等系统。Claude 驱动的编码让合并量从 5 月约 2500 次/天涨到 9 月 30000+ 次/天，主分支历史约 100 GB、CI 每天约 2500 万次 checkout，倒逼重新设计。",
-      "category": "tip",
-      "score": 74,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/r6nn05zme1z711ory2cl7hmo8"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "win8y7x316q6ocbakak43hv4w",
-      "title": "MiniMax 的 FastH3-Omni 上线 Reactor API 预览",
-      "title_en": "FastH3-Omni on Reactor - video with synchronized audio, from a single prompt.",
-      "url": "https://x.com/MiniMax_AI/status/2110104942107406441",
-      "permalink": "https://aihot.news/items/win8y7x316q6ocbakak43hv4w",
-      "source": "X：MiniMax (@MiniMax_AI)",
-      "publishedAt": "2026-10-13T20:26:36.000Z",
-      "discoveredAt": "2026-10-13T20:48:36.927Z",
-      "summary": "MiniMax 宣布 FastH3-Omni 登陆 Reactor，可从单个提示词生成带同步音频的视频，10.20.2026 前在 Reactor API 开放预览。FastVideo 与 nuvalab 对 MiniMax 的实时 H3 做后训练得到该开源版本，支持首尾帧条件控制、音频输入与强对话能力、最多 3 张参考图像。",
-      "category": "ai-products",
-      "score": 52,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/win8y7x316q6ocbakak43hv4w"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "视频",
-        "图像",
-        "提示词",
-        "prompt"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "t3abkn4cncxhxbbk92u7q00z7",
-      "title": "Databricks Lakeflow Designer 2026 年 10 月更新汇总",
-      "title_en": "What's New in Lakeflow Designer - October 2026 Roundup",
-      "url": "https://www.databricks.com/blog/whats-new-lakeflow-designer-october-2026-roundup",
-      "permalink": "https://aihot.news/items/t3abkn4cncxhxbbk92u7q00z7",
-      "source": "Databricks：Blog（RSS）",
-      "publishedAt": "2026-10-13T19:00:00.000Z",
-      "discoveredAt": "2026-10-13T19:38:35.913Z",
-      "summary": "Databricks 为 Lakeflow Designer 推出 Prepare、Unique、Guardrails 三个无代码算子，分别用于数据清洗标准化、去重和数据质量检查。",
-      "category": "ai-products",
-      "score": 37,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/t3abkn4cncxhxbbk92u7q00z7"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "designer"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "vqo4g7bc37tap7kw8wffuzl66",
       "title": "Narayanan 与 Unger 提出超越自动化的人机协作 AI 研究议程",
       "title_en": "Steering AI Beyond Automation",
@@ -1062,6 +1089,62 @@
       "tags": [
         "自动化",
         "automation"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "cbcvp2us4sfl90b6hpoggc2yy",
+      "title": "Claude Code v2.1.300 发布：新增虚拟文本、缓存写入拆分与 /advisor",
+      "title_en": "v2.1.300",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.300",
+      "permalink": "https://aihot.news/items/cbcvp2us4sfl90b6hpoggc2yy",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "publishedAt": "2026-10-14T18:24:25.000Z",
+      "discoveredAt": "2026-10-14T18:54:25.122Z",
+      "summary": "Claude Code v2.1.300 发布，为 mod 的提示词装饰新增 virtualText，并新增 $.ui.view({ agentId }) 用于在主视图查看智能体对话记录。",
+      "category": "ai-products",
+      "score": 47,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cbcvp2us4sfl90b6hpoggc2yy"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "ui",
+        "提示词",
+        "claude code",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "wn2lwzshkg8gt2sbjuj1qxd8y",
+      "title": "OpenAI 工程师分享用 GPT-6 系列模型清理代码库的实践与提示词",
+      "title_en": "Maintaining software with the GPT-6 family",
+      "url": "https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family",
+      "permalink": "https://aihot.news/items/wn2lwzshkg8gt2sbjuj1qxd8y",
+      "source": "OpenAI Developers：Blog（网页）",
+      "publishedAt": "2026-10-14T07:00:00.000Z",
+      "discoveredAt": "2026-10-14T23:49:32.923Z",
+      "summary": "OpenAI Core Experimentation 团队工程师分享用 GPT-6 Astra 和 GPT-6.1 Sol 在 Codex 中做代码维护的实践，团队已合并超过 1,400 个维护 PR，删除逾 80 万行代码。",
+      "category": "tip",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/wn2lwzshkg8gt2sbjuj1qxd8y"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "提示词",
+        "codex"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -1090,6 +1173,33 @@
         "workflow",
         "agent",
         "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "sdxz21fvynh39ezmkgjfno58y",
+      "title": "小红书 AllSpark 提出 CompoWorld：用组合式环境扩展通用 Agent 训练",
+      "title_en": "从单服务到跨应用工作流：小红书 AllSpark 提出 CompoWorld，探索组合式环境扩展",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496655&idx=1&sn=3463687dc709bc15539816a09b9b9dbe",
+      "permalink": "https://aihot.news/items/sdxz21fvynh39ezmkgjfno58y",
+      "source": "公众号：小红书技术（dots.llm）",
+      "publishedAt": "2026-10-15T10:05:42.000Z",
+      "discoveredAt": "2026-10-15T10:42:25.068Z",
+      "summary": "小红书 AllSpark 团队提出 CompoWorld，通过组合可复用服务来扩展通用 Agent 的训练环境与任务空间，构建了 448 个服务、10,130 个工具。团队用 3K 条 SFT 轨迹和 1K 个 RL 任务训练 Qwen3.6-35B-A3B，在八项 Agent 基准上平均提升 9.17 分，AutomationBench 成功率从 10.33% 升至 32.33%。",
+      "category": "paper",
+      "score": 48,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/sdxz21fvynh39ezmkgjfno58y"
+      },
+      "sourceType": "公众号",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "工作流",
+        "agent"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
