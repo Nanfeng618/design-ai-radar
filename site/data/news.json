@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-15T17:01:09.266Z",
-  "previousGeneratedAt": "2026-10-15T11:29:09.557Z",
+  "generatedAt": "2026-10-16T04:31:53.263Z",
+  "previousGeneratedAt": "2026-10-15T17:01:09.266Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 44,
+  "itemCount": 49,
   "sourceCounts": {
     "X": 24,
-    "网站": 17,
+    "网站": 22,
     "公众号": 3
   },
   "source": {
@@ -14,6 +14,64 @@
     "url": "https://aihot.virxact.com"
   },
   "items": [
+    {
+      "id": "q40jsqen23r05afv2ly4eg91e",
+      "title": "OpenRouter 上线 FLUX 3 Video 4K 视频生成与视频放大工具",
+      "title_en": "The upscaler takes a video you already have and now re-renders it in 4K. It's on OpenRouter for the next week in early access.",
+      "url": "https://x.com/OpenRouter/status/2110803413558792530",
+      "permalink": "https://aihot.news/items/q40jsqen23r05afv2ly4eg91e",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-10-15T18:42:05.000Z",
+      "discoveredAt": "2026-10-15T19:11:29.975Z",
+      "summary": "OpenRouter 上线 Black Forest Labs 的两项能力：upscaler 可将已有视频重渲染为 4K，FLUX 3 Video 支持从提示词或图像生成 4K 视频，分辨率由此前的 1080p 提升，定价 $0.41/s，两项均以 early access 形式在 OpenRouter 开放一周。",
+      "category": "ai-products",
+      "score": 54,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/q40jsqen23r05afv2ly4eg91e"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 26,
+      "editorialScore": 29,
+      "tags": [
+        "图像生成",
+        "视频生成",
+        "flux",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "oxv2a9i4wrlyev8jubi8il8l8",
+      "title": "Black Forest Labs 发布开源权重模型 FLUX 3 Image Klein，8 GB 显存即可运行",
+      "title_en": "Black Forest Labs' open-weights image model FLUX 3 Image Klein runs on consumer GPUs with just 8 GB of VRAM",
+      "url": "https://the-decoder.com/black-forest-labs-open-weights-image-model-flux-3-image-klein-runs-on-consumer-gpus-with-just-8-gb-of-vram/",
+      "permalink": "https://aihot.news/items/oxv2a9i4wrlyev8jubi8il8l8",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-10-15T16:57:14.000Z",
+      "discoveredAt": "2026-10-15T17:51:32.071Z",
+      "summary": "Black Forest Labs 发布 5.6B 参数的开源权重文生图模型 FLUX 3 Image Klein，支持文生图、图像编辑、最多十张参考图、原生 4K 输出、像素级编辑和边界框元素放置，内部测试中 Elo 超过 Ideogram V4.5 和自家 FLUX.2 [pro]，比 9B 参数的 FLUX.2 [klein] 高 91 Elo。",
+      "category": "ai-models",
+      "score": 78,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/oxv2a9i4wrlyev8jubi8il8l8"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 23,
+      "editorialScore": 26,
+      "tags": [
+        "文生图",
+        "生图",
+        "flux",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
     {
       "id": "cwwqjqtzwkqndc1gxqzx935gv",
       "title": "FLUX 3 Image Klein 图像模型上线 fal 平台",
@@ -73,35 +131,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "z19xob4aq4tui006kmqpwme93",
-      "title": "Claude Code 更新：UI 与交互设计大幅改进",
-      "title_en": "今天Claude推了更新，更新完以后，Claude code的UI和交互设计突然一下变得眉清目秀了起来。",
-      "url": "https://x.com/Khazix0918/status/2110416274912313464",
-      "permalink": "https://aihot.news/items/z19xob4aq4tui006kmqpwme93",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "publishedAt": "2026-10-14T17:03:44.000Z",
-      "discoveredAt": "2026-10-14T17:18:25.262Z",
-      "summary": "Claude 推送更新后，Claude Code 的 UI 和交互设计明显改善，左侧母任务与子任务关系、任务状态分组、概览与进度展示等均经过用心设计，体验良好。推文作者认为 Claude 又回到了 3 月、4 月那种极速迭代的状态。",
-      "category": "ai-products",
-      "score": 35,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/z19xob4aq4tui006kmqpwme93"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 22,
-      "editorialScore": 26,
-      "tags": [
-        "交互设计",
-        "ui",
-        "设计",
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "m7q2n69hfefugj44z24oi66iu",
       "title": "fal 上线 FLUX.3 Klein 文生图与图像编辑模型入口",
       "title_en": "@bfl_ai Try it here today!",
@@ -131,21 +160,21 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "ro5zfihp4w9597vt5vz4ihdv2",
-      "title": "Black Forest Labs FLUX.3 Image Klein 登陆 Diffusers，支持边界框布局控制",
-      "title_en": "Welcome FLUX.3 Image Klein in Diffusers",
-      "url": "https://huggingface.co/blog/flux-3",
-      "permalink": "https://aihot.news/items/ro5zfihp4w9597vt5vz4ihdv2",
-      "source": "Hugging Face 官方团队博客",
-      "publishedAt": "2026-10-15T00:00:00.752Z",
-      "discoveredAt": "2026-10-15T15:44:29.905Z",
-      "summary": "Hugging Face 团队介绍 FLUX.3 Image Klein 模型发布首日即可在 Diffusers 中使用，单个模型支持文生图、多参考图生图和边界框布局控制。",
-      "category": "ai-products",
-      "score": 76,
-      "selected": true,
+      "id": "vz4iplz42726m6117wuwtqrf5",
+      "title": "Black Forest Labs 发布开源权重模型 FLUX 3 Image Klein，5.6B 参数支持原生 4K 生成",
+      "title_en": "FLUX 3 Image Klein in ComfyUI: 5.6B Open Weights",
+      "url": "https://blog.comfy.org/p/flux-3-image-klein-in-comfyui-56b",
+      "permalink": "https://aihot.news/items/vz4iplz42726m6117wuwtqrf5",
+      "source": "Comfy Blog",
+      "publishedAt": "2026-10-15T17:57:34.000Z",
+      "discoveredAt": "2026-10-15T18:43:28.209Z",
+      "summary": "Black Forest Labs 在 ComfyUI 发布 FLUX 3 家族的紧凑开源权重模型 FLUX 3 Image Klein，共 5.6B 参数，提供 Base 和 Distilled 两种版本，内部评测中文生图和多参考生成得分高于 Qwen-Image 2.1。",
+      "category": "ai-models",
+      "score": 71,
+      "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ro5zfihp4w9597vt5vz4ihdv2"
+        "canonical": "https://aihot.news/items/vz4iplz42726m6117wuwtqrf5"
       },
       "sourceType": "网站",
       "designCategory": "图像与视频",
@@ -159,33 +188,90 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "tmeiydw7kxapdlu38bywibz5h",
-      "title": "Google 模型打造交互式生物图集",
-      "title_en": "Textbook biology, brought to life right in your browser 🌿",
-      "url": "https://x.com/GoogleAI/status/2110392574754107405",
-      "permalink": "https://aihot.news/items/tmeiydw7kxapdlu38bywibz5h",
-      "source": "X：Google AI (@GoogleAI)",
-      "publishedAt": "2026-10-14T15:29:33.000Z",
-      "discoveredAt": "2026-10-14T15:38:23.254Z",
-      "summary": "教科书生物学，直接在浏览器中活起来 🌿\n\n这个由 Argon 在 @antigravity 中构建的交互式 5 阶段视觉图集，将密集的教科书生物学变成动手体验。借助流畅动画和科学精确性，你可以从阳光下的叶片一路滚动深入到亚细胞叶绿体。\n\n该模型将准确性与无缝交互设计相结合，展示了如何构建能让复杂科学变得可视化且轻松探索的教育工具。",
+      "id": "gj3ad9ft3qnw706yi8mzti6ev",
+      "title": "fal 开放 FLUX 视频能力试用：Flux 3 视频编辑、文生视频、图生视频与 Flux Video Upscale",
+      "title_en": "Try it:",
+      "url": "https://x.com/fal/status/2110840160497672367",
+      "permalink": "https://aihot.news/items/gj3ad9ft3qnw706yi8mzti6ev",
+      "source": "X：fal (@fal)",
+      "publishedAt": "2026-10-15T21:08:06.000Z",
+      "discoveredAt": "2026-10-15T21:26:44.635Z",
+      "summary": "fal 公布 FLUX 视频系列的试用链接，包括 Flux Video Upscale（视频超分）以及 Flux 3 的视频编辑、文生视频、图生视频四项模型页面。各链接均指向 fal.ai 上的 blackforestlabs 模型页，读者可直接访问试用。",
       "category": "ai-products",
-      "score": 32,
+      "score": 60,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/tmeiydw7kxapdlu38bywibz5h"
+        "canonical": "https://aihot.news/items/gj3ad9ft3qnw706yi8mzti6ev"
       },
       "sourceType": "X",
-      "designCategory": "产品与体验",
+      "designCategory": "图像与视频",
       "relevanceScore": 17,
-      "editorialScore": 21,
+      "editorialScore": 20,
       "tags": [
-        "交互设计",
-        "视觉",
-        "设计",
-        "交互"
+        "文生视频",
+        "flux",
+        "视频"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "bhpy2879up1vt0o61jzi0g4jw",
+      "title": "fal 更新 Flux 3 Video 与 Upscaler，支持原生 2K 和 4K 视频生成",
+      "title_en": "Flux 3 Video and Upscaler just got an update on fal!",
+      "url": "https://x.com/fal/status/2110840158564081837",
+      "permalink": "https://aihot.news/items/bhpy2879up1vt0o61jzi0g4jw",
+      "source": "X：fal (@fal)",
+      "publishedAt": "2026-10-15T21:08:05.000Z",
+      "discoveredAt": "2026-10-15T21:26:44.640Z",
+      "summary": "fal 在平台上更新 Flux 3 Video 和 Upscaler。新版本支持原生 2K 和 4K 视频生成，覆盖 text-to-video、image-to-video 和 video-to-video 三种工作流，5 秒 4K 视频约 2 分钟即可生成。",
+      "category": "ai-products",
+      "score": 56,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/bhpy2879up1vt0o61jzi0g4jw"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 16,
+      "editorialScore": 19,
+      "tags": [
+        "视频生成",
+        "flux",
+        "工作流",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "u018yjfevfschvi4zmzimjxim",
+      "title": "Adobe 与 NVIDIA 扩大合作，用 RTX Spark 加速智能体创作",
+      "title_en": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
+      "url": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
+      "permalink": "https://aihot.news/items/u018yjfevfschvi4zmzimjxim",
+      "source": "NVIDIA：Newsroom（RSS）",
+      "publishedAt": "2026-10-15T17:00:00.000Z",
+      "discoveredAt": "2026-10-15T17:22:32.965Z",
+      "summary": "Adobe 与 NVIDIA 扩大合作，将 NVIDIA RTX Spark 超级芯片引入 Photoshop、Premiere 和 Substance 3D 等智能体创作应用，AI 处理、编辑、调色与特效速度最高提升 2 倍。",
+      "category": "industry",
+      "score": 40,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/u018yjfevfschvi4zmzimjxim"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 13,
+      "editorialScore": 18,
+      "tags": [
+        "photoshop",
+        "adobe",
+        "3d",
+        "智能体"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "msude2fq8mt2rsicw5wqnwx4h",
@@ -210,34 +296,6 @@
       "editorialScore": 18,
       "tags": [
         "产品设计",
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "tss6ved75ph6u4368eaehhrus",
-      "title": "Kombai 发布 Design Creativity Bench：GPT-6 Astra 排第一，模型 UI 设计创造力仍低于人类",
-      "title_en": "模型创造力排行 GPT-6 Astra 排第一、Claude Opus 5.5 第八 ？而且最强模型还是远低于人类 ？",
-      "url": "https://x.com/shao__meng/status/2110542220709540193",
-      "permalink": "https://aihot.news/items/tss6ved75ph6u4368eaehhrus",
-      "source": "X：邵猛 (@shao__meng)",
-      "publishedAt": "2026-10-15T01:24:12.000Z",
-      "discoveredAt": "2026-10-15T01:25:19.763Z",
-      "summary": "Kombai 发布 Design Creativity Bench，用 80 个开放式 UI 任务评估模型设计创造力，最佳模型 GPT-6 Astra 得 65.5，人类参考为 92.3。",
-      "category": "paper",
-      "score": 53,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/tss6ved75ph6u4368eaehhrus"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 14,
-      "editorialScore": 18,
-      "tags": [
-        "ui",
-        "design",
         "设计"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
@@ -322,6 +380,64 @@
         "设计"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "qb80oc9oxi6d1lffkuvfskl10",
+      "title": "Black Forest Labs FLUX 3 系列登陆 OpenRouter：Image Klein 开源权重、视频 upscale 降价并支持 4K 生成",
+      "title_en": "New from @bfl_ai on OpenRouter today:",
+      "url": "https://x.com/OpenRouter/status/2110803343878873473",
+      "permalink": "https://aihot.news/items/qb80oc9oxi6d1lffkuvfskl10",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-10-15T18:41:48.000Z",
+      "discoveredAt": "2026-10-15T19:11:29.987Z",
+      "summary": "OpenRouter 宣布 Black Forest Labs（@bfl_ai）三项新内容上线。FLUX 3 Image Klein 是新的开源权重图像模型，可在单张消费级 GPU 上运行；改进版 FLUX Video Upscale 开启 early access，可将任意视频转为 4K，价格从 $0.59/s 降至 $0.28/s；FLUX 3 Video 现已支持从提示词直接生成 4K 视频。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/qb80oc9oxi6d1lffkuvfskl10"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 13,
+      "editorialScore": 16,
+      "tags": [
+        "flux",
+        "视频",
+        "图像",
+        "提示词"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "ax2dk4iozv9zi9ey1o340qbry",
+      "title": "NVIDIA 发布 120B 开源多模态智能体模型 Nemotron 3.5 Super VL",
+      "title_en": "NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model",
+      "url": "https://www.marktechpost.com/2026/10/15/nvidia-nemotron-3-5-super-vl-release/",
+      "permalink": "https://aihot.news/items/ax2dk4iozv9zi9ey1o340qbry",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-10-15T19:53:50.000Z",
+      "discoveredAt": "2026-10-15T22:04:43.642Z",
+      "summary": "NVIDIA 发布开源视觉语言模型 Nemotron 3.5 Super VL，120B 参数 MoE 架构、每 token 激活 12B，上下文最高 1M tokens，权重采用 OpenMDW-1.1 许可证，单个模型可处理文本、图像、文档和视频并支持工具调用与代码生成。",
+      "category": "ai-models",
+      "score": 71,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/ax2dk4iozv9zi9ey1o340qbry"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "视觉",
+        "视频",
+        "图像",
+        "agent"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "r0j5nc3j3kkoayheni6wjrdh8",
@@ -437,6 +553,33 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
+      "id": "l3rw2ygavn6hbrxd57iy0c1oi",
+      "title": "ElevenLabs 推出 Instant Soundtracks，一步为视频生成配乐和音效",
+      "title_en": "Instant Soundtracks let you elevate any video with music and sound effects, in one pass.",
+      "url": "https://x.com/ElevenLabs/status/2110809543265628322",
+      "permalink": "https://aihot.news/items/l3rw2ygavn6hbrxd57iy0c1oi",
+      "source": "X：ElevenLabs (@elevenlabs)",
+      "publishedAt": "2026-10-15T19:06:26.000Z",
+      "discoveredAt": "2026-10-15T19:23:28.562Z",
+      "summary": "ElevenLabs 推出 Instant Soundtracks，可一步为视频添加音乐和音效。上传素材后模型生成原创配乐，并在合适时间戳自动放置音效；还可将原音频作为参考，使新配乐风格匹配。现已在 ElevenCreative、elevenmusic_io 和 ElevenAPI 开放使用。",
+      "category": "ai-products",
+      "score": 59,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/l3rw2ygavn6hbrxd57iy0c1oi"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "y644vvk57qg24wzofrfrrrrvv",
       "title": "蚂蚁百灵 Ling-3.1-flash 获 vLLM Day-0 支持，可部署到开发者自有基础设施",
       "title_en": "Big thanks @vllm_project for making Ling-3.1-flash ready to run on developers’ own infrastructure from day one!",
@@ -494,144 +637,197 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "ng3g31syb8bcpdqaq0cn275ss",
-      "title": "Grok Imagine 图像生成能力展示",
-      "title_en": "Imagine",
-      "url": "https://x.com/elonmusk/status/2110543151349870751",
-      "permalink": "https://aihot.news/items/ng3g31syb8bcpdqaq0cn275ss",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "publishedAt": "2026-10-15T01:27:53.000Z",
-      "discoveredAt": "2026-10-15T01:43:18.503Z",
-      "summary": "想象一下",
-      "category": null,
-      "score": 26,
+      "id": "eoi8j7vxmnyyxqx0bo5swt6uc",
+      "title": "Tripo 开源 AI 智能体工作流，用于 VTuber 3D 角色制作",
+      "title_en": "Open-source AI agent workflow for VTuber creation.",
+      "url": "https://x.com/tripoai/status/2110946794519802042",
+      "permalink": "https://aihot.news/items/eoi8j7vxmnyyxqx0bo5swt6uc",
+      "source": "Tripo（官方 X）",
+      "publishedAt": "2026-10-16T04:11:49.000Z",
+      "discoveredAt": "2026-10-16T04:15:46.837Z",
+      "summary": "Tripo 转发用户 @LidaMidorin 的开源 AI 智能体工作流，用于 VTuber 3D 角色制作，并发布了引导 3D 角色建模的完整技能库。流程由 Astra / Opus、Tripo P2.0 和 Blender 驱动：先制作脸、身体、头发、表情等三面图和配饰插画，再用 Tripo 生成各部件（推荐 Smartmesh P2.0、约 5000 至 10000 四边形面数，面数过多校正时易变形），随后用 BlenderMCP 合并各部件、直接建模小物件、修正眼球和手、插入骨骼并调整皮肤权重、制作 IK/FK、调整摇摆物和着色器，制作周期约 2 周（实际约 1 个月，因质量不佳重做两次），最终模型还实现了可开合的翅膀结构。",
+      "category": "tip",
+      "score": 60,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ng3g31syb8bcpdqaq0cn275ss"
+        "canonical": "https://aihot.news/items/eoi8j7vxmnyyxqx0bo5swt6uc"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 12,
+      "editorialScore": 13,
+      "tags": [
+        "工作流",
+        "workflow",
+        "3d",
+        "agent"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "kbccvteado5kgzbk5ah9yv5ip",
+      "title": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
+      "title_en": "刚刚，可灵4.0深夜上线，支持30秒一镜到底，熟悉的可灵回来了。",
+      "url": "https://x.com/Khazix0918/status/2110914404393091205",
+      "permalink": "https://aihot.news/items/kbccvteado5kgzbk5ah9yv5ip",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "publishedAt": "2026-10-16T02:03:07.000Z",
+      "discoveredAt": "2026-10-16T02:17:44.421Z",
+      "summary": "可灵AI凌晨正式上线视频模型 Kling 4.0，作者烧数万积分实测后认为其在大范围动态、复杂动作衔接和全能参考可控性上有扎实进步。支持最长30秒一镜到底直出，视频首尾帧改为最多10帧的多帧参考；1080P 30秒约450积分，720P 20秒的 Kling 4.0 Flash 仅120积分，作者推荐先用 Flash 打样再用正式版出片，此外10-bit 4K HDR 输出规格尚未上线。",
+      "category": "ai-products",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/kbccvteado5kgzbk5ah9yv5ip"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
+      "relevanceScore": 10,
+      "editorialScore": 13,
       "tags": [
-        "图像生成",
+        "可灵",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "pf9enags0thtxtdos0wsdaaal",
+      "title": "快手可灵 AI Kling 4.0 全量上线，单次生成视频最长 30 秒",
+      "title_en": "快手可灵 AI 模型 Kling 4.0 全量上线，单次生成视频最长可达 30 秒",
+      "url": "https://www.ithome.com/1/013/715.htm",
+      "permalink": "https://aihot.news/items/pf9enags0thtxtdos0wsdaaal",
+      "source": "IT之家·人工智能",
+      "publishedAt": "2026-10-16T00:22:37.007Z",
+      "discoveredAt": "2026-10-16T00:41:43.473Z",
+      "summary": "快手可灵 AI 宣布 Kling 4.0 正式全量上线 klingai.com，单次生成视频最长可达 30 秒，视频可多次续拍延展至 2 分钟。",
+      "category": "ai-products",
+      "score": 73,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/pf9enags0thtxtdos0wsdaaal"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 10,
+      "editorialScore": 13,
+      "tags": [
+        "可灵",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "m4lwilxklwi3f3ctdlvxmzlxw",
+      "title": "可灵 Kling 4.0 上线：支持30秒一镜到底，作者实测动态与全能参考",
+      "title_en": "刚刚，可灵4.0深夜上线，支持30秒一镜到底，熟悉的可灵回来了。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687203&idx=1&sn=a58bc4411e8226b629f1b5c61509a198",
+      "permalink": "https://aihot.news/items/m4lwilxklwi3f3ctdlvxmzlxw",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-10-16T00:18:00.000Z",
+      "discoveredAt": "2026-10-16T00:53:08.976Z",
+      "summary": "可灵AI凌晨正式上线视频模型 Kling 4.0，支持最长30秒直出和最多10帧的多帧参考，并强化全能参考与复杂打斗等大范围动态表现。作者烧数万积分实测城市追逐、电梯打斗、花样滑冰等场景，认为纸箱形变等细节体现物理规律理解的提升。1080P 30秒约450积分（约16元），720P约9元，4.0 Flash 720P 20秒仅120积分，官方还预告将支持10-bit 4K HDR输出。",
+      "category": "ai-models",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/m4lwilxklwi3f3ctdlvxmzlxw"
+      },
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
+      "relevanceScore": 10,
+      "editorialScore": 13,
+      "tags": [
+        "可灵",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "ayudniwk1d4ocaqlyvvllk6wz",
+      "title": "Black Forest Labs 发布开源权重图像模型 FLUX 3 Image Klein",
+      "title_en": "Black Forest Labs launched FLUX 3 Image Klein, its new open-weight image model!",
+      "url": "https://x.com/testingcatalog/status/2110828155594559966",
+      "permalink": "https://aihot.news/items/ayudniwk1d4ocaqlyvvllk6wz",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "publishedAt": "2026-10-15T20:20:24.000Z",
+      "discoveredAt": "2026-10-15T20:30:44.648Z",
+      "summary": "Black Forest Labs 发布开源权重图像模型 FLUX 3 Image Klein，参数量 5.6B，可在单张消费级 GPU 上运行，支持原生 4K、bounding boxes 和像素级编辑。开发者可进行后训练和微调，官方提供低延迟版用于更快生成和自托管，以及 FP8、NVFP4、INT8 量化版本，原生 4K 蒸馏模型也将通过 BFL APIs 提供。",
+      "category": "ai-models",
+      "score": 73,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/ayudniwk1d4ocaqlyvvllk6wz"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 10,
+      "editorialScore": 13,
+      "tags": [
+        "flux",
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "chvlt2cejokk905mxbkn212ha",
-      "title": "编码智能体的技能在于细节",
-      "title_en": "@fnthawar and I talked about how the skill of coding agents is \"being in the details\"",
-      "url": "https://x.com/trq212/status/2110488896039690255",
-      "permalink": "https://aihot.news/items/chvlt2cejokk905mxbkn212ha",
-      "source": "X：Thariq (@trq212)",
-      "publishedAt": "2026-10-14T21:52:18.000Z",
-      "discoveredAt": "2026-10-14T22:20:19.187Z",
-      "summary": "@fnthawar 和我聊了聊，编码智能体的技能在于“身处细节之中”\n\n就像经营一家公司，你不可能知道所有事，但对正确的细节保持执着的关注，才能成就伟大\n\n它可以是代码、架构、设计、UX——任何需要的东西",
-      "category": "opinion",
-      "score": 25,
+      "id": "t03tkqoehmhbte8rv8fa2n8im",
+      "title": "FLUX 3 Image Klein 上线 OpenRouter，单张图起价 $0.009",
+      "title_en": "FLUX 3 Image Klein is small enough to run on a single consumer graphics card, creates images in 4K, and starts at $0.009 per image.",
+      "url": "https://x.com/OpenRouter/status/2110803366515450018",
+      "permalink": "https://aihot.news/items/t03tkqoehmhbte8rv8fa2n8im",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-10-15T18:41:54.000Z",
+      "discoveredAt": "2026-10-15T19:11:29.982Z",
+      "summary": "OpenRouter 上架 FLUX 3 Image 图像模型的小型版本 Klein，页面链接为 https://openrouter.ai/black-forest-labs/flux-3-image。原文称该模型小到可以在单张消费级显卡上运行，可生成 4K 图像，单张起价 $0.009。",
+      "category": "ai-products",
+      "score": 63,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/chvlt2cejokk905mxbkn212ha"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 10,
-      "editorialScore": 14,
-      "tags": [
-        "ux",
-        "设计",
-        "智能体",
-        "skill"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "zg7l9r3vgjkdy9debzdwckr0v",
-      "title": "White Circle 开源 RISE 图像模型红队测试算法",
-      "title_en": "Good safety work increasingly means good search.",
-      "url": "https://x.com/rohanpaul_ai/status/2110486648685494322",
-      "permalink": "https://aihot.news/items/zg7l9r3vgjkdy9debzdwckr0v",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-10-14T21:43:22.000Z",
-      "discoveredAt": "2026-10-14T21:49:21.586Z",
-      "summary": "White Circle 开源了 RISE，一个自动化红队测试算法，用于检测 AI 图像生成器能否被诱导生成其规则禁止的图片。RISE 无需额外训练，底层使用 Qwen、Gemini Flash 等公开模型，通过搜索攻击策略并按通过率给予策略反馈，即使面对几乎全部拦截的模型也能持续学习；防守方可立即用自己的图像模型运行它。",
-      "category": "paper",
-      "score": 55,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/zg7l9r3vgjkdy9debzdwckr0v"
+        "canonical": "https://aihot.news/items/t03tkqoehmhbte8rv8fa2n8im"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
+      "relevanceScore": 10,
+      "editorialScore": 13,
       "tags": [
-        "图像生成",
-        "图像",
-        "自动化"
+        "flux",
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "hmiju7976mk35dgvs0cusxkpn",
-      "title": "OpenAI 的 dot 帮用户发现漏买火车票",
-      "title_en": "Booked some train tickets but the UI was confusing so I accidentally bought one not two tickets. My dot spotted it and let me know that I...",
-      "url": "https://x.com/dkundel/status/2110432654638333987",
-      "permalink": "https://aihot.news/items/hmiju7976mk35dgvs0cusxkpn",
-      "source": "X：Dominik Kundel（OpenAI 开发者体验，Codex） (@dkundel)",
-      "publishedAt": "2026-10-14T18:08:49.000Z",
-      "discoveredAt": "2026-10-14T18:09:11.736Z",
-      "summary": "订了几张火车票，但界面太让人困惑，我不小心只买了一张而不是两张。我的 dot 发现了这一点，并告诉我少了我妻子的票 🎉 危机解除 😄",
-      "category": null,
-      "score": 24,
+      "id": "m4vbtji4zq8m0f9yok9ievlfa",
+      "title": "可灵（Kling）4.0 全面开放，新增 MCP 和 CLI 访问",
+      "title_en": "感动。",
+      "url": "https://x.com/Khazix0918/status/2110788729539547636",
+      "permalink": "https://aihot.news/items/m4vbtji4zq8m0f9yok9ievlfa",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "publishedAt": "2026-10-15T17:43:44.000Z",
+      "discoveredAt": "2026-10-15T18:01:32.091Z",
+      "summary": "可灵（Kling AI）宣布 Kling 4.0 现已全面开放，用户可通过 kling.ai 全新创作界面使用，并新增 MCP 和 CLI 访问方式以提升视频创作工作流灵活性。即将推出的功能包括 4K 和 1080p 分辨率的 10-bit HDR 视频输出，以及面向企业客户和开发者的 API。",
+      "category": "ai-products",
+      "score": 69,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/hmiju7976mk35dgvs0cusxkpn"
+        "canonical": "https://aihot.news/items/m4vbtji4zq8m0f9yok9ievlfa"
       },
       "sourceType": "X",
-      "designCategory": "产品与体验",
+      "designCategory": "图像与视频",
       "relevanceScore": 10,
-      "editorialScore": 14,
+      "editorialScore": 13,
       "tags": [
-        "ui",
-        "界面"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "wl75k500hu4uxs2t7hwhhlg0i",
-      "title": "蚂蚁百灵开源 Ling-3.1-flash，约 560B 总参数、每 token 约 25B 激活、支持 1M 上下文",
-      "title_en": "Ling-3.1-flash is now open source: ~560B total parameters, ~25B active per token and up to 1M context.",
-      "url": "https://x.com/AntLingAGI/status/2110390124743970952",
-      "permalink": "https://aihot.news/items/wl75k500hu4uxs2t7hwhhlg0i",
-      "source": "X：蚂蚁百灵 (@AntLingAGI)",
-      "publishedAt": "2026-10-14T15:19:49.000Z",
-      "discoveredAt": "2026-10-14T15:35:23.315Z",
-      "summary": "蚂蚁百灵（AntLingAGI）宣布 Ling-3.1-flash 开源，总参数约 560B，每 token 激活约 25B，上下文最长 1M。官方称其面向实际工作，可将粗略需求稿生成页面、移动 UI 或可供团队评审和迭代的交互原型，并附演示视频。",
-      "category": "ai-models",
-      "score": 54,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/wl75k500hu4uxs2t7hwhhlg0i"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 10,
-      "editorialScore": 14,
-      "tags": [
-        "原型",
-        "ui",
-        "交互",
+        "可灵",
+        "界面",
+        "工作流",
         "视频"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "f25wwpckqs24v8zzqvfs2ybz8",
@@ -672,7 +868,7 @@
       "summary": "可灵（Kling AI）宣布 Kling 4.0 正式全量开放，用户可通过 kling.ai 全新创作界面使用，并新增 MCP 和 CLI 接入以融入视频创作工作流。即将推出 4K 和 1080p 的 10-bit HDR 视频输出，以及面向企业客户和开发者的 API 访问。",
       "category": "ai-products",
       "score": 72,
-      "selected": true,
+      "selected": false,
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/uoqzntmcb5v0io1g6obac7amu"
@@ -717,130 +913,101 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "jvxnzmqz5m2qjxpfmj0xg02t8",
-      "title": "Gemini 4 Argon 数小时完成酶工程",
-      "title_en": "Argon also compressed the process of enzyme engineering into a matter of hours to design five lab-verified serine esterases. 🧬",
-      "url": "https://x.com/GoogleDeepMind/status/2110421871103730104",
-      "permalink": "https://aihot.news/items/jvxnzmqz5m2qjxpfmj0xg02t8",
-      "source": "X：Google DeepMind (@GoogleDeepMind)",
-      "publishedAt": "2026-10-14T17:25:58.000Z",
-      "discoveredAt": "2026-10-14T17:38:12.746Z",
-      "summary": "Argon 还将酶工程流程压缩到数小时之内，设计出五种经实验室验证的丝氨酸酯酶。🧬\nhttps://x.com/RyanKrue/status/2110046767341547602",
-      "category": "ai-models",
-      "score": 42,
+      "id": "ifc0l8axrbwaxg870oteh3zry",
+      "title": "FLUX 3 超分上线 Higgsfield",
+      "title_en": "FLUX 3 Upscaler from @bfl_ai is live on Higgsfield.",
+      "url": "https://x.com/higgsfield/status/2110819551168631134",
+      "permalink": "https://aihot.news/items/ifc0l8axrbwaxg870oteh3zry",
+      "source": "X：Higgsfield AI (@higgsfield)",
+      "publishedAt": "2026-10-15T19:46:12.000Z",
+      "discoveredAt": "2026-10-15T19:54:44.245Z",
+      "summary": "来自 @bfl_ai 的 FLUX 3 Upscaler 已在 Higgsfield 上线。\n\n> 比之前快 50%、便宜 50%\n> 可对任意视频进行超分和锐化\n> FLUX 3 Video 现支持原生 2K 和 4K 生成\n\n现已可用，在 Higgsfield 享有 7 天独家访问权。",
+      "category": "ai-products",
+      "score": 50,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/jvxnzmqz5m2qjxpfmj0xg02t8"
+        "canonical": "https://aihot.news/items/ifc0l8axrbwaxg870oteh3zry"
       },
       "sourceType": "X",
-      "designCategory": "产品与体验",
+      "designCategory": "图像与视频",
       "relevanceScore": 9,
-      "editorialScore": 13,
+      "editorialScore": 12,
       "tags": [
-        "design",
-        "设计"
+        "flux",
+        "视频"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "ia6nyixsglr07k9mpeq3jzepy",
-      "title": "Argon 加速量子纠错与算法设计",
-      "title_en": "Argon is helping accelerate progress across both quantum error correction and algorithm design. 🧮",
-      "url": "https://x.com/GoogleDeepMind/status/2110421866079003070",
-      "permalink": "https://aihot.news/items/ia6nyixsglr07k9mpeq3jzepy",
-      "source": "X：Google DeepMind (@GoogleDeepMind)",
-      "publishedAt": "2026-10-14T17:25:57.000Z",
-      "discoveredAt": "2026-10-14T17:38:12.758Z",
-      "summary": "Argon 正在帮助加速量子纠错和算法设计两方面的进展。🧮\nhttps://x.com/benjaderberg/status/2110041693659554290",
-      "category": "ai-models",
-      "score": 30,
+      "id": "xdzayggl3v8fdl91ove62micc",
+      "title": "反编译社区 decomp.dev 因 AI 过度涌入宣布关站",
+      "title_en": "Video Game Reverse Engineering Community Shuts Down Because AI Has Made It Too Easy",
+      "url": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/",
+      "permalink": "https://aihot.news/items/xdzayggl3v8fdl91ove62micc",
+      "source": "404 Media（RSS）",
+      "publishedAt": "2026-10-15T16:31:30.000Z",
+      "discoveredAt": "2026-10-15T16:56:34.774Z",
+      "summary": "游戏反编译协作网站 decomp.dev 宣布关站，管理员 Encounter 称 AI 已破坏反编译的社区协作基础，人类主导项目难以追踪，还出现用 AI 完结人类开源项目的敌意 fork。文中提到 GPT-6-Astra 等模型让反编译变得容易，出现 decomp.wtf 等专用工具，并延伸讨论 Adobe、Microsoft Office 的 AI 克隆潮及 SaaS 商业模式受到的冲击。",
+      "category": "industry",
+      "score": 65,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ia6nyixsglr07k9mpeq3jzepy"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "design",
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "uo3wdpreztl4k9iifjtrwgcie",
-      "title": "Gemini 4 Argon 解锁多项科学突破",
-      "title_en": "Gemini 4 Argon is already unlocking new scientific breakthroughs in quantum computing, nuclear fusion, protein design and beyond. 🧵",
-      "url": "https://x.com/GoogleDeepMind/status/2110421861435879476",
-      "permalink": "https://aihot.news/items/uo3wdpreztl4k9iifjtrwgcie",
-      "source": "X：Google DeepMind (@GoogleDeepMind)",
-      "publishedAt": "2026-10-14T17:25:56.000Z",
-      "discoveredAt": "2026-10-14T17:38:12.784Z",
-      "summary": "Gemini 4 Argon 已在量子计算、核聚变、蛋白质设计等领域解锁新的科学突破。🧵",
-      "category": "opinion",
-      "score": 29,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/uo3wdpreztl4k9iifjtrwgcie"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "design",
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "uymmefe20lolpzm154ozpds9i",
-      "title": "研究人员用 AI 设计可定点切割特定蛋白质的蛋白酶",
-      "title_en": "Researchers use AI to design proteins that cut up other proteins",
-      "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
-      "permalink": "https://aihot.news/items/uymmefe20lolpzm154ozpds9i",
-      "source": "Ars Technica：AI（RSS）",
-      "publishedAt": "2026-10-14T17:10:15.000Z",
-      "discoveredAt": "2026-10-14T17:32:11.925Z",
-      "summary": "研究人员利用 AI 蛋白质设计工具，保留两类蛋白酶的催化核心并替换其余整个蛋白，设计出可调谐、能定点切断特定蛋白质的酶。研究人员用这些酶切断了与神经疾病相关的蛋白质，以展示其有效性。",
-      "category": "paper",
-      "score": 56,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/uymmefe20lolpzm154ozpds9i"
+        "canonical": "https://aihot.news/items/xdzayggl3v8fdl91ove62micc"
       },
       "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
+      "designCategory": "设计工具",
+      "relevanceScore": 7,
+      "editorialScore": 12,
       "tags": [
-        "设计工具",
-        "design",
-        "设计"
+        "adobe"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "e9hr34yx4hyi7kpx3ef6tc9v8",
-      "title": "NVIDIA Nemotron 3.5 Super 上线 fal",
-      "title_en": "Try it now.",
-      "url": "https://x.com/fal/status/2110762189875478846",
-      "permalink": "https://aihot.news/items/e9hr34yx4hyi7kpx3ef6tc9v8",
-      "source": "X：fal (@fal)",
-      "publishedAt": "2026-10-15T15:58:16.000Z",
-      "discoveredAt": "2026-10-15T16:19:29.430Z",
-      "summary": "立即体验。\n\n文本：https://fal.ai/models/nvidia/nemotron-3-5-super/text\n视觉：https://fal.ai/models/nvidia/nemotron-3-5-super/vision\n视频：https://fal.ai/models/nvidia/nemotron-3-5-super/video",
-      "category": "ai-products",
-      "score": 41,
+      "id": "wk83jwtn2s9gvhoaylkb46qte",
+      "title": "Meta 发布 Muse Spark Open：816B 开源权重 MoE 模型，支持 1M 上下文",
+      "title_en": "Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context",
+      "url": "https://www.marktechpost.com/2026/10/15/meta-muse-spark-open-816b-open-weight-model/",
+      "permalink": "https://aihot.news/items/wk83jwtn2s9gvhoaylkb46qte",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-10-16T02:26:04.000Z",
+      "discoveredAt": "2026-10-16T04:10:46.089Z",
+      "summary": "Meta Superintelligence Labs 发布 Muse Spark 模型的开源权重版本 Muse Spark Open，为 816B 总参数、每 token 激活 42B 的多模态 MoE 模型，支持文本、图像、视频和音频输入，上下文窗口 1M token。",
+      "category": "ai-models",
+      "score": 82,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/e9hr34yx4hyi7kpx3ef6tc9v8"
+        "canonical": "https://aihot.news/items/wk83jwtn2s9gvhoaylkb46qte"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cjr36dky395c2wo2bbonp99wm",
+      "title": "OpenRouter 上架 Moondream3.1 9B 多模态模型，32K 上下文支持可选推理",
+      "title_en": "Small vision-language models (9B total, 2B active MoE): image + text in, 32K context, optional reasoning. Use /caption {\"length\":\"normal\"...",
+      "url": "https://x.com/OpenRouter/status/2110874130799346145",
+      "permalink": "https://aihot.news/items/cjr36dky395c2wo2bbonp99wm",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-10-15T23:23:05.000Z",
+      "discoveredAt": "2026-10-15T23:49:44.403Z",
+      "summary": "OpenRouter 宣布上架 moondream3.1-9b-a2b 视觉语言模型，9B 总参数、2B 激活的 MoE 架构，支持图像加文本输入、32K 上下文和可选推理。可通过 /caption {\"length\":\"normal\"} 生成图像描述，定价为输入 $0.30/M、输出 $2.50/M tokens。",
+      "category": "ai-products",
+      "score": 52,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cjr36dky395c2wo2bbonp99wm"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
@@ -848,7 +1015,60 @@
       "editorialScore": 11,
       "tags": [
         "视觉",
-        "视频"
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "sl9fgcgercthc13x4yjgsn1y2",
+      "title": "科技反弹浪潮登上大银幕：2026 年多部硅谷批判电影集中上映",
+      "title_en": "The tech backlash is now in theaters",
+      "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+      "permalink": "https://aihot.news/items/sl9fgcgercthc13x4yjgsn1y2",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-10-15T21:39:52.000Z",
+      "discoveredAt": "2026-10-15T22:00:44.263Z",
+      "summary": "2026 年多部以硅谷科技创始人为原型的批判性电影集中上映，包括聚焦 Mark Zuckerberg 的《The Social Reckoning》、讲述 Elizabeth Holmes 的《You Can See Everything》、刻画 Elon Musk 的 Gibney 纪录片，以及把 Sam Altman 塑造成操纵型人物的《Artificial》。",
+      "category": "opinion",
+      "score": 46,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/sl9fgcgercthc13x4yjgsn1y2"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
+      "tags": [
+        "原型"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "nzivp569p8g6npy6q5u6fnb6q",
+      "title": "Meta 发布开源权重模型 Muse Spark Open，816B 参数对标 Qwen、GLM 和 Kimi",
+      "title_en": "Muse Spark Open is Meta's answer to Qwen, GLM, and Kimi in the open-weight race",
+      "url": "https://the-decoder.com/muse-spark-open-is-metas-answer-to-qwen-glm-and-kimi-in-the-open-weight-race/",
+      "permalink": "https://aihot.news/items/nzivp569p8g6npy6q5u6fnb6q",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-10-15T18:34:32.000Z",
+      "discoveredAt": "2026-10-15T18:52:29.959Z",
+      "summary": "Meta 在 Llama 系列之后重返开源权重领域，发布 Muse Spark Open，称其为最强美国开源权重模型，816B 参数（42B 激活），支持最高 100 万 token 上下文和文本、图像、视频、音频。",
+      "category": "ai-models",
+      "score": 75,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/nzivp569p8g6npy6q5u6fnb6q"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视频",
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -906,6 +1126,33 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "fxbpw94p89qe74owlv2kg4d2e",
+      "title": "Meta 发布开放权重模型 Muse Spark Open，总参数量 816B、支持 1M token 上下文",
+      "title_en": "宣称“美国最强开源 AI 模型”：Meta 发布 Muse Spark Open",
+      "url": "https://www.ithome.com/1/013/706.htm",
+      "permalink": "https://aihot.news/items/fxbpw94p89qe74owlv2kg4d2e",
+      "source": "IT之家·人工智能",
+      "publishedAt": "2026-10-15T23:36:51.787Z",
+      "discoveredAt": "2026-10-16T00:20:42.567Z",
+      "summary": "Meta 于 10 月 15 日发布开放权重 AI 模型 Muse Spark Open，官方宣称其为迄今能力最强的美国开放权重模型。模型采用原生多模态架构，总参数量 816B（激活参数 42B），支持 1M token 上下文窗口，专为代码构建与智能体协作设计，可凭两台搭载苹果 M5 Ultra 芯片（512 GB 内存）的 Mac Studio 在桌面端本地运行。",
+      "category": "ai-models",
+      "score": 77,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/fxbpw94p89qe74owlv2kg4d2e"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "bzjaf12l91gn8us7kan8qq0q0",
@@ -990,141 +1237,56 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "alrar23ypkk6umkz50eirp35h",
-      "title": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
-      "title_en": "分享一个最近很惊艳的开源Skill，一句话让AI搓出任何原理的科普视频。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687109&idx=1&sn=032fd9f6aab5ee20ea5d14f97bf48a86",
-      "permalink": "https://aihot.news/items/alrar23ypkk6umkz50eirp35h",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-10-15T00:26:00.000Z",
-      "discoveredAt": "2026-10-15T02:13:11.058Z",
-      "summary": "作者数字生命卡兹克分享开源 Skill Anatomy，其理念是\"物体本身，就是解释\"，可将抽象原理做成可交互的机械模型动画，还能在其上生成带讲解配音的科普视频。",
+      "id": "uyaizwwjm5enbr3st7j2tpr0c",
+      "title": "GitHub 如何用 Evergreen 自动化共享组织的访问审查与仓库清理",
+      "title_en": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+      "url": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
+      "permalink": "https://aihot.news/items/uyaizwwjm5enbr3st7j2tpr0c",
+      "source": "GitHub Blog",
+      "publishedAt": "2026-10-15T18:00:00.000Z",
+      "discoveredAt": "2026-10-15T22:06:43.868Z",
+      "summary": "GitHub 用原生功能构建的 GitHub App Evergreen，通过两个工作流自动化组织卫生：每季度审查外部协作者访问权限，未响应即默认撤销；检测并归档长期无人类活动的仓库，且从不删除仓库内容。它由 Go webhook 服务器驱动，状态以 JSON 文件提交到 controller repo，用 git 历史充当审计记录，决策通过仓库内的 checklist issue 完成。",
       "category": "tip",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/alrar23ypkk6umkz50eirp35h"
-      },
-      "sourceType": "公众号",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "交互",
-        "视频",
-        "skill"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "qs32ntgtneo0jgsr88wibe02t",
-      "title": "NVIDIA Nemotron 3.5 Super VL 发布，vLLM 提供首发支持",
-      "title_en": "Announcing Day 0 Support for NVIDIA Nemotron 3.5 Super VL on vLLM",
-      "url": "https://vllm.ai/blog/2026-10-15-nemotron-3-5-super-vl-vllm",
-      "permalink": "https://aihot.news/items/qs32ntgtneo0jgsr88wibe02t",
-      "source": "vLLM 官方博客（RSS）",
-      "publishedAt": "2026-10-15T00:00:00.000Z",
-      "discoveredAt": "2026-10-15T15:36:28.557Z",
-      "summary": "NVIDIA 发布开源多模态模型 Nemotron 3.5 Super VL，vLLM 提供 Day 0 支持。模型基于 120B 总参数、12B 激活的 MoE 架构，结合推理、工具调用与文档、图像、视频理解，采用混合 Mamba-Transformer 架构、多 token 预测和 NVFP4 量化。",
-      "category": "ai-products",
-      "score": 55,
+      "score": 50,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/qs32ntgtneo0jgsr88wibe02t"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "lr5xqg7norv4p6x8bfsba8kkg",
-      "title": "OpenHands 与 NVIDIA 合作，将 Nemotron 3.5 Super VL 多模态模型引入软件工程智能体",
-      "title_en": "OpenHands and NVIDIA Bring Multimodal AI to Software Engineering Agents",
-      "url": "https://www.openhands.dev/blog/nvidia-nemotron-3.5-super-vl",
-      "permalink": "https://aihot.news/items/lr5xqg7norv4p6x8bfsba8kkg",
-      "source": "OpenHands 官方博客",
-      "publishedAt": "2026-10-15T00:00:00.000Z",
-      "discoveredAt": "2026-10-15T15:40:32.157Z",
-      "summary": "作为 NVIDIA 发布合作伙伴，OpenHands 将开源多模态模型 Nemotron 3.5 Super VL 引入常驻软件工程智能体工作流。该模型基于 120B 参数 MoE 架构、12B 激活参数，支持文本、图像、文档和视频输入并输出文本，将多模态理解与智能体推理和工具调用结合。",
-      "category": "ai-products",
-      "score": 40,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/lr5xqg7norv4p6x8bfsba8kkg"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "工作流",
-        "视频",
-        "图像",
-        "智能体"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "vqo4g7bc37tap7kw8wffuzl66",
-      "title": "Narayanan 与 Unger 提出超越自动化的人机协作 AI 研究议程",
-      "title_en": "Steering AI Beyond Automation",
-      "url": "https://www.normaltech.ai/p/steering-ai-beyond-automation",
-      "permalink": "https://aihot.news/items/vqo4g7bc37tap7kw8wffuzl66",
-      "source": "AI as Normal Technology（RSS）",
-      "publishedAt": "2026-10-14T19:56:44.000Z",
-      "discoveredAt": "2026-10-14T20:05:18.025Z",
-      "summary": "Stanford Digital Economy Lab 经济学家 Gabriel Unger 与 Arvind Narayanan 撰文主张 AI 不应只朝全面自动化发展，而应构建人机协作范式。",
-      "category": "opinion",
-      "score": 59,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/vqo4g7bc37tap7kw8wffuzl66"
+        "canonical": "https://aihot.news/items/uyaizwwjm5enbr3st7j2tpr0c"
       },
       "sourceType": "网站",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
+      "relevanceScore": 8,
+      "editorialScore": 9,
       "tags": [
-        "自动化",
-        "automation"
+        "工作流",
+        "自动化"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "cbcvp2us4sfl90b6hpoggc2yy",
-      "title": "Claude Code v2.1.300 发布：新增虚拟文本、缓存写入拆分与 /advisor",
-      "title_en": "v2.1.300",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.300",
-      "permalink": "https://aihot.news/items/cbcvp2us4sfl90b6hpoggc2yy",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "publishedAt": "2026-10-14T18:24:25.000Z",
-      "discoveredAt": "2026-10-14T18:54:25.122Z",
-      "summary": "Claude Code v2.1.300 发布，为 mod 的提示词装饰新增 virtualText，并新增 $.ui.view({ agentId }) 用于在主视图查看智能体对话记录。",
-      "category": "ai-products",
-      "score": 47,
-      "selected": false,
+      "id": "s80tw5g2v22j1se4bmqejyaq4",
+      "title": "Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文",
+      "title_en": "Muse Spark Is Now an Open-Weights Model",
+      "url": "https://pytorch.org/blog/muse-spark-open/",
+      "permalink": "https://aihot.news/items/s80tw5g2v22j1se4bmqejyaq4",
+      "source": "PyTorch：Blog（RSS）",
+      "publishedAt": "2026-10-15T17:55:52.000Z",
+      "discoveredAt": "2026-10-15T18:49:28.354Z",
+      "summary": "Meta 发布开源权重模型 Muse Spark Open，已在 Hugging Face 以 Muse Model License 提供。模型总参数 816B、激活 42B，上下文窗口 1M token，面向编码与智能体工作流，原生多模态（图像、音频、文档），并相比 8 月发布的 Muse Spark 增加了安全后训练。",
+      "category": "ai-models",
+      "score": 83,
+      "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cbcvp2us4sfl90b6hpoggc2yy"
+        "canonical": "https://aihot.news/items/s80tw5g2v22j1se4bmqejyaq4"
       },
       "sourceType": "网站",
       "designCategory": "工作流与 Agent",
       "relevanceScore": 7,
       "editorialScore": 8,
       "tags": [
-        "ui",
-        "提示词",
-        "claude code",
+        "工作流",
+        "图像",
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
@@ -1153,33 +1315,6 @@
       "tags": [
         "工作流",
         "agent"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "ojpe4mr67tjbrt5atyi6hyapl",
-      "title": "Google 工程师讲解如何系统评测 AI 智能体，告别 vibe check",
-      "title_en": "Evaluating AI agents: moving past the vibe check",
-      "url": "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/",
-      "permalink": "https://aihot.news/items/ojpe4mr67tjbrt5atyi6hyapl",
-      "source": "Google Developers Blog（RSS）",
-      "publishedAt": "2026-10-15T00:00:00.000Z",
-      "discoveredAt": "2026-10-15T14:27:32.772Z",
-      "summary": "Google Developers Blog 发布智能体评测实践指南，指出仅靠终端跑几个提示词的 vibe check 无法发现智能体重试循环、工具参数幻觉等隐性失败。",
-      "category": "tip",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ojpe4mr67tjbrt5atyi6hyapl"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "提示词",
-        "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
