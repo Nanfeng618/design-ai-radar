@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-16T11:24:28.646Z",
-  "previousGeneratedAt": "2026-10-16T04:31:53.263Z",
+  "generatedAt": "2026-10-16T16:39:42.710Z",
+  "previousGeneratedAt": "2026-10-16T11:24:28.646Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 47,
+  "itemCount": 46,
   "sourceCounts": {
     "X": 24,
     "网站": 20,
-    "公众号": 3
+    "公众号": 2
   },
   "source": {
     "name": "AI HOT",
@@ -274,33 +274,6 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "msude2fq8mt2rsicw5wqnwx4h",
-      "title": "美国八个州分别在州法院起诉 OpenAI，指控 ChatGPT 对儿童不安全",
-      "title_en": "Reuters: Eight states have sued OpenAI separately in their own courts, alleging ChatGPT is unsafe for children and that the company misle...",
-      "url": "https://x.com/rohanpaul_ai/status/2110659816079413664",
-      "permalink": "https://aihot.news/items/msude2fq8mt2rsicw5wqnwx4h",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-10-15T09:11:28.000Z",
-      "discoveredAt": "2026-10-15T09:39:28.645Z",
-      "summary": "据 Reuters，Iowa、Kansas、Nebraska、West Virginia、Arkansas、Arizona、Idaho 和 Montana 八个州分别向州法院起诉 OpenAI，指控 ChatGPT 对儿童不安全且公司误导家长，涉及消费者保护违规和危害居民健康的公共妨害。诉讼直指产品设计，称 ChatGPT 被设计得讨人喜欢、让人信任，进而强化妄想、鼓励危险行为并协助策划暴力。",
-      "category": "industry",
-      "score": 72,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/msude2fq8mt2rsicw5wqnwx4h"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 14,
-      "editorialScore": 18,
-      "tags": [
-        "产品设计",
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "qcej2c1tmdyax7eq3v87h45ob",
       "title": "fal 上线 Krea v3 文生图模型",
       "title_en": "@krea_ai Text-to-image: https://fal.ai/models/krea/v3/text-to-image",
@@ -499,6 +472,62 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "y3kwpw0akme33xx3t1njrk6m2",
+      "title": "This Week in AI：OpenAI 智能 UI、Claude Dashboards 与 Mistral Large 4 预览",
+      "title_en": "This Week in AI: Expanding the Possibilities",
+      "url": "https://www.oreilly.com/radar/this-week-in-ai-expanding-the-possibilities/",
+      "permalink": "https://aihot.news/items/y3kwpw0akme33xx3t1njrk6m2",
+      "source": "O'Reilly Radar（热点 RSS）",
+      "publishedAt": "2026-10-16T15:55:01.000Z",
+      "discoveredAt": "2026-10-16T16:37:17.468Z",
+      "summary": "OpenAI 为 ChatGPT 推出 Intelligent UI，可在对话中生成可视化解释和交互工具，并上线 MCP Events 让已连接应用主动通知 ChatGPT 触发动作；Anthropic 为 Claude 带来自然语言查询企业数据的 Dashboards 和把报告图表转为可编辑动画的 Motion。",
+      "category": "industry",
+      "score": 45,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/y3kwpw0akme33xx3t1njrk6m2"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 10,
+      "editorialScore": 14,
+      "tags": [
+        "ui",
+        "交互",
+        "mcp"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "s36xl0gellk4aharu95lz6fqb",
+      "title": "OpenRouter 公布图像生成定价与 thinking_mode",
+      "title_en": "Pricing: $0.03 per image at 1K, $0.06 at 2K",
+      "url": "https://x.com/OpenRouter/status/2111064738243428383",
+      "permalink": "https://aihot.news/items/s36xl0gellk4aharu95lz6fqb",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-10-16T12:00:29.000Z",
+      "discoveredAt": "2026-10-16T12:13:17.160Z",
+      "summary": "定价：1K 每张 $0.03，2K 每张 $0.06\n参考图 1K 每张 $0.02，2K 每张 $0.07\nthinking_mode：fast 为默认\n当编辑需要对提示词进行更多推理时，设为 high（+$0.02）",
+      "category": "ai-products",
+      "score": 44,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/s36xl0gellk4aharu95lz6fqb"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "图像生成",
+        "图像",
+        "提示词"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "l3rw2ygavn6hbrxd57iy0c1oi",
       "title": "ElevenLabs 推出 Instant Soundtracks，一步为视频生成配乐和音效",
       "title_en": "Instant Soundtracks let you elevate any video with music and sound effects, in one pass.",
@@ -524,34 +553,6 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "y644vvk57qg24wzofrfrrrrvv",
-      "title": "蚂蚁百灵 Ling-3.1-flash 获 vLLM Day-0 支持，可部署到开发者自有基础设施",
-      "title_en": "Big thanks @vllm_project for making Ling-3.1-flash ready to run on developers’ own infrastructure from day one!",
-      "url": "https://x.com/AntLingAGI/status/2110709964394442977",
-      "permalink": "https://aihot.news/items/y644vvk57qg24wzofrfrrrrvv",
-      "source": "X：蚂蚁百灵 (@AntLingAGI)",
-      "publishedAt": "2026-10-15T12:30:45.000Z",
-      "discoveredAt": "2026-10-15T12:38:28.629Z",
-      "summary": "蚂蚁百灵感谢 vLLM 对 Ling-3.1-flash 提供 Day-0 支持，开发者可从第一天起用 vLLM 在自有基础设施上运行该模型。vLLM 侧信息显示该模型总参数约 560B、每 token 激活约 25B、支持最高 1M 上下文，可从简单需求描述生成网站、移动 UI 和交互原型。",
-      "category": "ai-products",
-      "score": 58,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/y644vvk57qg24wzofrfrrrrvv"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 10,
-      "editorialScore": 14,
-      "tags": [
-        "原型",
-        "ui",
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "eoi8j7vxmnyyxqx0bo5swt6uc",
@@ -803,31 +804,33 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "v12hh9hry7i7vzfj1foaj5xao",
-      "title": "LLM-to-Flow Distillation 用自然语言目标操控药物设计生成模型",
-      "title_en": "You can now type what you want in plain English and have a drug-design model chase it.",
-      "url": "https://x.com/rohanpaul_ai/status/2110693751127679353",
-      "permalink": "https://aihot.news/items/v12hh9hry7i7vzfj1foaj5xao",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-10-15T11:26:19.000Z",
-      "discoveredAt": "2026-10-15T11:43:28.151Z",
-      "summary": "ETH Zurich 等机构团队提出 LLM-to-Flow Distillation（LFD），让科学生成模型直接追随自然语言发现目标，如设计具抗癌活性的多肽。",
-      "category": "paper",
-      "score": 55,
+      "id": "vczdbqpsoedeuvj203olwwq3j",
+      "title": "Kling 4.0 在 kling.ai 全量开放，可灵 AI 在 Advertising Week New York 2026 与 WPP、Adobe 探讨 AI 视频落地",
+      "title_en": "At Advertising Week New York 2026, Kling AI joined WPP and Adobe to explore how AI video is moving from creative experimentation into rea...",
+      "url": "https://x.com/Kling_ai/status/2111109915083264065",
+      "permalink": "https://aihot.news/items/vczdbqpsoedeuvj203olwwq3j",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-10-16T15:00:00.000Z",
+      "discoveredAt": "2026-10-16T15:12:16.077Z",
+      "summary": "可灵 AI 宣布 Kling 4.0 现已在 kling.ai 全量可用，提供更精细的运动、更精准的创作控制和专业级音视频输出。此前的 Advertising Week New York 2026（10 月 6 日，纽约）上，可灵与 WPP、Adobe 探讨了 AI 视频从创意实验走向实际生产，认为下一阶段重点在于连接模型、工具和工作流，让创意以更高一致性和可控性规模化。",
+      "category": "ai-products",
+      "score": 52,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/v12hh9hry7i7vzfj1foaj5xao"
+        "canonical": "https://aihot.news/items/vczdbqpsoedeuvj203olwwq3j"
       },
       "sourceType": "X",
-      "designCategory": "产品与体验",
+      "designCategory": "图像与视频",
       "relevanceScore": 9,
-      "editorialScore": 13,
+      "editorialScore": 12,
       "tags": [
-        "design",
-        "设计"
+        "adobe",
+        "可灵",
+        "工作流",
+        "创意"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "bvljy29i9xwh3wnkwign3npt4",
@@ -882,32 +885,6 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "xdzayggl3v8fdl91ove62micc",
-      "title": "反编译社区 decomp.dev 因 AI 过度涌入宣布关站",
-      "title_en": "Video Game Reverse Engineering Community Shuts Down Because AI Has Made It Too Easy",
-      "url": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/",
-      "permalink": "https://aihot.news/items/xdzayggl3v8fdl91ove62micc",
-      "source": "404 Media（RSS）",
-      "publishedAt": "2026-10-15T16:31:30.000Z",
-      "discoveredAt": "2026-10-15T16:56:34.774Z",
-      "summary": "游戏反编译协作网站 decomp.dev 宣布关站，管理员 Encounter 称 AI 已破坏反编译的社区协作基础，人类主导项目难以追踪，还出现用 AI 完结人类开源项目的敌意 fork。文中提到 GPT-6-Astra 等模型让反编译变得容易，出现 decomp.wtf 等专用工具，并延伸讨论 Adobe、Microsoft Office 的 AI 克隆潮及 SaaS 商业模式受到的冲击。",
-      "category": "industry",
-      "score": 65,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/xdzayggl3v8fdl91ove62micc"
-      },
-      "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 7,
-      "editorialScore": 12,
-      "tags": [
-        "adobe"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "wk83jwtn2s9gvhoaylkb46qte",
@@ -988,6 +965,33 @@
         "原型"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "woqbnv189c49oe1da5it1jo2s",
+      "title": "OpenUI 1.0 发布，把生成式 UI 带给所有 Agent 和模型",
+      "title_en": "This is a good news for front-end engineers.",
+      "url": "https://x.com/rohanpaul_ai/status/2110826849249149020",
+      "permalink": "https://aihot.news/items/woqbnv189c49oe1da5it1jo2s",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-10-15T20:15:12.000Z",
+      "discoveredAt": "2026-10-15T20:28:43.636Z",
+      "summary": "OpenUI 团队发布 OpenUI 1.0，把 ChatGPT 已内置的生成式 UI 能力带给其他应用和 Agent，支持闭源、开源及自托管模型，UI 层不绑定单一供应商。",
+      "category": "ai-products",
+      "score": 64,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/woqbnv189c49oe1da5it1jo2s"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 7,
+      "editorialScore": 11,
+      "tags": [
+        "ui",
+        "agent"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "nzivp569p8g6npy6q5u6fnb6q",
@@ -1236,28 +1240,28 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "sdxz21fvynh39ezmkgjfno58y",
-      "title": "小红书 AllSpark 提出 CompoWorld：用组合式环境扩展通用 Agent 训练",
-      "title_en": "从单服务到跨应用工作流：小红书 AllSpark 提出 CompoWorld，探索组合式环境扩展",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496655&idx=1&sn=3463687dc709bc15539816a09b9b9dbe",
-      "permalink": "https://aihot.news/items/sdxz21fvynh39ezmkgjfno58y",
-      "source": "公众号：小红书技术（dots.llm）",
-      "publishedAt": "2026-10-15T10:05:42.000Z",
-      "discoveredAt": "2026-10-15T10:42:25.068Z",
-      "summary": "小红书 AllSpark 团队提出 CompoWorld，通过组合可复用服务来扩展通用 Agent 的训练环境与任务空间，构建了 448 个服务、10,130 个工具。团队用 3K 条 SFT 轨迹和 1K 个 RL 任务训练 Qwen3.6-35B-A3B，在八项 Agent 基准上平均提升 9.17 分，AutomationBench 成功率从 10.33% 升至 32.33%。",
-      "category": "paper",
-      "score": 48,
+      "id": "p7ndystyswt8gla8nikxtf58k",
+      "title": "AI Agent 还是 Workflow？Dify 详解如何选择合适方案",
+      "title_en": "AI Agent or Workflow? How to Choose the Right Approach",
+      "url": "https://dify.ai/zh/blog/ai-agent-or-workflow-how-to-choose-the-right-approach",
+      "permalink": "https://aihot.news/items/p7ndystyswt8gla8nikxtf58k",
+      "source": "Dify Blog",
+      "publishedAt": "2026-10-16T12:00:00.000Z",
+      "discoveredAt": "2026-10-16T11:01:16.607Z",
+      "summary": "Dify 发文讲解 AI Agent 与 Workflow 的区别：Agent 由模型在运行时从获批工具中选择下一步，Workflow 则由搭建者预先定义步骤与分支。文章建议流程固定可重复时用 Workflow，需逐次判断时用 Agent，并可在 Workflow 中嵌入 Agent 节点处理单个灵活环节。",
+      "category": "tip",
+      "score": 36,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/sdxz21fvynh39ezmkgjfno58y"
+        "canonical": "https://aihot.news/items/p7ndystyswt8gla8nikxtf58k"
       },
-      "sourceType": "公众号",
+      "sourceType": "网站",
       "designCategory": "工作流与 Agent",
       "relevanceScore": 6,
       "editorialScore": 7,
       "tags": [
-        "工作流",
+        "workflow",
         "agent"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
@@ -1285,33 +1289,6 @@
       "editorialScore": 6,
       "tags": [
         "广告"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "f6wm1u4huahekganurrbdqyhi",
-      "title": "404 Media 实测揭示 ChatGPT 如何基于提示词、手机号和邮箱定向投放广告",
-      "title_en": "How ChatGPT Targets Ads To You Based On Your Prompts, Phone Number, and Email",
-      "url": "https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email/",
-      "permalink": "https://aihot.news/items/f6wm1u4huahekganurrbdqyhi",
-      "source": "404 Media（RSS）",
-      "publishedAt": "2026-10-15T13:25:19.000Z",
-      "discoveredAt": "2026-10-15T13:54:30.019Z",
-      "summary": "404 Media 通过自行在 ChatGPT 投放广告实测发现，OpenAI 允许广告主基于用户邮箱、手机号、Android 广告 ID 以及用户输入的提示词定向投放广告。定向名单需超过 25,000 条才能用于包含定向；OpenAI 称上传文件通常在 24 小时内删除，用户可关闭广告个性化但广告和追踪不会完全停止。",
-      "category": "industry",
-      "score": 74,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/f6wm1u4huahekganurrbdqyhi"
-      },
-      "sourceType": "网站",
-      "designCategory": "行业观察",
-      "relevanceScore": 6,
-      "editorialScore": 6,
-      "tags": [
-        "广告",
-        "提示词"
       ],
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     }
