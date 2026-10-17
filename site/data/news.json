@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-16T16:39:42.710Z",
-  "previousGeneratedAt": "2026-10-16T11:24:28.646Z",
+  "generatedAt": "2026-10-17T04:26:03.655Z",
+  "previousGeneratedAt": "2026-10-16T16:39:42.710Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 46,
+  "itemCount": 37,
   "sourceCounts": {
     "X": 24,
-    "网站": 20,
-    "公众号": 2
+    "网站": 12,
+    "公众号": 1
   },
   "source": {
     "name": "AI HOT",
@@ -40,150 +40,6 @@
         "视频生成",
         "flux",
         "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "oxv2a9i4wrlyev8jubi8il8l8",
-      "title": "Black Forest Labs 发布开源权重模型 FLUX 3 Image Klein，8 GB 显存即可运行",
-      "title_en": "Black Forest Labs' open-weights image model FLUX 3 Image Klein runs on consumer GPUs with just 8 GB of VRAM",
-      "url": "https://the-decoder.com/black-forest-labs-open-weights-image-model-flux-3-image-klein-runs-on-consumer-gpus-with-just-8-gb-of-vram/",
-      "permalink": "https://aihot.news/items/oxv2a9i4wrlyev8jubi8il8l8",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-10-15T16:57:14.000Z",
-      "discoveredAt": "2026-10-15T17:51:32.071Z",
-      "summary": "Black Forest Labs 发布 5.6B 参数的开源权重文生图模型 FLUX 3 Image Klein，支持文生图、图像编辑、最多十张参考图、原生 4K 输出、像素级编辑和边界框元素放置，内部测试中 Elo 超过 Ideogram V4.5 和自家 FLUX.2 [pro]，比 9B 参数的 FLUX.2 [klein] 高 91 Elo。",
-      "category": "ai-models",
-      "score": 78,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/oxv2a9i4wrlyev8jubi8il8l8"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 23,
-      "editorialScore": 26,
-      "tags": [
-        "文生图",
-        "生图",
-        "flux",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "cwwqjqtzwkqndc1gxqzx935gv",
-      "title": "FLUX 3 Image Klein 图像模型上线 fal 平台",
-      "title_en": "FLUX 3 Image Klein by @bfl_ai is now on fal",
-      "url": "https://x.com/fal/status/2110756319804211318",
-      "permalink": "https://aihot.news/items/cwwqjqtzwkqndc1gxqzx935gv",
-      "source": "X：fal (@fal)",
-      "publishedAt": "2026-10-15T15:34:57.000Z",
-      "discoveredAt": "2026-10-15T15:48:28.146Z",
-      "summary": "fal 宣布 Black Forest Labs 的 FLUX 3 Image Klein 上线 fal 平台，提供 Klein 与 Klein Base 两个版本，支持文生图和图像编辑。用户可画框获得精确布局、从参考图中选取物体并放置到指定位置、通过框编辑、迁移风格并渲染文字。",
-      "category": "ai-products",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cwwqjqtzwkqndc1gxqzx935gv"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 23,
-      "editorialScore": 26,
-      "tags": [
-        "文生图",
-        "生图",
-        "flux",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "ybc0etkws56yxmrveyttxz3lm",
-      "title": "Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B）",
-      "title_en": "FLUX 3 Image Klein",
-      "url": "https://bfl.ai/blog/flux-3-image-klein",
-      "permalink": "https://aihot.news/items/ybc0etkws56yxmrveyttxz3lm",
-      "source": "Black Forest Labs：Blog（网页）",
-      "publishedAt": "2026-10-15T15:00:00.000Z",
-      "discoveredAt": "2026-10-15T15:47:30.370Z",
-      "summary": "Black Forest Labs 发布 5.6B 参数开源权重模型 FLUX 3 Image Klein，支持文生图、图像编辑和最多 10 张参考图的多参考生成，采用 FLUX Kommunity License。",
-      "category": "ai-models",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ybc0etkws56yxmrveyttxz3lm"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 23,
-      "editorialScore": 26,
-      "tags": [
-        "文生图",
-        "生图",
-        "flux",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "m7q2n69hfefugj44z24oi66iu",
-      "title": "fal 上线 FLUX.3 Klein 文生图与图像编辑模型入口",
-      "title_en": "@bfl_ai Try it here today!",
-      "url": "https://x.com/fal/status/2110756322408870093",
-      "permalink": "https://aihot.news/items/m7q2n69hfefugj44z24oi66iu",
-      "source": "X：fal (@fal)",
-      "publishedAt": "2026-10-15T15:34:57.000Z",
-      "discoveredAt": "2026-10-15T15:48:28.140Z",
-      "summary": "fal 宣布 FLUX.3 Klein 模型现可在其平台试用，提供文生图和图像编辑两类入口，另有对应的 Base 版本，链接分别为 https://fal.ai/models/blackforestlabs/flux-3/klein/text-to-image 、https://fal.ai/models/blackforestlabs/flux-3/klein/edit-image 、https://fal.ai/models/blackforestlabs/flux-3/klein/base/text-to-image 和 https://fal.ai/models/blackforestlabs/flux-3/klein/base/edit-image 。",
-      "category": "ai-products",
-      "score": 59,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/m7q2n69hfefugj44z24oi66iu"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 22,
-      "editorialScore": 25,
-      "tags": [
-        "文生图",
-        "生图",
-        "flux",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "vz4iplz42726m6117wuwtqrf5",
-      "title": "Black Forest Labs 发布开源权重模型 FLUX 3 Image Klein，5.6B 参数支持原生 4K 生成",
-      "title_en": "FLUX 3 Image Klein in ComfyUI: 5.6B Open Weights",
-      "url": "https://blog.comfy.org/p/flux-3-image-klein-in-comfyui-56b",
-      "permalink": "https://aihot.news/items/vz4iplz42726m6117wuwtqrf5",
-      "source": "Comfy Blog",
-      "publishedAt": "2026-10-15T17:57:34.000Z",
-      "discoveredAt": "2026-10-15T18:43:28.209Z",
-      "summary": "Black Forest Labs 在 ComfyUI 发布 FLUX 3 家族的紧凑开源权重模型 FLUX 3 Image Klein，共 5.6B 参数，提供 Base 和 Distilled 两种版本，内部评测中文生图和多参考生成得分高于 Qwen-Image 2.1。",
-      "category": "ai-models",
-      "score": 71,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/vz4iplz42726m6117wuwtqrf5"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 20,
-      "editorialScore": 23,
-      "tags": [
-        "文生图",
-        "生图",
-        "flux"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -245,118 +101,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "u018yjfevfschvi4zmzimjxim",
-      "title": "Adobe 与 NVIDIA 扩大合作，用 RTX Spark 加速智能体创作",
-      "title_en": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
-      "url": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
-      "permalink": "https://aihot.news/items/u018yjfevfschvi4zmzimjxim",
-      "source": "NVIDIA：Newsroom（RSS）",
-      "publishedAt": "2026-10-15T17:00:00.000Z",
-      "discoveredAt": "2026-10-15T17:22:32.965Z",
-      "summary": "Adobe 与 NVIDIA 扩大合作，将 NVIDIA RTX Spark 超级芯片引入 Photoshop、Premiere 和 Substance 3D 等智能体创作应用，AI 处理、编辑、调色与特效速度最高提升 2 倍。",
-      "category": "industry",
-      "score": 40,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/u018yjfevfschvi4zmzimjxim"
-      },
-      "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 13,
-      "editorialScore": 18,
-      "tags": [
-        "photoshop",
-        "adobe",
-        "3d",
-        "智能体"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "qcej2c1tmdyax7eq3v87h45ob",
-      "title": "fal 上线 Krea v3 文生图模型",
-      "title_en": "@krea_ai Text-to-image: https://fal.ai/models/krea/v3/text-to-image",
-      "url": "https://x.com/fal/status/2110761834709995831",
-      "permalink": "https://aihot.news/items/qcej2c1tmdyax7eq3v87h45ob",
-      "source": "X：fal (@fal)",
-      "publishedAt": "2026-10-15T15:56:52.000Z",
-      "discoveredAt": "2026-10-15T16:19:29.456Z",
-      "summary": "@krea_ai 文生图：https://fal.ai/models/krea/v3/text-to-image",
-      "category": "ai-products",
-      "score": 32,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/qcej2c1tmdyax7eq3v87h45ob"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 14,
-      "editorialScore": 17,
-      "tags": [
-        "文生图",
-        "生图"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "fn8j1g8wq591c5m07x8fz11jj",
-      "title": "fal 上线 Krea v3 文生图模型",
-      "title_en": "Text-to-image: https://fal.ai/models/krea/v3/text-to-image",
-      "url": "https://x.com/fal/status/2110760704416313673",
-      "permalink": "https://aihot.news/items/fn8j1g8wq591c5m07x8fz11jj",
-      "source": "X：fal (@fal)",
-      "publishedAt": "2026-10-15T15:52:22.000Z",
-      "discoveredAt": "2026-10-15T16:19:29.483Z",
-      "summary": "文生图：https://fal.ai/models/krea/v3/text-to-image",
-      "category": "ai-products",
-      "score": 30,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/fn8j1g8wq591c5m07x8fz11jj"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 14,
-      "editorialScore": 17,
-      "tags": [
-        "文生图",
-        "生图"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "qb80oc9oxi6d1lffkuvfskl10",
-      "title": "Black Forest Labs FLUX 3 系列登陆 OpenRouter：Image Klein 开源权重、视频 upscale 降价并支持 4K 生成",
-      "title_en": "New from @bfl_ai on OpenRouter today:",
-      "url": "https://x.com/OpenRouter/status/2110803343878873473",
-      "permalink": "https://aihot.news/items/qb80oc9oxi6d1lffkuvfskl10",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-10-15T18:41:48.000Z",
-      "discoveredAt": "2026-10-15T19:11:29.987Z",
-      "summary": "OpenRouter 宣布 Black Forest Labs（@bfl_ai）三项新内容上线。FLUX 3 Image Klein 是新的开源权重图像模型，可在单张消费级 GPU 上运行；改进版 FLUX Video Upscale 开启 early access，可将任意视频转为 4K，价格从 $0.59/s 降至 $0.28/s；FLUX 3 Video 现已支持从提示词直接生成 4K 视频。",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/qb80oc9oxi6d1lffkuvfskl10"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 13,
-      "editorialScore": 16,
-      "tags": [
-        "flux",
-        "视频",
-        "图像",
-        "提示词"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "ax2dk4iozv9zi9ey1o340qbry",
       "title": "NVIDIA 发布 120B 开源多模态智能体模型 Nemotron 3.5 Super VL",
       "title_en": "NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model",
@@ -386,86 +130,28 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "r0j5nc3j3kkoayheni6wjrdh8",
-      "title": "Thesys 发布开源框架 OpenUI 1.0，让智能体在应用内生成可运行界面",
-      "title_en": "Thesys has released OpenUI 1.0, its open-source framework that lets agents create working interfaces inside apps.",
-      "url": "https://x.com/testingcatalog/status/2110765439798087835",
-      "permalink": "https://aihot.news/items/r0j5nc3j3kkoayheni6wjrdh8",
+      "id": "ew969eizz0eyqmitrz9g62chm",
+      "title": "Elorian 发布首个 AI 模型 Glimpse，可在思考中回看并重新分析图像或视频片段",
+      "title_en": "Elorian has released Glimpse, its first AI model, which can go back and reanalyze part of an image or video mid-thought.",
+      "url": "https://x.com/testingcatalog/status/2111174690337177607",
+      "permalink": "https://aihot.news/items/ew969eizz0eyqmitrz9g62chm",
       "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-10-15T16:11:11.000Z",
-      "discoveredAt": "2026-10-15T16:24:27.405Z",
-      "summary": "Thesys 发布开源框架 OpenUI 1.0，允许智能体在应用内创建可运行的界面，模型可编写一种紧凑 UI 语言，在回答仍在生成时就渲染到屏幕。在其自建的 46 个界面 brief、六款模型的基准上，OpenUI 比 Vercel 的 json-render 少用 58% 输出 token，比 Google 的 A2UI 少 52%。",
-      "category": "ai-products",
-      "score": 60,
+      "publishedAt": "2026-10-16T19:17:24.000Z",
+      "discoveredAt": "2026-10-16T19:43:27.113Z",
+      "summary": "Elorian 发布其首个 AI 模型 Glimpse，定位为可在思考中途回看图像或视频细节的视觉思考模型。它能在推理时返回视频特定时间点、放大细节，或以更高帧率回放半秒视频后再作答。",
+      "category": "ai-models",
+      "score": 59,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/r0j5nc3j3kkoayheni6wjrdh8"
+        "canonical": "https://aihot.news/items/ew969eizz0eyqmitrz9g62chm"
       },
       "sourceType": "X",
-      "designCategory": "产品与体验",
+      "designCategory": "图像与视频",
       "relevanceScore": 11,
-      "editorialScore": 15,
-      "tags": [
-        "ui",
-        "界面",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "x7q7k5j32fyuqpnpqv14lellg",
-      "title": "NVIDIA Nemotron 3.5 Super VL 多模态模型上线 fal 平台",
-      "title_en": "Nemotron 3.5 Super VL is live on fal.",
-      "url": "https://x.com/fal/status/2110762188252287162",
-      "permalink": "https://aihot.news/items/x7q7k5j32fyuqpnpqv14lellg",
-      "source": "X：fal (@fal)",
-      "publishedAt": "2026-10-15T15:58:16.000Z",
-      "discoveredAt": "2026-10-15T16:19:29.441Z",
-      "summary": "fal 宣布 NVIDIA Nemotron 3.5 Super VL 多模态模型上线其平台，该开源权重模型总参数 120B、每 token 激活 12B，面向视觉推理和智能体工作流。能力涵盖图像、文档和视频理解，以及视觉推理、工具调用、文档智能和 AI 智能体场景。",
-      "category": "ai-products",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/x7q7k5j32fyuqpnpqv14lellg"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
+      "editorialScore": 14,
       "tags": [
         "视觉",
-        "工作流",
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "y42jyzej921d4pu5v9jmfc4p7",
-      "title": "NVIDIA Nemotron 3.5 Super VL 开放权重多模态模型上线 fal",
-      "title_en": "INemotron 3.5 Super VL is live on fal.",
-      "url": "https://x.com/fal/status/2110754552949748085",
-      "permalink": "https://aihot.news/items/y42jyzej921d4pu5v9jmfc4p7",
-      "source": "X：fal (@fal)",
-      "publishedAt": "2026-10-15T15:27:56.000Z",
-      "discoveredAt": "2026-10-15T15:48:28.156Z",
-      "summary": "fal 宣布 NVIDIA Nemotron 3.5 Super VL 上线其平台。该开放权重多模态模型总参数 120B、每 token 激活 12B，面向视觉推理和智能体工作流构建，支持图像、文档和视频理解，具备视觉推理与工具调用、文档智能和 AI agents 能力。",
-      "category": "ai-products",
-      "score": 64,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/y42jyzej921d4pu5v9jmfc4p7"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "视觉",
-        "工作流",
         "视频",
         "图像"
       ],
@@ -719,91 +405,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "m4vbtji4zq8m0f9yok9ievlfa",
-      "title": "可灵（Kling）4.0 全面开放，新增 MCP 和 CLI 访问",
-      "title_en": "感动。",
-      "url": "https://x.com/Khazix0918/status/2110788729539547636",
-      "permalink": "https://aihot.news/items/m4vbtji4zq8m0f9yok9ievlfa",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "publishedAt": "2026-10-15T17:43:44.000Z",
-      "discoveredAt": "2026-10-15T18:01:32.091Z",
-      "summary": "可灵（Kling AI）宣布 Kling 4.0 现已全面开放，用户可通过 kling.ai 全新创作界面使用，并新增 MCP 和 CLI 访问方式以提升视频创作工作流灵活性。即将推出的功能包括 4K 和 1080p 分辨率的 10-bit HDR 视频输出，以及面向企业客户和开发者的 API。",
-      "category": "ai-products",
-      "score": 69,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/m4vbtji4zq8m0f9yok9ievlfa"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
-      "tags": [
-        "可灵",
-        "界面",
-        "工作流",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "f25wwpckqs24v8zzqvfs2ybz8",
-      "title": "Isomorphic Labs 用 Gemini 4 Argon 加速药物研发",
-      "title_en": "At @IsomorphicLabs, researchers are using Gemini 4 Argon as a partner to accelerate drug discovery and design research 🧬",
-      "url": "https://x.com/Google/status/2110766445940572599",
-      "permalink": "https://aihot.news/items/f25wwpckqs24v8zzqvfs2ybz8",
-      "source": "X：Google (@Google)",
-      "publishedAt": "2026-10-15T16:15:11.000Z",
-      "discoveredAt": "2026-10-15T16:20:28.835Z",
-      "summary": "在 @IsomorphicLabs，研究人员正将 Gemini 4 Argon 作为伙伴，加速药物发现与设计研究 🧬\n\nArgon 能快速综合复杂的 PDF 和专利，提取相关信息，将通常需要数周的过程缩短至仅数小时。",
-      "category": "industry",
-      "score": 31,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/f25wwpckqs24v8zzqvfs2ybz8"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "design",
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "uoqzntmcb5v0io1g6obac7amu",
-      "title": "可灵 Kling 4.0 正式全量开放，新增 MCP 和 CLI 接入",
-      "title_en": "For Those Who Create. KLING 4.0 Is Now Fully Available. 🎬",
-      "url": "https://x.com/Kling_ai/status/2110747537187709424",
-      "permalink": "https://aihot.news/items/uoqzntmcb5v0io1g6obac7amu",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "publishedAt": "2026-10-15T15:00:03.000Z",
-      "discoveredAt": "2026-10-15T15:27:27.757Z",
-      "summary": "可灵（Kling AI）宣布 Kling 4.0 正式全量开放，用户可通过 kling.ai 全新创作界面使用，并新增 MCP 和 CLI 接入以融入视频创作工作流。即将推出 4K 和 1080p 的 10-bit HDR 视频输出，以及面向企业客户和开发者的 API 访问。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/uoqzntmcb5v0io1g6obac7amu"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
-      "tags": [
-        "可灵",
-        "界面",
-        "工作流",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "vczdbqpsoedeuvj203olwwq3j",
       "title": "Kling 4.0 在 kling.ai 全量开放，可灵 AI 在 Advertising Week New York 2026 与 WPP、Adobe 探讨 AI 视频落地",
       "title_en": "At Advertising Week New York 2026, Kling AI joined WPP and Adobe to explore how AI video is moving from creative experimentation into rea...",
@@ -885,6 +486,141 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "w2fjvdthiw750rgrq0xfb39dz",
+      "title": "阿里 Qwen 开源 BlenderWorld：223 道题、2651 条标准的 3D 建模基准",
+      "title_en": "223 道题、2651 条标准：阿里 Qwen 开源 BlenderWorld，给 AI 出了一套 3D 建模大考",
+      "url": "https://www.ithome.com/1/014/217.htm",
+      "permalink": "https://aihot.news/items/w2fjvdthiw750rgrq0xfb39dz",
+      "source": "IT之家·人工智能",
+      "publishedAt": "2026-10-17T00:43:22.723Z",
+      "discoveredAt": "2026-10-17T01:08:31.024Z",
+      "summary": "阿里 Qwen 团队于 10 月 14 日开源 BlenderWorld，一个评测视觉智能体在 Blender 中完成真实 3D 创作任务的基准，采用 MIT 许可证，代码与数据集已发布至 GitHub、Hugging Face 和 ModelScope。",
+      "category": "paper",
+      "score": 49,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/w2fjvdthiw750rgrq0xfb39dz"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "3d",
+        "智能体"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "jaimrjlsauim3s6jfu3bp1a3r",
+      "title": "Claude Opus 5.5 打造野火分析原型",
+      "title_en": "Six projects from the last few weeks that caught our attention:",
+      "url": "https://x.com/claudeai/status/2111177834127601902",
+      "permalink": "https://aihot.news/items/jaimrjlsauim3s6jfu3bp1a3r",
+      "source": "X：Claude (@claudeai)",
+      "publishedAt": "2026-10-16T19:29:54.000Z",
+      "discoveredAt": "2026-10-16T19:32:30.485Z",
+      "summary": "最近几周引起我们关注的六个项目：\n\n一个野火分析原型，可绘制火灾随时间的蔓延情况并追踪热点，使用 Opus 5.5 制作。",
+      "category": "opinion",
+      "score": 22,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/jaimrjlsauim3s6jfu3bp1a3r"
+      },
+      "sourceType": "X",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
+      "tags": [
+        "原型"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "ux084xo8pgpzk8j5arvsb0tig",
+      "title": "Elorian 发布视觉思维模型 Glimpse，可回看帧并用视觉草稿空间推理",
+      "title_en": "Understanding a video means comparing moments, and models are getting much better at it.",
+      "url": "https://x.com/rohanpaul_ai/status/2111157929235857674",
+      "permalink": "https://aihot.news/items/ux084xo8pgpzk8j5arvsb0tig",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-10-16T18:10:48.000Z",
+      "discoveredAt": "2026-10-16T18:39:29.762Z",
+      "summary": "Elorian 发布首个视觉思维模型 Glimpse，在关键公开视觉推理基准上与 Astra 表现相当。Glimpse 能比较场景随时间的变化，在变化微小或快速时回看源头并裁剪局部、抽取特定视频帧或运行代码进行测量对比，Elorian 称这一机制为视觉草稿空间（visual scratch space）。",
+      "category": "ai-models",
+      "score": 55,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/ux084xo8pgpzk8j5arvsb0tig"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "dcxlrfjga00o7lojrhe1av72g",
+      "title": "Glimpse 视觉推理模型发布",
+      "title_en": "Have a glimpse at this! Nice work, @AndrewDai and Elorian folks!",
+      "url": "https://x.com/JeffDean/status/2111147597159415874",
+      "permalink": "https://aihot.news/items/dcxlrfjga00o7lojrhe1av72g",
+      "source": "X：Jeff Dean (@JeffDean)",
+      "publishedAt": "2026-10-16T17:29:45.000Z",
+      "discoveredAt": "2026-10-16T17:46:24.024Z",
+      "summary": "来看看这个！干得漂亮，@AndrewDai 和 Elorian 团队！\n\n（引用推文核心要点：Elorian 推出首个视觉思考模型 Glimpse，在关键公开视觉推理基准上对标 Astra 达到前沿竞争力，解决了以往模型只能处理单张图像、无法应对动态或角度变化的问题。）",
+      "category": "ai-models",
+      "score": 41,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/dcxlrfjga00o7lojrhe1av72g"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视觉",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "dqdy46fb6oeu8xt4c1z1827ai",
+      "title": "Dynamic Creatures 推出人形伴侣机器人 Hugo",
+      "title_en": "It’s the first serious attempt to bring top-tier robotics into entertainment instead of factories.",
+      "url": "https://x.com/rohanpaul_ai/status/2111140476057481453",
+      "permalink": "https://aihot.news/items/dqdy46fb6oeu8xt4c1z1827ai",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-10-16T17:01:27.000Z",
+      "discoveredAt": "2026-10-16T17:07:25.630Z",
+      "summary": "这是首次认真尝试将顶级机器人技术带入娱乐领域，而非工厂。\n\nDynamic Creatures 的 Hugo 是一款原型机，旨在成为一系列设计用于日常场景中与人互动的机器人中的第一款。\n\n大多数机器人把人视为需要减速避让的障碍物。Hugo 则被设计成将你的面部、声音和动作作为驱动其下一步行为的输入。\n\nhttps://x.com/theermann/status/2111124899788210639/video/1",
+      "category": "industry",
+      "score": 38,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/dqdy46fb6oeu8xt4c1z1827ai"
+      },
+      "sourceType": "X",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
+      "tags": [
+        "原型",
+        "设计"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "wk83jwtn2s9gvhoaylkb46qte",
@@ -994,86 +730,224 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "nzivp569p8g6npy6q5u6fnb6q",
-      "title": "Meta 发布开源权重模型 Muse Spark Open，816B 参数对标 Qwen、GLM 和 Kimi",
-      "title_en": "Muse Spark Open is Meta's answer to Qwen, GLM, and Kimi in the open-weight race",
-      "url": "https://the-decoder.com/muse-spark-open-is-metas-answer-to-qwen-glm-and-kimi-in-the-open-weight-race/",
-      "permalink": "https://aihot.news/items/nzivp569p8g6npy6q5u6fnb6q",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-10-15T18:34:32.000Z",
-      "discoveredAt": "2026-10-15T18:52:29.959Z",
-      "summary": "Meta 在 Llama 系列之后重返开源权重领域，发布 Muse Spark Open，称其为最强美国开源权重模型，816B 参数（42B 激活），支持最高 100 万 token 上下文和文本、图像、视频、音频。",
-      "category": "ai-models",
-      "score": 75,
-      "selected": false,
+      "id": "p4mq9t7wyzlxritu15i6d8dtv",
+      "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+      "title_en": "当 Claude 写了 Claude Code 约 90% 的代码后，团队如何重新设计代码评审 ？",
+      "url": "https://x.com/shao__meng/status/2111274173192638932",
+      "permalink": "https://aihot.news/items/p4mq9t7wyzlxritu15i6d8dtv",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-10-17T01:52:43.000Z",
+      "discoveredAt": "2026-10-17T02:22:30.235Z",
+      "summary": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。",
+      "category": "tip",
+      "score": 76,
+      "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/nzivp569p8g6npy6q5u6fnb6q"
+        "canonical": "https://aihot.news/items/p4mq9t7wyzlxritu15i6d8dtv"
       },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
       "tags": [
-        "视频",
-        "图像"
+        "设计",
+        "claude code"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "rpt9mp16mxr5122wiblb5zcqg",
-      "title": "英伟达发布 1200 亿参数开源多模态模型 Nemotron 3.5 Super VL，单 GPU 智能体任务吞吐量最高提升 5 倍",
-      "title_en": "英伟达发布 1200 亿参数大模型 Nemotron 3.5 Super VL：单 GPU 智能体任务吞吐量最高提升 5 倍，74B 版本压缩至 24GB",
-      "url": "https://www.ithome.com/1/013/679.htm",
-      "permalink": "https://aihot.news/items/rpt9mp16mxr5122wiblb5zcqg",
+      "id": "we5x0aeailoezuugv834oxpr2",
+      "title": "Anthropic 报告：智能体工时达人类员工 6 倍，初级技术岗位招聘占比从 27% 降至 9%",
+      "title_en": "Anthropic 报告：AI 工时已是人类 6 倍，初级程序员岗位骤减，人均雇员创收是 Meta / 谷歌同期的 2 至 4 倍",
+      "url": "https://www.ithome.com/1/014/195.htm",
+      "permalink": "https://aihot.news/items/we5x0aeailoezuugv834oxpr2",
       "source": "IT之家·人工智能",
-      "publishedAt": "2026-10-15T15:19:12.617Z",
-      "discoveredAt": "2026-10-15T15:46:26.746Z",
-      "summary": "英伟达发布开放多模态模型 Nemotron 3.5 Super VL，采用 MoE 架构，总参数 1200 亿、激活 120 亿，将推理、工具调用与文本、图像、文档及视频理解整合，官方称单 GPU 智能体任务吞吐量最高达同规模开放模型的 5 倍。",
-      "category": "ai-models",
-      "score": 67,
+      "publishedAt": "2026-10-16T23:13:28.910Z",
+      "discoveredAt": "2026-10-16T23:28:31.105Z",
+      "summary": "Anthropic 于 10 月 16 日发布报告，称其员工部署的交互式 AI 智能体工作时长到 2026 年 8 月已达人类员工的 6 倍，人均创收为 Meta 和谷歌同期的 2 至 4 倍。",
+      "category": "industry",
+      "score": 72,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/rpt9mp16mxr5122wiblb5zcqg"
+        "canonical": "https://aihot.news/items/we5x0aeailoezuugv834oxpr2"
       },
       "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
       "tags": [
-        "视频",
-        "图像",
+        "交互",
         "智能体"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "l6ciy41l24w01o29q65u7xhvf",
-      "title": "NVIDIA Nemotron 3.5 Super VL 上线 Baseten",
-      "title_en": "Announcing NVIDIA Nemotron 3.5 Super VL on Baseten",
-      "url": "https://www.baseten.co/blog/nvidia-nemotron-35-super-vl-launch/",
-      "permalink": "https://aihot.news/items/l6ciy41l24w01o29q65u7xhvf",
-      "source": "Baseten 工程博客（网页）",
-      "publishedAt": "2026-10-15T15:10:00.000Z",
-      "discoveredAt": "2026-10-15T16:04:32.122Z",
-      "summary": "NVIDIA Nemotron 3.5 Super VL 在 Baseten 上线，基于 Nemotron 3 Super 架构的 120B 参数 MoE 模型，每 token 激活 12B 参数，新增视觉编码器以支持文档、截图和视频理解。",
+      "id": "e55kj14f7kek5k73n3ssc5sjh",
+      "title": "Cursor 云 Agent 支持构建交互式 canvas",
+      "title_en": "Cloud agents can now build interactive canvases.",
+      "url": "https://x.com/cursor_ai/status/2111193957527146711",
+      "permalink": "https://aihot.news/items/e55kj14f7kek5k73n3ssc5sjh",
+      "source": "X：Cursor (@cursor_ai)",
+      "publishedAt": "2026-10-16T20:33:58.000Z",
+      "discoveredAt": "2026-10-16T20:34:24.634Z",
+      "summary": "Cursor 宣布其云 Agent 现在可以构建交互式 canvas。用户可在 Agent 工作期间请求生成仪表盘或报告，完成后通过链接把 canvas 分享给团队。",
       "category": "ai-products",
-      "score": 50,
+      "score": 60,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/l6ciy41l24w01o29q65u7xhvf"
+        "canonical": "https://aihot.news/items/e55kj14f7kek5k73n3ssc5sjh"
       },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
       "tags": [
-        "视觉",
-        "视频"
+        "交互",
+        "agent"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "gjp01hkg3iwxmvmkedvygckm5",
+      "title": "OpenAI Codex 负责人 Embiricos 转发 Dan Shipper 的 Codex 深度复盘长文",
+      "title_en": "This was such a fun conversation with @danshipper!",
+      "url": "https://x.com/embirico/status/2111155586125471793",
+      "permalink": "https://aihot.news/items/gjp01hkg3iwxmvmkedvygckm5",
+      "source": "X：Alexander Embiricos（OpenAI，Codex 产品负责人） (@embirico)",
+      "publishedAt": "2026-10-16T18:01:29.000Z",
+      "discoveredAt": "2026-10-16T18:06:17.534Z",
+      "summary": "Alexander Embiricos 转发并推荐 Dan Shipper 的 Codex 起源长文，称对话有趣且自己的引述比平时更直白。引用文称 Codex 一年前未找到 PMF，12 个月内 Codex 与 ChatGPT for Work 周用户超 40M，团队一年做了四款产品形态并用 Codex 开发 Codex；文章采用 agent 原生设计，附完整访谈转录，可在 ChatGPT 应用内浏览器中与智能体一同阅读。",
+      "category": "opinion",
+      "score": 63,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/gjp01hkg3iwxmvmkedvygckm5"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计",
+        "codex",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "shyayt0dxfr2nhqmz9qufu1lm",
+      "title": "Claude 规划调度多 CLI 智能体协作开发流",
+      "title_en": "claude 规划，其他 agent 执行，最后 claude 验收。",
+      "url": "https://x.com/howie_serious/status/2111013547723706553",
+      "permalink": "https://aihot.news/items/shyayt0dxfr2nhqmz9qufu1lm",
+      "source": "X：howie.serious (@howie_serious)",
+      "publishedAt": "2026-10-16T08:37:05.000Z",
+      "discoveredAt": "2026-10-16T08:48:15.491Z",
+      "summary": "该推文分享了一套以 Claude 负责规划与验收、其他 agent 负责执行的开发工作流，执行方包括 codex cli、cursor cli、antigravity cli、grok cli，目的是把各家 AI 会员额度充分利用起来，后续还计划把本地模型纳入流程。作者称目前体验不错，认为 opus 5.5 在编程开发上比高一档的 gpt-6 astra 更好用。",
+      "category": "tip",
+      "score": 45,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/shyayt0dxfr2nhqmz9qufu1lm"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 9,
+      "editorialScore": 10,
+      "tags": [
+        "工作流",
+        "codex",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "nk8wqzhl0op1vr91dh4fm2a2e",
+      "title": "pstack 作者公开工程原则设计思路：把长指令压缩成命名原则",
+      "title_en": "pstack 作者公开她的 “工程原则” 设计思路",
+      "url": "https://x.com/shao__meng/status/2110976920343171542",
+      "permalink": "https://aihot.news/items/nk8wqzhl0op1vr91dh4fm2a2e",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-10-16T06:11:32.000Z",
+      "discoveredAt": "2026-10-16T06:17:14.678Z",
+      "summary": "pstack 作者 @poteto 公开了这个 Cursor 官方内置插件的工程原则设计思路，核心是随模型能力提升，把写给智能体的冗长步骤压缩为简短的命名原则。",
+      "category": "tip",
+      "score": 64,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/nk8wqzhl0op1vr91dh4fm2a2e"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "l2hlgs2mfy0t16jonj91sj9w0",
+      "title": "Hao AI Lab 演示用 SAM 3 加深度信息把像素转成机器人可用坐标",
+      "title_en": "Turn pixels into coordinates the robot can use.",
+      "url": "https://x.com/haoailab/status/2110900743893143785",
+      "permalink": "https://aihot.news/items/l2hlgs2mfy0t16jonj91sj9w0",
+      "source": "X：UCSD Hao AI Lab (@haoailab)",
+      "publishedAt": "2026-10-16T01:08:50.000Z",
+      "discoveredAt": "2026-10-16T01:34:46.153Z",
+      "summary": "Hao AI Lab 演示一条把像素转成机器人可用坐标的流程：SAM 3 定位物体，深度信息把图像位置换算成以米为单位的 3D 位置，再用一个计算工具处理向量和旋转数学。",
+      "category": "tip",
+      "score": 51,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/l2hlgs2mfy0t16jonj91sj9w0"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "图像",
+        "3d"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "kovelcbltjj7xf054h8mffaxo",
+      "title": "Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计",
+      "title_en": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+      "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
+      "permalink": "https://aihot.news/items/kovelcbltjj7xf054h8mffaxo",
+      "source": "Google Research：Blog（网页）",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "discoveredAt": "2026-10-16T19:06:21.863Z",
+      "summary": "Google Research 发布三项研究，构建 AI 智能体自主湿实验室的基础模块。",
+      "category": "paper",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/kovelcbltjj7xf054h8mffaxo"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "fxbpw94p89qe74owlv2kg4d2e",
@@ -1103,139 +977,29 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "bzjaf12l91gn8us7kan8qq0q0",
-      "title": "Meta 的 Muse 智能体引发隐私争议：你的朋友可能替你交出数据",
-      "title_en": "Friends don&#8217;t let friends feed their data to AI agents",
-      "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
-      "permalink": "https://aihot.news/items/bzjaf12l91gn8us7kan8qq0q0",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-10-15T16:21:45.000Z",
-      "discoveredAt": "2026-10-15T16:56:36.079Z",
-      "summary": "The Verge 分析 Meta 的 Muse AI 助手上月起登顶 App Store 下载量数百万，其界面以 dark patterns 鼓励用户授权银行账户、密码、聊天记录等大量数据。",
+      "id": "a7sb5b0i41s8tvlrriel0r3a3",
+      "title": "Claude Code 团队谈 AI 时代的代码评审如何从末端门槛变为持续检查",
+      "title_en": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+      "url": "https://simonwillison.net/2026/Oct/16/code-review/",
+      "permalink": "https://aihot.news/items/a7sb5b0i41s8tvlrriel0r3a3",
+      "source": "Simon Willison 博客",
+      "publishedAt": "2026-10-16T22:06:37.000Z",
+      "discoveredAt": "2026-10-16T23:22:30.392Z",
+      "summary": "Simon Willison 引用 Addy Osmani、Morgan Westlee Lunt 和 Qing Wang 关于 Claude Code 团队代码评审的文章，认为“是否有人类读过代码”是判断变更风险的不精确代理，更应问的是变更可能出什么问题、该用自动化还是人工检查来发现。",
       "category": "opinion",
-      "score": 72,
+      "score": 63,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/bzjaf12l91gn8us7kan8qq0q0"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "界面",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "jxgbbu09luc03jwvfyc9dw8gl",
-      "title": "Kling 4.0 全量上线 klingai.com，将支持 4K 与 1080p 10-bit HDR 输出",
-      "title_en": "Kling 4.0 全量上线！",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzU5NTkwNDU2OA%3D%3D&mid=2247497194&idx=1&sn=5ad686eba90d8332d7c49025ab39468f",
-      "permalink": "https://aihot.news/items/jxgbbu09luc03jwvfyc9dw8gl",
-      "source": "公众号：可灵AI（快手·视频）",
-      "publishedAt": "2026-10-15T15:00:00.000Z",
-      "discoveredAt": "2026-10-15T16:02:58.527Z",
-      "summary": "快手可灵于10月15日宣布 Kling 4.0 正式全量上线 klingai.com。4K、1080p 的 10-bit HDR 格式输出即将上线，创作页面同步全面升级，Kling 4.0 能力已接入 MCP/CLI，面向企业客户与开发者的 API 服务将于近期开放。",
-      "category": "ai-products",
-      "score": 66,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/jxgbbu09luc03jwvfyc9dw8gl"
-      },
-      "sourceType": "公众号",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "可灵",
-        "mcp"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "h1ooymm8lp369b1qb5ss4c4va",
-      "title": "CopilotKit 发布 CLiF：把 Agent 轨迹与用户操作转化为技能、Evals 和微调数据的持续学习平台",
-      "title_en": "CopilotKit Releases CLiF: A Continual Learning Platform That Turns Agent Traces and User Actions into Skills, Evals, and Fine-Tuning Data",
-      "url": "https://www.marktechpost.com/2026/10/15/copilotkit-releases-clif-a-continual-learning-platform-that-turns-agent-traces-and-user-actions-into-skills-evals-and-fine-tuning-data/",
-      "permalink": "https://aihot.news/items/h1ooymm8lp369b1qb5ss4c4va",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-10-15T14:19:27.000Z",
-      "discoveredAt": "2026-10-15T16:00:31.497Z",
-      "summary": "CopilotKit 发布持续学习平台 CLiF（早期访问），通过 AG-UI 协议把 Agent 轨迹与用户在产品中的操作合并为同一条 full-stack trajectory，再经四阶段循环生成技能、生产环境 evals 和微调数据集，并可导出原始轨迹。技能以 SKILL.md 文件形式由人工逐条审核后发布，无需重新部署即可生效，平台完全自托管。",
-      "category": "ai-products",
-      "score": 40,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/h1ooymm8lp369b1qb5ss4c4va"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "ui",
-        "agent",
-        "skill"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "uyaizwwjm5enbr3st7j2tpr0c",
-      "title": "GitHub 如何用 Evergreen 自动化共享组织的访问审查与仓库清理",
-      "title_en": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
-      "url": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
-      "permalink": "https://aihot.news/items/uyaizwwjm5enbr3st7j2tpr0c",
-      "source": "GitHub Blog",
-      "publishedAt": "2026-10-15T18:00:00.000Z",
-      "discoveredAt": "2026-10-15T22:06:43.868Z",
-      "summary": "GitHub 用原生功能构建的 GitHub App Evergreen，通过两个工作流自动化组织卫生：每季度审查外部协作者访问权限，未响应即默认撤销；检测并归档长期无人类活动的仓库，且从不删除仓库内容。它由 Go webhook 服务器驱动，状态以 JSON 文件提交到 controller repo，用 git 历史充当审计记录，决策通过仓库内的 checklist issue 完成。",
-      "category": "tip",
-      "score": 50,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/uyaizwwjm5enbr3st7j2tpr0c"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "工作流",
-        "自动化"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "s80tw5g2v22j1se4bmqejyaq4",
-      "title": "Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文",
-      "title_en": "Muse Spark Is Now an Open-Weights Model",
-      "url": "https://pytorch.org/blog/muse-spark-open/",
-      "permalink": "https://aihot.news/items/s80tw5g2v22j1se4bmqejyaq4",
-      "source": "PyTorch：Blog（RSS）",
-      "publishedAt": "2026-10-15T17:55:52.000Z",
-      "discoveredAt": "2026-10-15T18:49:28.354Z",
-      "summary": "Meta 发布开源权重模型 Muse Spark Open，已在 Hugging Face 以 Muse Model License 提供。模型总参数 816B、激活 42B，上下文窗口 1M token，面向编码与智能体工作流，原生多模态（图像、音频、文档），并相比 8 月发布的 Muse Spark 增加了安全后训练。",
-      "category": "ai-models",
-      "score": 83,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/s80tw5g2v22j1se4bmqejyaq4"
+        "canonical": "https://aihot.news/items/a7sb5b0i41s8tvlrriel0r3a3"
       },
       "sourceType": "网站",
       "designCategory": "工作流与 Agent",
       "relevanceScore": 7,
       "editorialScore": 8,
       "tags": [
-        "工作流",
-        "图像",
-        "智能体"
+        "自动化",
+        "claude code"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -1265,32 +1029,6 @@
         "agent"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "zduw145b6xjws8n8n9khe77yp",
-      "title": "404 Media 记者：任何人都能基于手机号或邮箱向 ChatGPT 会话投放广告",
-      "title_en": "ChatGPT Ads Target Your Phone Number, Email",
-      "url": "https://www.404media.co/chatgpt-ads-target-your-phone-number-email/",
-      "permalink": "https://aihot.news/items/zduw145b6xjws8n8n9khe77yp",
-      "source": "404 Media（RSS）",
-      "publishedAt": "2026-10-15T14:31:09.000Z",
-      "discoveredAt": "2026-10-15T14:55:29.959Z",
-      "summary": "404 Media 记者 Joseph Cox 介绍其调查，称广告主甚至任何花五分钟操作的人，都能基于用户的手机号或邮箱向 ChatGPT 会话注入广告，他在不使用他人个人数据的情况下自制广告测试了该系统。作者指出多数 ChatGPT 用户可能意识不到广告源于有人上传了自己的手机号，并提及另有新研究指在线广告被用于投放零点击雇佣兵恶意软件。",
-      "category": "industry",
-      "score": 65,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/zduw145b6xjws8n8n9khe77yp"
-      },
-      "sourceType": "网站",
-      "designCategory": "行业观察",
-      "relevanceScore": 6,
-      "editorialScore": 6,
-      "tags": [
-        "广告"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     }
   ]
 }
