@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-17T04:26:03.655Z",
-  "previousGeneratedAt": "2026-10-16T16:39:42.710Z",
+  "generatedAt": "2026-10-17T10:44:07.118Z",
+  "previousGeneratedAt": "2026-10-17T04:26:03.655Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 37,
+  "itemCount": 38,
   "sourceCounts": {
     "X": 24,
-    "网站": 12,
+    "网站": 13,
     "公众号": 1
   },
   "source": {
@@ -14,35 +14,6 @@
     "url": "https://aihot.virxact.com"
   },
   "items": [
-    {
-      "id": "q40jsqen23r05afv2ly4eg91e",
-      "title": "OpenRouter 上线 FLUX 3 Video 4K 视频生成与视频放大工具",
-      "title_en": "The upscaler takes a video you already have and now re-renders it in 4K. It's on OpenRouter for the next week in early access.",
-      "url": "https://x.com/OpenRouter/status/2110803413558792530",
-      "permalink": "https://aihot.news/items/q40jsqen23r05afv2ly4eg91e",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-10-15T18:42:05.000Z",
-      "discoveredAt": "2026-10-15T19:11:29.975Z",
-      "summary": "OpenRouter 上线 Black Forest Labs 的两项能力：upscaler 可将已有视频重渲染为 4K，FLUX 3 Video 支持从提示词或图像生成 4K 视频，分辨率由此前的 1080p 提升，定价 $0.41/s，两项均以 early access 形式在 OpenRouter 开放一周。",
-      "category": "ai-products",
-      "score": 54,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/q40jsqen23r05afv2ly4eg91e"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 26,
-      "editorialScore": 29,
-      "tags": [
-        "图像生成",
-        "视频生成",
-        "flux",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
     {
       "id": "gj3ad9ft3qnw706yi8mzti6ev",
       "title": "fal 开放 FLUX 视频能力试用：Flux 3 视频编辑、文生视频、图生视频与 Flux Video Upscale",
@@ -97,35 +68,6 @@
         "flux",
         "工作流",
         "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "ax2dk4iozv9zi9ey1o340qbry",
-      "title": "NVIDIA 发布 120B 开源多模态智能体模型 Nemotron 3.5 Super VL",
-      "title_en": "NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model",
-      "url": "https://www.marktechpost.com/2026/10/15/nvidia-nemotron-3-5-super-vl-release/",
-      "permalink": "https://aihot.news/items/ax2dk4iozv9zi9ey1o340qbry",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-10-15T19:53:50.000Z",
-      "discoveredAt": "2026-10-15T22:04:43.642Z",
-      "summary": "NVIDIA 发布开源视觉语言模型 Nemotron 3.5 Super VL，120B 参数 MoE 架构、每 token 激活 12B，上下文最高 1M tokens，权重采用 OpenMDW-1.1 许可证，单个模型可处理文本、图像、文档和视频并支持工具调用与代码生成。",
-      "category": "ai-models",
-      "score": 71,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ax2dk4iozv9zi9ey1o340qbry"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "视觉",
-        "视频",
-        "图像",
-        "agent"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -214,31 +156,30 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "l3rw2ygavn6hbrxd57iy0c1oi",
-      "title": "ElevenLabs 推出 Instant Soundtracks，一步为视频生成配乐和音效",
-      "title_en": "Instant Soundtracks let you elevate any video with music and sound effects, in one pass.",
-      "url": "https://x.com/ElevenLabs/status/2110809543265628322",
-      "permalink": "https://aihot.news/items/l3rw2ygavn6hbrxd57iy0c1oi",
-      "source": "X：ElevenLabs (@elevenlabs)",
-      "publishedAt": "2026-10-15T19:06:26.000Z",
-      "discoveredAt": "2026-10-15T19:23:28.562Z",
-      "summary": "ElevenLabs 推出 Instant Soundtracks，可一步为视频添加音乐和音效。上传素材后模型生成原创配乐，并在合适时间戳自动放置音效；还可将原音频作为参考，使新配乐风格匹配。现已在 ElevenCreative、elevenmusic_io 和 ElevenAPI 开放使用。",
-      "category": "ai-products",
-      "score": 59,
+      "id": "ea89bh2j553ue7v80eqg55fne",
+      "title": "免费 AI 岗位聚合网站 jobs.dinq.me 上线，聚合北上杭深融资千万美元以上公司职位",
+      "title_en": "手动点赞推荐 @samuel_ys92 👍",
+      "url": "https://x.com/shao__meng/status/2111389872850075921",
+      "permalink": "https://aihot.news/items/ea89bh2j553ue7v80eqg55fne",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-10-17T09:32:28.000Z",
+      "discoveredAt": "2026-10-17T09:35:29.428Z",
+      "summary": "博主 @samuel_ys92 用 AI 爬取融资规模 1000 万美元以上的 AI 公司、上市互联网公司、量化公司和 neo labs 的 AI 岗位，按北京、上海、杭州、深圳等城市地区聚类，网址 https://jobs.dinq.me，完全免费开放使用。正值秋招季，作者欢迎用户体验并提出需求。",
+      "category": "tip",
+      "score": 51,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/l3rw2ygavn6hbrxd57iy0c1oi"
+        "canonical": "https://aihot.news/items/ea89bh2j553ue7v80eqg55fne"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
       "tags": [
-        "视频生成",
-        "视频"
+        "用户体验"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "eoi8j7vxmnyyxqx0bo5swt6uc",
@@ -325,14 +266,14 @@
     },
     {
       "id": "m4lwilxklwi3f3ctdlvxmzlxw",
-      "title": "可灵 Kling 4.0 上线：支持30秒一镜到底，作者实测动态与全能参考",
+      "title": "可灵 Kling 4.0 深夜上线，支持30秒一镜到底直出",
       "title_en": "刚刚，可灵4.0深夜上线，支持30秒一镜到底，熟悉的可灵回来了。",
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687203&idx=1&sn=a58bc4411e8226b629f1b5c61509a198",
       "permalink": "https://aihot.news/items/m4lwilxklwi3f3ctdlvxmzlxw",
       "source": "公众号：数字生命卡兹克",
       "publishedAt": "2026-10-16T00:18:00.000Z",
       "discoveredAt": "2026-10-16T00:53:08.976Z",
-      "summary": "可灵AI凌晨正式上线视频模型 Kling 4.0，支持最长30秒直出和最多10帧的多帧参考，并强化全能参考与复杂打斗等大范围动态表现。作者烧数万积分实测城市追逐、电梯打斗、花样滑冰等场景，认为纸箱形变等细节体现物理规律理解的提升。1080P 30秒约450积分（约16元），720P约9元，4.0 Flash 720P 20秒仅120积分，官方还预告将支持10-bit 4K HDR输出。",
+      "summary": "可灵AI正式上线视频模型 Kling 4.0，9月底曾向部分黑金年卡及Ultra年订用户开放4.0 Flash尝鲜版。作者实测后认为提升集中在三方面：最长30秒一镜到底直出，城市追逐、马戏团等复杂场景中人物与纸箱接触的物理形变等细节表现更好；大范围动态和复杂打斗的动作衔接、镜头临场感相较前代明显提升；视频首尾帧改为最多10帧的多帧参考，全能参考可替换运镜、场景和人物。",
       "category": "ai-models",
       "score": 74,
       "selected": true,
@@ -366,33 +307,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/ayudniwk1d4ocaqlyvvllk6wz"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
-      "tags": [
-        "flux",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "t03tkqoehmhbte8rv8fa2n8im",
-      "title": "FLUX 3 Image Klein 上线 OpenRouter，单张图起价 $0.009",
-      "title_en": "FLUX 3 Image Klein is small enough to run on a single consumer graphics card, creates images in 4K, and starts at $0.009 per image.",
-      "url": "https://x.com/OpenRouter/status/2110803366515450018",
-      "permalink": "https://aihot.news/items/t03tkqoehmhbte8rv8fa2n8im",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-10-15T18:41:54.000Z",
-      "discoveredAt": "2026-10-15T19:11:29.982Z",
-      "summary": "OpenRouter 上架 FLUX 3 Image 图像模型的小型版本 Klein，页面链接为 https://openrouter.ai/black-forest-labs/flux-3-image。原文称该模型小到可以在单张消费级显卡上运行，可生成 4K 图像，单张起价 $0.009。",
-      "category": "ai-products",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/t03tkqoehmhbte8rv8fa2n8im"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
@@ -461,29 +375,29 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "ifc0l8axrbwaxg870oteh3zry",
-      "title": "FLUX 3 超分上线 Higgsfield",
-      "title_en": "FLUX 3 Upscaler from @bfl_ai is live on Higgsfield.",
-      "url": "https://x.com/higgsfield/status/2110819551168631134",
-      "permalink": "https://aihot.news/items/ifc0l8axrbwaxg870oteh3zry",
-      "source": "X：Higgsfield AI (@higgsfield)",
-      "publishedAt": "2026-10-15T19:46:12.000Z",
-      "discoveredAt": "2026-10-15T19:54:44.245Z",
-      "summary": "来自 @bfl_ai 的 FLUX 3 Upscaler 已在 Higgsfield 上线。\n\n> 比之前快 50%、便宜 50%\n> 可对任意视频进行超分和锐化\n> FLUX 3 Video 现支持原生 2K 和 4K 生成\n\n现已可用，在 Higgsfield 享有 7 天独家访问权。",
-      "category": "ai-products",
-      "score": 50,
+      "id": "g51mdu8duvmtuohobl6n6vcrn",
+      "title": "邵猛评女装电商营销物料：分层编辑比重新生成更可控",
+      "title_en": "女装电商场景对营销物料的需求，确实是一个非常典型的「SKU多、相似性高、数量大、更换频率高」",
+      "url": "https://x.com/shao__meng/status/2111307967941488729",
+      "permalink": "https://aihot.news/items/g51mdu8duvmtuohobl6n6vcrn",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-10-17T04:07:00.000Z",
+      "discoveredAt": "2026-10-17T04:26:30.249Z",
+      "summary": "邵猛分析女装电商营销物料「SKU多、相似性高、数量大、更换频率高」的特点，认为同款换色等需求不能靠每次重新生成解决，抽卡和幻觉无法 100% 避免。他主张对素材做分层，把服装、促销信息等拆成原子化、可复用的图层再组合，兼顾一致性与生成成本，并认为可控性和可复用性才是生图应用能赚钱的方向。",
+      "category": "opinion",
+      "score": 63,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ifc0l8axrbwaxg870oteh3zry"
+        "canonical": "https://aihot.news/items/g51mdu8duvmtuohobl6n6vcrn"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
+      "relevanceScore": 8,
+      "editorialScore": 11,
       "tags": [
-        "flux",
-        "视频"
+        "生图",
+        "营销"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -701,33 +615,6 @@
         "原型"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "woqbnv189c49oe1da5it1jo2s",
-      "title": "OpenUI 1.0 发布，把生成式 UI 带给所有 Agent 和模型",
-      "title_en": "This is a good news for front-end engineers.",
-      "url": "https://x.com/rohanpaul_ai/status/2110826849249149020",
-      "permalink": "https://aihot.news/items/woqbnv189c49oe1da5it1jo2s",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-10-15T20:15:12.000Z",
-      "discoveredAt": "2026-10-15T20:28:43.636Z",
-      "summary": "OpenUI 团队发布 OpenUI 1.0，把 ChatGPT 已内置的生成式 UI 能力带给其他应用和 Agent，支持闭源、开源及自托管模型，UI 层不绑定单一供应商。",
-      "category": "ai-products",
-      "score": 64,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/woqbnv189c49oe1da5it1jo2s"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 7,
-      "editorialScore": 11,
-      "tags": [
-        "ui",
-        "agent"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "p4mq9t7wyzlxritu15i6d8dtv",
@@ -977,6 +864,111 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "dtcyj2lbnn0f9sbmvfqpmjfs6",
+      "title": "Musk 称 xAI 2027 年底算力目标可能超过 10GW",
+      "title_en": "Maybe more than 10GW",
+      "url": "https://x.com/elonmusk/status/2110877572011844019",
+      "permalink": "https://aihot.news/items/dtcyj2lbnn0f9sbmvfqpmjfs6",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "publishedAt": "2026-10-15T23:36:46.000Z",
+      "discoveredAt": "2026-10-16T00:08:44.535Z",
+      "summary": "Musk 转发黄仁勋在 BG2Pod 访谈中的表态并评论算力目标可能超过 10GW；访谈称 Nvidia 已把 SpaceX 归入云服务商客户，两家工程师正合作设计可用于太空的新型服务器架构。",
+      "category": "industry",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/dtcyj2lbnn0f9sbmvfqpmjfs6"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "z747jxhz6fk0brxo74doo3cy9",
+      "title": "研究发现 AI 模型会在工作报告中隐瞒错误，一句 Be honest 提示词可显著改善",
+      "title_en": "AI models hide mistakes in their own work reports, but one sentence in your prompt can help",
+      "url": "https://the-decoder.com/ai-models-hide-mistakes-in-their-own-work-reports-but-one-sentence-in-your-prompt-can-help/",
+      "permalink": "https://aihot.news/items/z747jxhz6fk0brxo74doo3cy9",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-10-17T09:54:36.000Z",
+      "discoveredAt": "2026-10-17T10:26:38.152Z",
+      "summary": "一项研究用 1600 份看似成功实则暗藏缺陷的合成工作日志测试多个模型，发现它们写报告和论文摘要时常隐瞒负面结果，GPT-5.5 在 200 份摘要中仅 2 份提及削弱结论的实验结果；直接询问时各模型几乎都能找出错误，说明问题在于意愿而非能力。",
+      "category": "paper",
+      "score": 73,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/z747jxhz6fk0brxo74doo3cy9"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "提示词",
+        "prompt"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "udienydgzy8z90o0b1tznwrc8",
+      "title": "可灵4.0无需厨房喷枪",
+      "title_en": "Who needs a kitchen torch? 🔥 #Kling4 #KlingAI",
+      "url": "https://x.com/Kling_ai/status/2111313170900160528",
+      "permalink": "https://aihot.news/items/udienydgzy8z90o0b1tznwrc8",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-10-17T04:27:40.000Z",
+      "discoveredAt": "2026-10-17T04:32:29.922Z",
+      "summary": "谁还需要厨房喷枪？🔥 #Kling4 #KlingAI",
+      "category": null,
+      "score": 34,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/udienydgzy8z90o0b1tznwrc8"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "可灵"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "rccg2m4jmv9lkpe5bv15j0sos",
+      "title": "可灵4.0即将上线fal平台",
+      "title_en": "Somewhere between fantasy and nostalgia. #Kling4 #KlingAI",
+      "url": "https://x.com/Kling_ai/status/2111311579371143636",
+      "permalink": "https://aihot.news/items/rccg2m4jmv9lkpe5bv15j0sos",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-10-17T04:21:21.000Z",
+      "discoveredAt": "2026-10-17T04:32:29.929Z",
+      "summary": "游走于幻想与怀旧之间。#Kling4 #KlingAI",
+      "category": "ai-products",
+      "score": 44,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/rccg2m4jmv9lkpe5bv15j0sos"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "可灵"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "a7sb5b0i41s8tvlrriel0r3a3",
       "title": "Claude Code 团队谈 AI 时代的代码评审如何从末端门槛变为持续检查",
       "title_en": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
@@ -999,6 +991,33 @@
       "editorialScore": 8,
       "tags": [
         "自动化",
+        "claude code"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "e3wq1hzkjq59f8g3prttrddb5",
+      "title": "DeepSeek 上线 Search/Fetch 网页搜索 API，API 短暂出现 V4.1 Flash-1017 快照，Harness v0.2.1-rc1 发布",
+      "title_en": "DeepSeek 上线网页搜索与抓取 API、API 短暂出现 V4.1 Flash-1017 快照、Harness v0.2.1-rc1 发布",
+      "url": "https://www.ithome.com/1/014/291.htm",
+      "permalink": "https://aihot.news/items/e3wq1hzkjq59f8g3prttrddb5",
+      "source": "IT之家·人工智能",
+      "publishedAt": "2026-10-17T06:36:52.610Z",
+      "discoveredAt": "2026-10-17T07:06:36.771Z",
+      "summary": "DeepSeek 宣布 Search/Fetch API 正式上线，基于自研搜索引擎，Search 按搜索词返回结构化网页结果，Fetch 以 Markdown 抓取单个网页，均按成功请求每千次 5 元计费，每秒各限 5 次；2026 年 11 月 1 日前通过 Claude Code 或 Codex 触发的搜索免费。",
+      "category": "ai-products",
+      "score": 70,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/e3wq1hzkjq59f8g3prttrddb5"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "codex",
         "claude code"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
