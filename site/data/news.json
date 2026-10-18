@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-17T15:34:40.029Z",
-  "previousGeneratedAt": "2026-10-17T10:44:07.118Z",
+  "generatedAt": "2026-10-18T04:34:10.539Z",
+  "previousGeneratedAt": "2026-10-17T15:34:40.029Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 38,
+  "itemCount": 40,
   "sourceCounts": {
     "X": 24,
-    "网站": 13,
+    "网站": 15,
     "公众号": 1
   },
   "source": {
@@ -14,63 +14,6 @@
     "url": "https://aihot.virxact.com"
   },
   "items": [
-    {
-      "id": "gj3ad9ft3qnw706yi8mzti6ev",
-      "title": "fal 开放 FLUX 视频能力试用：Flux 3 视频编辑、文生视频、图生视频与 Flux Video Upscale",
-      "title_en": "Try it:",
-      "url": "https://x.com/fal/status/2110840160497672367",
-      "permalink": "https://aihot.news/items/gj3ad9ft3qnw706yi8mzti6ev",
-      "source": "X：fal (@fal)",
-      "publishedAt": "2026-10-15T21:08:06.000Z",
-      "discoveredAt": "2026-10-15T21:26:44.635Z",
-      "summary": "fal 公布 FLUX 视频系列的试用链接，包括 Flux Video Upscale（视频超分）以及 Flux 3 的视频编辑、文生视频、图生视频四项模型页面。各链接均指向 fal.ai 上的 blackforestlabs 模型页，读者可直接访问试用。",
-      "category": "ai-products",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/gj3ad9ft3qnw706yi8mzti6ev"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 17,
-      "editorialScore": 20,
-      "tags": [
-        "文生视频",
-        "flux",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "bhpy2879up1vt0o61jzi0g4jw",
-      "title": "fal 更新 Flux 3 Video 与 Upscaler，支持原生 2K 和 4K 视频生成",
-      "title_en": "Flux 3 Video and Upscaler just got an update on fal!",
-      "url": "https://x.com/fal/status/2110840158564081837",
-      "permalink": "https://aihot.news/items/bhpy2879up1vt0o61jzi0g4jw",
-      "source": "X：fal (@fal)",
-      "publishedAt": "2026-10-15T21:08:05.000Z",
-      "discoveredAt": "2026-10-15T21:26:44.640Z",
-      "summary": "fal 在平台上更新 Flux 3 Video 和 Upscaler。新版本支持原生 2K 和 4K 视频生成，覆盖 text-to-video、image-to-video 和 video-to-video 三种工作流，5 秒 4K 视频约 2 分钟即可生成。",
-      "category": "ai-products",
-      "score": 56,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/bhpy2879up1vt0o61jzi0g4jw"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 16,
-      "editorialScore": 19,
-      "tags": [
-        "视频生成",
-        "flux",
-        "工作流",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
     {
       "id": "m6ebsf2q8sp9crluuvi6wd5wf",
       "title": "用数据可视化原则设计日常 UI 与定制探索工具",
@@ -593,57 +536,58 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "cjr36dky395c2wo2bbonp99wm",
-      "title": "OpenRouter 上架 Moondream3.1 9B 多模态模型，32K 上下文支持可选推理",
-      "title_en": "Small vision-language models (9B total, 2B active MoE): image + text in, 32K context, optional reasoning. Use /caption {\"length\":\"normal\"...",
-      "url": "https://x.com/OpenRouter/status/2110874130799346145",
-      "permalink": "https://aihot.news/items/cjr36dky395c2wo2bbonp99wm",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-10-15T23:23:05.000Z",
-      "discoveredAt": "2026-10-15T23:49:44.403Z",
-      "summary": "OpenRouter 宣布上架 moondream3.1-9b-a2b 视觉语言模型，9B 总参数、2B 激活的 MoE 架构，支持图像加文本输入、32K 上下文和可选推理。可通过 /caption {\"length\":\"normal\"} 生成图像描述，定价为输入 $0.30/M、输出 $2.50/M tokens。",
+      "id": "ecjmjz71xs2nwh7kj2jlicgcp",
+      "title": "Elon Musk 转发 Grok Bot 大规模升级，任务速度提升 3 倍",
+      "title_en": "Upgrades",
+      "url": "https://x.com/elonmusk/status/2111642949071364231",
+      "permalink": "https://aihot.news/items/ecjmjz71xs2nwh7kj2jlicgcp",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "publishedAt": "2026-10-18T02:18:06.000Z",
+      "discoveredAt": "2026-10-18T02:35:17.823Z",
+      "summary": "Elon Musk 转发 @melvindvivas 的帖子，称 Grok Bot 获得大规模升级。更新包括计算机任务速度提升 3 倍、回复时间缩短一半以上、语音通话更快且记忆更好、可访问 X Chat 消息、在 X 上标记 @bot 即可完成事务、更智能的邮件自动化，并新增 Robinhood、Coinbase、Trello、PostHog、beehiiv 等连接器，同时改进了 UI 和通知。",
       "category": "ai-products",
-      "score": 52,
+      "score": 56,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cjr36dky395c2wo2bbonp99wm"
+        "canonical": "https://aihot.news/items/ecjmjz71xs2nwh7kj2jlicgcp"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
       "tags": [
-        "视觉",
-        "图像"
+        "ui",
+        "自动化"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "sl9fgcgercthc13x4yjgsn1y2",
-      "title": "科技反弹浪潮登上大银幕：2026 年多部硅谷批判电影集中上映",
-      "title_en": "The tech backlash is now in theaters",
-      "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-      "permalink": "https://aihot.news/items/sl9fgcgercthc13x4yjgsn1y2",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-10-15T21:39:52.000Z",
-      "discoveredAt": "2026-10-15T22:00:44.263Z",
-      "summary": "2026 年多部以硅谷科技创始人为原型的批判性电影集中上映，包括聚焦 Mark Zuckerberg 的《The Social Reckoning》、讲述 Elizabeth Holmes 的《You Can See Everything》、刻画 Elon Musk 的 Gibney 纪录片，以及把 Sam Altman 塑造成操纵型人物的《Artificial》。",
-      "category": "opinion",
-      "score": 46,
+      "id": "mviucck9mw1y2qtfnhcrd7x3a",
+      "title": "Anthropic 员工演示 Claude Code mods 拦截危险 shell 命令",
+      "title_en": "Claude Code mods change how Claude Code looks and behaves. They are functions that hook into events, change what it does, and can draw th...",
+      "url": "https://x.com/adocomplete/status/2111503487754461676",
+      "permalink": "https://aihot.news/items/mviucck9mw1y2qtfnhcrd7x3a",
+      "source": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+      "publishedAt": "2026-10-17T17:03:55.000Z",
+      "discoveredAt": "2026-10-17T17:08:41.629Z",
+      "summary": "Anthropic 开发者关系员工 Ado Kukic 介绍 Claude Code mods，它是钩入事件、改变 Claude Code 行为并可在终端绘制自己 UI 的函数。他演示了一个 mod，能暂扣有风险的 shell 命令，让你先看到它将删除哪些内容。",
+      "category": "tip",
+      "score": 50,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/sl9fgcgercthc13x4yjgsn1y2"
+        "canonical": "https://aihot.news/items/mviucck9mw1y2qtfnhcrd7x3a"
       },
-      "sourceType": "网站",
-      "designCategory": "设计工具",
+      "sourceType": "X",
+      "designCategory": "产品与体验",
       "relevanceScore": 6,
-      "editorialScore": 11,
+      "editorialScore": 10,
       "tags": [
-        "原型"
+        "ui",
+        "claude code"
       ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "p4mq9t7wyzlxritu15i6d8dtv",
@@ -919,6 +863,60 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "m1ldpvqolbpcdjqe173a5eka4",
+      "title": "可灵 Kling 4.0 即将登陆 idea.ai",
+      "title_en": "Going big with Kling 4.0 👀 #Kling4 #KlingAI",
+      "url": "https://x.com/Kling_ai/status/2111642163209478298",
+      "permalink": "https://aihot.news/items/m1ldpvqolbpcdjqe173a5eka4",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-10-18T02:14:58.000Z",
+      "discoveredAt": "2026-10-18T02:45:19.585Z",
+      "summary": "Kling 4.0 大动作 👀 #Kling4 #KlingAI",
+      "category": null,
+      "score": 29,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/m1ldpvqolbpcdjqe173a5eka4"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "可灵"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "bju5xtywixoj4p1xwtn6vgurp",
+      "title": "Chollet：软件工程全面自动化后的四点观察",
+      "title_en": "Some observations about the \"total\" automation of software engineering:",
+      "url": "https://x.com/fchollet/status/2111507711653564543",
+      "permalink": "https://aihot.news/items/bju5xtywixoj4p1xwtn6vgurp",
+      "source": "X：Francois Chollet (@fchollet)",
+      "publishedAt": "2026-10-17T17:20:43.000Z",
+      "discoveredAt": "2026-10-17T17:45:40.584Z",
+      "summary": "Chollet 观察到软件工程\"全面\"自动化后的四点现象：软件工程师数量比 2025 年更多且需求仍在增长，工程师工作强度前所未有，但已基本不再写代码、约 100% 代码由智能体编写。与此同时，雇佣这些工程师和智能体的公司，其利润底线并未因 AI 采用而改善。他认为必须从系统层面思考：自动化系统中某一环节会带来新的摩擦，并把瓶颈转移到别处。",
+      "category": "opinion",
+      "score": 45,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/bju5xtywixoj4p1xwtn6vgurp"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "自动化",
+        "automation",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "z747jxhz6fk0brxo74doo3cy9",
       "title": "研究发现 AI 模型会在工作报告中隐瞒错误，一句 Be honest 提示词可显著改善",
       "title_en": "AI models hide mistakes in their own work reports, but one sentence in your prompt can help",
@@ -946,32 +944,6 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "udienydgzy8z90o0b1tznwrc8",
-      "title": "可灵4.0无需厨房喷枪",
-      "title_en": "Who needs a kitchen torch? 🔥 #Kling4 #KlingAI",
-      "url": "https://x.com/Kling_ai/status/2111313170900160528",
-      "permalink": "https://aihot.news/items/udienydgzy8z90o0b1tznwrc8",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "publishedAt": "2026-10-17T04:27:40.000Z",
-      "discoveredAt": "2026-10-17T04:32:29.922Z",
-      "summary": "谁还需要厨房喷枪？🔥 #Kling4 #KlingAI",
-      "category": null,
-      "score": 34,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/udienydgzy8z90o0b1tznwrc8"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "可灵"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "a7sb5b0i41s8tvlrriel0r3a3",
       "title": "Claude Code 团队谈 AI 时代的代码评审如何从末端门槛变为持续检查",
       "title_en": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
@@ -995,6 +967,32 @@
       "tags": [
         "自动化",
         "claude code"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "t9kbnkk2r3i67tnmv578wqon8",
+      "title": "Anthropic 报告称内部团队更资深、会议时间增加",
+      "title_en": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "permalink": "https://aihot.news/items/t9kbnkk2r3i67tnmv578wqon8",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-10-17T20:21:19.000Z",
+      "discoveredAt": "2026-10-17T21:25:49.105Z",
+      "summary": "Anthropic 周五发布报告，介绍其围绕 Claude 重塑工作流后公司内部的变化。技术部门初级员工占比从 21% 降至 14%，初级技术新员工占比从 27% 降至 9%；技术团队占全员比例从 61% 降至 56%，公司归因于业务职能扩张和编码工具让非技术员工也能自行开发软件。",
+      "category": "industry",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/t9kbnkk2r3i67tnmv578wqon8"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "工作流"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
@@ -1051,6 +1049,58 @@
         "agent"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "ldxe9lobhx20mp543ffkmqpxy",
+      "title": "Meta 删除商业服务条款中“用于训练 AI”相关表述",
+      "title_en": "Meta 修改商业服务条款引发“用于训练 AI”争议，现已删除相关表述",
+      "url": "https://www.ithome.com/1/014/429.htm",
+      "permalink": "https://aihot.news/items/ldxe9lobhx20mp543ffkmqpxy",
+      "source": "IT之家·人工智能",
+      "publishedAt": "2026-10-18T00:00:43.787Z",
+      "discoveredAt": "2026-10-18T00:30:15.318Z",
+      "summary": "Meta 更新商业服务条款中关于可使用企业账户域名内容训练产品服务的表述引发争议后，现已正式删除该条款。法律专家曾指出该条款可能赋予 Meta 抓取企业账户内容发布商网站并训练 AI 模型的权限，Meta 回应称此次更新只是对既有广告条款的合并整合，爬虫与数据收集仅用于广告和商业产品，站长仍可通过 robots.txt 控制爬虫权限。",
+      "category": "industry",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/ldxe9lobhx20mp543ffkmqpxy"
+      },
+      "sourceType": "网站",
+      "designCategory": "行业观察",
+      "relevanceScore": 6,
+      "editorialScore": 6,
+      "tags": [
+        "广告"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
+      "id": "ib3axwzp3wkqdd8teu8zpj7c9",
+      "title": "Meta 删除可被解读为允许抓取新闻网站训练 AI 的条款措辞",
+      "title_en": "Meta removes language that may have allowed it to scrape news sites",
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "permalink": "https://aihot.news/items/ib3axwzp3wkqdd8teu8zpj7c9",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-10-17T15:04:36.000Z",
+      "discoveredAt": "2026-10-17T15:35:41.760Z",
+      "summary": "Meta 在引发争议后更新商业条款，删除了被专家解读为允许抓取新闻等内容训练 AI、并覆盖 robots.txt 限制的措辞。康奈尔法学教授 James Grimmelmann 等曾如此解读该条款，Meta 发言人 Daniel Roberts 回应称相关条款只适用于广告和商业产品，Meta 使用网页爬虫的方式没有变化，更新不会赋予 Meta 覆盖内容方偏好的新权利。",
+      "category": "industry",
+      "score": 61,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/ib3axwzp3wkqdd8teu8zpj7c9"
+      },
+      "sourceType": "网站",
+      "designCategory": "行业观察",
+      "relevanceScore": 6,
+      "editorialScore": 6,
+      "tags": [
+        "广告"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     }
   ]
 }
