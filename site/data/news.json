@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-18T11:05:09.923Z",
-  "previousGeneratedAt": "2026-10-18T04:34:10.539Z",
+  "generatedAt": "2026-10-18T15:52:04.610Z",
+  "previousGeneratedAt": "2026-10-18T11:05:09.923Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 37,
+  "itemCount": 38,
   "sourceCounts": {
     "X": 24,
-    "网站": 13
+    "网站": 14
   },
   "source": {
     "name": "AI HOT",
@@ -481,6 +481,32 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "d2juenalvzztjs05syo56vg8f",
+      "title": "Stripe 首席设计官 Katie Dill 谈如何用 AI 规模化扩展意图、品质与艺术性",
+      "title_en": "Stripe 首席设计官 @lil_dill 分享：如何用 AI 规模化扩展意图、品质与艺术性 ？",
+      "url": "https://x.com/shao__meng/status/2111807244971213155",
+      "permalink": "https://aihot.news/items/d2juenalvzztjs05syo56vg8f",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-10-18T13:10:57.000Z",
+      "discoveredAt": "2026-10-18T13:23:31.662Z",
+      "summary": "作者整理 Stripe 首席设计官 Katie Dill 在 Lenny's Summit 演讲的要点，讲如何用 AI 规模化扩展意图、品质与艺术性。",
+      "category": "tip",
+      "score": 67,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/d2juenalvzztjs05syo56vg8f"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "ecjmjz71xs2nwh7kj2jlicgcp",
       "title": "Elon Musk 转发 Grok Bot 大规模升级，任务速度提升 3 倍",
       "title_en": "Upgrades",
@@ -701,33 +727,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "l2hlgs2mfy0t16jonj91sj9w0",
-      "title": "Hao AI Lab 演示用 SAM 3 加深度信息把像素转成机器人可用坐标",
-      "title_en": "Turn pixels into coordinates the robot can use.",
-      "url": "https://x.com/haoailab/status/2110900743893143785",
-      "permalink": "https://aihot.news/items/l2hlgs2mfy0t16jonj91sj9w0",
-      "source": "X：UCSD Hao AI Lab (@haoailab)",
-      "publishedAt": "2026-10-16T01:08:50.000Z",
-      "discoveredAt": "2026-10-16T01:34:46.153Z",
-      "summary": "Hao AI Lab 演示一条把像素转成机器人可用坐标的流程：SAM 3 定位物体，深度信息把图像位置换算成以米为单位的 3D 位置，再用一个计算工具处理向量和旋转数学。",
-      "category": "tip",
-      "score": 51,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/l2hlgs2mfy0t16jonj91sj9w0"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "图像",
-        "3d"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "d6dq3yet9he6as49w4qichoje",
       "title": "Fable 5.1 将博尔赫斯短篇做成 3D",
       "title_en": "Fable 5.1: \"Implement Borges's short stories. Like implement them in 3D. Do it, make them creative and beautiful and help us understand t...",
@@ -859,6 +858,33 @@
       "editorialScore": 8,
       "tags": [
         "自动化",
+        "claude code"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "er3xh4ssabjvhxp03wv8ajg31",
+      "title": "DeepSeek API 支持网页搜索与抓取，每 1000 次成功请求 5 元",
+      "title_en": "DeepSeek API 已支持网页搜索和抓取，单价为每 1000 次成功请求 5 元",
+      "url": "https://www.ithome.com/1/014/587.htm",
+      "permalink": "https://aihot.news/items/er3xh4ssabjvhxp03wv8ajg31",
+      "source": "IT之家·人工智能",
+      "publishedAt": "2026-10-18T11:59:52.953Z",
+      "discoveredAt": "2026-10-18T12:29:29.254Z",
+      "summary": "DeepSeek 发布公告，DeepSeek API 现已支持网页搜索与抓取，按请求次数计费，单价为每 1000 次成功请求 5 元。用户在 DeepSeek Harness、Claude Code、Codex 中通过 Server 端工具调用访问的 Search/Fetch 接口目前未计费，将于北京时间 2026 年 11 月 1 日 00:00 起按次收费。",
+      "category": "ai-products",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/er3xh4ssabjvhxp03wv8ajg31"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "codex",
         "claude code"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
