@@ -1,18 +1,101 @@
 {
-  "generatedAt": "2026-10-18T15:52:04.610Z",
-  "previousGeneratedAt": "2026-10-18T11:05:09.923Z",
+  "generatedAt": "2026-10-19T04:40:47.526Z",
+  "previousGeneratedAt": "2026-10-18T15:52:04.610Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 38,
+  "itemCount": 39,
   "sourceCounts": {
-    "X": 24,
-    "网站": 14
+    "网站": 15,
+    "X": 24
   },
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com"
   },
   "items": [
+    {
+      "id": "k5pgpte4odom481lop8mw3qws",
+      "title": "豆包刘星回应“国内超一半算力在造爽剧”：字节总算力仅约 10% 用于视频生成模型",
+      "title_en": "豆包刘星回应“国内超一半算力在造爽剧”：字节总算力中，只有约 10% 用于视频生成模型的训练和推理",
+      "url": "https://www.ithome.com/1/014/729.htm",
+      "permalink": "https://aihot.news/items/k5pgpte4odom481lop8mw3qws",
+      "source": "IT之家·人工智能",
+      "publishedAt": "2026-10-19T03:30:25.263Z",
+      "discoveredAt": "2026-10-19T04:05:17.089Z",
+      "summary": "豆包公关负责人刘星回应“国内超一半算力在造爽剧”的说法，称该算力数据不靠谱，字节总算力中只有约 10% 用于视频生成模型的训练和推理。此前中文在线在投资者关系活动记录表中披露，国内 AI Token 消耗 55% 用于短剧和视频生成，24% 用于电商广告，真正用于研发的仅 15%。",
+      "category": "industry",
+      "score": 47,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/k5pgpte4odom481lop8mw3qws"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "广告",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "sk4zwv92o0uihiab90wy90x9s",
+      "title": "华盛顿大学等团队发布原子级蛋白质设计系统 RFdiffusion3 并登上《科学》",
+      "title_en": "AI 系统 RFdiffusion3 能从原子层面设计蛋白质，可在实验中实现预期功能",
+      "url": "https://www.ithome.com/1/014/625.htm",
+      "permalink": "https://aihot.news/items/sk4zwv92o0uihiab90wy90x9s",
+      "source": "IT之家·人工智能",
+      "publishedAt": "2026-10-18T23:22:56.297Z",
+      "discoveredAt": "2026-10-19T00:05:17.846Z",
+      "summary": "国际联合研究团队在《科学》发表论文，公布可从单个原子层面建模设计蛋白质与核酸的生成式 AI 系统 RFdiffusion3，团队已于 2025 年 12 月 3 日将其开源。",
+      "category": "paper",
+      "score": 65,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/sk4zwv92o0uihiab90wy90x9s"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 9,
+      "editorialScore": 14,
+      "tags": [
+        "设计系统",
+        "设计"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "ozetjkc8vi2sjry77w87uwl44",
+      "title": "xAI 工程师探讨聊天是否为智能体终极界面",
+      "title_en": "these results are really interesting! i can see two sides forming: one that sees agents as an extension of their own mind - like a cyborg...",
+      "url": "https://x.com/poteto/status/2111911178503082422",
+      "permalink": "https://aihot.news/items/ozetjkc8vi2sjry77w87uwl44",
+      "source": "X：Lauren Tan（SpaceXSI，Grok Bot 工程负责人） (@poteto)",
+      "publishedAt": "2026-10-18T20:03:57.000Z",
+      "discoveredAt": "2026-10-18T20:04:45.456Z",
+      "summary": "xAI 的 Lauren Tan 就\"聊天是否是智能体 UI 的最终形态\"发起讨论，认为存在两种立场：一派把智能体视为自身心智的延伸（赛博格式），另一派视其为能独立决策、与人类协作的人工存在。",
+      "category": "opinion",
+      "score": 30,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/ozetjkc8vi2sjry77w87uwl44"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 10,
+      "editorialScore": 14,
+      "tags": [
+        "ui",
+        "界面",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
     {
       "id": "m6ebsf2q8sp9crluuvi6wd5wf",
       "title": "用数据可视化原则设计日常 UI 与定制探索工具",
@@ -125,6 +208,34 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "g3h4v1tbgu7giq5ytwfsg39eg",
+      "title": "中国拟议 AI 出口管制，DeepSeek 投资机器人，Infinigence 完成 3.34 亿美元融资",
+      "title_en": "🗞️China Proposes AI Export Controls, DeepSeek Bets on Robotics, and Infinigence Raises $334M",
+      "url": "https://www.recodechinaai.com/p/china-proposes-ai-export-controls",
+      "permalink": "https://aihot.news/items/g3h4v1tbgu7giq5ytwfsg39eg",
+      "source": "Recode China AI（RSS）",
+      "publishedAt": "2026-10-18T15:15:40.000Z",
+      "discoveredAt": "2026-10-18T15:54:46.433Z",
+      "summary": "中国商务部和科技部拟将 AI 模型、智能体、芯片设计与算力集群纳入技术出口管制目录，但通过 API、应用、网页界面或 SaaS 提供访问不构成大模型技术出口。DeepSeek 据报将领投机器人 AI 初创公司 Winverse AI 的种子轮融资，美团 Long-Z Investments 也参与其中。",
+      "category": "industry",
+      "score": 44,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/g3h4v1tbgu7giq5ytwfsg39eg"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "设计",
+        "界面",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "ea89bh2j553ue7v80eqg55fne",
       "title": "免费 AI 岗位聚合网站 jobs.dinq.me 上线，聚合北上杭深融资千万美元以上公司职位",
       "title_en": "手动点赞推荐 @samuel_ys92 👍",
@@ -149,62 +260,6 @@
         "用户体验"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "eoi8j7vxmnyyxqx0bo5swt6uc",
-      "title": "Tripo 开源 AI 智能体工作流，用于 VTuber 3D 角色制作",
-      "title_en": "Open-source AI agent workflow for VTuber creation.",
-      "url": "https://x.com/tripoai/status/2110946794519802042",
-      "permalink": "https://aihot.news/items/eoi8j7vxmnyyxqx0bo5swt6uc",
-      "source": "Tripo（官方 X）",
-      "publishedAt": "2026-10-16T04:11:49.000Z",
-      "discoveredAt": "2026-10-16T04:15:46.837Z",
-      "summary": "Tripo 转发用户 @LidaMidorin 的开源 AI 智能体工作流，用于 VTuber 3D 角色制作，并发布了引导 3D 角色建模的完整技能库。流程由 Astra / Opus、Tripo P2.0 和 Blender 驱动：先制作脸、身体、头发、表情等三面图和配饰插画，再用 Tripo 生成各部件（推荐 Smartmesh P2.0、约 5000 至 10000 四边形面数，面数过多校正时易变形），随后用 BlenderMCP 合并各部件、直接建模小物件、修正眼球和手、插入骨骼并调整皮肤权重、制作 IK/FK、调整摇摆物和着色器，制作周期约 2 周（实际约 1 个月，因质量不佳重做两次），最终模型还实现了可开合的翅膀结构。",
-      "category": "tip",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/eoi8j7vxmnyyxqx0bo5swt6uc"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 12,
-      "editorialScore": 13,
-      "tags": [
-        "工作流",
-        "workflow",
-        "3d",
-        "agent"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "kbccvteado5kgzbk5ah9yv5ip",
-      "title": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
-      "title_en": "刚刚，可灵4.0深夜上线，支持30秒一镜到底，熟悉的可灵回来了。",
-      "url": "https://x.com/Khazix0918/status/2110914404393091205",
-      "permalink": "https://aihot.news/items/kbccvteado5kgzbk5ah9yv5ip",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "publishedAt": "2026-10-16T02:03:07.000Z",
-      "discoveredAt": "2026-10-16T02:17:44.421Z",
-      "summary": "可灵AI凌晨正式上线视频模型 Kling 4.0，作者烧数万积分实测后认为其在大范围动态、复杂动作衔接和全能参考可控性上有扎实进步。支持最长30秒一镜到底直出，视频首尾帧改为最多10帧的多帧参考；1080P 30秒约450积分，720P 20秒的 Kling 4.0 Flash 仅120积分，作者推荐先用 Flash 打样再用正式版出片，此外10-bit 4K HDR 输出规格尚未上线。",
-      "category": "ai-products",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/kbccvteado5kgzbk5ah9yv5ip"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
-      "tags": [
-        "可灵",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "z6k9xlxketvcd8whmvhwbztlt",
@@ -265,31 +320,32 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "bvljy29i9xwh3wnkwign3npt4",
-      "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
-      "title_en": "丹麦最高法院裁定：AI 生成儿童色情内容同样获刑",
-      "url": "https://www.ithome.com/1/013/914.htm",
-      "permalink": "https://aihot.news/items/bvljy29i9xwh3wnkwign3npt4",
-      "source": "IT之家·人工智能",
-      "publishedAt": "2026-10-16T06:14:36.073Z",
-      "discoveredAt": "2026-10-16T06:38:14.572Z",
-      "summary": "据彭博社 15 日报道，丹麦最高法院维持对一名 31 岁男子 18 个月监禁的判决，该男子因持有并传播 3.6 万余张 AI 生成的儿童色情图像获刑，且不适用缓刑。法院裁定，即使图像无真实人物原型，也受丹麦《刑法》约束，量刑时不应考虑人物是否虚构；此案为丹麦首起此类定罪，并引发跨国调查，警方查明 273 名买家身份、逮捕 25 人。",
-      "category": "industry",
-      "score": 76,
-      "selected": true,
+      "id": "v0sh6ff930zryg6h8vqmmx2t1",
+      "title": "阿里通义 MAI-UI 团队开源通用计算机使用智能体技术栈 OpenGCUA",
+      "title_en": "阿里通义 MAI-UI 团队开源了通用计算机使用智能体完整技术栈「OpenGCUA」：包括 harness、跨设备 SDK、原生 macOS 应用、评测轨迹和参考 agent 实现",
+      "url": "https://x.com/shao__meng/status/2111999471588679916",
+      "permalink": "https://aihot.news/items/v0sh6ff930zryg6h8vqmmx2t1",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-10-19T01:54:47.000Z",
+      "discoveredAt": "2026-10-19T02:15:19.156Z",
+      "summary": "阿里通义 MAI-UI 团队开源通用计算机使用智能体完整技术栈 OpenGCUA，包含 harness、跨设备 SDK、原生 macOS 应用、评测轨迹和参考 agent 实现，地址 https://github.com/Tongyi-MAI/OpenGCUA。",
+      "category": "ai-products",
+      "score": 73,
+      "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/bvljy29i9xwh3wnkwign3npt4"
+        "canonical": "https://aihot.news/items/v0sh6ff930zryg6h8vqmmx2t1"
       },
-      "sourceType": "网站",
-      "designCategory": "设计工具",
+      "sourceType": "X",
+      "designCategory": "产品与体验",
       "relevanceScore": 7,
-      "editorialScore": 12,
+      "editorialScore": 11,
       "tags": [
-        "原型",
-        "图像"
+        "ui",
+        "agent",
+        "智能体"
       ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "g51mdu8duvmtuohobl6n6vcrn",
@@ -452,33 +508,6 @@
         "设计"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "wk83jwtn2s9gvhoaylkb46qte",
-      "title": "Meta 发布 Muse Spark Open：816B 开源权重 MoE 模型，支持 1M 上下文",
-      "title_en": "Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context",
-      "url": "https://www.marktechpost.com/2026/10/15/meta-muse-spark-open-816b-open-weight-model/",
-      "permalink": "https://aihot.news/items/wk83jwtn2s9gvhoaylkb46qte",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-10-16T02:26:04.000Z",
-      "discoveredAt": "2026-10-16T04:10:46.089Z",
-      "summary": "Meta Superintelligence Labs 发布 Muse Spark 模型的开源权重版本 Muse Spark Open，为 816B 总参数、每 token 激活 42B 的多模态 MoE 模型，支持文本、图像、视频和音频输入，上下文窗口 1M token。",
-      "category": "ai-models",
-      "score": 82,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/wk83jwtn2s9gvhoaylkb46qte"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
-      "tags": [
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "d2juenalvzztjs05syo56vg8f",
@@ -700,31 +729,57 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "nk8wqzhl0op1vr91dh4fm2a2e",
-      "title": "pstack 作者公开工程原则设计思路：把长指令压缩成命名原则",
-      "title_en": "pstack 作者公开她的 “工程原则” 设计思路",
-      "url": "https://x.com/shao__meng/status/2110976920343171542",
-      "permalink": "https://aihot.news/items/nk8wqzhl0op1vr91dh4fm2a2e",
-      "source": "X：邵猛 (@shao__meng)",
-      "publishedAt": "2026-10-16T06:11:32.000Z",
-      "discoveredAt": "2026-10-16T06:17:14.678Z",
-      "summary": "pstack 作者 @poteto 公开了这个 Cursor 官方内置插件的工程原则设计思路，核心是随模型能力提升，把写给智能体的冗长步骤压缩为简短的命名原则。",
-      "category": "tip",
-      "score": 64,
+      "id": "dw0docel0xlr81w9w3t3936v7",
+      "title": "面壁智能测试 MiniCPM-V 4.7 1B",
+      "title_en": "Building ideas with building blocks, powered by on-device AI! 🧱📱✨ Love this creative comparison. Thanks for putting MiniCPM-V 4.7 1B to...",
+      "url": "https://x.com/OpenBMB/status/2112008618145108384",
+      "permalink": "https://aihot.news/items/dw0docel0xlr81w9w3t3936v7",
+      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "publishedAt": "2026-10-19T02:31:08.000Z",
+      "discoveredAt": "2026-10-19T02:46:19.021Z",
+      "summary": "用积木搭建创意，由端侧 AI 驱动！🧱📱✨ 很喜欢这个富有创意的对比。感谢对 MiniCPM-V 4.7 1B 进行测试！🚀",
+      "category": "opinion",
+      "score": 23,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/nk8wqzhl0op1vr91dh4fm2a2e"
+        "canonical": "https://aihot.news/items/dw0docel0xlr81w9w3t3936v7"
       },
       "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
+      "designCategory": "行业观察",
+      "relevanceScore": 9,
+      "editorialScore": 9,
       "tags": [
-        "设计",
-        "智能体"
+        "创意",
+        "creative"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
+      "id": "ap7kqmmlooykl1mgzllimu52q",
+      "title": "Hugging Face 上衍生模型最多的是 FLUX.1-dev",
+      "title_en": "The most built-upon model on the Hugging Face Hub isn’t Llama or Qwen.",
+      "url": "https://x.com/Thom_Wolf/status/2111960585369772163",
+      "permalink": "https://aihot.news/items/ap7kqmmlooykl1mgzllimu52q",
+      "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+      "publishedAt": "2026-10-18T23:20:16.000Z",
+      "discoveredAt": "2026-10-18T23:40:26.520Z",
+      "summary": "Hugging Face Hub 上被二次开发最多的模型不是 Llama 也不是 Qwen。\n\n而是来自德国实验室 Black Forest Labs 的 FLUX.1-dev：4.3 万个衍生模型。\n\n欧洲在 Hub 上训练了约 8% 的开源模型算力，但人们在其之上构建的东西中约 18% 是欧洲的。\n\n自建还是投降？自建，并且开源地建。本周 GTC Berlin 见",
+      "category": "opinion",
+      "score": 48,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/ap7kqmmlooykl1mgzllimu52q"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "flux"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "d6dq3yet9he6as49w4qichoje",
@@ -779,34 +834,6 @@
         "可灵"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "bju5xtywixoj4p1xwtn6vgurp",
-      "title": "Chollet：软件工程全面自动化后的四点观察",
-      "title_en": "Some observations about the \"total\" automation of software engineering:",
-      "url": "https://x.com/fchollet/status/2111507711653564543",
-      "permalink": "https://aihot.news/items/bju5xtywixoj4p1xwtn6vgurp",
-      "source": "X：Francois Chollet (@fchollet)",
-      "publishedAt": "2026-10-17T17:20:43.000Z",
-      "discoveredAt": "2026-10-17T17:45:40.584Z",
-      "summary": "Chollet 观察到软件工程\"全面\"自动化后的四点现象：软件工程师数量比 2025 年更多且需求仍在增长，工程师工作强度前所未有，但已基本不再写代码、约 100% 代码由智能体编写。与此同时，雇佣这些工程师和智能体的公司，其利润底线并未因 AI 采用而改善。他认为必须从系统层面思考：自动化系统中某一环节会带来新的摩擦，并把瓶颈转移到别处。",
-      "category": "opinion",
-      "score": 45,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/bju5xtywixoj4p1xwtn6vgurp"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "自动化",
-        "automation",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "z747jxhz6fk0brxo74doo3cy9",
