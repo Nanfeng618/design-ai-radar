@@ -1,18 +1,76 @@
 {
-  "generatedAt": "2026-10-19T04:40:47.526Z",
-  "previousGeneratedAt": "2026-10-18T15:52:04.610Z",
+  "generatedAt": "2026-10-19T13:15:40.116Z",
+  "previousGeneratedAt": "2026-10-19T04:40:47.526Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 39,
+  "itemCount": 40,
   "sourceCounts": {
-    "网站": 15,
-    "X": 24
+    "X": 24,
+    "公众号": 1,
+    "网站": 15
   },
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com"
   },
   "items": [
+    {
+      "id": "hdymmkxhqhudn0cb7fi0kmsqp",
+      "title": "DeepSeek 合并团队成立产品部",
+      "title_en": "DeepSeek has merged its Harness, Web, App and Platform teams into a new Product Department, led by the former head of the Harness team, C...",
+      "url": "https://x.com/thexpin/status/2112121758811562346",
+      "permalink": "https://aihot.news/items/hdymmkxhqhudn0cb7fi0kmsqp",
+      "source": "X：X.PIN (@thexpin)",
+      "publishedAt": "2026-10-19T10:00:43.000Z",
+      "discoveredAt": "2026-10-19T10:30:22.588Z",
+      "summary": "DeepSeek 已将其 Harness、Web、App 和 Platform 团队合并为一个新的产品部门，由原 Harness 团队负责人崔天翼领导。\n\n目前，他们正在招聘新的产品设计师，旨在提升消费者体验。",
+      "category": "industry",
+      "score": 49,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/hdymmkxhqhudn0cb7fi0kmsqp"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 19,
+      "editorialScore": 23,
+      "tags": [
+        "产品设计",
+        "设计师",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "s0f2bkdrcrpoff1rg1bxgpbdp",
+      "title": "实测 Lovart 2.0 个人设计 Agent Arti：记忆、画布巡检与设计委托",
+      "title_en": "实测Lovart 2.0，AI设计终于可以打破千篇一律的模板化死板了",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512399&idx=1&sn=8aad2f1c9fe7cf02a3f61fbfef1bd644",
+      "permalink": "https://aihot.news/items/s0f2bkdrcrpoff1rg1bxgpbdp",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-10-19T10:26:00.000Z",
+      "discoveredAt": "2026-10-19T11:03:21.559Z",
+      "summary": "作者实测 Lovart 2.0 新上线的个人设计 Agent Arti，它能读取用户历史项目的审美记忆，在生成中自动调研视觉方向、自主纠错，并支持画布巡检和分享链接后在画布上直接评论。文中用广东文创品牌和奶茶秋季海报项目验证记忆复用，还试运行了一个每日饮品节点的设计委托任务；Lovart 2.0 中文版已全量上线。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/s0f2bkdrcrpoff1rg1bxgpbdp"
+      },
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "海报",
+        "视觉",
+        "设计",
+        "品牌"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
     {
       "id": "k5pgpte4odom481lop8mw3qws",
       "title": "豆包刘星回应“国内超一半算力在造爽剧”：字节总算力仅约 10% 用于视频生成模型",
@@ -180,32 +238,31 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "s36xl0gellk4aharu95lz6fqb",
-      "title": "OpenRouter 公布图像生成定价与 thinking_mode",
-      "title_en": "Pricing: $0.03 per image at 1K, $0.06 at 2K",
-      "url": "https://x.com/OpenRouter/status/2111064738243428383",
-      "permalink": "https://aihot.news/items/s36xl0gellk4aharu95lz6fqb",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-10-16T12:00:29.000Z",
-      "discoveredAt": "2026-10-16T12:13:17.160Z",
-      "summary": "定价：1K 每张 $0.03，2K 每张 $0.06\n参考图 1K 每张 $0.02，2K 每张 $0.07\nthinking_mode：fast 为默认\n当编辑需要对提示词进行更多推理时，设为 high（+$0.02）",
-      "category": "ai-products",
-      "score": 44,
+      "id": "ns2sv08s26b5gemd66fl6phfi",
+      "title": "Nathan Lambert：AGI 还需时日",
+      "title_en": "Trying to use the models for things outside of coding / ml, like making slides or coherent plans or longish content design, makes me feel...",
+      "url": "https://x.com/natolambert/status/2112150477123043514",
+      "permalink": "https://aihot.news/items/ns2sv08s26b5gemd66fl6phfi",
+      "source": "X：Nathan Lambert (@natolambert)",
+      "publishedAt": "2026-10-19T11:54:50.000Z",
+      "discoveredAt": "2026-10-19T12:01:35.732Z",
+      "summary": "尝试把模型用在编程/机器学习之外的事情上，比如做幻灯片、制定连贯的计划或较长的内容设计，让我觉得 AGI 的到来还得等上一阵。",
+      "category": "opinion",
+      "score": 33,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/s36xl0gellk4aharu95lz6fqb"
+        "canonical": "https://aihot.news/items/ns2sv08s26b5gemd66fl6phfi"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
       "tags": [
-        "图像生成",
-        "图像",
-        "提示词"
+        "design",
+        "设计"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "g3h4v1tbgu7giq5ytwfsg39eg",
@@ -262,6 +319,34 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "hhxk5gbg18sdkzhuml29srlwu",
+      "title": "可灵AI亮相ACFM 2026，聚焦Kling 4.0电影级能力",
+      "title_en": "From Oct 10 to 13, Kling AI joined ACFM 2026 for deep exchanges with the global film industry!",
+      "url": "https://x.com/Kling_ai/status/2112136489043947962",
+      "permalink": "https://aihot.news/items/hhxk5gbg18sdkzhuml29srlwu",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-10-19T10:59:15.000Z",
+      "discoveredAt": "2026-10-19T11:29:37.095Z",
+      "summary": "可灵AI于10月10日至13日参加ACFM 2026，与全球电影行业深度交流，重点围绕Kling 4.0的模型能力，汇聚亚洲顶尖电影人探讨故事驱动型AI的未来及其对专业电影制作的影响。可灵AI表示将持续推动AI视频融入专业制作流程，与全球创作者合作把生成式AI带入真实工作流。",
+      "category": "industry",
+      "score": 23,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/hhxk5gbg18sdkzhuml29srlwu"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 9,
+      "editorialScore": 12,
+      "tags": [
+        "可灵",
+        "工作流",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "z6k9xlxketvcd8whmvhwbztlt",
       "title": "可灵AI亮相广告周谈创意工作流",
       "title_en": "AI video is evolving. Where does the industry go from here? 👀",
@@ -289,35 +374,6 @@
         "广告"
       ],
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "vczdbqpsoedeuvj203olwwq3j",
-      "title": "Kling 4.0 在 kling.ai 全量开放，可灵 AI 在 Advertising Week New York 2026 与 WPP、Adobe 探讨 AI 视频落地",
-      "title_en": "At Advertising Week New York 2026, Kling AI joined WPP and Adobe to explore how AI video is moving from creative experimentation into rea...",
-      "url": "https://x.com/Kling_ai/status/2111109915083264065",
-      "permalink": "https://aihot.news/items/vczdbqpsoedeuvj203olwwq3j",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "publishedAt": "2026-10-16T15:00:00.000Z",
-      "discoveredAt": "2026-10-16T15:12:16.077Z",
-      "summary": "可灵 AI 宣布 Kling 4.0 现已在 kling.ai 全量可用，提供更精细的运动、更精准的创作控制和专业级音视频输出。此前的 Advertising Week New York 2026（10 月 6 日，纽约）上，可灵与 WPP、Adobe 探讨了 AI 视频从创意实验走向实际生产，认为下一阶段重点在于连接模型、工具和工作流，让创意以更高一致性和可控性规模化。",
-      "category": "ai-products",
-      "score": 52,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/vczdbqpsoedeuvj203olwwq3j"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
-      "tags": [
-        "adobe",
-        "可灵",
-        "工作流",
-        "创意"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "v0sh6ff930zryg6h8vqmmx2t1",
@@ -510,6 +566,34 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
+      "id": "sirzl1u03udalnlvomk50u44o",
+      "title": "作者发布 superlite：Claude Code 自主开发工作流插件，比 superpowers 快约一半",
+      "title_en": "Superlite: A Faster Alternatie to Superpowers",
+      "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+      "permalink": "https://aihot.news/items/sirzl1u03udalnlvomk50u44o",
+      "source": "Hacker News：AI 热帖",
+      "publishedAt": "2026-10-18T22:53:56.000Z",
+      "discoveredAt": "2026-10-19T07:11:18.096Z",
+      "summary": "作者为 Claude Code 开发了 superlite 插件，通过一次批准、按接口拆分任务并行调度最多 18 个 Agent、按能力分层匹配模型并用 hooks 强制执行规则，实现交出规格后无需逐步确认的自主开发。",
+      "category": "tip",
+      "score": 68,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/sirzl1u03udalnlvomk50u44o"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 9,
+      "editorialScore": 10,
+      "tags": [
+        "工作流",
+        "claude code",
+        "agent"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "d2juenalvzztjs05syo56vg8f",
       "title": "Stripe 首席设计官 Katie Dill 谈如何用 AI 规模化扩展意图、品质与艺术性",
       "title_en": "Stripe 首席设计官 @lil_dill 分享：如何用 AI 规模化扩展意图、品质与艺术性 ？",
@@ -698,35 +782,6 @@
         "智能体"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "shyayt0dxfr2nhqmz9qufu1lm",
-      "title": "Claude 规划调度多 CLI 智能体协作开发流",
-      "title_en": "claude 规划，其他 agent 执行，最后 claude 验收。",
-      "url": "https://x.com/howie_serious/status/2111013547723706553",
-      "permalink": "https://aihot.news/items/shyayt0dxfr2nhqmz9qufu1lm",
-      "source": "X：howie.serious (@howie_serious)",
-      "publishedAt": "2026-10-16T08:37:05.000Z",
-      "discoveredAt": "2026-10-16T08:48:15.491Z",
-      "summary": "该推文分享了一套以 Claude 负责规划与验收、其他 agent 负责执行的开发工作流，执行方包括 codex cli、cursor cli、antigravity cli、grok cli，目的是把各家 AI 会员额度充分利用起来，后续还计划把本地模型纳入流程。作者称目前体验不错，认为 opus 5.5 在编程开发上比高一档的 gpt-6 astra 更好用。",
-      "category": "tip",
-      "score": 45,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/shyayt0dxfr2nhqmz9qufu1lm"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 9,
-      "editorialScore": 10,
-      "tags": [
-        "工作流",
-        "codex",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "dw0docel0xlr81w9w3t3936v7",
@@ -993,33 +1048,6 @@
       "tags": [
         "codex",
         "claude code"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "p7ndystyswt8gla8nikxtf58k",
-      "title": "AI Agent 还是 Workflow？Dify 详解如何选择合适方案",
-      "title_en": "AI Agent or Workflow? How to Choose the Right Approach",
-      "url": "https://dify.ai/zh/blog/ai-agent-or-workflow-how-to-choose-the-right-approach",
-      "permalink": "https://aihot.news/items/p7ndystyswt8gla8nikxtf58k",
-      "source": "Dify Blog",
-      "publishedAt": "2026-10-16T12:00:00.000Z",
-      "discoveredAt": "2026-10-16T11:01:16.607Z",
-      "summary": "Dify 发文讲解 AI Agent 与 Workflow 的区别：Agent 由模型在运行时从获批工具中选择下一步，Workflow 则由搭建者预先定义步骤与分支。文章建议流程固定可重复时用 Workflow，需逐次判断时用 Agent，并可在 Workflow 中嵌入 Agent 节点处理单个灵活环节。",
-      "category": "tip",
-      "score": 36,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/p7ndystyswt8gla8nikxtf58k"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "workflow",
-        "agent"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
