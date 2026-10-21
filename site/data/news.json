@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-21T11:49:05.672Z",
-  "previousGeneratedAt": "2026-10-21T04:47:10.120Z",
+  "generatedAt": "2026-10-21T17:12:24.966Z",
+  "previousGeneratedAt": "2026-10-21T11:49:05.672Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 46,
+  "itemCount": 49,
   "sourceCounts": {
-    "网站": 19,
+    "网站": 22,
     "X": 24,
     "公众号": 3
   },
@@ -14,6 +14,34 @@
     "url": "https://aihot.virxact.com"
   },
   "items": [
+    {
+      "id": "w9t5798d4f4389yywx03nxukw",
+      "title": "Mistral 与 Nvidia 用物理 AI 加速工业设计",
+      "title_en": "Mistral and Nvidia want to speed up industrial design with physics AI",
+      "url": "https://the-decoder.com/mistral-and-nvidia-want-to-speed-up-industrial-design-with-physics-ai/",
+      "permalink": "https://aihot.news/items/w9t5798d4f4389yywx03nxukw",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-10-21T14:40:51.000Z",
+      "discoveredAt": "2026-10-21T14:54:28.587Z",
+      "summary": "Mistral 与 Nvidia 合作，将 Mistral Large 4 和 Mistral 的物理 AI 与 Nvidia 的 CUDA-X、Warp 及 Omniverse 结合，用于加速工程仿真与工业产品设计。",
+      "category": "industry",
+      "score": 46,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/w9t5798d4f4389yywx03nxukw"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 17,
+      "editorialScore": 21,
+      "tags": [
+        "产品设计",
+        "design",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
     {
       "id": "tua64zwyls32fsmpb281dsjnd",
       "title": "Black Forest Labs 开源 5.6B 图像生成模型 FLUX 3 Image Klein，8GB 显存可运行",
@@ -184,6 +212,33 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "q8latj1v3s2cpy4fett079kqw",
+      "title": "Vidu 担任首席技术支持，AI 院线电影《三星堆：未来往事》10月23日上映",
+      "title_en": "今天，Vidu 走进了一部院线电影",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489384&idx=1&sn=4591a1e1f5487b0b68d0ad51c7305f8e",
+      "permalink": "https://aihot.news/items/q8latj1v3s2cpy4fett079kqw",
+      "source": "公众号：生数科技（Vidu·视频）",
+      "publishedAt": "2026-10-21T13:16:19.000Z",
+      "discoveredAt": "2026-10-21T15:40:11.734Z",
+      "summary": "生数科技宣布，由博纳影业打造的 100 分钟科幻电影《三星堆：未来往事》将于 10 月 23 日登陆院线，是中国首部获国家电影局公映许可证的 AI 超写实院线电影，Vidu 提供首席技术支持。影片人物全部由 AI 生成，无真人演员及数字复刻，采用博纳 AIGMS 自研的博卡电影云片场叠加 Vidu 视频模型，协同完成从分镜、画面到视频生成的制作。",
+      "category": "industry",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/q8latj1v3s2cpy4fett079kqw"
+      },
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "gigbr09ngjpofzzhdqqcxgnfa",
       "title": "Meshy 直播演示 AI 生成资产搭建关卡",
       "title_en": "Watch @TheSandboxGame build a playable level with AI-generated assets, live 👀",
@@ -211,30 +266,29 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "i8s81ihzs5zl16pc3zgz4swkz",
-      "title": "Viggle 发布 3D 原生世界基础模型 JST-2，把物理结构写进 token",
-      "title_en": "近期主流世界模型 (Sora、Genie、Genie-3、Cosmos...) 几乎都工作在像素/视频空间，模型从海量视频中隐式地“猜”出物理规律",
-      "url": "https://x.com/shao__meng/status/2112391527330914623",
-      "permalink": "https://aihot.news/items/i8s81ihzs5zl16pc3zgz4swkz",
-      "source": "X：邵猛 (@shao__meng)",
-      "publishedAt": "2026-10-20T03:52:41.000Z",
-      "discoveredAt": "2026-10-20T04:02:52.178Z",
-      "summary": "Viggle 发布全栈物理原生世界基础模型 JST-2，与 Sora、Genie、Cosmos 等像素/视频空间路线相反，整个技术栈构建在 3D 空间。",
-      "category": "ai-models",
-      "score": 57,
+      "id": "m79m52i67d6w1ymr3hpmgxh78",
+      "title": "Kling 4 在 Runway 开放限时无限使用，新订阅可享 25% 折扣",
+      "title_en": "Unlimited Kling 4.0? Say less 🙌 #Kling4 #KlingAI",
+      "url": "https://x.com/Kling_ai/status/2112949237743018319",
+      "permalink": "https://aihot.news/items/m79m52i67d6w1ymr3hpmgxh78",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-10-21T16:48:49.000Z",
+      "discoveredAt": "2026-10-21T17:05:30.655Z",
+      "summary": "可灵（Kling）转发 Runway 公告，Kling 4 现已在 Runway 上线无限量使用。新注册 Max 或 Team 套餐可获得 3 天无限访问，所有套餐的 Kling 4 均享 25% 折扣。",
+      "category": "ai-products",
+      "score": 53,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/i8s81ihzs5zl16pc3zgz4swkz"
+        "canonical": "https://aihot.news/items/m79m52i67d6w1ymr3hpmgxh78"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
+      "relevanceScore": 11,
+      "editorialScore": 14,
       "tags": [
-        "sora",
-        "视频",
-        "3d"
+        "可灵",
+        "runway"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -349,6 +403,64 @@
         "mcp"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "ni241cey45dnldebc4g9crau9",
+      "title": "可灵 Kling 4.0 现已上线 fal 平台",
+      "title_en": "Bring your next video idea to life with Kling 4.0, now available on fal. #Kling4 #KlingAI",
+      "url": "https://x.com/Kling_ai/status/2112928160312643931",
+      "permalink": "https://aihot.news/items/ni241cey45dnldebc4g9crau9",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-10-21T15:25:04.000Z",
+      "discoveredAt": "2026-10-21T15:33:17.971Z",
+      "summary": "可灵（Kling AI）宣布 Kling 4.0 现已在 fal 平台可用。据 fal 介绍，该模型是新一代原生多模态视频模型，复杂运动更稳定、角色与场景参考一致性更强、电影化叙事控制更精准；目前仅通过 fal UX 和 fal Agent 提供，API 访问即将推出。",
+      "category": "ai-products",
+      "score": 62,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/ni241cey45dnldebc4g9crau9"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 10,
+      "editorialScore": 13,
+      "tags": [
+        "可灵",
+        "ux",
+        "视频",
+        "agent"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "szinu4tfaoo0f79nimvnv23fg",
+      "title": "可灵 4.0 上线 fal 平台",
+      "title_en": "Kling 4.0 is now live on fal.",
+      "url": "https://x.com/fal/status/2112922156845641823",
+      "permalink": "https://aihot.news/items/szinu4tfaoo0f79nimvnv23fg",
+      "source": "X：fal (@fal)",
+      "publishedAt": "2026-10-21T15:01:13.000Z",
+      "discoveredAt": "2026-10-21T15:31:18.280Z",
+      "summary": "fal 宣布可灵（Kling）4.0 上线，称其为新一代原生多模态视频模型，复杂运动稳定性、角色和场景的参考一致性以及电影叙事的精确控制均有提升。目前仅可通过 fal UX 和 fal Agent 使用，API 访问即将开放。",
+      "category": "ai-products",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/szinu4tfaoo0f79nimvnv23fg"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 10,
+      "editorialScore": 13,
+      "tags": [
+        "可灵",
+        "ux",
+        "视频",
+        "agent"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "symtsa5kibe1zhzeugw3nya26",
@@ -487,60 +599,33 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "sibjln4bir8z4c2pio6dded0i",
-      "title": "可灵（Kling）发布 Kling 4.0 视频模型，单条视频最长 30 秒",
-      "title_en": "Kling AI released its Kling 4.0 video model, The Decoder reports. It generates single videos up to 30 seconds, extends prompt understandi...",
-      "url": "https://x.com/thexpin/status/2112396910900265280",
-      "permalink": "https://aihot.news/items/sibjln4bir8z4c2pio6dded0i",
-      "source": "X：X.PIN (@thexpin)",
-      "publishedAt": "2026-10-20T04:14:04.000Z",
-      "discoveredAt": "2026-10-20T04:33:54.860Z",
-      "summary": "据 The Decoder 报道，可灵（Kling）发布 Kling 4.0 视频模型，单条视频最长可生成 30 秒，提示词理解扩展到 8,000 tokens。新模型支持双声道立体声音频和超过十种语言的唇形同步，同时推出更轻量的 Flash 版本。",
-      "category": "ai-models",
-      "score": 65,
+      "id": "y6uw40c7q5se1p2zvdd7qrbb0",
+      "title": "Claude Mods 实践：把 Claude Code 的 harness 变成可编程的注意力界面",
+      "title_en": "Claude Mods: Flipping the Harness Inside Out",
+      "url": "https://www.latent.space/p/claude-mods",
+      "permalink": "https://aihot.news/items/y6uw40c7q5se1p2zvdd7qrbb0",
+      "source": "Latent Space（RSS）",
+      "publishedAt": "2026-10-21T13:04:19.000Z",
+      "discoveredAt": "2026-10-21T13:07:25.766Z",
+      "summary": "作者分享用 Claude Mods 定制 Claude Code 工作流的数周实践，mod 是运行在 Claude Code 内的 TypeScript/JavaScript 插件，可响应提示词、工具调用等事件并改写渲染与行为。",
+      "category": "tip",
+      "score": 68,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/sibjln4bir8z4c2pio6dded0i"
+        "canonical": "https://aihot.news/items/y6uw40c7q5se1p2zvdd7qrbb0"
       },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 11,
+      "editorialScore": 12,
       "tags": [
-        "可灵",
-        "视频",
+        "界面",
+        "工作流",
         "提示词",
-        "prompt"
+        "claude code"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "qv7vl3umbngiqiy61rbqk6gax",
-      "title": "fal 与 bfl_ai 合作发布 FLUX 3 Max 视频模型",
-      "title_en": "Meet the fastest model in the West.",
-      "url": "https://x.com/fal/status/2112263983889817913",
-      "permalink": "https://aihot.news/items/qv7vl3umbngiqiy61rbqk6gax",
-      "source": "X：fal (@fal)",
-      "publishedAt": "2026-10-19T19:25:52.000Z",
-      "discoveredAt": "2026-10-19T19:44:33.020Z",
-      "summary": "fal 与 @bfl_ai 合作推出经后训练的前沿视频模型 FLUX 3 Max，现已在 fal 上线。该模型在第三方图生视频质量基准上并列第 1，生成 10 秒 720/768p 视频约需 12 秒；未来三周提供 75% 折扣。",
-      "category": "ai-models",
-      "score": 64,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/qv7vl3umbngiqiy61rbqk6gax"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
-      "tags": [
-        "flux",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "kpym913l1kig82n79cufocgd1",
@@ -760,58 +845,113 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "qnwu4ppgos1tldqyawplioh6p",
-      "title": "Mastra 推出 Mastra Launch：90 天内让智能体上线生产环境",
-      "title_en": "Announcing Mastra Launch",
-      "url": "https://mastra.ai/blog/announcing-mastra-launch",
-      "permalink": "https://aihot.news/items/qnwu4ppgos1tldqyawplioh6p",
-      "source": "Mastra Blog",
-      "publishedAt": "2026-10-20T00:00:00.000Z",
-      "discoveredAt": "2026-10-20T06:10:56.114Z",
-      "summary": "Mastra 发布 Mastra Launch，提供企业平台完整访问权限与 FDE 工程师每周驻场支持，目标是在 90 天内让智能体进入生产环境。若 90 天内未上线，客户只需支付实施费用。该服务面向已用 Mastra 搭建原型但尚未上线的团队，平台可部署在 Mastra 或自有基础设施上。",
-      "category": "ai-products",
-      "score": 38,
+      "id": "eopuonv9vtx9krnn35qkypc6u",
+      "title": "用 Opus 做动画的六类玩法视频教程",
+      "title_en": "之前很少在推特上传长视频，今天试着发一条。",
+      "url": "https://x.com/aiwarts/status/2112953469703446828",
+      "permalink": "https://aihot.news/items/eopuonv9vtx9krnn35qkypc6u",
+      "source": "X：卡尔的 AI 沃茨 (@aiwarts)",
+      "publishedAt": "2026-10-21T17:05:38.000Z",
+      "discoveredAt": "2026-10-21T17:08:30.765Z",
+      "summary": "作者发布近 7 分钟视频，讲解用 Opus 做动画的六类玩法：产品宣传片、科普动画、手绘动画、3D 场景、音乐 MV，以及用 AI 视频做丝滑转场的技巧。视频从代码动画原理讲起，无需先学写代码，但需把想要的效果说明白，并附有时间轴便于跳看。",
+      "category": "tip",
+      "score": 37,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/qnwu4ppgos1tldqyawplioh6p"
-      },
-      "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 6,
-      "editorialScore": 11,
-      "tags": [
-        "原型",
-        "智能体"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "g3m7ijw3m0v83ti6zlg7z8t9b",
-      "title": "NotebookLM 上线幻灯片与视频概览共创功能",
-      "title_en": "Now you can co-create Slide Decks & Video Overviews to make sure you're getting *exactly* what you want. Here's how it works:",
-      "url": "https://x.com/Gemini_Notebook/status/2112317553762840595",
-      "permalink": "https://aihot.news/items/g3m7ijw3m0v83ti6zlg7z8t9b",
-      "source": "X：Gemini Notebook (@Gemini_Notebook)",
-      "publishedAt": "2026-10-19T22:58:44.000Z",
-      "discoveredAt": "2026-10-19T23:22:33.947Z",
-      "summary": "NotebookLM 宣布幻灯片（Slide Decks）与视频概览（Video Overviews）支持共创自定义。用户可选择来源中的建议主题或自拟主题，指定格式、长度、语言和视觉风格，再通过审阅编辑幻灯片大纲或视频制作笔记后生成。该功能面向所有 Pro 和 Ultra 订阅用户开放。",
-      "category": "ai-products",
-      "score": 51,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/g3m7ijw3m0v83ti6zlg7z8t9b"
+        "canonical": "https://aihot.news/items/eopuonv9vtx9krnn35qkypc6u"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "relevanceScore": 7,
+      "editorialScore": 10,
       "tags": [
-        "视觉",
-        "视频"
+        "视频",
+        "3d"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "sg5ae3nbuqbdp55fg4s33mc9z",
+      "title": "可灵（Kling）4.0 上线 Higgsfield",
+      "title_en": "Now live on Higgsfield. Ready to roll. #KlingAI #Kling4",
+      "url": "https://x.com/Kling_ai/status/2112928202880401556",
+      "permalink": "https://aihot.news/items/sg5ae3nbuqbdp55fg4s33mc9z",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-10-21T15:25:14.000Z",
+      "discoveredAt": "2026-10-21T15:33:17.964Z",
+      "summary": "可灵（Kling）4.0 现已上线 Higgsfield。支持在单次生成中结合角色、物体与音频的 Omni Reference，单次生成 30 秒场景，并可用起始、中间和结束帧控制每个节拍；原生 4K 即将推出。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/sg5ae3nbuqbdp55fg4s33mc9z"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "可灵"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "b6g8ck5vsk0629pnrgvw5vekb",
+      "title": "EdenLive 驱动 Unbound 实时生成渲染",
+      "title_en": "EdenLive is now powering @unbound_io's AI-augmented sculpting workflow.",
+      "url": "https://x.com/tripoai/status/2112921862145499348",
+      "permalink": "https://aihot.news/items/b6g8ck5vsk0629pnrgvw5vekb",
+      "source": "Tripo（官方 X）",
+      "publishedAt": "2026-10-21T15:00:02.000Z",
+      "discoveredAt": "2026-10-21T15:07:25.688Z",
+      "summary": "EdenLive 现为 @unbound_io 的 AI 增强雕刻工作流提供支持。\n\n将实时生成式渲染直接带入你的 3D 创作循环。雕刻模型，看 AI 即时精修，并用 Tripo 导出游戏就绪资产。\n\n由 Tripo 生成。使用 EdenLive 和 Unbound 实时渲染。",
+      "category": "industry",
+      "score": 29,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/b6g8ck5vsk0629pnrgvw5vekb"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 9,
+      "editorialScore": 10,
+      "tags": [
+        "工作流",
+        "workflow",
+        "3d"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "bm4bwid4hdnitbtz7pr6gtd0r",
+      "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
+      "title_en": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "permalink": "https://aihot.news/items/bm4bwid4hdnitbtz7pr6gtd0r",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-10-21T12:00:00.000Z",
+      "discoveredAt": "2026-10-21T13:03:23.939Z",
+      "summary": "OpenAI 与 Google Cloud 达成合作，将把 OpenAI 前沿模型和 Codex 智能体工作流引入 Google Cloud 的 Model Garden，客户可通过 Google Cloud Marketplace 购买，并可用 GCP 消费承诺抵扣。",
+      "category": "industry",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/bm4bwid4hdnitbtz7pr6gtd0r"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 9,
+      "editorialScore": 10,
+      "tags": [
+        "工作流",
+        "codex",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "l94ayb89z6n2xxc9ce6c6ubeh",
@@ -825,7 +965,7 @@
       "summary": "NVIDIA 扩展开源模型家族，推出 Nemotron 3.5 Super VL 与 Nemotron 3.5 Bolt、Nemotron Retriever、Kumo 结构化数据模型、Cosmos 3.5 世界模型、Alpamayo 2 Edge 自动驾驶推理模型、BioNeMo RFD4-Proteina 蛋白质设计模型及量子计算 Ising 模型家族。",
       "category": "ai-models",
       "score": 64,
-      "selected": true,
+      "selected": false,
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/l94ayb89z6n2xxc9ce6c6ubeh"
@@ -869,6 +1009,32 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
+      "id": "irtc281ucfb9qk9o2puob96u7",
+      "title": "NVIDIA GTC Berlin 2026 主题演讲：黄仁勋公布 DSX POD、OpenShell 与 Agile ONE SN 等多项发布",
+      "title_en": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
+      "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
+      "permalink": "https://aihot.news/items/irtc281ucfb9qk9o2puob96u7",
+      "source": "NVIDIA Blog（RSS）",
+      "publishedAt": "2026-10-21T09:30:16.000Z",
+      "discoveredAt": "2026-10-21T09:50:29.498Z",
+      "summary": "NVIDIA 在 GTC Berlin 2026 主题演讲中宣布 DSX POD 模块化 Vera Rubin AI 工厂参考设计，可将现场部署从六个月缩短至 14 天，并提出 AI 是从能源、基础设施到应用的五层结构。",
+      "category": "industry",
+      "score": 62,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/irtc281ucfb9qk9o2puob96u7"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "nd6to9bwzzcxd47qzh6qjjmb8",
       "title": "Claude 在 Claude Science 中自主设计针对蝎神经毒素的蛋白质结合剂",
       "title_en": "Claude Science tackles deadly scorpion stings by designing protein binders from scratch",
@@ -893,35 +1059,6 @@
         "设计"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "j07dfq5nac8r6kdh1nlzbkqbj",
-      "title": "卡兹克分享8个Claude Opus 5.5惊艳玩法",
-      "title_en": "分享8个让我最近很惊艳的Claude Opus 5.5玩法。",
-      "url": "https://x.com/Khazix0918/status/2112794968981139875",
-      "permalink": "https://aihot.news/items/j07dfq5nac8r6kdh1nlzbkqbj",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "publishedAt": "2026-10-21T06:35:49.000Z",
-      "discoveredAt": "2026-10-21T06:47:28.842Z",
-      "summary": "卡兹克整理了8个基于Claude Opus 5.5的创意案例，包括120页手写笔记转个人字体、16岁高中生2天构建古希腊世界、16天制作的小王子3D剧情游戏、成都城市讲解视频《一座城的年轮》、一句话生成火烧前的圆明园视频、指环王故事视频、逆向自家电视，以及Nenly同学用Claude和Codex等AI工具花298天做出的Steam好评率98%游戏《群侠传：幸存者》。",
-      "category": "tip",
-      "score": 52,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/j07dfq5nac8r6kdh1nlzbkqbj"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "创意",
-        "视频",
-        "3d",
-        "codex"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "hpntig8w3c404lwf3jqpz6m9t",
@@ -950,32 +1087,6 @@
         "3d"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "nlo05yq3qck4mm6n548q2wnz8",
-      "title": "Hamel Husain 发文讲解如何用决策模型做 Evals",
-      "title_en": "好文！",
-      "url": "https://x.com/dongxi_nlp/status/2112652766997103016",
-      "permalink": "https://aihot.news/items/nlo05yq3qck4mm6n548q2wnz8",
-      "source": "X：马东锡 NLP (@dongxi_nlp)",
-      "publishedAt": "2026-10-20T21:10:45.000Z",
-      "discoveredAt": "2026-10-20T21:32:37.905Z",
-      "summary": "Hamel Husain 发布新文章《How To Use Decision Models For Evals》，讲解如何为任务选择决策模型、调优阈值（提醒不要默认 0.5）并解读分数，配有交互式图表。",
-      "category": "tip",
-      "score": 64,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/nlo05yq3qck4mm6n548q2wnz8"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "qkvd1dip3f1qzawvq1yo7yalk",
@@ -1062,31 +1173,31 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "m21za8riy5da0davyqguzkvla",
-      "title": "Anthropic 用 Claude 缩减开源代码攻击面：25 个项目发现 493 个问题",
-      "title_en": "Using Claude to reduce the attack surface of code",
-      "url": "https://www.anthropic.com/research/attack-surface-reduction",
-      "permalink": "https://aihot.news/items/m21za8riy5da0davyqguzkvla",
-      "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-10-20T00:00:00.000Z",
-      "discoveredAt": "2026-10-21T10:56:25.416Z",
-      "summary": "Anthropic 发布关于用 Claude 自动化攻击面分析与缩减的研究总结，在 25 个、超 500 万行代码的开源项目中用默认配置、配置交互和早期可达性三种方法发现 493 个问题。",
-      "category": "paper",
-      "score": 68,
-      "selected": true,
+      "id": "wu0nupqhok993e6z7bblp56hx",
+      "title": "可灵 AI 开放 Kling 4.0 API 申请",
+      "title_en": "Kling 4.0 API 正式首发",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5NTkwNDU2OA%3D%3D&mid=2247497231&idx=1&sn=8940e99f4d68ac55dcff74795399334d",
+      "permalink": "https://aihot.news/items/wu0nupqhok993e6z7bblp56hx",
+      "source": "公众号：可灵AI（快手·视频）",
+      "publishedAt": "2026-10-21T15:00:00.000Z",
+      "discoveredAt": "2026-10-21T15:07:21.162Z",
+      "summary": "可灵 AI 于 10 月 21 日宣布 Kling 4.0 API 开放申请，面向个人开发者与企业用户。官方称 Kling 4.0 大幅提升画面真实感、创意可控性与叙事完整度，并在视听表现、多关键帧、口型匹配、文字生成、创意复刻等能力上带来新突破。",
+      "category": "ai-products",
+      "score": 51,
+      "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/m21za8riy5da0davyqguzkvla"
+        "canonical": "https://aihot.news/items/wu0nupqhok993e6z7bblp56hx"
       },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
       "relevanceScore": 6,
-      "editorialScore": 10,
+      "editorialScore": 9,
       "tags": [
-        "交互",
-        "自动化"
+        "可灵",
+        "创意"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "vka71lphdofpe1r5xw6o5b5au",
@@ -1199,57 +1310,30 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "b6odkjxcazqlr1ckt35wgf94b",
-      "title": "开源「老爷爷」提示语路由skill，收录25条思考类提示语",
-      "title_en": "开源「提示语管理.skill」，就为快速选出最适合你的Prompt（附25个深度思考提示语）",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512425&idx=1&sn=7e0e605336d602aa5149ea92689de203",
-      "permalink": "https://aihot.news/items/b6odkjxcazqlr1ckt35wgf94b",
-      "source": "公众号：卡尔的AI沃茨",
-      "publishedAt": "2026-10-20T03:24:00.000Z",
-      "discoveredAt": "2026-10-20T03:33:54.918Z",
-      "summary": "作者开源了一个名为「老爷爷」的提示语管理skill，仿照Matt Pocock的ask-matt路由形态，把今年积累的25条思考类提示语熔炼进一个路由，覆盖问清问题、学习理解、解决问题、决策、计划和自我认识六个场景。",
-      "category": "tip",
-      "score": 69,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/b6odkjxcazqlr1ckt35wgf94b"
-      },
-      "sourceType": "公众号",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "prompt",
-        "skill"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "nb58aijflh09gyui8nn3qvobt",
-      "title": "蚂蚁百灵开源 Ming-3.0 语音系列，提供语音合成、音频理解与语音识别五款模型",
-      "title_en": "把语音能力接入工作流，Ming-3.0 语音系列模型发布",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488151&idx=1&sn=08860ade59750185570423c27daff3c0",
-      "permalink": "https://aihot.news/items/nb58aijflh09gyui8nn3qvobt",
-      "source": "公众号：蚂蚁百灵（Ling）",
-      "publishedAt": "2026-10-20T01:18:40.000Z",
-      "discoveredAt": "2026-10-20T01:32:11.166Z",
-      "summary": "蚂蚁百灵开源 Ming-3.0 语音系列，围绕声音创作、长语音分析、业务语音转写三类任务提供语音合成、音频理解与对话、语音识别共五款模型。",
-      "category": "ai-models",
+      "id": "jigv4jes53k0s4nt2s0bg0bks",
+      "title": "FT 报道 150 亿美元估值的广告驱动医疗 AI 创业公司 OpenEvidence 的争议与竞争",
+      "title_en": "The $15 billion ad-powered AI startup your doctor may already be using",
+      "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
+      "permalink": "https://aihot.news/items/jigv4jes53k0s4nt2s0bg0bks",
+      "source": "Ars Technica：AI（RSS）",
+      "publishedAt": "2026-10-21T15:14:07.000Z",
+      "discoveredAt": "2026-10-21T16:40:29.848Z",
+      "summary": "Financial Times 报道医疗 AI 公司 OpenEvidence，其创始人 Nadler 称最终目标是基于文献的药物发现，经济价值将远超向医院或广告主收费。",
+      "category": "industry",
       "score": 61,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/nb58aijflh09gyui8nn3qvobt"
+        "canonical": "https://aihot.news/items/jigv4jes53k0s4nt2s0bg0bks"
       },
-      "sourceType": "公众号",
-      "designCategory": "工作流与 Agent",
+      "sourceType": "网站",
+      "designCategory": "行业观察",
       "relevanceScore": 6,
-      "editorialScore": 7,
+      "editorialScore": 6,
       "tags": [
-        "工作流"
+        "广告"
       ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "uyq8s170h7ho7b1h82ajyzj8e",
