@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-21T04:47:10.120Z",
-  "previousGeneratedAt": "2026-10-20T17:04:10.758Z",
+  "generatedAt": "2026-10-21T11:49:05.672Z",
+  "previousGeneratedAt": "2026-10-21T04:47:10.120Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 45,
+  "itemCount": 46,
   "sourceCounts": {
+    "网站": 19,
     "X": 24,
-    "网站": 18,
     "公众号": 3
   },
   "source": {
@@ -15,31 +15,30 @@
   },
   "items": [
     {
-      "id": "pjod9hehnayvwmbfvotsa4ahf",
-      "title": "fal 与 Black Forest Labs 合作推出 FLUX 3 Max",
-      "title_en": "FLUX 3 Max is a great example of what two teams working at the frontier can accomplish together. Excited to keep building with @bfl_ai.",
-      "url": "https://x.com/fal/status/2112259268271640991",
-      "permalink": "https://aihot.news/items/pjod9hehnayvwmbfvotsa4ahf",
-      "source": "X：fal (@fal)",
-      "publishedAt": "2026-10-19T19:07:08.000Z",
-      "discoveredAt": "2026-10-19T19:13:32.917Z",
-      "summary": "fal 与 Black Forest Labs（@bfl_ai）推出 FLUX 3 Max，这是 fal 基于专为定制设计的 FLUX 3 模型进行适配和优化的版本。据发布内容，生成 10 秒视频仅需 12 秒，图像生成视频并列第一，同质量下比 Seedance 2.5 快 22 倍。fal 表示将与其继续合作。",
-      "category": "ai-products",
-      "score": 56,
+      "id": "tua64zwyls32fsmpb281dsjnd",
+      "title": "Black Forest Labs 开源 5.6B 图像生成模型 FLUX 3 Image Klein，8GB 显存可运行",
+      "title_en": "8GB 显存即可运行：5.6B 图像生成模型 FLUX 3 Image Klein 发布",
+      "url": "https://www.ithome.com/1/016/062.htm",
+      "permalink": "https://aihot.news/items/tua64zwyls32fsmpb281dsjnd",
+      "source": "IT之家·人工智能",
+      "publishedAt": "2026-10-21T10:39:12.163Z",
+      "discoveredAt": "2026-10-21T11:00:20.910Z",
+      "summary": "Black Forest Labs 于 10 月 15 日以开放权重形式发布 5.6B 参数图像生成模型 FLUX 3 Image Klein，针对消费级 GPU 优化，INT8 版本可通过 ComfyUI 或 Diffusers 在 8GB 显存的 NVIDIA GeForce RTX GPU 上运行。",
+      "category": "ai-models",
+      "score": 68,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/pjod9hehnayvwmbfvotsa4ahf"
+        "canonical": "https://aihot.news/items/tua64zwyls32fsmpb281dsjnd"
       },
-      "sourceType": "X",
+      "sourceType": "网站",
       "designCategory": "图像与视频",
-      "relevanceScore": 19,
-      "editorialScore": 22,
+      "relevanceScore": 17,
+      "editorialScore": 20,
       "tags": [
         "图像生成",
         "flux",
-        "设计",
-        "视频"
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -185,6 +184,33 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "gigbr09ngjpofzzhdqqcxgnfa",
+      "title": "Meshy 直播演示 AI 生成资产搭建关卡",
+      "title_en": "Watch @TheSandboxGame build a playable level with AI-generated assets, live 👀",
+      "url": "https://x.com/MeshyAI/status/2112795090628509820",
+      "permalink": "https://aihot.news/items/gigbr09ngjpofzzhdqqcxgnfa",
+      "source": "X：Meshy (@MeshyAI)",
+      "publishedAt": "2026-10-21T06:36:18.000Z",
+      "discoveredAt": "2026-10-21T06:47:29.898Z",
+      "summary": "观看 @TheSandboxGame 用 AI 生成的资产现场搭建可玩关卡 👀\n游戏设计师 Philip Pardoe 一步步把 @MeshyAI 的资产带入玩法。之后有现场问答。10 月 27 日 · 美东时间下午 1 点 | 现场演示 + 问答\n你将看到如何：\n· 快速生成并迭代资产\n· 在一组资产中保持风格一致\n· 从生成走向经过测试的可玩关卡",
+      "category": "tip",
+      "score": 24,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/gigbr09ngjpofzzhdqqcxgnfa"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 11,
+      "editorialScore": 15,
+      "tags": [
+        "设计师",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "i8s81ihzs5zl16pc3zgz4swkz",
       "title": "Viggle 发布 3D 原生世界基础模型 JST-2，把物理结构写进 token",
       "title_en": "近期主流世界模型 (Sora、Genie、Genie-3、Cosmos...) 几乎都工作在像素/视频空间，模型从海量视频中隐式地“猜”出物理规律",
@@ -209,34 +235,6 @@
         "sora",
         "视频",
         "3d"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "u7zl798prr1bgsazvhxthl2p3",
-      "title": "Kling AI 发布 Kling 4.0：支持立体声音频、多语言对口型，并推出轻量 Flash 版本",
-      "title_en": "Kling AI drops version 4.0 with stereo audio, multilingual lip sync, and a lighter Flash variant",
-      "url": "https://the-decoder.com/kling-ai-drops-version-4-0-with-stereo-audio-multilingual-lip-sync-and-a-lighter-flash-variant/",
-      "permalink": "https://aihot.news/items/u7zl798prr1bgsazvhxthl2p3",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-10-19T17:36:26.000Z",
-      "discoveredAt": "2026-10-19T18:13:33.231Z",
-      "summary": "Kling AI 发布视频生成模型 Kling 4.0，单次可生成最长 30 秒视频，提示词理解扩展到 8000 token，Omni Reference 最多接受 15 个参考素材，新增双声道立体声和十余种语言的对口型。",
-      "category": "ai-products",
-      "score": 68,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/u7zl798prr1bgsazvhxthl2p3"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "视频生成",
-        "视频",
-        "提示词"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -351,6 +349,32 @@
         "mcp"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "symtsa5kibe1zhzeugw3nya26",
+      "title": "谷歌 CEO 皮查伊：与苹果合作市场反馈很好，愿继续深化合作",
+      "title_en": "谷歌 CEO：与苹果合作的市场反馈很好，愿意继续深化合作",
+      "url": "https://www.ithome.com/1/016/076.htm",
+      "permalink": "https://aihot.news/items/symtsa5kibe1zhzeugw3nya26",
+      "source": "IT之家·人工智能",
+      "publishedAt": "2026-10-21T10:56:40.400Z",
+      "discoveredAt": "2026-10-21T11:23:22.077Z",
+      "summary": "谷歌 CEO 桑达尔·皮查伊表示，谷歌与苹果合作的目标是把 AI 转化为更好的用户体验，苹果会对模型深度定制后融入 Siri，用户反应热烈，谷歌致力于进一步深化合作。被问及是否会展开更多合作时，他称目前没有可透露的内容，但合作关系进展顺利。",
+      "category": "opinion",
+      "score": 35,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/symtsa5kibe1zhzeugw3nya26"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "用户体验"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "yeiisdbh3exg5edp1ncqv7juf",
@@ -519,56 +543,31 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "irqyb5bggdrna3x674qrnqae7",
-      "title": "fal 联合 BFL 发布视频模型 FLUX 3 Max",
-      "title_en": "fal released FLUX 3 Max 🔥",
-      "url": "https://x.com/testingcatalog/status/2112260343858671660",
-      "permalink": "https://aihot.news/items/irqyb5bggdrna3x674qrnqae7",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-10-19T19:11:24.000Z",
-      "discoveredAt": "2026-10-19T19:16:36.022Z",
-      "summary": "fal Research 与 BFL 合作发布 post-trained 视频模型 FLUX 3 Max，在 Artificial Analysis image-to-video 指数上得 1,139 分。该模型在第三方基准上与 Seedance 2.5 并列第一，10 秒 720/768p 视频约 12 秒即可生成，比 Seedance 2.5 快至 22 倍；未来三周降价 75% 提供。",
-      "category": "ai-models",
-      "score": 69,
+      "id": "kpym913l1kig82n79cufocgd1",
+      "title": "可灵AI探讨AI视频进入企业内容生产",
+      "title_en": "On October 14, Kling AI joined Oxen AI and Obsidian Studio at LA Tech Week 2026 to explore how AI video is becoming part of enterprise co...",
+      "url": "https://x.com/Kling_ai/status/2112861465833312488",
+      "permalink": "https://aihot.news/items/kpym913l1kig82n79cufocgd1",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-10-21T11:00:03.000Z",
+      "discoveredAt": "2026-10-21T11:26:23.556Z",
+      "summary": "可灵AI在LA Tech Week 2026与Oxen AI、Obsidian Studio同台，探讨AI视频如何融入企业内容生产。讨论基于商业制作经验，聚焦创意能力如何转化为可复用工作流，支撑广告与影视项目从镜头创作、修改到最终交付。Kling 4.0提升了复杂运动与运镜下的稳定性。",
+      "category": "industry",
+      "score": 24,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/irqyb5bggdrna3x674qrnqae7"
+        "canonical": "https://aihot.news/items/kpym913l1kig82n79cufocgd1"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
+      "relevanceScore": 9,
+      "editorialScore": 12,
       "tags": [
-        "flux",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "qldoluc73m0j8mo7u0ttf95km",
-      "title": "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max",
-      "title_en": "Introducing FLUX 3 Max, the latest post-trained video model from fal Research in partnership with @bfl_ai.",
-      "url": "https://x.com/fal/status/2112251022047412492",
-      "permalink": "https://aihot.news/items/qldoluc73m0j8mo7u0ttf95km",
-      "source": "X：fal (@fal)",
-      "publishedAt": "2026-10-19T18:34:22.000Z",
-      "discoveredAt": "2026-10-19T18:42:34.058Z",
-      "summary": "fal 发布与 @bfl_ai 合作的最新后训练视频模型 FLUX 3 Max，在第三方 image-to-video 质量评测中并列第一，生成 10 秒 720/768p 视频约需 12 秒。未来三周该模型 75% 折扣，标注为同质量级别最便宜的前沿视频模型。",
-      "category": "ai-models",
-      "score": 65,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/qldoluc73m0j8mo7u0ttf95km"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
-      "tags": [
-        "flux",
-        "视频"
+        "可灵",
+        "工作流",
+        "广告",
+        "创意"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -599,6 +598,35 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
+      "id": "cj23p3y5ccrk7xg5539lqak6d",
+      "title": "Tripo 宣布 EdenLive 正式上线 Reactor 平台",
+      "title_en": "EdenLive is officially available on @reactorworld.",
+      "url": "https://x.com/tripoai/status/2112769754712936499",
+      "permalink": "https://aihot.news/items/cj23p3y5ccrk7xg5539lqak6d",
+      "source": "Tripo（官方 X）",
+      "publishedAt": "2026-10-21T04:55:37.000Z",
+      "discoveredAt": "2026-10-21T05:19:14.416Z",
+      "summary": "Tripo 官方宣布其实时生成渲染器 EdenLive 正式在 Reactor 平台上线，并提供在线演示入口（reactor.inc/models/eden-live）。Reactor 介绍称，Eden-Live 可将 3D 场景和原型重绘为丰富的可交互世界，支持参考图加文本实时改变场景风格，并可即时编辑提示词，上线首日即在 Reactor 可用。",
+      "category": "ai-products",
+      "score": 56,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cj23p3y5ccrk7xg5539lqak6d"
+      },
+      "sourceType": "X",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
+      "tags": [
+        "原型",
+        "交互",
+        "3d",
+        "提示词"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
       "id": "pwdldfnta3ut27a749j2wen17",
       "title": "DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Arena 的 Agent 和 Code 两大榜单开源模型第一",
       "title_en": "DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai landed in the Arena as the #1 open model in both the Agent Arena and the Code Arena: ...",
@@ -625,6 +653,32 @@
         "agent"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "e6y91tch3s1jkkg7kv89a8mbi",
+      "title": "Tessl 博客：用 JavaScript 和 SQLite 搭建 AI 生成的个人应用",
+      "title_en": "Personal Apps: When JavaScript and SQLite Are All You Need",
+      "url": "https://tessl.io/blog/personal-apps-when-javascript-and-sqlite-are-all-you-need",
+      "permalink": "https://aihot.news/items/e6y91tch3s1jkkg7kv89a8mbi",
+      "source": "Tessl：产品与工程博客",
+      "publishedAt": "2026-10-20T16:00:00.000Z",
+      "discoveredAt": "2026-10-21T08:32:29.828Z",
+      "summary": "Tessl 工程博客提出个人应用这一新类别，认为 JavaScript/TypeScript 加 SQLite 足以支撑 AI 生成的一次性个人软件，并用波恩垃圾回收日程 Bonn Tonne、约时间应用 Daybreak 和销售报价原型 Quote-Assist 三个实例验证，示例均由 LLM 生成。",
+      "category": "tip",
+      "score": 59,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/e6y91tch3s1jkkg7kv89a8mbi"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
+      "tags": [
+        "原型"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "n2r2t8dfzws43pzswnl62wrqh",
@@ -760,29 +814,112 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "o7iuymij09e915z8zzdvnn2mn",
-      "title": "MIT 等团队开发 E(3)-Pose：用对称性先验提升胎儿脑 MRI 成像可靠性",
-      "title_en": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
-      "url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
-      "permalink": "https://aihot.news/items/o7iuymij09e915z8zzdvnn2mn",
-      "source": "MIT News（RSS）",
-      "publishedAt": "2026-10-19T18:20:00.000Z",
-      "discoveredAt": "2026-10-19T18:30:32.233Z",
-      "summary": "MIT、波士顿儿童医院与 Inria 的研究者开发并训练了深度学习模型 E(3)-Pose，可在胎儿头部运动时辅助成像，生成供放射科医生查看的高分辨率三维图像。该模型把胎儿头部的左右对称性等物理原理嵌入网络架构，而非仅从数据中学习物理规律，从而更准确地识别大脑朝向。相关论文已在 2026 年欧洲计算机视觉会议（ECCV）上展示，目前模型主要基于第三孕期胎儿训练。",
-      "category": "paper",
-      "score": 43,
+      "id": "l94ayb89z6n2xxc9ce6c6ubeh",
+      "title": "NVIDIA 扩展开源模型家族，覆盖语言、机器人、生物与量子计算以支持欧洲主权智能",
+      "title_en": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
+      "url": "https://blogs.nvidia.com/blog/open-models-europe-industry/",
+      "permalink": "https://aihot.news/items/l94ayb89z6n2xxc9ce6c6ubeh",
+      "source": "NVIDIA Blog（RSS）",
+      "publishedAt": "2026-10-21T10:00:07.000Z",
+      "discoveredAt": "2026-10-21T10:51:21.884Z",
+      "summary": "NVIDIA 扩展开源模型家族，推出 Nemotron 3.5 Super VL 与 Nemotron 3.5 Bolt、Nemotron Retriever、Kumo 结构化数据模型、Cosmos 3.5 世界模型、Alpamayo 2 Edge 自动驾驶推理模型、BioNeMo RFD4-Proteina 蛋白质设计模型及量子计算 Ising 模型家族。",
+      "category": "ai-models",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/l94ayb89z6n2xxc9ce6c6ubeh"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "cz8kdew1skig56jbc7ubgra6h",
+      "title": "卡兹克用2天把Agent自动化任务做成流水线可视化",
+      "title_en": "把我的Agent自动化任务，花了2天时间，做了一个好玩的流水线可视化。",
+      "url": "https://x.com/Khazix0918/status/2112838884510048647",
+      "permalink": "https://aihot.news/items/cz8kdew1skig56jbc7ubgra6h",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "publishedAt": "2026-10-21T09:30:19.000Z",
+      "discoveredAt": "2026-10-21T09:53:29.817Z",
+      "summary": "卡兹克花2天把日常几十个自动化任务做成俯瞰微缩场景风格的流水线可视化，初版已接入少量任务演示。左侧每个项目是一座厂区、长期任务对应产线，中间玻璃圆顶分拣大厅是打通飞书的Webhook中台，右侧是Claude Code（像素小螃蟹Clawd）和Codex（蓝紫色云）两个Agent，真实任务以包裹形式经传送带送达。场景还接入了现实时间与天气，后续计划铺上全部流水线。",
+      "category": "tip",
+      "score": 37,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/o7iuymij09e915z8zzdvnn2mn"
+        "canonical": "https://aihot.news/items/cz8kdew1skig56jbc7ubgra6h"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 9,
+      "editorialScore": 10,
+      "tags": [
+        "自动化",
+        "codex",
+        "claude code",
+        "agent"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "nd6to9bwzzcxd47qzh6qjjmb8",
+      "title": "Claude 在 Claude Science 中自主设计针对蝎神经毒素的蛋白质结合剂",
+      "title_en": "Claude Science tackles deadly scorpion stings by designing protein binders from scratch",
+      "url": "https://the-decoder.com/claude-science-tackles-deadly-scorpion-stings-by-designing-protein-binders-from-scratch/",
+      "permalink": "https://aihot.news/items/nd6to9bwzzcxd47qzh6qjjmb8",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-10-21T08:37:06.000Z",
+      "discoveredAt": "2026-10-21T08:48:27.262Z",
+      "summary": "Anthropic 的 Claude 在 Claude Science 研究环境中几乎自主设计了针对蝎神经毒素的蛋白质结合剂，初始提示后独立工作 24 小时，共产出 318,484 个设计。",
+      "category": "paper",
+      "score": 74,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/nd6to9bwzzcxd47qzh6qjjmb8"
       },
       "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
       "tags": [
-        "视觉",
-        "图像"
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "j07dfq5nac8r6kdh1nlzbkqbj",
+      "title": "卡兹克分享8个Claude Opus 5.5惊艳玩法",
+      "title_en": "分享8个让我最近很惊艳的Claude Opus 5.5玩法。",
+      "url": "https://x.com/Khazix0918/status/2112794968981139875",
+      "permalink": "https://aihot.news/items/j07dfq5nac8r6kdh1nlzbkqbj",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "publishedAt": "2026-10-21T06:35:49.000Z",
+      "discoveredAt": "2026-10-21T06:47:28.842Z",
+      "summary": "卡兹克整理了8个基于Claude Opus 5.5的创意案例，包括120页手写笔记转个人字体、16岁高中生2天构建古希腊世界、16天制作的小王子3D剧情游戏、成都城市讲解视频《一座城的年轮》、一句话生成火烧前的圆明园视频、指环王故事视频、逆向自家电视，以及Nenly同学用Claude和Codex等AI工具花298天做出的Steam好评率98%游戏《群侠传：幸存者》。",
+      "category": "tip",
+      "score": 52,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/j07dfq5nac8r6kdh1nlzbkqbj"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "创意",
+        "视频",
+        "3d",
+        "codex"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -841,33 +978,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "l9j805guqbv5l3myabcasjk9g",
-      "title": "Claude 智能体自主设计出 17 个可结合蝎子神经毒素的蛋白分子",
-      "title_en": "Claude did the protein scientist’s job and came back with 17 molecules that grip scorpion neurotoxins.",
-      "url": "https://x.com/rohanpaul_ai/status/2112607878616154505",
-      "permalink": "https://aihot.news/items/l9j805guqbv5l3myabcasjk9g",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-10-20T18:12:23.000Z",
-      "discoveredAt": "2026-10-20T18:29:20.134Z",
-      "summary": "Anthropic 在科学博客发布 Claude 设计蝎子神经毒素蛋白结合剂的研究，Rohan Paul 转述称 Claude 在 Claude Science 环境中作为智能体自主完成整个蛋白设计流程：选择毒素攻击位点、驱动 12 个蛋白设计程序、自设评分阈值。",
-      "category": "paper",
-      "score": 69,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/l9j805guqbv5l3myabcasjk9g"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "qkvd1dip3f1qzawvq1yo7yalk",
       "title": "Meta Muse 分享链接可被枚举，泄露用户私密对话，Meta 暂停该功能",
       "title_en": "Meta Muse exposes users' personal and business secrets when they share conversations",
@@ -891,34 +1001,6 @@
       "tags": [
         "设计",
         "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "a6dl1g5ofw391r1c2v7s4dmiy",
-      "title": "斯坦福新课 CME 295 第四讲：大语言模型强化学习，讲义与视频公开",
-      "title_en": "斯坦福新课 CME 295：Transformers & Large Language Models",
-      "url": "https://x.com/shao__meng/status/2112512042771116533",
-      "permalink": "https://aihot.news/items/a6dl1g5ofw391r1c2v7s4dmiy",
-      "source": "X：邵猛 (@shao__meng)",
-      "publishedAt": "2026-10-20T11:51:34.000Z",
-      "discoveredAt": "2026-10-20T12:17:19.897Z",
-      "summary": "作者介绍斯坦福新课 CME 295（Transformers & Large Language Models），由 Afshine 与 Shervine Amidi 主讲，目前进行到第四讲 Reinforcement learning with LLMs，视频与讲义已公开。本讲从 RL、Reward Design 讲到 PPO、GRPO、RLVR 和 DAPO，逐个符号讲解；课程共 9 讲，覆盖 Transformer 架构、LoRA 微调、Flash Attention、MCP 与扩散语言模型等，资料全部公开（cme295.stanford.edu）。",
-      "category": "tip",
-      "score": 69,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/a6dl1g5ofw391r1c2v7s4dmiy"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "design",
-        "视频",
-        "mcp"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
@@ -980,55 +1062,29 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "nxsltk5oepaf6w8afa0baxqf5",
-      "title": "Claude 推出 Dashboards 和 Motion 两款新工具并转正 Docs、Slides、Design",
-      "title_en": "Introducing Claude Dashboards and Claude Motion",
-      "url": "https://www.youtube.com/shorts/_Ui4ZkYm4ho",
-      "permalink": "https://aihot.news/items/nxsltk5oepaf6w8afa0baxqf5",
-      "source": "Claude：YouTube（RSS）",
-      "publishedAt": "2026-10-19T18:35:04.000Z",
-      "discoveredAt": "2026-10-19T19:13:30.168Z",
-      "summary": "Claude 宣布 Dashboards 和 Motion 进入 beta。Dashboards 可连接数据平台或 CRM，生成随数据变化实时更新的仪表盘，面向所有付费计划；Motion 把报告或图表变成动画讲解短片，以代码方式生成、无视频模型参与，可修改文字、数字和节奏后导出 MP4，面向 Team 和 Enterprise 计划。",
-      "category": "ai-products",
-      "score": 68,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/nxsltk5oepaf6w8afa0baxqf5"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "design",
-        "视频"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "oxl50pfymja6rgxkem3y0de9j",
-      "title": "Anthropic 用 Claude 设计出针对蝎子神经毒素的蛋白质迷你结合剂",
-      "title_en": "How Claude designed protein binders against scorpion neurotoxins",
-      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-      "permalink": "https://aihot.news/items/oxl50pfymja6rgxkem3y0de9j",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-10-19T16:00:00.000Z",
-      "discoveredAt": "2026-10-20T14:33:19.366Z",
-      "summary": "Anthropic 让内部研究模型在 Claude Science 中主要自主运行 64 小时，设计针对五种蝎子神经毒素的蛋白质迷你结合剂，共生成 318,484 个设计、筛选出 180 个。",
+      "id": "m21za8riy5da0davyqguzkvla",
+      "title": "Anthropic 用 Claude 缩减开源代码攻击面：25 个项目发现 493 个问题",
+      "title_en": "Using Claude to reduce the attack surface of code",
+      "url": "https://www.anthropic.com/research/attack-surface-reduction",
+      "permalink": "https://aihot.news/items/m21za8riy5da0davyqguzkvla",
+      "source": "Anthropic：Newsroom（网页）",
+      "publishedAt": "2026-10-20T00:00:00.000Z",
+      "discoveredAt": "2026-10-21T10:56:25.416Z",
+      "summary": "Anthropic 发布关于用 Claude 自动化攻击面分析与缩减的研究总结，在 25 个、超 500 万行代码的开源项目中用默认配置、配置交互和早期可达性三种方法发现 493 个问题。",
       "category": "paper",
-      "score": 74,
+      "score": 68,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/oxl50pfymja6rgxkem3y0de9j"
+        "canonical": "https://aihot.news/items/m21za8riy5da0davyqguzkvla"
       },
       "sourceType": "网站",
       "designCategory": "产品与体验",
       "relevanceScore": 6,
       "editorialScore": 10,
       "tags": [
-        "设计"
+        "交互",
+        "自动化"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
@@ -1218,33 +1274,6 @@
       "editorialScore": 6,
       "tags": [
         "广告"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "y3398m935z7b9ys8tb1315kau",
-      "title": "开发者用 Claude Code 给智能电视去广告去预装，把智能电视变回\"笨电视\"",
-      "title_en": "People are using AI to make their smart TVs dumb again",
-      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-      "permalink": "https://aihot.news/items/y3398m935z7b9ys8tb1315kau",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-10-19T16:13:22.000Z",
-      "discoveredAt": "2026-10-19T16:52:30.440Z",
-      "summary": "TechCrunch 报道了开发者用 AI 给智能电视\"降智\"的新趋势：通过 Claude Code 等工具移除广告、预装软件、追踪功能并更换启动器。",
-      "category": "tip",
-      "score": 68,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/y3398m935z7b9ys8tb1315kau"
-      },
-      "sourceType": "网站",
-      "designCategory": "行业观察",
-      "relevanceScore": 6,
-      "editorialScore": 6,
-      "tags": [
-        "广告",
-        "claude code"
       ],
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     }
