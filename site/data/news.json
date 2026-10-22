@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-22T11:52:37.099Z",
-  "previousGeneratedAt": "2026-10-22T04:45:39.064Z",
+  "generatedAt": "2026-10-22T17:10:38.686Z",
+  "previousGeneratedAt": "2026-10-22T11:52:37.099Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 41,
+  "itemCount": 40,
   "sourceCounts": {
     "网站": 13,
-    "X": 24,
-    "公众号": 4
+    "公众号": 3,
+    "X": 24
   },
   "source": {
     "name": "AI HOT",
@@ -71,60 +71,32 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "twnbuv8mr139vyolwc7vcyyen",
-      "title": "Adobe 重新设计 Photoshop 滤镜机制：滤镜变为可移动、可调节的效果层",
-      "title_en": "Adobe 大改 Photoshop 滤镜逻辑：修图不再“一改就毁”",
-      "url": "https://www.ithome.com/1/015/726.htm",
-      "permalink": "https://aihot.news/items/twnbuv8mr139vyolwc7vcyyen",
-      "source": "IT之家·人工智能",
-      "publishedAt": "2026-10-21T03:10:02.957Z",
-      "discoveredAt": "2026-10-21T03:21:30.088Z",
-      "summary": "Adobe 正重新设计 Photoshop 的滤镜工作方式，把滤镜从直接印到图层像素上改为类似图层的独立效果，可拖到指定图层、在属性面板实时调参并随时隐藏或删除。Adobe 还演示了 Photoshop AI Assistant 让 AI 创建带可调滑块的自定义滤镜，相关更新预计今年晚些时候开始推送。",
-      "category": "ai-products",
-      "score": 42,
+      "id": "g6qdd6epy4yiy4z6as3abjbjv",
+      "title": "Lufthansa Systems 如何用 Figma Make 为驾驶舱原型化真实地图",
+      "title_en": "How Lufthansa Systems prototypes realistic maps for the cockpit with Figma Make",
+      "url": "https://www.figma.com/blog/lufthansa-figma-make/",
+      "permalink": "https://aihot.news/items/g6qdd6epy4yiy4z6as3abjbjv",
+      "source": "Figma AI / Agent / Make",
+      "publishedAt": "2026-10-22T14:50:00.000Z",
+      "discoveredAt": "2026-10-22T15:13:45.169Z",
+      "summary": "Lufthansa Systems 用 Figma Make 为 Lido Pilot Apps 的驾驶舱动态地图做原型，把 Figma 设计资产与外部数据源同时接入，让飞行员在更真实的场景中验证想法。",
+      "category": "tip",
+      "score": 35,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/twnbuv8mr139vyolwc7vcyyen"
+        "canonical": "https://aihot.news/items/g6qdd6epy4yiy4z6as3abjbjv"
       },
       "sourceType": "网站",
       "designCategory": "设计工具",
-      "relevanceScore": 13,
-      "editorialScore": 18,
+      "relevanceScore": 14,
+      "editorialScore": 19,
       "tags": [
-        "photoshop",
-        "adobe",
+        "figma",
+        "原型",
         "设计"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "sng6dh9pvd6cyjtk0aivhcdhq",
-      "title": "Opus 5.5 生成水獭用WiFi视频",
-      "title_en": "I wrote about the exponential curve of the last 30 months of AI development: https://www.oneusefulthing.org/p/30-months-on-the-exponentia...",
-      "url": "https://x.com/emollick/status/2112656453685367004",
-      "permalink": "https://aihot.news/items/sng6dh9pvd6cyjtk0aivhcdhq",
-      "source": "X：Ethan Mollick (@emollick)",
-      "publishedAt": "2026-10-20T21:25:24.000Z",
-      "discoveredAt": "2026-10-20T21:28:36.997Z",
-      "summary": "我写了关于过去30个月AI发展指数曲线的文章：https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts\n\n我让 Opus 5.5 为我用来测试所有AI图像生成模型的那个测试（画一张“一只水獭在飞机上用WiFi”的图）创作终极回应，它做出了这个视频",
-      "category": "opinion",
-      "score": 41,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/sng6dh9pvd6cyjtk0aivhcdhq"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 14,
-      "editorialScore": 17,
-      "tags": [
-        "图像生成",
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "q8latj1v3s2cpy4fett079kqw",
@@ -235,91 +207,6 @@
         "runway"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "ujm2ycqzztfv7larjkichy33c",
-      "title": "ComfyUI 支持 Hao AI Lab 的 FastH3 OmniRef 多模态参考视频生成",
-      "title_en": "Check out FastVideo FastH3 Omni on ComfyUI!",
-      "url": "https://x.com/haoailab/status/2112659427711234140",
-      "permalink": "https://aihot.news/items/ujm2ycqzztfv7larjkichy33c",
-      "source": "X：UCSD Hao AI Lab (@haoailab)",
-      "publishedAt": "2026-10-20T21:37:13.000Z",
-      "discoveredAt": "2026-10-20T22:00:36.760Z",
-      "summary": "ComfyUI 宣布支持 Hao AI Lab 的 FastH3 OmniRef，这是 MiniMax H3 的蒸馏版本，可进行多模态参考视频生成，能在本地硬件上运行。官方称其在质量与速度之间取得较好平衡，并开放了权重与云端入口。",
-      "category": "ai-products",
-      "score": 54,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ujm2ycqzztfv7larjkichy33c"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视频生成",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "it0rrk1d6vpt8nls36egkfufs",
-      "title": "Coco Labs 发布首个设计模型 Vyb，可从品牌网站生成分层可编辑营销图",
-      "title_en": "Coco Labs launched Vyb, its first design model, which can build layered, editable marketing graphics from a brand's website.",
-      "url": "https://x.com/testingcatalog/status/2112638397177372745",
-      "permalink": "https://aihot.news/items/it0rrk1d6vpt8nls36egkfufs",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-10-20T20:13:39.000Z",
-      "discoveredAt": "2026-10-20T20:32:37.886Z",
-      "summary": "Coco Labs 发布其首个设计模型 Vyb，能根据品牌网站生成分层、可编辑的营销图形。Vyb 将每个元素放在独立图层，可只修改标题而无需重新生成整个设计；它能从公司网站识别 logo 和精确的十六进制色值，产品照片可以以全分辨率嵌入而不被重新生成，成品设计可导出至 Figma 并保留全部图层。",
-      "category": "ai-models",
-      "score": 52,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/it0rrk1d6vpt8nls36egkfufs"
-      },
-      "sourceType": "X",
-      "designCategory": "设计工具",
-      "relevanceScore": 9,
-      "editorialScore": 14,
-      "tags": [
-        "figma",
-        "design",
-        "设计",
-        "品牌"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "bhudwz5ortr8tpyn937zqpgp0",
-      "title": "Coco Labs 推出 AI 设计模型 Vyb，分层输出可编辑设计稿",
-      "title_en": "Design is the next place where models are learning to output structure instead of pixels.",
-      "url": "https://x.com/rohanpaul_ai/status/2112635536326512771",
-      "permalink": "https://aihot.news/items/bhudwz5ortr8tpyn937zqpgp0",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-10-20T20:02:17.000Z",
-      "discoveredAt": "2026-10-20T20:31:36.683Z",
-      "summary": "Coco Labs 的 AI 设计模型 Vyb 按图层逐个元素构建设计，文字保持可编辑文本、图形保持矢量、照片保持像素，并从网站自动提取 logo、字体和配色。在 145 款 Google 字体上按像素重叠 IoU 打分，Vyb 达到 90.3%，对比中 最强图像模型为 76.0%，该测试的测量上限为 94.4%。由于每层保留原生格式，导出 Figma 时结构完整保留。",
-      "category": "ai-models",
-      "score": 54,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/bhudwz5ortr8tpyn937zqpgp0"
-      },
-      "sourceType": "X",
-      "designCategory": "设计工具",
-      "relevanceScore": 9,
-      "editorialScore": 14,
-      "tags": [
-        "figma",
-        "design",
-        "设计",
-        "图像"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "rin0ab4vdu46hjoiyjcj5vih5",
@@ -656,32 +543,86 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "pwdldfnta3ut27a749j2wen17",
-      "title": "DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Arena 的 Agent 和 Code 两大榜单开源模型第一",
-      "title_en": "DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai landed in the Arena as the #1 open model in both the Agent Arena and the Code Arena: ...",
-      "url": "https://x.com/arena/status/2112683123406479810",
-      "permalink": "https://aihot.news/items/pwdldfnta3ut27a749j2wen17",
-      "source": "X：Arena (@arena)",
-      "publishedAt": "2026-10-20T23:11:23.000Z",
-      "discoveredAt": "2026-10-20T23:34:38.653Z",
-      "summary": "Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 进入 Arena，成为 Agent Arena 和 Code Arena (WebDev) 两个榜单中的开源模型第一。帖中还引用了 @petergostev 用该模型生成的 3D 世界视频演示，并提示排名详情见帖子串。",
-      "category": "ai-models",
-      "score": 61,
+      "id": "uoznl9ki7mabz3xtudw771oam",
+      "title": "百度 Apollo Go 无人车首次在伦敦街头提供媒体试乘",
+      "title_en": "A closer look at Apollo Go, out on the streets around Wembley Stadium. 🇬🇧",
+      "url": "https://x.com/Baidu_Inc/status/2113292289841750151",
+      "permalink": "https://aihot.news/items/uoznl9ki7mabz3xtudw771oam",
+      "source": "X：百度 Baidu (@Baidu_Inc)",
+      "publishedAt": "2026-10-22T15:31:59.000Z",
+      "discoveredAt": "2026-10-22T15:47:36.235Z",
+      "summary": "百度发布 Apollo Go 无人驾驶车现身伦敦温布利球场周边街头的消息，宣布联合 Lyft 旗下 FREENOW 首次在伦敦邀请一批记者试乘。配图显示测试车带有 Autonomous Vehicle 和 FREENOW by Lyft 标识，文中称雨后放晴、对后续进展感到期待。",
+      "category": "industry",
+      "score": 54,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/pwdldfnta3ut27a749j2wen17"
+        "canonical": "https://aihot.news/items/uoznl9ki7mabz3xtudw771oam"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "relevanceScore": 7,
+      "editorialScore": 10,
       "tags": [
-        "视频",
-        "3d",
-        "agent"
+        "配图"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "i7eyiqjnqhr05b1czoxancghi",
+      "title": "Recursive 发布首个自动化研究产出的开源模型 Flint",
+      "title_en": "Recursive shows first result of its AI-driven research process with Flint",
+      "url": "https://the-decoder.com/recursive-shows-first-result-of-its-ai-driven-research-process-with-flint/",
+      "permalink": "https://aihot.news/items/i7eyiqjnqhr05b1czoxancghi",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-10-22T14:40:16.000Z",
+      "discoveredAt": "2026-10-22T15:14:41.889Z",
+      "summary": "AI 初创公司 Recursive 发布首个由 AI 系统 Eureka Machine 全程参与实验设计的开源语言模型 Flint，为面向本地智能体编码的 MoE 模型，总参数 40B、每 token 激活 2.5B，开发历时四个月。",
+      "category": "ai-models",
+      "score": 68,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/i7eyiqjnqhr05b1czoxancghi"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计",
+        "自动化",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "rtbm48num2azmqgrrzy2ep7il",
+      "title": "Anthropic 指南：何时把子智能体合并进主 Agent 循环",
+      "title_en": "Building agents: When to fold subagents into your main agent loop",
+      "url": "https://claude.com/blog/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
+      "permalink": "https://aihot.news/items/rtbm48num2azmqgrrzy2ep7il",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-10-22T00:00:00.000Z",
+      "discoveredAt": "2026-10-22T16:17:37.766Z",
+      "summary": "Anthropic Applied AI 团队发布指南，讲解何时把 orchestrator 下的路由器、规划器和领域子智能体合并进单个主 Agent 循环。文中对比显示，带 skills 的单智能体在质量上常优于一提示全包和子智能体设计，且成本和延迟更低，一家客户改用单循环后运行时间约快 2x。",
+      "category": "tip",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/rtbm48num2azmqgrrzy2ep7il"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "py9vkgfbn89x659hvd6egznif",
@@ -984,58 +925,115 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "hpntig8w3c404lwf3jqpz6m9t",
-      "title": "8个让人惊艳的 Claude Opus 5.5 创意玩法分享",
+      "id": "j07dfq5nac8r6kdh1nlzbkqbj",
+      "title": "卡兹克分享8个Claude Opus 5.5惊艳玩法",
       "title_en": "分享8个让我最近很惊艳的Claude Opus 5.5玩法。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687443&idx=1&sn=b44e17ff383e6659fcbfe02c6bf82dcd",
-      "permalink": "https://aihot.news/items/hpntig8w3c404lwf3jqpz6m9t",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-10-21T00:32:00.000Z",
-      "discoveredAt": "2026-10-21T00:44:39.698Z",
-      "summary": "自媒体作者数字生命卡兹克整理分享了8个基于 Claude Opus 5.5 的创意案例，包括将120页手写笔记提取成个人字体、构建古希腊世界、16天制作小王子3D剧情游戏、修复圆明园视频、用 REA 逆向电视等。",
+      "url": "https://x.com/Khazix0918/status/2112794968981139875",
+      "permalink": "https://aihot.news/items/j07dfq5nac8r6kdh1nlzbkqbj",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "publishedAt": "2026-10-21T06:35:49.000Z",
+      "discoveredAt": "2026-10-21T06:47:28.842Z",
+      "summary": "卡兹克整理了8个基于Claude Opus 5.5的创意案例，包括120页手写笔记转个人字体、16岁高中生2天构建古希腊世界、16天制作的小王子3D剧情游戏、成都城市讲解视频《一座城的年轮》、一句话生成火烧前的圆明园视频、指环王故事视频、逆向自家电视，以及Nenly同学用Claude和Codex等AI工具花298天做出的Steam好评率98%游戏《群侠传：幸存者》。",
       "category": "tip",
-      "score": 50,
+      "score": 52,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/hpntig8w3c404lwf3jqpz6m9t"
+        "canonical": "https://aihot.news/items/j07dfq5nac8r6kdh1nlzbkqbj"
       },
-      "sourceType": "公众号",
+      "sourceType": "X",
       "designCategory": "图像与视频",
       "relevanceScore": 7,
       "editorialScore": 10,
       "tags": [
         "创意",
         "视频",
-        "3d"
+        "3d",
+        "codex"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "dvpo1o8bxmcui0dp01s3vte6n",
-      "title": "OpenClaw 启动 Focus Weeks：每周聚焦一个路线图方向，邀请社区共建",
-      "title_en": "Come Build With Us: OpenClaw Focus Weeks",
-      "url": "https://openclaw.ai/blog/openclaw-focus-weeks",
-      "permalink": "https://aihot.news/items/dvpo1o8bxmcui0dp01s3vte6n",
-      "source": "OpenClaw：Blog（网页）",
-      "publishedAt": "2026-10-21T00:00:00.000Z",
-      "discoveredAt": "2026-10-21T20:34:24.483Z",
-      "summary": "OpenClaw 推出 Focus Weeks，每周选定一个路线图方向并指定一名 Maintainer 带队，邀请社区集中贡献代码、bug 报告、测试和文档。首周为 2026 年 10 月 19–25 日，聚焦 Control UI，由 Vyctor Brzezowski 担任 Maintainer。",
-      "category": "industry",
-      "score": 34,
+      "id": "non0iyd8ngow0mnjf0ft9chb7",
+      "title": "Claude Code 作者 Boris Cherny 在斯坦福课上的五条实战原则",
+      "title_en": "几千个 Claude Agent 同时跑：Claude Code 作者 Boris Cherny 在斯坦福课上的五条实战原则",
+      "url": "https://x.com/shao__meng/status/2113291579750551931",
+      "permalink": "https://aihot.news/items/non0iyd8ngow0mnjf0ft9chb7",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-10-22T15:29:10.000Z",
+      "discoveredAt": "2026-10-22T15:50:38.860Z",
+      "summary": "Claude Code 作者 Boris Cherny 在斯坦福课程 CS146S 分享五条原则，核心是把研发瓶颈系统化地自动化，并为六个月后更强的模型提前设计。",
+      "category": "opinion",
+      "score": 69,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/dvpo1o8bxmcui0dp01s3vte6n"
+        "canonical": "https://aihot.news/items/non0iyd8ngow0mnjf0ft9chb7"
       },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
       "tags": [
-        "ui"
+        "设计",
+        "自动化",
+        "claude code",
+        "agent"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "x04e9wruhyg3u6weo7y80wnq6",
+      "title": "可灵4.0上线Picsart短剧挑战赛",
+      "title_en": "Bring the drama! #Kling4 #KlingAI",
+      "url": "https://x.com/Kling_ai/status/2113160491837313135",
+      "permalink": "https://aihot.news/items/x04e9wruhyg3u6weo7y80wnq6",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-10-22T06:48:16.000Z",
+      "discoveredAt": "2026-10-22T07:01:35.931Z",
+      "summary": "来点戏剧性！#Kling4 #KlingAI\n\nKling 4.0 已在 Picsart 上线，Picsart x @Kling_ai 4.0 短剧挑战赛正式开启！🎭🏆 5 万美元奖金，五位获胜者各得 1 万美元。来点戏剧性，让我们感受到它！\n\n参与方式 👉 https://tinyurl.com/dbfztpdm",
+      "category": "industry",
+      "score": 23,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/x04e9wruhyg3u6weo7y80wnq6"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "可灵"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "a48kf6an98d60fmn12086h2rt",
+      "title": "Kling 4.0 上线 Firefly",
+      "title_en": "Meet your next creative spark: Kling 4.0, now in Firefly. #Kling4 #KlingAI",
+      "url": "https://x.com/Kling_ai/status/2113135088091476358",
+      "permalink": "https://aihot.news/items/a48kf6an98d60fmn12086h2rt",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-10-22T05:07:19.000Z",
+      "discoveredAt": "2026-10-22T05:28:34.261Z",
+      "summary": "遇见你的下一个创意火花：Kling 4.0，现已登陆 Firefly。#Kling4 #KlingAI",
+      "category": "ai-products",
+      "score": 48,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/a48kf6an98d60fmn12086h2rt"
+      },
+      "sourceType": "X",
+      "designCategory": "行业观察",
+      "relevanceScore": 9,
+      "editorialScore": 9,
+      "tags": [
+        "创意",
+        "creative"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "wu0nupqhok993e6z7bblp56hx",
@@ -1063,34 +1061,6 @@
         "创意"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "frzxg9bla3thx0hr45zesf6je",
-      "title": "Claude Code v2.1.306 发布，修复云会话登录与 MCP 工具报错问题",
-      "title_en": "v2.1.306",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.306",
-      "permalink": "https://aihot.news/items/frzxg9bla3thx0hr45zesf6je",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "publishedAt": "2026-10-21T03:16:31.000Z",
-      "discoveredAt": "2026-10-21T03:56:32.706Z",
-      "summary": "Claude Code 发布 v2.1.306，修复云会话中未带环境变量启动 `claude -p` 时误报“Not logged in”的问题。该版本还修复了在 MCP 工具较多的会话中 API 错误被替换为“prompt is too long”并触发不必要压缩的问题。",
-      "category": "ai-products",
-      "score": 28,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/frzxg9bla3thx0hr45zesf6je"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "prompt",
-        "claude code",
-        "mcp"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "teyp1x1q12388n0l03it2dl6s",
