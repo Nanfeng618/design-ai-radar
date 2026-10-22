@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-22T04:45:39.064Z",
-  "previousGeneratedAt": "2026-10-21T17:12:24.966Z",
+  "generatedAt": "2026-10-22T11:52:37.099Z",
+  "previousGeneratedAt": "2026-10-22T04:45:39.064Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 43,
+  "itemCount": 41,
   "sourceCounts": {
-    "网站": 16,
+    "网站": 13,
     "X": 24,
-    "公众号": 3
+    "公众号": 4
   },
   "source": {
     "name": "AI HOT",
@@ -322,6 +322,33 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
+      "id": "rin0ab4vdu46hjoiyjcj5vih5",
+      "title": "Kling 4.0 现已上线 OnSolo",
+      "title_en": "Kling 4.0 is now live on OnSolo. #Kling4 #KlingAI",
+      "url": "https://x.com/Kling_ai/status/2113142473145078041",
+      "permalink": "https://aihot.news/items/rin0ab4vdu46hjoiyjcj5vih5",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-10-22T05:36:40.000Z",
+      "discoveredAt": "2026-10-22T05:59:32.995Z",
+      "summary": "可灵（Kling）宣布 Kling 4.0 已在 OnSolo 上线。该模型支持单次生成 30 秒原生视频，快速动作和大运镜下保持稳定，立体声配更准的口型同步，并提供 21:9 宽屏，单个任务可叠加最多 15 个参考图和 10 个关键帧以保持角色、镜头与剧情一致。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/rin0ab4vdu46hjoiyjcj5vih5"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 10,
+      "editorialScore": 13,
+      "tags": [
+        "可灵",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "pgyojlln2zwm2gvfiodif93k7",
       "title": "Grok Bot 新增可视化交互文档生成能力",
       "title_en": "“If the nature of the data suggests the shape of the graphic, follow that suggestion.” — Edward Tufte",
@@ -462,55 +489,28 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "yeiisdbh3exg5edp1ncqv7juf",
-      "title": "Christian Keil：超人类硬件设计只是简单部分，制造与测试才是难点",
-      "title_en": "Superhuman Hardware Design Is The Easy Part",
-      "url": "https://www.a16z.news/p/superhuman-hardware-design-is-the",
-      "permalink": "https://aihot.news/items/yeiisdbh3exg5edp1ncqv7juf",
-      "source": "a16z：News（RSS）",
-      "publishedAt": "2026-10-20T18:09:13.000Z",
-      "discoveredAt": "2026-10-20T18:52:17.731Z",
-      "summary": "a16z 作者 Christian Keil 撰文分析 AI 硬件工程能力何时跨越人类水平。",
-      "category": "opinion",
-      "score": 53,
+      "id": "kfa3s0k4sv09uax2z1y7b6ffj",
+      "title": "可灵Kling 4 超现实视频趋势",
+      "title_en": "Things are getting surreal 👀 #Kling4 #KlingAI",
+      "url": "https://x.com/Kling_ai/status/2113186439693586485",
+      "permalink": "https://aihot.news/items/kfa3s0k4sv09uax2z1y7b6ffj",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-10-22T08:31:22.000Z",
+      "discoveredAt": "2026-10-22T08:34:31.345Z",
+      "summary": "越来越超现实了 👀 #Kling4 #KlingAI",
+      "category": null,
+      "score": 23,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/yeiisdbh3exg5edp1ncqv7juf"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "design",
-        "设计"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "h3p20nlx7t5fr27k4viwlnpty",
-      "title": "fal 发布 FLUX 3 Max，图生视频 Elo 达 1139 并列第一",
-      "title_en": "FLUX 3 Max scores 1,139 Elo on third-party benchmark evaluations, placing it in the #1 tier of frontier image-to-video models based on in...",
-      "url": "https://x.com/fal/status/2112600472922333263",
-      "permalink": "https://aihot.news/items/h3p20nlx7t5fr27k4viwlnpty",
-      "source": "X：fal (@fal)",
-      "publishedAt": "2026-10-20T17:42:57.000Z",
-      "discoveredAt": "2026-10-20T17:54:18.248Z",
-      "summary": "fal 发布与 Black Forest Labs 合作后训练的视频模型 FLUX 3 Max，在第三方独立人类偏好评测中获 1139 Elo，与 Seedance 2.5 并列图生视频质量第一梯队。该模型约 12 秒生成一段 10 秒 720/768p 视频，未来三周降价 75%，后续还将继续后训练改进。",
-      "category": "ai-models",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/h3p20nlx7t5fr27k4viwlnpty"
+        "canonical": "https://aihot.news/items/kfa3s0k4sv09uax2z1y7b6ffj"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
+      "relevanceScore": 9,
+      "editorialScore": 12,
       "tags": [
-        "flux",
+        "可灵",
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
@@ -984,35 +984,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "j07dfq5nac8r6kdh1nlzbkqbj",
-      "title": "卡兹克分享8个Claude Opus 5.5惊艳玩法",
-      "title_en": "分享8个让我最近很惊艳的Claude Opus 5.5玩法。",
-      "url": "https://x.com/Khazix0918/status/2112794968981139875",
-      "permalink": "https://aihot.news/items/j07dfq5nac8r6kdh1nlzbkqbj",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "publishedAt": "2026-10-21T06:35:49.000Z",
-      "discoveredAt": "2026-10-21T06:47:28.842Z",
-      "summary": "卡兹克整理了8个基于Claude Opus 5.5的创意案例，包括120页手写笔记转个人字体、16岁高中生2天构建古希腊世界、16天制作的小王子3D剧情游戏、成都城市讲解视频《一座城的年轮》、一句话生成火烧前的圆明园视频、指环王故事视频、逆向自家电视，以及Nenly同学用Claude和Codex等AI工具花298天做出的Steam好评率98%游戏《群侠传：幸存者》。",
-      "category": "tip",
-      "score": 52,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/j07dfq5nac8r6kdh1nlzbkqbj"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "创意",
-        "视频",
-        "3d",
-        "codex"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "hpntig8w3c404lwf3jqpz6m9t",
       "title": "8个让人惊艳的 Claude Opus 5.5 创意玩法分享",
       "title_en": "分享8个让我最近很惊艳的Claude Opus 5.5玩法。",
@@ -1094,33 +1065,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "vka71lphdofpe1r5xw6o5b5au",
-      "title": "Runway 携 Runway Creative 加入 Claude Marketplace",
-      "title_en": "October 20, 2026•Company News Runway Joins Claude Marketplace",
-      "url": "https://runwayml.com/news/company-news/runway-claude-marketplace",
-      "permalink": "https://aihot.news/items/vka71lphdofpe1r5xw6o5b5au",
-      "source": "Runway：News（网页）",
-      "publishedAt": "2026-10-20T17:18:00.000Z",
-      "discoveredAt": "2026-10-20T19:04:19.703Z",
-      "summary": "Runway 携 Runway Creative 加入 Claude Marketplace，符合条件的企业客户可用现有 Anthropic 承诺额度的一部分购买该平台。",
-      "category": "industry",
-      "score": 43,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/vka71lphdofpe1r5xw6o5b5au"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "runway",
-        "creative"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "frzxg9bla3thx0hr45zesf6je",
       "title": "Claude Code v2.1.306 发布，修复云会话登录与 MCP 工具报错问题",
       "title_en": "v2.1.306",
@@ -1149,29 +1093,28 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "e3x2v46orx5kjc7crkwzab8hb",
-      "title": "Databricks 推出 Agent Memory Beta，基于 MemCurrent 架构提升智能体质量",
-      "title_en": "Introducing Agent Memory on Databricks",
-      "url": "https://www.databricks.com/blog/introducing-agent-memory-databricks",
-      "permalink": "https://aihot.news/items/e3x2v46orx5kjc7crkwzab8hb",
-      "source": "Databricks：Blog（RSS）",
-      "publishedAt": "2026-10-20T17:26:56.000Z",
-      "discoveredAt": "2026-10-20T17:02:17.934Z",
-      "summary": "Databricks 在 Agent Bricks 平台推出 Agent Memory Beta，通过存储关键事实、偏好和工作流提升智能体质量并降低成本和延迟，底层由 Lakebase 提供、基于 Databricks 的 MemCurrent 记忆研究。",
-      "category": "ai-products",
-      "score": 52,
+      "id": "teyp1x1q12388n0l03it2dl6s",
+      "title": "腾讯混元与复旦大学提出 WorkForge，用真实工作区规模化训练工作智能体",
+      "title_en": "大模型如何胜任职场？WorkForge让大模型进入真实职场工作流",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498710&idx=1&sn=f4e7e6d5084def4dcbb134ba6c7ba1c6",
+      "permalink": "https://aihot.news/items/teyp1x1q12388n0l03it2dl6s",
+      "source": "公众号：腾讯混元",
+      "publishedAt": "2026-10-22T09:05:29.000Z",
+      "discoveredAt": "2026-10-22T09:42:28.645Z",
+      "summary": "腾讯混元与复旦大学研究团队提出 WorkForge 框架，从真实世界资源出发规模化构建可验证的智能体工作环境，产出 WorkForge-16K 共 16,665 个环境，覆盖 40 个专业领域、60 种文件类型。",
+      "category": "paper",
+      "score": 54,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/e3x2v46orx5kjc7crkwzab8hb"
+        "canonical": "https://aihot.news/items/teyp1x1q12388n0l03it2dl6s"
       },
-      "sourceType": "网站",
+      "sourceType": "公众号",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
+      "relevanceScore": 6,
+      "editorialScore": 7,
       "tags": [
         "工作流",
-        "agent",
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
