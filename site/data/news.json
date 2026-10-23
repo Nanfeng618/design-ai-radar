@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-23T11:39:04.272Z",
-  "previousGeneratedAt": "2026-10-23T04:49:22.030Z",
+  "generatedAt": "2026-10-23T17:07:12.812Z",
+  "previousGeneratedAt": "2026-10-23T11:39:04.272Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 40,
+  "itemCount": 43,
   "sourceCounts": {
-    "网站": 13,
+    "网站": 16,
     "X": 24,
     "公众号": 3
   },
@@ -129,6 +129,34 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
+      "id": "dy6rkvc23lfrolo4y5hjg7evh",
+      "title": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问",
+      "title_en": "Kling 4.0 is now publicly available on fal, with API access open to all customers.",
+      "url": "https://x.com/fal/status/2113646807997620396",
+      "permalink": "https://aihot.news/items/dy6rkvc23lfrolo4y5hjg7evh",
+      "source": "X：fal (@fal)",
+      "publishedAt": "2026-10-23T15:00:43.000Z",
+      "discoveredAt": "2026-10-23T15:25:34.701Z",
+      "summary": "fal 宣布 Kling 4.0 正式向公众开放，所有客户均可通过 API 访问。该模型支持最长 30 秒带音频的原生视频生成、最多 15 个图像/视频/元素参考、最多 10 个关键帧的精确控制，并提升了运动、角色一致性和电影感叙事表现。",
+      "category": "ai-products",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/dy6rkvc23lfrolo4y5hjg7evh"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 15,
+      "editorialScore": 18,
+      "tags": [
+        "视频生成",
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "ukszlvgmrmrac1fs0a3galmli",
       "title": "Kling AI 正式发布新一代视频模型 Kling 4.0",
       "title_en": "Kling AI has officially released Kling 4.0, its next-generation video model built for more controlled, consistent video generation.",
@@ -152,6 +180,63 @@
       "tags": [
         "视频生成",
         "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "etvwejs00jzumsmh39ob32xi9",
+      "title": "Krea 为 Grok 推出图像视频生成 bot",
+      "title_en": "introducing Krea for Grok bot.",
+      "url": "https://x.com/krea_ai/status/2113661958331494461",
+      "permalink": "https://aihot.news/items/etvwejs00jzumsmh39ob32xi9",
+      "source": "X：Krea AI (@krea_ai)",
+      "publishedAt": "2026-10-23T16:00:55.000Z",
+      "discoveredAt": "2026-10-23T16:59:36.159Z",
+      "summary": "隆重介绍 Krea for Grok bot。\n\n直接在 Grok 里，用全球最好的模型生成图像和视频。\n\n现在就来试试 👇",
+      "category": "ai-products",
+      "score": 39,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/etvwejs00jzumsmh39ob32xi9"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 14,
+      "editorialScore": 17,
+      "tags": [
+        "视频生成",
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cz05h06jxx7vspnarwf4vg5ys",
+      "title": "Canva 发布首个自研图像生成模型 Craft",
+      "title_en": "Canva launches Craft, its first in-house image model",
+      "url": "https://the-decoder.com/canva-launches-craft-its-first-in-house-image-model/",
+      "permalink": "https://aihot.news/items/cz05h06jxx7vspnarwf4vg5ys",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-10-23T11:36:30.000Z",
+      "discoveredAt": "2026-10-23T12:33:25.472Z",
+      "summary": "设计平台 Canva 发布首个自研图像生成模型 Canva Craft，称可与 Google、OpenAI、ByteDance 和 Meta 的同类模型竞争。",
+      "category": "ai-models",
+      "score": 61,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cz05h06jxx7vspnarwf4vg5ys"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "canva",
+        "图像生成",
+        "设计",
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
@@ -240,35 +325,6 @@
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "i1vq8101ct2018eczivrgj946",
-      "title": "Anthropic Claude Duet 智能体购物流程曝光",
-      "title_en": "ANTHROPIC 🔥: An early look at how agentic shopping flow with Stripe Link would work on Claude Duet, Anthropic's upcoming proactive agent.",
-      "url": "https://x.com/testingcatalog/status/2113004898929299492",
-      "permalink": "https://aihot.news/items/i1vq8101ct2018eczivrgj946",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-10-21T20:30:00.000Z",
-      "discoveredAt": "2026-10-21T20:47:28.019Z",
-      "summary": "ANTHROPIC 🔥：抢先了解 Claude Duet 上通过 Stripe Link 实现的智能体购物流程——Claude Duet 是 Anthropic 即将推出的主动式智能体。\n\n有意思的是，该智能体下方出现了这些话题标签——这是否意味着它的 UI 会围绕类似 Slack 的“线程式”对话来设计？\n\n趣闻：Duet 的内部代号是“aibo”。\n\nAPKPLZ 👀 https://x.com/stripe/status/2112995753824301406/video/1",
-      "category": "ai-products",
-      "score": 30,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/i1vq8101ct2018eczivrgj946"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 10,
-      "editorialScore": 14,
-      "tags": [
-        "ui",
-        "设计",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "mmud6nxwo0a3dwpscsbt6edrg",
@@ -410,6 +466,33 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "kxp6d6jffy7l50vru3qyo91ps",
+      "title": "Claude Fable 5.1 如何把密信藏进 SVG 图画：截图后新会话解码约 78%，GPT-6 Astra 交叉解码达 88%",
+      "title_en": "Claude Fable 5.1 如何把密信藏进 SVG 图画：截图后，新会话仍能解出约八成、GPT-6 Astra 反而更强？",
+      "url": "https://x.com/shao__meng/status/2113649678244003918",
+      "permalink": "https://aihot.news/items/kxp6d6jffy7l50vru3qyo91ps",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-10-23T15:12:07.000Z",
+      "discoveredAt": "2026-10-23T15:33:36.193Z",
+      "summary": "LessWrong 实验测试 Claude Fable 5.1 在图像中隐藏信息的能力：模型被要求藏句且不规定方式时，自发用视觉属性编码，最常见是物体高度对应字母位置（50 张中 33 张）；新会话只给渲染后的 PNG 仍解出约 78%（39/50）。交叉解码显示 GPT-6 Astra 解 Fable 编码达 88%，同模型并非更占优；目前解码需工具量测像素，监控工具调用可发现。",
+      "category": "paper",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/kxp6d6jffy7l50vru3qyo91ps"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 9,
+      "editorialScore": 12,
+      "tags": [
+        "视觉",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "t027qbtxtylytk7l4wkn6qktd",
       "title": "昆仑万维 SkyProduction 天工工作台接入可灵 Kling 4.0",
       "title_en": "昆仑万维旗下 SkyProduction天工工作台接入可灵 Kling 4.0",
@@ -466,29 +549,57 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "a292wv9cg4amfkylljo5zlt6h",
-      "title": "可灵4.0亮相LA Tech Week",
-      "title_en": "At LA Tech Week 2026, Kling joined Oxen AI and Obsidian Studio to explore how AI video is finding its place in enterprise content product...",
-      "url": "https://x.com/Kling_ai/status/2113072850802196961",
-      "permalink": "https://aihot.news/items/a292wv9cg4amfkylljo5zlt6h",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "publishedAt": "2026-10-22T01:00:01.000Z",
-      "discoveredAt": "2026-10-22T01:20:32.354Z",
-      "summary": "在 LA Tech Week 2026 上，可灵与 Oxen AI 和 Obsidian Studio 一同探讨了 AI 视频如何在企业内容制作中找到自己的位置，从镜头创作到最终交付。\n\n观看精彩片段，了解可灵 4.0 如何支持复杂的制作需求。",
-      "category": "industry",
-      "score": 26,
+      "id": "ip309avujfo43rqtnzaptlq8d",
+      "title": "字节跳动发布 Seedance 2.5 4K 视频模型",
+      "title_en": "ByteDance released Seedance 2.5 4K, featuring richer visual detail.",
+      "url": "https://x.com/testingcatalog/status/2113667822132027903",
+      "permalink": "https://aihot.news/items/ip309avujfo43rqtnzaptlq8d",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "publishedAt": "2026-10-23T16:24:13.000Z",
+      "discoveredAt": "2026-10-23T16:35:36.937Z",
+      "summary": "字节跳动发布 Seedance 2.5 4K，主打更丰富的视觉细节。据称其 10-bit 色深带来更丰富的色彩层次和更平滑的过渡；用户可用 Draft 模式先低成本生成 480p 预览，再放大到 4K。",
+      "category": "ai-products",
+      "score": 55,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/a292wv9cg4amfkylljo5zlt6h"
+        "canonical": "https://aihot.news/items/ip309avujfo43rqtnzaptlq8d"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
+      "relevanceScore": 8,
+      "editorialScore": 11,
       "tags": [
-        "可灵",
+        "视觉",
         "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "xhxabe1xs1dorvlz0reig6m5e",
+      "title": "MiniMax-M3.1-Flash 开放权重首日上线 SiliconFlow",
+      "title_en": "🐰 Space Bunny just went open-weight!",
+      "url": "https://x.com/SiliconFlowAI/status/2113662061578473750",
+      "permalink": "https://aihot.news/items/xhxabe1xs1dorvlz0reig6m5e",
+      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+      "publishedAt": "2026-10-23T16:01:20.000Z",
+      "discoveredAt": "2026-10-23T16:04:21.214Z",
+      "summary": "SiliconFlow 宣布 MiniMax-M3.1-Flash 在开放权重发布首日上线其平台。该模型在 DeepSWE v1.1 得分 73.7%，OSWorld V2 得分 61.7，原生支持文本、图像和视频输入的 1M 上下文，采用全层稀疏注意力的 MSA 架构，相比 M3 推理速度提升近 3 倍，智能体任务成本降低 70%。",
+      "category": "ai-models",
+      "score": 68,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/xhxabe1xs1dorvlz0reig6m5e"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视频",
+        "图像",
+        "智能体"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -544,6 +655,61 @@
       "tags": [
         "视觉",
         "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "sllfzlswzu8zyd5oq8lhgdr8c",
+      "title": "Perplexity Computer 自主将树莓派改造成游戏主机",
+      "title_en": "This user gave Perplexity Computer, SSH access to a Raspberry Pi 5 over Tailscale. Overnight, it autonomously turned it into a game conso...",
+      "url": "https://x.com/AravSrinivas/status/2113661112143282441",
+      "permalink": "https://aihot.news/items/sllfzlswzu8zyd5oq8lhgdr8c",
+      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "publishedAt": "2026-10-23T15:57:33.000Z",
+      "discoveredAt": "2026-10-23T16:03:20.500Z",
+      "summary": "用户通过 Tailscale 给 Perplexity Computer 开放了 Raspberry Pi 5 的 SSH 访问权限，它一夜之间自主把设备变成带街机 UI、工具链和 MCP 集成的游戏主机。",
+      "category": "industry",
+      "score": 39,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/sllfzlswzu8zyd5oq8lhgdr8c"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "ui",
+        "mcp"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "piow9uqig807li9cqr5t9wghu",
+      "title": "Gemini 4 Argon 用 Blender MCP 建 3D 哥特教堂",
+      "title_en": "Using a single Nano Banana image and Blender MCP, Gemini 4 Argon built a 3D Gothic cathedral in @Antigravity.",
+      "url": "https://x.com/GoogleDeepMind/status/2113645959762575623",
+      "permalink": "https://aihot.news/items/piow9uqig807li9cqr5t9wghu",
+      "source": "X：Google DeepMind (@GoogleDeepMind)",
+      "publishedAt": "2026-10-23T14:57:21.000Z",
+      "discoveredAt": "2026-10-23T15:00:36.322Z",
+      "summary": "仅用一张 Nano Banana 图像和 Blender MCP，Gemini 4 Argon 在 @Antigravity 中搭建了一座 3D 哥特式大教堂。\n\n它不断迭代几何结构、纹理和光照，最终完成整个场景。",
+      "category": "ai-products",
+      "score": 34,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/piow9uqig807li9cqr5t9wghu"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "图像",
+        "3d",
+        "mcp"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -710,84 +876,54 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "rtbm48num2azmqgrrzy2ep7il",
-      "title": "Anthropic 指南：何时把子智能体合并进主 Agent 循环",
-      "title_en": "Building agents: When to fold subagents into your main agent loop",
-      "url": "https://claude.com/blog/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
-      "permalink": "https://aihot.news/items/rtbm48num2azmqgrrzy2ep7il",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-10-22T00:00:00.000Z",
-      "discoveredAt": "2026-10-22T16:17:37.766Z",
-      "summary": "Anthropic Applied AI 团队发布指南，讲解何时把 orchestrator 下的路由器、规划器和领域子智能体合并进单个主 Agent 循环。文中对比显示，带 skills 的单智能体在质量上常优于一提示全包和子智能体设计，且成本和延迟更低，一家客户改用单循环后运行时间约快 2x。",
-      "category": "tip",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/rtbm48num2azmqgrrzy2ep7il"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "py9vkgfbn89x659hvd6egznif",
-      "title": "Meta 财报电话会披露 Muse 用户超 1000 万，购物成主要使用场景",
-      "title_en": "Meta says Muse has over 10M users, with shopping a top activity",
-      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "permalink": "https://aihot.news/items/py9vkgfbn89x659hvd6egznif",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-10-21T21:14:19.000Z",
-      "discoveredAt": "2026-10-21T22:04:23.926Z",
-      "summary": "Meta 在三季度财报电话会上宣布其 AI 应用 Muse 用户已超 1000 万，约 25% 的用户每天使用，购物是热门场景，通过购物智能体消费的活跃用户中超过四分之一平均单笔购买额超 200 美元。扎克伯格称 Muse 已达成产品市场契合，Meta 计划在未来一年将运行成本效率提升 10 倍以上并实现盈利，还预告了让多个 Muse 协同交互的 Muse network 计划。",
-      "category": "industry",
-      "score": 74,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/py9vkgfbn89x659hvd6egznif"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "交互",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "ddfyd2qbu6dww35qoq4z9cfrn",
-      "title": "HeyGen 视频与语音模型上线 fal",
-      "title_en": "HeyGen Video and HeyGen Voice from @HeyGen are now live on fal.",
-      "url": "https://x.com/fal/status/2113013413592842486",
-      "permalink": "https://aihot.news/items/ddfyd2qbu6dww35qoq4z9cfrn",
-      "source": "X：fal (@fal)",
-      "publishedAt": "2026-10-21T21:03:50.000Z",
-      "discoveredAt": "2026-10-21T21:11:25.710Z",
-      "summary": "来自 @HeyGen 的 HeyGen Video 和 HeyGen Voice 现已在 fal 上线。\n\n内置声音的视频与语音模型。\n- 支持文本、图像和参考生成视频，每个片段都带对话、环境音和音效\n- 5 至 15 秒片段，最高 2K\n- 支持 39 种语言的语音，可即时克隆声音，并有更快的 Turbo 档",
+      "id": "qdlka2srdetmfvisglims5b4c",
+      "title": "可灵4上线Miora，AI选角导演更轻松",
+      "title_en": "POV: Directing your AI cast just got easier with #Kling4, now on Miora 🎬 #KlingAI",
+      "url": "https://x.com/Kling_ai/status/2113650066196255124",
+      "permalink": "https://aihot.news/items/qdlka2srdetmfvisglims5b4c",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-10-23T15:13:40.000Z",
+      "discoveredAt": "2026-10-23T15:28:20.661Z",
+      "summary": "视角：用 #Kling4 导演你的 AI 演员阵容更轻松了，现已上线 Miora 🎬 #KlingAI",
       "category": "ai-products",
-      "score": 45,
+      "score": 24,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ddfyd2qbu6dww35qoq4z9cfrn"
+        "canonical": "https://aihot.news/items/qdlka2srdetmfvisglims5b4c"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
+      "relevanceScore": 6,
+      "editorialScore": 9,
       "tags": [
-        "视频",
-        "图像"
+        "可灵"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "m96q1u0abpojtjye8h747b79f",
+      "title": "创作者用可灵 4.0 呈现电影质感",
+      "title_en": "Discover how creators are bringing cinematic visions to life with Kling 4.0, capturing lifelike details and the beauty, complexity, and e...",
+      "url": "https://x.com/Kling_ai/status/2113601348881002731",
+      "permalink": "https://aihot.news/items/m96q1u0abpojtjye8h747b79f",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-10-23T12:00:05.000Z",
+      "discoveredAt": "2026-10-23T12:23:24.662Z",
+      "summary": "探索创作者如何借助可灵 4.0 将电影般的构想变为现实，捕捉栩栩如生的细节，以及日常生活中的美、复杂与情感。",
+      "category": "ai-products",
+      "score": 25,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/m96q1u0abpojtjye8h747b79f"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "可灵"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -818,168 +954,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "fbxsqmx6cfmpyohqmxx86ipv8",
-      "title": "可灵（Kling）4.0 制作解析：短片 KING CARD 的动态运镜与环境变换方法",
-      "title_en": "The Making of King Card with Kling 4.0 🎬 #KlingAI #Kling4 https://x.com/i/article/2113227083618897921",
-      "url": "https://x.com/Kling_ai/status/2113470610038784062",
-      "permalink": "https://aihot.news/items/fbxsqmx6cfmpyohqmxx86ipv8",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "publishedAt": "2026-10-23T03:20:34.000Z",
-      "discoveredAt": "2026-10-23T03:37:22.716Z",
-      "summary": "可灵（Kling）官方解析如何用 Kling 4.0 制作短片 KING CARD，该片在各社交平台获 500 万次观看。",
-      "category": "tip",
-      "score": 52,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/fbxsqmx6cfmpyohqmxx86ipv8"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "可灵"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "kesvq399mx9i66pzds66zwi7e",
-      "title": "构建优秀评估的三要素",
-      "title_en": "building great evals is a mix of systems engineering, creative direction, and adversarial intuition",
-      "url": "https://x.com/karinanguyen/status/2113466189985034254",
-      "permalink": "https://aihot.news/items/kesvq399mx9i66pzds66zwi7e",
-      "source": "X：Karina Nguyen（@karinanguyen）",
-      "publishedAt": "2026-10-23T03:03:00.000Z",
-      "discoveredAt": "2026-10-23T03:06:21.904Z",
-      "summary": "构建优秀的评估是系统工程、创意方向和对抗性直觉的结合",
-      "category": "opinion",
-      "score": 25,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/kesvq399mx9i66pzds66zwi7e"
-      },
-      "sourceType": "X",
-      "designCategory": "行业观察",
-      "relevanceScore": 9,
-      "editorialScore": 9,
-      "tags": [
-        "创意",
-        "creative"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "emb572a9uxcr3fpcg6wldd35n",
-      "title": "MiniMax 开放 M3.1 Flash 权重，Together AI 提供首日托管",
-      "title_en": "M3.1 Flash weights are now open 🔓",
-      "url": "https://x.com/MiniMax_AI/status/2113452026902589732",
-      "permalink": "https://aihot.news/items/emb572a9uxcr3fpcg6wldd35n",
-      "source": "X：MiniMax (@MiniMax_AI)",
-      "publishedAt": "2026-10-23T02:06:43.000Z",
-      "discoveredAt": "2026-10-23T02:36:23.355Z",
-      "summary": "MiniMax 宣布 M3.1 Flash 权重开放，并感谢 Together AI 作为 day-0 launch partner 将其部署到 AI Native Cloud。据引用内容，该模型面向智能体任务、编码、computer use 和网络安全，支持 1M 上下文窗口和视觉输入，Together AI 定价为缓存输入 $0.15、输出 $0.60（每 1M tokens，缓存/1M $0.015）。",
-      "category": "ai-models",
-      "score": 68,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/emb572a9uxcr3fpcg6wldd35n"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "视觉",
-        "智能体"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "wnxszj7k9lyh4tmsa2l8c1r5n",
-      "title": "MiniMax 开放 M3.1 Flash 权重，Together AI 同步提供托管服务",
-      "title_en": "M3.1 Flash weights are now open 🔓 @togethercompute has it running, fully managed, from day 0.",
-      "url": "https://x.com/MiniMax_AI/status/2113450073711649122",
-      "permalink": "https://aihot.news/items/wnxszj7k9lyh4tmsa2l8c1r5n",
-      "source": "X：MiniMax (@MiniMax_AI)",
-      "publishedAt": "2026-10-23T01:58:58.000Z",
-      "discoveredAt": "2026-10-23T02:05:24.965Z",
-      "summary": "MiniMax 官方宣布 M3.1 Flash 开放权重，Together AI 作为 day-0 合作伙伴提供全托管服务。据 Together AI 介绍，该模型代号 space bunny，面向智能体任务、编码、计算机使用和网络安全，支持 1M 上下文窗口和视觉能力，定价为缓存输入 $0.15/1M、输入 $0.15/1M、输出 $0.60/1M，入口 https://www.together.ai/models/minimax-m3-1-flash。",
-      "category": "ai-models",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/wnxszj7k9lyh4tmsa2l8c1r5n"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "视觉",
-        "智能体"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "idzyceg8ir2pnu3d2mcmm0p22",
-      "title": "Envato 推出 MonoDesk 创意工作管理平台",
-      "title_en": "Envato launched MonoDesk, a workspace that lets freelancers and creative studios manage client projects end to end, from the first inquir...",
-      "url": "https://x.com/testingcatalog/status/2113379478592168336",
-      "permalink": "https://aihot.news/items/idzyceg8ir2pnu3d2mcmm0p22",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-10-22T21:18:27.000Z",
-      "discoveredAt": "2026-10-22T21:30:22.762Z",
-      "summary": "Envato 发布 MonoDesk，一款面向自由职业者和创意工作室的工作空间，覆盖从客户询价到最终开票的全流程项目管理。客户签署提案后，MonoDesk 可自动创建项目并填入约定范围与预估工时；客户可在共享门户中审阅交付物、批准或要求修改，项目工时记录可显示是否仍在预算内。内置 AI 助手能根据模糊的客户询价自动起草提案，并标记可能超出约定范围的请求。",
-      "category": "ai-products",
-      "score": 39,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/idzyceg8ir2pnu3d2mcmm0p22"
-      },
-      "sourceType": "X",
-      "designCategory": "行业观察",
-      "relevanceScore": 9,
-      "editorialScore": 9,
-      "tags": [
-        "创意",
-        "creative"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "u7tpqfjh9sthd98g48yheypuk",
-      "title": "Codex 计算机使用实用提示词",
-      "title_en": "Very useful prompt for Codex with computer use.",
-      "url": "https://x.com/emollick/status/2113361252173091114",
-      "permalink": "https://aihot.news/items/u7tpqfjh9sthd98g48yheypuk",
-      "source": "X：Ethan Mollick (@emollick)",
-      "publishedAt": "2026-10-22T20:06:01.000Z",
-      "discoveredAt": "2026-10-22T20:20:22.049Z",
-      "summary": "对具备计算机使用能力的 Codex 来说，这是一个非常有用的提示词。",
-      "category": "tip",
-      "score": 16,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/u7tpqfjh9sthd98g48yheypuk"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "提示词",
-        "prompt",
-        "codex"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
       "id": "m3xd1i05evmg1921gqrv4dluk",
       "title": "OpenAI 的 Decisions API 面向全部客户开放，与 TypeSafe Jev 竞争加剧",
       "title_en": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
@@ -1006,6 +980,34 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "o7z4m9b9xehkhi7fuvqh70a92",
+      "title": "智能体软件工厂需求层次：从单个 Agent 到自动化与持续学习",
+      "title_en": "The Agentic Software Factory Hierarchy of Needs",
+      "url": "https://www.oreilly.com/radar/the-agentic-software-factory-hierarchy-of-needs/",
+      "permalink": "https://aihot.news/items/o7z4m9b9xehkhi7fuvqh70a92",
+      "source": "O'Reilly Radar（热点 RSS）",
+      "publishedAt": "2026-10-23T10:54:58.000Z",
+      "discoveredAt": "2026-10-23T13:41:42.890Z",
+      "summary": "Hugo Bowne-Anderson 与 Eleanor Berger 提出智能体软件工厂的四层需求层次：harness、个性化、自动化和持续学习，核心是自主且异步执行，从单个 Agent 加一个自动化即可起步。",
+      "category": "tip",
+      "score": 66,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/o7z4m9b9xehkhi7fuvqh70a92"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "自动化",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "c0d7ukgmmdylnuwks55p9ati2",
       "title": "AI 智能体工作流中的幻觉检测方法指南",
       "title_en": "Hallucination Detection Methods for AI Agent Workflows",
@@ -1028,6 +1030,62 @@
       "editorialScore": 8,
       "tags": [
         "工作流",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "j5qm7v6182adr1zleomgiw2au",
+      "title": "Modem 推出由 Jev 驱动的智能触发器，按条件筛选事件再运行智能体",
+      "title_en": "Unlock new workflows with smart triggers, powered by Jev",
+      "url": "https://modem.ai/blog/smart-triggers",
+      "permalink": "https://aihot.news/items/j5qm7v6182adr1zleomgiw2au",
+      "source": "Modem：Blog（RSS）",
+      "publishedAt": "2026-10-23T13:00:00.000Z",
+      "discoveredAt": "2026-10-23T16:10:33.023Z",
+      "summary": "Modem 上线智能触发器（Smart Triggers），在启动 Modem 智能体前先用 TypeSafe 的决策模型 Jev 按自然语言条件评估每个事件，条件可在 1 秒内完成评估、单次成本 1/100 美分，只有匹配的事件才触发智能体运行。该功能现已向所有用户开放，可通过应用内、Slack、Discord 或 Claude、ChatGPT、Cursor 等 MCP 客户端创建自动化。",
+      "category": "ai-products",
+      "score": 38,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/j5qm7v6182adr1zleomgiw2au"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "自动化",
+        "智能体",
+        "mcp"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "tvt3ouogczyjrv9hsm7o3o62t",
+      "title": "AI Agent 记忆机制：LLM 智能体如何在生产环境中管理状态",
+      "title_en": "AI Agent Memory: How LLM Agents Manage State in Production",
+      "url": "https://blog.n8n.io/ai-agent-memory-how-llm-agents-manage-state-in-production/",
+      "permalink": "https://aihot.news/items/tvt3ouogczyjrv9hsm7o3o62t",
+      "source": "n8n Blog",
+      "publishedAt": "2026-10-23T12:20:34.000Z",
+      "discoveredAt": "2026-10-23T13:06:21.357Z",
+      "summary": "Cognee 的 Veljko Kovac 在 n8n 博客解析 AI agent 记忆机制：LLM 每次调用都从零开始，记忆实际存放在模型之外，由智能体在每次调用前检索并回填进提示词。文章区分短期与长期记忆，并对比向量数据库、纯文件、知识图谱与混合系统四类存储架构的取舍。",
+      "category": "tip",
+      "score": 48,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/tvt3ouogczyjrv9hsm7o3o62t"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "提示词",
         "agent",
         "智能体"
       ],
@@ -1086,6 +1144,32 @@
         "智能体"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "jhgivz3f10u5nrws3wg7e6fzt",
+      "title": "Meta 因出版方反对推迟新商业条款至 11 月 20 日",
+      "title_en": "Meta delays new business terms after publisher pushback on AI scraping",
+      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "permalink": "https://aihot.news/items/jhgivz3f10u5nrws3wg7e6fzt",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-10-23T14:47:41.000Z",
+      "discoveredAt": "2026-10-23T15:27:23.517Z",
+      "summary": "Meta 宣布将新商业条款的生效时间从 10 月 30 日推迟到 11 月 20 日，此前出版方担忧条款允许 Meta 抓取新闻网站内容用于 AI 训练。News/Media Alliance 致信 Mark Zuckerberg 要求修改条款，欧盟和英国的广告主与出版方也敦促监管机构介入；Meta 表示将利用这段时间说明网络爬虫的使用方式，并强调内容方仍可通过 robots.txt 表达偏好。",
+      "category": "industry",
+      "score": 62,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/jhgivz3f10u5nrws3wg7e6fzt"
+      },
+      "sourceType": "网站",
+      "designCategory": "行业观察",
+      "relevanceScore": 6,
+      "editorialScore": 6,
+      "tags": [
+        "广告"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "bjzb4ugissboad8tp9z7714xr",
