@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-23T04:49:22.030Z",
-  "previousGeneratedAt": "2026-10-22T17:10:38.686Z",
+  "generatedAt": "2026-10-23T11:39:04.272Z",
+  "previousGeneratedAt": "2026-10-23T04:49:22.030Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 38,
+  "itemCount": 40,
   "sourceCounts": {
     "网站": 13,
     "X": 24,
-    "公众号": 1
+    "公众号": 3
   },
   "source": {
     "name": "AI HOT",
@@ -129,6 +129,34 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
+      "id": "ukszlvgmrmrac1fs0a3galmli",
+      "title": "Kling AI 正式发布新一代视频模型 Kling 4.0",
+      "title_en": "Kling AI has officially released Kling 4.0, its next-generation video model built for more controlled, consistent video generation.",
+      "url": "https://x.com/testingcatalog/status/2113564061707149646",
+      "permalink": "https://aihot.news/items/ukszlvgmrmrac1fs0a3galmli",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "publishedAt": "2026-10-23T09:31:55.000Z",
+      "discoveredAt": "2026-10-23T09:54:24.713Z",
+      "summary": "Kling AI 正式发布新一代视频模型 Kling 4.0，主打更可控、一致性更强的视频生成。Omni Reference 可在单个任务中组合最多 15 个图像、视频、主体或声音；单次生成最长 30 秒，支持最多 10 个关键帧以控制场景推进。",
+      "category": "ai-models",
+      "score": 68,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/ukszlvgmrmrac1fs0a3galmli"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 15,
+      "editorialScore": 18,
+      "tags": [
+        "视频生成",
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "xrz4fj30hoq167997p69rqe8v",
       "title": "Canva 发布首个自研 AI 图像模型 Canva Craft",
       "title_en": "Canva’s first AI image model plans designs before generating them",
@@ -243,6 +271,33 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "mmud6nxwo0a3dwpscsbt6edrg",
+      "title": "可灵（Kling）4.0 上线 invideo，支持单次生成 30 秒 4K 视频",
+      "title_en": "Consistency is key. Even in scoring. 😂 #Kling4 #KlingAI",
+      "url": "https://x.com/Kling_ai/status/2113545650193227883",
+      "permalink": "https://aihot.news/items/mmud6nxwo0a3dwpscsbt6edrg",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-10-23T08:18:45.000Z",
+      "discoveredAt": "2026-10-23T08:46:24.854Z",
+      "summary": "可灵（Kling）4.0 现已上线 invideo 平台。单次生成可输出 30 秒片段，支持最多 10 个关键帧、15 个参考和 4K 输出。",
+      "category": null,
+      "score": 61,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/mmud6nxwo0a3dwpscsbt6edrg"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 10,
+      "editorialScore": 13,
+      "tags": [
+        "可灵",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "bob5z4uxr1vs12tdm9ckpgykc",
       "title": "Viggle AI 发布 JST-2 世界模型",
       "title_en": "Our world foundation model JST-2 launched 3 days ago.",
@@ -355,60 +410,33 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "pgyojlln2zwm2gvfiodif93k7",
-      "title": "Grok Bot 新增可视化交互文档生成能力",
-      "title_en": "“If the nature of the data suggests the shape of the graphic, follow that suggestion.” — Edward Tufte",
-      "url": "https://x.com/pengzheng_/status/2113003164819656753",
-      "permalink": "https://aihot.news/items/pgyojlln2zwm2gvfiodif93k7",
-      "source": "X：Peng Zheng（SpaceXSI，Grok Bot 设计负责人） (@pengzheng_)",
-      "publishedAt": "2026-10-21T20:23:06.000Z",
-      "discoveredAt": "2026-10-21T20:43:34.350Z",
-      "summary": "Grok Bot 设计负责人 Peng Zheng 介绍 Grok Bot 新能力，可将想法转化为可视化、可交互、持续更新的活文档。用户可让 Bot 生成报告、备忘录、仪表盘或页面，再共同编辑或让 Bot 保持内容更新，减少大段文字，强调视觉化探索。",
+      "id": "t027qbtxtylytk7l4wkn6qktd",
+      "title": "昆仑万维 SkyProduction 天工工作台接入可灵 Kling 4.0",
+      "title_en": "昆仑万维旗下 SkyProduction天工工作台接入可灵 Kling 4.0",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&mid=2247510646&idx=1&sn=1a4989b9eebfdee4b1257bdf3e70f28b",
+      "permalink": "https://aihot.news/items/t027qbtxtylytk7l4wkn6qktd",
+      "source": "公众号：昆仑万维（天工）",
+      "publishedAt": "2026-10-23T06:09:23.000Z",
+      "discoveredAt": "2026-10-23T06:43:50.852Z",
+      "summary": "昆仑万维旗下 AI 视频创作平台 SkyProduction（天工工作台）宣布接入可灵 Kling 4.0，为 AI 短剧、影视及品牌广告等场景增加视频模型选择。",
       "category": "ai-products",
-      "score": 56,
+      "score": 37,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/pgyojlln2zwm2gvfiodif93k7"
+        "canonical": "https://aihot.news/items/t027qbtxtylytk7l4wkn6qktd"
       },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
       "relevanceScore": 9,
-      "editorialScore": 13,
+      "editorialScore": 12,
       "tags": [
-        "视觉",
-        "设计",
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "hom7fue4t67l2wg8090d3kreo",
-      "title": "Apple Music 发布全新人工打造品牌形象，强调 AI 时代的人工设计价值",
-      "title_en": "The new human-crafted Apple Music brand matters in an AI world",
-      "url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
-      "permalink": "https://aihot.news/items/hom7fue4t67l2wg8090d3kreo",
-      "source": "Ars Technica：AI（RSS）",
-      "publishedAt": "2026-10-21T19:44:40.000Z",
-      "discoveredAt": "2026-10-21T20:44:25.306Z",
-      "summary": "Apple 公布 Apple Music 全新品牌形象，采用 Liquid Glass 设计语言，并发布一支一分多钟的幕后短片。短片展示 TBWA/Media Arts Lab、制作人 Fred again.. 与装满矿物油的透明面板装置，用换能器把音频信号转成油面波纹，拍摄品牌标识与油交互的画面。",
-      "category": "opinion",
-      "score": 29,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/hom7fue4t67l2wg8090d3kreo"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "设计",
-        "交互",
+        "可灵",
+        "广告",
+        "视频",
         "品牌"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "kfa3s0k4sv09uax2z1y7b6ffj",
@@ -520,28 +548,28 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "a5b4q7nza3s4zddkz3iyxlrcd",
-      "title": "Midjourney 每周办公时间 10/21",
-      "title_en": "Midjourney Weekly Office Hours - 10/21 https://x.com/i/spaces/1oKMvNyOZLeGQ",
-      "url": "https://x.com/midjourney/status/2112985137193566330",
-      "permalink": "https://aihot.news/items/a5b4q7nza3s4zddkz3iyxlrcd",
-      "source": "X：Midjourney (@midjourney)",
-      "publishedAt": "2026-10-21T19:11:28.000Z",
-      "discoveredAt": "2026-10-21T19:41:29.217Z",
-      "summary": "Midjourney 每周办公时间 - 10/21 https://x.com/i/spaces/1oKMvNyOZLeGQ",
-      "category": null,
-      "score": 19,
+      "id": "h92iuz4axr0fqnsy8k9pqjj0d",
+      "title": "专业团队分享 Kling 4.0 实战反馈：更稳定可控，废弃素材量减少50%",
+      "title_en": "来自行业一线的Kling 4.0反馈：更稳定、更可控、更接近专业制作",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5NTkwNDU2OA%3D%3D&mid=2247497271&idx=1&sn=02bccb86257f5e5d9916896d1bc84257",
+      "permalink": "https://aihot.news/items/h92iuz4axr0fqnsy8k9pqjj0d",
+      "source": "公众号：可灵AI（快手·视频）",
+      "publishedAt": "2026-10-23T10:59:25.000Z",
+      "discoveredAt": "2026-10-23T11:05:11.812Z",
+      "summary": "可灵AI公众号汇总各领域专业团队对10月15日全量上线的 Kling 4.0 的使用反馈。韩国导演金性洙用它重启停摆半年的AI短片《Worm Train》，Fountain 0 联合创始人 Ash Koosha 表示制作流程中废弃素材量至少减少50%，柳翠虎、陆川等肯定其在表演、长文本指令遵循和多关键帧控制上的升级，耀客传媒AI导演佟光宇测试中生成的素材绝大多数可直接剪辑。",
+      "category": "industry",
+      "score": 60,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/a5b4q7nza3s4zddkz3iyxlrcd"
+        "canonical": "https://aihot.news/items/h92iuz4axr0fqnsy8k9pqjj0d"
       },
-      "sourceType": "X",
+      "sourceType": "公众号",
       "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "relevanceScore": 7,
+      "editorialScore": 10,
       "tags": [
-        "midjourney"
+        "可灵"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -764,60 +792,30 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "reb2rhrjz0yb6502xwp4z4mon",
-      "title": "OpenAI 模型即将登陆 Google Cloud Model Garden",
-      "title_en": "OpenAI models are coming to Google Cloud.",
-      "url": "https://x.com/OpenAI/status/2112988118471295323",
-      "permalink": "https://aihot.news/items/reb2rhrjz0yb6502xwp4z4mon",
-      "source": "X：OpenAI (@OpenAI)",
-      "publishedAt": "2026-10-21T19:23:19.000Z",
-      "discoveredAt": "2026-10-21T19:41:30.483Z",
-      "summary": "OpenAI 官方宣布将把自家前沿模型和 Codex 智能体工作流带入 Google Cloud 的 Model Garden，让企业客户在已有的 Google Cloud 构建环境中直接使用 OpenAI 技术。详情见 https://openai.com/index/openai-models-google-cloud/",
-      "category": "industry",
-      "score": 65,
+      "id": "ue19elhf71kucvvcywookrbki",
+      "title": "可灵4.0生成芥末黄开衫英雄",
+      "title_en": "That mustard-cardigan hero 💜 #Kling4 #KlingAI",
+      "url": "https://x.com/Kling_ai/status/2113497346101448837",
+      "permalink": "https://aihot.news/items/ue19elhf71kucvvcywookrbki",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-10-23T05:06:48.000Z",
+      "discoveredAt": "2026-10-23T05:09:24.905Z",
+      "summary": "那位芥末黄开衫英雄 💜 #Kling4 #KlingAI",
+      "category": null,
+      "score": 28,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/reb2rhrjz0yb6502xwp4z4mon"
+        "canonical": "https://aihot.news/items/ue19elhf71kucvvcywookrbki"
       },
       "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 9,
-      "editorialScore": 10,
-      "tags": [
-        "工作流",
-        "codex",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "sujogb2r68gyywjnb9qocou69",
-      "title": "Anthropic 发布主动式智能体 Claude Duet 研究预览版",
-      "title_en": "BREAKING 🔥: Anthropic announced Claude Duet, a new proactive agent that comes as a standalone research preview app.",
-      "url": "https://x.com/testingcatalog/status/2112986070874812923",
-      "permalink": "https://aihot.news/items/sujogb2r68gyywjnb9qocou69",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-10-21T19:15:11.000Z",
-      "discoveredAt": "2026-10-21T19:45:27.010Z",
-      "summary": "Anthropic 发布 Claude Duet，一个主动式智能体，以独立研究预览应用形式提供。美国用户可通过 Pro 和 Max 计划的候补名单使用；该智能体围绕 Claude Opus 5.5 设计，可判断并决定用户需求，记忆、技能和连接的应用来自用户的 Claude 账户。",
-      "category": "ai-products",
-      "score": 61,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/sujogb2r68gyywjnb9qocou69"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
+      "designCategory": "图像与视频",
       "relevanceScore": 6,
-      "editorialScore": 10,
+      "editorialScore": 9,
       "tags": [
-        "设计",
-        "agent",
-        "智能体"
+        "可灵"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "fbxsqmx6cfmpyohqmxx86ipv8",
@@ -954,6 +952,34 @@
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
+      "id": "u7tpqfjh9sthd98g48yheypuk",
+      "title": "Codex 计算机使用实用提示词",
+      "title_en": "Very useful prompt for Codex with computer use.",
+      "url": "https://x.com/emollick/status/2113361252173091114",
+      "permalink": "https://aihot.news/items/u7tpqfjh9sthd98g48yheypuk",
+      "source": "X：Ethan Mollick (@emollick)",
+      "publishedAt": "2026-10-22T20:06:01.000Z",
+      "discoveredAt": "2026-10-22T20:20:22.049Z",
+      "summary": "对具备计算机使用能力的 Codex 来说，这是一个非常有用的提示词。",
+      "category": "tip",
+      "score": 16,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/u7tpqfjh9sthd98g48yheypuk"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "提示词",
+        "prompt",
+        "codex"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "m3xd1i05evmg1921gqrv4dluk",
       "title": "OpenAI 的 Decisions API 面向全部客户开放，与 TypeSafe Jev 竞争加剧",
       "title_en": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
@@ -1004,6 +1030,33 @@
         "工作流",
         "agent",
         "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "tw89k6wagoa7uqrui50ozpc2e",
+      "title": "Codex 0.164.0 发布：新增 /presets 预设槽与内联 /model 参数",
+      "title_en": "0.164.0",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0",
+      "permalink": "https://aihot.news/items/tw89k6wagoa7uqrui50ozpc2e",
+      "source": "Codex：GitHub Releases（RSS）",
+      "publishedAt": "2026-10-23T03:15:13.000Z",
+      "discoveredAt": "2026-10-23T03:37:23.271Z",
+      "summary": "Codex 0.164.0 新增十个编号 /presets 槽位，可保存可复用提示词与斜杠命令，并配键盘菜单快速调用。该版本支持用内联 /model 和 /permissions 参数直接设置模型、推理强度、速度与权限配置，还可在支持 Kitty 或 Sixel 图形的终端全屏预览查看与生成的图片。",
+      "category": "ai-products",
+      "score": 45,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/tw89k6wagoa7uqrui50ozpc2e"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 6,
+      "editorialScore": 7,
+      "tags": [
+        "提示词",
+        "codex"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
