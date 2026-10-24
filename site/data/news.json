@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-23T17:07:12.812Z",
-  "previousGeneratedAt": "2026-10-23T11:39:04.272Z",
+  "generatedAt": "2026-10-24T04:36:44.380Z",
+  "previousGeneratedAt": "2026-10-23T17:07:12.812Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 43,
+  "itemCount": 46,
   "sourceCounts": {
-    "网站": 16,
+    "网站": 19,
     "X": 24,
     "公众号": 3
   },
@@ -42,6 +42,35 @@
         "design"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "hl4brh3xjxmtszzep4s74rain",
+      "title": "Dex Horthy 认同决策中心观点",
+      "title_en": "this guy gets it",
+      "url": "https://x.com/dexhorthy/status/2113745739939811447",
+      "permalink": "https://aihot.news/items/hl4brh3xjxmtszzep4s74rain",
+      "source": "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+      "publishedAt": "2026-10-23T21:33:50.000Z",
+      "discoveredAt": "2026-10-23T21:42:36.057Z",
+      "summary": "这人懂行\n\n（引用推文核心要点：@backnotprop 认为，我们正快速演进到不再需要“意图/对齐界面”来审查，而是需要更好的决策“指挥中心”。跨多上下文的决策正成为瓶颈，而智能体能轻松应对这些上下文。这凸显了对知识型决策者的需求——问题不在于我们理解不了；更好的模型能推导出对齐的意图，无需太多引导就能产出有品味且正确的方案。这让有经验的人如虎添翼，随着我们越来越少地“ babysit ”、越来越少地问“等等兄弟你刚才到底干了啥”，事情才开始变得有趣。UI/UX：类似意图/对齐界面，或许讽刺的是，更好的决策界面需要为每个决策提供充分的上下文（便于人类消费/理解）。例如相似但不同的东西：一个工具如果只聚焦于消息线程活动的侧边栏和内联 HTML 渲染，就会显得落后；而另一个工具管理多个上下文、按线程呈现相关的 HTML 产物，并替你抽象掉冗长的消息线程。）",
+      "category": "opinion",
+      "score": 25,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/hl4brh3xjxmtszzep4s74rain"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 23,
+      "editorialScore": 27,
+      "tags": [
+        "ui/ux",
+        "ui",
+        "ux",
+        "界面"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "f0483cl8xp3rwhooy2b153nx7",
@@ -101,21 +130,21 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "g6qdd6epy4yiy4z6as3abjbjv",
-      "title": "Lufthansa Systems 如何用 Figma Make 为驾驶舱原型化真实地图",
-      "title_en": "How Lufthansa Systems prototypes realistic maps for the cockpit with Figma Make",
-      "url": "https://www.figma.com/blog/lufthansa-figma-make/",
-      "permalink": "https://aihot.news/items/g6qdd6epy4yiy4z6as3abjbjv",
+      "id": "e6n9itazj7gwxaxv5sxqpcl0x",
+      "title": "Figma 介绍 code layers 开放测试中六家团队的实验用法",
+      "title_en": "6 ways teams are experimenting with code layers",
+      "url": "https://www.figma.com/blog/6-ways-teams-are-experimenting-with-code-layers/",
+      "permalink": "https://aihot.news/items/e6n9itazj7gwxaxv5sxqpcl0x",
       "source": "Figma AI / Agent / Make",
-      "publishedAt": "2026-10-22T14:50:00.000Z",
-      "discoveredAt": "2026-10-22T15:13:45.169Z",
-      "summary": "Lufthansa Systems 用 Figma Make 为 Lido Pilot Apps 的驾驶舱动态地图做原型，把 Figma 设计资产与外部数据源同时接入，让飞行员在更真实的场景中验证想法。",
+      "publishedAt": "2026-10-23T22:43:00.000Z",
+      "discoveredAt": "2026-10-23T23:42:37.639Z",
+      "summary": "Figma 宣布 code layers 进入开放 beta，并介绍 Superside、Dell、Cox Automotive、Rocket Money、Merkle、Checkout.com 六家团队的用法，涵盖用提示词为静态设计添加交互动效、用开发者同款 React 组件做可输入对话原型等。",
       "category": "tip",
-      "score": 35,
+      "score": 58,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/g6qdd6epy4yiy4z6as3abjbjv"
+        "canonical": "https://aihot.news/items/e6n9itazj7gwxaxv5sxqpcl0x"
       },
       "sourceType": "网站",
       "designCategory": "设计工具",
@@ -124,9 +153,39 @@
       "tags": [
         "figma",
         "原型",
-        "设计"
+        "设计",
+        "交互"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "axs2ltoz08kvovztzgt3xr8yn",
+      "title": "邵猛吐槽 Vibe Coding 网站性能仅 47 分",
+      "title_en": "听你们说我们前端已死？",
+      "url": "https://x.com/shao__meng/status/2113839951557313003",
+      "permalink": "https://aihot.news/items/axs2ltoz08kvovztzgt3xr8yn",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-10-24T03:48:12.000Z",
+      "discoveredAt": "2026-10-24T03:56:36.311Z",
+      "summary": "邵猛回应“前端已死”说法，指出借助 Codex / Claude Code 做 Vibe Frontend Coding 的产品经理和设计师忽视性能。他举例某站点 Performance 仅 47 分，充斥大 gif、大 png，称其为前端性能反面典型。",
+      "category": "opinion",
+      "score": 37,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/axs2ltoz08kvovztzgt3xr8yn"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 14,
+      "editorialScore": 18,
+      "tags": [
+        "设计师",
+        "设计",
+        "产品经理",
+        "vibe coding"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "dy6rkvc23lfrolo4y5hjg7evh",
@@ -183,6 +242,33 @@
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "cx3n0pexqcfc4vpkaz4m2odl6",
+      "title": "Meta 收购前员工创办的 AI 数据分析平台 Sundial",
+      "title_en": "扎克伯格的 AI 新版图：买下 Sundial 让数据分析变成“聊天”那么简单",
+      "url": "https://www.ithome.com/1/017/294.htm",
+      "permalink": "https://aihot.news/items/cx3n0pexqcfc4vpkaz4m2odl6",
+      "source": "IT之家·人工智能",
+      "publishedAt": "2026-10-24T00:08:21.530Z",
+      "discoveredAt": "2026-10-24T00:46:33.922Z",
+      "summary": "据 axios 报道，Meta 已收购 AI 数据分析平台 Sundial，其两位联合创始人均为 Meta 旧部：CEO Julie Zhuo 曾任 Meta 产品设计副总裁，Chandra Narayanan 曾任 Instagram 及红杉资本数据分析主管。",
+      "category": "industry",
+      "score": 50,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cx3n0pexqcfc4vpkaz4m2odl6"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 13,
+      "editorialScore": 17,
+      "tags": [
+        "产品设计",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "etvwejs00jzumsmh39ob32xi9",
@@ -439,33 +525,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "rin0ab4vdu46hjoiyjcj5vih5",
-      "title": "Kling 4.0 现已上线 OnSolo",
-      "title_en": "Kling 4.0 is now live on OnSolo. #Kling4 #KlingAI",
-      "url": "https://x.com/Kling_ai/status/2113142473145078041",
-      "permalink": "https://aihot.news/items/rin0ab4vdu46hjoiyjcj5vih5",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "publishedAt": "2026-10-22T05:36:40.000Z",
-      "discoveredAt": "2026-10-22T05:59:32.995Z",
-      "summary": "可灵（Kling）宣布 Kling 4.0 已在 OnSolo 上线。该模型支持单次生成 30 秒原生视频，快速动作和大运镜下保持稳定，立体声配更准的口型同步，并提供 21:9 宽屏，单个任务可叠加最多 15 个参考图和 10 个关键帧以保持角色、镜头与剧情一致。",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/rin0ab4vdu46hjoiyjcj5vih5"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 10,
-      "editorialScore": 13,
-      "tags": [
-        "可灵",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "kxp6d6jffy7l50vru3qyo91ps",
       "title": "Claude Fable 5.1 如何把密信藏进 SVG 图画：截图后新会话解码约 78%，GPT-6 Astra 交叉解码达 88%",
       "title_en": "Claude Fable 5.1 如何把密信藏进 SVG 图画：截图后，新会话仍能解出约八成、GPT-6 Astra 反而更强？",
@@ -522,29 +581,83 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "kfa3s0k4sv09uax2z1y7b6ffj",
-      "title": "可灵Kling 4 超现实视频趋势",
-      "title_en": "Things are getting surreal 👀 #Kling4 #KlingAI",
-      "url": "https://x.com/Kling_ai/status/2113186439693586485",
-      "permalink": "https://aihot.news/items/kfa3s0k4sv09uax2z1y7b6ffj",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "publishedAt": "2026-10-22T08:31:22.000Z",
-      "discoveredAt": "2026-10-22T08:34:31.345Z",
-      "summary": "越来越超现实了 👀 #Kling4 #KlingAI",
-      "category": null,
-      "score": 23,
+      "id": "nlkrh89kgxn1iecvbzq7mub9q",
+      "title": "Kimi 发布 K3.1 Pro：2.8T 参数开源旗舰，作者实测3D与视频动效能力",
+      "title_en": "Kimi K3.1 Pro来了，国产模型审美的新巅峰。",
+      "url": "https://x.com/Khazix0918/status/2113829042487267393",
+      "permalink": "https://aihot.news/items/nlkrh89kgxn1iecvbzq7mub9q",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "publishedAt": "2026-10-24T03:04:51.000Z",
+      "discoveredAt": "2026-10-24T03:19:36.113Z",
+      "summary": "Kimi 于今天凌晨发布旗舰模型 Kimi K3.1 Pro，参数规模2.8T，支持100万Token上下文，完整模型权重预计11月4日前开放，API输入每百万Token 13元、输出68元，比K3基本砍半。",
+      "category": "ai-models",
+      "score": 79,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/kfa3s0k4sv09uax2z1y7b6ffj"
+        "canonical": "https://aihot.news/items/nlkrh89kgxn1iecvbzq7mub9q"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 9,
-      "editorialScore": 12,
+      "relevanceScore": 8,
+      "editorialScore": 11,
       "tags": [
-        "可灵",
-        "视频"
+        "视频",
+        "3d"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "gwhdq3jo5p1z27wh2i46ntd2s",
+      "title": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
+      "title_en": "Kimi K3.1 Pro来了，国产模型审美的新巅峰。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687627&idx=1&sn=4816c8130f378587885913b465fd686f",
+      "permalink": "https://aihot.news/items/gwhdq3jo5p1z27wh2i46ntd2s",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-10-24T02:08:43.000Z",
+      "discoveredAt": "2026-10-24T02:14:59.524Z",
+      "summary": "月之暗面发布旗舰模型 Kimi K3.1 Pro，参数 2.8T，支持 100 万 Token 上下文，完整模型权重预计 11 月 4 日前开放。API 输入每百万 Token 13 元、输出 68 元，相比 K3 基本砍半，并同步推出输出速度约 2 到 3 倍、价格翻倍的 Highspeed 版本。",
+      "category": "ai-models",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/gwhdq3jo5p1z27wh2i46ntd2s"
+      },
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "视频",
+        "3d"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "lk01itb0nwszt3zsuxj5qsawm",
+      "title": "Noam Brown 披露用超 1000 亿 token 的智能体团队对基础设施做红队测试",
+      "title_en": "Last month a large team of agents used over 100 billion tokens to resolve the Navier-Stokes Millennium Prize problem. Now we're using a s...",
+      "url": "https://x.com/polynoamial/status/2113729267418956201",
+      "permalink": "https://aihot.news/items/lk01itb0nwszt3zsuxj5qsawm",
+      "source": "X：Noam Brown (@polynoamial)",
+      "publishedAt": "2026-10-23T20:28:23.000Z",
+      "discoveredAt": "2026-10-23T20:41:36.370Z",
+      "summary": "Noam Brown 表示，上月一个大模型智能体团队用了超过 1000 亿 token 解决 Navier-Stokes 千禧年大奖问题，现在把类似方法用于红队测试，以发现并修复基础设施漏洞。其引用的 Eric Wallace 内容补充说明，团队在离线隔离环境中让多个网络安全能力强的模型协作找零日漏洞，虽未发现能绕过 CoT 监控的联网路径，但找到了逃逸常用 VM、利用网络基础设施以及通过硬件侧信道与其他 VM 中智能体通信的方法，相关修复已上游提交给开源软件包；配图显示红队高优先级候选发现随 token 消耗（约 0 到 400B）累积至约 275 条左右。",
+      "category": "industry",
+      "score": 67,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/lk01itb0nwszt3zsuxj5qsawm"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 8,
+      "editorialScore": 11,
+      "tags": [
+        "配图",
+        "智能体"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -659,6 +772,34 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "vmliv5lfkkkkfz3xjwkxv5br7",
+      "title": "Kimi K3.1 Pro 首测对比多款模型",
+      "title_en": "First impressions of Kimi K3.1 Pro from @petergostev are in.",
+      "url": "https://x.com/arena/status/2113694477692907878",
+      "permalink": "https://aihot.news/items/vmliv5lfkkkkfz3xjwkxv5br7",
+      "source": "X：Arena (@arena)",
+      "publishedAt": "2026-10-23T18:10:08.000Z",
+      "discoveredAt": "2026-10-23T18:35:36.411Z",
+      "summary": "@petergostev 对 Kimi K3.1 Pro 的第一印象来了。\n\n我们把 @Kimi_Moonshot 的 Kimi K3.1 Pro 用于 3D 场景、HTML 动画、网站、UI 构建和研究型页面，并与 K3、Opus 5.5、Sonnet 5.5、GPT-6.1 Sol、Gemini 4 Argon 等模型进行对比。\n\n看看它表现如何，并在我们的 YouTube 上找到 Peter 的提示词。\nhttps://www.youtube.com/watch?v=rVuwIr4wiPw",
+      "category": "ai-models",
+      "score": 37,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/vmliv5lfkkkkfz3xjwkxv5br7"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "ui",
+        "3d",
+        "提示词"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
       "id": "sllfzlswzu8zyd5oq8lhgdr8c",
       "title": "Perplexity Computer 自主将树莓派改造成游戏主机",
       "title_en": "This user gave Perplexity Computer, SSH access to a Raspberry Pi 5 over Tailscale. Overnight, it autonomously turned it into a game conso...",
@@ -738,6 +879,33 @@
         "可灵"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "g9tc56izmwy49zgw5ta4ubsya",
+      "title": "Anthropic 介绍 Claude Duet 智能体的安全、隐私与凭证隔离设计",
+      "title_en": "Claude Duet Safety, Privacy, and Security",
+      "url": "https://claude.com/blog/claude-duet-safety-privacy-and-security",
+      "permalink": "https://aihot.news/items/g9tc56izmwy49zgw5ta4ubsya",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "discoveredAt": "2026-10-23T19:41:33.084Z",
+      "summary": "Anthropic 发文介绍处于研究预览阶段的 Claude Duet 智能体的安全与隐私设计。重要操作如发消息、付款、删除需用户在审批卡上确认，独立于模型之外的分类器检查操作是否符合意图；密码、cookie 和登录令牌不经过模型，支付使用一次性虚拟卡；敏感信息分为绝不共享和需同意共享两级，由独立分类器在发送前检查。",
+      "category": "paper",
+      "score": 60,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/g9tc56izmwy49zgw5ta4ubsya"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "bl6mcxfostbxmic2a3y96fetz",
@@ -822,127 +990,21 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "uoznl9ki7mabz3xtudw771oam",
-      "title": "百度 Apollo Go 无人车首次在伦敦街头提供媒体试乘",
-      "title_en": "A closer look at Apollo Go, out on the streets around Wembley Stadium. 🇬🇧",
-      "url": "https://x.com/Baidu_Inc/status/2113292289841750151",
-      "permalink": "https://aihot.news/items/uoznl9ki7mabz3xtudw771oam",
-      "source": "X：百度 Baidu (@Baidu_Inc)",
-      "publishedAt": "2026-10-22T15:31:59.000Z",
-      "discoveredAt": "2026-10-22T15:47:36.235Z",
-      "summary": "百度发布 Apollo Go 无人驾驶车现身伦敦温布利球场周边街头的消息，宣布联合 Lyft 旗下 FREENOW 首次在伦敦邀请一批记者试乘。配图显示测试车带有 Autonomous Vehicle 和 FREENOW by Lyft 标识，文中称雨后放晴、对后续进展感到期待。",
+      "id": "rmawaolgtjxtjkk42jzk6asn1",
+      "title": "可灵AI亮相釜山ACFM探讨AI叙事",
+      "title_en": "How is story-driven AI shaping the future of filmmaking and the entertainment industry? At this year’s Asian Contents & Film Market (ACFM...",
+      "url": "https://x.com/Kling_ai/status/2113812721485426947",
+      "permalink": "https://aihot.news/items/rmawaolgtjxtjkk42jzk6asn1",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-10-24T02:00:00.000Z",
+      "discoveredAt": "2026-10-24T02:17:35.188Z",
+      "summary": "故事驱动的AI正在如何塑造电影制作与娱乐产业的未来？在今年的釜山亚洲内容与电影市场（ACFM）上，可灵AI与来自亚洲各地的顶尖电影人和行业领袖一同深入探讨了这一问题。来看看吧！",
       "category": "industry",
-      "score": 54,
+      "score": 26,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/uoznl9ki7mabz3xtudw771oam"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "配图"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "i7eyiqjnqhr05b1czoxancghi",
-      "title": "Recursive 发布首个自动化研究产出的开源模型 Flint",
-      "title_en": "Recursive shows first result of its AI-driven research process with Flint",
-      "url": "https://the-decoder.com/recursive-shows-first-result-of-its-ai-driven-research-process-with-flint/",
-      "permalink": "https://aihot.news/items/i7eyiqjnqhr05b1czoxancghi",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-10-22T14:40:16.000Z",
-      "discoveredAt": "2026-10-22T15:14:41.889Z",
-      "summary": "AI 初创公司 Recursive 发布首个由 AI 系统 Eureka Machine 全程参与实验设计的开源语言模型 Flint，为面向本地智能体编码的 MoE 模型，总参数 40B、每 token 激活 2.5B，开发历时四个月。",
-      "category": "ai-models",
-      "score": 68,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/i7eyiqjnqhr05b1czoxancghi"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计",
-        "自动化",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "qdlka2srdetmfvisglims5b4c",
-      "title": "可灵4上线Miora，AI选角导演更轻松",
-      "title_en": "POV: Directing your AI cast just got easier with #Kling4, now on Miora 🎬 #KlingAI",
-      "url": "https://x.com/Kling_ai/status/2113650066196255124",
-      "permalink": "https://aihot.news/items/qdlka2srdetmfvisglims5b4c",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "publishedAt": "2026-10-23T15:13:40.000Z",
-      "discoveredAt": "2026-10-23T15:28:20.661Z",
-      "summary": "视角：用 #Kling4 导演你的 AI 演员阵容更轻松了，现已上线 Miora 🎬 #KlingAI",
-      "category": "ai-products",
-      "score": 24,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/qdlka2srdetmfvisglims5b4c"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "可灵"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "m96q1u0abpojtjye8h747b79f",
-      "title": "创作者用可灵 4.0 呈现电影质感",
-      "title_en": "Discover how creators are bringing cinematic visions to life with Kling 4.0, capturing lifelike details and the beauty, complexity, and e...",
-      "url": "https://x.com/Kling_ai/status/2113601348881002731",
-      "permalink": "https://aihot.news/items/m96q1u0abpojtjye8h747b79f",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "publishedAt": "2026-10-23T12:00:05.000Z",
-      "discoveredAt": "2026-10-23T12:23:24.662Z",
-      "summary": "探索创作者如何借助可灵 4.0 将电影般的构想变为现实，捕捉栩栩如生的细节，以及日常生活中的美、复杂与情感。",
-      "category": "ai-products",
-      "score": 25,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/m96q1u0abpojtjye8h747b79f"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "可灵"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "ue19elhf71kucvvcywookrbki",
-      "title": "可灵4.0生成芥末黄开衫英雄",
-      "title_en": "That mustard-cardigan hero 💜 #Kling4 #KlingAI",
-      "url": "https://x.com/Kling_ai/status/2113497346101448837",
-      "permalink": "https://aihot.news/items/ue19elhf71kucvvcywookrbki",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "publishedAt": "2026-10-23T05:06:48.000Z",
-      "discoveredAt": "2026-10-23T05:09:24.905Z",
-      "summary": "那位芥末黄开衫英雄 💜 #Kling4 #KlingAI",
-      "category": null,
-      "score": 28,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ue19elhf71kucvvcywookrbki"
+        "canonical": "https://aihot.news/items/rmawaolgtjxtjkk42jzk6asn1"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
@@ -981,16 +1043,16 @@
     },
     {
       "id": "o7z4m9b9xehkhi7fuvqh70a92",
-      "title": "智能体软件工厂需求层次：从单个 Agent 到自动化与持续学习",
+      "title": "智能体软件工厂需求层次：从单个 Agent 到持续学习循环的搭建方法",
       "title_en": "The Agentic Software Factory Hierarchy of Needs",
       "url": "https://www.oreilly.com/radar/the-agentic-software-factory-hierarchy-of-needs/",
       "permalink": "https://aihot.news/items/o7z4m9b9xehkhi7fuvqh70a92",
       "source": "O'Reilly Radar（热点 RSS）",
       "publishedAt": "2026-10-23T10:54:58.000Z",
       "discoveredAt": "2026-10-23T13:41:42.890Z",
-      "summary": "Hugo Bowne-Anderson 与 Eleanor Berger 提出智能体软件工厂的四层需求层次：harness、个性化、自动化和持续学习，核心是自主且异步执行，从单个 Agent 加一个自动化即可起步。",
+      "summary": "两位作者提出智能体软件工厂的需求层次框架，主张以自主且异步执行为核心，从一个 Agent 加一条自动化即可起步。框架分四层：Agent harness、个性化、自动化和持续学习，并以发票追踪应用为例说明各层做法。",
       "category": "tip",
-      "score": 66,
+      "score": 63,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
@@ -1119,31 +1181,56 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "teyp1x1q12388n0l03it2dl6s",
-      "title": "腾讯混元与复旦大学提出 WorkForge，用真实工作区规模化训练工作智能体",
-      "title_en": "大模型如何胜任职场？WorkForge让大模型进入真实职场工作流",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498710&idx=1&sn=f4e7e6d5084def4dcbb134ba6c7ba1c6",
-      "permalink": "https://aihot.news/items/teyp1x1q12388n0l03it2dl6s",
-      "source": "公众号：腾讯混元",
-      "publishedAt": "2026-10-22T09:05:29.000Z",
-      "discoveredAt": "2026-10-22T09:42:28.645Z",
-      "summary": "腾讯混元与复旦大学研究团队提出 WorkForge 框架，从真实世界资源出发规模化构建可验证的智能体工作环境，产出 WorkForge-16K 共 16,665 个环境，覆盖 40 个专业领域、60 种文件类型。",
-      "category": "paper",
-      "score": 54,
+      "id": "wuiidbbvroi9c6snuwcov0ppk",
+      "title": "Google 更新隐私政策，Gmail 内容或可用于广告个性化",
+      "title_en": "Updated Google privacy policy says your Gmail might be used for advertising",
+      "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+      "permalink": "https://aihot.news/items/wuiidbbvroi9c6snuwcov0ppk",
+      "source": "Ars Technica：AI（RSS）",
+      "publishedAt": "2026-10-23T20:19:55.000Z",
+      "discoveredAt": "2026-10-23T20:28:33.614Z",
+      "summary": "Google 于 10 月 16 日更新隐私政策，删除了不会基于 Drive、Gmail 或 Photos 内容展示个性化广告的明确承诺，改为若用户将这些服务的数据开放给其他支持个性化广告的 Google 服务则可能使用。文章指出 Google 2026 年初发布的 Personal Intelligence 可跨应用汇集数据交给 Google AI 产品，为数据用于广告留出了通道。",
+      "category": "industry",
+      "score": 67,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/teyp1x1q12388n0l03it2dl6s"
+        "canonical": "https://aihot.news/items/wuiidbbvroi9c6snuwcov0ppk"
       },
-      "sourceType": "公众号",
-      "designCategory": "工作流与 Agent",
+      "sourceType": "网站",
+      "designCategory": "行业观察",
       "relevanceScore": 6,
-      "editorialScore": 7,
+      "editorialScore": 6,
       "tags": [
-        "工作流",
-        "智能体"
+        "广告"
       ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
+    },
+    {
+      "id": "styb3iwofjbc6hrrw0urz7epj",
+      "title": "Google 更新隐私政策：Personal Intelligence 开启后 Gmail、Drive 和 Photos 数据可能用于个性化广告",
+      "title_en": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "permalink": "https://aihot.news/items/styb3iwofjbc6hrrw0urz7epj",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-10-23T16:52:55.000Z",
+      "discoveredAt": "2026-10-23T17:28:34.808Z",
+      "summary": "Google 于 10 月 16 日更新隐私政策，为不将 Drive、Gmail 或 Google Photos 用于个性化广告的承诺添加例外：用户若通过 Personal Intelligence 把这些服务接入 AI Mode 等 Search 工具，相关内容可能被用于广告定向。",
+      "category": "industry",
+      "score": 72,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/styb3iwofjbc6hrrw0urz7epj"
+      },
+      "sourceType": "网站",
+      "designCategory": "行业观察",
+      "relevanceScore": 6,
+      "editorialScore": 6,
+      "tags": [
+        "广告"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "jhgivz3f10u5nrws3wg7e6fzt",
