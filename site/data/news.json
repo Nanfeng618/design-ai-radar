@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-24T15:57:27.873Z",
-  "previousGeneratedAt": "2026-10-24T11:00:05.941Z",
+  "generatedAt": "2026-10-25T04:41:19.212Z",
+  "previousGeneratedAt": "2026-10-24T15:57:27.873Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
   "itemCount": 45,
@@ -73,35 +73,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "f0483cl8xp3rwhooy2b153nx7",
-      "title": "Canva 发布首个图像生成模型 Canva Craft",
-      "title_en": "Canva releases its first image generation model",
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "permalink": "https://aihot.news/items/f0483cl8xp3rwhooy2b153nx7",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-10-22T19:00:00.000Z",
-      "discoveredAt": "2026-10-22T19:39:21.408Z",
-      "summary": "Canva 发布首个自研图像生成模型 Canva Craft，由其研究团队开发，用于与 Google、OpenAI、字节跳动和 Meta 的同类模型竞争。模型采用两阶段工作方式，先生成包含空间关系、相对比例、视觉层级和文字信息的计划，再生成最高 2K 分辨率、最多 30 种宽高比的图像，官方称可得到细节准确和文字清晰的结果，并支持不改动其他部分的精确编辑。",
-      "category": "ai-products",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/f0483cl8xp3rwhooy2b153nx7"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 23,
-      "editorialScore": 26,
-      "tags": [
-        "canva",
-        "图像生成",
-        "image generation",
-        "视觉"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "ac9rf2qppp5t6dyihvb5arf0f",
       "title": "可灵 Kling 4.0 上线 fal 平台并开放 API",
       "title_en": "A different take on everyday life 👀 #Kling4 #KlingAI",
@@ -129,6 +100,35 @@
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "jryc594pqpq0xbtqbbd6yn7xb",
+      "title": "Perplexity 在 Computer 技能市场上线开源技能 /impeccable，每用户赠 5000 credits",
+      "title_en": "/impeccable is now a skill inside Computer. It’s an open-source skill built by @pbakaus to let you build interfaces that don’t look like ...",
+      "url": "https://x.com/AravSrinivas/status/2114021917586014449",
+      "permalink": "https://aihot.news/items/jryc594pqpq0xbtqbbd6yn7xb",
+      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "publishedAt": "2026-10-24T15:51:16.000Z",
+      "discoveredAt": "2026-10-24T16:17:47.101Z",
+      "summary": "Perplexity CEO Aravind Srinivas 宣布 @pbakaus 开发的开源技能 /impeccable 现已进入 Computer 的技能市场，用于构建不像 AI 生成套路的界面。该技能检查布局、字体、对比度和可访问性，并通过修复设计师会指出的问题来改进界面；10 月 31 日前每用户可享最多 5000 credits 免费使用。",
+      "category": "ai-products",
+      "score": 60,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/jryc594pqpq0xbtqbbd6yn7xb"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 16,
+      "editorialScore": 20,
+      "tags": [
+        "设计师",
+        "设计",
+        "界面",
+        "skill"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "v175tax8yy2phrfzqcxj8yb60",
@@ -269,6 +269,34 @@
         "视频生成",
         "视频",
         "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "q8bbnopo73upiti2obi7z19lw",
+      "title": "可灵 Kling 4.0 上线 Runway Dev 平台并开放 API 调用",
+      "title_en": "Start building 🙌 #Kling4 #KlingAI",
+      "url": "https://x.com/Kling_ai/status/2114208342914617549",
+      "permalink": "https://aihot.news/items/q8bbnopo73upiti2obi7z19lw",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-10-25T04:12:03.000Z",
+      "discoveredAt": "2026-10-25T04:34:13.044Z",
+      "summary": "可灵（Kling AI）转发 Runway 官方消息，Kling 4.0 已在 Runway Dev 上线，可通过 API 与 Kling 全系列模型一起调用。该模型可生成最长 30 秒带原生音频的视频，支持最多 15 个参考图和 10 个关键帧以实现精准控制，11 月 30 日前 Kling 4 享 20% 折扣。",
+      "category": "ai-products",
+      "score": 58,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/q8bbnopo73upiti2obi7z19lw"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 14,
+      "editorialScore": 17,
+      "tags": [
+        "可灵",
+        "runway",
+        "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -801,29 +829,57 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "l581hahoocqetct29jokoj0hs",
-      "title": "De Staat 新歌《Freedom》MV 出现 AI 生成画面",
-      "title_en": "DE STAAT - FREEDOM (Official Music Video)",
-      "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
-      "permalink": "https://aihot.news/items/l581hahoocqetct29jokoj0hs",
-      "source": "Simon Willison 博客",
-      "publishedAt": "2026-10-22T19:42:26.000Z",
-      "discoveredAt": "2026-10-22T20:14:19.706Z",
-      "summary": "荷兰另类摇滚乐队 De Staat 的新音乐视频《Freedom》在 00:44 处出现由 Fake it or Leave it 的 Matties Grooten 负责的视觉特效。该片段被 Simon Willison 博客标注为生成式 AI 相关内容。",
-      "category": null,
-      "score": 32,
+      "id": "xougitbm9f5vrlfghlw4gh7t6",
+      "title": "Krea 开放 Krea 3 图像编辑 beta，支持 2k 快速生成与多轮精确编辑",
+      "title_en": "precise editing with Krea 3.",
+      "url": "https://x.com/krea_ai/status/2114098082220519524",
+      "permalink": "https://aihot.news/items/xougitbm9f5vrlfghlw4gh7t6",
+      "source": "X：Krea AI (@krea_ai)",
+      "publishedAt": "2026-10-24T20:53:55.000Z",
+      "discoveredAt": "2026-10-24T21:20:45.336Z",
+      "summary": "Krea 开放 Krea 3 图像编辑 beta，定位为图像编辑新前沿。端到端 2k 编辑可在 8 秒内完成，画质对标 Nano Banana Pro 与 GPT Image 2.5，并支持 bounding box 控制和精确多轮编辑。官方演示视频展示了快速编辑图像任意部分的效果，入口见原文链接。",
+      "category": "ai-products",
+      "score": 56,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/l581hahoocqetct29jokoj0hs"
+        "canonical": "https://aihot.news/items/xougitbm9f5vrlfghlw4gh7t6"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "k50ff2029wwvy2pinbmoceo3d",
+      "title": "宾夕法尼亚州签署法案要求AI生成广告加注标识",
+      "title_en": "Pennsylvania will require labels on AI-generated ads",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "permalink": "https://aihot.news/items/k50ff2029wwvy2pinbmoceo3d",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-10-24T18:32:21.000Z",
+      "discoveredAt": "2026-10-24T19:53:43.045Z",
+      "summary": "宾夕法尼亚州州长 Josh Shapiro 签署《人工智能欺骗性广告法》，要求经AI显著修改或生成的图像、视频、音频或文字广告，以与广告本身相同的格式加注标识，且不论广告在哪制作、只要在宾州投放即适用。该州是最早要求AI内容披露的州之一，但法案对“显著修改”“明显虚构”等表述界定模糊，并设有戏仿、讽刺等豁免，留有多个漏洞。",
+      "category": "industry",
+      "score": 55,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/k50ff2029wwvy2pinbmoceo3d"
       },
       "sourceType": "网站",
       "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "relevanceScore": 7,
+      "editorialScore": 10,
       "tags": [
-        "视觉",
-        "视频"
+        "广告",
+        "视频",
+        "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -883,61 +939,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "sllfzlswzu8zyd5oq8lhgdr8c",
-      "title": "Perplexity Computer 自主将树莓派改造成游戏主机",
-      "title_en": "This user gave Perplexity Computer, SSH access to a Raspberry Pi 5 over Tailscale. Overnight, it autonomously turned it into a game conso...",
-      "url": "https://x.com/AravSrinivas/status/2113661112143282441",
-      "permalink": "https://aihot.news/items/sllfzlswzu8zyd5oq8lhgdr8c",
-      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "publishedAt": "2026-10-23T15:57:33.000Z",
-      "discoveredAt": "2026-10-23T16:03:20.500Z",
-      "summary": "用户通过 Tailscale 给 Perplexity Computer 开放了 Raspberry Pi 5 的 SSH 访问权限，它一夜之间自主把设备变成带街机 UI、工具链和 MCP 集成的游戏主机。",
-      "category": "industry",
-      "score": 39,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/sllfzlswzu8zyd5oq8lhgdr8c"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "ui",
-        "mcp"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "piow9uqig807li9cqr5t9wghu",
-      "title": "Gemini 4 Argon 用 Blender MCP 建 3D 哥特教堂",
-      "title_en": "Using a single Nano Banana image and Blender MCP, Gemini 4 Argon built a 3D Gothic cathedral in @Antigravity.",
-      "url": "https://x.com/GoogleDeepMind/status/2113645959762575623",
-      "permalink": "https://aihot.news/items/piow9uqig807li9cqr5t9wghu",
-      "source": "X：Google DeepMind (@GoogleDeepMind)",
-      "publishedAt": "2026-10-23T14:57:21.000Z",
-      "discoveredAt": "2026-10-23T15:00:36.322Z",
-      "summary": "仅用一张 Nano Banana 图像和 Blender MCP，Gemini 4 Argon 在 @Antigravity 中搭建了一座 3D 哥特式大教堂。\n\n它不断迭代几何结构、纹理和光照，最终完成整个场景。",
-      "category": "ai-products",
-      "score": 34,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/piow9uqig807li9cqr5t9wghu"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "图像",
-        "3d",
-        "mcp"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "h92iuz4axr0fqnsy8k9pqjj0d",
       "title": "专业团队分享 Kling 4.0 实战反馈：更稳定可控，废弃素材量减少50%",
       "title_en": "来自行业一线的Kling 4.0反馈：更稳定、更可控、更接近专业制作",
@@ -991,54 +992,54 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "bl6mcxfostbxmic2a3y96fetz",
-      "title": "Grok Bot 支持调用手机原生应用，正在 iOS 和 Android 推送",
-      "title_en": "use grok bot with your native phone apps!",
-      "url": "https://x.com/poteto/status/2113411672815944075",
-      "permalink": "https://aihot.news/items/bl6mcxfostbxmic2a3y96fetz",
-      "source": "X：Lauren Tan（SpaceXSI，Grok Bot 工程负责人） (@poteto)",
-      "publishedAt": "2026-10-22T23:26:22.000Z",
-      "discoveredAt": "2026-10-22T23:33:22.845Z",
-      "summary": "Grok Bot 现在可以使用手机上的 Calendar、Reminders、Contacts 等原生应用，正在 iOS 和 Android 上推送。配图显示 Messages、Location、Calendar、Home、Reminders、Contacts 等应用的权限允许入口。",
-      "category": "ai-products",
-      "score": 56,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/bl6mcxfostbxmic2a3y96fetz"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "配图"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "m3xd1i05evmg1921gqrv4dluk",
-      "title": "OpenAI 的 Decisions API 面向全部客户开放，与 TypeSafe Jev 竞争加剧",
-      "title_en": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "permalink": "https://aihot.news/items/m3xd1i05evmg1921gqrv4dluk",
+      "id": "zx7qypqq6saeqgby7jmn3qca8",
+      "title": "TechCrunch 梳理 AI 坟场：Relay、Character.ai、Humane AI Pin 等失败项目盘点",
+      "title_en": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "permalink": "https://aihot.news/items/zx7qypqq6saeqgby7jmn3qca8",
       "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-10-22T19:00:00.000Z",
-      "discoveredAt": "2026-10-22T19:39:21.415Z",
-      "summary": "OpenAI 的 Decisions API 于 9 月 29 日开发者日宣布后，周四起向所有客户开放。产品基于 ChatGPT Luna 重新配置，把响应时间从 1-3 秒缩短到 100-180 毫秒，并新增语音和视觉模态，按地区部署推理资源以降低延迟。",
-      "category": "ai-products",
-      "score": 67,
+      "publishedAt": "2026-10-24T19:00:00.000Z",
+      "discoveredAt": "2026-10-24T19:52:43.957Z",
+      "summary": "TechCrunch 维护了一份持续更新的 AI 失败项目清单，覆盖 Relay、Character.ai、Notion Mail、Humane AI Pin、Rabbit R1、Sora 等已关闭、转型或远低于预期的产品。",
+      "category": "industry",
+      "score": 52,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/m3xd1i05evmg1921gqrv4dluk"
+        "canonical": "https://aihot.news/items/zx7qypqq6saeqgby7jmn3qca8"
       },
       "sourceType": "网站",
       "designCategory": "图像与视频",
       "relevanceScore": 6,
       "editorialScore": 9,
       "tags": [
-        "视觉"
+        "sora"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "zb1thz9nsoxinjvkojrtlvob4",
+      "title": "Runway 联合创始人 Anastasis Germanidis 将于 10 月 27 日出席纽约 State of AI 2026 见面会",
+      "title_en": "Runway's Anastasis Germanidis joins us in NYC on October 27",
+      "url": "https://press.airstreet.com/p/runways-anastasis-germanidis-joins",
+      "permalink": "https://aihot.news/items/zb1thz9nsoxinjvkojrtlvob4",
+      "source": "Air Street Press（RSS）",
+      "publishedAt": "2026-10-24T16:15:39.000Z",
+      "discoveredAt": "2026-10-24T16:46:45.193Z",
+      "summary": "Runway 联合创始人兼联合 CEO Anastasis Germanidis 将于 10 月 27 日出席在纽约举办的 State of AI 2026 发布见面会。",
+      "category": "industry",
+      "score": 25,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/zb1thz9nsoxinjvkojrtlvob4"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "runway"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
