@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-25T04:41:19.212Z",
-  "previousGeneratedAt": "2026-10-24T15:57:27.873Z",
+  "generatedAt": "2026-10-25T11:29:28.353Z",
+  "previousGeneratedAt": "2026-10-25T04:41:19.212Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 45,
+  "itemCount": 43,
   "sourceCounts": {
-    "网站": 18,
+    "网站": 16,
     "X": 24,
     "公众号": 3
   },
@@ -129,34 +129,6 @@
         "skill"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "v175tax8yy2phrfzqcxj8yb60",
-      "title": "fal 发布后训练视频模型 FLUX 3 Max，10 秒视频生成仅需 12.45 秒",
-      "title_en": "FLUX 3 Max, our latest post-trained model, generates a 10-second video in just 12.45 seconds, compared to 277.8 seconds for Seedance 2.5,...",
-      "url": "https://x.com/fal/status/2113375005698576393",
-      "permalink": "https://aihot.news/items/v175tax8yy2phrfzqcxj8yb60",
-      "source": "X：fal (@fal)",
-      "publishedAt": "2026-10-22T21:00:40.000Z",
-      "discoveredAt": "2026-10-22T21:22:21.816Z",
-      "summary": "fal 发布与 bfl_ai 合作训练的最新后训练视频模型 FLUX 3 Max，生成 10 秒 720/768p 视频仅需 12.45 秒，而 Seedance 2.5 需 277.8 秒，两者在第三方评测中 Elo 均为 1139。该模型在第三方图生视频质量榜并列第一，未来三周降价 75%。",
-      "category": "ai-models",
-      "score": 69,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/v175tax8yy2phrfzqcxj8yb60"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 17,
-      "editorialScore": 20,
-      "tags": [
-        "视频生成",
-        "flux",
-        "视频"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "e6n9itazj7gwxaxv5sxqpcl0x",
@@ -385,64 +357,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "xrz4fj30hoq167997p69rqe8v",
-      "title": "Canva 发布首个自研 AI 图像模型 Canva Craft",
-      "title_en": "Canva’s first AI image model plans designs before generating them",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-      "permalink": "https://aihot.news/items/xrz4fj30hoq167997p69rqe8v",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-10-22T21:51:25.000Z",
-      "discoveredAt": "2026-10-22T22:12:19.502Z",
-      "summary": "Canva 发布自研图像生成模型 Canva Craft，采用先规划设计再生成图像的两阶段架构，支持最高 2K 分辨率和 30 多种宽高比。模型基于平台数百万人工模板训练，目前在 Design Arena 排行榜位列第四，已向全球所有用户开放，未来还将推出 Craft-fast 和 Craft-ultrafast 版本并支持通过 MCP 接入 AI 智能体。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/xrz4fj30hoq167997p69rqe8v"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "canva",
-        "图像生成",
-        "design",
-        "设计"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "naj6irqaweg1fk5vnq9td327u",
-      "title": "Canva 发布首个自研图像生成模型 Canva Craft，居 DesignArena 榜单第二",
-      "title_en": "Canva has entered the frontier AI model race, and its first model is already near the top.",
-      "url": "https://x.com/rohanpaul_ai/status/2113368356099424702",
-      "permalink": "https://aihot.news/items/naj6irqaweg1fk5vnq9td327u",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-10-22T20:34:15.000Z",
-      "discoveredAt": "2026-10-22T20:58:23.179Z",
-      "summary": "Canva 发布首个自研前沿图像生成模型 Canva Craft，在 DesignArena 全球图像生成榜单上排名第二，仅次于 OpenAI。模型采用两阶段架构，规划器先读取提示词生成构图方案，渲染器再按方案以最高 2K 分辨率、超过 30 种宽高比绘图；文字拼写渲染前已确定，修改单个元素时不会影响其他元素。",
-      "category": "ai-products",
-      "score": 62,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/naj6irqaweg1fk5vnq9td327u"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "canva",
-        "图像生成",
-        "图像",
-        "提示词"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "kf1kparl84fkcs7euwpx5r2q5",
       "title": "grok @bot 0.75.2 发布：新增 pages、聊天卡片和视频生成",
       "title_en": "grok @bot 0.75.2 is out!",
@@ -551,35 +465,6 @@
         "3d"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "wwsewhdez7rv31ehpwlws406w",
-      "title": "MIT CSAIL 与天津大学推出 X-Hinges 软件，可 3D 打印能感知动作的自感知物件",
-      "title_en": "This design software reimagines everyday objects as self-aware devices",
-      "url": "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022",
-      "permalink": "https://aihot.news/items/wwsewhdez7rv31ehpwlws406w",
-      "source": "MIT News（RSS）",
-      "publishedAt": "2026-10-22T20:45:00.000Z",
-      "discoveredAt": "2026-10-22T21:37:20.225Z",
-      "summary": "MIT CSAIL 与天津大学研究人员开发出 X-Hinges 设计软件，可自动在 3D 打印物件中嵌入两种不同材料，分别用作传感器和导线以避免信号干扰。该工具支持压缩、上下、左右最多三个运动轴，并同步采集各方向运动数据，已用于制作可教机器人抓取积木的手套、折纸台灯和物体识别装置。目前每件打印品的电路布局存在细微差异，需借助计算机视觉系统重新校准传感器输出。",
-      "category": "paper",
-      "score": 44,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/wwsewhdez7rv31ehpwlws406w"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "视觉",
-        "design",
-        "设计",
-        "3d"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "kxp6d6jffy7l50vru3qyo91ps",
@@ -829,6 +714,33 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "kvbeuuzi3ly6rdgtpcsqtj7f0",
+      "title": "Google DeepMind 论文：主动式 AI 智能体进团队，有人视其为救星，有人感到被监视",
+      "title_en": "New Google DeepMind paper finds that the same AI assistant was a lifesaver to some workers and a source of stress to others, because it a...",
+      "url": "https://x.com/rohanpaul_ai/status/2114241586989334537",
+      "permalink": "https://aihot.news/items/kvbeuuzi3ly6rdgtpcsqtj7f0",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-10-25T06:24:09.000Z",
+      "discoveredAt": "2026-10-25T06:45:14.347Z",
+      "summary": "Google DeepMind 论文研究主动式 AI 智能体在大公司 20 多个团队运行 5 个月的情况，并访谈 17 名用户，发现同一智能体被部分人视为救星，另一些人却因它擅自动作而感到压力。智能体把过期文档当现状、给 VP 标记 16 个 bug、提前分享草稿海报、误读讽刺；被强推的团队比自愿采用团队更不宽容其失误。作者建议经团队同意后再部署智能体、分离权限并提供易用的撤销方式。",
+      "category": "paper",
+      "score": 56,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/kvbeuuzi3ly6rdgtpcsqtj7f0"
+      },
+      "sourceType": "X",
+      "designCategory": "图像与视频",
+      "relevanceScore": 7,
+      "editorialScore": 10,
+      "tags": [
+        "海报",
+        "智能体"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
       "id": "xougitbm9f5vrlfghlw4gh7t6",
       "title": "Krea 开放 Krea 3 图像编辑 beta，支持 2k 快速生成与多轮精确编辑",
       "title_en": "precise editing with Krea 3.",
@@ -935,6 +847,33 @@
         "ui",
         "3d",
         "提示词"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "sllfzlswzu8zyd5oq8lhgdr8c",
+      "title": "Perplexity Computer 自主将树莓派改造成游戏主机",
+      "title_en": "This user gave Perplexity Computer, SSH access to a Raspberry Pi 5 over Tailscale. Overnight, it autonomously turned it into a game conso...",
+      "url": "https://x.com/AravSrinivas/status/2113661112143282441",
+      "permalink": "https://aihot.news/items/sllfzlswzu8zyd5oq8lhgdr8c",
+      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "publishedAt": "2026-10-23T15:57:33.000Z",
+      "discoveredAt": "2026-10-23T16:03:20.500Z",
+      "summary": "用户通过 Tailscale 给 Perplexity Computer 开放了 Raspberry Pi 5 的 SSH 访问权限，它一夜之间自主把设备变成带街机 UI、工具链和 MCP 集成的游戏主机。",
+      "category": "industry",
+      "score": 39,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/sllfzlswzu8zyd5oq8lhgdr8c"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "ui",
+        "mcp"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
