@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-27T05:04:57.715Z",
-  "previousGeneratedAt": "2026-10-26T13:02:51.462Z",
+  "generatedAt": "2026-10-27T12:11:26.991Z",
+  "previousGeneratedAt": "2026-10-27T05:04:57.715Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 50,
+  "itemCount": 52,
   "sourceCounts": {
     "X": 24,
-    "公众号": 4,
+    "公众号": 6,
     "网站": 22
   },
   "source": {
@@ -14,35 +14,6 @@
     "url": "https://aihot.virxact.com"
   },
   "items": [
-    {
-      "id": "ac9rf2qppp5t6dyihvb5arf0f",
-      "title": "可灵 Kling 4.0 上线 fal 平台并开放 API",
-      "title_en": "A different take on everyday life 👀 #Kling4 #KlingAI",
-      "url": "https://x.com/Kling_ai/status/2113936627223429174",
-      "permalink": "https://aihot.news/items/ac9rf2qppp5t6dyihvb5arf0f",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "publishedAt": "2026-10-24T10:12:21.000Z",
-      "discoveredAt": "2026-10-24T10:31:43.993Z",
-      "summary": "可灵官方转发 fal 消息，Kling 4.0 现已在 fal 公开上线，API 面向所有客户开放。模型支持最长 30 秒带音频的原生视频生成、最多 15 个图像/视频/元素参考、最多 10 个关键帧的精确控制，并改进了运动、角色一致性和电影化叙事。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ac9rf2qppp5t6dyihvb5arf0f"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 20,
-      "editorialScore": 23,
-      "tags": [
-        "视频生成",
-        "可灵",
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
     {
       "id": "e8jd7ajdh3w9jsqretoprjh9g",
       "title": "fal 开放 FLUX 3 Image Klein LoRA 自训练",
@@ -629,6 +600,91 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "j0fnmso86g1jlwi9gzeuy55xx",
+      "title": "系列解读 Manus 联创张涛的 AI Native 组织实践，整个代码库共用一个智能体",
+      "title_en": "系列解读 Manus 联创张涛「用 Manus 改造 Manus，AI Native 组织改造的实践和思考」",
+      "url": "https://x.com/shao__meng/status/2115048792483660088",
+      "permalink": "https://aihot.news/items/j0fnmso86g1jlwi9gzeuy55xx",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-10-27T11:51:42.000Z",
+      "discoveredAt": "2026-10-27T11:54:40.455Z",
+      "summary": "作者系列解读 Manus 联合创始人张涛的文章「用 Manus 改造 Manus」，本篇讲研发环节如何用 Manus-mono 让 AI 走完全流程。Mono 不做多仓合并，而是统一入口加给 AI 看的说明书，覆盖各仓职责、开发与界面规范、发布流程和线上调试，审批权仍留在人手上。",
+      "category": "tip",
+      "score": 65,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/j0fnmso86g1jlwi9gzeuy55xx"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "界面",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "b5mp5t5oloot6kwxnk8gh7lj2",
+      "title": "《不问凡尘》：20人团队用火山引擎模型9个月做出26万玩家买单的AI互动作品",
+      "title_en": "20人9个月，《不问凡尘》用AI搓出26万玩家买单的超写实互动作品",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247545513&idx=1&sn=2a0c3d089b797714e901e5079a97d438",
+      "permalink": "https://aihot.news/items/b5mp5t5oloot6kwxnk8gh7lj2",
+      "source": "公众号：火山引擎",
+      "publishedAt": "2026-10-27T10:07:04.000Z",
+      "discoveredAt": "2026-10-27T10:14:10.863Z",
+      "summary": "火山引擎介绍《不问凡尘》如何用AI完成研发：约20人团队9个月上线，Steam 好评率87%、超26万玩家，成本约为传统制作的1/3。核心资产由 Seedance 2.0/2.5 生成视频、Seedream 5.0 Pro 生成图像、Seed TTS 结合 Seed Character 生成语音，项目组用状态机连接图层和玩家输入实现交互，并借助 TRAE 与 Agent 工作流搭建自动化生产管线。",
+      "category": "tip",
+      "score": 57,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/b5mp5t5oloot6kwxnk8gh7lj2"
+      },
+      "sourceType": "公众号",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 9,
+      "editorialScore": 10,
+      "tags": [
+        "交互",
+        "工作流",
+        "视频",
+        "图像"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "p0564s3bnal29y8dxo4k1xzrj",
+      "title": "Addy Osmani：何时该把子智能体收回主循环",
+      "title_en": "Before adding another subagent ask what problem it's solving. A bloated system prompt is often the issue.",
+      "url": "https://x.com/addyosmani/status/2114967833708732607",
+      "permalink": "https://aihot.news/items/p0564s3bnal29y8dxo4k1xzrj",
+      "source": "X：Addy Osmani (@addyosmani)",
+      "publishedAt": "2026-10-27T06:30:00.000Z",
+      "discoveredAt": "2026-10-27T06:44:43.036Z",
+      "summary": "Addy Osmani 提出判断子智能体的经验法则：只有当任务可并行、需要全新上下文或单个智能体确实无法选对工具时才保留子智能体，否则应将其收回主循环。他指出系统提示词臃肿往往是问题根源，可用 Skills 和工具搜索解决，而不必把上下文拆分到多个智能体。做法是把子智能体的提示词改写成 skill，跑完评测后保留效果更好的方案。",
+      "category": "tip",
+      "score": 49,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/p0564s3bnal29y8dxo4k1xzrj"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 9,
+      "editorialScore": 10,
+      "tags": [
+        "提示词",
+        "prompt",
+        "智能体",
+        "skill"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "cpsavanegtto7xotzxak5jgd9",
       "title": "Ethan Mollick 谈 Claude 与 ChatGPT 取消详细思维链对人类监督的影响",
       "title_en": "The end of detailed summarized thinking traces for Claude and ChatGPT (likely both anti-distillation & for UX) has made being a human in ...",
@@ -955,29 +1011,28 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "anom9863a9l3wr6ym6oq07v2h",
-      "title": "为 iPhone Duo 铰链做 3D 建模，参考何同学视频",
-      "title_en": "给 iPhone Duo 的铰链做了一个 3D 建模",
-      "url": "https://x.com/oran_ge/status/2113933776636272646",
-      "permalink": "https://aihot.news/items/anom9863a9l3wr6ym6oq07v2h",
-      "source": "X：Oran Ge (@oran_ge)",
-      "publishedAt": "2026-10-24T10:01:01.000Z",
-      "discoveredAt": "2026-10-24T10:06:39.606Z",
-      "summary": "为 iPhone Duo 的铰链完成了一个 3D 建模，AI 参考了何同学的视频。作者评价这次 Duo 视频评测的信息量排序为何同学>李大锤>Tim，但 Tim 的特效最好、播放量最高。",
-      "category": null,
-      "score": 21,
+      "id": "xnq4fkon2nhoovkbyvcuy6v3n",
+      "title": "《King Card》幕后：用 Kling 4.0 变一场五百万人围观的魔术",
+      "title_en": "《King Card》幕后｜用AI变一场五百万人围观的魔术",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5NTkwNDU2OA%3D%3D&mid=2247497282&idx=1&sn=345409402e861a8efa8f185b0436a4c7",
+      "permalink": "https://aihot.news/items/xnq4fkon2nhoovkbyvcuy6v3n",
+      "source": "公众号：可灵AI（快手·视频）",
+      "publishedAt": "2026-10-27T08:58:09.000Z",
+      "discoveredAt": "2026-10-27T09:03:30.848Z",
+      "summary": "快手可灵AI披露AI短片《King Card》幕后制作，该片海内外播放超500万，使用Kling 4.0完成卡牌矩阵、报纸列车穿城、折纸鸟与章鱼打斗等奇观场面。Kling 4.0支持最多10张关键帧输入，动态与运镜能力升级，可稳定呈现高速运动和大幅镜头运动。",
+      "category": "tip",
+      "score": 33,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/anom9863a9l3wr6ym6oq07v2h"
+        "canonical": "https://aihot.news/items/xnq4fkon2nhoovkbyvcuy6v3n"
       },
-      "sourceType": "X",
+      "sourceType": "公众号",
       "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
+      "relevanceScore": 6,
+      "editorialScore": 9,
       "tags": [
-        "视频",
-        "3d"
+        "可灵"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
