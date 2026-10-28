@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-28T05:42:14.112Z",
-  "previousGeneratedAt": "2026-10-27T18:00:17.494Z",
+  "generatedAt": "2026-10-28T12:54:54.673Z",
+  "previousGeneratedAt": "2026-10-28T05:42:14.112Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 52,
+  "itemCount": 48,
   "sourceCounts": {
     "X": 24,
-    "公众号": 3,
-    "网站": 25
+    "公众号": 5,
+    "网站": 19
   },
   "source": {
     "name": "AI HOT",
@@ -41,6 +41,35 @@
         "flux"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "zuvu8m5bg05kqrsc2huzpnyzn",
+      "title": "LangChain 开源 Content Studio 设计 Agent 的四个月实践详解",
+      "title_en": "把设计品味写进 Agent：LangChain 开源 Content Studio 的四个月实践",
+      "url": "https://x.com/shao__meng/status/2115345069570212202",
+      "permalink": "https://aihot.news/items/zuvu8m5bg05kqrsc2huzpnyzn",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-10-28T07:29:00.000Z",
+      "discoveredAt": "2026-10-28T07:59:32.587Z",
+      "summary": "作者详解 LangChain 开源的 Content Studio（Slack 里的 Design Agent）四个月实践，核心是把设计师判断写进 skills、wiki 与代码门禁，用沙箱电脑和异步子 Agent 撑住长任务。",
+      "category": "tip",
+      "score": 71,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/zuvu8m5bg05kqrsc2huzpnyzn"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 16,
+      "editorialScore": 20,
+      "tags": [
+        "设计师",
+        "design",
+        "设计",
+        "agent"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "j2xmi9e90dywhmnhd3wydoen0",
@@ -350,6 +379,35 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "cvryp0rqa4d2bc8p6nk8lacod",
+      "title": "豆包工作上线录制回放功能，作者实测用它做电脑自动化 Skill",
+      "title_en": "豆包工作悄悄上线录制回放，就算Tibo不给重置我也能爽玩电脑自动化了",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512627&idx=1&sn=d39c9a21e22bf0c595347749ce8f719c",
+      "permalink": "https://aihot.news/items/cvryp0rqa4d2bc8p6nk8lacod",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-10-28T11:45:00.000Z",
+      "discoveredAt": "2026-10-28T11:59:08.561Z",
+      "summary": "豆包工作新增了类似 Codex 的 record & replay 录制回放功能，用户可录制电脑操作并配语音讲解，由 AI 生成步骤并复刻，最长录制 30 分钟。作者实测发现它在用户占用窗口时会主动暂停而非重试，适合没有 API、跨多软件的工作流；作者还用它录制随机跨平台浏览节奏来采集小红书低粉爆款等内容，降低被风控检测的概率，并计划把 Codex 上做好的 skill 迁移过来以节省额度。",
+      "category": "tip",
+      "score": 67,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cvryp0rqa4d2bc8p6nk8lacod"
+      },
+      "sourceType": "公众号",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 12,
+      "editorialScore": 13,
+      "tags": [
+        "工作流",
+        "自动化",
+        "codex",
+        "skill"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "wztf99nnk25kftylwpxxfsudr",
       "title": "Cursor 设计模式新增标注功能",
       "title_en": "Annotations are now available in Design mode on Cursor!",
@@ -436,6 +494,32 @@
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
+      "id": "hlzo912kzi3ltfvxlkandttt3",
+      "title": "Anthropic 工程经理：AI 时代新人拼的是创业式思维而非编码面试",
+      "title_en": "With AI writing the code, entrepreneurial thinking is now what counts most for newcomers at Anthropic",
+      "url": "https://the-decoder.com/with-ai-writing-the-code-entrepreneurial-thinking-is-now-what-counts-most-for-newcomers-at-anthropic/",
+      "permalink": "https://aihot.news/items/hlzo912kzi3ltfvxlkandttt3",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-10-28T11:15:00.000Z",
+      "discoveredAt": "2026-10-28T11:19:28.058Z",
+      "summary": "Anthropic 工程经理 Felix Rieseberg 认为小型编程测试已无意义，因为 Claude 做得比候选人更好，他在招聘中改看能体现品味、同理心和原则性思考的小原型。",
+      "category": "opinion",
+      "score": 62,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/hlzo912kzi3ltfvxlkandttt3"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 7,
+      "editorialScore": 12,
+      "tags": [
+        "原型"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
       "id": "xy6y5id0iwmo575xjya7ai5cu",
       "title": "OpenAI 发布 GPT-6.1 Terra，面向 Plus、Pro、Enterprise 和 Edu 用户开放",
       "title_en": "GPT-6.1 Terra means business.",
@@ -464,29 +548,28 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "g4ad8tycgkdtkjucdyp88blxc",
-      "title": "Krea 推出面向 Adobe Premiere 的插件",
-      "title_en": "introducing Krea for Adobe Premiere.",
-      "url": "https://x.com/krea_ai/status/2114741513867395527",
-      "permalink": "https://aihot.news/items/g4ad8tycgkdtkjucdyp88blxc",
-      "source": "X：Krea AI (@krea_ai)",
-      "publishedAt": "2026-10-26T15:30:41.000Z",
-      "discoveredAt": "2026-10-26T15:39:23.671Z",
-      "summary": "Krea 发布 Krea for Adobe Premiere，用户无需离开时间线即可完成故事板、生成视频和添加音效，现已开放试用。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
+      "id": "k6toxduuuejft75n2uhzo1s2x",
+      "title": "Latent Space AINews：Anthropic 招聘经理取消编码面试，称 Hunger beats tenure",
+      "title_en": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
+      "url": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
+      "permalink": "https://aihot.news/items/k6toxduuuejft75n2uhzo1s2x",
+      "source": "Latent Space（RSS）",
+      "publishedAt": "2026-10-28T08:50:30.000Z",
+      "discoveredAt": "2026-10-28T09:31:26.670Z",
+      "summary": "本期 AINews 以 Anthropic 招聘经理 Felix Rieseberg 停止对候选人使用传统编码面试为主头条，他认为让模型做 React 小题已无意义，并给初级工程师提出选业务影响力、周末做原型、聚焦单个好想法等建议。",
+      "category": "industry",
+      "score": 53,
+      "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/g4ad8tycgkdtkjucdyp88blxc"
+        "canonical": "https://aihot.news/items/k6toxduuuejft75n2uhzo1s2x"
       },
-      "sourceType": "X",
+      "sourceType": "网站",
       "designCategory": "设计工具",
-      "relevanceScore": 7,
-      "editorialScore": 12,
+      "relevanceScore": 6,
+      "editorialScore": 11,
       "tags": [
-        "adobe",
-        "视频"
+        "原型"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
@@ -545,60 +628,85 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "wrjfzia5zhfdvc3k2oftswe2z",
-      "title": "Google A2UI 推出可切换推理格式，A2UI Express 将生成式 UI 延迟最多降低 3x",
-      "title_en": "Fast, reliable A2UI, with swappable inference formats",
-      "url": "https://developers.googleblog.com/fast-reliable-a2ui/",
-      "permalink": "https://aihot.news/items/wrjfzia5zhfdvc3k2oftswe2z",
-      "source": "Google Developers Blog（RSS）",
-      "publishedAt": "2026-10-26T16:00:00.000Z",
-      "discoveredAt": "2026-10-27T15:40:44.332Z",
-      "summary": "Google 为面向智能体的生成式 UI 协议 A2UI 推出可切换的推理格式，新增默认格式 A2UI Express，以类 Python 语法逐行描述组件树，生成同屏 UI 所需 token 最多减少 3x、延迟最多降低 3x，并由 Agent SDK 确定性编译为 JSON 传输协议。",
-      "category": "ai-products",
-      "score": 61,
+      "id": "sxaov74k08yh5pos4k46m16zq",
+      "title": "创作者阿米Amir用Kling 4.0实测温情短片《得闲饮茶》",
+      "title_en": "4.0实战测评室｜阿米Amir： 一支娓娓道来的慢片，验出Kling 4.0的整体成色",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5NTkwNDU2OA%3D%3D&mid=2247497294&idx=1&sn=b0786c6d35e19c7d9eec856799871125",
+      "permalink": "https://aihot.news/items/sxaov74k08yh5pos4k46m16zq",
+      "source": "公众号：可灵AI（快手·视频）",
+      "publishedAt": "2026-10-28T11:12:46.000Z",
+      "discoveredAt": "2026-10-28T11:27:22.155Z",
+      "summary": "可灵AI实战测评室邀请创作者阿米Amir用Kling 4.0制作粤语温情短片《得闲饮茶》，检验其在慢节奏情感叙事上的表现。他反馈30秒原生输出、全能参考和多关键帧（最多10张图）让动作与节奏安排更有余地，12个角色资产的一致性比3.0更稳，粤语对白与口型匹配出色；相对3.0最长15秒，4.0升级到最长30秒，并新增21:9画幅。",
+      "category": "tip",
+      "score": 62,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/wrjfzia5zhfdvc3k2oftswe2z"
+        "canonical": "https://aihot.news/items/sxaov74k08yh5pos4k46m16zq"
       },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
       "relevanceScore": 7,
-      "editorialScore": 11,
+      "editorialScore": 10,
       "tags": [
-        "ui",
+        "可灵"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "zdurvz1mt9f7a2c762qsw3si3",
+      "title": "三套 Agent Skills 组合复刻顶级 iOS App 设计",
+      "title_en": "逆向任意顶级 iOS App 设计 ？",
+      "url": "https://x.com/shao__meng/status/2115332272152826248",
+      "permalink": "https://aihot.news/items/zdurvz1mt9f7a2c762qsw3si3",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-10-28T06:38:09.000Z",
+      "discoveredAt": "2026-10-28T06:57:29.651Z",
+      "summary": "作者介绍一组用于逆向学习顶级 iOS App 设计的 Agent Skills 组合：Appllama Skills 提供头部 App 设计库与建造门槛（MCP 属 Pro 计费，设计技能可单独装），Expo Skills 覆盖框架与 EAS 上架等官方工程实践，Emil Kowalski Skills 把动效易错点写成可执行规则，星标远高于另两个。",
+      "category": "tip",
+      "score": 63,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/zdurvz1mt9f7a2c762qsw3si3"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "设计",
         "agent",
-        "智能体"
+        "mcp"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "ug0jeh0hgnqrbmp1vbue0uqg2",
-      "title": "Google 用 LangGraph 与 Gemini 在 GCP 上构建 HappyDelivery 多智能体对话式商务原型",
-      "title_en": "Building Conversational Commerce with Multi-Agent Swarms on GCP: A Working Prototype",
-      "url": "https://developers.googleblog.com/building-conversational-commerce-with-multi-agent-swarms-on-gcp-a-working-prototype/",
-      "permalink": "https://aihot.news/items/ug0jeh0hgnqrbmp1vbue0uqg2",
-      "source": "Google Developers Blog（RSS）",
-      "publishedAt": "2026-10-26T16:00:00.000Z",
-      "discoveredAt": "2026-10-27T17:42:44.613Z",
-      "summary": "Google Developers 基于 此前发布的 3 层对话式商务架构蓝图，用 LangGraph、Gemini、FastAPI 和 Google Cloud 构建出可运行原型 HappyDelivery。",
+      "id": "tw5fe5mj6a2zyp6ica2ec3qpb",
+      "title": "Addy Osmani 讲解如何上手 Claude Code Mods",
+      "title_en": "Getting started with Claude Code Mods",
+      "url": "https://x.com/addyosmani/status/2115326629488824753",
+      "permalink": "https://aihot.news/items/tw5fe5mj6a2zyp6ica2ec3qpb",
+      "source": "X：Addy Osmani (@addyosmani)",
+      "publishedAt": "2026-10-28T06:15:43.000Z",
+      "discoveredAt": "2026-10-28T06:26:29.821Z",
+      "summary": "Addy Osmani 发布 Claude Code Mods 上手指南，说明 mods 是运行在会话中的 JavaScript/TypeScript 文件，可通过 hooks 观察事件、改写行为或渲染自定义界面。",
       "category": "tip",
-      "score": 51,
-      "selected": false,
+      "score": 72,
+      "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ug0jeh0hgnqrbmp1vbue0uqg2"
+        "canonical": "https://aihot.news/items/tw5fe5mj6a2zyp6ica2ec3qpb"
       },
-      "sourceType": "网站",
-      "designCategory": "设计工具",
+      "sourceType": "X",
+      "designCategory": "产品与体验",
       "relevanceScore": 6,
-      "editorialScore": 11,
+      "editorialScore": 10,
       "tags": [
-        "原型",
-        "agent",
-        "智能体"
+        "界面",
+        "claude code"
       ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "d5bif7t1eui5glzu2ofyr6hgs",
@@ -950,62 +1058,6 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "p0564s3bnal29y8dxo4k1xzrj",
-      "title": "Addy Osmani：何时该把子智能体收回主循环",
-      "title_en": "Before adding another subagent ask what problem it's solving. A bloated system prompt is often the issue.",
-      "url": "https://x.com/addyosmani/status/2114967833708732607",
-      "permalink": "https://aihot.news/items/p0564s3bnal29y8dxo4k1xzrj",
-      "source": "X：Addy Osmani (@addyosmani)",
-      "publishedAt": "2026-10-27T06:30:00.000Z",
-      "discoveredAt": "2026-10-27T06:44:43.036Z",
-      "summary": "Addy Osmani 提出判断子智能体的经验法则：只有当任务可并行、需要全新上下文或单个智能体确实无法选对工具时才保留子智能体，否则应将其收回主循环。他指出系统提示词臃肿往往是问题根源，可用 Skills 和工具搜索解决，而不必把上下文拆分到多个智能体。做法是把子智能体的提示词改写成 skill，跑完评测后保留效果更好的方案。",
-      "category": "tip",
-      "score": 49,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/p0564s3bnal29y8dxo4k1xzrj"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 9,
-      "editorialScore": 10,
-      "tags": [
-        "提示词",
-        "prompt",
-        "智能体",
-        "skill"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "cpsavanegtto7xotzxak5jgd9",
-      "title": "Ethan Mollick 谈 Claude 与 ChatGPT 取消详细思维链对人类监督的影响",
-      "title_en": "The end of detailed summarized thinking traces for Claude and ChatGPT (likely both anti-distillation & for UX) has made being a human in ...",
-      "url": "https://x.com/emollick/status/2114942007533515261",
-      "permalink": "https://aihot.news/items/cpsavanegtto7xotzxak5jgd9",
-      "source": "X：Ethan Mollick (@emollick)",
-      "publishedAt": "2026-10-27T04:47:22.000Z",
-      "discoveredAt": "2026-10-27T04:54:44.175Z",
-      "summary": "Ethan Mollick 指出，Claude 和 ChatGPT 不再展示详细的摘要式思考过程（可能既有防蒸馏考虑也有 UX 考量），让人在回路中监督变得困难。他认为这削弱了对 AI 中间过程发表意见的能力，正在把用户从增强式协作推向自动化。",
-      "category": "opinion",
-      "score": 51,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cpsavanegtto7xotzxak5jgd9"
-      },
-      "sourceType": "X",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "ux",
-        "自动化"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "tckw64et369c0brghxzwke9qe",
       "title": "Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新",
       "title_en": "What’s new in Gamma | September–October 2026",
@@ -1031,35 +1083,6 @@
         "智能体"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "z7h3xpbyfp9laquaq2njijzfo",
-      "title": "Apple Creator Studio 推出更新：Final Cut Pro 集成 MotionVFX，Keynote、Pages、Numbers 新增智能助手与 MCP 支持",
-      "title_en": "Apple Creator Studio adds powerful new AI features and even more creative tools",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
-      "permalink": "https://aihot.news/items/z7h3xpbyfp9laquaq2njijzfo",
-      "source": "Apple：Newsroom（RSS）",
-      "publishedAt": "2026-10-26T16:00:00.000Z",
-      "discoveredAt": "2026-10-27T13:18:40.803Z",
-      "summary": "Apple 为 Creator Studio 推出更新，Final Cut Pro for Mac 内置 MotionVFX 视觉效果库并接入含视频素材的 Content Hub。",
-      "category": "ai-products",
-      "score": 64,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/z7h3xpbyfp9laquaq2njijzfo"
-      },
-      "sourceType": "网站",
-      "designCategory": "行业观察",
-      "relevanceScore": 10,
-      "editorialScore": 10,
-      "tags": [
-        "视觉",
-        "creator",
-        "creative",
-        "视频"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "l9giigl76ejhatl21j8rikcwh",
@@ -1193,60 +1216,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "dgly2r4fwb6y80t3im8yqqvt1",
-      "title": "Epoch AI 用内部工作任务评测前沿模型：Claude Fable 5.1 与 GPT-6 Astra 平均只得 65%",
-      "title_en": "We tried to automate Epoch",
-      "url": "https://epochai.substack.com/p/can-ai-automate-epoch",
-      "permalink": "https://aihot.news/items/dgly2r4fwb6y80t3im8yqqvt1",
-      "source": "Epoch AI：Gradient Updates（RSS）",
-      "publishedAt": "2026-10-26T16:33:24.000Z",
-      "discoveredAt": "2026-10-26T17:30:19.707Z",
-      "summary": "Epoch AI 发布 Epoch Automation Reports，把机构内部的图表设计、研究规划等真实任务按人类员工评估标准测试 AI，领先的 Claude Fable 5.1 和 GPT-6 Astra 平均得分 65%，未达到 100% 的可自动化门槛。",
-      "category": "paper",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/dgly2r4fwb6y80t3im8yqqvt1"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "设计",
-        "自动化",
-        "automation"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "vx4t4ldzajj3lhb8luhg9dy9s",
-      "title": "Liquid AI 发布 LFM3 多模态模型家族，主打专用智能与端侧部署",
-      "title_en": "Introducing LFM3: Every Modality for Specialized Intelligence",
-      "url": "https://www.liquid.ai/blog/lfm3",
-      "permalink": "https://aihot.news/items/vx4t4ldzajj3lhb8luhg9dy9s",
-      "source": "Liquid AI 模型与工程博客（网页）",
-      "publishedAt": "2026-10-26T16:00:00.000Z",
-      "discoveredAt": "2026-10-27T17:50:40.510Z",
-      "summary": "Liquid AI 发布新一代 Liquid Foundation Models 家族 LFM3，首个版本包含六款约 2B 参数的模型，覆盖文本、视觉、音频、omni 和决策模态，全部基于 LFM3-1.7B-Base，预训练使用 22T tokens。",
-      "category": "ai-models",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/vx4t4ldzajj3lhb8luhg9dy9s"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "视觉"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "j60102o9pu57thqp1pjsq6xmp",
       "title": "Browser Use 团队讲解如何在云端规模化运行浏览器自动化",
       "title_en": "How to Run Browser Automation at Scale in the Cloud (2026)",
@@ -1300,91 +1269,6 @@
         "codex"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "hifec190jf1u59ohyvc7mgup9",
-      "title": "Nace AI 发布 Drex for Search：BrowseComp-Plus 达 92.05%，每题仅需 12.6 次搜索调用",
-      "title_en": "Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls",
-      "url": "https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/",
-      "permalink": "https://aihot.news/items/hifec190jf1u59ohyvc7mgup9",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-10-26T16:46:09.000Z",
-      "discoveredAt": "2026-10-26T17:38:19.437Z",
-      "summary": "Nace AI 发布面向智能体的检索层 Drex for Search，将 Drex 决策模型用于文档搜索，支持 Claude Code、Codex、Cursor 和 OpenCode 通过 CLI、SDK、MCP 或 REST 调用。",
-      "category": "ai-products",
-      "score": 51,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/hifec190jf1u59ohyvc7mgup9"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "codex",
-        "claude code",
-        "智能体",
-        "mcp"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "w77yyetonuizdsxiogl6urur0",
-      "title": "Nace AI 发布 Drex for Search：BrowseComp-Plus 达 92.05%，每题仅 12.6 次搜索调用",
-      "title_en": "Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls",
-      "url": "https://www.marktechpost.com/2026/10/26/nace-ai-drex-for-search-ai-agents/",
-      "permalink": "https://aihot.news/items/w77yyetonuizdsxiogl6urur0",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-10-26T15:32:33.000Z",
-      "discoveredAt": "2026-10-26T16:37:19.180Z",
-      "summary": "Nace AI 发布面向 AI 智能体的检索层 Drex for Search，将搜索建模为逐级决策，支持 Claude Code、Codex、Cursor、OpenCode 通过 CLI、SDK、MCP 或 REST 调用。",
-      "category": "ai-products",
-      "score": 52,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/w77yyetonuizdsxiogl6urur0"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 7,
-      "editorialScore": 8,
-      "tags": [
-        "codex",
-        "claude code",
-        "智能体",
-        "mcp"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "pzyz7433qwcu5d0pndeapggqs",
-      "title": "Databricks 谈媒体行业转向“预测经济”：从争夺注意力到预判需求",
-      "title_en": "The media industry is becoming a prediction economy",
-      "url": "https://www.databricks.com/blog/media-industry-becoming-prediction-economy",
-      "permalink": "https://aihot.news/items/pzyz7433qwcu5d0pndeapggqs",
-      "source": "Databricks：Blog（RSS）",
-      "publishedAt": "2026-10-26T13:36:46.000Z",
-      "discoveredAt": "2026-10-26T16:08:20.208Z",
-      "summary": "Databricks 媒体与广告 GTM 负责人 Jake LaDuke 提出，媒体行业正从“注意力经济”转向“预测经济”，衡量标准从曝光转向实际业务影响。麦肯锡数据显示仅 3% 的 CMO 能将一半营销投入对应到业务结果。",
-      "category": "opinion",
-      "score": 30,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/pzyz7433qwcu5d0pndeapggqs"
-      },
-      "sourceType": "网站",
-      "designCategory": "行业观察",
-      "relevanceScore": 8,
-      "editorialScore": 8,
-      "tags": [
-        "广告",
-        "营销"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "hag5sshxjdw1b4ukjvj6ugr2m",
