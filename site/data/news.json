@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-27T18:00:17.494Z",
-  "previousGeneratedAt": "2026-10-27T12:11:26.991Z",
+  "generatedAt": "2026-10-28T05:42:14.112Z",
+  "previousGeneratedAt": "2026-10-27T18:00:17.494Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 58,
+  "itemCount": 52,
   "sourceCounts": {
     "X": 24,
-    "公众号": 6,
-    "网站": 28
+    "公众号": 3,
+    "网站": 25
   },
   "source": {
     "name": "AI HOT",
@@ -71,60 +71,33 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "qpiguhtnpa7wyw1fvgrnwmpw6",
-      "title": "智谱或推原生多模态模型GLM-Omni",
-      "title_en": "Zhipu AI might drop a native multimodal AI called GLM-Omni.",
-      "url": "https://x.com/thexpin/status/2114645710733799888",
-      "permalink": "https://aihot.news/items/qpiguhtnpa7wyw1fvgrnwmpw6",
-      "source": "X：X.PIN (@thexpin)",
-      "publishedAt": "2026-10-26T09:10:00.000Z",
-      "discoveredAt": "2026-10-26T09:36:37.411Z",
-      "summary": "智谱AI可能推出名为GLM-Omni的原生多模态AI。\n\n通过将图像生成与文本训练相结合，该系统让AI在回答前先画出视觉推理步骤来查看。这使文本问答准确率从12.57%提升至41.14%。\n\n基本上就是我在考试时涂鸦的样子。",
-      "category": "opinion",
-      "score": 33,
+      "id": "ofj5qnu15orwqihdk3sozdgfb",
+      "title": "Cursor design mode 推出 Annotate 标注功能",
+      "title_en": "designers' dream",
+      "url": "https://x.com/shaoruu/status/2115218832520630460",
+      "permalink": "https://aihot.news/items/ofj5qnu15orwqihdk3sozdgfb",
+      "source": "X：shaoruu（SpaceXSI，Grok Bot 初版作者之一） (@shaoruu)",
+      "publishedAt": "2026-10-27T23:07:23.000Z",
+      "discoveredAt": "2026-10-27T23:14:11.217Z",
+      "summary": "作者转发 Cursor 官方公告并称其为设计师的梦想。Cursor 在 design mode 新增 Annotate 功能，可让智能体接收视觉提示：编辑页面元素、在页面上绘制标注，并在不同屏幕尺寸下审查设计。",
+      "category": "ai-products",
+      "score": 59,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/qpiguhtnpa7wyw1fvgrnwmpw6"
+        "canonical": "https://aihot.news/items/ofj5qnu15orwqihdk3sozdgfb"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
+      "designCategory": "产品与体验",
       "relevanceScore": 15,
-      "editorialScore": 18,
+      "editorialScore": 19,
       "tags": [
-        "图像生成",
+        "设计师",
         "视觉",
-        "图像"
+        "design",
+        "设计"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "i1xufb2x1uwpiceyskrsbzlku",
-      "title": "亚太媒体研修团走进昆仑万维，探讨 AI 赋能内容出海",
-      "title_en": "亚太媒体研修团走进昆仑万维，共探 AI 赋能内容出海",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&mid=2247510677&idx=1&sn=eccab13c9f4d4308459d95fd3356859a",
-      "permalink": "https://aihot.news/items/i1xufb2x1uwpiceyskrsbzlku",
-      "source": "公众号：昆仑万维（天工）",
-      "publishedAt": "2026-10-26T09:43:59.000Z",
-      "discoveredAt": "2026-10-26T09:48:36.576Z",
-      "summary": "10月22日，亚太媒体百人研修计划参访团38位外媒从业者走进昆仑万维北京总部，围绕“AI赋能Z世代内容生产与出海适配”交流。活动演示了SkyProduction天工工作台的3D导演台与一站式短视频生成、多语言批量出海适配，以及Mureka全球AI音乐大模型的多曲风多语言音乐生成。昆仑万维称全球月活跃用户近4亿，海外收入占比达97%。",
-      "category": "industry",
-      "score": 20,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/i1xufb2x1uwpiceyskrsbzlku"
-      },
-      "sourceType": "公众号",
-      "designCategory": "图像与视频",
-      "relevanceScore": 14,
-      "editorialScore": 17,
-      "tags": [
-        "视频生成",
-        "视频",
-        "3d"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "p0exqt4v152uu3tmivb43ghcn",
@@ -155,60 +128,113 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "wn4gnb8z4urt0ycaiip1ypxfn",
-      "title": "MiniMax H3 全能版 FastH3 Omni 开源，支持消费级显卡本地部署",
-      "title_en": "Save the GPU budget and get back to creating. 😎",
-      "url": "https://x.com/Hailuo_AI/status/2114639055690616973",
-      "permalink": "https://aihot.news/items/wn4gnb8z4urt0ycaiip1ypxfn",
-      "source": "X：MiniMax Design (H3) (@Hailuo_AI)",
-      "publishedAt": "2026-10-26T08:43:33.000Z",
-      "discoveredAt": "2026-10-26T08:55:38.026Z",
-      "summary": "MiniMax 官方账号转发用户内容，确认 MiniMax H3 的 FastH3 Omni 正式开源，并称可节省 GPU 预算。据引用内容，该版本从文生视频升级为全能模式，支持图片、视频、音频作为参考，一次生成画面与同步音频，可控制角色、动作和声音，并支持消费级显卡本地部署。",
-      "category": "ai-products",
-      "score": 61,
+      "id": "o8x12y4xxlsvg9uclahab8lf2",
+      "title": "生数科技与创梦天地达成战略合作，用Vidu Q/S系列和通用世界模型拓展游戏产业",
+      "title_en": "生数科技携手创梦天地，以通用世界模型拓展游戏产业新边界",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489427&idx=1&sn=ec3297c02bed89b007ea8b0337a07837",
+      "permalink": "https://aihot.news/items/o8x12y4xxlsvg9uclahab8lf2",
+      "source": "公众号：生数科技（Vidu·视频）",
+      "publishedAt": "2026-10-28T02:05:12.000Z",
+      "discoveredAt": "2026-10-28T02:14:42.403Z",
+      "summary": "生数科技与创梦天地（1119.HK）10月15日宣布战略合作，以Vidu Q系列视频生成模型和S系列实时交互模型为核心，推进游戏内容生产提效与玩家实时交互体验。近期发布的Vidu Q4 Preview提升人物演绎、镜头语言与复杂视效，支持最高4K视频输出，限时价格0.09元/秒起。双方还将围绕游戏数据开展世界模型训练及与游戏引擎的适配研究，并率先以创梦天地IP角色“闪闪”试点游戏直播互动。",
+      "category": "industry",
+      "score": 33,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/wn4gnb8z4urt0ycaiip1ypxfn"
+        "canonical": "https://aihot.news/items/o8x12y4xxlsvg9uclahab8lf2"
       },
-      "sourceType": "X",
+      "sourceType": "公众号",
       "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
+      "relevanceScore": 11,
+      "editorialScore": 14,
       "tags": [
-        "文生视频",
+        "视频生成",
+        "交互",
         "视频"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "aqbw8hbibahvc45sef99r57h9",
-      "title": "Hassan 公开用 Claude Code 与 OpenCode 做应用的六步工作流",
-      "title_en": "Hassan 把他日常做应用的工作流公开了！",
-      "url": "https://x.com/shao__meng/status/2114569988870906111",
-      "permalink": "https://aihot.news/items/aqbw8hbibahvc45sef99r57h9",
+      "id": "dw9hsqt2sgry43rhyoiafbpxy",
+      "title": "邵猛试用 MiniMax H3 做二年级学习视频",
+      "title_en": "Trick or Tokens ? 这个好玩 🎃",
+      "url": "https://x.com/shao__meng/status/2115245209378574779",
+      "permalink": "https://aihot.news/items/dw9hsqt2sgry43rhyoiafbpxy",
       "source": "X：邵猛 (@shao__meng)",
-      "publishedAt": "2026-10-26T04:09:06.000Z",
-      "discoveredAt": "2026-10-26T04:26:38.048Z",
-      "summary": "Hassan 公开他日常用 Agent 做应用的六步工作流：用 WisprFlow 录 1–5 分钟语音作 prompt，补截图或 Inspo MCP 作视觉参考，用 grill-me skill 让 Agent 主动追问澄清，拿到 v1 后发反馈迭代，每个新功能合并 PR 前先要快速录屏验证，满意就发到 X 否则扔掉。",
+      "publishedAt": "2026-10-28T00:52:11.000Z",
+      "discoveredAt": "2026-10-28T01:17:27.155Z",
+      "summary": "邵猛正用视频生成模型给儿子二年级学习内容做视频，因价格原因放弃 Seedance 2.5，转而试用 MiniMax H3。他在 ZenMux 上看到 H3 Fast 和 Highspeed 有 50% 折扣，认为视频模型折扣能实打实省钱。引用推文介绍 ZenMux 以单账户单套 API 接入多家厂商的文本、图片、视频模型，并在 10/26–10/31 推出万圣节模型盲盒活动。",
       "category": "tip",
-      "score": 70,
+      "score": 22,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/aqbw8hbibahvc45sef99r57h9"
+        "canonical": "https://aihot.news/items/dw9hsqt2sgry43rhyoiafbpxy"
       },
       "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 14,
-      "editorialScore": 15,
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
       "tags": [
-        "视觉",
-        "工作流",
-        "prompt",
-        "claude code"
+        "视频生成",
+        "视频"
       ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "dw45v0s5o4m7nnvgy2d2v42y1",
+      "title": "Claude 插件与连接器 UI 及设置流程改版",
+      "title_en": "We're reworking the UI and setup flow for plugins and connectors in Claude.",
+      "url": "https://x.com/lydiahallie/status/2115183702376652886",
+      "permalink": "https://aihot.news/items/dw45v0s5o4m7nnvgy2d2v42y1",
+      "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
+      "publishedAt": "2026-10-27T20:47:47.000Z",
+      "discoveredAt": "2026-10-27T21:03:44.377Z",
+      "summary": "我们正在重新设计 Claude 中插件和连接器的 UI 与设置流程。\n\n我们怎样才能为你做得更好？欢迎所有反馈 🙏",
+      "category": "ai-products",
+      "score": 21,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/dw45v0s5o4m7nnvgy2d2v42y1"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 10,
+      "editorialScore": 14,
+      "tags": [
+        "ui",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "xkgksc3xb3gy1oqh8zg8netby",
+      "title": "自然语言走进蛋白质与基因组设计：Pinal 与 Hugging Face 的 Carbon X",
+      "title_en": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+      "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+      "permalink": "https://aihot.news/items/xkgksc3xb3gy1oqh8zg8netby",
+      "source": "Ars Technica：AI（RSS）",
+      "publishedAt": "2026-10-27T18:49:08.000Z",
+      "discoveredAt": "2026-10-27T18:54:42.356Z",
+      "summary": "Ars Technica 介绍了一种以自然语言提示设计蛋白质的工具 Pinal，它由 T2struct 将文本转为结构蓝图，再由 SAProt-T 生成氨基酸序列，训练数据包括 8 亿关键词-蛋白质对和 AlphaFold 预测结构。",
+      "category": "paper",
+      "score": 63,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/xkgksc3xb3gy1oqh8zg8netby"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 10,
+      "editorialScore": 14,
+      "tags": [
+        "design",
+        "设计"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "l63udrrcunv0qy04ve4s71g02",
@@ -324,32 +350,61 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "rf9bbjb1dcsfaen2soijrxs0v",
-      "title": "MiniMax 汇总 H3 开源生态进展：社区新增 11 项集成",
-      "title_en": "More reference control. Fewer denoising steps. More places to run H3.",
-      "url": "https://x.com/MiniMax_AI/status/2114504329499660419",
-      "permalink": "https://aihot.news/items/rf9bbjb1dcsfaen2soijrxs0v",
-      "source": "X：MiniMax (@MiniMax_AI)",
-      "publishedAt": "2026-10-25T23:48:12.000Z",
-      "discoveredAt": "2026-10-26T00:10:22.465Z",
-      "summary": "MiniMax 官方汇总 H3 视频生成模型的社区生态进展，收录 11 项新增集成。贡献涵盖 8 步参考条件视频加音频生成、4 步蒸馏、稀疏注意力和参考 token 压缩，并在 GPU 服务器、TPU 和 Apple Silicon 等多种硬件上提供服务和工作流集成；官方认为开源模型在社区改进方法、适配运行时和构建工作流后会更实用。",
+      "id": "wztf99nnk25kftylwpxxfsudr",
+      "title": "Cursor 设计模式新增标注功能",
+      "title_en": "Annotations are now available in Design mode on Cursor!",
+      "url": "https://x.com/testingcatalog/status/2115179906741186784",
+      "permalink": "https://aihot.news/items/wztf99nnk25kftylwpxxfsudr",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "publishedAt": "2026-10-27T20:32:42.000Z",
+      "discoveredAt": "2026-10-27T20:40:45.000Z",
+      "summary": "Cursor 的设计模式现已支持标注功能！\n\n> “设计模式让用户可以通过在运行中的应用上留下注释来指导智能体。”\n\n有了这些工具，Web 开发将彻底改变。",
       "category": "ai-products",
-      "score": 56,
+      "score": 49,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/rf9bbjb1dcsfaen2soijrxs0v"
+        "canonical": "https://aihot.news/items/wztf99nnk25kftylwpxxfsudr"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
       "tags": [
-        "视频生成",
-        "工作流",
-        "视频"
+        "design",
+        "设计",
+        "智能体"
       ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "mb0ybs7gnyw4eeszyjo2optzy",
+      "title": "Cursor design mode 新增 Annotate 功能",
+      "title_en": "New in Cursor design mode: Annotate.",
+      "url": "https://x.com/cursor_ai/status/2115159585548021814",
+      "permalink": "https://aihot.news/items/mb0ybs7gnyw4eeszyjo2optzy",
+      "source": "X：Cursor (@cursor_ai)",
+      "publishedAt": "2026-10-27T19:11:57.000Z",
+      "discoveredAt": "2026-10-27T19:28:44.984Z",
+      "summary": "Cursor 在 design mode 中新增 Annotate 功能，让智能体接受视觉提示。用户可以编辑页面元素、在页面上绘图标注，并在不同屏幕尺寸下审查设计。",
+      "category": "ai-products",
+      "score": 50,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/mb0ybs7gnyw4eeszyjo2optzy"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 9,
+      "editorialScore": 13,
+      "tags": [
+        "视觉",
+        "design",
+        "设计",
+        "智能体"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "qvz2t90iou9qh5bl3j54ontfi",
@@ -379,89 +434,6 @@
         "creative"
       ],
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "ln6h2sdx1o0hw3pe6wkdpt037",
-      "title": "LG AI Research 在 ICML 2026 提出 LOAM：用 LLM 设计强化学习的观测与动作空间",
-      "title_en": "[ICML2026] Observation and action design in reinforcement learning using LLMs",
-      "url": "https://www.lgresearch.ai/blog/view?seq=724",
-      "permalink": "https://aihot.news/items/ln6h2sdx1o0hw3pe6wkdpt037",
-      "source": "LG AI Research：官方研究博客",
-      "publishedAt": "2026-10-25T16:00:00.000Z",
-      "discoveredAt": "2026-10-26T13:53:20.417Z",
-      "summary": "LG AI Research 在 ICML 2026 提出 LOAM，让 LLM 直接设计强化学习中的观测模型与动作模型，而非只设计奖励函数。该方法区分原始环境空间与智能体实际使用的空间，由 LLM 根据任务目标、终止条件、机器人结构及各变量含义生成观测与动作设计。研究源于 LG Chem 大山 NCC 工厂生产排程优化项目，团队发现观测与动作空间设计比奖励函数更困难。",
-      "category": "paper",
-      "score": 45,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ln6h2sdx1o0hw3pe6wkdpt037"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "design",
-        "设计",
-        "智能体"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "iaqpfk7ompgp4gfl1f7mbkjki",
-      "title": "Artificial Analysis 发布 Code2Video-AA：用代码设计视频的模型评测",
-      "title_en": "Code2Video-AA: how well do AI models design videos in code?",
-      "url": "https://artificialanalysis.ai/articles/code2video-aa",
-      "permalink": "https://aihot.news/items/iaqpfk7ompgp4gfl1f7mbkjki",
-      "source": "Artificial Analysis 完整文章（网页）",
-      "publishedAt": "2026-10-25T16:00:00.000Z",
-      "discoveredAt": "2026-10-26T16:31:19.222Z",
-      "summary": "Artificial Analysis 独立实现 HeyGen 的 Code2Video Bench，发布 Code2Video-AA 评测，让模型根据设计简报用 HTML 与 GSAP 编写代码生成短视频并按 Elo 排名。",
-      "category": "ai-models",
-      "score": 53,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/iaqpfk7ompgp4gfl1f7mbkjki"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "design",
-        "设计",
-        "视频"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "vlon0io9lc39blmpl9wawin47",
-      "title": "Claude 桌面应用推出新版界面，从草图到上线用时不到 3 周",
-      "title_en": null,
-      "url": "https://www.ithome.com/1/017/710.htm",
-      "permalink": "https://aihot.news/items/vlon0io9lc39blmpl9wawin47",
-      "source": "IT之家·人工智能",
-      "publishedAt": "2026-10-25T14:33:12.730Z",
-      "discoveredAt": "2026-10-25T15:12:21.237Z",
-      "summary": "Anthropic 设计工程师 Chase McCoy 宣布 Claude 桌面应用已推出全新界面，由 Claude 帮助设计，从草图到正式上线不到 3 周。新版带来全新界面和侧边栏功能，但部分用户认为信息密度较低、摒弃衬线字体和暖色调背景后显得沉闷冰冷，项目面板可读性也受影响。",
-      "category": "ai-products",
-      "score": 39,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/vlon0io9lc39blmpl9wawin47"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "设计",
-        "界面"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "xy6y5id0iwmo575xjya7ai5cu",
@@ -629,33 +601,111 @@
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
-      "id": "he5bxeygbly5kef64gvs1tk6m",
-      "title": "Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频",
-      "title_en": "Check out the creator guides in the comments to get more out of #Kling4. #KlingAI",
-      "url": "https://x.com/Kling_ai/status/2114574035468386746",
-      "permalink": "https://aihot.news/items/he5bxeygbly5kef64gvs1tk6m",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "publishedAt": "2026-10-26T04:25:11.000Z",
-      "discoveredAt": "2026-10-26T04:49:38.059Z",
-      "summary": "Runware 宣布 Kling 4.0 发布首日上线其 API，可生成最长 30 秒的 1080p 视频，并支持原生音频。功能包括多关键帧（首、中、尾帧）、单请求最多 15 个输入（关键帧、参考图、参考视频与元素）以及基于提示词的已有片段编辑。价格自 $0.133 每秒起，未来 7 天常规定价享 15% 折扣；已有用户可将模型 ID 切换为 klingai:kling-video@4.0。Runware API 已有 19 个 Kling 模型，覆盖视频、图像、虚拟人和对口型。Kling AI 官方转发并提醒查看评论区中的创作者指南。",
-      "category": "ai-products",
-      "score": 67,
-      "selected": true,
+      "id": "d5bif7t1eui5glzu2ofyr6hgs",
+      "title": "Google DeepMind 发布交互式世界模型 Genie 4",
+      "title_en": "Very excited to share Genie 4, our incredible interactive world model, bringing together real-time physics, reasoning, and audio! Simulat...",
+      "url": "https://x.com/demishassabis/status/2115232001275924722",
+      "permalink": "https://aihot.news/items/d5bif7t1eui5glzu2ofyr6hgs",
+      "source": "X：Demis Hassabis (@demishassabis)",
+      "publishedAt": "2026-10-27T23:59:42.000Z",
+      "discoveredAt": "2026-10-28T00:04:09.977Z",
+      "summary": "Demis Hassabis 宣布 Genie 4 发布，称其结合实时物理、推理与音频，并暗示“模拟中的模拟”。引用的 @GoogleDeepMind 介绍称 Genie 4 是迄今最逼真、交互性最强的世界模型，可实时探索动态环境，观察场景响应、声音以及其中人物的移动、反应和说话。",
+      "category": "ai-models",
+      "score": 61,
+      "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/he5bxeygbly5kef64gvs1tk6m"
+        "canonical": "https://aihot.news/items/d5bif7t1eui5glzu2ofyr6hgs"
+      },
+      "sourceType": "X",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "zcwqbxbdxlss459ltxq3jnyha",
+      "title": "谷歌 DeepMind 发布世界模型 Genie 4：一句话生成可交互虚拟世界并同步音频",
+      "title_en": "谷歌推出最强世界模型 Genie 4：一句话创造可交互虚拟世界，首次实现音视频同步生成",
+      "url": "https://www.ithome.com/1/018/711.htm",
+      "permalink": "https://aihot.news/items/zcwqbxbdxlss459ltxq3jnyha",
+      "source": "IT之家·人工智能",
+      "publishedAt": "2026-10-27T23:04:49.663Z",
+      "discoveredAt": "2026-10-27T23:55:06.259Z",
+      "summary": "谷歌 DeepMind 于周二推出世界模型 Genie 4，处于研究预览阶段，可生成拟真度更高的可交互虚拟世界，并首次实现与画面同步的实时音频，包括音乐、环境音和可交互对话。",
+      "category": "ai-models",
+      "score": 73,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/zcwqbxbdxlss459ltxq3jnyha"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互",
+        "视频"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "dcbulvmsikxdxio7r2gp6sfig",
+      "title": "Google Beam 助驻外士兵与家人3D视频连线",
+      "title_en": "Amazing to see deployed soldiers share a moment with their kids through Beam. Huge thanks to @USArmy @The_USO for helping to make this po...",
+      "url": "https://x.com/sundarpichai/status/2115138580473647266",
+      "permalink": "https://aihot.news/items/dcbulvmsikxdxio7r2gp6sfig",
+      "source": "X：Sundar Pichai (@sundarpichai)",
+      "publishedAt": "2026-10-27T17:48:29.000Z",
+      "discoveredAt": "2026-10-27T18:05:43.473Z",
+      "summary": "看到驻外士兵通过 Beam 与孩子共享温馨时刻，令人感动。非常感谢 @USArmy @The_USO 促成此事。",
+      "category": "industry",
+      "score": 35,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/dcbulvmsikxdxio7r2gp6sfig"
       },
       "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 8,
-      "editorialScore": 11,
+      "relevanceScore": 7,
+      "editorialScore": 10,
       "tags": [
-        "creator",
         "视频",
-        "图像",
-        "提示词"
+        "3d"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "p9lvo7nzdvuv6aspokwq01iz8",
+      "title": "Google DeepMind 发布 Genie 4 实时世界模型",
+      "title_en": "Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs",
+      "url": "https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/",
+      "permalink": "https://aihot.news/items/p9lvo7nzdvuv6aspokwq01iz8",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-10-27T17:25:09.000Z",
+      "discoveredAt": "2026-10-27T18:06:42.201Z",
+      "summary": "Google DeepMind 推出 Genie 4，Genie 3 的继任者，可逐帧实时模拟交互世界，是其首个直接生成声音的实时世界模型，角色可对话并对用户输入实时反应。",
+      "category": "ai-products",
+      "score": 62,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/p9lvo7nzdvuv6aspokwq01iz8"
+      },
+      "sourceType": "网站",
+      "designCategory": "产品与体验",
+      "relevanceScore": 6,
+      "editorialScore": 10,
+      "tags": [
+        "交互",
+        "agent"
+      ],
+      "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
       "id": "lj7bl8bdnv1au5n31crj3w270",
@@ -956,33 +1006,6 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "r9ntlkvwex13b7itwl0gczzcw",
-      "title": "Google Beam 为驻外军人提供3D视频通话",
-      "title_en": "🇺🇸 For a deployed service member, missing family moments adds up. Baby’s first step. The first performance. Sharing a laugh.",
-      "url": "https://x.com/joshwoodward/status/2114840668296409568",
-      "permalink": "https://aihot.news/items/r9ntlkvwex13b7itwl0gczzcw",
-      "source": "X：Josh Woodward (@joshwoodward, Google Labs VP)",
-      "publishedAt": "2026-10-26T22:04:41.000Z",
-      "discoveredAt": "2026-10-26T22:19:42.052Z",
-      "summary": "🇺🇸 对于一名驻外服役的军人来说，错过家人的时刻会不断累积。宝宝的第一次走路。第一次演出。一起欢笑。\n\n为纪念全国驻军纪念日，我们很高兴与 @USArmy 和 @The_USO 合作，将 Google Beam 带到 20 个地点，让驻外服役的军人能够与亲人体验逼真的 3D 视频连线。\n\n🎥 观看下方纪录片系列",
-      "category": "industry",
-      "score": 37,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/r9ntlkvwex13b7itwl0gczzcw"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "视频",
-        "3d"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
       "id": "tckw64et369c0brghxzwke9qe",
       "title": "Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新",
       "title_en": "What’s new in Gamma | September–October 2026",
@@ -1008,35 +1031,6 @@
         "智能体"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "wp082sy2j9wy7via85u3tpzyi",
-      "title": "OpenAI 宣布 GPT-6.1 Terra 开放至 API 与 Codex",
-      "title_en": "GPT-6.1 Terra is also coming to the API and Codex.",
-      "url": "https://x.com/OpenAIDevs/status/2114780986613682473",
-      "permalink": "https://aihot.news/items/wp082sy2j9wy7via85u3tpzyi",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "publishedAt": "2026-10-26T18:07:32.000Z",
-      "discoveredAt": "2026-10-26T18:17:23.698Z",
-      "summary": "OpenAI 宣布 GPT-6.1 Terra 也将登陆 API 和 Codex。开发者可用 Terra 构建能解读图像、操作软件并执行动作的应用和智能体，主打更低成本下的快速 computer use，适合高并发工作流。引用的官方介绍称 Terra 能理解屏幕内容、跨应用操作并自然书写。",
-      "category": "ai-products",
-      "score": 69,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/wp082sy2j9wy7via85u3tpzyi"
-      },
-      "sourceType": "X",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 9,
-      "editorialScore": 10,
-      "tags": [
-        "工作流",
-        "图像",
-        "codex",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "z7h3xpbyfp9laquaq2njijzfo",
@@ -1068,138 +1062,56 @@
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
-      "id": "b66xwctyto3yubk2iw06c4bl1",
-      "title": "腾讯元宝全面适配折叠屏 iPhone Duo",
-      "title_en": "元宝已全面适配 iPhone Duo",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NzY4MjM5MA%3D%3D&mid=2247528454&idx=1&sn=30fa76a96b8a4ae5a028cc27051bef5b",
-      "permalink": "https://aihot.news/items/b66xwctyto3yubk2iw06c4bl1",
-      "source": "公众号：腾讯元宝",
-      "publishedAt": "2026-10-26T11:20:24.000Z",
-      "discoveredAt": "2026-10-26T11:28:15.216Z",
-      "summary": "腾讯元宝宣布已全面适配苹果首款折叠屏 iPhone Duo，并演示了展开、合上、半折三种形态下的用法。展开大屏可左侧提需求、右侧出结果，完成 AI 生图、写方案和改文案；合上后支持识图、拍题、翻译和陪聊，半折立起时可连续滑动查看长答案。用户可在应用市场安装「元宝」体验。",
-      "category": "ai-products",
-      "score": 27,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/b66xwctyto3yubk2iw06c4bl1"
-      },
-      "sourceType": "公众号",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "生图"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "vtd0ywrb3suyozq7y7rotxe58",
-      "title": "字节跳动即梦短剧工作室上线，提供自研剧本、图片、分镜模型",
-      "title_en": "字节跳动旗下即梦 AI 短剧工作室上线，提供自研剧本、图片、分镜模型",
-      "url": "https://www.ithome.com/1/018/013.htm",
-      "permalink": "https://aihot.news/items/vtd0ywrb3suyozq7y7rotxe58",
-      "source": "IT之家·人工智能",
-      "publishedAt": "2026-10-26T09:12:03.660Z",
-      "discoveredAt": "2026-10-26T11:12:34.254Z",
-      "summary": "字节跳动旗下即梦 AI 于 10 月 26 日宣布即梦短剧工作室正式上线，提供自研剧本模型 DreamScript、图片模型 Anycook 和分镜模型 DreamShot。",
-      "category": "ai-products",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/vtd0ywrb3suyozq7y7rotxe58"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
-      "tags": [
-        "即梦"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "vf8tti8hcnj6wq6n7yggrw275",
-      "title": "6条提示语去掉DeepSeek生成页面的AI味",
-      "title_en": "分享6个新提示语去掉DeepSeek新模型的AI味",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247512456&idx=1&sn=f133a530ea894a1d9725eb0582b4d632",
-      "permalink": "https://aihot.news/items/vf8tti8hcnj6wq6n7yggrw275",
-      "source": "公众号：卡尔的AI沃茨",
-      "publishedAt": "2026-10-26T05:55:00.000Z",
-      "discoveredAt": "2026-10-26T06:08:30.367Z",
-      "summary": "作者分享用 DeepSeek 做类 Claude Opus 5.5 代码动画时总结的六条提示语，分别应对删重复文案、去掉多余重点框、指定颜色用途、统一字号对齐、一屏只讲一件事和动画动效设计问题。作者还预告正在做的大剪辑 Skill，已能用 DeepSeek 剪出十分钟真人口播，配上二十份案例视频和操作录屏，本周整理出来。",
-      "category": "tip",
+      "id": "l9giigl76ejhatl21j8rikcwh",
+      "title": "Liquid AI 发布 LFM3：6 个开源权重 2B 级多模态模型",
+      "title_en": "Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models",
+      "url": "https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/",
+      "permalink": "https://aihot.news/items/l9giigl76ejhatl21j8rikcwh",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-10-27T21:08:02.000Z",
+      "discoveredAt": "2026-10-27T22:02:07.301Z",
+      "summary": "Liquid AI 发布 LFM3 系列共 6 个开源权重 2B 级模型，基于同一 tri-hybrid 骨干覆盖文本、视觉、音频、omni 和决策任务。",
+      "category": "ai-models",
       "score": 70,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/vf8tti8hcnj6wq6n7yggrw275"
-      },
-      "sourceType": "公众号",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "设计",
-        "视频",
-        "skill"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "nojc5gb2aeiis5lxk0fp5q8p6",
-      "title": "GHARP：基于大规模重建先验的实时高斯头部动画",
-      "title_en": "GHARP: Real-Time Gaussian Head Animation from Large-Scale Reconstruction Prior",
-      "url": "https://machinelearning.apple.com/research/gharp-head-animation",
-      "permalink": "https://aihot.news/items/nojc5gb2aeiis5lxk0fp5q8p6",
-      "source": "Apple Machine Learning Research（RSS）",
-      "publishedAt": "2026-10-26T00:00:00.000Z",
-      "discoveredAt": "2026-10-26T20:44:33.849Z",
-      "summary": "Apple 研究团队提出 GHARP，可从少量输入图像和驱动表情信号实时驱动 3D 人头动画。该方法将问题拆为离线构建身份几何与外观表示、运行时用轻量网络预测表情相关残差两阶段，并加入身体对齐网络消除身体姿态与衣物位置带来的歧义。在 Ava-256 基准上达到 SOTA 质量，在 A100 GPU 上运行速度最高提升 13×，高斯数量减少 8×。",
-      "category": "paper",
-      "score": 42,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/nojc5gb2aeiis5lxk0fp5q8p6"
+        "canonical": "https://aihot.news/items/l9giigl76ejhatl21j8rikcwh"
       },
       "sourceType": "网站",
       "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
+      "relevanceScore": 6,
+      "editorialScore": 9,
       "tags": [
-        "图像",
-        "3d"
+        "视觉"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "hmfes3kcn6ydgqip9oieoocb4",
-      "title": "国内首部 AI 全流程院线长片《三星堆：未来往事》票房达 116.2 万",
-      "title_en": "国内首部 AI 院线长片《三星堆：未来往事》，票房过百万",
-      "url": "https://www.ithome.com/1/017/719.htm",
-      "permalink": "https://aihot.news/items/hmfes3kcn6ydgqip9oieoocb4",
-      "source": "IT之家·人工智能",
-      "publishedAt": "2026-10-25T15:36:55.967Z",
-      "discoveredAt": "2026-10-25T16:08:22.580Z",
-      "summary": "猫眼专业版数据显示，AI 全流程院线长片《三星堆：未来往事》票房达 116.2 万，该片是国内首部获国家电影局公映许可证的 AI 院线长片，10 月 23 日上映，片长 100 分钟，角色均为原创数字形象。全片依托博纳自研的“博卡电影云片场”制作，历时两年产出 120 余万张底图，AI 承担生成与执行，创意构思、剧本和镜头设计由博纳 AIGMS 团队完成，团队设 17 个专业分工、参与人员近百人。",
-      "category": "industry",
-      "score": 68,
+      "id": "el7clqvijfyiipyzc1dodaz4e",
+      "title": "Liquid AI 发布 LFM3 系列：一个 1.7B 底座衍生六个 2B 级多模态模型",
+      "title_en": "Build specialized multimodal models with LFM3",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "permalink": "https://aihot.news/items/el7clqvijfyiipyzc1dodaz4e",
+      "source": "Hugging Face 社区博客（混合发现）",
+      "publishedAt": "2026-10-27T17:16:52.000Z",
+      "discoveredAt": "2026-10-27T18:12:41.214Z",
+      "summary": "Liquid AI 在 Hugging Face 发布 LFM3 系列，以 LFM3-1.7B-Base 为共享底座，提供文本、视觉、音频、全模态和决策共六个 2B 级模型，均开放权重。",
+      "category": "ai-models",
+      "score": 69,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/hmfes3kcn6ydgqip9oieoocb4"
+        "canonical": "https://aihot.news/items/el7clqvijfyiipyzc1dodaz4e"
       },
       "sourceType": "网站",
-      "designCategory": "产品与体验",
+      "designCategory": "图像与视频",
       "relevanceScore": 6,
-      "editorialScore": 10,
+      "editorialScore": 9,
       "tags": [
-        "设计",
-        "创意"
+        "视觉"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "xnq4fkon2nhoovkbyvcuy6v3n",
@@ -1335,57 +1247,31 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "mjfzge6m2auwy7zy1kgaeqv0z",
-      "title": "Toyota 每年投入 64 亿美元布局人形机器人与工厂自动化",
-      "title_en": "Toyota is betting $6.4 billion a year on humanoid robots and factory automation",
-      "url": "https://the-decoder.com/toyota-is-betting-6-4-billion-a-year-on-humanoid-robots-and-factory-automation/",
-      "permalink": "https://aihot.news/items/mjfzge6m2auwy7zy1kgaeqv0z",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-10-26T09:18:15.000Z",
-      "discoveredAt": "2026-10-26T11:37:42.625Z",
-      "summary": "据 Financial Times 报道，Toyota 计划每年投入 64 亿美元，部署 40 万台机器人，向全球机器人公司转型。",
-      "category": "industry",
-      "score": 63,
+      "id": "j60102o9pu57thqp1pjsq6xmp",
+      "title": "Browser Use 团队讲解如何在云端规模化运行浏览器自动化",
+      "title_en": "How to Run Browser Automation at Scale in the Cloud (2026)",
+      "url": "https://browser-use.com/posts/run-browser-automation-at-scale",
+      "permalink": "https://aihot.news/items/j60102o9pu57thqp1pjsq6xmp",
+      "source": "Browser Use",
+      "publishedAt": "2026-10-27T00:00:00.000Z",
+      "discoveredAt": "2026-10-28T00:40:07.841Z",
+      "summary": "Browser Use 团队讲解云端规模化浏览器自动化做法：任务进队列，每个任务用独立远程浏览器经 CDP 由 Playwright 或 Puppeteer 驱动，并发按套餐上限封顶，用保存的 profile 复用登录，仅在站点拦截时加代理，带退避重试并在 finally 中停止浏览器。",
+      "category": "tip",
+      "score": 57,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/mjfzge6m2auwy7zy1kgaeqv0z"
+        "canonical": "https://aihot.news/items/j60102o9pu57thqp1pjsq6xmp"
       },
       "sourceType": "网站",
       "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
+      "relevanceScore": 7,
+      "editorialScore": 8,
       "tags": [
         "自动化",
         "automation"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "zogr3l33craxfj4s296npqpqc",
-      "title": "OpenAI 发布 GPT-6.1 Terra，主打高效计算机操作与更低成本",
-      "title_en": "Introducing GPT-6.1 Terra",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-      "permalink": "https://aihot.news/items/zogr3l33craxfj4s296npqpqc",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-10-26T00:00:00.000Z",
-      "discoveredAt": "2026-10-26T18:49:39.400Z",
-      "summary": "OpenAI 发布 GPT-6.1 Terra，定位快速高效的计算机使用与视觉推理模型，标准 API 定价比 GPT-5.6 Terra 和 GPT-6.1 Sol 低 50%，为每百万输入 token $1、缓存输入 $0.05、输出 $5。",
-      "category": "ai-models",
-      "score": 86,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/zogr3l33craxfj4s296npqpqc"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "视觉"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "h6rsobbmnxjkeqytqpdskjxu5",
@@ -1501,33 +1387,6 @@
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
-      "id": "th8udrbnenvmt1x4behufc0gb",
-      "title": "猫王音乐版权方起诉 Anthropic，指控其未经授权用 274 首歌曲训练 AI 模型",
-      "title_en": null,
-      "url": "https://www.ithome.com/1/017/731.htm",
-      "permalink": "https://aihot.news/items/th8udrbnenvmt1x4behufc0gb",
-      "source": "IT之家·人工智能",
-      "publishedAt": "2026-10-25T23:53:33.590Z",
-      "discoveredAt": "2026-10-26T00:04:18.581Z",
-      "summary": "猫王音乐版权持有方正宗品牌集团（Authentic Brands Group）起诉 Anthropic，指控其未经许可使用猫王的 274 首歌曲训练 AI 模型，诉讼于当地时间上周五提交法院。",
-      "category": "industry",
-      "score": 69,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/th8udrbnenvmt1x4behufc0gb"
-      },
-      "sourceType": "网站",
-      "designCategory": "行业观察",
-      "relevanceScore": 8,
-      "editorialScore": 8,
-      "tags": [
-        "版权",
-        "品牌"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
       "id": "hag5sshxjdw1b4ukjvj6ugr2m",
       "title": "当 Agent 写代码时你还需要懂什么：基本功、广度与按需深潜",
       "title_en": "Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?",
@@ -1578,34 +1437,6 @@
       "editorialScore": 6,
       "tags": [
         "广告"
-      ],
-      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
-    },
-    {
-      "id": "xqt0qm7biq1jkvl8s8u494n58",
-      "title": "手把手教你用 Agent 逆向改造电视、补光灯等现实设备",
-      "title_en": "手把手教你用AI逆向现实世界，把一切改成自己喜欢的样子。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687805&idx=1&sn=0f08cbd84fec963afc0236cb390483fd",
-      "permalink": "https://aihot.news/items/xqt0qm7biq1jkvl8s8u494n58",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-10-26T00:44:41.000Z",
-      "discoveredAt": "2026-10-26T00:54:16.437Z",
-      "summary": "作者用 Codex 和 Claude 逆向改造了办公室电视、补光灯和索尼、DJI Pocket 3 相机等设备，通过 ADB 调试清除开机广告、重做简洁桌面，并开发了统一灯光控制台和多机位控制台。文章给出完整操作步骤，提醒修改系统软件前先备份，并认为 Agent 正在降低普通人改造硬件设备的门槛。",
-      "category": "tip",
-      "score": 63,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/xqt0qm7biq1jkvl8s8u494n58"
-      },
-      "sourceType": "公众号",
-      "designCategory": "行业观察",
-      "relevanceScore": 6,
-      "editorialScore": 6,
-      "tags": [
-        "广告",
-        "codex",
-        "agent"
       ],
       "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     }
