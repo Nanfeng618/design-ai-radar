@@ -1,47 +1,19 @@
 {
-  "generatedAt": "2026-10-29T05:48:11.876Z",
-  "previousGeneratedAt": "2026-10-28T12:54:54.673Z",
+  "generatedAt": "2026-10-29T13:00:47.954Z",
+  "previousGeneratedAt": "2026-10-29T05:48:11.876Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 50,
+  "itemCount": 54,
   "sourceCounts": {
     "X": 24,
-    "网站": 22,
-    "公众号": 4
+    "网站": 24,
+    "公众号": 6
   },
   "source": {
     "name": "AI HOT",
     "url": "https://aihot.virxact.com"
   },
   "items": [
-    {
-      "id": "j2xmi9e90dywhmnhd3wydoen0",
-      "title": "Mustafa Suleyman 宣布 MAI-Image 升至全球图像编辑模型第二",
-      "title_en": "MAI-Image is now the #2 image edit model in the world!",
-      "url": "https://x.com/mustafasuleyman/status/2115099284224008200",
-      "permalink": "https://aihot.news/items/j2xmi9e90dywhmnhd3wydoen0",
-      "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
-      "publishedAt": "2026-10-27T15:12:20.000Z",
-      "discoveredAt": "2026-10-27T15:25:46.410Z",
-      "summary": "Microsoft AI CEO Mustafa Suleyman 宣布 MAI-Image 现居全球图像编辑模型第二，称再次超越 Google、Meta、xAI 和 GPT-Image-2.5-Flare，可在 MAI Playground 试用。引用的 Artificial Analysis 分析称 MAI-Image-2.7-Preview 在 AA-Image-Editing v2.1 榜单排名第二，7 项编辑动作全面高于 MAI-Image-2.6，其中 4 项排名第一，最大提升为 Composition & Framing（+57 Elo），目前仅支持图像编辑，文生图功能即将推出。",
-      "category": "ai-models",
-      "score": 57,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/j2xmi9e90dywhmnhd3wydoen0"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 17,
-      "editorialScore": 20,
-      "tags": [
-        "文生图",
-        "生图",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
     {
       "id": "ofj5qnu15orwqihdk3sozdgfb",
       "title": "Cursor design mode 推出 Annotate 标注功能",
@@ -126,6 +98,33 @@
         "智能体"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
+    },
+    {
+      "id": "x1rn3gk9jcmax8fsosufx0j9q",
+      "title": "IDC：2026H1 中国 MaaS 市场规模达 106.3 亿元，火山引擎以 45.1% 份额居首",
+      "title_en": "上半年中国MaaS营收破百亿，火山引擎45%份额中国第一",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247545546&idx=1&sn=14c4f3ef7f84775baa98f2a3c8172e15",
+      "permalink": "https://aihot.news/items/x1rn3gk9jcmax8fsosufx0j9q",
+      "source": "公众号：火山引擎",
+      "publishedAt": "2026-10-29T08:07:56.000Z",
+      "discoveredAt": "2026-10-29T08:17:54.571Z",
+      "summary": "IDC 报告显示 2026H1 中国 MaaS 市场规模达 106.3 亿元，火山引擎以 45.1% 份额位居第一，市场营收同比增长近 9 倍。大语言模型占整体规模的 47.0%，视频生成模型收入贡献 32.7%，其他模态占 20.2%。",
+      "category": "industry",
+      "score": 56,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/x1rn3gk9jcmax8fsosufx0j9q"
+      },
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
+      "relevanceScore": 11,
+      "editorialScore": 14,
+      "tags": [
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "ul4ank5f3e6vfjbta04u18oac",
@@ -463,6 +462,34 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
+      "id": "vu2l0snxiv14i2y0a22s2vdt3",
+      "title": "n8n 自动化团队负责人谈如何走出服务台模式",
+      "title_en": "Why We're Moving n8n's Automation Team Beyond the Service Desk Model",
+      "url": "https://blog.n8n.io/why-were-moving-n8ns-automation-team-beyond-the-service-desk-model/",
+      "permalink": "https://aihot.news/items/vu2l0snxiv14i2y0a22s2vdt3",
+      "source": "n8n Blog",
+      "publishedAt": "2026-10-29T07:10:00.000Z",
+      "discoveredAt": "2026-10-29T08:01:38.480Z",
+      "summary": "n8n 内部 AI 与自动化负责人 Romina da Costa 撰文分析集中式自动化团队服务台模式的天花板，称公司已有超过 12,000 条内部工作流，任何团队都无法包揽构建与维护。她的团队转向赋能文化，提出四条原则：培养各团队的构建能力、立项前先摸清现状基线、按问题而非惯性选工具、让每个工作流有归属和文档，目标是让更多团队不再依赖他们。",
+      "category": "opinion",
+      "score": 56,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/vu2l0snxiv14i2y0a22s2vdt3"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 11,
+      "editorialScore": 12,
+      "tags": [
+        "工作流",
+        "自动化",
+        "automation"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "zifluc07ejp2rmy2khpmc8eao",
       "title": "Addy Osmani 谈 Anthropic 团队取消编程面试：饥饿胜过资历",
       "title_en": "\"Hunger beats tenure.\"",
@@ -541,6 +568,32 @@
         "图像"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "pinsxwr2y0d5r366fy19lcgel",
+      "title": "Amp 支持在对话线程内直接生成图表、时间线与可点击原型",
+      "title_en": "Visualize This",
+      "url": "https://ampcode.com/news/visualize-this",
+      "permalink": "https://aihot.news/items/pinsxwr2y0d5r366fy19lcgel",
+      "source": "Amp Chronicle",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "discoveredAt": "2026-10-29T12:05:15.820Z",
+      "summary": "Amp 现在可以在对话线程中直接为用户可视化或构建内容，包括图表、时间线、示意图和可点击的 mockup。官方展示了真实线程中的示例，例如 Amp 绘制的上月提交图表，以及 Quinn 提出的十六种 diff stat 按钮方案。",
+      "category": "ai-products",
+      "score": 48,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/pinsxwr2y0d5r366fy19lcgel"
+      },
+      "sourceType": "网站",
+      "designCategory": "设计工具",
+      "relevanceScore": 6,
+      "editorialScore": 11,
+      "tags": [
+        "原型"
+      ],
+      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "zy8fp8oyiicjh345xtaxt1tyr",
@@ -1082,82 +1135,85 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "y1arecfli51l4at7wvi3p8bge",
-      "title": "Google DeepMind 发布 Genie 4 世界模型",
-      "title_en": "This is Genie 4, our most realistic and interactive world model yet. 🌐",
-      "url": "https://x.com/GoogleDeepMind/status/2115114028338962672",
-      "permalink": "https://aihot.news/items/y1arecfli51l4at7wvi3p8bge",
-      "source": "X：Google DeepMind (@GoogleDeepMind)",
-      "publishedAt": "2026-10-27T16:10:55.000Z",
-      "discoveredAt": "2026-10-27T16:22:43.956Z",
-      "summary": "Google DeepMind 发布 Genie 4，称其为迄今最逼真、交互性最强的世界模型。用户可实时探索动态环境，观察场景如何响应与发声，以及场景中人物如何移动、反应和说话。",
-      "category": "ai-models",
-      "score": 60,
+      "id": "os78kn9m267wc88vl8se8y2pp",
+      "title": "可灵 4.0 动作序列新合集",
+      "title_en": "The rhythm of a fight. The force of a movement. The precision of a shot.",
+      "url": "https://x.com/Kling_ai/status/2115783207626891468",
+      "permalink": "https://aihot.news/items/os78kn9m267wc88vl8se8y2pp",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-10-29T12:30:00.000Z",
+      "discoveredAt": "2026-10-29T12:39:16.516Z",
+      "summary": "打斗的节奏。动作的力量。镜头的精准。\n探索用可灵 4.0 打造的全新动作序列合集。",
+      "category": "ai-products",
+      "score": 26,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/y1arecfli51l4at7wvi3p8bge"
+        "canonical": "https://aihot.news/items/os78kn9m267wc88vl8se8y2pp"
       },
       "sourceType": "X",
-      "designCategory": "产品与体验",
+      "designCategory": "图像与视频",
       "relevanceScore": 6,
-      "editorialScore": 10,
+      "editorialScore": 9,
       "tags": [
-        "交互"
+        "可灵"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "l74eacnb38ytvm5hm8om7h7cs",
-      "title": "Google DeepMind 发布实时交互世界模型 Genie 4",
-      "title_en": "Genie 4: A new generation of world simulation",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "permalink": "https://aihot.news/items/l74eacnb38ytvm5hm8om7h7cs",
-      "source": "Google DeepMind：Blog（RSS）",
-      "publishedAt": "2026-10-27T16:01:38.000Z",
-      "discoveredAt": "2026-10-27T16:09:41.747Z",
-      "summary": "Google DeepMind 发布世界模型 Genie 4，主打实时交互模拟、更强照片级真实感，并首次在实时世界模型中原生生成音频，包括环境声和可实时交互的人物对话。",
-      "category": "ai-models",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/l74eacnb38ytvm5hm8om7h7cs"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 6,
-      "editorialScore": 10,
-      "tags": [
-        "交互"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "qoz4pwew5rsp1idirgbhtpj9d",
-      "title": "Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR",
-      "title_en": "Anyone can now bring their ideas into the company codebase",
-      "url": "https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase",
-      "permalink": "https://aihot.news/items/qoz4pwew5rsp1idirgbhtpj9d",
-      "source": "Replit：Blog（RSS）",
-      "publishedAt": "2026-10-27T15:30:00.000Z",
-      "discoveredAt": "2026-10-27T16:03:42.678Z",
-      "summary": "Replit 推出 Cloud Agents，面向 Pro 与 Enterprise 客户开放，让设计、客服等非工程人员用自然语言向公司核心代码库提交经测试的 pull request。",
+      "id": "opnc1cklb36fwmn9bp2i0d8b4",
+      "title": "可灵AI 开放 Kling 4.0 API，多家创作平台接入使用",
+      "title_en": "不止是模型升级：Kling 4.0 API ，帮更多平台长出新能力",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5NTkwNDU2OA%3D%3D&mid=2247497304&idx=1&sn=ab79528b22dc06737021dd9d5628fc0a",
+      "permalink": "https://aihot.news/items/opnc1cklb36fwmn9bp2i0d8b4",
+      "source": "公众号：可灵AI（快手·视频）",
+      "publishedAt": "2026-10-29T11:40:19.000Z",
+      "discoveredAt": "2026-10-29T11:44:52.395Z",
+      "summary": "可灵AI 于10月28日正式向全球企业客户与开发者开放 Kling 4.0 API，此前 Kling 4.0 已于10月15日全面上线。",
       "category": "ai-products",
-      "score": 68,
-      "selected": true,
+      "score": 51,
+      "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/qoz4pwew5rsp1idirgbhtpj9d"
+        "canonical": "https://aihot.news/items/opnc1cklb36fwmn9bp2i0d8b4"
       },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
       "relevanceScore": 6,
-      "editorialScore": 10,
+      "editorialScore": 9,
       "tags": [
-        "设计"
+        "可灵"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "bbg9w3qk8bqx17b3qr92lr6dq",
+      "title": "WorkBuddy 智能体万圣节整活",
+      "title_en": "A prompt in, a spooky feast out. That's the Agent life 🎃 Happy early Halloween, and thanks for sharing this one.",
+      "url": "https://x.com/WorkBuddy_AI/status/2115706831247175823",
+      "permalink": "https://aihot.news/items/bbg9w3qk8bqx17b3qr92lr6dq",
+      "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+      "publishedAt": "2026-10-29T07:26:31.000Z",
+      "discoveredAt": "2026-10-29T07:38:48.284Z",
+      "summary": "输入一句提示词，端出一桌阴森盛宴。这就是智能体的日常🎃 万圣节提前快乐，感谢分享这条。",
+      "category": null,
+      "score": 18,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/bbg9w3qk8bqx17b3qr92lr6dq"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 8,
+      "editorialScore": 9,
+      "tags": [
+        "提示词",
+        "prompt",
+        "agent",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
       "id": "ehl7p8usav1dtd6mjx0lgluxo",
@@ -1268,6 +1324,34 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
+      "id": "lnlic19kj4v0cnxxl4fi9l5hn",
+      "title": "Infini-AI-Lab 开源 Hermit harness 适配器框架，可不动模型和 harness 适配 Codex、Claude Code 等智能体",
+      "title_en": "Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI Agents",
+      "url": "https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/",
+      "permalink": "https://aihot.news/items/lnlic19kj4v0cnxxl4fi9l5hn",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-10-29T08:24:52.000Z",
+      "discoveredAt": "2026-10-29T08:30:41.633Z",
+      "summary": "Infini-AI-Lab 发布开源 harness 适配器框架 Hermit（v0.1.0，Apache-2.0），在模型和 harness 均冻结的情况下训练外部适配器，用 RL 式训练循环迭代适配器版本，可部署到 Codex、Claude Code 或 Pi 并导出为插件。",
+      "category": "ai-products",
+      "score": 64,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/lnlic19kj4v0cnxxl4fi9l5hn"
+      },
+      "sourceType": "网站",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 7,
+      "editorialScore": 8,
+      "tags": [
+        "codex",
+        "claude code",
+        "智能体"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
       "id": "q5d7uqnj2d49ef18b981bh0ce",
       "title": "Google 开放 Android 开发环境给第三方 AI 智能体，发布新 Gemini API 和 XREAL AURA 眼镜",
       "title_en": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
@@ -1321,6 +1405,32 @@
         "agent"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "wry19y87ktlbmfwu581jjffj7",
+      "title": "Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务",
+      "title_en": "Google's AI search problem finally shows up in the earnings report, some investors believe",
+      "url": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe/",
+      "permalink": "https://aihot.news/items/wry19y87ktlbmfwu581jjffj7",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-10-29T10:16:34.000Z",
+      "discoveredAt": "2026-10-29T10:34:14.765Z",
+      "summary": "Google 三季度搜索收入增长约 12%，低于分析师预期的 15%，市值一度缩水最多 10%。高管 Philipp Schindler 承认 AI mode 查询的强劲增长因变现率较低产生了影响，同时公司称搜索查询年增速达五年来最高，并计划在美国及国际市场扩大聊天机器人广告项目。",
+      "category": "industry",
+      "score": 80,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/wry19y87ktlbmfwu581jjffj7"
+      },
+      "sourceType": "网站",
+      "designCategory": "行业观察",
+      "relevanceScore": 6,
+      "editorialScore": 6,
+      "tags": [
+        "广告"
+      ],
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "jd3veqivxbdvdcjfbnigfwtwt",
