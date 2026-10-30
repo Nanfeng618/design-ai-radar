@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-30T05:49:16.018Z",
-  "previousGeneratedAt": "2026-10-29T13:00:47.954Z",
+  "generatedAt": "2026-10-30T12:55:41.085Z",
+  "previousGeneratedAt": "2026-10-30T05:49:16.018Z",
   "sourceWindowDays": 7,
   "sourceCount": 500,
-  "itemCount": 52,
+  "itemCount": 49,
   "sourceCounts": {
-    "网站": 24,
-    "X": 24,
-    "公众号": 4
+    "网站": 19,
+    "公众号": 6,
+    "X": 24
   },
   "source": {
     "name": "AI HOT",
@@ -42,6 +42,118 @@
         "设计"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
+    },
+    {
+      "id": "opnc1cklb36fwmn9bp2i0d8b4",
+      "title": "可灵AI 开放 Kling 4.0 API，接入多个 AI 创作平台",
+      "title_en": "不止是模型升级：Kling 4.0 API ，帮更多平台长出新能力",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5NTkwNDU2OA%3D%3D&mid=2247497304&idx=1&sn=ab79528b22dc06737021dd9d5628fc0a",
+      "permalink": "https://aihot.news/items/opnc1cklb36fwmn9bp2i0d8b4",
+      "source": "公众号：可灵AI（快手·视频）",
+      "publishedAt": "2026-10-29T11:40:19.000Z",
+      "discoveredAt": "2026-10-29T11:44:52.395Z",
+      "summary": "可灵AI 于10月28日正式面向全球企业客户与开发者开放 Kling 4.0 API，使其视频生成能力可接入 AI 创作工具、Agent 智能体和企业级工作流。",
+      "category": "ai-products",
+      "score": 57,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/opnc1cklb36fwmn9bp2i0d8b4"
+      },
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
+      "relevanceScore": 16,
+      "editorialScore": 19,
+      "tags": [
+        "视频生成",
+        "可灵",
+        "工作流",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "chbsls3e5lmeuoc5yv287vdax",
+      "title": "Tripo Agentic Canvas 自动化 3D 工作流指南",
+      "title_en": "A quick step-by-step guide to automating your 3D workflow with Tripo Agentic Canvas. ↓",
+      "url": "https://x.com/tripoai/status/2116046747135000854",
+      "permalink": "https://aihot.news/items/chbsls3e5lmeuoc5yv287vdax",
+      "source": "Tripo（官方 X）",
+      "publishedAt": "2026-10-30T05:57:13.000Z",
+      "discoveredAt": "2026-10-30T06:18:20.554Z",
+      "summary": "一份用 Tripo Agentic Canvas 自动化 3D 工作流的快速分步指南。↓\n\n1. 描述你的想法\n\n告诉 Agent 你想做什么。从文本提示词、参考图像或现有 3D 模型开始，把它放进 Agent 聊天中，它就会规划工作流。",
+      "category": "tip",
+      "score": 45,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/chbsls3e5lmeuoc5yv287vdax"
+      },
+      "sourceType": "X",
+      "designCategory": "工作流与 Agent",
+      "relevanceScore": 16,
+      "editorialScore": 17,
+      "tags": [
+        "工作流",
+        "workflow",
+        "图像",
+        "3d"
+      ],
+      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+    },
+    {
+      "id": "pvitsmt9wz19dmre74n4ljeug",
+      "title": "蚂蚁 inclusionAI 开源 IDM：无需外部编码器的一步/少步文生图蒸馏方法",
+      "title_en": "inclusionAI/IDM",
+      "url": "https://github.com/inclusionAI/IDM",
+      "permalink": "https://aihot.news/items/pvitsmt9wz19dmre74n4ljeug",
+      "source": "蚂蚁 inclusionAI：GitHub 新仓库",
+      "publishedAt": "2026-10-29T11:13:43.000Z",
+      "discoveredAt": "2026-10-30T06:57:17.381Z",
+      "summary": "蚂蚁 inclusionAI 提出 IDM，将内部 DMD 蒸馏与生成器自身 EMA 特征空间的矩匹配结合，无需外部特征编码器，同一 checkpoint 支持 1-NFE 和 2-NFE 采样。",
+      "category": "paper",
+      "score": 45,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/pvitsmt9wz19dmre74n4ljeug"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 14,
+      "editorialScore": 17,
+      "tags": [
+        "文生图",
+        "生图"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "yyk4cw8yrgbbbgssq3ds6d9lw",
+      "title": "中国一半 AI token 都在做爽剧？GovAI 研究员拆解 55% 说法与有用性焦虑",
+      "title_en": "Is Half of China’s AI Making Slop?",
+      "url": "https://www.chinatalk.media/p/is-half-of-chinas-ai-making-slop",
+      "permalink": "https://aihot.news/items/yyk4cw8yrgbbbgssq3ds6d9lw",
+      "source": "ChinaTalk（RSS）",
+      "publishedAt": "2026-10-30T10:04:01.000Z",
+      "discoveredAt": "2026-10-30T10:52:19.664Z",
+      "summary": "GovAI 研究员 Zilan Qian 撰文分析「55% 中国 AI token 用于短剧和视频生成」这一病毒式说法，其源头是中文在线 6 月 3 日投资者电话会议，CAICT 报告已从官网下架。",
+      "category": "opinion",
+      "score": 67,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/yyk4cw8yrgbbbgssq3ds6d9lw"
+      },
+      "sourceType": "网站",
+      "designCategory": "图像与视频",
+      "relevanceScore": 12,
+      "editorialScore": 15,
+      "tags": [
+        "视频生成",
+        "视频"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "z9kqlhsgiz11fvlk3aodm6seg",
@@ -127,61 +239,31 @@
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
     },
     {
-      "id": "wykbrcxndw1zv255b9y2usj7v",
-      "title": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
-      "title_en": "MOSS-Image：让开放模型真正理解文字与版式",
-      "url": "https://openmoss.ai/blog/cn/moss-image/",
-      "permalink": "https://aihot.news/items/wykbrcxndw1zv255b9y2usj7v",
-      "source": "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）",
-      "publishedAt": "2026-10-28T16:00:00.000Z",
-      "discoveredAt": "2026-10-29T02:05:30.449Z",
-      "summary": "OpenMOSS 发布开放权重图像生成模型 MOSS-Image，采用 5B 参数单流 DiT 从零预训练，支持最长 4K token 提示词、中英文长文本渲染和可编辑的 JSON Layout。",
-      "category": "ai-models",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/wykbrcxndw1zv255b9y2usj7v"
-      },
-      "sourceType": "网站",
-      "designCategory": "图像与视频",
-      "relevanceScore": 12,
-      "editorialScore": 15,
-      "tags": [
-        "图像生成",
-        "图像",
-        "提示词"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "wygbthk0xrrq7ekjpe9vyubio",
-      "title": "Google A2UI 搭配 CopilotKit 构建 Generative UI 应用教程",
-      "title_en": "Build Generative UI Apps with A2UI & CopilotKit Agents",
-      "url": "https://developers.googleblog.com/build-generative-ui-apps-with-a2ui-copilotkit-agents/",
-      "permalink": "https://aihot.news/items/wygbthk0xrrq7ekjpe9vyubio",
-      "source": "Google Developers Blog（RSS）",
-      "publishedAt": "2026-10-28T16:00:00.000Z",
-      "discoveredAt": "2026-10-29T19:18:36.015Z",
-      "summary": "Google Developers Blog 讲解如何用 A2UI（Agent-to-UI）与 CopilotKit 构建生成式 UI 应用：A2UI 是框架无关的开放标准，智能体以声明式 JSON 描述界面，由客户端已有组件渲染。",
-      "category": "tip",
-      "score": 60,
+      "id": "vesb7rfy5y8pycu7ew6x1ehfv",
+      "title": "生数科技与腾讯云达成战略合作，Vidu 全系模型入驻 TokenHub",
+      "title_en": "生数科技与腾讯云达成战略合作，共筑AI视频产业新生态",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489459&idx=1&sn=4a33dda84ed833e7672822d2d3ce81ed",
+      "permalink": "https://aihot.news/items/vesb7rfy5y8pycu7ew6x1ehfv",
+      "source": "公众号：生数科技（Vidu·视频）",
+      "publishedAt": "2026-10-30T08:49:55.000Z",
+      "discoveredAt": "2026-10-30T08:52:00.104Z",
+      "summary": "生数科技与腾讯云在腾讯全球数字生态大会上签署战略合作协议，围绕视频生成大模型、云基础设施与行业解决方案展开深度合作。Vidu 全系列模型已入驻腾讯云 TokenHub，上线 Vidu Q4 Preview、Q3 Pro 及 Vidu S2 等模型，其中 Q4 Preview 支持最高 4K 输出、最多 15 张参考图与 3 段参考音频。",
+      "category": "industry",
+      "score": 41,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/wygbthk0xrrq7ekjpe9vyubio"
+        "canonical": "https://aihot.news/items/vesb7rfy5y8pycu7ew6x1ehfv"
       },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
       "relevanceScore": 11,
-      "editorialScore": 15,
+      "editorialScore": 14,
       "tags": [
-        "ui",
-        "界面",
-        "agent",
-        "智能体"
+        "视频生成",
+        "视频"
       ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "x1rn3gk9jcmax8fsosufx0j9q",
@@ -236,34 +318,6 @@
         "设计"
       ],
       "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
-      "id": "yce5u508ngm44a4023segt5k7",
-      "title": "Artificial Analysis 发布 AA-Video-I2V v2.1 图像生视频评测基准",
-      "title_en": "We are launching AA-Video-I2V v2.1 and AA-Video-I2V-Silent v2.1, our new benchmark for evaluating image to video models. It judges every ...",
-      "url": "https://x.com/ArtificialAnlys/status/2115483562921304316",
-      "permalink": "https://aihot.news/items/yce5u508ngm44a4023segt5k7",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "publishedAt": "2026-10-28T16:39:19.000Z",
-      "discoveredAt": "2026-10-28T17:08:42.853Z",
-      "summary": "Artificial Analysis 发布 AA-Video-I2V v2.1 与 AA-Video-I2V-Silent v2.1 图像生视频评测基准，在 1080p 下按 10 类用例、10 项能力和多种视觉风格对模型排名。",
-      "category": "ai-models",
-      "score": 53,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/yce5u508ngm44a4023segt5k7"
-      },
-      "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 11,
-      "editorialScore": 14,
-      "tags": [
-        "视觉",
-        "视频",
-        "图像"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
       "id": "sg7oqf5pudqg5l6jmfniaswl1",
@@ -350,34 +404,6 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "l24wmspn9ll83aiyuyzxkc2d6",
-      "title": "Meta Andromeda：模型与系统协同设计驱动下一代广告检索",
-      "title_en": "Meta Andromeda: Powering the Next Generation of Ads Retrieval Through Model-System Co-Design",
-      "url": "https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design/",
-      "permalink": "https://aihot.news/items/l24wmspn9ll83aiyuyzxkc2d6",
-      "source": "Meta Engineering Blog（RSS）",
-      "publishedAt": "2026-10-28T16:00:01.000Z",
-      "discoveredAt": "2026-10-28T16:47:29.013Z",
-      "summary": "Meta 公布下一代个性化广告检索系统 Meta Andromeda，单块 GH200 GPU 上模型推理吞吐超过每秒 100 亿条广告，相比 2024 版系统提升 100 倍。新架构引入受 LLM 启发的 MoE，推理 FLOPs 比 2024 版检索模型少约 300 倍，性能接近排序阶段水平。自 2025 年以来，该系统在 Facebook 上带来 2.4% 的转化提升。",
-      "category": "tip",
-      "score": 48,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/l24wmspn9ll83aiyuyzxkc2d6"
-      },
-      "sourceType": "网站",
-      "designCategory": "产品与体验",
-      "relevanceScore": 9,
-      "editorialScore": 13,
-      "tags": [
-        "design",
-        "设计",
-        "广告"
-      ],
-      "whyItMatters": "与产品体验、交互判断和界面设计相关"
-    },
-    {
       "id": "zfbmci7l2ng1wadcu7noeg1ja",
       "title": "Meta 详解 Catching JiTTests 全量部署：LLM 生成测试在代码合入前捕获 bug",
       "title_en": "Catching Bugs Before They Land: JiTTesting’s Human-on-the-Loop Approach at Full Scale",
@@ -431,33 +457,6 @@
         "automation"
       ],
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "zifluc07ejp2rmy2khpmc8eao",
-      "title": "Addy Osmani 谈 Anthropic 团队取消编程面试：饥饿胜过资历",
-      "title_en": "\"Hunger beats tenure.\"",
-      "url": "https://x.com/addyosmani/status/2115480412151762979",
-      "permalink": "https://aihot.news/items/zifluc07ejp2rmy2khpmc8eao",
-      "source": "X：Addy Osmani (@addyosmani)",
-      "publishedAt": "2026-10-28T16:26:48.000Z",
-      "discoveredAt": "2026-10-28T16:43:31.449Z",
-      "summary": "Addy Osmani 引用 Felix Rieseberg 关于 Anthropic 团队取消编程面试的文章，称其原因是新工程师的表现正在超过更强的资深工程师。作者认为执行已不再昂贵，公司内部的信号是选一个能推动业务的想法并做出原型，外部则靠一小组原型的作品集；他还提到 Claude Code Desktop 最初是两位新工程师的周末原型。",
-      "category": "opinion",
-      "score": 60,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/zifluc07ejp2rmy2khpmc8eao"
-      },
-      "sourceType": "X",
-      "designCategory": "设计工具",
-      "relevanceScore": 7,
-      "editorialScore": 12,
-      "tags": [
-        "原型",
-        "claude code"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
     },
     {
       "id": "gs3r6nuelfdbp38im4iil5zq5",
@@ -591,33 +590,6 @@
       "editorialScore": 11,
       "tags": [
         "adobe"
-      ],
-      "whyItMatters": "直接影响设计工具链与交付方式"
-    },
-    {
-      "id": "yn795rx8ysxbebs2q1lzmq43c",
-      "title": "Databricks 谈语音智能体：用上下文让语音客服产生真实客户价值",
-      "title_en": "Voice Agents are here. Context turns them into real customer value.",
-      "url": "https://www.databricks.com/blog/voice-agents-are-here-context-turns-them-real-customer-value",
-      "permalink": "https://aihot.news/items/yn795rx8ysxbebs2q1lzmq43c",
-      "source": "Databricks：Blog（RSS）",
-      "publishedAt": "2026-10-28T18:00:00.000Z",
-      "discoveredAt": "2026-10-28T18:48:20.473Z",
-      "summary": "Databricks 发文阐述语音智能体落地关键在于上下文而非语音本身，其原型用 LiveKit 承载通话、Deepgram 做语音转文字与默认音色、ElevenLabs 提供表现力音色，大脑部分由 Databricks 提供。",
-      "category": "ai-products",
-      "score": 40,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/yn795rx8ysxbebs2q1lzmq43c"
-      },
-      "sourceType": "网站",
-      "designCategory": "设计工具",
-      "relevanceScore": 6,
-      "editorialScore": 11,
-      "tags": [
-        "原型",
-        "智能体"
       ],
       "whyItMatters": "直接影响设计工具链与交付方式"
     },
@@ -814,29 +786,56 @@
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
     {
-      "id": "nxkr3qtuf0bmqigntjkhrfdno",
-      "title": "善邻集团与 Preferred Networks 达成业务资本合作，融合地理空间信息与 AI",
-      "title_en": "ゼンリングループとPreferred Networksが業務資本提携 「現実世界の変化」を捉える地理空間情報とAIを融合",
-      "url": "https://www.preferred.jp/ja/news/pr20261029",
-      "permalink": "https://aihot.news/items/nxkr3qtuf0bmqigntjkhrfdno",
-      "source": "Preferred Networks：AI 研究与产品",
-      "publishedAt": "2026-10-28T16:00:00.000Z",
-      "discoveredAt": "2026-10-29T04:39:39.718Z",
-      "summary": "善邻、善邻数据通信与 Preferred Networks（PFN）签署业务资本合作契约，善邻方面将认购 PFN 的第三方定向增发。三方将把带时间轴的高精度地理空间信息与 PFN 的生成 AI、物理 AI、图像与 3D 空间识别技术结合，开发理解与推理地理空间信息的 AI 模型。初期重点面向公共、不动产、零售流通领域，探索区域变化与设施需求预测、选址及城市规划和防灾模拟等场景。",
-      "category": "industry",
-      "score": 44,
+      "id": "i6hwd7slpyim24i9uw0hbygqr",
+      "title": "PixVerse 上线可灵 4.0",
+      "title_en": "Try Kling 4.0 at Pixverse:",
+      "url": "https://x.com/PixVerse/status/2116123029046755799",
+      "permalink": "https://aihot.news/items/i6hwd7slpyim24i9uw0hbygqr",
+      "source": "X：PixVerse (@PixVerse)",
+      "publishedAt": "2026-10-30T11:00:20.000Z",
+      "discoveredAt": "2026-10-30T11:27:24.099Z",
+      "summary": "在 Pixverse 上试用可灵 4.0：\n https://app.pixverse.ai/?utm_source=Social&utm_medium=X",
+      "category": "ai-products",
+      "score": 29,
       "selected": false,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/nxkr3qtuf0bmqigntjkhrfdno"
+        "canonical": "https://aihot.news/items/i6hwd7slpyim24i9uw0hbygqr"
       },
-      "sourceType": "网站",
+      "sourceType": "X",
       "designCategory": "图像与视频",
-      "relevanceScore": 7,
-      "editorialScore": 10,
+      "relevanceScore": 6,
+      "editorialScore": 9,
       "tags": [
-        "图像",
-        "3d"
+        "可灵"
+      ],
+      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
+    },
+    {
+      "id": "f9n22uexa9rea7zs2tky4gvd2",
+      "title": "Kling 4.0 API 面向全球开放，走进影视、广告、游戏与具身智能生产现场",
+      "title_en": "影视短漫、广告设计、游戏与具身智能：Kling 4.0 API 走进多行业生产现场",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5NTkwNDU2OA%3D%3D&mid=2247497315&idx=1&sn=90392f8aafa9de979e9debc49e86cb9b",
+      "permalink": "https://aihot.news/items/f9n22uexa9rea7zs2tky4gvd2",
+      "source": "公众号：可灵AI（快手·视频）",
+      "publishedAt": "2026-10-30T10:34:40.000Z",
+      "discoveredAt": "2026-10-30T10:41:47.679Z",
+      "summary": "可灵AI 于 10 月 28 日正式面向全球企业客户与开发者开放 Kling 4.0 API，此前 Kling 4.0 已于 10 月 15 日上线。",
+      "category": "industry",
+      "score": 56,
+      "selected": false,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/f9n22uexa9rea7zs2tky4gvd2"
+      },
+      "sourceType": "公众号",
+      "designCategory": "图像与视频",
+      "relevanceScore": 6,
+      "editorialScore": 9,
+      "tags": [
+        "可灵",
+        "设计",
+        "广告"
       ],
       "whyItMatters": "可用于视觉探索、素材生产或动态内容"
     },
@@ -937,32 +936,6 @@
         "canonical": "https://aihot.news/items/os78kn9m267wc88vl8se8y2pp"
       },
       "sourceType": "X",
-      "designCategory": "图像与视频",
-      "relevanceScore": 6,
-      "editorialScore": 9,
-      "tags": [
-        "可灵"
-      ],
-      "whyItMatters": "可用于视觉探索、素材生产或动态内容"
-    },
-    {
-      "id": "opnc1cklb36fwmn9bp2i0d8b4",
-      "title": "可灵AI 开放 Kling 4.0 API，多家创作平台接入使用",
-      "title_en": "不止是模型升级：Kling 4.0 API ，帮更多平台长出新能力",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzU5NTkwNDU2OA%3D%3D&mid=2247497304&idx=1&sn=ab79528b22dc06737021dd9d5628fc0a",
-      "permalink": "https://aihot.news/items/opnc1cklb36fwmn9bp2i0d8b4",
-      "source": "公众号：可灵AI（快手·视频）",
-      "publishedAt": "2026-10-29T11:40:19.000Z",
-      "discoveredAt": "2026-10-29T11:44:52.395Z",
-      "summary": "可灵AI 于10月28日正式向全球企业客户与开发者开放 Kling 4.0 API，此前 Kling 4.0 已于10月15日全面上线。",
-      "category": "ai-products",
-      "score": 51,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/opnc1cklb36fwmn9bp2i0d8b4"
-      },
-      "sourceType": "公众号",
       "designCategory": "图像与视频",
       "relevanceScore": 6,
       "editorialScore": 9,
@@ -1135,34 +1108,6 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "ehl7p8usav1dtd6mjx0lgluxo",
-      "title": "MiniMax 开源 MCode Stack：15 个编码团队日常使用的 Agent 技能",
-      "title_en": "MiniMax Open-Sources MCode Stack: 15 Agent Skills Its Coding Team Uses Daily",
-      "url": "https://www.marktechpost.com/2026/10/28/minimax-open-sources-mcode-stack-agent-skills/",
-      "permalink": "https://aihot.news/items/ehl7p8usav1dtd6mjx0lgluxo",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-10-28T17:20:29.000Z",
-      "discoveredAt": "2026-10-28T18:15:21.950Z",
-      "summary": "MiniMax 于 2026 年 10 月 28 日以 MIT 许可开源 MCode Stack，共 2 套栈、17 个 SKILL.md 技能（15 个来自 Ronny、2 个来自 Jiachen）和 5 份清单，是 MiniMax Code 团队日常构建所用的实际工作流。",
-      "category": "ai-products",
-      "score": 67,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ehl7p8usav1dtd6mjx0lgluxo"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 8,
-      "editorialScore": 9,
-      "tags": [
-        "工作流",
-        "agent",
-        "skill"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
       "id": "lnlic19kj4v0cnxxl4fi9l5hn",
       "title": "Infini-AI-Lab 开源 Hermit harness 适配器框架，可不动模型和 harness 适配 Codex、Claude Code 等智能体",
       "title_en": "Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI Agents",
@@ -1301,59 +1246,30 @@
       "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
     },
     {
-      "id": "q5d7uqnj2d49ef18b981bh0ce",
-      "title": "Google 开放 Android 开发环境给第三方 AI 智能体，发布新 Gemini API 和 XREAL AURA 眼镜",
-      "title_en": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
-      "url": "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/",
-      "permalink": "https://aihot.news/items/q5d7uqnj2d49ef18b981bh0ce",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-10-28T16:59:59.000Z",
-      "discoveredAt": "2026-10-28T17:21:41.637Z",
-      "summary": "Google 在 Android Dev Summit 上宣布 Android Studio Rabbit 2 推出 Bring Your Own Agent 功能，开发者可通过开放 Agent Client Protocol 在 IDE 中安装并同时运行 Claude Agent、OpenAI Codex 和 Google Antigravity 等 40 多个编码智能体。",
-      "category": "ai-products",
-      "score": 67,
-      "selected": false,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/q5d7uqnj2d49ef18b981bh0ce"
-      },
-      "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
-      "relevanceScore": 6,
-      "editorialScore": 7,
-      "tags": [
-        "codex",
-        "agent",
-        "智能体"
-      ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
-    },
-    {
-      "id": "ja57b43t7h52wid2g4zu6vw2t",
-      "title": "a16z 调研 100 位 CISO：AI 如何改写 2027 年安全议程",
-      "title_en": "The New Security Agenda",
-      "url": "https://www.a16z.news/p/the-new-security-agenda",
-      "permalink": "https://aihot.news/items/ja57b43t7h52wid2g4zu6vw2t",
-      "source": "a16z：News（RSS）",
-      "publishedAt": "2026-10-28T16:00:31.000Z",
-      "discoveredAt": "2026-10-28T16:33:36.547Z",
-      "summary": "a16z 发布对 100 名千人员以上企业 CISO 的调研，87% 预期 2027 年安全支出增长，主要受 AI 威胁和自身 AI 部署扩大攻击面驱动。2027 年最受关注的七项安全举措全部与 AI 相关，其中 SOC 自动化获最多首选票，内部 AI agent 安全、SOC 自动化和进攻性安全升幅最大，但 AI SOC 工具生产环境使用率仅 18%。",
-      "category": "opinion",
-      "score": 60,
+      "id": "puushryi79v0flh2um3a70xnw",
+      "title": "Google 市值蒸发 5000 亿美元，AI 概要冲击搜索广告引发华尔街担忧",
+      "title_en": "Google value plunges by $500B as AI fears rattle Wall Street",
+      "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+      "permalink": "https://aihot.news/items/puushryi79v0flh2um3a70xnw",
+      "source": "Hacker News：AI 热帖",
+      "publishedAt": "2026-10-29T21:29:51.580Z",
+      "discoveredAt": "2026-10-30T05:56:17.136Z",
+      "summary": "Alphabet 因 AI 搜索概要影响广告收入，单日市值从 3.97 万亿跌至 3.46 万亿美元，缩水超 5000 亿美元。该季度总营收增 25% 至 1276 亿美元，云业务营收增 103% 至近 310 亿美元，但利润下降 25%，自由现金流为负超 90 亿美元。",
+      "category": "industry",
+      "score": 80,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ja57b43t7h52wid2g4zu6vw2t"
+        "canonical": "https://aihot.news/items/puushryi79v0flh2um3a70xnw"
       },
       "sourceType": "网站",
-      "designCategory": "工作流与 Agent",
+      "designCategory": "行业观察",
       "relevanceScore": 6,
-      "editorialScore": 7,
+      "editorialScore": 6,
       "tags": [
-        "自动化",
-        "agent"
+        "广告"
       ],
-      "whyItMatters": "可能改变需求分析、设计审查或自动化流程"
+      "whyItMatters": "值得关注其对设计业务与创意行业的影响"
     },
     {
       "id": "op2kjf327vilvhbxkjicxg5ec",
